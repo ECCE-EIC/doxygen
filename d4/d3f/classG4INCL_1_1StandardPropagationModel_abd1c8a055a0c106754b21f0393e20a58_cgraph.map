@@ -1,0 +1,51 @@
+<map id="G4INCL::StandardPropagationModel::shootComposite" name="G4INCL::StandardPropagationModel::shootComposite">
+<area shape="rect" id="node2" href="$d5/dd3/classG4INCL_1_1Store.html#a18bba482105a7d71c35978c5d6b2e5fa" title="Add one ParticleEntry avatar." alt="" coords="291,65,491,109"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#a13170ba364ab3bdaab395ba37a98fad3" title="G4INCL::Particle::boostVector" alt="" coords="281,133,501,161"/>
+<area shape="rect" id="node8" href="$d2/d8b/namespaceG4INCL_1_1CoulombDistortion.html#ad43917c296f1bda4dc2bd3ed0c28e7fc" title="Modify the momentum of an incoming particle and position it on the surface of the nucleus..." alt="" coords="289,185,494,229"/>
+<area shape="rect" id="node9" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a797718f0232dc35b3a5c325da15a81f6" title="(Re)Generate all possible avatars." alt="" coords="281,461,502,505"/>
+<area shape="rect" id="node13" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="1192,304,1392,332"/>
+<area shape="rect" id="node15" href="$d7/db0/classG4INCL_1_1Nucleus.html#a80055cc5d8cb317edec8679c4cc86645" title="Getter for theUniverseRadius." alt="" coords="1459,965,1683,1009"/>
+<area shape="rect" id="node16" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="1192,825,1392,853"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1188,1016,1396,1044"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1173,919,1411,947"/>
+<area shape="rect" id="node30" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="306,1229,477,1257"/>
+<area shape="rect" id="node31" href="$d0/d7f/classG4INCL_1_1Cluster.html#a47b2d551fd1804fce50db915d39d0c9a" title="Get the total angular momentum (orbital + spin)" alt="" coords="285,1281,497,1325"/>
+<area shape="rect" id="node34" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a505e19c01eb1e7e402f0bb3cab22c7e5" title="G4INCL::ParticleTable\l::getLargestNuclearRadius" alt="" coords="291,1349,491,1393"/>
+<area shape="rect" id="node37" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="307,1417,476,1445"/>
+<area shape="rect" id="node38" href="$dd/d83/classG4INCL_1_1Particle.html#a756d9a0aca8e977a92ef39c6ad9e1236" title="Transverse component of the position w.r.t. the momentum." alt="" coords="275,1469,508,1513"/>
+<area shape="rect" id="node40" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="306,1537,477,1565"/>
+<area shape="rect" id="node41" href="$d2/d8b/namespaceG4INCL_1_1CoulombDistortion.html#addacd8915bf5cc775918827c8dc2e7f4" title="Return the maximum impact parameter for Coulomb&#45;distorted trajectories." alt="" coords="289,1589,494,1633"/>
+<area shape="rect" id="node42" href="$d7/db0/classG4INCL_1_1Nucleus.html#a29b6c33f21c93a3029c9b9a2b5b3771b" title="Set the incoming angular&#45;momentum vector." alt="" coords="279,1657,504,1701"/>
+<area shape="rect" id="node43" href="$d7/db0/classG4INCL_1_1Nucleus.html#a8abfa76794c0a730599fe6f60193aece" title="Set the incoming momentum vector." alt="" coords="279,1725,504,1769"/>
+<area shape="rect" id="node44" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2d35c9a3b347aced4bf09ef31f4d0ff1" title="Set the initial energy." alt="" coords="291,1793,491,1837"/>
+<area shape="rect" id="node45" href="$d7/db0/classG4INCL_1_1Nucleus.html#ac9af32ec12bf568923f44c37de14997d" title="Set a nucleus&#45;nucleus collision." alt="" coords="283,1861,500,1905"/>
+<area shape="rect" id="node46" href="$d0/d7f/classG4INCL_1_1Cluster.html#a9c4bdfea684977797d007c2ceca7fd86" title="Set the position of the cluster." alt="" coords="287,1929,496,1957"/>
+<area shape="rect" id="node48" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad52db7639b17ec3613c1a9b39a2aabfc" title="Set the projectile remnant." alt="" coords="279,1981,504,2025"/>
+<area shape="rect" id="node49" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a7d1569d11610b7f4826ad19a584b7e4d" title="Store the projectile components." alt="" coords="290,2049,493,2093"/>
+<area shape="rect" id="node3" href="$d5/dd3/classG4INCL_1_1Store.html#adb02d0b1ead8cdfb44862e58f813f6c4" title="Add one ParticleEntry avatar." alt="" coords="578,65,778,109"/>
+<area shape="rect" id="node4" href="$dd/d90/classG4INCL_1_1IAvatar.html#a45d9d0aaa9926c02ee678fa60def8db1" title="G4INCL::IAvatar::getParticles" alt="" coords="879,73,1094,101"/>
+<area shape="rect" id="node5" href="$d5/dd3/classG4INCL_1_1Store.html#a4802aead9384bfd86e78eb34a508ce9a" title="G4INCL::Store::addIncoming\lParticle" alt="" coords="881,125,1093,169"/>
+<area shape="rect" id="node6" href="$d5/dd3/classG4INCL_1_1Store.html#ae338b2f2dcaaf1d582bc102dffa2ddd1" title="Connect an avatar to a particle." alt="" coords="875,5,1098,49"/>
+<area shape="rect" id="node10" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="567,432,789,476"/>
+<area shape="rect" id="node17" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a4944f2d692d6f826da9f50b00a2c7fc3" title="G4INCL::StandardPropagation\lModel::registerAvatar" alt="" coords="876,325,1097,369"/>
+<area shape="rect" id="node18" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ad4f6f8b9956a6de6ed7681d10fa95188" title="Generate decays for particles that can decay." alt="" coords="567,872,789,916"/>
+<area shape="rect" id="node24" href="$d5/dd3/classG4INCL_1_1Store.html#ae298a882442b2fbe114517fcdca767ef" title="G4INCL::Store::getParticles" alt="" coords="577,380,779,408"/>
+<area shape="rect" id="node25" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a08ff6561de3f296069d757bea40a81a0" title="Get the reflection time." alt="" coords="567,581,789,625"/>
+<area shape="rect" id="node29" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="909,461,1064,505"/>
+<area shape="rect" id="node11" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="848,393,1125,437"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#a5575330878a28b978dc2b40df39cc6f9" title="G4INCL::Particle::getPosition" alt="" coords="1185,465,1399,493"/>
+<area shape="rect" id="node14" href="$d7/db0/classG4INCL_1_1Nucleus.html#a43c35b08fb380b14df18ad209bb4a59c" title="Get the maximum allowed radius for a given particle." alt="" coords="1184,757,1400,801"/>
+<area shape="rect" id="node19" href="$de/d02/classG4INCL_1_1DeltaDecayChannel.html#a70529d1d3764e517a72df32449d73ad4" title="G4INCL::DeltaDecayChannel\l::computeDecayTime" alt="" coords="880,1008,1093,1052"/>
+<area shape="rect" id="node21" href="$da/d1d/classG4INCL_1_1SigmaZeroDecayChannel.html#a8cb188ae821d7b59fec9e3536c55eae8" title="G4INCL::SigmaZeroDecayChannel\l::computeDecayTime" alt="" coords="861,872,1112,916"/>
+<area shape="rect" id="node23" href="$dc/d52/classG4INCL_1_1PionResonanceDecayChannel.html#a9c2f865b75f13af4b8f6c39ecad38be5" title="G4INCL::PionResonanceDecay\lChannel::computeDecayTime" alt="" coords="875,940,1099,984"/>
+<area shape="rect" id="node26" href="$d0/dd4/namespaceG4INCL_1_1IntersectionFactory.html#a41d8fdfa290090835cd251a3aa50bfa4" title="Compute the second intersection of a straight particle trajectory with a sphere." alt="" coords="870,581,1103,625"/>
+<area shape="rect" id="node27" href="$dd/d83/classG4INCL_1_1Particle.html#aa648291e8687c934cb35d756b468ab11" title="Get the propagation velocity of the particle." alt="" coords="866,649,1107,693"/>
+<area shape="rect" id="node28" href="$dd/d83/classG4INCL_1_1Particle.html#a7b8ff5b6d05059e45730c1ce83d6a862" title="G4INCL::Particle::print" alt="" coords="901,717,1072,745"/>
+<area shape="rect" id="node32" href="$dd/d83/classG4INCL_1_1Particle.html#a24b3eb452e65c350e4bf89ab3cfaa2c2" title="G4INCL::Particle::getAngular\lMomentum" alt="" coords="571,1229,785,1273"/>
+<area shape="rect" id="node33" href="$d0/d7f/classG4INCL_1_1Cluster.html#aca30edc93c2b07b78ed340bd2964198c" title="Get the spin of the nucleus." alt="" coords="584,1297,772,1325"/>
+<area shape="rect" id="node35" href="$d1/dbe/namespaceG4INCL_1_1Math.html#a053a361bf37b11d9d1b3eba566dac26f" title="brief Return the largest of the two arguments" alt="" coords="602,1349,754,1377"/>
+<area shape="rect" id="node36" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aef86c3410e38c769321d2da25d6edc66" title="G4INCL::ParticleTable\l::getNuclearRadius" alt="" coords="596,1401,760,1445"/>
+<area shape="rect" id="node39" href="$dd/d83/classG4INCL_1_1Particle.html#a3545e1e2fd21a365d6f95c244531353d" title="Longitudinal component of the position w.r.t. the momentum." alt="" coords="556,1469,800,1513"/>
+<area shape="rect" id="node47" href="$dd/d83/classG4INCL_1_1Particle.html#ad0aa7a6f9237b77d46b03f24b468f91b" title="G4INCL::Particle::setPosition" alt="" coords="573,1929,783,1957"/>
+<area shape="rect" id="node50" href="$dd/d83/classG4INCL_1_1Particle.html#ad34a357c884099bd0938619e9fa3d3e6" title="G4INCL::Particle::Particle" alt="" coords="584,2057,772,2085"/>
+</map>

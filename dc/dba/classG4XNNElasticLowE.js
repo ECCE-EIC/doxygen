@@ -1,0 +1,25 @@
+var classG4XNNElasticLowE =
+[
+    [ "G4XNNElasticLowE", "dc/dba/classG4XNNElasticLowE.html#ae612b40b0fe28fcb7f088200c24309ee", null ],
+    [ "~G4XNNElasticLowE", "dc/dba/classG4XNNElasticLowE.html#a61ec23493f0e5cf3ed888695dc3e2fc5", null ],
+    [ "G4XNNElasticLowE", "dc/dba/classG4XNNElasticLowE.html#a23ab75a37107f8912b01a098d61b1dcc", null ],
+    [ "CrossSection", "dc/dba/classG4XNNElasticLowE.html#a961e6dacbe304dd65fa793bf44c7350b", null ],
+    [ "GetComponents", "dc/dba/classG4XNNElasticLowE.html#ae3f2e7584499310d3b344621e09b74aa", null ],
+    [ "HighLimit", "dc/dba/classG4XNNElasticLowE.html#a02140d3f70223109679bf3f1d80dbe18", null ],
+    [ "IsValid", "dc/dba/classG4XNNElasticLowE.html#a62ff16610d91959b12c1b5153d17335f", null ],
+    [ "Name", "dc/dba/classG4XNNElasticLowE.html#a02a9d0806b0e36fb48dc544c1c98168a", null ],
+    [ "operator!=", "dc/dba/classG4XNNElasticLowE.html#a7fff63417bb2b8dd39f41a72107fb0eb", null ],
+    [ "operator=", "dc/dba/classG4XNNElasticLowE.html#a68bab777e4bb8be6b46fe5e2d2a2ce14", null ],
+    [ "operator==", "dc/dba/classG4XNNElasticLowE.html#a23f83de074195f0a6405dd41174c50f8", null ],
+    [ "Print", "dc/dba/classG4XNNElasticLowE.html#a4e7dd9739c8a1d92bfd6768c12de794e", null ],
+    [ "_eMax", "dc/dba/classG4XNNElasticLowE.html#a0a0acf802549ac1417764b150431048b", null ],
+    [ "_eMin", "dc/dba/classG4XNNElasticLowE.html#a9de347b3521c12273ce0eab20f677687", null ],
+    [ "_eMinTable", "dc/dba/classG4XNNElasticLowE.html#a39bd872b220256c6541ade00b1817b24", null ],
+    [ "_eStepLog", "dc/dba/classG4XNNElasticLowE.html#a2209d9a37b43e8976a1c86cf74e9fa07", null ],
+    [ "_highLimit", "dc/dba/classG4XNNElasticLowE.html#a3990944929e1c75f1a7f43006310a402", null ],
+    [ "_lowLimit", "dc/dba/classG4XNNElasticLowE.html#a0a5c4a9da2854934247193d1071f3485", null ],
+    [ "npTable", "dc/dba/classG4XNNElasticLowE.html#a93257cb9161830760537db8caccd9a25", null ],
+    [ "ppTable", "dc/dba/classG4XNNElasticLowE.html#a2eba362748c2cdc3643085f0674b83af", null ],
+    [ "tableSize", "dc/dba/classG4XNNElasticLowE.html#aed70cebc10553e3c40dfb23fbc63c6d4", null ],
+    [ "xMap", "dc/dba/classG4XNNElasticLowE.html#a252e275ef8293abd626bba21164f07a3", null ]
+];

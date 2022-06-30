@@ -1,0 +1,26 @@
+<map id="ExN02DetectorMessenger::SetNewValue" name="ExN02DetectorMessenger::SetNewValue">
+<area shape="rect" id="node2" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#a53ff5432b9e7a1f42f80a995a4117561" title="G4UIcmdWithADoubleAndUnit\l::GetNewDoubleValue" alt="" coords="251,84,477,128"/>
+<area shape="rect" id="node17" href="$de/d24/classExN02DetectorConstruction.html#a488555bfd9f19cceb20c6a0ea6b07fec" title="ExN02DetectorConstruction\l::setChamberMaterial" alt="" coords="259,220,469,264"/>
+<area shape="rect" id="node21" href="$de/d24/classExN02DetectorConstruction.html#a2d36ad678082cbf65c62807ef78884aa" title="ExN02DetectorConstruction\l::SetMagField" alt="" coords="259,288,469,332"/>
+<area shape="rect" id="node23" href="$de/d24/classExN02DetectorConstruction.html#a24bd8b03944bf8d6c0144f552ec9705a" title="ExN02DetectorConstruction\l::SetMaxStep" alt="" coords="259,356,469,400"/>
+<area shape="rect" id="node25" href="$de/d24/classExN02DetectorConstruction.html#a51f7d0429799390b02a4f71aed40b82a" title="ExN02DetectorConstruction\l::setTargetMaterial" alt="" coords="259,152,469,196"/>
+<area shape="rect" id="node3" href="$d2/dd2/classG4UIcommand.html#ad91bf90bebe978537d8915e811b9bb08" title="G4UIcommand::ConvertToDimensioned\lDouble" alt="" coords="525,84,812,128"/>
+<area shape="rect" id="node4" href="$d2/dd2/classG4UIcommand.html#a3ae72a3c4295c3a683cdd176767f0a72" title="G4UIcommand::ValueOf" alt="" coords="860,92,1045,120"/>
+<area shape="rect" id="node5" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="1093,92,1313,120"/>
+<area shape="rect" id="node6" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="1361,84,1563,128"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2171,5,2277,33"/>
+<area shape="rect" id="node12" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1421,215,1503,243"/>
+<area shape="rect" id="node7" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1613,53,1825,97"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="2113,117,2335,145"/>
+<area shape="rect" id="node8" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1875,53,2065,97"/>
+<area shape="rect" id="node11" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="2121,61,2327,89"/>
+<area shape="rect" id="node13" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1611,173,1827,217"/>
+<area shape="rect" id="node14" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1613,241,1825,285"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1613,309,1824,353"/>
+<area shape="rect" id="node16" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1886,309,2054,353"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="577,224,760,252"/>
+<area shape="rect" id="node20" href="$da/dc4/classG4LogicalVolume.html#ad8132461b92214e7b20187b1c2e95d56" title="G4LogicalVolume::SetMaterial" alt="" coords="557,168,781,196"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="869,224,1037,252"/>
+<area shape="rect" id="node22" href="$dc/d3f/classExN02MagneticField.html#a93a529104a3d20ce3f8440799993edf1" title="ExN02MagneticField\l::SetMagFieldValue" alt="" coords="590,288,747,332"/>
+<area shape="rect" id="node24" href="$d9/d11/classG4UserLimits.html#ab09dd3fc89c5d519afb7789ea8b80346" title="G4UserLimits::SetMaxAllowedStep" alt="" coords="541,364,796,392"/>
+</map>

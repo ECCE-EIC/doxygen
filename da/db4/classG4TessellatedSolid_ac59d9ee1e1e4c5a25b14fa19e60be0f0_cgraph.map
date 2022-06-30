@@ -1,0 +1,28 @@
+<map id="G4TessellatedSolid::Inside" name="G4TessellatedSolid::Inside">
+<area shape="rect" id="node2" href="$da/d11/classG4Voxelizer.html#abadcb327146dfdbe05238079975153b3" title="G4Voxelizer::GetCountOfVoxels" alt="" coords="201,253,435,281"/>
+<area shape="rect" id="node3" href="$da/db4/classG4TessellatedSolid.html#a2596a07acf01c9324511ea7cecb4e6b6" title="G4TessellatedSolid\l::InsideNoVoxels" alt="" coords="244,305,392,349"/>
+<area shape="rect" id="node17" href="$da/db4/classG4TessellatedSolid.html#a350024e9dd7538bdcdb754917816f497" title="G4TessellatedSolid\l::InsideVoxels" alt="" coords="244,659,392,703"/>
+<area shape="rect" id="node4" href="$da/db4/classG4TessellatedSolid.html#ae41ab20a929f66df94128715c7b1e11e" title="G4TessellatedSolid\l::OutsideOfExtent" alt="" coords="516,495,664,539"/>
+<area shape="rect" id="node5" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="769,555,938,583"/>
+<area shape="rect" id="node6" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="769,451,938,479"/>
+<area shape="rect" id="node7" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="769,503,937,531"/>
+<area shape="rect" id="node8" href="$d4/d28/classG4VFacet.html#aea636f737d273416c15fa7fd9b9a0910" title="G4VFacet::Distance" alt="" coords="513,339,667,367"/>
+<area shape="rect" id="node9" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3b24b40b735f0f3fd9ff2bf60c3046d4" title="CLHEP::Hep3Vector::dot" alt="" coords="498,391,682,419"/>
+<area shape="rect" id="node10" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="549,81,631,109"/>
+<area shape="rect" id="node15" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="512,443,668,471"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="537,287,643,315"/>
+<area shape="rect" id="node11" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="745,141,961,185"/>
+<area shape="rect" id="node12" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="747,5,959,49"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="748,73,959,117"/>
+<area shape="rect" id="node14" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1009,73,1177,117"/>
+<area shape="rect" id="node18" href="$da/d11/classG4Voxelizer.html#a7a1b7b38ab754ea6eaf3f74b3afeded3" title="G4Voxelizer::GetVoxel" alt="" coords="505,1044,675,1072"/>
+<area shape="rect" id="node19" href="$da/d11/classG4Voxelizer.html#ac7f3bf1bfd37118c97d65270574bdb11" title="G4Voxelizer::GetCandidates" alt="" coords="485,1096,695,1124"/>
+<area shape="rect" id="node20" href="$d5/d5c/classG4SurfBits.html#add78f41f3aa9ac245f33adc044731e81" title="G4SurfBits::GetNbits" alt="" coords="509,1148,671,1176"/>
+<area shape="rect" id="node21" href="$da/d11/classG4Voxelizer.html#a2cfa735b23bf38178dc8114f6e861817" title="G4Voxelizer::GetPointIndex" alt="" coords="487,563,693,591"/>
+<area shape="rect" id="node22" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="496,615,684,643"/>
+<area shape="rect" id="node23" href="$d4/d28/classG4VFacet.html#afd5c32d174e57d66e6d86c28d3fb3302" title="G4VFacet::Intersect" alt="" coords="513,667,667,695"/>
+<area shape="rect" id="node24" href="$da/d11/classG4Voxelizer.html#a139681ec3c6d92ea0ce4cdb988856cb7" title="G4Voxelizer::GetVoxelsIndex" alt="" coords="483,719,697,747"/>
+<area shape="rect" id="node25" href="$da/d11/classG4Voxelizer.html#a6f6a917ab0ea2d6da4326b4b58cc2deb" title="G4Voxelizer::DistanceToNext" alt="" coords="483,771,697,799"/>
+<area shape="rect" id="node26" href="$da/d11/classG4Voxelizer.html#afc95b93316d3bed2e1fc84ff21d7c1c1" title="G4Voxelizer::UpdateCurrent\lVoxel" alt="" coords="485,976,695,1020"/>
+<area shape="rect" id="node27" href="$da/d11/classG4Voxelizer.html#ad39f6181335950f7868dda665bdf7b08" title="G4Voxelizer::BinarySearch" alt="" coords="753,984,953,1012"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="G4HETCFragment::CalcEmissionProbability" name="G4HETCFragment::CalcEmissionProbability">
+<area shape="rect" id="node2" href="$d6/df3/classG4VPreCompoundFragment.html#a2c9f89123ea57427a28895fb28e7f002" title="G4VPreCompoundFragment\l::GetEnergyThreshold" alt="" coords="293,255,502,299"/>
+<area shape="rect" id="node3" href="$d2/d36/classG4HETCFragment.html#ab3cdd2cd9f08f378dddbcad780fe101c" title="G4HETCFragment::Integrate\lEmissionProbability" alt="" coords="292,323,503,367"/>
+<area shape="rect" id="node4" href="$df/d5d/classG4Fragment.html#a955c932293c02b54b5de570150f6baab" title="G4Fragment::GetExcitation\lEnergy" alt="" coords="581,5,785,49"/>
+<area shape="rect" id="node5" href="$df/d5d/classG4Fragment.html#ac362a36eaf0fd867cb3736a45a8b3837" title="G4Fragment::GetNumberOfParticles" alt="" coords="551,73,815,101"/>
+<area shape="rect" id="node6" href="$df/d5d/classG4Fragment.html#a05dd98d2d33c8485e577b849cec5517d" title="G4Fragment::GetNumberOfHoles" alt="" coords="560,125,805,153"/>
+<area shape="rect" id="node7" href="$d8/dd6/classG4NuclearLevelData.html#a10495b69be1343a236f86d834deecc59" title="G4NuclearLevelData\l::GetLevelDensity" alt="" coords="603,263,762,307"/>
+<area shape="rect" id="node12" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1772,187,1811,215"/>
+<area shape="rect" id="node20" href="$d2/d36/classG4HETCFragment.html#ac6884626558e3df6d5806d9655a4ee76" title="G4HETCFragment::GetBeta" alt="" coords="581,383,785,411"/>
+<area shape="rect" id="node21" href="$d2/d36/classG4HETCFragment.html#a1074375b0af2e5a29be4c7781f758ca7" title="G4HETCFragment::GetSpinFactor" alt="" coords="560,435,805,463"/>
+<area shape="rect" id="node22" href="$d2/d36/classG4HETCFragment.html#ab7f9fffd138c9d4d7ccf26ee0c8be7e5" title="G4HETCFragment::GetAlpha" alt="" coords="577,487,789,515"/>
+<area shape="rect" id="node23" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="632,331,733,359"/>
+<area shape="rect" id="node24" href="$d2/d36/classG4HETCFragment.html#a5965c5da1513e19ffd9792c6d9e760c3" title="G4HETCFragment::K" alt="" coords="603,539,763,567"/>
+<area shape="rect" id="node25" href="$de/d0f/classG4Pow.html#a4c49b51d1c8cab85591ee899190d073f" title="G4Pow::powN" alt="" coords="626,591,739,619"/>
+<area shape="rect" id="node8" href="$d1/d89/classG4DeexPrecoParameters.html#ae79a77fcb5da2decd29ae658602c9d2d" title="G4DeexPrecoParameters\l::GetLevelDensityFlag" alt="" coords="883,212,1073,256"/>
+<area shape="rect" id="node9" href="$d1/d89/classG4DeexPrecoParameters.html#a63cdbaa7201a0626cf38f754434a3c92" title="G4DeexPrecoParameters\l::GetLevelDensity" alt="" coords="883,280,1073,324"/>
+<area shape="rect" id="node10" href="$d8/dd6/classG4NuclearLevelData.html#aaa757c26457b575f789aa8ffcc633cb7" title="G4NuclearLevelData\l::GetLevelManager" alt="" coords="899,348,1057,392"/>
+<area shape="rect" id="node18" href="$db/dff/classG4LevelManager.html#a0fecec5b013772efd5eb6de15d9dfa3b" title="G4LevelManager::LevelDensity" alt="" coords="863,416,1093,444"/>
+<area shape="rect" id="node19" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="927,468,1029,496"/>
+<area shape="rect" id="node11" href="$d6/d60/classG4LevelReader.html#a93c79ac333e79662d02a75be87f2290f" title="G4LevelReader::CreateLevel\lManager" alt="" coords="1141,291,1353,335"/>
+<area shape="rect" id="node13" href="$d6/d60/classG4LevelReader.html#a5bb154ffce96f1cdaf4444ebbb79ab85" title="G4LevelReader::LevelManager" alt="" coords="1401,299,1629,327"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1738,239,1845,267"/>
+<area shape="rect" id="node15" href="$d1/d89/classG4DeexPrecoParameters.html#af3e0d92696663d703070a9c61b9294b1" title="G4DeexPrecoParameters\l::StoreICLevelData" alt="" coords="1697,291,1886,335"/>
+<area shape="rect" id="node16" href="$d6/d60/classG4LevelReader.html#aa2c3aad26caefc43f916ef550bb15dc5" title="G4LevelReader::ReadDataItem" alt="" coords="1677,359,1905,387"/>
+<area shape="rect" id="node17" href="$d6/d60/classG4LevelReader.html#a73c6e35bbd7fd7416a49d73f37156dac" title="G4LevelReader::Normalized\lICCProbability" alt="" coords="1687,411,1895,455"/>
+<area shape="rect" id="node26" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="923,591,1033,619"/>
+<area shape="rect" id="node27" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1159,591,1335,619"/>
+</map>

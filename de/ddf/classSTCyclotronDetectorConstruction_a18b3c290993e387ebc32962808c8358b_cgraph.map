@@ -1,0 +1,51 @@
+<map id="STCyclotronDetectorConstruction::SetFoilMaterial" name="STCyclotronDetectorConstruction::SetFoilMaterial">
+<area shape="rect" id="node2" href="$d2/d00/classG4NistManager.html#abb3a53647400f8477dfe1cae931c3e72" title="G4NistManager::FindOrBuild\lMaterial" alt="" coords="315,776,527,820"/>
+<area shape="rect" id="node46" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="1612,895,1804,923"/>
+<area shape="rect" id="node49" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="299,947,543,975"/>
+<area shape="rect" id="node50" href="$da/dc4/classG4LogicalVolume.html#ad8132461b92214e7b20187b1c2e95d56" title="G4LogicalVolume::SetMaterial" alt="" coords="309,999,533,1027"/>
+<area shape="rect" id="node3" href="$df/d8e/classG4NistMaterialBuilder.html#aa37cab6c172280b7e7f03cdf269d5436" title="G4NistMaterialBuilder\l::FindOrBuildMaterial" alt="" coords="591,724,761,768"/>
+<area shape="rect" id="node4" href="$df/d8e/classG4NistMaterialBuilder.html#a877f161dc07f5e08f52109221ae02e3b" title="G4NistMaterialBuilder\l::BuildNistMaterial" alt="" coords="809,656,980,700"/>
+<area shape="rect" id="node48" href="$df/d8e/classG4NistMaterialBuilder.html#a84be2df2dc470cbc5afd0d2a3540dac0" title="G4NistMaterialBuilder\l::FindMaterial" alt="" coords="809,724,980,768"/>
+<area shape="rect" id="node5" href="$df/d8e/classG4NistMaterialBuilder.html#ae93677008c7dadafcba78ce2ab7cba1a" title="G4NistMaterialBuilder\l::BuildMaterial" alt="" coords="1052,463,1223,507"/>
+<area shape="rect" id="node47" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="1028,697,1247,725"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a6787765bd3b0ef535161b887e7462417" title="G4Material::AddElement" alt="" coords="1323,471,1509,499"/>
+<area shape="rect" id="node17" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2285,381,2392,409"/>
+<area shape="rect" id="node18" href="$d6/d69/classG4IonisParamMat.html#aad6286164237e2f19ee8f18b5870b3a5" title="G4IonisParamMat::FindMean\lExcitationEnergy" alt="" coords="1309,620,1523,664"/>
+<area shape="rect" id="node23" href="$d9/df3/classG4NistElementBuilder.html#a48db0363cd8e894b515e17fe59b9901b" title="G4NistElementBuilder\l::FindOrBuildElement" alt="" coords="1331,261,1501,305"/>
+<area shape="rect" id="node27" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="2603,300,2671,328"/>
+<area shape="rect" id="node37" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="1333,791,1499,819"/>
+<area shape="rect" id="node38" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="1319,843,1513,871"/>
+<area shape="rect" id="node39" href="$d6/d69/classG4IonisParamMat.html#a4fefdfbba759144ef70b9923ea225a13" title="G4IonisParamMat::GetMean\lExcitationEnergy" alt="" coords="1311,141,1521,185"/>
+<area shape="rect" id="node40" href="$d5/de4/classG4Material.html#a704d1ef4c21b3648e44fe3edc4d68aa2" title="G4Material::SetChemicalFormula" alt="" coords="1295,209,1537,237"/>
+<area shape="rect" id="node41" href="$d6/d69/classG4IonisParamMat.html#ac1071d1716eb275f3327b5bbb3b7ed3f" title="G4IonisParamMat::SetMean\lExcitationEnergy" alt="" coords="1313,723,1519,767"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a2bbaa762349b9a4617cbc985fb0c3a08" title="G4Material::ComputeDerived\lQuantities" alt="" coords="1599,432,1817,476"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#ac3dead710232898aed1c79b784856028" title="G4Material::ComputeNuclear\lInterLength" alt="" coords="1910,703,2129,747"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#ac70cfa5fc8988777cd9acb1b379d6101" title="G4Material::ComputeRadiation\lLength" alt="" coords="1905,432,2134,476"/>
+<area shape="rect" id="node16" href="$d0/dbe/classG4AtomicShells.html#ae1b641e18a447a64472d179b3e07e221" title="G4AtomicShells::GetNumber\lOfFreeElectrons" alt="" coords="1911,500,2127,544"/>
+<area shape="rect" id="node9" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="2319,688,2358,716"/>
+<area shape="rect" id="node10" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="2305,740,2372,768"/>
+<area shape="rect" id="node11" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="2307,792,2371,820"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="2541,740,2733,768"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="2541,792,2733,820"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="2517,844,2757,872"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a21962dad23408515d32eaccd28b36058" title="G4Material::GetChemicalFormula" alt="" coords="1585,688,1831,716"/>
+<area shape="rect" id="node20" href="$d2/d38/classG4DensityEffectData.html#a9a67e5eefa63d9391b5c3a0b80faeba8" title="G4DensityEffectData\l::GetIndex" alt="" coords="1627,552,1789,596"/>
+<area shape="rect" id="node21" href="$d2/d38/classG4DensityEffectData.html#a1d8fe28e618a73077fa94fdcc693d3d8" title="G4DensityEffectData\l::GetMeanIonisationPotential" alt="" coords="1600,620,1816,664"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1624,740,1792,768"/>
+<area shape="rect" id="node24" href="$d9/df3/classG4NistElementBuilder.html#a200b03d48d2a95ed7a1f47c05a4b0e17" title="G4NistElementBuilder\l::BuildElement" alt="" coords="1623,141,1793,185"/>
+<area shape="rect" id="node34" href="$d9/df3/classG4NistElementBuilder.html#a59bb75f2d0640857418bfc5e722ef825" title="G4NistElementBuilder\l::FindElement" alt="" coords="1623,261,1793,305"/>
+<area shape="rect" id="node36" href="$de/d80/classG4Element.html#a94eb59b38b9a39e1970420381380ee77" title="G4Element::GetIndex" alt="" coords="1625,209,1791,237"/>
+<area shape="rect" id="node25" href="$de/d80/classG4Element.html#a56649b316db4415700214ba0c4be75b2" title="G4Element::AddIsotope" alt="" coords="1929,201,2110,229"/>
+<area shape="rect" id="node32" href="$d9/df3/classG4NistElementBuilder.html#a0226653ce08ca39b9b9a6c836743253a" title="G4NistElementBuilder\l::GetAtomicMass" alt="" coords="1934,81,2105,125"/>
+<area shape="rect" id="node33" href="$de/d80/classG4Element.html#a6c9f42e422aac2903dd145f7600d6e7d" title="G4Element::SetNaturalAbundanceFlag" alt="" coords="1879,149,2160,177"/>
+<area shape="rect" id="node26" href="$de/d80/classG4Element.html#aa7dda635d6363da9e36dd4df237340da" title="G4Element::ComputeDerived\lQuantities" alt="" coords="2229,261,2448,305"/>
+<area shape="rect" id="node28" href="$d0/dbe/classG4AtomicShells.html#aba4aaed9566cb5373f3e9bbf963e4881" title="G4AtomicShells::GetBinding\lEnergy" alt="" coords="2233,125,2445,169"/>
+<area shape="rect" id="node29" href="$d0/dbe/classG4AtomicShells.html#ab321385a604c4a0790b8dc491019d24d" title="G4AtomicShells::GetNumber\lOfElectrons" alt="" coords="2231,193,2447,237"/>
+<area shape="rect" id="node30" href="$d0/dbe/classG4AtomicShells.html#ac9ff8c0e5699b7579b57736b610e3acb" title="G4AtomicShells::GetNumber\lOfShells" alt="" coords="2231,5,2447,49"/>
+<area shape="rect" id="node31" href="$d8/d66/classG4Isotope.html#a288db701d3b8fbd9b155ac9d3b146207" title="G4Isotope::GetZ" alt="" coords="2273,73,2405,101"/>
+<area shape="rect" id="node35" href="$de/d80/classG4Element.html#a057a1bd738df9f6245f6a38701740eb0" title="G4Element::GetElementTable" alt="" coords="1909,269,2129,297"/>
+<area shape="rect" id="node42" href="$d6/d69/classG4IonisParamMat.html#a35608f674d493dd650595c67b7a30121" title="G4IonisParamMat::Compute\lFluctModel" alt="" coords="1914,844,2125,888"/>
+<area shape="rect" id="node43" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="2225,844,2453,872"/>
+<area shape="rect" id="node44" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="2226,896,2451,924"/>
+<area shape="rect" id="node45" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="2208,948,2469,976"/>
+</map>

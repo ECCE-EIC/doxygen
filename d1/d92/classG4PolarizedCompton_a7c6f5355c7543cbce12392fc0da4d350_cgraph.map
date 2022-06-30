@@ -1,0 +1,22 @@
+<map id="G4PolarizedCompton::ComputeSaturationFactor" name="G4PolarizedCompton::ComputeSaturationFactor">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#a6edae58dd4800f6c4d12d92093b4e17f" title="G4VEmProcess::CurrentMaterial\lCutsCoupleIndex" alt="" coords="257,5,493,49"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="322,73,429,101"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="267,125,484,153"/>
+<area shape="rect" id="node5" href="$db/d08/classG4PolarizationManager.html#a6f270796e6d31801a3bee612890e1347" title="G4PolarizationManager\l::GetInstance" alt="" coords="286,177,465,221"/>
+<area shape="rect" id="node7" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="297,245,454,289"/>
+<area shape="rect" id="node8" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="293,313,457,357"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="294,381,457,409"/>
+<area shape="rect" id="node10" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="284,433,467,477"/>
+<area shape="rect" id="node11" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="293,501,457,545"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="270,569,481,597"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#af7468c92f19244330c121315306813ce" title="G4Track::GetPolarization" alt="" coords="282,621,469,649"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="296,673,455,701"/>
+<area shape="rect" id="node15" href="$db/d08/classG4PolarizationManager.html#a0b85eb2141cb31bda4507867f0249aae" title="G4PolarizationManager\l::GetVolumePolarization" alt="" coords="284,725,467,769"/>
+<area shape="rect" id="node16" href="$db/d08/classG4PolarizationManager.html#abd5520e259fd4ac3c24226b8b0adc384" title="G4PolarizationManager\l::IsPolarized" alt="" coords="286,793,465,837"/>
+<area shape="rect" id="node17" href="$dd/d1d/classG4StokesVector.html#ac59ae03bc538eb0bb6459490ffd440d3" title="G4StokesVector::p3" alt="" coords="299,861,452,889"/>
+<area shape="rect" id="node19" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="286,913,465,941"/>
+<area shape="rect" id="node6" href="$db/d08/classG4PolarizationManager.html#a8d437cdd4ea7c3f7c0ad7f37aa31118d" title="G4PolarizationManager\l::G4PolarizationManager" alt="" coords="561,177,749,221"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="571,861,739,889"/>
+<area shape="rect" id="node20" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="560,913,751,941"/>
+<area shape="rect" id="node21" href="$d7/d2c/classG4PhysicsVector.html#a5d5c84f331f6c7d7201f48c0d00a0e81" title="G4PhysicsVector::Interpolation" alt="" coords="541,965,769,993"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="G4EmModelManager::FillLambdaVector" name="G4EmModelManager::FillLambdaVector">
+<area shape="rect" id="node2" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="937,485,1092,529"/>
+<area shape="rect" id="node3" href="$d3/dc1/classG4VEmModel.html#aa5195d8e5275f48279af12f61077f3f8" title="G4VEmModel::CrossSection" alt="" coords="318,284,526,312"/>
+<area shape="rect" id="node5" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="929,5,1101,49"/>
+<area shape="rect" id="node7" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="929,73,1101,117"/>
+<area shape="rect" id="node14" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="327,396,517,424"/>
+<area shape="rect" id="node15" href="$d7/d2c/classG4PhysicsVector.html#a6be57e12523d0f72b42ed368c11ef96f" title="G4PhysicsVector::GetMaxEnergy" alt="" coords="301,448,543,476"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="338,500,506,528"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="345,552,499,596"/>
+<area shape="rect" id="node18" href="$d7/d2c/classG4PhysicsVector.html#a2f8f9e7e7d2d6ca8b5f8daae9380afca" title="G4PhysicsVector::GetVector\lLength" alt="" coords="317,620,527,664"/>
+<area shape="rect" id="node19" href="$db/d1d/classG4RegionModels.html#a613228ff9832624b3432b6536073dd69" title="G4RegionModels::LowEdgeEnergy" alt="" coords="296,688,548,716"/>
+<area shape="rect" id="node20" href="$db/d1d/classG4RegionModels.html#ac603834506e46afa8200bc76c09d6cda" title="G4RegionModels::ModelIndex" alt="" coords="311,740,533,768"/>
+<area shape="rect" id="node21" href="$db/d1d/classG4RegionModels.html#ad3616fd8e28be88cba5ecddbb4f776fb" title="G4RegionModels::NumberOf\lModels" alt="" coords="315,792,529,836"/>
+<area shape="rect" id="node22" href="$d7/d2c/classG4PhysicsVector.html#ad923df7c7b31dc411b6ade3a3c739988" title="G4PhysicsVector::PutValue" alt="" coords="321,860,523,888"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="596,140,836,168"/>
+<area shape="rect" id="node8" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="612,276,820,320"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="907,141,1123,169"/>
+<area shape="rect" id="node9" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="897,193,1133,221"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="900,245,1129,289"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="884,313,1145,341"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="905,365,1125,409"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="922,433,1107,461"/>
+</map>

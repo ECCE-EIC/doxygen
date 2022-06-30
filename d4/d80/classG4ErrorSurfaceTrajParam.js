@@ -1,0 +1,27 @@
+var classG4ErrorSurfaceTrajParam =
+[
+    [ "G4ErrorSurfaceTrajParam", "d4/d80/classG4ErrorSurfaceTrajParam.html#ae6b240886107fb49443c1a26a9f836c2", null ],
+    [ "G4ErrorSurfaceTrajParam", "d4/d80/classG4ErrorSurfaceTrajParam.html#a1c6f6873e22679fe34f7b4a47b20049b", null ],
+    [ "G4ErrorSurfaceTrajParam", "d4/d80/classG4ErrorSurfaceTrajParam.html#ac434bdca6027d980fd6d926a0f7c3c34", null ],
+    [ "~G4ErrorSurfaceTrajParam", "d4/d80/classG4ErrorSurfaceTrajParam.html#ac490c8fa38494769d2f8f10e36300349", null ],
+    [ "GetDirection", "d4/d80/classG4ErrorSurfaceTrajParam.html#a2ad0d2ea780389acc48515bd360e5a90", null ],
+    [ "GetInvP", "d4/d80/classG4ErrorSurfaceTrajParam.html#a3e991a0f59c9b4db9cafd1345dd868ba", null ],
+    [ "GetPlaneNormal", "d4/d80/classG4ErrorSurfaceTrajParam.html#a74e6b26ff8daba0b3a0c3b128035f5dd", null ],
+    [ "GetPV", "d4/d80/classG4ErrorSurfaceTrajParam.html#a3fba52abe6089f124287a9f8e3393079", null ],
+    [ "GetPW", "d4/d80/classG4ErrorSurfaceTrajParam.html#a99c2ba7ef889ca691101bffd63a2ff88", null ],
+    [ "GetV", "d4/d80/classG4ErrorSurfaceTrajParam.html#aafd2aad8d1903de17f7d9de7cf7134de", null ],
+    [ "GetVectorV", "d4/d80/classG4ErrorSurfaceTrajParam.html#a9a37ed887632c6d78d422660edaf4b66", null ],
+    [ "GetVectorW", "d4/d80/classG4ErrorSurfaceTrajParam.html#ad650184eaf18fe99b4e2e7277c08c29a", null ],
+    [ "GetW", "d4/d80/classG4ErrorSurfaceTrajParam.html#a65d03adce916b982e622f4b26e72e587", null ],
+    [ "SetParameters", "d4/d80/classG4ErrorSurfaceTrajParam.html#a7414c6e2589593c3abd7a1c770fdea9a", null ],
+    [ "SetParameters", "d4/d80/classG4ErrorSurfaceTrajParam.html#acca97a2e1e106c2a72d633519fc6fb53", null ],
+    [ "operator<<", "d4/d80/classG4ErrorSurfaceTrajParam.html#a07146d6abaa4438488631eb9afa9eeac", null ],
+    [ "fDir", "d4/d80/classG4ErrorSurfaceTrajParam.html#ad0730b7c516a62133de3e5ebce7a2dba", null ],
+    [ "fInvP", "d4/d80/classG4ErrorSurfaceTrajParam.html#ad8d03e334a7b520f83c5a7c6c1fc10ff", null ],
+    [ "fPV", "d4/d80/classG4ErrorSurfaceTrajParam.html#a22c56ba9f83edc61635c29d7b2d84fd4", null ],
+    [ "fPW", "d4/d80/classG4ErrorSurfaceTrajParam.html#ac69194fd07a2a59b32968cd15a376ce5", null ],
+    [ "fV", "d4/d80/classG4ErrorSurfaceTrajParam.html#ae284f9a2084532922d99f043b0be2c9b", null ],
+    [ "fVectorV", "d4/d80/classG4ErrorSurfaceTrajParam.html#af2098705ae8da0b117a103e0a63fa4bd", null ],
+    [ "fVectorW", "d4/d80/classG4ErrorSurfaceTrajParam.html#aca5783de1ad4be555bd831d27becb2f9", null ],
+    [ "fW", "d4/d80/classG4ErrorSurfaceTrajParam.html#a300ea4721b4d60c51c909de4bf5cb37a", null ]
+];

@@ -1,0 +1,20 @@
+<map id="Run::ScoreNewTrack" name="Run::ScoreNewTrack">
+<area shape="rect" id="node2" href="$de/db2/classRun.html#a3b79108b426fc1c8d9f894ec658f366c" title="Run::AddElectron" alt="" coords="266,5,403,33"/>
+<area shape="rect" id="node3" href="$de/db2/classRun.html#ac14e87a017b41e882d8efe34eaef0cee" title="Run::AddPhantomElectron" alt="" coords="236,57,433,85"/>
+<area shape="rect" id="node6" href="$de/db2/classRun.html#a13b32f416bcd663688d827581cc32329" title="Run::AddPhantomPhoton" alt="" coords="240,213,429,241"/>
+<area shape="rect" id="node7" href="$de/db2/classRun.html#a751ad3b60d61f67a53471712d787e74b" title="Run::AddPhoton" alt="" coords="270,265,399,293"/>
+<area shape="rect" id="node8" href="$de/db2/classRun.html#abb9b7ab8cae82ae2fe0b4970a9d830a6" title="Run::AddPositron" alt="" coords="267,317,403,345"/>
+<area shape="rect" id="node9" href="$de/db2/classRun.html#a58a564d237d4cf7727f28ee6f5828206" title="Run::AddTargetElectron" alt="" coords="245,109,424,137"/>
+<area shape="rect" id="node10" href="$de/db2/classRun.html#aaf4419fab4cf1bc777efc1511de323aa" title="Run::AddTargetPhoton" alt="" coords="249,161,420,189"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="226,369,443,397"/>
+<area shape="rect" id="node12" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="233,421,436,449"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="212,473,457,501"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="252,525,417,553"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a86961e4e580944b946cfd88b82ac5524" title="G4Track::GetParticleDefinition" alt="" coords="223,577,447,605"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="257,629,412,673"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a71a4e2f138cbdde4b8184c484e7eef6a" title="G4Track::GetVertexPosition" alt="" coords="233,697,437,725"/>
+<area shape="rect" id="node18" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="255,749,414,777"/>
+<area shape="rect" id="node19" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="312,801,357,829"/>
+<area shape="rect" id="node4" href="$d8/d9b/classG4VAnalysisManager.html#a978368567c1dca5d45598cca6e580bff" title="G4VAnalysisManager\l::FillH1" alt="" coords="505,68,671,112"/>
+<area shape="rect" id="node5" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="509,136,667,180"/>
+</map>

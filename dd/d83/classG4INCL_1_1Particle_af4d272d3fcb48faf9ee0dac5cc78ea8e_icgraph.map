@@ -1,0 +1,27 @@
+<map id="G4INCL::Particle::isEta" name="G4INCL::Particle::isEta">
+<area shape="rect" id="node2" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a69c06b953a211d3e42af736ccfa661f1" title="new elastic particle&#45;particle cross section" alt="" coords="551,92,769,136"/>
+<area shape="rect" id="node3" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a763ccdce5a66d7f2631225f762dbd6a0" title="new total particle&#45;particle cross section" alt="" coords="873,201,1079,245"/>
+<area shape="rect" id="node4" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#ac4910aee8c4f5752610525b187e18d26" title="second new elastic particle&#45;particle cross section" alt="" coords="531,160,789,204"/>
+<area shape="rect" id="node5" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#acd5dfa46b58ceaf9635634114b454af1" title="second new total particle&#45;particle cross section" alt="" coords="847,291,1105,335"/>
+<area shape="rect" id="node6" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a18dfa71d172374820ad824bed6edc195" title="Cross sections for mesonic resonance absorption on nucleon &#45; elastic Channel." alt="" coords="224,152,473,196"/>
+<area shape="rect" id="node7" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a8fd926ece0aa4bf40a1e57c18bb59fd3" title="Cross sections for mesonic resonance absorption on nucleon &#45; piN Channel." alt="" coords="229,272,469,316"/>
+<area shape="rect" id="node8" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a30ce139c2aeb8bebede59515307584ed" title="Cross sections for mesonic resonance absorption on nucleon &#45; pipiN Channel." alt="" coords="534,331,786,375"/>
+<area shape="rect" id="node9" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a70ad321a32fd3b9f3ef76d0f54691a25" title="G4INCL::BinaryCollisionAvatar\l::getChannel" alt="" coords="236,443,461,487"/>
+<area shape="rect" id="node10" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#ab2227a2b8d2edd7e7774d147b1fc0789" title="G4INCL::DecayAvatar\l::getChannel" alt="" coords="265,511,432,555"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a4131ed4143c5c9c3db1ef042063f2fab" title="Is this a Meson?" alt="" coords="252,579,445,607"/>
+<area shape="rect" id="node12" href="$da/db5/classG4INCL_1_1CDPP.html#a6954a661ea46be36b4c0c9fe4b5251ff" title="G4INCL::CDPP::processOne\lParticle" alt="" coords="558,601,762,645"/>
+<area shape="rect" id="node14" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af59776dad28c0c7f17415dd5b6e9e2c8" title="Apply local&#45;energy transformation, if appropriate." alt="" coords="556,669,764,713"/>
+<area shape="rect" id="node18" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="1427,543,1648,587"/>
+<area shape="rect" id="node20" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="521,480,799,524"/>
+<area shape="rect" id="node13" href="$da/db5/classG4INCL_1_1CDPP.html#a77ce9fac0d2a3897619deac9ce3750b7" title="G4INCL::CDPP::isBlocked" alt="" coords="882,609,1070,637"/>
+<area shape="rect" id="node15" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="877,669,1075,713"/>
+<area shape="rect" id="node16" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#adbdf2218ffff261051eaaa09026bb583" title="G4INCL::DecayAvatar\l::preInteraction" alt="" coords="1183,635,1349,679"/>
+<area shape="rect" id="node17" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="1153,703,1379,747"/>
+<area shape="rect" id="node19" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a7b190dd2a4c2a53d04ec6b9b0841c0f7" title="G4INCL::StandardPropagation\lModel::shoot" alt="" coords="1696,509,1917,553"/>
+<area shape="rect" id="node21" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="865,480,1087,524"/>
+<area shape="rect" id="node24" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="849,411,1103,455"/>
+<area shape="rect" id="node22" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a797718f0232dc35b3a5c325da15a81f6" title="(Re)Generate all possible avatars." alt="" coords="1155,480,1377,524"/>
+<area shape="rect" id="node23" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#abd1c8a055a0c106754b21f0393e20a58" title="G4INCL::StandardPropagation\lModel::shootComposite" alt="" coords="1427,475,1648,519"/>
+<area shape="rect" id="node25" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a612af7900a1f5c727af8ab1b3910eafa" title="G4INCL::StandardPropagation\lModel::updateAvatars" alt="" coords="1155,407,1377,451"/>
+<area shape="rect" id="node26" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a137dff7f40f49603b311b9b219eeda35" title="G4INCL::StandardPropagation\lModel::propagate" alt="" coords="1427,407,1648,451"/>
+</map>

@@ -1,0 +1,25 @@
+var classIORTPhysicsList =
+[
+    [ "IORTPhysicsList", "d6/d2b/classIORTPhysicsList.html#a0f1659bc489c3aa6865890c17134c95b", null ],
+    [ "~IORTPhysicsList", "d6/d2b/classIORTPhysicsList.html#a8cb13687e94cc28dbe100edc1b3c1a90", null ],
+    [ "AddPackage", "d6/d2b/classIORTPhysicsList.html#acb578053532eef534da19282d668964e", null ],
+    [ "AddPhysicsList", "d6/d2b/classIORTPhysicsList.html#a73e4b6d415d43f03543b5d50ddb41179", null ],
+    [ "AddStepMax", "d6/d2b/classIORTPhysicsList.html#aab65a5ab354289ae3ddedff7804da553", null ],
+    [ "ConstructParticle", "d6/d2b/classIORTPhysicsList.html#a5ae2e6a3eaa7425cce860f3fb1fb3ad4", null ],
+    [ "ConstructProcess", "d6/d2b/classIORTPhysicsList.html#ab6038584b692e75574456b00555df03d", null ],
+    [ "GetStepMaxProcess", "d6/d2b/classIORTPhysicsList.html#a51cbc7ec080209776db30b9228b4cda4", null ],
+    [ "SetCutForElectron", "d6/d2b/classIORTPhysicsList.html#a15e9da82ef3286b7661bf9f624a94333", null ],
+    [ "SetCutForGamma", "d6/d2b/classIORTPhysicsList.html#acd52dc43d50d82cdc37ab03cc5d73172", null ],
+    [ "SetCutForPositron", "d6/d2b/classIORTPhysicsList.html#a14a18f9c7a780482bf4cdba147e7b9c4", null ],
+    [ "SetCuts", "d6/d2b/classIORTPhysicsList.html#a8125f94b1ff7683770cb6999d937f4df", null ],
+    [ "SetDetectorCut", "d6/d2b/classIORTPhysicsList.html#a6a75049d211a80dd1d5697494ff565af", null ],
+    [ "cutForElectron", "d6/d2b/classIORTPhysicsList.html#a53d2556560f68e5ca7e9c722480623fb", null ],
+    [ "cutForGamma", "d6/d2b/classIORTPhysicsList.html#a2f89ad251ed9db6b91f34bd19c7ba0f3", null ],
+    [ "cutForPositron", "d6/d2b/classIORTPhysicsList.html#a3ff20056951a7fca1de34588209cea4d", null ],
+    [ "decPhysicsList", "d6/d2b/classIORTPhysicsList.html#a716451defdb6b4db296a50257ef4cf5a", null ],
+    [ "em_config", "d6/d2b/classIORTPhysicsList.html#a56539d75be5186a58bc7ec2f20f44287", null ],
+    [ "emName", "d6/d2b/classIORTPhysicsList.html#a104b5d823a039b3943ea0bf119fbed18", null ],
+    [ "emPhysicsList", "d6/d2b/classIORTPhysicsList.html#aead6c41a64440278cf41a4f0b928b743", null ],
+    [ "pMessenger", "d6/d2b/classIORTPhysicsList.html#a7e6c75a474b483affec5199b99d620ab", null ],
+    [ "stepMaxProcess", "d6/d2b/classIORTPhysicsList.html#a705bd522136c549b9f3f61733100b722", null ]
+];

@@ -1,0 +1,43 @@
+<map id="B1Run" name="B1Run">
+<area shape="rect" id="node2" href="$d2/d10/classG4Run.html" title="G4Run" alt="" coords="1200,972,1267,1000"/>
+<area shape="rect" id="node4" href="$d5/de2/classG4Event.html" title="G4Event" alt="" coords="897,740,977,768"/>
+<area shape="rect" id="node5" href="$d7/db4/classG4HCofThisEvent.html" title="G4HCofThisEvent" alt="" coords="1375,614,1515,642"/>
+<area shape="rect" id="node7" href="$dc/d91/classG4VHitsCollection.html" title="G4VHitsCollection" alt="" coords="1550,300,1693,328"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="1949,176,2029,204"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="3100,300,3255,328"/>
+<area shape="rect" id="node20" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="2048,472,2179,500"/>
+<area shape="rect" id="node22" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="1930,614,2051,642"/>
+<area shape="rect" id="node25" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="3488,740,3589,768"/>
+<area shape="rect" id="node30" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="2685,740,2811,768"/>
+<area shape="rect" id="node33" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="2441,472,2537,500"/>
+<area shape="rect" id="node48" href="$d5/d1f/classG4VDigiCollection.html" title="G4VDigiCollection" alt="" coords="365,300,507,328"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="1945,99,2034,127"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="1918,5,2061,49"/>
+<area shape="rect" id="node11" href="$d2/dcc/classG4TrajectoryContainer.html" title="G4TrajectoryContainer" alt="" coords="195,614,368,642"/>
+<area shape="rect" id="node13" href="$d6/d48/classG4VTrajectory.html" title="G4VTrajectory" alt="" coords="99,300,215,328"/>
+<area shape="rect" id="node14" href="$de/dbd/classG4PrimaryVertex.html" title="G4PrimaryVertex" alt="" coords="869,614,1005,642"/>
+<area shape="rect" id="node15" href="$dc/d2d/classG4VUserPrimaryVertexInformation.html" title="G4VUserPrimaryVertexInformation" alt="" coords="1173,472,1427,500"/>
+<area shape="rect" id="node16" href="$df/d7e/classG4PrimaryParticle.html" title="G4PrimaryParticle" alt="" coords="867,472,1008,500"/>
+<area shape="rect" id="node18" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="3511,614,3663,642"/>
+<area shape="rect" id="node19" href="$d9/d8c/classG4ProcessManagerMessenger.html" title="G4ProcessManagerMessenger" alt="" coords="3095,872,3321,900"/>
+<area shape="rect" id="node37" href="$db/d05/classG4ParticleMessenger.html" title="G4ParticleMessenger" alt="" coords="2215,972,2379,1000"/>
+<area shape="rect" id="node40" href="$d7/d07/classG4ParticlePropertyMessenger.html" title="G4ParticlePropertyMessenger" alt="" coords="2187,872,2408,900"/>
+<area shape="rect" id="node42" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="3371,472,3488,500"/>
+<area shape="rect" id="node21" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="2075,740,2189,768"/>
+<area shape="rect" id="node24" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="1869,740,2051,768"/>
+<area shape="rect" id="node38" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="2551,802,2713,830"/>
+<area shape="rect" id="node39" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="1638,740,1845,768"/>
+<area shape="rect" id="node49" href="$d3/d78/classG4DCtable.html" title="G4DCtable" alt="" coords="1546,686,1641,714"/>
+<area shape="rect" id="node50" href="$de/dd7/classG4HCtable.html" title="G4HCtable" alt="" coords="1649,686,1743,714"/>
+<area shape="rect" id="node26" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="3335,614,3486,642"/>
+<area shape="rect" id="node27" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="3897,472,4031,500"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="3631,300,3763,328"/>
+<area shape="rect" id="node36" title="STL class." alt="" coords="2856,300,3027,328"/>
+<area shape="rect" id="node32" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="2869,606,3045,650"/>
+<area shape="rect" id="node34" href="$d7/d24/classG4NuclideTable.html" title="G4NuclideTable" alt="" coords="2621,300,2747,328"/>
+<area shape="rect" id="node41" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="3133,176,3265,204"/>
+<area shape="rect" id="node43" href="$d4/df8/classG4VUserPrimaryParticleInformation.html" title="G4VUserPrimaryParticleInformation" alt="" coords="926,300,1186,328"/>
+<area shape="rect" id="node44" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="749,300,902,328"/>
+<area shape="rect" id="node45" href="$dc/dc6/classG4VUserEventInformation.html" title="G4VUserEventInformation" alt="" coords="1132,614,1329,642"/>
+<area shape="rect" id="node46" href="$dd/dcb/classG4DCofThisEvent.html" title="G4DCofThisEvent" alt="" coords="402,614,542,642"/>
+</map>

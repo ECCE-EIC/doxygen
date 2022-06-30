@@ -1,0 +1,18 @@
+<map id="G4VEnergyLossProcess::GetKineticEnergy" name="G4VEnergyLossProcess::GetKineticEnergy">
+<area shape="rect" id="node2" href="$df/d03/classG4ContinuousGainOfEnergy.html#a8274612225f225916d412c7b2b903f98" title="G4ContinuousGainOfEnergy\l::AlongStepDoIt" alt="" coords="231,5,441,49"/>
+<area shape="rect" id="node3" href="$d9/d78/classG4LossTableManager.html#a84dfb677c04c8a838444d27ddc3f8f56" title="G4LossTableManager\l::GetEnergy" alt="" coords="253,73,419,117"/>
+<area shape="rect" id="node7" href="$d0/d99/classG4VMscModel.html#a6540d9e4f3ce8e6f0f1cecdc0be227fa" title="G4VMscModel::GetEnergy" alt="" coords="237,353,435,381"/>
+<area shape="rect" id="node4" href="$de/dc4/classG4EmCalculator.html#a5e65bb0ad811d83a4db97cc8435c3762" title="G4EmCalculator::GetKinEnergy" alt="" coords="512,21,744,49"/>
+<area shape="rect" id="node6" href="$d1/d32/classG4EnergyLossTables.html#adee6f0e986421aee1ec559286bc09de3" title="G4EnergyLossTables\l::GetPreciseEnergyFromRange" alt="" coords="515,73,741,117"/>
+<area shape="rect" id="node5" href="$de/dc4/classG4EmCalculator.html#ac53777423ce6628c6db933a948ffc4f0" title="G4EmCalculator::GetKinEnergy" alt="" coords="825,21,1057,49"/>
+<area shape="rect" id="node8" href="$db/dfc/classG4UrbanAdjointMscModel.html#acee8fe6efb1d66e88dd84fe08bd85f31" title="G4UrbanAdjointMscModel\l::ComputeGeomPathLength" alt="" coords="524,141,732,185"/>
+<area shape="rect" id="node9" href="$db/dfc/classG4UrbanAdjointMscModel.html#adbabe24b8ebcc5ab67355b770cc30d8a" title="G4UrbanAdjointMscModel\l::SampleScattering" alt="" coords="531,209,725,253"/>
+<area shape="rect" id="node10" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#ad46fe4e0e306f62759c70e32c3a6de49" title="G4GoudsmitSaundersonMscModel\l::ComputeGeomPathLength" alt="" coords="502,277,754,321"/>
+<area shape="rect" id="node11" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a748872bf7f725a7c0e18f2150bd2b05d" title="G4GoudsmitSaundersonMscModel\l::SampleMSC" alt="" coords="502,345,754,389"/>
+<area shape="rect" id="node14" href="$d4/da8/classG4UrbanMscModel.html#a9b2996ac416afd17fad7670f9a11b1d8" title="G4UrbanMscModel::Compute\lGeomPathLength" alt="" coords="519,413,737,457"/>
+<area shape="rect" id="node15" href="$d4/da8/classG4UrbanMscModel.html#a15d6aa2463f753c875bd5fed21917853" title="G4UrbanMscModel::SampleScattering" alt="" coords="489,481,767,509"/>
+<area shape="rect" id="node16" href="$d8/d2f/classG4WentzelVIModel.html#ab47268ffcbc222445067440402e3b8e0" title="G4WentzelVIModel::Compute\lGeomPathLength" alt="" coords="519,533,737,577"/>
+<area shape="rect" id="node17" href="$d8/d2f/classG4WentzelVIModel.html#a6d88c01ff914e135e906dc50e41babbe" title="G4WentzelVIModel::Compute\lTrueStepLength" alt="" coords="519,601,737,645"/>
+<area shape="rect" id="node12" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a0de90a47374946419b4f1d4d37521b3c" title="G4GoudsmitSaundersonMscModel\l::ComputeTruePathLengthLimit" alt="" coords="815,311,1067,355"/>
+<area shape="rect" id="node13" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#afdb6037f27b8a2e863ff1c04f006cd05" title="G4GoudsmitSaundersonMscModel\l::SampleScattering" alt="" coords="815,379,1067,423"/>
+</map>

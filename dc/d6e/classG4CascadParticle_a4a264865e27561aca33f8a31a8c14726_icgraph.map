@@ -1,0 +1,26 @@
+<map id="G4CascadParticle::getCurrentZone" name="G4CascadParticle::getCurrentZone">
+<area shape="rect" id="node2" href="$d9/da6/classG4NucleiModel.html#a6d676ce4adfc6037e1b16a4e1846dde0" title="G4NucleiModel::boundaryTransition" alt="" coords="611,52,873,80"/>
+<area shape="rect" id="node3" href="$d9/da6/classG4NucleiModel.html#a328aa59398dda26dafeafef5a65e65c8" title="G4NucleiModel::generateParticleFate" alt="" coords="923,52,1193,80"/>
+<area shape="rect" id="node4" href="$d9/da6/classG4NucleiModel.html#af3fc2333411f1c87c912c75dc54dac18" title="G4NucleiModel::choosePoint\lAlongTraj" alt="" coords="635,188,849,232"/>
+<area shape="rect" id="node6" href="$d0/d60/classG4IntraNucleiCascader.html#a796476d7cc1f4ef93f78d61e5ec64ae3" title="G4IntraNucleiCascader\l::decayTrappedParticle" alt="" coords="346,274,523,318"/>
+<area shape="rect" id="node19" href="$d9/da6/classG4NucleiModel.html#ae1265b5983b0f1dd908167285a71a3f8" title="G4NucleiModel::generateInteraction\lPartners" alt="" coords="609,104,875,148"/>
+<area shape="rect" id="node20" href="$d9/da6/classG4NucleiModel.html#a3ee9795ba451e3980cc404cfbe8dae50" title="G4NucleiModel::inverseMean\lFreePath" alt="" coords="325,154,544,198"/>
+<area shape="rect" id="node21" href="$df/de8/classG4CascadeHistory.html#a32cf613a1e34ec3a308d9b85d39032c5" title="G4CascadeHistory::PrintEntry" alt="" coords="325,342,545,370"/>
+<area shape="rect" id="node24" href="$d9/da6/classG4NucleiModel.html#a94cb45ba6c969fef83dadc440e67100e" title="G4NucleiModel::stillInside" alt="" coords="337,394,533,422"/>
+<area shape="rect" id="node25" href="$d9/da6/classG4NucleiModel.html#a814b5d906eacadb3c1986d80e690a47c" title="G4NucleiModel::worthToPropagate" alt="" coords="308,446,561,474"/>
+<area shape="rect" id="node5" href="$d9/da6/classG4NucleiModel.html#a25ea8d2ef21c555a3df9ba46209126e0" title="G4NucleiModel::initialize\lCascad" alt="" coords="964,188,1152,232"/>
+<area shape="rect" id="node7" href="$d0/d60/classG4IntraNucleiCascader.html#a1587032c6036e316cc9c37499b74ab63" title="G4IntraNucleiCascader\l::processTrappedParticle" alt="" coords="649,274,835,318"/>
+<area shape="rect" id="node8" href="$d0/d60/classG4IntraNucleiCascader.html#a2def5ba7879b20884cb93f062d50615c" title="G4IntraNucleiCascader\l::generateCascade" alt="" coords="969,274,1147,318"/>
+<area shape="rect" id="node9" href="$d0/d60/classG4IntraNucleiCascader.html#a7c34f74d66dd88e6952625ea5b6e2b34" title="G4IntraNucleiCascader\l::collide" alt="" coords="1241,334,1419,378"/>
+<area shape="rect" id="node16" href="$d0/d60/classG4IntraNucleiCascader.html#a62942b76c53e512c5aaf2afa04e886be" title="G4IntraNucleiCascader\l::rescatter" alt="" coords="1241,266,1419,310"/>
+<area shape="rect" id="node10" href="$d4/d24/classG4InuclCollider.html#ab4109b3dbea48ffe64e45bab046ca4e5" title="G4InuclCollider::collide" alt="" coords="1475,342,1653,370"/>
+<area shape="rect" id="node11" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="1709,334,1867,378"/>
+<area shape="rect" id="node12" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1915,299,2113,343"/>
+<area shape="rect" id="node14" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1915,367,2113,411"/>
+<area shape="rect" id="node13" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="2161,299,2360,343"/>
+<area shape="rect" id="node15" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="2166,367,2355,411"/>
+<area shape="rect" id="node17" href="$d4/d24/classG4InuclCollider.html#ab9f3bf1a38c40ca67811009ca7e8adaf" title="G4InuclCollider::rescatter" alt="" coords="1467,274,1661,302"/>
+<area shape="rect" id="node18" href="$dc/d8b/classG4CascadeInterface.html#ab8f6e4c678c2908475a4bca6dbc7bcb1" title="G4CascadeInterface\l::Propagate" alt="" coords="1709,266,1867,310"/>
+<area shape="rect" id="node22" href="$df/de8/classG4CascadeHistory.html#acfb5388a5dcab4faee541bf67a21ecbf" title="G4CascadeHistory::Print" alt="" coords="965,342,1151,370"/>
+<area shape="rect" id="node23" href="$df/ddd/G4CascadeHistory_8cc.html#af0fef80160401b67250e62ab0aeaf263" title="operator\&lt;\&lt;" alt="" coords="1279,402,1381,430"/>
+</map>

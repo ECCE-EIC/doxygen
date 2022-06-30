@@ -1,0 +1,25 @@
+var classG4LowEnergyBremsstrahlung =
+[
+    [ "G4LowEnergyBremsstrahlung", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a7f596586ec4e9d1d3b9810ad3042e6c3", null ],
+    [ "~G4LowEnergyBremsstrahlung", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a45a04f6ec145e7b66590ab2a6b457e65", null ],
+    [ "G4LowEnergyBremsstrahlung", "d6/d4b/classG4LowEnergyBremsstrahlung.html#ab0fbd78f24f975f6de82967834b3d35d", null ],
+    [ "BuildLossTable", "d6/d4b/classG4LowEnergyBremsstrahlung.html#ab7753e114766737732b86b404f05794b", null ],
+    [ "BuildPhysicsTable", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a6bb539533bd632990a0427eed44c10f3", null ],
+    [ "GetMeanFreePath", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a83791f80822ee19ca3d47dfb19f9511b", null ],
+    [ "IsApplicable", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a3368a34a558107efbafe96f89e09aa08", null ],
+    [ "operator=", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a38006484627d615f1850c7da177b03a9", null ],
+    [ "PostStepDoIt", "d6/d4b/classG4LowEnergyBremsstrahlung.html#af42cd4056bb764b2a7efa562a188ffa1", null ],
+    [ "PrintInfoDefinition", "d6/d4b/classG4LowEnergyBremsstrahlung.html#af9da3c5aac30009465c45021d003d421", null ],
+    [ "SetAngularGenerator", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a1e695b8089e5a1e0aece451de6b8c204", null ],
+    [ "SetAngularGenerator", "d6/d4b/classG4LowEnergyBremsstrahlung.html#adb039ed6967d767e2abc6fb2853788ee", null ],
+    [ "SetCutForLowEnSecPhotons", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a33023606cc3a678b0b8c440005520a6f", null ],
+    [ "angularDistribution", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a16188ddf0527c75556f9445a7b783684", null ],
+    [ "crossSectionHandler", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a36d015262bd804a6527a5e82d90cbd5f", null ],
+    [ "cutForPhotons", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a6dc195ca6d24d08895953b55c6972616", null ],
+    [ "cutForSecondaryPhotons", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a53cf92be41e6a3c5eeeb90b5c7e44136", null ],
+    [ "energyBins", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a1ca402fd389bd0aac84e455d51d42502", null ],
+    [ "energySpectrum", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a7875810fe249c106d1b444b4ad82a60f", null ],
+    [ "generatorName", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a6e6e8c62421aa4e75d63457eef13c961", null ],
+    [ "theMeanFreePath", "d6/d4b/classG4LowEnergyBremsstrahlung.html#aa8a3ab3c110d22e6d61d8702e4119fee", null ],
+    [ "TsaiAngularDistribution", "d6/d4b/classG4LowEnergyBremsstrahlung.html#a09df1f07dd8ca9d2bea3b0fe5ad6a09a", null ]
+];

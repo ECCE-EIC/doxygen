@@ -1,0 +1,15 @@
+<map id="G4Step::NewSecondaryVector" name="G4Step::NewSecondaryVector">
+<area shape="rect" id="node2" href="$d0/dd0/classG4SteppingManager.html#a1199b86554896d4a8f6bbb46ba9b2503" title="G4SteppingManager::\lG4SteppingManager" alt="" coords="279,5,447,49"/>
+<area shape="rect" id="node3" href="$d0/d59/classG4ITStepProcessor.html#a0acb1eb775acac8e6045afc640afa8e7" title="G4ITStepProcessor::\lInitDefineStep" alt="" coords="285,73,441,117"/>
+<area shape="rect" id="node4" href="$d0/d59/classG4ITStepProcessor.html#a9822fb821e056a102a9b01fbca546e57" title="G4ITStepProcessor::\lDoDefinePhysicalStepLength" alt="" coords="495,73,711,117"/>
+<area shape="rect" id="node5" href="$d0/d59/classG4ITStepProcessor.html#aa5c7ae4c1b6e437891f65348b04e643e" title="G4ITStepProcessor::\lDefinePhysicalStepLength" alt="" coords="759,73,956,117"/>
+<area shape="rect" id="node6" href="$d0/d59/classG4ITStepProcessor.html#a75e21e60a5d0728ce71981510d41ff0c" title="G4ITStepProcessor::\lComputeInteractionLength" alt="" coords="1004,73,1205,117"/>
+<area shape="rect" id="node7" href="$de/dcb/classG4Scheduler.html#a7db35adaeda0f6b54af7dd353a1b35b3" title="G4Scheduler::Stepping" alt="" coords="1253,81,1431,109"/>
+<area shape="rect" id="node8" href="$de/dcb/classG4Scheduler.html#acf68309919b953323cbe984672ad9197" title="G4Scheduler::DoProcess" alt="" coords="1479,81,1665,109"/>
+<area shape="rect" id="node9" href="$de/dcb/classG4Scheduler.html#a0cbd65bc98d9bf21609d09af9c97af52" title="G4Scheduler::Synchronize\lTracks" alt="" coords="1713,73,1913,117"/>
+<area shape="rect" id="node10" href="$de/dcb/classG4Scheduler.html#aa05805cce156b61c245f1a63eb7145a5" title="G4Scheduler::Process" alt="" coords="1961,81,2129,109"/>
+<area shape="rect" id="node11" href="$dc/d37/classG4DNAChemistryManager.html#aed01301b67d0a5e1c50bcf992d48a837" title="G4DNAChemistryManager::Run" alt="" coords="2177,51,2409,79"/>
+<area shape="rect" id="node14" href="$d1/db4/classG4SchedulerMessenger.html#a03e3218b6582104487c39c504ebf5060" title="G4SchedulerMessenger\l::SetNewValue" alt="" coords="2202,103,2385,147"/>
+<area shape="rect" id="node12" href="$d4/d47/classStackingAction.html#af9f38d1665274246654f501fe63adfa7" title="StackingAction::NewStage" alt="" coords="2457,21,2656,49"/>
+<area shape="rect" id="node13" href="$dc/d37/classG4DNAChemistryManager.html#acd16799993dcce4bc4297b7d64b5652f" title="G4DNAChemistryManager\l::SetNewValue" alt="" coords="2457,73,2656,117"/>
+</map>

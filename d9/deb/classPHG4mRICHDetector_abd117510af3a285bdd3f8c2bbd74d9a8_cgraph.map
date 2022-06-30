@@ -1,0 +1,34 @@
+<map id="PHG4mRICHDetector::build_aerogel" name="PHG4mRICHDetector::build_aerogel">
+<area shape="rect" id="node2" href="$da/dbc/classG4MaterialPropertiesTable.html#af8f630001ea7d2f78f339ac0d730bac2" title="G4MaterialPropertiesTable\l::AddProperty" alt="" coords="237,35,436,79"/>
+<area shape="rect" id="node13" href="$d9/deb/classPHG4mRICHDetector.html#af4080565a5cf2aec2ea903619535d924" title="PHG4mRICHDetector::\lbuild_box" alt="" coords="251,103,422,147"/>
+<area shape="rect" id="node15" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#a4373c4fcf3110f14b3e30b4fed410b8a" title="PHG4mRICHDetector::\lmRichParameter::GetBoxPar" alt="" coords="230,171,443,215"/>
+<area shape="rect" id="node16" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="255,239,419,283"/>
+<area shape="rect" id="node17" href="$d4/d86/classG4OpticalSurface.html#abedee4226ef17a25a36c9cae9f9c6ef2" title="G4OpticalSurface::SetFinish" alt="" coords="232,307,441,335"/>
+<area shape="rect" id="node31" href="$d4/d86/classG4OpticalSurface.html#a112d555d8e6ddf9e74bb7d9a2250d6ea" title="G4OpticalSurface::SetMaterial\lPropertiesTable" alt="" coords="224,359,449,403"/>
+<area shape="rect" id="node32" href="$d4/d86/classG4OpticalSurface.html#a4bf3215355662824f4be9b33c620dc41" title="G4OpticalSurface::SetModel" alt="" coords="231,427,442,455"/>
+<area shape="rect" id="node33" href="$d4/d86/classG4OpticalSurface.html#a6cc0ebe840a91f0dae27efb05a761023" title="G4OpticalSurface::SetType" alt="" coords="236,479,437,507"/>
+<area shape="rect" id="node3" href="$da/dbc/classG4MaterialPropertiesTable.html#a086f7d7eb71abeb9270dc37028d3d8b8" title="G4MaterialPropertiesTable\l::CalculateGROUPVEL" alt="" coords="533,35,732,79"/>
+<area shape="rect" id="node12" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="533,103,732,147"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="871,247,978,275"/>
+<area shape="rect" id="node5" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="893,73,957,101"/>
+<area shape="rect" id="node11" href="$dc/d99/classG4PhysicsOrderedFreeVector.html#a27c29e664f582dd93ee469bd001c9f7f" title="G4PhysicsOrderedFreeVector\l::InsertValues" alt="" coords="816,5,1033,49"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1105,21,1297,49"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1105,73,1297,101"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1081,125,1321,153"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1369,100,1557,128"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1369,152,1557,180"/>
+<area shape="rect" id="node14" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="522,171,743,199"/>
+<area shape="rect" id="node18" href="$d4/d86/classG4OpticalSurface.html#a03df2739e1e5182dd809c89088a46bf5" title="G4OpticalSurface::ReadDichroicFile" alt="" coords="503,411,763,439"/>
+<area shape="rect" id="node28" href="$d4/d86/classG4OpticalSurface.html#a1b1f23d4fe4e313eb7e3b8b4aab2127a" title="G4OpticalSurface::ReadLUTDAVISFile" alt="" coords="497,307,768,335"/>
+<area shape="rect" id="node29" href="$d4/d86/classG4OpticalSurface.html#ae1fc3bb2382c33a700f3fd64ba0cc22e" title="G4OpticalSurface::ReadLUTFile" alt="" coords="517,359,748,387"/>
+<area shape="rect" id="node30" href="$d4/d86/classG4OpticalSurface.html#aa1c26cd742219e13af29dd09d61e5ed3" title="G4OpticalSurface::ReadReflectivity\lLUTFile" alt="" coords="503,239,762,283"/>
+<area shape="rect" id="node19" href="$d3/d41/classG4Physics2DVector.html#ad4ae6c8a9122f14560408072d9ca9cca" title="G4Physics2DVector::\lGetLengthX" alt="" coords="845,471,1005,515"/>
+<area shape="rect" id="node20" href="$d3/d41/classG4Physics2DVector.html#a9fd916433be5db307821bbdd841f60e6" title="G4Physics2DVector::\lGetLengthY" alt="" coords="845,539,1005,583"/>
+<area shape="rect" id="node21" href="$d3/d41/classG4Physics2DVector.html#aa7c38e67d36f7e881e9f5dea062b57d4" title="G4Physics2DVector::\lGetValue" alt="" coords="845,607,1005,651"/>
+<area shape="rect" id="node22" href="$d3/d41/classG4Physics2DVector.html#a3101204658ba3c48bfeef983e334eaf2" title="G4Physics2DVector::GetX" alt="" coords="827,299,1022,327"/>
+<area shape="rect" id="node23" href="$d3/d41/classG4Physics2DVector.html#a42f7e05572ecc629d09506acddbbbf13" title="G4Physics2DVector::GetY" alt="" coords="828,351,1021,379"/>
+<area shape="rect" id="node24" href="$d3/d41/classG4Physics2DVector.html#a0961572d703c6236569c2add058e8a84" title="G4Physics2DVector::\lRetrieve" alt="" coords="845,403,1005,447"/>
+<area shape="rect" id="node25" href="$d3/d41/classG4Physics2DVector.html#a6cc11d7bf5ecfffb8563729d3d7cf610" title="G4Physics2DVector::\lClearVectors" alt="" coords="1121,335,1281,379"/>
+<area shape="rect" id="node26" href="$d3/d41/classG4Physics2DVector.html#a7fb22ad3d21ea31dc512ec7e576e2367" title="G4Physics2DVector::\lPrepareVectors" alt="" coords="1121,403,1281,447"/>
+<area shape="rect" id="node27" href="$d3/d41/classG4Physics2DVector.html#aee39bcdacdc11c45c4e9d515d34c62cc" title="G4Physics2DVector::\lPutValue" alt="" coords="1121,471,1281,515"/>
+</map>

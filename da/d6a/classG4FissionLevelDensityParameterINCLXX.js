@@ -1,0 +1,25 @@
+var classG4FissionLevelDensityParameterINCLXX =
+[
+    [ "G4FissionLevelDensityParameterINCLXX", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#af3539114692bce9468e749e3818b9adf", null ],
+    [ "~G4FissionLevelDensityParameterINCLXX", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a9b07dc1847cbec5844e359cc7416096f", null ],
+    [ "G4FissionLevelDensityParameterINCLXX", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a619c523b69848563778120b9f3702683", null ],
+    [ "getAfanHigh", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#ac8260359e9f43ca78bbeb32bb0270dfd", null ],
+    [ "getAfanLow", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#adf311f1fa533b06d19ee1c99d93e9efa", null ],
+    [ "getZHigh", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#ab1852cfa55bc14f0e60b931a67737016", null ],
+    [ "getZLow", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#ab548c3e0908447c84942b407054da253", null ],
+    [ "LevelDensityParameter", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a28e03652558e99dbacffa94d69ff32a9", null ],
+    [ "operator!=", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#ae6f45165b32c2ca3716c6020f8b67304", null ],
+    [ "operator=", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a66881f4073fcbad592916e4c0908ad33", null ],
+    [ "operator==", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#ae013317ee4c8f184df9fda2c7592d9ea", null ],
+    [ "setAfanHigh", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a12de9dd92091646232a0c0584a104df0", null ],
+    [ "setAfanLow", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a8b8300c5c92ea5ca7572656eab96a89b", null ],
+    [ "setZHigh", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#ac2ee51b885c8f3c6c7bf132efe03fb9e", null ],
+    [ "setZLow", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#abe15b6ef94e83eb69e603eb393c9488a", null ],
+    [ "UpdateAfanSlope", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a3e97e74911e067d14f4058f640d0d1aa", null ],
+    [ "afanHigh", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a9725c1cc644491963b439b03f99e3591", null ],
+    [ "afanLow", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#aa8cb2dab90b6e11552368117d16d3cc3", null ],
+    [ "afanSlope", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a71f414778c0b456bbb2c92e8d68869c8", null ],
+    [ "fNucData", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a8ba5cff9b9f7f5123939ff22e630dd15", null ],
+    [ "ZHigh", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#a28915ef628e0217754778d1fb7c0472c", null ],
+    [ "ZLow", "da/d6a/classG4FissionLevelDensityParameterINCLXX.html#aff5415dc92f17e0c3598f5ed84e98f14", null ]
+];

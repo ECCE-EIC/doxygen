@@ -1,0 +1,13 @@
+<map id="G4INCL::CrossSectionsMultiPions::NNElastic" name="G4INCL::CrossSectionsMultiPions::NNElastic">
+<area shape="rect" id="node2" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aaca2446bb48ddb4f8392c31c54db8f5b" title="Get the isospin of a particle." alt="" coords="281,5,445,49"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="267,73,459,101"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="261,125,465,153"/>
+<area shape="rect" id="node5" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="515,229,699,273"/>
+<area shape="rect" id="node7" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="750,289,938,333"/>
+<area shape="rect" id="node12" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a3897cb8c2099194fcdb38c84e1bb4c40" title="Internal implementation of the NN elastic cross section with fixed isospin." alt="" coords="260,229,467,273"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="747,237,941,265"/>
+<area shape="rect" id="node8" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="989,289,1173,333"/>
+<area shape="rect" id="node9" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1236,241,1444,269"/>
+<area shape="rect" id="node11" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="1000,357,1163,401"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1221,297,1459,325"/>
+</map>

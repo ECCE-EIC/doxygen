@@ -1,0 +1,34 @@
+<map id="G4UIGainServer::G4UIGainServer" name="G4UIGainServer::G4UIGainServer">
+<area shape="rect" id="node2" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="259,205,477,249"/>
+<area shape="rect" id="node3" href="$d3/d6e/classG4UIGainServer.html#ae05e36283896fb298ff4e5bafb9d5e1c" title="G4UIGainServer::GetNewTree\lStructure" alt="" coords="258,273,478,317"/>
+<area shape="rect" id="node13" href="$d3/d6e/classG4UIGainServer.html#a3a0ec5976cbe1a9dfde6d81a70a3b5fe" title="G4UIGainServer::GetNewTree\lValues" alt="" coords="258,565,478,609"/>
+<area shape="rect" id="node21" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="267,720,469,764"/>
+<area shape="rect" id="node24" href="$de/dd6/classG4StateManager.html#a6c663c504a33468599b7ba51f14a8263" title="G4StateManager::GetState\lString" alt="" coords="267,788,469,832"/>
+<area shape="rect" id="node25" href="$d8/def/classG4UImanager.html#ae51531c3893df302e72a834cf88598e3" title="G4UImanager::GetTree" alt="" coords="280,856,456,884"/>
+<area shape="rect" id="node26" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="263,1024,473,1052"/>
+<area shape="rect" id="node33" href="$d3/d6e/classG4UIGainServer.html#a56a91233925aa22b636990c69bc62107" title="G4UIGainServer::SetUPServer" alt="" coords="256,1076,480,1104"/>
+<area shape="rect" id="node4" href="$df/d6b/title_8f.html#aa5c036d373cd37c00f0892e713b39988" title="title" alt="" coords="637,161,685,189"/>
+<area shape="rect" id="node5" href="$d3/d31/classG4UIcommandTree.html#a8a23bb0968ff66504d3f8896cc7e12df" title="G4UIcommandTree::GetTree\lEntry" alt="" coords="556,437,767,481"/>
+<area shape="rect" id="node6" href="$d3/d31/classG4UIcommandTree.html#affc4f3a04adab2eeabebedc4193eb77d" title="G4UIcommandTree::GetCommand\lEntry" alt="" coords="535,213,787,257"/>
+<area shape="rect" id="node7" href="$d3/d31/classG4UIcommandTree.html#a08d1b244c9c167b62934a7250dfddb5a" title="G4UIcommandTree::GetCommand" alt="" coords="535,281,787,309"/>
+<area shape="rect" id="node8" href="$d2/dd2/classG4UIcommand.html#ac05ba4ad93b926fafbfeff19fd711f49" title="G4UIcommand::GetCommandPath" alt="" coords="535,333,788,361"/>
+<area shape="rect" id="node9" href="$d2/dd2/classG4UIcommand.html#ab5a523377f15c4af901e75dbdc26aef9" title="G4UIcommand::GetTitle" alt="" coords="878,32,1062,60"/>
+<area shape="rect" id="node10" href="$d3/d31/classG4UIcommandTree.html#a8a8d3ce7fa5765268669d70656638de5" title="G4UIcommandTree::GetTree" alt="" coords="556,385,767,413"/>
+<area shape="rect" id="node11" href="$d3/d31/classG4UIcommandTree.html#a7155e483dc9ca94fd9d26b315cd6b0c6" title="G4UIcommandTree::GetPathName" alt="" coords="535,109,787,137"/>
+<area shape="rect" id="node12" href="$d3/d31/classG4UIcommandTree.html#a67b60bd9ee1bb43a19a524e833712be1" title="G4UIcommandTree::GetTitle" alt="" coords="555,5,767,33"/>
+<area shape="rect" id="node14" href="$d2/dd2/classG4UIcommand.html#ac2d6bcf3226c618501be0afd8a989bc3" title="G4UIcommand::GetParameter\lEntries" alt="" coords="549,505,774,549"/>
+<area shape="rect" id="node15" href="$d2/dd2/classG4UIcommand.html#a2b5ccdefabaa952282b757d913797186" title="G4UIcommand::GetParameter" alt="" coords="549,573,774,601"/>
+<area shape="rect" id="node16" href="$d9/d78/classG4UIparameter.html#a1088069938aa136315d6456c84ec28af" title="G4UIparameter::GetParameterName" alt="" coords="528,625,795,653"/>
+<area shape="rect" id="node17" href="$d9/d78/classG4UIparameter.html#a36823a6128d92ee0d867787c19612270" title="G4UIparameter::GetParameterType" alt="" coords="532,677,791,705"/>
+<area shape="rect" id="node18" href="$d9/d78/classG4UIparameter.html#a2b5d745523dae402e0488bdb96f209c6" title="G4UIparameter::GetDefault\lValue" alt="" coords="557,729,765,773"/>
+<area shape="rect" id="node19" href="$d9/d78/classG4UIparameter.html#a900f2ae36bc584458e1607f6157d8d0f" title="G4UIparameter::GetParameter\lRange" alt="" coords="547,797,775,841"/>
+<area shape="rect" id="node20" href="$d9/d78/classG4UIparameter.html#aaaa89f2f0a5ebd5dcdbffe7f0745fa1e" title="G4UIparameter::GetParameter\lCandidates" alt="" coords="547,865,775,909"/>
+<area shape="rect" id="node22" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="532,933,791,961"/>
+<area shape="rect" id="node23" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="899,933,1041,961"/>
+<area shape="rect" id="node27" href="$d8/def/classG4UImanager.html#aaf9882646bb6ec655c5c8becffe98772" title="G4UImanager::fUImanager" alt="" coords="559,1157,763,1185"/>
+<area shape="rect" id="node28" href="$d8/def/classG4UImanager.html#aedc7f38c4d4db62a0871da5cfc8d2dec" title="G4UImanager::fUImanagerHas\lBeenKilled" alt="" coords="547,985,776,1029"/>
+<area shape="rect" id="node29" href="$d8/def/classG4UImanager.html#ae4d4d81368fb46e5006bf03646da897b" title="G4UImanager::G4UImanager" alt="" coords="552,1053,771,1081"/>
+<area shape="rect" id="node32" href="$d8/def/classG4UImanager.html#a3e92dbf1941e2e850e9090060fd429d3" title="G4UImanager::CreateMessenger" alt="" coords="540,1105,783,1133"/>
+<area shape="rect" id="node30" href="$d8/def/classG4UImanager.html#a18c91362ccd08d23b96b834da174e5c0" title="G4UImanager::SetCoutDestination" alt="" coords="843,1053,1097,1081"/>
+<area shape="rect" id="node31" href="$d2/dce/classG4strstreambuf.html#a88d7accfe65495690b4b41b08fffb723" title="G4strstreambuf::SetDestination" alt="" coords="1145,1053,1380,1081"/>
+</map>

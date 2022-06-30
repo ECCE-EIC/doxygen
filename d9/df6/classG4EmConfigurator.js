@@ -1,0 +1,26 @@
+var classG4EmConfigurator =
+[
+    [ "G4EmConfigurator", "d9/df6/classG4EmConfigurator.html#a4a7d702a0caa48c593efd99c61a2fce6", null ],
+    [ "~G4EmConfigurator", "d9/df6/classG4EmConfigurator.html#aa16787f5d10f89a3fb72e4944db9d239", null ],
+    [ "G4EmConfigurator", "d9/df6/classG4EmConfigurator.html#a5a7655f7577fafeb6e620ec6112236c8", null ],
+    [ "AddModels", "d9/df6/classG4EmConfigurator.html#a3df6fcfabc417ca2df7408033c24c8a2", null ],
+    [ "Clear", "d9/df6/classG4EmConfigurator.html#ab93172b194be1a710877d228f6d84311", null ],
+    [ "FindRegion", "d9/df6/classG4EmConfigurator.html#a9c08ad770ddec0c56627498c9f5e9ce8", null ],
+    [ "operator=", "d9/df6/classG4EmConfigurator.html#a831d527cb0d4652a6d641e50073c3556", null ],
+    [ "PrepareModels", "d9/df6/classG4EmConfigurator.html#a2d5338c4805c6f56f90226f41e67bf56", null ],
+    [ "PrepareModels", "d9/df6/classG4EmConfigurator.html#ac51aa7d202bd0c8d371c8b11ec5caf51", null ],
+    [ "PrepareModels", "d9/df6/classG4EmConfigurator.html#abd85358655fe2afebc0437f91840d149", null ],
+    [ "SetExtraEmModel", "d9/df6/classG4EmConfigurator.html#a23f9b691bdfd6422fcac7c27cd767ca8", null ],
+    [ "SetModelForRegion", "d9/df6/classG4EmConfigurator.html#a745ad959ccf4b39d1fa56bb63da604d1", null ],
+    [ "SetVerbose", "d9/df6/classG4EmConfigurator.html#a2964f3ff2017792d81f9fb5970e258a9", null ],
+    [ "UpdateModelEnergyRange", "d9/df6/classG4EmConfigurator.html#a9b1f6afadea3777245784851c06ecc71", null ],
+    [ "flucModels", "d9/df6/classG4EmConfigurator.html#aef6a3a63935e26edb2cc6b3dc68dbad5", null ],
+    [ "highEnergy", "d9/df6/classG4EmConfigurator.html#af40082bf4a975bfa7de0a588fdb93596", null ],
+    [ "index", "d9/df6/classG4EmConfigurator.html#a70792ac14879f3bdb11ea9c1893d55f5", null ],
+    [ "lowEnergy", "d9/df6/classG4EmConfigurator.html#a540278bfb6d328f6e0202970ea23a715", null ],
+    [ "models", "d9/df6/classG4EmConfigurator.html#ab51c6377599f1db216ec87494f80ed0d", null ],
+    [ "particles", "d9/df6/classG4EmConfigurator.html#a6f919d6f92f75271004ce3380f58f4e8", null ],
+    [ "processes", "d9/df6/classG4EmConfigurator.html#a4b62e6df29941abd2ddb38e1169dc6af", null ],
+    [ "regions", "d9/df6/classG4EmConfigurator.html#ac648051427a1558bd030cc47c6f09a9b", null ],
+    [ "verbose", "d9/df6/classG4EmConfigurator.html#a427056ad3be5469d0d4a4cba2c4faa05", null ]
+];

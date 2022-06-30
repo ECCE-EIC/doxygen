@@ -1,0 +1,32 @@
+<map id="G4VisCommandSceneAddText::SetNewValue" name="G4VisCommandSceneAddText::SetNewValue">
+<area shape="rect" id="node2" href="$d8/d2c/classG4VVisCommand.html#a405b0cd0c62e05730621eaf0972d8df5" title="G4VVisCommand::CheckScene\lAndNotifyHandlers" alt="" coords="295,68,526,112"/>
+<area shape="rect" id="node3" href="$d0/d0d/classG4VisManager.html#aa0e16695f2aa218f67abdcecc014071d" title="G4VisManager::GetVerbosity" alt="" coords="593,19,809,47"/>
+<area shape="rect" id="node12" href="$d8/d2c/classG4VVisCommand.html#a06e095183f0cb79b88e0167b9824ab80" title="G4VVisCommand::G4VisCommands\lSceneAddUnsuccessful" alt="" coords="279,136,543,180"/>
+<area shape="rect" id="node13" href="$d0/d0d/classG4VisManager.html#a0af953e1209da433fd6220db096f0602" title="G4VisManager::GetCurrent\lScene" alt="" coords="309,204,512,248"/>
+<area shape="rect" id="node14" href="$da/d06/classG4Text.html#a4ace8f5a6ddd554e694fd236be01a4ac" title="G4Text::SetLayout" alt="" coords="338,272,483,300"/>
+<area shape="rect" id="node15" href="$da/d06/classG4Text.html#a8dfa66448f067b8331a739ee56df04dc" title="G4Text::SetOffset" alt="" coords="341,324,481,352"/>
+<area shape="rect" id="node16" href="$da/d97/classG4VMarker.html#a3577873a881fc5c8cf91172ed297bb7f" title="G4VMarker::SetScreenSize" alt="" coords="310,376,511,404"/>
+<area shape="rect" id="node17" href="$d8/dda/classG4Visible.html#a16b219694f07fee10478738dc3263236" title="G4Visible::SetVisAttributes" alt="" coords="309,428,512,456"/>
+<area shape="rect" id="node18" href="$d7/d0e/classG4UImessenger.html#ad4c41b321ec2cd7158fd977911a5ad1b" title="G4UImessenger::StoD" alt="" coords="325,480,496,508"/>
+<area shape="rect" id="node19" href="$d2/dd2/classG4UIcommand.html#a3ae72a3c4295c3a683cdd176767f0a72" title="G4UIcommand::ValueOf" alt="" coords="318,532,503,560"/>
+<area shape="rect" id="node4" href="$da/d94/classG4VSceneHandler.html#a2551757fe296027960d3ad9bded80924" title="G4VSceneHandler::GetScene" alt="" coords="591,75,810,103"/>
+<area shape="rect" id="node5" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="595,127,806,155"/>
+<area shape="rect" id="node6" href="$d8/def/classG4UImanager.html#a3e92dbf1941e2e850e9090060fd429d3" title="G4UImanager::CreateMessenger" alt="" coords="859,44,1101,72"/>
+<area shape="rect" id="node7" href="$d8/def/classG4UImanager.html#aaf9882646bb6ec655c5c8becffe98772" title="G4UImanager::fUImanager" alt="" coords="878,96,1082,124"/>
+<area shape="rect" id="node8" href="$d8/def/classG4UImanager.html#aedc7f38c4d4db62a0871da5cfc8d2dec" title="G4UImanager::fUImanagerHas\lBeenKilled" alt="" coords="865,148,1095,192"/>
+<area shape="rect" id="node9" href="$d8/def/classG4UImanager.html#ae4d4d81368fb46e5006bf03646da897b" title="G4UImanager::G4UImanager" alt="" coords="871,216,1089,244"/>
+<area shape="rect" id="node10" href="$d8/def/classG4UImanager.html#a18c91362ccd08d23b96b834da174e5c0" title="G4UImanager::SetCoutDestination" alt="" coords="1149,216,1404,244"/>
+<area shape="rect" id="node11" href="$d2/dce/classG4strstreambuf.html#a88d7accfe65495690b4b41b08fffb723" title="G4strstreambuf::SetDestination" alt="" coords="1452,216,1687,244"/>
+<area shape="rect" id="node20" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="591,532,811,560"/>
+<area shape="rect" id="node21" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1792,445,1899,473"/>
+<area shape="rect" id="node22" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="879,524,1081,568"/>
+<area shape="rect" id="node27" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="939,656,1021,684"/>
+<area shape="rect" id="node23" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1171,493,1383,537"/>
+<area shape="rect" id="node26" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1735,557,1956,585"/>
+<area shape="rect" id="node24" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1474,493,1665,537"/>
+<area shape="rect" id="node25" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1742,501,1949,529"/>
+<area shape="rect" id="node28" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1169,613,1385,657"/>
+<area shape="rect" id="node29" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1171,681,1383,725"/>
+<area shape="rect" id="node30" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1171,749,1382,793"/>
+<area shape="rect" id="node31" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1485,749,1653,793"/>
+</map>

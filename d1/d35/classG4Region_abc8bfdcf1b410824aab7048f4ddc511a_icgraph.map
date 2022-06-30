@@ -1,0 +1,51 @@
+<map id="G4Region::GetNumberOfRootVolumes" name="G4Region::GetNumberOfRootVolumes">
+<area shape="rect" id="node2" href="$de/d51/classG4RunManagerKernel.html#ac854aa84218822e13f6f555a1b6b1ac5" title="G4RunManagerKernel\l::DumpRegion" alt="" coords="273,313,441,357"/>
+<area shape="rect" id="node3" href="$df/d79/pymodG4geometry_8cc.html#a3fce79c9252066a2a5f4135b788e144c" title="export_G4Region" alt="" coords="289,381,426,409"/>
+<area shape="rect" id="node5" href="$de/d51/classG4RunManagerKernel.html#a027203f14377aa6c229d9841605ef298" title="G4RunManagerKernel\l::SetupDefaultRegion" alt="" coords="273,433,441,477"/>
+<area shape="rect" id="node4" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="489,381,684,409"/>
+<area shape="rect" id="node6" href="$de/d51/classG4RunManagerKernel.html#a6649c4dd2860f9215034aac1b2e8dd59" title="G4RunManagerKernel\l::DefineWorldVolume" alt="" coords="503,433,671,477"/>
+<area shape="rect" id="node7" href="$d8/db0/classG4ErrorRunManagerHelper.html#a60f689763bbd61042c9d5482a9680f68" title="G4ErrorRunManagerHelper\l::InitializeGeometry" alt="" coords="739,280,943,324"/>
+<area shape="rect" id="node17" href="$d4/daa/classG4RunManager.html#a750dd334529d695672036eb928299b78" title="G4RunManager::Initialize\lGeometry" alt="" coords="745,433,936,477"/>
+<area shape="rect" id="node29" href="$d4/daa/classG4RunManager.html#a6994df3bc32a8027535e810eac5c7977" title="G4RunManager::DefineWorld\lVolume" alt="" coords="732,1020,949,1064"/>
+<area shape="rect" id="node8" href="$dd/d88/classG4ErrorPropagatorManager.html#aa0e56394c96f87ecdd15709e9de6c8f7" title="G4ErrorPropagatorManager\l::InitGeant4e" alt="" coords="1025,236,1231,280"/>
+<area shape="rect" id="node9" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="1393,201,1471,229"/>
+<area shape="rect" id="node10" href="$d9/df8/classPHG4GDMLUtility.html#afcf39153171628039001dd7d5f34ee48" title="same as above but use default Geant functions as much as possible" alt="" coords="1645,193,1832,237"/>
+<area shape="rect" id="node11" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="1622,261,1855,289"/>
+<area shape="rect" id="node12" href="$d5/dc4/classG4GDMLParser.html#acfbec4923024be46b2d44e60d22429d4" title="G4GDMLParser::G4GDMLParser" alt="" coords="1623,313,1855,341"/>
+<area shape="rect" id="node13" href="$df/dda/gammaknife_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1711,365,1766,393"/>
+<area shape="rect" id="node14" href="$d2/d3b/classHepMCG4AsciiReaderMessenger.html#ab7cbaf09ff5ed12bb49d8be46467b37c" title="HepMCG4AsciiReaderMessenger\l::SetNewValue" alt="" coords="1618,5,1859,49"/>
+<area shape="rect" id="node15" href="$db/df7/classHadrontherapyDetectorConstruction.html#a1a59dea0a6ce7b6f77a8bd16c6f08e77" title="HadrontherapyDetectorConstruction\l::UpdateGeometry" alt="" coords="1605,73,1872,117"/>
+<area shape="rect" id="node16" href="$dc/d4b/ml2_8cc.html#a31ac0168d355ebbc2d5292645680a728" title="visio" alt="" coords="1713,141,1765,169"/>
+<area shape="rect" id="node18" href="$d4/daa/classG4RunManager.html#a132930138102eb05d93cf24050d5c25c" title="G4RunManager::Initialize" alt="" coords="1033,441,1223,469"/>
+<area shape="rect" id="node19" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="1359,441,1505,469"/>
+<area shape="rect" id="node22" href="$dd/d36/pymodG4run_8cc.html#a40df4755f58bb0bd961be91b7372bd01" title="export_G4RunManager" alt="" coords="1343,597,1521,625"/>
+<area shape="rect" id="node24" href="$d1/d2b/ChargeExchangeMC_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1405,493,1459,521"/>
+<area shape="rect" id="node25" href="$de/d16/classG4MTRunManager.html#a940295ba3e5d03a139c4cee22a9bf95a" title="G4MTRunManager::Initialize" alt="" coords="1327,545,1537,573"/>
+<area shape="rect" id="node26" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="1338,253,1526,297"/>
+<area shape="rect" id="node27" href="$d4/daa/classG4RunManager.html#a457de55cbcf3c02058b49ca0639c39ef" title="G4RunManager::ConfirmBeam\lOnCondition" alt="" coords="1319,321,1545,365"/>
+<area shape="rect" id="node28" href="$d7/dcf/classG4RunMessenger.html#aeef7c7062232da161237e3642a24fbf2" title="G4RunMessenger::SetNewValue" alt="" coords="1313,389,1551,417"/>
+<area shape="rect" id="node20" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="1707,429,1770,457"/>
+<area shape="rect" id="node21" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="1693,481,1784,509"/>
+<area shape="rect" id="node23" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="1641,597,1836,625"/>
+<area shape="rect" id="node30" href="$dc/d5b/classDetectorConstruction.html#a5cb25b8d745e625d0a2e1da8d3b5d90c" title="DetectorConstruction\l::SetMaterial" alt="" coords="1045,783,1211,827"/>
+<area shape="rect" id="node35" href="$dc/d5b/classDetectorConstruction.html#a2742ef0ae83433992902a56693f2c6e5" title="DetectorConstruction\l::UpdateGeometry" alt="" coords="1045,851,1211,895"/>
+<area shape="rect" id="node37" href="$dc/d5b/classDetectorConstruction.html#a4e1f84f91de5c9130ed97659adcf9923" title="DetectorConstruction\l::SetMethod" alt="" coords="1045,919,1211,963"/>
+<area shape="rect" id="node38" href="$dc/d5b/classDetectorConstruction.html#a36d5d4656de7e294c8658a4f8ed031d2" title="DetectorConstruction\l::LoadPDBfile" alt="" coords="1045,987,1211,1031"/>
+<area shape="rect" id="node39" href="$dc/d5b/classDetectorConstruction.html#a6f53afe555e3d3199be6a8b1c554c44c" title="DetectorConstruction\l::BuildBoundingVolume" alt="" coords="1038,1055,1218,1099"/>
+<area shape="rect" id="node40" href="$dc/d5b/classDetectorConstruction.html#a07887cf1c33bb9891c9c207bb0a66cd4" title="DetectorConstruction\l::DrawAtoms_" alt="" coords="1045,1123,1211,1167"/>
+<area shape="rect" id="node41" href="$dc/d5b/classDetectorConstruction.html#a5b7bc24267e3488b0b87f6f7e5f27e3e" title="DetectorConstruction\l::DrawNucleotides_" alt="" coords="1045,1191,1211,1235"/>
+<area shape="rect" id="node42" href="$dc/d5b/classDetectorConstruction.html#a00f80e80d5db49086ddd0f2315f99842" title="DetectorConstruction\l::DrawResidues_" alt="" coords="1045,1259,1211,1303"/>
+<area shape="rect" id="node43" href="$dc/d5b/classDetectorConstruction.html#ae263cc6103364c44797a43a9e86b838e" title="DetectorConstruction\l::DrawAtomsWithBounding_" alt="" coords="1023,1327,1233,1371"/>
+<area shape="rect" id="node44" href="$dc/d5b/classDetectorConstruction.html#ab377eccb01c4b69e436a80da416c6ef0" title="DetectorConstruction\l::DrawNucleotidesWithBounding_" alt="" coords="1004,1395,1252,1439"/>
+<area shape="rect" id="node45" href="$dc/d5b/classDetectorConstruction.html#a25de24a2b45763d186fdc7f7a9b5e189" title="DetectorConstruction\l::DrawResiduesWithBounding_" alt="" coords="1014,1463,1242,1507"/>
+<area shape="rect" id="node46" href="$d5/dd3/classExN03DetectorConstruction.html#ac32249b2fc94913ee036e6e077afba2c" title="ExN03DetectorConstruction\l::UpdateGeometry" alt="" coords="1023,1531,1233,1575"/>
+<area shape="rect" id="node48" href="$d3/d69/classGammaRayTelDetectorConstruction.html#a1f2a12dba2c3b4e9fdc9e27bea5a0148" title="GammaRayTelDetectorConstruction\l::UpdateGeometry" alt="" coords="997,655,1259,699"/>
+<area shape="rect" id="node50" href="$de/d45/classG4GDMLMessenger.html#ad05d2da0985dd73a46985b13fff3eb27" title="G4GDMLMessenger::SetNewValue" alt="" coords="1003,731,1253,759"/>
+<area shape="rect" id="node31" href="$d3/d0e/pytestem0_8cc.html#a84285da0e05ae3942dc90872109a24e8" title="BOOST_PYTHON_MODULE" alt="" coords="1335,853,1529,881"/>
+<area shape="rect" id="node32" href="$dc/d5b/classDetectorConstruction.html#a1533c4308baddd0b2dcdf40f61dea1ef" title="DetectorConstruction\l::DetectorConstruction" alt="" coords="1345,905,1519,949"/>
+<area shape="rect" id="node33" href="$d6/d1f/classDetectorMessenger.html#a855728d4ce6ae4397282bc7375740f2b" title="DetectorMessenger::\lSetNewValue" alt="" coords="1351,717,1513,761"/>
+<area shape="rect" id="node34" href="$db/de6/classDetectorConstructionMessenger.html#aebd395e04c5d11c0b2469bd9af4bd1f9" title="DetectorConstructionMessenger\l::SetNewValue" alt="" coords="1312,785,1552,829"/>
+<area shape="rect" id="node36" href="$dc/d5b/classDetectorConstruction.html#ae8cbab2a1c6d53cd4a52c1a6859b72bb" title="DetectorConstruction\l::SetTargetMaterial" alt="" coords="1349,973,1515,1017"/>
+<area shape="rect" id="node47" href="$db/dea/classExN03DetectorMessenger.html#ae091593b21945856e88dbffa2d9d860a" title="ExN03DetectorMessenger\l::SetNewValue" alt="" coords="1333,1531,1531,1575"/>
+<area shape="rect" id="node49" href="$de/d8e/classGammaRayTelDetectorMessenger.html#a7503e9885597da2e8b6b7898d35363d9" title="GammaRayTelDetectorMessenger\l::SetNewValue" alt="" coords="1307,649,1557,693"/>
+</map>

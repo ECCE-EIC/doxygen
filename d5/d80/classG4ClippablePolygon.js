@@ -1,0 +1,25 @@
+var classG4ClippablePolygon =
+[
+    [ "G4ThreeVectorList", "d5/d80/classG4ClippablePolygon.html#a878882bdece05e4d291be234f3ba0718", null ],
+    [ "G4ClippablePolygon", "d5/d80/classG4ClippablePolygon.html#a1fec4b78e606daa57fb8bff68792e7e3", null ],
+    [ "~G4ClippablePolygon", "d5/d80/classG4ClippablePolygon.html#a8dc504a18978d4d57b6332616257daf7", null ],
+    [ "AddVertexInOrder", "d5/d80/classG4ClippablePolygon.html#a9ed6cb44bf702bb7d34e2500405102ca", null ],
+    [ "BehindOf", "d5/d80/classG4ClippablePolygon.html#adfb0a554214ec31232b9d175c35ace22", null ],
+    [ "ClearAllVertices", "d5/d80/classG4ClippablePolygon.html#ab599b6627471354415cc12f57b950b81", null ],
+    [ "Clip", "d5/d80/classG4ClippablePolygon.html#a2b321137f93a1dd8a93fa0f535f15ddd", null ],
+    [ "ClipAlongOneAxis", "d5/d80/classG4ClippablePolygon.html#abd630abbc0cfa21f9c2f8837ee6cbbd0", null ],
+    [ "ClipToSimpleLimits", "d5/d80/classG4ClippablePolygon.html#a754b8fb8ae456e60eed041107efe15b2", null ],
+    [ "Empty", "d5/d80/classG4ClippablePolygon.html#acf8c3bdd321af774dd1355e612365b6a", null ],
+    [ "GetExtent", "d5/d80/classG4ClippablePolygon.html#aa3e604f83e12a4d722e7cb2658ab439e", null ],
+    [ "GetMaxPoint", "d5/d80/classG4ClippablePolygon.html#a9eac55bc5024341e9a8950858fa4513f", null ],
+    [ "GetMinPoint", "d5/d80/classG4ClippablePolygon.html#a21e5c35bff694c2b27650cf374c0e853", null ],
+    [ "GetNormal", "d5/d80/classG4ClippablePolygon.html#a222ed69166f03bebef8fce5a353066ff", null ],
+    [ "GetNumVertices", "d5/d80/classG4ClippablePolygon.html#a553433f15108b153447ed350e65b50cf", null ],
+    [ "GetPlanerExtent", "d5/d80/classG4ClippablePolygon.html#aaeb247fdf8a76a809ebb29688cb2fd7a", null ],
+    [ "InFrontOf", "d5/d80/classG4ClippablePolygon.html#a9b3acc3e59d2b7f99099340617ca3931", null ],
+    [ "PartialClip", "d5/d80/classG4ClippablePolygon.html#a30fd15a811d6dfebfcddd4e5a72b6b30", null ],
+    [ "SetNormal", "d5/d80/classG4ClippablePolygon.html#aeed8311f908f92fc8e01ee59482bc95b", null ],
+    [ "kCarTolerance", "d5/d80/classG4ClippablePolygon.html#ab74a5569d0c30b79dac8be20bb37b4ee", null ],
+    [ "normal", "d5/d80/classG4ClippablePolygon.html#a83e8d38e2ed9e3d3c991f70d96b2ba29", null ],
+    [ "vertices", "d5/d80/classG4ClippablePolygon.html#a504d2ab7e0f4d7d3e16c1b929e8d25a0", null ]
+];

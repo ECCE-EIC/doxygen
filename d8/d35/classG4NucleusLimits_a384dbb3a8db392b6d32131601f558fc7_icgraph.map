@@ -1,0 +1,18 @@
+<map id="G4NucleusLimits::GetAMin" name="G4NucleusLimits::GetAMin">
+<area shape="rect" id="node2" href="$dc/dc7/classG4UIcmdWithNucleusLimits.html#afa41ea2b8e72340390d5bc22e8482ef2" title="G4UIcmdWithNucleusLimits\l::ConvertToString" alt="" coords="253,68,461,112"/>
+<area shape="rect" id="node3" href="$dc/d8e/classG4RadioactiveDecayBase.html#a36499eb7de8015ec4b4f7c6a56003b8e" title="G4RadioactiveDecayBase\l::IsApplicable" alt="" coords="260,136,455,180"/>
+<area shape="rect" id="node11" href="$df/d5e/classG4RadioactiveDecay.html#aac07ae18824934c56990b7e592b8590f" title="G4RadioactiveDecay\l::IsApplicable" alt="" coords="276,204,439,248"/>
+<area shape="rect" id="node16" href="$d1/ddb/G4NucleusLimits_8cc.html#a1f71d6072b7fce6a0aeb0da5d4a2974b" title="operator\&lt;\&lt;" alt="" coords="307,272,408,300"/>
+<area shape="rect" id="node17" href="$dc/dc7/classG4UIcmdWithNucleusLimits.html#afa80ba84175d1f532b0ef406b2e54ff4" title="G4UIcmdWithNucleusLimits\l::SetDefaultValue" alt="" coords="253,324,461,368"/>
+<area shape="rect" id="node4" href="$d0/dfa/classG4Radioactivation.html#a74c7e92e68178b8a283851002fadde1f" title="G4Radioactivation::\lCalculateChainsFromParent" alt="" coords="514,16,721,60"/>
+<area shape="rect" id="node5" href="$d0/dfa/classG4Radioactivation.html#a5f3f52eb546d59390dd2e633ebc1918f" title="G4Radioactivation::\lDecayIt" alt="" coords="794,23,947,67"/>
+<area shape="rect" id="node8" href="$dc/d8e/classG4RadioactiveDecayBase.html#a6ccd9cb11bb27fd2eee79015112793c9" title="G4RadioactiveDecayBase\l::DecayIt" alt="" coords="520,136,715,180"/>
+<area shape="rect" id="node6" href="$d0/dfa/classG4Radioactivation.html#a5e992a9701e77174b5815b47b8aea8a4" title="G4Radioactivation::\lAtRestDoIt" alt="" coords="1021,5,1174,49"/>
+<area shape="rect" id="node7" href="$d0/dfa/classG4Radioactivation.html#a9346a1112a2666c53aa9cf34646494ff" title="G4Radioactivation::\lPostStepDoIt" alt="" coords="1021,73,1174,117"/>
+<area shape="rect" id="node9" href="$dc/d8e/classG4RadioactiveDecayBase.html#a57376089a83ff548766bd51f4dfd125e" title="G4RadioactiveDecayBase\l::AtRestDoIt" alt="" coords="773,96,968,140"/>
+<area shape="rect" id="node10" href="$dc/d8e/classG4RadioactiveDecayBase.html#a79c116f8e803847749467c6182c6adfb" title="G4RadioactiveDecayBase\l::PostStepDoIt" alt="" coords="773,164,968,208"/>
+<area shape="rect" id="node12" href="$df/d5e/classG4RadioactiveDecay.html#ab2df89151fb5f31f8e617f8bce1bef77" title="G4RadioactiveDecay\l::CalculateChainsFromParent" alt="" coords="509,204,725,248"/>
+<area shape="rect" id="node13" href="$df/d5e/classG4RadioactiveDecay.html#a99665f00c3be293c00a1e94108faf7fb" title="G4RadioactiveDecay\l::DecayIt" alt="" coords="789,243,952,287"/>
+<area shape="rect" id="node14" href="$df/d5e/classG4RadioactiveDecay.html#a0fb4257aca98bf87d751a0021dcf4639" title="G4RadioactiveDecay\l::AtRestDoIt" alt="" coords="1016,175,1179,219"/>
+<area shape="rect" id="node15" href="$df/d5e/classG4RadioactiveDecay.html#aff9187bc33e0500c36b77d5fe7ffeb95" title="G4RadioactiveDecay\l::PostStepDoIt" alt="" coords="1016,243,1179,287"/>
+</map>

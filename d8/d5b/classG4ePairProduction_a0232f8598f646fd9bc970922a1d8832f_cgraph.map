@@ -1,0 +1,14 @@
+<map id="G4ePairProduction::InitialiseEnergyLossProcess" name="G4ePairProduction::InitialiseEnergyLossProcess">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#aab335b4e1c433094f00a206d2b098fe9" title="G4VEnergyLossProcess\l::AddEmModel" alt="" coords="293,23,470,67"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="304,91,459,135"/>
+<area shape="rect" id="node7" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="279,159,484,187"/>
+<area shape="rect" id="node8" href="$dc/d54/classG4EmParameters.html#a67fb789cf4d122524cc8122b648c9fea" title="G4EmParameters::MaxKinEnergy" alt="" coords="259,211,504,239"/>
+<area shape="rect" id="node9" href="$dc/d54/classG4EmParameters.html#a1caef9134899c9b2936c4c095ed029d9" title="G4EmParameters::MinKinEnergy" alt="" coords="261,263,502,291"/>
+<area shape="rect" id="node10" href="$da/d80/classG4VEnergyLossProcess.html#a6851d65374706f753194b745ad53bde4" title="G4VEnergyLossProcess\l::SetEmModel" alt="" coords="293,315,470,359"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="270,383,493,427"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="273,451,490,495"/>
+<area shape="rect" id="node13" href="$da/de8/classG4MuPairProductionModel.html#ad7357053d88241e1e21ce883a6e2a37a" title="G4MuPairProductionModel\l::SetLowestKineticEnergy" alt="" coords="283,519,480,563"/>
+<area shape="rect" id="node3" href="$dd/de5/classG4EmModelManager.html#a07a87cc0684d520becd4ab68472eded0" title="G4EmModelManager::AddEmModel" alt="" coords="552,5,811,33"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="559,57,803,85"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a8a0058208f810612a43b141f61242a98" title="G4VEmModel::DefineForRegion" alt="" coords="859,5,1091,33"/>
+</map>

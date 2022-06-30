@@ -1,0 +1,20 @@
+<map id="G4LogicalVolume::AddDaughter" name="G4LogicalVolume::AddDaughter">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="345,5,452,33"/>
+<area shape="rect" id="node3" href="$da/dc4/classG4LogicalVolume.html#a1aeb61213433ed220b640151ed2441a6" title="G4LogicalVolume::GetField\lManager" alt="" coords="583,40,786,84"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="603,108,767,152"/>
+<area shape="rect" id="node5" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="317,252,481,296"/>
+<area shape="rect" id="node6" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="293,320,504,348"/>
+<area shape="rect" id="node7" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="357,372,440,400"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#aa7d6b09f0f20efff427217efcbe6efe8" title="G4LogicalVolume::Propagate\lRegion" alt="" coords="291,424,507,468"/>
+<area shape="rect" id="node13" href="$d1/d35/classG4Region.html#a58af2e9a364d86c98d6a4c6679658488" title="G4Region::RegionModified" alt="" coords="299,492,499,520"/>
+<area shape="rect" id="node14" href="$da/dc4/classG4LogicalVolume.html#a25a3f9e25e873ebc8bee7128d2eeff52" title="G4LogicalVolume::SetField\lManager" alt="" coords="299,184,499,228"/>
+<area shape="rect" id="node19" href="$d1/d28/classG4VPhysicalVolume.html#a2473a630b434777eb5f1456e090b0040" title="G4VPhysicalVolume::\lVolumeType" alt="" coords="317,544,481,588"/>
+<area shape="rect" id="node8" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="577,348,793,392"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="579,416,791,460"/>
+<area shape="rect" id="node10" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="579,484,790,528"/>
+<area shape="rect" id="node11" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="889,484,1057,528"/>
+<area shape="rect" id="node15" href="$da/dc4/classG4LogicalVolume.html#ad7fbcbeba0e6c0b757599c265348f723" title="G4LogicalVolume::AssignField\lManager" alt="" coords="573,176,796,220"/>
+<area shape="rect" id="node17" href="$da/dc4/classG4LogicalVolume.html#ad6683871d75da05168f6bfce5a32f85f" title="G4LogicalVolume::GetNoDaughters" alt="" coords="555,244,815,272"/>
+<area shape="rect" id="node18" href="$da/dc4/classG4LogicalVolume.html#ab8e71d7314a32cce675f385254e572e8" title="G4LogicalVolume::GetDaughter" alt="" coords="567,296,803,324"/>
+<area shape="rect" id="node16" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="863,184,1084,212"/>
+</map>

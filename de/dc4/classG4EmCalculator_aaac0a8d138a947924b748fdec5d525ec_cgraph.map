@@ -1,0 +1,33 @@
+<map id="G4EmCalculator::ComputeNuclearDEDX" name="G4EmCalculator::ComputeNuclearDEDX">
+<area shape="rect" id="node2" href="$de/dc4/classG4EmCalculator.html#a41cc976ea2bc833a07b7271ae83925af" title="G4EmCalculator::ComputeNuclearDEDX" alt="" coords="344,235,635,263"/>
+<area shape="rect" id="node17" href="$de/dc4/classG4EmCalculator.html#af916cb6f6ae1901a27b45973d02a0c43" title="G4EmCalculator::FindMaterial" alt="" coords="379,425,600,453"/>
+<area shape="rect" id="node21" href="$de/dc4/classG4EmCalculator.html#a014d0626678391390a973a59511444f0" title="G4EmCalculator::FindParticle" alt="" coords="381,511,598,539"/>
+<area shape="rect" id="node3" href="$d3/dc1/classG4VEmModel.html#ac9c15eda9b9b1c1f1ed99a08f1ccbf9c" title="G4VEmModel::ComputeDEDXPer\lVolume" alt="" coords="685,39,927,83"/>
+<area shape="rect" id="node4" href="$de/dc4/classG4EmCalculator.html#ad1cf399d3ae69285b0ccd1f13fae8486" title="G4EmCalculator::FindDiscrete\lProcess" alt="" coords="695,107,917,151"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="716,175,896,203"/>
+<area shape="rect" id="node13" href="$d0/dfb/classG4VEmProcess.html#a2bbaf49bfa65bd041e4458bd5fda337e" title="G4VEmProcess::GetModelBy\lIndex" alt="" coords="699,227,913,271"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1321,252,1476,296"/>
+<area shape="rect" id="node16" href="$d3/dc1/classG4VEmModel.html#a6c61305ac25650db6205df16c779bf20" title="G4VEmModel::SetFluctuationFlag" alt="" coords="683,347,929,375"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4LossTableManager.html#a3699ad8b6e96e4cc7baf8cff553f0e3b" title="G4LossTableManager\l::GetEmProcessVector" alt="" coords="1014,48,1185,92"/>
+<area shape="rect" id="node6" href="$de/dc4/classG4EmCalculator.html#a9c41d64b25dc6832516084639160f82d" title="G4EmCalculator::ActiveFor\lParticle" alt="" coords="998,116,1201,160"/>
+<area shape="rect" id="node7" href="$d5/d2e/classG4ProcessManager.html#a074f535936aac0cb8b5e30fcf65cd349" title="G4ProcessManager::GetProcess\lActivation" alt="" coords="1281,5,1516,49"/>
+<area shape="rect" id="node9" href="$d5/d2e/classG4ProcessManager.html#ac626c1a0a98c410780ea9bf2bde009a4" title="G4ProcessManager::GetProcessList" alt="" coords="1269,73,1528,101"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="1316,125,1481,169"/>
+<area shape="rect" id="node11" href="$d5/da4/classG4ProcessVector.html#a69e9b8948639870fb11412c66b4ad24d" title="G4ProcessVector::size" alt="" coords="1314,193,1483,221"/>
+<area shape="rect" id="node8" href="$d5/d2e/classG4ProcessManager.html#a86fa6d1da65aaf05282760ddee51c37d" title="G4ProcessManager::GetProcess\lIndex" alt="" coords="1576,5,1811,49"/>
+<area shape="rect" id="node14" href="$dd/de5/classG4EmModelManager.html#ae786c0776b8d0ab9070b7455e5ea3b42" title="G4EmModelManager::GetModel" alt="" coords="982,239,1217,267"/>
+<area shape="rect" id="node18" href="$de/dc4/classG4EmCalculator.html#ac511a8f28c961c1a482dd1d0aca52b33" title="G4EmCalculator::SetupMaterial" alt="" coords="689,399,923,427"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="715,451,897,479"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1015,405,1183,433"/>
+<area shape="rect" id="node22" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="702,503,910,547"/>
+<area shape="rect" id="node29" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="700,596,912,624"/>
+<area shape="rect" id="node23" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="999,469,1200,513"/>
+<area shape="rect" id="node24" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1311,325,1487,369"/>
+<area shape="rect" id="node25" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1311,393,1487,437"/>
+<area shape="rect" id="node26" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1307,581,1490,609"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1321,461,1476,505"/>
+<area shape="rect" id="node28" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1285,529,1513,557"/>
+<area shape="rect" id="node30" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="977,633,1221,661"/>
+<area shape="rect" id="node32" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="987,685,1211,713"/>
+<area shape="rect" id="node31" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1345,633,1452,661"/>
+</map>

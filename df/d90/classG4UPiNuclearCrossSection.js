@@ -1,0 +1,28 @@
+var classG4UPiNuclearCrossSection =
+[
+    [ "G4UPiNuclearCrossSection", "df/d90/classG4UPiNuclearCrossSection.html#a4239bdcf923451df69d48b3280360bd1", null ],
+    [ "~G4UPiNuclearCrossSection", "df/d90/classG4UPiNuclearCrossSection.html#a0af5094396d6226c57104ebd7171265a", null ],
+    [ "AddDataSet", "df/d90/classG4UPiNuclearCrossSection.html#a3f1b3d6da725ff893578842aaa37d7da", null ],
+    [ "BuildPhysicsTable", "df/d90/classG4UPiNuclearCrossSection.html#a52067568bb6e882498c8c87af89d57ac", null ],
+    [ "CrossSectionDescription", "df/d90/classG4UPiNuclearCrossSection.html#a9cdc225c2722e1366bd6a9d154795609", null ],
+    [ "DumpPhysicsTable", "df/d90/classG4UPiNuclearCrossSection.html#adfe37b2f00459850b72b9c7dc4848574", null ],
+    [ "GetElasticCrossSection", "df/d90/classG4UPiNuclearCrossSection.html#ac3612abddc87a2e83e4e579f4b1b1a26", null ],
+    [ "GetInelasticCrossSection", "df/d90/classG4UPiNuclearCrossSection.html#a123785c187aef74228f116d5f3718ea3", null ],
+    [ "Interpolate", "df/d90/classG4UPiNuclearCrossSection.html#ab62ca630fb582216a93348ca09bc3cb1", null ],
+    [ "IsElementApplicable", "df/d90/classG4UPiNuclearCrossSection.html#a454b9380501bef66b87cf2e997ef3e5c", null ],
+    [ "LoadData", "df/d90/classG4UPiNuclearCrossSection.html#a9e6f711fb6a02441d64e3fac9a3cf1cb", null ],
+    [ "APower", "df/d90/classG4UPiNuclearCrossSection.html#a72381986d29ef4f92a4f5861afd67428", null ],
+    [ "aPower", "df/d90/classG4UPiNuclearCrossSection.html#a4b1d0c9513dab50f9ba764e41c88d1ab", null ],
+    [ "elow", "df/d90/classG4UPiNuclearCrossSection.html#a4ad17a9cc148f0d598c90232b8185de8", null ],
+    [ "idxZ", "df/d90/classG4UPiNuclearCrossSection.html#a4fb4ddcfa20d8e6e3d639a1f4023c877", null ],
+    [ "isMaster", "df/d90/classG4UPiNuclearCrossSection.html#abb237d8ad47531b0cca2be37c3aaa942", null ],
+    [ "NZ", "df/d90/classG4UPiNuclearCrossSection.html#a5944e6d321e443f759eed066c67f5785", null ],
+    [ "piMinus", "df/d90/classG4UPiNuclearCrossSection.html#a76af2c434c815c08d38fecde40b70372", null ],
+    [ "piMinusElastic", "df/d90/classG4UPiNuclearCrossSection.html#a5d62854798878953e7b65b7f9330a6db", null ],
+    [ "piMinusInelastic", "df/d90/classG4UPiNuclearCrossSection.html#ab83c9734ee9601b97090e4a337534c56", null ],
+    [ "piPlus", "df/d90/classG4UPiNuclearCrossSection.html#a0f7cf35f3abc9b553dae50e13c6c12a2", null ],
+    [ "piPlusElastic", "df/d90/classG4UPiNuclearCrossSection.html#a3be26ae1befbc671a36208c65c0ca55a", null ],
+    [ "piPlusInelastic", "df/d90/classG4UPiNuclearCrossSection.html#ab2b7163b2868ff8ea36b275fc944cef4", null ],
+    [ "theA", "df/d90/classG4UPiNuclearCrossSection.html#aec476e6896f838002f15177674adfa65", null ],
+    [ "theZ", "df/d90/classG4UPiNuclearCrossSection.html#a6df1d66aa50e65ca8c6e478b30f94cf5", null ]
+];

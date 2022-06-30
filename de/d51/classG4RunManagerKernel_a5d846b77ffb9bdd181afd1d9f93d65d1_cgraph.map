@@ -1,0 +1,14 @@
+<map id="G4RunManagerKernel::WorkerUpdateWorldVolume" name="G4RunManagerKernel::WorkerUpdateWorldVolume">
+<area shape="rect" id="node2" href="$de/d16/classG4MTRunManager.html#ab4c4f53820e73b76b57ec49c76810b19" title="G4MTRunManager::GetMaster\lRunManager" alt="" coords="269,5,495,49"/>
+<area shape="rect" id="node3" href="$de/d16/classG4MTRunManager.html#a0cb8faeb75f853d78b2a3d4892215d14" title="G4MTRunManager::GetMaster\lWorlds" alt="" coords="269,73,495,117"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="300,141,464,185"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="276,209,488,253"/>
+<area shape="rect" id="node12" href="$d1/dd0/classG4TransportationManager.html#a734db4234c816e7f8e4bc7101a32617f" title="G4TransportationManager\l::IsWorldExisting" alt="" coords="283,277,481,321"/>
+<area shape="rect" id="node13" href="$d1/dd0/classG4TransportationManager.html#a19f24e512c6f479b9f8f7ee5653f736b" title="G4TransportationManager\l::RegisterWorld" alt="" coords="283,345,481,389"/>
+<area shape="rect" id="node6" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="543,209,749,253"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="858,97,965,125"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="814,149,1009,193"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="835,217,988,245"/>
+<area shape="rect" id="node10" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="826,269,997,297"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="797,321,1025,349"/>
+</map>

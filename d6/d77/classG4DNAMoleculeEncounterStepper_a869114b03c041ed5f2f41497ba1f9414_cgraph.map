@@ -1,0 +1,19 @@
+<map id="G4DNAMoleculeEncounterStepper::CalculateStep" name="G4DNAMoleculeEncounterStepper::CalculateStep">
+<area shape="rect" id="node2" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a4f7164d4cfacbeee2e7035cd3fec7a01" title="G4DNAMolecularReactionTable\l::CanReactWith" alt="" coords="319,22,548,66"/>
+<area shape="rect" id="node5" href="$d6/d77/classG4DNAMoleculeEncounterStepper.html#a02c01f3da36f32e6a8c9913e04caae6c" title="G4DNAMoleculeEncounterStepper\l::CheckAndRecordResults" alt="" coords="307,209,560,253"/>
+<area shape="rect" id="node6" href="$d9/d66/classG4Molecule.html#af42666e07f5f1e12f08879099e580eb6" title="G4Molecule::GetName" alt="" coords="615,82,788,110"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="622,394,781,422"/>
+<area shape="rect" id="node12" href="$d8/d41/G4Molecule_8hh.html#a75a27630387017f1e6bce5a322b6be12" title="GetMolecule" alt="" coords="381,329,486,357"/>
+<area shape="rect" id="node15" href="$d8/de2/classG4VDNAReactionModel.html#ada5b858bb4e0874dd53db89490a9faed" title="G4VDNAReactionModel\l::GetReactionRadius" alt="" coords="344,381,523,425"/>
+<area shape="rect" id="node16" href="$d8/de2/classG4VDNAReactionModel.html#a0a4f7bb700e16d21d220a9f62ddb0466" title="G4VDNAReactionModel\l::Initialise" alt="" coords="344,449,523,493"/>
+<area shape="rect" id="node17" href="$d6/d77/classG4DNAMoleculeEncounterStepper.html#a2082b9e1ea820d9a830033b5ff6d6e44" title="G4DNAMoleculeEncounterStepper\l::InitializeForNewTrack" alt="" coords="307,517,560,561"/>
+<area shape="rect" id="node18" href="$db/d43/classG4ITFinder.html#a80b5b2d96924f7902ab7e76135988aef" title="G4ITFinder::Instance" alt="" coords="353,585,513,613"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="648,30,755,58"/>
+<area shape="rect" id="node4" href="$dc/da7/classG4MolecularConfiguration.html#ac0ea10e9cfcd951bf21dbf2bb28dee5f" title="G4MolecularConfiguration\l::GetName" alt="" coords="853,74,1050,118"/>
+<area shape="rect" id="node7" href="$d3/d7e/classG4IT.html#af59049a299e409bc647ba78d04b02f02" title="G4IT::GetTrack" alt="" coords="641,186,761,214"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="608,238,795,266"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="609,290,794,318"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="621,342,782,370"/>
+<area shape="rect" id="node13" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="672,446,731,474"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="843,446,1060,474"/>
+</map>

@@ -1,0 +1,28 @@
+var classG4XDeltaNstarTable =
+[
+    [ "G4XDeltaNstarTable", "d1/d64/classG4XDeltaNstarTable.html#a4ed605dcadc94355e4f043d96b72c5b5", null ],
+    [ "~G4XDeltaNstarTable", "d1/d64/classG4XDeltaNstarTable.html#ad9490c6346f9d6a4fc4ffeab6c966d2a", null ],
+    [ "G4XDeltaNstarTable", "d1/d64/classG4XDeltaNstarTable.html#af1a115946be5868ecc6f8dcf6a3d2b96", null ],
+    [ "CrossSectionTable", "d1/d64/classG4XDeltaNstarTable.html#a0fc61ab99c8d4834035cde2cd43774f9", null ],
+    [ "operator!=", "d1/d64/classG4XDeltaNstarTable.html#aedb11bb4979184d21133d512ecd329e1", null ],
+    [ "operator=", "d1/d64/classG4XDeltaNstarTable.html#a7bfe286b886cf85ef9f727b17fe3c415", null ],
+    [ "operator==", "d1/d64/classG4XDeltaNstarTable.html#ac240abe33f35258eac8a6ae803226c1d", null ],
+    [ "energyTable", "d1/d64/classG4XDeltaNstarTable.html#a48d24b5b37ad4a21ae591890e416657c", null ],
+    [ "sigmaDN1440", "d1/d64/classG4XDeltaNstarTable.html#aa371d0769fa0c1ec1cf279e7b0d96bd8", null ],
+    [ "sigmaDN1520", "d1/d64/classG4XDeltaNstarTable.html#aab9f234b9e65abc219fe30b7b1fa90d0", null ],
+    [ "sigmaDN1535", "d1/d64/classG4XDeltaNstarTable.html#ad5143d8246a4cf087146a3056be10d49", null ],
+    [ "sigmaDN1650", "d1/d64/classG4XDeltaNstarTable.html#a6c3e1377c259e16168f356225162e3a6", null ],
+    [ "sigmaDN1675", "d1/d64/classG4XDeltaNstarTable.html#adc06c511d7fd5f043d533ffadcd93459", null ],
+    [ "sigmaDN1680", "d1/d64/classG4XDeltaNstarTable.html#a1fd3e32071501fdf66f503d8fb15d22f", null ],
+    [ "sigmaDN1700", "d1/d64/classG4XDeltaNstarTable.html#add3b62912e4af4ea6270db39983496d1", null ],
+    [ "sigmaDN1710", "d1/d64/classG4XDeltaNstarTable.html#a2ccacdfc647516fc22172239526e4b44", null ],
+    [ "sigmaDN1720", "d1/d64/classG4XDeltaNstarTable.html#a700ac1c06c8a5b07d02dd496b5704b65", null ],
+    [ "sigmaDN1900", "d1/d64/classG4XDeltaNstarTable.html#af61b91277617067b8189f1bc1a43575d", null ],
+    [ "sigmaDN1990", "d1/d64/classG4XDeltaNstarTable.html#a3b2e6bc1ad4e78b291092ad345fcfc40", null ],
+    [ "sigmaDN2090", "d1/d64/classG4XDeltaNstarTable.html#a240ee6fe92c0d3c61e062d70852e6707", null ],
+    [ "sigmaDN2190", "d1/d64/classG4XDeltaNstarTable.html#a147cc955436ec4397a2a0e80d8be1c5e", null ],
+    [ "sigmaDN2220", "d1/d64/classG4XDeltaNstarTable.html#a4be25dabe64b56a34191a48e8cc515cf", null ],
+    [ "sigmaDN2250", "d1/d64/classG4XDeltaNstarTable.html#ab6de3a11f4ab4f10f348818317b593c8", null ],
+    [ "sizeDeltaNstar", "d1/d64/classG4XDeltaNstarTable.html#a9da1243417834b667e03daefea22be71", null ],
+    [ "xMap", "d1/d64/classG4XDeltaNstarTable.html#ae46be1acc0ed2f32fb4903dac598a956", null ]
+];

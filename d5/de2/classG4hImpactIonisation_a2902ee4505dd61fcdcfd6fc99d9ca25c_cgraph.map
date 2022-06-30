@@ -1,0 +1,28 @@
+<map id="G4hImpactIonisation::AntiProtonParametrisedDEDX" name="G4hImpactIonisation::AntiProtonParametrisedDEDX">
+<area shape="rect" id="node2" href="$dd/dc6/classG4AntiProton.html#a7e7c7ed20bde364fcd7123b41a1f0034" title="G4AntiProton::AntiProton" alt="" coords="281,107,471,135"/>
+<area shape="rect" id="node17" href="$d5/de2/classG4hImpactIonisation.html#ad19d75f9c80bcc8f09304db1babab81a" title="G4hImpactIonisation\l::DeltaRaysEnergy" alt="" coords="295,263,457,307"/>
+<area shape="rect" id="node19" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="597,211,675,239"/>
+<area shape="rect" id="node20" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="550,383,722,427"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="292,383,460,411"/>
+<area shape="rect" id="node23" href="$d4/d6c/classG4VLowEnergyModel.html#aa5dbceee03590874813728da8884fca2" title="G4VLowEnergyModel::\lIsInCharge" alt="" coords="290,435,462,479"/>
+<area shape="rect" id="node24" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="308,159,444,187"/>
+<area shape="rect" id="node27" href="$d4/d6c/classG4VLowEnergyModel.html#aa6f2dd78e6b5fba3b3cb3039f79fda7e" title="G4VLowEnergyModel::\lTheValue" alt="" coords="290,503,462,547"/>
+<area shape="rect" id="node3" href="$dd/dc6/classG4AntiProton.html#a1ea46ed016ebc7f421fe7614979e4867" title="G4AntiProton::Definition" alt="" coords="543,107,729,135"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="801,133,1013,161"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1101,5,1265,49"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="803,185,1011,229"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="808,65,1007,109"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1061,73,1305,101"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1071,125,1295,153"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1376,161,1559,189"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1414,43,1521,71"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1083,244,1284,288"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1379,333,1555,377"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1379,401,1555,445"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1390,213,1545,257"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1353,281,1581,309"/>
+<area shape="rect" id="node18" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="550,263,722,307"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a60d52ac75b43c5e56865837e1a5b6798" title="G4Material::GetElectronDensity" alt="" coords="519,331,753,359"/>
+<area shape="rect" id="node25" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="557,159,715,187"/>
+<area shape="rect" id="node26" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="845,253,969,281"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="GB01DetectorConstruction::ConstructSDandField" name="GB01DetectorConstruction::ConstructSDandField">
+<area shape="rect" id="node2" href="$d4/d77/classGB01BOptrMultiParticleChangeCrossSection.html#a924897cab1bc120d33096bf39464f60f" title="GB01BOptrMultiParticleChange\lCrossSection::AddParticle" alt="" coords="256,344,488,388"/>
+<area shape="rect" id="node14" href="$d1/d27/classG4VBiasingOperator.html#a778671d1061e6658c1bcd46cda71736e" title="G4VBiasingOperator\l::AttachTo" alt="" coords="292,551,452,595"/>
+<area shape="rect" id="node18" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="537,611,747,639"/>
+<area shape="rect" id="node19" href="$d1/d27/classG4VBiasingOperator.html#ab143e7fdd956d55c8cdaf0b84b4b9b55" title="G4VBiasingOperator\l::GetName" alt="" coords="562,663,722,707"/>
+<area shape="rect" id="node20" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="555,731,729,775"/>
+<area shape="rect" id="node21" href="$d9/df2/classG4LogicalVolumeStore.html#a0e77b1ad778eb286695edf4567174e65" title="G4LogicalVolumeStore\l::GetVolume" alt="" coords="285,785,459,829"/>
+<area shape="rect" id="node3" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="536,325,748,353"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1149,429,1255,457"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="538,232,746,276"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="796,300,1040,328"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1111,261,1293,289"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="806,352,1030,380"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="817,155,1019,199"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1125,5,1279,49"/>
+<area shape="rect" id="node11" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1114,73,1290,117"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1114,141,1290,185"/>
+<area shape="rect" id="node13" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1088,209,1316,237"/>
+<area shape="rect" id="node15" href="$d6/df6/classG4MapCache.html#a7cd67f60dbf2341c9dc182d775c5f294" title="G4MapCache::End" alt="" coords="569,559,715,587"/>
+<area shape="rect" id="node17" href="$d6/df6/classG4MapCache.html#a74f303a078c3c4dc995b53ec96309659" title="G4MapCache::Find" alt="" coords="569,507,715,535"/>
+<area shape="rect" id="node16" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="860,533,976,561"/>
+<area shape="rect" id="node22" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="601,892,683,920"/>
+<area shape="rect" id="node23" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="810,919,1026,963"/>
+<area shape="rect" id="node24" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="812,851,1024,895"/>
+<area shape="rect" id="node25" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="813,987,1023,1031"/>
+<area shape="rect" id="node26" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1118,987,1286,1031"/>
+</map>

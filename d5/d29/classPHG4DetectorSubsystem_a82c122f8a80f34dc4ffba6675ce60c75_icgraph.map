@@ -1,0 +1,51 @@
+<map id="PHG4DetectorSubsystem::set_string_param" name="PHG4DetectorSubsystem::set_string_param">
+<area shape="rect" id="node2" href="$de/dd6/G4__AllSilicon_8C.html#a8fb332b6d50ac62c7a7c6c45c8c213c0" title="AllSiliconSetup" alt="" coords="324,5,448,33"/>
+<area shape="rect" id="node3" href="$d8/d04/G4__Barrel__EIC_8C.html#a5c00158e306db90afea0f2232e5026a3" title="Barrel" alt="" coords="355,57,417,85"/>
+<area shape="rect" id="node4" href="$d1/d40/G4__BECAL_8C.html#a7c543173864df397450620abfddde1d5" title="BECALSetup" alt="" coords="333,109,439,137"/>
+<area shape="rect" id="node5" href="$dd/d6b/G4__BMMG_8C.html#adc20c046d934a809ae3b107c89860396" title="BMMGSetup" alt="" coords="334,161,438,189"/>
+<area shape="rect" id="node6" href="$dc/df8/G4__BToF_8C.html#a35ee936dff6b2506c6818dc1937859a2" title="Build_G4_BTof" alt="" coords="327,213,445,241"/>
+<area shape="rect" id="node7" href="$d9/d7a/G4__mRwell__EIC_8C.html#abfa92aeb6827b529146797ca3b25ba00" title="Build_G4_RWell_Bare" alt="" coords="305,265,467,293"/>
+<area shape="rect" id="node8" href="$d9/d7a/G4__mRwell__EIC_8C.html#ab389de06bb7d6a0f1d8a9d703435835e" title="Build_G4_RWell_Sup01" alt="" coords="299,317,473,345"/>
+<area shape="rect" id="node9" href="$d8/d4c/G4__CEmc__EIC_8C.html#ac778c2f88602e04311ada5c27fcb1e46" title="CEmc" alt="" coords="356,421,416,449"/>
+<area shape="rect" id="node10" href="$d5/d9f/Fun4All__G4__Momentum__Projection__Calorimeters_8C.html#a5f9b4c65bb2070aedfd707dfc2d2cace" title="Fun4All_G4_Momentum\l_Projection_Calorimeters" alt="" coords="575,388,764,432"/>
+<area shape="rect" id="node11" href="$d7/ddc/G4__CEmc__Spacal_8C.html#aa767c00f7d7124fb60c23ad54eac116b" title="EMCal setup macro &#45; 1D azimuthal projective SPACAL." alt="" coords="288,473,484,501"/>
+<area shape="rect" id="node12" href="$d7/ddc/G4__CEmc__Spacal_8C.html#a18dd86bd5a536014cab38fcd3e87a829" title="2D full projective SPACAL" alt="" coords="288,525,484,553"/>
+<area shape="rect" id="node13" href="$d2/d85/G4__CEmc__Albedo_8C.html#a2d499662fb2f579d26127be451b42853" title="CEmcAlbedo" alt="" coords="333,577,439,605"/>
+<area shape="rect" id="node14" href="$df/dea/G4__Disk_8C.html#a45366f0bd3bb3087f6900467b558b48c" title="Disk" alt="" coords="361,629,411,657"/>
+<area shape="rect" id="node15" href="$d3/d45/G4__EEMC__hybrid_8C.html#a0f5fe03c955a98baef5ce508183a8901" title="EEMCHSetup" alt="" coords="331,681,441,709"/>
+<area shape="rect" id="node16" href="$d1/d38/G4__EEMC_8C.html#aa4757fd444fcd8b2dde7590e5bffc722" title="EEMCSetup" alt="" coords="620,1496,719,1524"/>
+<area shape="rect" id="node17" href="$de/d55/Fun4All__G4__block_8C.html#a6a063a649a0dd3318a517d5af98430dd" title="Fun4All_G4_block" alt="" coords="316,785,456,813"/>
+<area shape="rect" id="node18" href="$d2/dee/Fun4All__G4__Cylinder_8C.html#a271dc4f10f6f77107705e0efef0c97e5" title="Fun4All_G4_Cylinder" alt="" coords="305,837,467,865"/>
+<area shape="rect" id="node19" href="$d5/d21/Fun4All__G4__dRICHImport_8C.html#a3a58b6c3d01066a007bf8f28289d1946" title="Fun4All_G4_dRICHImport" alt="" coords="291,889,481,917"/>
+<area shape="rect" id="node20" href="$df/de1/Fun4All__G4__IonGun_8C.html#ab4966a2ae337cb8f0e45f7ee488e33b7" title="Fun4All_G4_IonGun" alt="" coords="310,941,462,969"/>
+<area shape="rect" id="node21" href="$d9/d8f/Fun4All__G4__Momentum_8C.html#a30427d12b8e66fae42427a1ae4120c1a" title="Fun4All_G4_Momentum" alt="" coords="296,993,476,1021"/>
+<area shape="rect" id="node22" href="$d1/d3a/Fun4All__G4__Momentum__Projection_8C.html#a10a3fc89216f3a6162a4c6f2d73d1f22" title="Fun4All_G4_Momentum\l_Projection" alt="" coords="296,1045,476,1089"/>
+<area shape="rect" id="node23" href="$dd/dba/Fun4All__G4__Momentum__Projection__Detectors_8C.html#aaa6100b352f9b7268c29a006f74cfe57" title="Fun4All_G4_Momentum\l_Projection_Detectors" alt="" coords="296,1113,476,1157"/>
+<area shape="rect" id="node24" href="$dc/dda/G4__HcalIn__ref_8C.html#a1a52eb3e2a8e75ec336b82be8ceef4d9" title="HCalInner" alt="" coords="625,957,714,985"/>
+<area shape="rect" id="node25" href="$dc/dda/G4__HcalIn__ref_8C.html#a198574a08223634e296065ba074b03b9" title="A rough version of the inner HCal support ring, from Richie&#39;s CAD drawing. &#45; Jin." alt="" coords="297,733,475,761"/>
+<area shape="rect" id="node26" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html#ac57735664d8806de91047dd7137ab13b" title="hFarBwdDefineMagnets" alt="" coords="295,1301,477,1329"/>
+<area shape="rect" id="node27" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a6c56e376b12f6e7ba90601ebd0afc65f" title="hFarFwdDefineBeamPipe" alt="" coords="291,1353,481,1381"/>
+<area shape="rect" id="node28" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#accfd44a3ea15bfe78995fc1aff2d9dbc" title="hFarFwdDefineMagnets" alt="" coords="297,1405,475,1433"/>
+<area shape="rect" id="node29" href="$dd/db7/classEICG4dRICHSubsystem.html#aed7ee9a6cbd6dca3e2e269e6fe61de2a" title="EICG4dRICHSubsystem\l::InitRunSubsystem" alt="" coords="297,1457,475,1501"/>
+<area shape="rect" id="node30" href="$da/d17/G4__Magnet_8C.html#a83e97495646b8e137d52e66d486d9273" title="Magnet" alt="" coords="349,1525,423,1553"/>
+<area shape="rect" id="node31" href="$db/dd2/G4__TTL__EIC_8C.html#a2356e0ebd4d13f3063a134ce89a0ccc5" title="make_barrel_layer_basic" alt="" coords="293,1577,479,1605"/>
+<area shape="rect" id="node32" href="$db/dd2/G4__TTL__EIC_8C.html#abd4fa299e9a68c0a61c1431c475af1a5" title="make_barrel_layer_LYSO\l_basic" alt="" coords="293,1629,479,1673"/>
+<area shape="rect" id="node33" href="$d1/db0/G4__FST__EIC_8C.html#aa4c91de5ab3347b50307a4861343cc12" title="make_supportCyl" alt="" coords="317,1697,455,1725"/>
+<area shape="rect" id="node34" href="$d1/df9/G4__Pipe_8C.html#a08cd22872149ee9d15a5b068c6aad7b4" title="Pipe" alt="" coords="645,2037,694,2065"/>
+<area shape="rect" id="node35" href="$d6/d0a/G4__Piston_8C.html#abe88c27b98100db847d10073e6fa17ca" title="Piston" alt="" coords="355,1801,417,1829"/>
+<area shape="rect" id="node36" href="$d1/d56/G4__PlugDoor_8C.html#aa59bf2cdaabcdb80a472f7a8e1adc8fe" title="PlugDoor" alt="" coords="344,1853,428,1881"/>
+<area shape="rect" id="node37" href="$d8/d6e/classPHG4ConeSubsystem.html#af0ef2c815f2d67497b9eb6b9712482d5" title="PHG4ConeSubsystem::\lSetMaterial" alt="" coords="298,2161,474,2205"/>
+<area shape="rect" id="node38" href="$d5/d77/classEICG4RPSubsystem.html#aee24b13538276c6d1c4d757965049aaf" title="EICG4RPSubsystem::SetParameters\lFromFile" alt="" coords="255,1957,517,2001"/>
+<area shape="rect" id="node39" href="$d0/db6/classEICG4LumiSubsystem.html#a8e1dc2d0206b6da710c67f8a89f86168" title="EICG4LumiSubsystem\l::SetParametersFromFile" alt="" coords="293,2025,479,2069"/>
+<area shape="rect" id="node40" href="$dc/dba/classPHG4HybridHomogeneousCalorimeterSubsystem.html#a1f0714f15f6e7eb3bdcc4c3c878d90af" title="PHG4HybridHomogeneousCalorimeter\lSubsystem::SetProjectiveGeometry" alt="" coords="245,2093,527,2137"/>
+<area shape="rect" id="node41" href="$dc/d10/classPHG4CrystalCalorimeterSubsystem.html#a453a5e3ce5c075df025c99ad23586c1f" title="PHG4CrystalCalorimeterSubsystem\l::SetProjectiveGeometry" alt="" coords="256,1233,516,1277"/>
+<area shape="rect" id="node42" href="$dc/dba/classPHG4HybridHomogeneousCalorimeterSubsystem.html#a1daab7fbd323d1e8891c63d4bcba4029" title="PHG4HybridHomogeneousCalorimeter\lSubsystem::SetTowerMappingFile" alt="" coords="245,2229,527,2273"/>
+<area shape="rect" id="node43" href="$d3/d3e/classPHG4BackwardHcalSubsystem.html#afe746dfaaac7588a72865974b70c728e" title="PHG4BackwardHcalSubsystem\l::SetTowerMappingFile" alt="" coords="272,2297,500,2341"/>
+<area shape="rect" id="node44" href="$dc/d10/classPHG4CrystalCalorimeterSubsystem.html#a220752a571d022aaacac4480d1b15076" title="PHG4CrystalCalorimeterSubsystem\l::SetTowerMappingFile" alt="" coords="256,2365,516,2409"/>
+<area shape="rect" id="node45" href="$d9/d49/classPHG4LFHcalSubsystem.html#a03a12fdd6dd5830651d9b72148795bcc" title="PHG4LFHcalSubsystem\l::SetTowerMappingFile" alt="" coords="297,2433,475,2477"/>
+<area shape="rect" id="node46" href="$dc/d72/classPHG4BarrelEcalSubsystem.html#aa0188b72137e020ba83bb5aaf09aab5d" title="PHG4BarrelEcalSubsystem\l::SetTowerMappingFile" alt="" coords="285,2501,487,2545"/>
+<area shape="rect" id="node47" href="$d8/dce/classPHG4ForwardEcalSubsystem.html#aa5a454f21fe9f9a9ae65af1b610f7e0f" title="PHG4ForwardEcalSubsystem\l::SetTowerMappingFile" alt="" coords="278,2569,494,2613"/>
+<area shape="rect" id="node48" href="$df/d58/classPHG4ForwardHcalSubsystem.html#aeb17265040b6988cbb0f7e9e5aeccc84" title="PHG4ForwardHcalSubsystem\l::SetTowerMappingFile" alt="" coords="277,2637,495,2681"/>
+<area shape="rect" id="node49" href="$d3/d50/G4__TPC__EIC_8C.html#ad666d85e7ce2f606315664a993e1a86b" title="TPC" alt="" coords="362,2705,410,2733"/>
+<area shape="rect" id="node50" href="$d2/da4/G4__TrackingSupport_8C.html#a7d16932f3e8af86575e5a9c267b440f2" title="TrackingServiceCylinder" alt="" coords="293,2757,479,2785"/>
+</map>

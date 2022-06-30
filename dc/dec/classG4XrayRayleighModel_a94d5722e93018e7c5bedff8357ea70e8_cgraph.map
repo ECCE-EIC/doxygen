@@ -1,0 +1,23 @@
+<map id="G4XrayRayleighModel::Initialise" name="G4XrayRayleighModel::Initialise">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#a33daba8fe8e5e6e65cead26b69149b23" title="G4VEmModel::GetParticleChange\lForGamma" alt="" coords="224,117,471,161"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#ad4d238a67f8d718ffb7ca5cea963ed8b" title="G4VEmModel::InitialiseElement\lSelectors" alt="" coords="230,305,465,349"/>
+<area shape="rect" id="node3" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="519,5,763,33"/>
+<area shape="rect" id="node5" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="609,57,673,85"/>
+<area shape="rect" id="node11" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="547,109,734,153"/>
+<area shape="rect" id="node12" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="545,177,736,221"/>
+<area shape="rect" id="node13" href="$d5/dda/classG4ProductionCutsTable.html#a7b0040d3ae75f54e2df3ef0e8dc81cc0" title="G4ProductionCutsTable\l::GetTableSize" alt="" coords="552,245,729,289"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#ad6ff43f6f68220feae0513f9930b68f8" title="G4VEmModel::Initialise" alt="" coords="552,313,729,341"/>
+<area shape="rect" id="node15" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="538,365,743,393"/>
+<area shape="rect" id="node16" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="602,417,679,445"/>
+<area shape="rect" id="node17" href="$d3/dc1/classG4VEmModel.html#a13fe7e2323a00badc283cabaeb82dba4" title="G4VEmModel::MinPrimaryEnergy" alt="" coords="519,469,763,497"/>
+<area shape="rect" id="node18" href="$dc/d54/classG4EmParameters.html#a7ade7750c8b8c61e26ac7b353ce2ce0f" title="G4EmParameters::NumberOf\lBinsPerDecade" alt="" coords="531,521,750,565"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="521,589,761,617"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="835,5,1027,33"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="835,57,1027,85"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="811,109,1051,137"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1099,84,1287,112"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1099,136,1287,164"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="823,529,1039,557"/>
+<area shape="rect" id="node21" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="845,581,1017,625"/>
+<area shape="rect" id="node22" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="845,649,1017,693"/>
+</map>

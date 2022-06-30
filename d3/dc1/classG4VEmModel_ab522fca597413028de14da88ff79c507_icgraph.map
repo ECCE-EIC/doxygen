@@ -1,0 +1,15 @@
+<map id="G4VEmModel::SampleSecondaries" name="G4VEmModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$db/d69/classG4EmBiasingManager.html#ae92d60af3a113a491b4654ab5805b0b1" title="G4EmBiasingManager\l::ApplyDirectionalSplitting" alt="" coords="363,5,560,49"/>
+<area shape="rect" id="node4" href="$db/d69/classG4EmBiasingManager.html#a0667b92fbacc3dacb66f39b2b2c09bf0" title="G4EmBiasingManager\l::ApplySplitting" alt="" coords="375,73,547,117"/>
+<area shape="rect" id="node5" href="$dc/d88/classG4eplusAnnihilation.html#adae19cc1e541200a99c458dd715f83a8" title="G4eplusAnnihilation\l::AtRestDoIt" alt="" coords="383,141,540,185"/>
+<area shape="rect" id="node6" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="352,209,571,237"/>
+<area shape="rect" id="node9" href="$da/d80/classG4VEnergyLossProcess.html#afd83c7b4ebe650589101841e43fcdc6a" title="G4VEnergyLossProcess\l::PostStepDoIt" alt="" coords="373,261,550,305"/>
+<area shape="rect" id="node10" href="$d6/d53/classG4DNADummyModel.html#a8d2575ee9ca78091a1b828d1ad7f4de1" title="SampleSecondaries Each model must implement SampleSecondaries to decide if a particle will be created..." alt="" coords="308,329,615,357"/>
+<area shape="rect" id="node11" href="$d3/db3/classG4LivermoreGammaConversionModel.html#ad3c0425bcb14bdfb042ee6e3f5ca17ac" title="G4LivermoreGammaConversion\lModel::SampleSecondaries" alt="" coords="343,381,580,425"/>
+<area shape="rect" id="node12" href="$d3/db7/classG4eBremsstrahlungRelModel.html#a8ca35ebb4bcdcb06a7ce7f6fb50a8caa" title="G4eBremsstrahlungRelModel\l::SampleSecondaries" alt="" coords="353,449,570,493"/>
+<area shape="rect" id="node13" href="$da/d80/classG4VEnergyLossProcess.html#a8875a60936c3843bf957a215fab62739" title="G4VEnergyLossProcess\l::SampleSubCutSecondaries" alt="" coords="355,517,568,561"/>
+<area shape="rect" id="node3" href="$db/d69/classG4EmBiasingManager.html#a6ec265328f35360d08719a7201cf06f6" title="G4EmBiasingManager\l::ApplySecondaryBiasing" alt="" coords="667,40,857,84"/>
+<area shape="rect" id="node7" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="663,201,861,245"/>
+<area shape="rect" id="node8" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="909,201,1108,245"/>
+<area shape="rect" id="node14" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="673,517,851,561"/>
+</map>

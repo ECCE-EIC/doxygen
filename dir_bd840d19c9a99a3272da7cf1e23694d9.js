@@ -1,0 +1,26 @@
+var dir_bd840d19c9a99a3272da7cf1e23694d9 =
+[
+    [ "air_shower", "dir_6314d1b72dfd7ef6dabe5aeecc6cd9e2.html", "dir_6314d1b72dfd7ef6dabe5aeecc6cd9e2" ],
+    [ "amsEcal", "dir_75ec026a4d891edc3d6b912f24e299e4.html", "dir_75ec026a4d891edc3d6b912f24e299e4" ],
+    [ "brachytherapy", "dir_a9db95a0b27af4e894db5656514835ff.html", "dir_a9db95a0b27af4e894db5656514835ff" ],
+    [ "ChargeExchangeMC", "dir_2e1a72017e9b0031b6dee80186598ae1.html", "dir_2e1a72017e9b0031b6dee80186598ae1" ],
+    [ "composite_calorimeter", "dir_a4e90fa0c06409be0d756e09a7364f98.html", "dir_a4e90fa0c06409be0d756e09a7364f98" ],
+    [ "doiPET", "dir_4c99b69da32cd34e8b9e7f1fc2f69816.html", "dir_4c99b69da32cd34e8b9e7f1fc2f69816" ],
+    [ "eRosita", "dir_bd140c9dc9992e72a682912750a629c9.html", "dir_bd140c9dc9992e72a682912750a629c9" ],
+    [ "gammaknife", "dir_aaabc453b74e5e896c78fe9417b19821.html", "dir_aaabc453b74e5e896c78fe9417b19821" ],
+    [ "gammaray_telescope", "dir_e0e1fbdc87ddc431ba44c69c6fe54051.html", "dir_e0e1fbdc87ddc431ba44c69c6fe54051" ],
+    [ "hadrontherapy", "dir_ef86215cc4943892f16e5074d9b1713e.html", "dir_ef86215cc4943892f16e5074d9b1713e" ],
+    [ "human_phantom", "dir_87b83ed9efca9622af7ba725ee97adae.html", "dir_87b83ed9efca9622af7ba725ee97adae" ],
+    [ "iort_therapy", "dir_af0473458432cc3178ed0a6824f2f239.html", "dir_af0473458432cc3178ed0a6824f2f239" ],
+    [ "lAr_calorimeter", "dir_9559055614e812b4b8e388ff07897ab3.html", "dir_9559055614e812b4b8e388ff07897ab3" ],
+    [ "medical_linac", "dir_3079ee2060a08a2e9703b4fca1425130.html", "dir_3079ee2060a08a2e9703b4fca1425130" ],
+    [ "microbeam", "dir_d7e413ef6d892d95e9a6d00d33e0eb54.html", "dir_d7e413ef6d892d95e9a6d00d33e0eb54" ],
+    [ "microelectronics", "dir_bd4e61b2e2130d74382df9ce4424ca54.html", "dir_bd4e61b2e2130d74382df9ce4424ca54" ],
+    [ "nanobeam", "dir_efb443092c942ae07064a66313f440c5.html", "dir_efb443092c942ae07064a66313f440c5" ],
+    [ "purging_magnet", "dir_4eb4b00fc5a827800354e264bd92b6b7.html", "dir_4eb4b00fc5a827800354e264bd92b6b7" ],
+    [ "radioprotection", "dir_5ee5cdc4925ecdd104e9b99d7130d1cc.html", "dir_5ee5cdc4925ecdd104e9b99d7130d1cc" ],
+    [ "STCyclotron", "dir_adb39bb155793552674f1b0dc3b08f25.html", "dir_adb39bb155793552674f1b0dc3b08f25" ],
+    [ "underground_physics", "dir_00589b911c56437d54b7dede6b5d9c81.html", "dir_00589b911c56437d54b7dede6b5d9c81" ],
+    [ "xray_fluorescence", "dir_cc95ca7a9ca6718f49624a2f5b794bc0.html", "dir_cc95ca7a9ca6718f49624a2f5b794bc0" ],
+    [ "xray_telescope", "dir_e9aeb04594264292628ebca78867cc9e.html", "dir_e9aeb04594264292628ebca78867cc9e" ]
+];

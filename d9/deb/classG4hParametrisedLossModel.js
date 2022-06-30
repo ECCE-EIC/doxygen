@@ -1,0 +1,27 @@
+var classG4hParametrisedLossModel =
+[
+    [ "G4hParametrisedLossModel", "d9/deb/classG4hParametrisedLossModel.html#aea8d984618c6cc3a97197165ff3ea246", null ],
+    [ "~G4hParametrisedLossModel", "d9/deb/classG4hParametrisedLossModel.html#a73088b07a0b9e67d9b21f77836b11c8e", null ],
+    [ "G4hParametrisedLossModel", "d9/deb/classG4hParametrisedLossModel.html#ae694a4968f3866ee436bd2324d7fdef0", null ],
+    [ "ChemicalFactor", "d9/deb/classG4hParametrisedLossModel.html#a0fff2b9f220d37aa1df7e2bcc4ac52ed", null ],
+    [ "HighEnergyLimit", "d9/deb/classG4hParametrisedLossModel.html#ad0f8c535853b2b57e6db39012f669adb", null ],
+    [ "HighEnergyLimit", "d9/deb/classG4hParametrisedLossModel.html#a74d424ed305999d2065f4b51ea4bb1ed", null ],
+    [ "InitializeMe", "d9/deb/classG4hParametrisedLossModel.html#a0118df2b9f3cded1cc94dd8c557387ec", null ],
+    [ "IsInCharge", "d9/deb/classG4hParametrisedLossModel.html#aee7749446719054eef330dc0e63ab9b5", null ],
+    [ "IsInCharge", "d9/deb/classG4hParametrisedLossModel.html#abc0490a7c3b3c45dfc1d89fddc920c32", null ],
+    [ "LowEnergyLimit", "d9/deb/classG4hParametrisedLossModel.html#adeafc5089a1c1d8db807386073ae44bd", null ],
+    [ "LowEnergyLimit", "d9/deb/classG4hParametrisedLossModel.html#a91502b63b9432a2b850d5d8ece519020", null ],
+    [ "ModelName", "d9/deb/classG4hParametrisedLossModel.html#a8b7beb1fa9eb13ced87b94d6a8480002", null ],
+    [ "MolecIsInZiegler1988", "d9/deb/classG4hParametrisedLossModel.html#a33dae6256e8cd91e4b2f7d5138469152", null ],
+    [ "operator=", "d9/deb/classG4hParametrisedLossModel.html#ace55fe024fcd5f74bca2f831f230d3f8", null ],
+    [ "SetExpStopPower125", "d9/deb/classG4hParametrisedLossModel.html#adb2ede580271c1b01474b8d2e343c6b9", null ],
+    [ "StoppingPower", "d9/deb/classG4hParametrisedLossModel.html#adc422fde8aa86c7d2b2666ace8710140", null ],
+    [ "TheValue", "d9/deb/classG4hParametrisedLossModel.html#a15aba5912ef25cd052d8eaf16948edf7", null ],
+    [ "TheValue", "d9/deb/classG4hParametrisedLossModel.html#a7a0fdb3a188e9fcb062eda955d95eaf3", null ],
+    [ "eStopingPowerTable", "d9/deb/classG4hParametrisedLossModel.html#a6409e8690cca6efdc17e4a89fff91fbc", null ],
+    [ "expStopPower125", "d9/deb/classG4hParametrisedLossModel.html#add4702af370ecb942cc16faaee47d460", null ],
+    [ "highEnergyLimit", "d9/deb/classG4hParametrisedLossModel.html#afea28df11795be8e1d70e3d28de4e444", null ],
+    [ "lowEnergyLimit", "d9/deb/classG4hParametrisedLossModel.html#a586acd8d88b9dafefac476ff99e30499", null ],
+    [ "modelName", "d9/deb/classG4hParametrisedLossModel.html#a348349d1a55c57f8a0744b1b360310f8", null ],
+    [ "theZieglerFactor", "d9/deb/classG4hParametrisedLossModel.html#a7b81152ff0d3f1030c00fab5b36225f6", null ]
+];

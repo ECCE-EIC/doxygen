@@ -1,0 +1,17 @@
+<map id="G4EmParameters::PIXEElectronCrossSectionModel" name="G4EmParameters::PIXEElectronCrossSectionModel">
+<area shape="rect" id="node2" href="$d9/dd7/classG4PenelopeIonisationModel.html#a03183df020f3e2bbae2004929b190609" title="G4PenelopeIonisationModel\l::Initialise" alt="" coords="290,73,499,117"/>
+<area shape="rect" id="node3" href="$d2/d2c/classG4VAtomDeexcitation.html#aa50e4f27f75d5607c8cb31d46601b121" title="G4VAtomDeexcitation\l::InitialiseAtomicDeexcitation" alt="" coords="285,141,504,185"/>
+<area shape="rect" id="node16" href="$d6/dda/classG4UAtomicDeexcitation.html#a9ee0877d56b82a97e885679dea8345f1" title="G4UAtomicDeexcitation\l::InitialiseForNewRun" alt="" coords="304,209,485,253"/>
+<area shape="rect" id="node4" href="$de/d5e/classDMXPhysicsList.html#a03a30f444512e7e8200032f4ae4a3d5c" title="DMXPhysicsList::Construct\lGeneral" alt="" coords="558,5,758,49"/>
+<area shape="rect" id="node6" href="$d0/d2c/classBiasedRDPhysics.html#aca2319c926a02feadce001ac34cd4a98" title="BiasedRDPhysics::Construct\lProcess" alt="" coords="553,73,763,117"/>
+<area shape="rect" id="node7" href="$db/d82/classG4RadioactiveDecayPhysics.html#a34f3b3e9e083ced7a73402bfe1f312b4" title="G4RadioactiveDecayPhysics\l::ConstructProcess" alt="" coords="552,141,764,185"/>
+<area shape="rect" id="node8" href="$d4/d5a/classLBE.html#afc8a3bbed96333568eb70ffceed92830" title="LBE::ConstructGeneral" alt="" coords="571,209,745,237"/>
+<area shape="rect" id="node10" href="$d9/d78/classG4LossTableManager.html#a022d712a9b4a4bb601b8530d27747ad6" title="G4LossTableManager\l::ResetParameters" alt="" coords="575,261,741,305"/>
+<area shape="rect" id="node5" href="$de/d5e/classDMXPhysicsList.html#a512c06fd819c85aa93e5310fa81b6914" title="DMXPhysicsList::Construct\lProcess" alt="" coords="812,5,1012,49"/>
+<area shape="rect" id="node9" href="$d4/d5a/classLBE.html#a2b7ddc3feee5cc7a33c8247abe662836" title="LBE::ConstructProcess" alt="" coords="826,209,998,237"/>
+<area shape="rect" id="node11" href="$d9/d78/classG4LossTableManager.html#a68ff358f0513747e585015f51805c9ac" title="G4LossTableManager\l::PreparePhysicsTable" alt="" coords="829,261,995,305"/>
+<area shape="rect" id="node12" href="$d0/dfb/classG4VEmProcess.html#adb2fdd2a9790a3564945d2913963046e" title="G4VEmProcess::PreparePhysics\lTable" alt="" coords="1060,193,1293,237"/>
+<area shape="rect" id="node14" href="$da/d80/classG4VEnergyLossProcess.html#a1776ce9b1b19e211bbacb83f7e8a3db8" title="G4VEnergyLossProcess\l::PreparePhysicsTable" alt="" coords="1088,261,1265,305"/>
+<area shape="rect" id="node15" href="$d9/d2a/classG4VMultipleScattering.html#a4bcbbda3d850ab62aa8ede71dd54286a" title="G4VMultipleScattering\l::PreparePhysicsTable" alt="" coords="1091,329,1263,373"/>
+<area shape="rect" id="node13" href="$dd/d59/classG4GammaGeneralProcess.html#aa6901fec160111cf8a00fbdc2f969cc5" title="G4GammaGeneralProcess\l::PreparePhysicsTable" alt="" coords="1341,193,1540,237"/>
+</map>

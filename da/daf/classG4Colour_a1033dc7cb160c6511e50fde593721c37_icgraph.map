@@ -1,0 +1,41 @@
+<map id="G4Colour::GetRed" name="G4Colour::GetRed">
+<area shape="rect" id="node2" href="$d0/d74/classG4HepRepFileSceneHandler.html#ad825bfa24dbb99d8b562b57753c8eb7f" title="G4HepRepFileSceneHandler\l::AddCompound" alt="" coords="215,5,427,49"/>
+<area shape="rect" id="node3" href="$df/d82/classG4GMocrenFileSceneHandler.html#abf010d294951cd43a8bc51c60909982a" title="G4GMocrenFileSceneHandler\l::AddDetector" alt="" coords="211,73,430,117"/>
+<area shape="rect" id="node5" href="$d0/d74/classG4HepRepFileSceneHandler.html#a3fd7ce2debf175d143a47fcdb9dc1730" title="G4HepRepFileSceneHandler\l::AddHepRepInstance" alt="" coords="215,141,427,185"/>
+<area shape="rect" id="node8" href="$df/d82/classG4GMocrenFileSceneHandler.html#ada9789a89bec73e4f6da878ab46b88d7" title="G4GMocrenFileSceneHandler\l::AddPrimitive" alt="" coords="211,209,430,253"/>
+<area shape="rect" id="node9" href="$d0/d74/classG4HepRepFileSceneHandler.html#a4c5dd553e2f1364129658a48269029ab" title="G4HepRepFileSceneHandler\l::AddPrimitive" alt="" coords="215,277,427,321"/>
+<area shape="rect" id="node10" href="$d7/dae/classPHG4BlockDisplayAction.html#af7297b2098f5dd6171bc1bf377b650f4" title="ApplyDisplayAction method." alt="" coords="227,345,414,389"/>
+<area shape="rect" id="node11" href="$dc/de2/classPHG4ConeDisplayAction.html#a96a697fc2e17c16585ae6c2c3f658c4a" title="ApplyDisplayAction method." alt="" coords="228,413,413,457"/>
+<area shape="rect" id="node12" href="$d0/d7b/classPHG4CylinderDisplayAction.html#a12f46d067c31ef2c8b4063e359d631d7" title="ApplyDisplayAction method." alt="" coords="217,481,424,525"/>
+<area shape="rect" id="node13" href="$d0/df4/classG4EicDircDisplayAction.html#ae1a5b4c6d556d912b3d36141b5d457a1" title="ApplyDisplayAction method." alt="" coords="231,549,410,593"/>
+<area shape="rect" id="node14" href="$d9/d68/classG4RTRun.html#ab53f62a4c1f5cebac1162314adfed8ca" title="G4RTRun::Attenuate" alt="" coords="527,677,686,705"/>
+<area shape="rect" id="node16" href="$d2/dbf/classG4TheRayTracer.html#a5889600ffcf6b41c34eb19ff71cfc09d" title="G4TheRayTracer::Attenuate" alt="" coords="503,1115,711,1143"/>
+<area shape="rect" id="node18" href="$d2/dbf/classG4TheRayTracer.html#a6842cd59306115fb21dd79ebb5c2265b" title="G4TheRayTracer::CreateBitMap" alt="" coords="1020,867,1252,895"/>
+<area shape="rect" id="node22" href="$d7/dc2/classG4ViewParameters.html#afcdf689729f6cf801c696a828eb0f60a" title="G4ViewParameters::Camera\lAndLightingCommands" alt="" coords="215,771,426,815"/>
+<area shape="rect" id="node23" href="$db/d0a/classG03ColorWriter.html#aea30959f4cdf74ba74e7e57b223527a6" title="G03ColorWriter::ColorWrite" alt="" coords="219,891,423,919"/>
+<area shape="rect" id="node25" href="$d8/dc8/classG4TheMTRayTracer.html#a644cacaa29d353e4b0387f36b2fc6b1b" title="G4TheMTRayTracer::Create\lBitMap" alt="" coords="218,943,423,987"/>
+<area shape="rect" id="node26" href="$d8/dc8/classG4TheMTRayTracer.html#a4505783fc19c4842c1c275ada01be124" title="G4TheMTRayTracer::Trace" alt="" coords="509,980,705,1008"/>
+<area shape="rect" id="node27" href="$d7/d6d/pymodG4graphics__reps_8cc.html#a1b54275e5b245ad69369951fbe13210c" title="export_G4Colour" alt="" coords="253,1063,389,1091"/>
+<area shape="rect" id="node29" href="$d9/d68/classG4RTRun.html#ae92ff20efb662bd6cde41977ca5c2df5" title="G4RTRun::GetMixedColour" alt="" coords="220,839,421,867"/>
+<area shape="rect" id="node30" href="$d9/d68/classG4RTRun.html#a8ee770215661b63d3deb215c0269fb57" title="G4RTRun::GetSurfaceColour" alt="" coords="501,745,713,773"/>
+<area shape="rect" id="node31" href="$d2/dbf/classG4TheRayTracer.html#af85753e35f28f21696c8c3ff6b569740" title="G4TheRayTracer::GetMixed\lColour" alt="" coords="219,1167,423,1211"/>
+<area shape="rect" id="node32" href="$d2/dbf/classG4TheRayTracer.html#a76a4546237d55f6044dba6cd6eaf9c8e" title="G4TheRayTracer::GetSurface\lColour" alt="" coords="499,1219,715,1263"/>
+<area shape="rect" id="node33" href="$d3/d61/classG4HepRepSceneHandler.html#a9103ab2c5a5a81d486bf599556564198" title="G4HepRepSceneHandler\l::setColor" alt="" coords="226,1287,415,1331"/>
+<area shape="rect" id="node38" href="$d5/d22/classCexmcScenePrimitivesMessenger.html#a20375a63c6368cb5eb061b32ff10ce68" title="CexmcScenePrimitivesMessenger\l::SetNewValue" alt="" coords="196,1355,445,1399"/>
+<area shape="rect" id="node39" href="$d7/dc2/classG4ViewParameters.html#a37d751d80e5ecf2ce6701a53e6b816d9" title="G4ViewParameters::Touchable\lCommands" alt="" coords="207,1423,434,1467"/>
+<area shape="rect" id="node40" href="$d3/dbf/classG4VViewer.html#ace8a70920d4601574caafe0856bd8b57" title="G4VViewer::TouchableSetColour" alt="" coords="201,1491,440,1519"/>
+<area shape="rect" id="node4" href="$df/d82/classG4GMocrenFileSceneHandler.html#a7b10fa770ac50af7107447130f5c42e9" title="G4GMocrenFileSceneHandler\l::AddSolid" alt="" coords="497,73,716,117"/>
+<area shape="rect" id="node6" href="$d0/d74/classG4HepRepFileSceneHandler.html#a2461459f0f7a07a15da403091fd34d33" title="G4HepRepFileSceneHandler\l::AddSolid" alt="" coords="501,141,713,185"/>
+<area shape="rect" id="node7" href="$d0/d74/classG4HepRepFileSceneHandler.html#a827b2e98345bc4f1f8aec4e4ea657c4d" title="G4HepRepFileSceneHandler\l::AddPrimitive" alt="" coords="501,209,713,253"/>
+<area shape="rect" id="node15" href="$d9/d68/classG4RTRun.html#a93be6898b32cfb851dc3c01c6dbfb127" title="G4RTRun::RecordEvent" alt="" coords="781,745,959,773"/>
+<area shape="rect" id="node17" href="$d2/dbf/classG4TheRayTracer.html#a2408eb10dff4d12d3a00a449ab0f1ba9" title="G4TheRayTracer::Generate\lColour" alt="" coords="768,1133,972,1177"/>
+<area shape="rect" id="node19" href="$d2/dbf/classG4TheRayTracer.html#a50b2c01eb78c73a627b8d1abd5c19be4" title="G4TheRayTracer::Trace" alt="" coords="1300,867,1477,895"/>
+<area shape="rect" id="node20" href="$d5/dee/classG4RayTracerViewer.html#afee983c0a29f4d24b5f579eef5655384" title="G4RayTracerViewer::\lDrawView" alt="" coords="1559,828,1720,872"/>
+<area shape="rect" id="node21" href="$d9/d5c/classG4RTMessenger.html#a4a0e0ac3652bce8ebb02b0f9f5712d91" title="G4RTMessenger::SetNewValue" alt="" coords="1525,896,1753,924"/>
+<area shape="rect" id="node24" href="$db/d0a/classG03ColorWriter.html#a37e452c66bb0b72954297def3cb2f51b" title="G03ColorWriter::AddExtension" alt="" coords="493,891,720,919"/>
+<area shape="rect" id="node28" href="$d7/d6d/pymodG4graphics__reps_8cc.html#a6cdbd7d218a7dd2dbf8af93ab132c1b6" title="BOOST_PYTHON_MODULE" alt="" coords="509,1063,704,1091"/>
+<area shape="rect" id="node34" href="$d3/d61/classG4HepRepSceneHandler.html#a52883663d02f2b8a68caa4f44b8c4bcc" title="G4HepRepSceneHandler\l::AddSolid" alt="" coords="512,1355,701,1399"/>
+<area shape="rect" id="node35" href="$d3/d61/classG4HepRepSceneHandler.html#a38b0e0982b14f09d8248fd7b7a969ac7" title="G4HepRepSceneHandler\l::AddPrimitive" alt="" coords="512,1423,701,1467"/>
+<area shape="rect" id="node36" href="$d3/d61/classG4HepRepSceneHandler.html#a59a5757fe8e916443413cb20cd1012dc" title="G4HepRepSceneHandler\l::setMarker" alt="" coords="512,1287,701,1331"/>
+<area shape="rect" id="node37" href="$d3/d61/classG4HepRepSceneHandler.html#a8c654d6ad9f7276edc92af415c92ad1b" title="G4HepRepSceneHandler\l::AddPrimitive" alt="" coords="775,1287,965,1331"/>
+</map>

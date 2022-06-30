@@ -1,0 +1,51 @@
+<map id="G4BetheBlochModel::ComputeDEDXPerVolume" name="G4BetheBlochModel::ComputeDEDXPerVolume">
+<area shape="rect" id="node2" href="$d6/d69/classG4IonisParamMat.html#a76ffb949a55a741a16f87a5698d4160c" title="G4IonisParamMat::Density\lCorrection" alt="" coords="257,418,457,462"/>
+<area shape="rect" id="node5" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1475,582,1539,610"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="1411,42,1604,70"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="249,314,465,342"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="267,366,447,394"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#a60d52ac75b43c5e56865837e1a5b6798" title="G4Material::GetElectronDensity" alt="" coords="529,622,763,650"/>
+<area shape="rect" id="node21" href="$d9/d2c/classG4ICRU90StoppingData.html#abd69e94b1cfcd113538b847ec6e20797" title="G4ICRU90StoppingData\l::GetElectronicDEDXforAlpha" alt="" coords="249,486,465,530"/>
+<area shape="rect" id="node22" href="$d9/d2c/classG4ICRU90StoppingData.html#a315d48bed913ea688c18ae7b935dab24" title="G4ICRU90StoppingData\l::GetIndex" alt="" coords="555,486,737,530"/>
+<area shape="rect" id="node26" href="$d9/d2c/classG4ICRU90StoppingData.html#a1b45b65d295021d4e310d859e527c65b" title="G4ICRU90StoppingData\l::GetElectronicDEDXforProton" alt="" coords="247,554,467,598"/>
+<area shape="rect" id="node27" href="$d6/d69/classG4IonisParamMat.html#a4fefdfbba759144ef70b9923ea225a13" title="G4IonisParamMat::GetMean\lExcitationEnergy" alt="" coords="252,674,461,718"/>
+<area shape="rect" id="node28" href="$d7/db3/classG4EmCorrections.html#a78fcdb3a75d29ed4f2362423d0cad82b" title="G4EmCorrections::HighOrder\lCorrections" alt="" coords="247,815,466,859"/>
+<area shape="rect" id="node33" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="1469,946,1546,974"/>
+<area shape="rect" id="node40" href="$d7/db3/classG4EmCorrections.html#a98c3c7378d5cd336c5d255cb08353746" title="G4EmCorrections::ShellCorrection" alt="" coords="521,1038,771,1066"/>
+<area shape="rect" id="node48" href="$d7/db3/classG4EmCorrections.html#a67100e698c10f49673a1e28a1b3f184a" title="G4EmCorrections::IonBarkas\lCorrection" alt="" coords="249,742,464,786"/>
+<area shape="rect" id="node49" href="$d7/df6/classG4BetheBlochModel.html#ad351a8079ee12c401b31f3e7e53b4452" title="G4BetheBlochModel::\lMaxSecondaryEnergy" alt="" coords="273,1397,441,1441"/>
+<area shape="rect" id="node3" href="$d6/d69/classG4IonisParamMat.html#a4e4cf9c8b526b21af5b198d92de94826" title="G4IonisParamMat::GetDensity\lCorrection" alt="" coords="1137,473,1361,517"/>
+<area shape="rect" id="node11" href="$d7/d18/classG4DensityEffectCalculator.html#aadf8042164d73f3d133e844c739ec46e" title="G4DensityEffectCalculator\l::ComputeDensityCorrection" alt="" coords="540,279,752,323"/>
+<area shape="rect" id="node4" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1474,726,1541,754"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1676,530,1868,558"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1676,582,1868,610"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1652,634,1892,662"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1940,607,2128,635"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1940,659,2128,687"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1165,562,1333,590"/>
+<area shape="rect" id="node13" href="$d5/d14/compressor_8h.html#a02501c784aba8983915077f44f7112b1" title="approx" alt="" coords="922,145,990,173"/>
+<area shape="rect" id="node15" href="$d7/d18/classG4DensityEffectCalculator.html#ae45b695942d99ed72f83b2ae67aeb4af" title="G4DensityEffectCalculator\l::FermiDeltaCalculation" alt="" coords="856,249,1056,293"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1195,227,1302,255"/>
+<area shape="rect" id="node17" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="901,317,1011,345"/>
+<area shape="rect" id="node23" href="$d9/d2c/classG4ICRU90StoppingData.html#aa061fd0874f790db3981af2a83359e72" title="G4ICRU90StoppingData\l::GetDEDX" alt="" coords="555,554,737,598"/>
+<area shape="rect" id="node24" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="861,522,1051,550"/>
+<area shape="rect" id="node25" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="867,778,1045,806"/>
+<area shape="rect" id="node29" href="$d7/db3/classG4EmCorrections.html#ab6c1119eb6f103aa741590c4359ba26b" title="G4EmCorrections::SetupKinematics" alt="" coords="825,830,1087,858"/>
+<area shape="rect" id="node36" href="$d7/db3/classG4EmCorrections.html#a5421485273c6b9daba41aeb35f48e9ad" title="G4EmCorrections::BarkasCorrection" alt="" coords="515,726,777,754"/>
+<area shape="rect" id="node38" href="$d7/db3/classG4EmCorrections.html#aea004afb9238de67ab40bff3a12e9e6d" title="G4EmCorrections::BlochCorrection" alt="" coords="519,882,773,910"/>
+<area shape="rect" id="node39" href="$d7/db3/classG4EmCorrections.html#a2c39c5b6aa066ba359c83b8b5ef64e00" title="G4EmCorrections::MottCorrection" alt="" coords="523,778,769,806"/>
+<area shape="rect" id="node46" href="$d7/db3/classG4EmCorrections.html#a3e95bbcd525b254f99c1dc9d546f117f" title="G4EmCorrections::KShellCorrection" alt="" coords="517,934,775,962"/>
+<area shape="rect" id="node47" href="$d7/db3/classG4EmCorrections.html#a06ce51cf317f689a4852598380dd546c" title="G4EmCorrections::LShellCorrection" alt="" coords="517,986,775,1014"/>
+<area shape="rect" id="node30" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1430,867,1585,911"/>
+<area shape="rect" id="node31" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="1430,1010,1585,1054"/>
+<area shape="rect" id="node32" href="$da/d34/classG4ionEffectiveCharge.html#a4117fa80701e35bb5972fbc006aa5d1a" title="G4ionEffectiveCharge\l::EffectiveCharge" alt="" coords="1164,846,1333,890"/>
+<area shape="rect" id="node34" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="1135,966,1363,994"/>
+<area shape="rect" id="node35" href="$d5/de4/classG4Material.html#ab1ecfcd326feaee2ea7ada917943efcf" title="G4Material::GetAtomicNum\lDensityVector" alt="" coords="1145,778,1352,822"/>
+<area shape="rect" id="node37" href="$d5/de4/classG4Material.html#a040844667f1a20d3a7f2f4eda1cb5694" title="G4Material::GetTotNbOfAtoms\lPerVolume" alt="" coords="844,934,1068,978"/>
+<area shape="rect" id="node41" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="1156,1070,1341,1098"/>
+<area shape="rect" id="node42" href="$d7/db3/classG4EmCorrections.html#a8243dd129ac0c0229b7b75802058ebb5" title="G4EmCorrections::KShell" alt="" coords="861,1002,1051,1030"/>
+<area shape="rect" id="node43" href="$d0/dbe/classG4AtomicShells.html#ac9ff8c0e5699b7579b57736b610e3acb" title="G4AtomicShells::GetNumber\lOfShells" alt="" coords="848,1106,1064,1150"/>
+<area shape="rect" id="node44" href="$d0/dbe/classG4AtomicShells.html#ab321385a604c4a0790b8dc491019d24d" title="G4AtomicShells::GetNumber\lOfElectrons" alt="" coords="848,1226,1064,1270"/>
+<area shape="rect" id="node45" href="$d7/db3/classG4EmCorrections.html#ab76455ffd3471dcd72b810749928e2af" title="G4EmCorrections::LShell" alt="" coords="862,1174,1050,1202"/>
+<area shape="rect" id="node50" href="$d7/df6/classG4BetheBlochModel.html#a7a18869509f5dd654e9db8dedf9cd014" title="G4BetheBlochModel::\lSetParticle" alt="" coords="1165,1397,1332,1441"/>
+</map>

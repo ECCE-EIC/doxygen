@@ -1,0 +1,37 @@
+<map id="G4EmDNAChemistry::ConstructParticle" name="G4EmDNAChemistry::ConstructParticle">
+<area shape="rect" id="node2" href="$d3/df8/classG4EmDNAChemistry.html#a11cbed258e89c1dabb0db9d0dbb1e638" title="G4EmDNAChemistry::Construct\lMolecule" alt="" coords="288,617,523,661"/>
+<area shape="rect" id="node3" href="$d7/d11/classG4MoleculeTable.html#a3d39bb90923084773e52e94446dae27d" title="G4MoleculeTable::CreateConfiguration" alt="" coords="571,292,852,320"/>
+<area shape="rect" id="node12" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="626,469,797,497"/>
+<area shape="rect" id="node25" href="$db/d83/classG4H2.html#a9ebf07a939e6bab6d193d93b969f88c7" title="G4H2::Definition" alt="" coords="645,729,778,757"/>
+<area shape="rect" id="node27" href="$dd/d80/classG4H3O.html#a9a4a71c518ac1f0353bebb7013c82a00" title="G4H3O::Definition" alt="" coords="639,781,783,809"/>
+<area shape="rect" id="node28" href="$dd/d52/classG4H2O.html#afa3c57b9e2e98f61210d20ff88ce78b0" title="G4H2O::Definition" alt="" coords="639,833,783,861"/>
+<area shape="rect" id="node29" href="$d2/d33/classG4OH.html#aca3f72569ace560601a50a130bc43462" title="G4OH::Definition" alt="" coords="643,521,779,549"/>
+<area shape="rect" id="node30" href="$dc/da8/classG4H2O2.html#a14c33181f8938ea797e8e54ed31c4c3d" title="G4H2O2::Definition" alt="" coords="635,573,788,601"/>
+<area shape="rect" id="node31" href="$d0/deb/classG4Electron__aq.html#ae94aeaed1afe6ded2d1774d1a115c6d9" title="G4Electron_aq::Definition" alt="" coords="615,625,808,653"/>
+<area shape="rect" id="node32" href="$da/da0/classG4Hydrogen.html#add233a3438bda01392fa91201f644a2d" title="G4Hydrogen::Definition" alt="" coords="621,677,801,705"/>
+<area shape="rect" id="node33" href="$d7/d11/classG4MoleculeTable.html#ad8ae0fc76226ca6c73493f80ed7fe114" title="G4MoleculeTable::Instance" alt="" coords="610,885,813,913"/>
+<area shape="rect" id="node35" href="$dc/da7/classG4MolecularConfiguration.html#a6f03082816972c468304f763e2d64624" title="G4MolecularConfiguration\l::SetMass" alt="" coords="613,399,810,443"/>
+<area shape="rect" id="node4" href="$dc/da7/classG4MolecularConfiguration.html#afe58e337b1f74d113510456ce7fcb052" title="G4MolecularConfiguration\l::CreateMolecularConfiguration" alt="" coords="900,233,1132,277"/>
+<area shape="rect" id="node5" href="$dc/da7/classG4MolecularConfiguration.html#ad875e136b91e7efc5842efadc4f86895" title="G4MolecularConfiguration\l::GetMolecularConfiguration" alt="" coords="1210,29,1421,73"/>
+<area shape="rect" id="node6" href="$dc/da7/classG4MolecularConfiguration.html#a83be9f08bf67bb825abc8a8644c2bfde" title="G4MolecularConfiguration\l::GetDefinition" alt="" coords="1217,97,1414,141"/>
+<area shape="rect" id="node7" href="$dd/d58/classG4MoleculeDefinition.html#ad1c498032c8bb678783169105b60c1dd" title="G4MoleculeDefinition\l::GetGroundStateElectronOccupancy" alt="" coords="1180,165,1451,209"/>
+<area shape="rect" id="node8" href="$dd/d58/classG4MoleculeDefinition.html#a364858caf2d6fbedf6dae02b25176ecf" title="G4MoleculeDefinition\l::GetName" alt="" coords="1233,233,1398,277"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1559,447,1666,475"/>
+<area shape="rect" id="node11" href="$dd/d58/classG4MoleculeDefinition.html#a37ff630d903c2010701b11d777e2f1eb" title="G4MoleculeDefinition\l::GetCharge" alt="" coords="1233,353,1398,397"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1535,233,1690,277"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="910,601,1122,629"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="934,464,1098,508"/>
+<area shape="rect" id="node18" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="912,653,1120,697"/>
+<area shape="rect" id="node24" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="917,532,1115,576"/>
+<area shape="rect" id="node14" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1193,524,1437,552"/>
+<area shape="rect" id="node15" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1203,576,1427,604"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1521,615,1704,643"/>
+<area shape="rect" id="node19" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1215,693,1416,737"/>
+<area shape="rect" id="node20" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1525,719,1701,763"/>
+<area shape="rect" id="node21" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1525,787,1701,831"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1535,855,1690,899"/>
+<area shape="rect" id="node23" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1499,667,1727,695"/>
+<area shape="rect" id="node26" href="$dd/d58/classG4MoleculeDefinition.html#ad60a817a2f82b32f60f364cfdacc5462" title="G4MoleculeDefinition\l::G4MoleculeDefinition" alt="" coords="929,721,1103,765"/>
+<area shape="rect" id="node34" href="$d7/d11/classG4MoleculeTable.html#ac2b92ec375af865b8fd40efd9c96a898" title="G4MoleculeTable::G4Molecule\lTable" alt="" coords="904,877,1128,921"/>
+<area shape="rect" id="node36" href="$dc/da7/classG4MolecularConfiguration.html#a2b2765f97f3350890a1193a100e47bd0" title="G4MolecularConfiguration\l::MakeExceptionIfFinalized" alt="" coords="916,396,1116,440"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="CLHEP::HepLorentzVector::setPx" name="CLHEP::HepLorentzVector::setPx">
+<area shape="rect" id="node2" href="$dd/dbb/classG4FTFModel.html#adadaaf49abcb9fa40d90567e70253ba7" title="G4FTFModel::AdjustNucleons\lAlgorithm_afterSampling" alt="" coords="265,5,484,49"/>
+<area shape="rect" id="node6" href="$dd/dbb/classG4FTFModel.html#a7d5073dd86bce37df3439f8580a87bf6" title="G4FTFModel::AdjustNucleons\lAlgorithm_beforeSampling" alt="" coords="265,73,484,117"/>
+<area shape="rect" id="node7" href="$d7/dac/classCexmcChargeExchangeProductionModel.html#aaa3e9cd9a6a5f897a7f871d089d36656" title="CexmcChargeExchangeProduction\lModel::ApplyYourself" alt="" coords="248,141,501,185"/>
+<area shape="rect" id="node8" href="$d8/dd5/classG4FTFAnnihilation.html#a8502aaf796b0d44c422303452466be2c" title="G4FTFAnnihilation::\lCreate1DiquarkAntiDiquarkString" alt="" coords="251,209,498,253"/>
+<area shape="rect" id="node10" href="$d8/dd5/classG4FTFAnnihilation.html#afd4df37d20c9f33c4d3a7923b777876e" title="G4FTFAnnihilation::\lCreate1QuarkAntiQuarkString" alt="" coords="263,277,486,321"/>
+<area shape="rect" id="node11" href="$d9/d3a/classG4DiffractiveExcitation.html#ac6e20158059b1db06bf0dfd4a45600ff" title="G4DiffractiveExcitation\l::CreateStrings" alt="" coords="580,312,757,356"/>
+<area shape="rect" id="node13" href="$d0/d64/classG4QGSParticipants.html#a46b4a1f70cb402a7a36267eb67dab61b" title="G4QGSParticipants::\lDeterminePartonMomenta" alt="" coords="569,380,768,424"/>
+<area shape="rect" id="node15" href="$d0/df3/classG4QGSMSplitableHadron.html#a92793688bfb14c87a6adfaf05f6490c4" title="G4QGSMSplitableHadron\l::DiffractiveSplitUp" alt="" coords="280,448,469,492"/>
+<area shape="rect" id="node17" href="$d0/d64/classG4QGSParticipants.html#a633345ad4eb76257e62549f697643a7b" title="G4QGSParticipants::\lFinalizeKinematics" alt="" coords="296,516,453,560"/>
+<area shape="rect" id="node19" href="$dd/dbb/classG4FTFModel.html#a00bfb2d9316242f6f8b1c938cd3335c6" title="G4FTFModel::FinalizeKinematics" alt="" coords="549,584,788,612"/>
+<area shape="rect" id="node21" href="$d4/d79/classCexmcReimplementedGenbod.html#ac127820e816057acca553b8714b29abc" title="CexmcReimplementedGenbod\l::Generate" alt="" coords="261,636,488,680"/>
+<area shape="rect" id="node22" href="$d4/dc9/classG4QGSMFragmentation.html#a50881ab3dae127000688c2601c5f9f60" title="G4QGSMFragmentation\l::Sample4Momentum" alt="" coords="285,704,465,748"/>
+<area shape="rect" id="node25" href="$d9/d84/classG4LundStringFragmentation.html#a38c1bda454e5f0cae8b54ea30c5e8796" title="G4LundStringFragmentation\l::Sample4Momentum" alt="" coords="269,772,481,816"/>
+<area shape="rect" id="node29" href="$d0/dcf/classG4AntiNuclElastic.html#a00b85473d1bf034922b1cf077611f64f" title="G4AntiNuclElastic::\lSampleInvariantT" alt="" coords="300,840,449,884"/>
+<area shape="rect" id="node32" href="$da/d8f/classG4QGSDiffractiveExcitation.html#a86229cf3ac632b0d2c460e246115b629" title="G4QGSDiffractiveExcitation\l::String" alt="" coords="271,908,478,952"/>
+<area shape="rect" id="node3" href="$dd/dbb/classG4FTFModel.html#af516f33380646db4248c448efcb6d94c" title="G4FTFModel::AdjustNucleons" alt="" coords="559,81,778,109"/>
+<area shape="rect" id="node4" href="$dd/dbb/classG4FTFModel.html#a8b7187dbefc0137e849b83ec23690966" title="G4FTFModel::ExciteParticipants" alt="" coords="836,235,1069,263"/>
+<area shape="rect" id="node5" href="$dd/dbb/classG4FTFModel.html#ae51a4d0d59f37d979b53116356e63f49" title="G4FTFModel::GetStrings" alt="" coords="1131,320,1316,348"/>
+<area shape="rect" id="node9" href="$d8/dd5/classG4FTFAnnihilation.html#a73fd21db8de0633e0e7af843c41e6daf" title="G4FTFAnnihilation::\lAnnihilate" alt="" coords="593,227,745,271"/>
+<area shape="rect" id="node12" href="$dd/dbb/classG4FTFModel.html#a6872cd0711188eeda466554313947ce3" title="G4FTFModel::BuildStrings" alt="" coords="855,320,1050,348"/>
+<area shape="rect" id="node14" href="$d0/d64/classG4QGSParticipants.html#adc7327c3052afdcff70994d87cd906a3" title="G4QGSParticipants::\lBuildInteractions" alt="" coords="874,413,1031,457"/>
+<area shape="rect" id="node16" href="$d0/df3/classG4QGSMSplitableHadron.html#a8e89768ca4ae70ea48514e0020dbdca5" title="G4QGSMSplitableHadron\l::SplitUp" alt="" coords="574,448,763,492"/>
+<area shape="rect" id="node18" href="$d0/d64/classG4QGSParticipants.html#af2acf2ceb09b3ab4d4605ca1681b081b" title="G4QGSParticipants::\lPutOnMassShell" alt="" coords="590,516,747,560"/>
+<area shape="rect" id="node20" href="$dd/dbb/classG4FTFModel.html#a6a698b32a89e896210bffff1eb6eac80" title="G4FTFModel::PutOnMassShell" alt="" coords="842,549,1063,577"/>
+<area shape="rect" id="node23" href="$d4/dc9/classG4QGSMFragmentation.html#a12bc0bd1e7c5f5df2d5f76f2f75887ec" title="G4QGSMFragmentation\l::SplitLast" alt="" coords="579,704,759,748"/>
+<area shape="rect" id="node24" href="$d4/dc9/classG4QGSMFragmentation.html#a87dc0419e971242d32aca30cc0fd79f7" title="G4QGSMFragmentation\l::FragmentString" alt="" coords="863,704,1043,748"/>
+<area shape="rect" id="node26" href="$d9/d84/classG4LundStringFragmentation.html#a7897cb308fbe7b0c65810823cb601cd1" title="G4LundStringFragmentation\l::SplitLast" alt="" coords="563,772,775,816"/>
+<area shape="rect" id="node27" href="$d9/d84/classG4LundStringFragmentation.html#aa0b0a4f2a1f980274971a285e5aed95c" title="G4LundStringFragmentation\l::Loop_toFragmentString" alt="" coords="847,772,1059,816"/>
+<area shape="rect" id="node28" href="$d9/d84/classG4LundStringFragmentation.html#a36964aef154384f1cace515b3f5398d0" title="G4LundStringFragmentation\l::FragmentString" alt="" coords="1117,772,1329,816"/>
+<area shape="rect" id="node30" href="$d0/dcf/classG4AntiNuclElastic.html#ae4eddb563054b788180007b46b2c275d" title="G4AntiNuclElastic::\lSampleThetaCMS" alt="" coords="594,840,743,884"/>
+<area shape="rect" id="node31" href="$d0/dcf/classG4AntiNuclElastic.html#a6de33913bee97a9849d52848c07931dd" title="G4AntiNuclElastic::\lSampleThetaLab" alt="" coords="594,908,743,952"/>
+</map>

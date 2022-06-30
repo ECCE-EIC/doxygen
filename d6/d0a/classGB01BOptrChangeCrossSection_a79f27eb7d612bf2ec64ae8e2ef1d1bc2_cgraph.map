@@ -1,0 +1,17 @@
+<map id="GB01BOptrChangeCrossSection::ProposeOccurenceBiasingOperation" name="GB01BOptrChangeCrossSection::ProposeOccurenceBiasingOperation">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="988,496,1095,524"/>
+<area shape="rect" id="node3" href="$d2/d84/classG4VProcess.html#a7e27c026ad5d6c3edd6ae9631b769bb5" title="G4VProcess::GetCurrentInteraction\lLength" alt="" coords="347,73,603,117"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="388,141,561,169"/>
+<area shape="rect" id="node5" href="$d0/d17/classG4BOptnChangeCrossSection.html#a08765da731eef9b37d273c392384f98e" title="G4BOptnChangeCrossSection\l::GetInteractionOccured" alt="" coords="364,193,585,237"/>
+<area shape="rect" id="node6" href="$d6/d72/classG4BiasingProcessInterface.html#a90afa78e1e5ff3abfd57ed8847333007" title="G4BiasingProcessInterface\l::GetPreviousOccurenceBiasingOperation" alt="" coords="325,261,624,305"/>
+<area shape="rect" id="node7" href="$d6/d72/classG4BiasingProcessInterface.html#afc23dec4dc11acc1ef1ffd68a3fb01e0" title="G4BiasingProcessInterface\l::GetPreviousStepSize" alt="" coords="374,329,575,373"/>
+<area shape="rect" id="node8" href="$d6/d72/classG4BiasingProcessInterface.html#a1658d199c99c8c86fa5dbda02dcceecf" title="G4BiasingProcessInterface\l::GetWrappedProcess" alt="" coords="374,397,575,441"/>
+<area shape="rect" id="node9" href="$d0/d17/classG4BOptnChangeCrossSection.html#a90ccfbc239b4ac4b2c86f1cfbabcc99e" title="G4BOptnChangeCrossSection\l::Sample" alt="" coords="364,5,585,49"/>
+<area shape="rect" id="node12" href="$d0/d17/classG4BOptnChangeCrossSection.html#ad8bb17eb2e42c2753a621fb38b1c9194" title="G4BOptnChangeCrossSection\l::SetBiasedCrossSection" alt="" coords="364,517,585,561"/>
+<area shape="rect" id="node14" href="$d0/d17/classG4BOptnChangeCrossSection.html#aaa5120bcb5f7323cefe8d3dbcab13f71" title="G4BOptnChangeCrossSection\l::UpdateForStep" alt="" coords="672,585,893,629"/>
+<area shape="rect" id="node10" href="$d2/d5e/classG4VBiasingInteractionLaw.html#a2b13eeb97956a651f571ce9bb1df3e47" title="G4VBiasingInteractionLaw\l::Sample" alt="" coords="683,5,883,49"/>
+<area shape="rect" id="node11" href="$d2/d5e/classG4VBiasingInteractionLaw.html#ac8c223c38e1cd974b9b17e4abc831e3a" title="G4VBiasingInteractionLaw\l::SampleInteractionLength" alt="" coords="941,5,1141,49"/>
+<area shape="rect" id="node13" href="$dd/d2b/classG4InteractionLawPhysical.html#a499687e9011d58beda05552e96fe13f3" title="G4InteractionLawPhysical\l::SetPhysicalCrossSection" alt="" coords="685,517,880,561"/>
+<area shape="rect" id="node15" href="$d2/d5e/classG4VBiasingInteractionLaw.html#a4e316bf38c7af140e38acc1b8fcd6d9e" title="G4VBiasingInteractionLaw\l::UpdateForStep" alt="" coords="941,585,1141,629"/>
+<area shape="rect" id="node16" href="$d2/d5e/classG4VBiasingInteractionLaw.html#a39a23acc5f48addf3dae595a53b308e4" title="G4VBiasingInteractionLaw\l::UpdateInteractionLengthForStep" alt="" coords="1189,585,1440,629"/>
+</map>

@@ -1,0 +1,28 @@
+var classG4mplIonisationModel =
+[
+    [ "G4mplIonisationModel", "dc/d47/classG4mplIonisationModel.html#a3ff919ea6cef0ac8ce83570fdfc6f8c1", null ],
+    [ "~G4mplIonisationModel", "dc/d47/classG4mplIonisationModel.html#a3a2e4f962a163044b29a9ab25ce35700", null ],
+    [ "G4mplIonisationModel", "dc/d47/classG4mplIonisationModel.html#acfc6820325a4f541cb973aa72d684055", null ],
+    [ "ComputeDEDXAhlen", "dc/d47/classG4mplIonisationModel.html#a9cdd69f8b4fafac6bd253e3fbf75ed95", null ],
+    [ "ComputeDEDXPerVolume", "dc/d47/classG4mplIonisationModel.html#a85890d608aba0cc575c1a6ecb90ec419", null ],
+    [ "Dispersion", "dc/d47/classG4mplIonisationModel.html#afef4820481153bd1ca84d72d3e8a9399", null ],
+    [ "Initialise", "dc/d47/classG4mplIonisationModel.html#abaabe223e8cbcd65488e79814a9611aa", null ],
+    [ "operator=", "dc/d47/classG4mplIonisationModel.html#ad9f888e15c95ef26dc061d3adffa8132", null ],
+    [ "SampleFluctuations", "dc/d47/classG4mplIonisationModel.html#a3c9457e9207634a32fe4e07e5928c3bd", null ],
+    [ "SampleSecondaries", "dc/d47/classG4mplIonisationModel.html#a782b7fe82c3b9d9a9dcdc2bb1ff53d93", null ],
+    [ "SetParticle", "dc/d47/classG4mplIonisationModel.html#aa19f5abb42af884ecc31198125cb1c60", null ],
+    [ "beta2lim", "dc/d47/classG4mplIonisationModel.html#a545c6beef43b08c65b680e2106825545", null ],
+    [ "betalim", "dc/d47/classG4mplIonisationModel.html#a6146a05967602bd9691709d9204dfa2f", null ],
+    [ "betalow", "dc/d47/classG4mplIonisationModel.html#a12355127f79d2f060865323fc918873f", null ],
+    [ "bg2lim", "dc/d47/classG4mplIonisationModel.html#ad0faa36202ca4b8edb14a587e9208ea4", null ],
+    [ "chargeSquare", "dc/d47/classG4mplIonisationModel.html#ae469d8d4c91d1c15c8e74648a42f4d55", null ],
+    [ "dedx0", "dc/d47/classG4mplIonisationModel.html#a08b4d5672137006da4913f957a974ef9", null ],
+    [ "dedxlim", "dc/d47/classG4mplIonisationModel.html#a67d8525df956e25da159a97dcf40dff1", null ],
+    [ "fParticleChange", "dc/d47/classG4mplIonisationModel.html#a4b65669c0c76dcb6e713a3b749428b07", null ],
+    [ "magCharge", "dc/d47/classG4mplIonisationModel.html#a09660cfee25ad238e9c98115cea37e80", null ],
+    [ "mass", "dc/d47/classG4mplIonisationModel.html#abfb0435c2f133761f4547ea728697f44", null ],
+    [ "monopole", "dc/d47/classG4mplIonisationModel.html#a7b7e27bb3daf84f10f645b1878b66c85", null ],
+    [ "nmpl", "dc/d47/classG4mplIonisationModel.html#aac6e958abf8ef0da667ac7f54819dffe", null ],
+    [ "pi_hbarc2_over_mc2", "dc/d47/classG4mplIonisationModel.html#a143184932ec9b05c429b312ba7577f5c", null ],
+    [ "twoln10", "dc/d47/classG4mplIonisationModel.html#adc3f06c9b4e3f196cad8bbbabe8bc8de", null ]
+];

@@ -1,0 +1,24 @@
+<map id="G4MoleculeDefinition::GetGroundStateElectronOccupancy" name="G4MoleculeDefinition::GetGroundStateElectronOccupancy">
+<area shape="rect" id="node2" href="$d3/df8/classG4EmDNAChemistry.html#acb7f4dade4f1200f08960837b61f7440" title="G4EmDNAChemistry::Construct\lDissociationChannels" alt="" coords="985,5,1219,49"/>
+<area shape="rect" id="node3" href="$d6/d81/classG4EmDNAChemistry__option1.html#a9b3c2c165ad89097071b1320d046955d" title="G4EmDNAChemistry_option1\l::ConstructDissociationChannels" alt="" coords="982,215,1222,259"/>
+<area shape="rect" id="node4" href="$df/dbe/classG4EmDNAChemistry__option2.html#a46e3eb0cc02089a64a948a3049b85b9a" title="G4EmDNAChemistry_option2\l::ConstructDissociationChannels" alt="" coords="982,293,1222,337"/>
+<area shape="rect" id="node5" href="$dc/da7/classG4MolecularConfiguration.html#afe58e337b1f74d113510456ce7fcb052" title="G4MolecularConfiguration\l::CreateMolecularConfiguration" alt="" coords="344,160,576,204"/>
+<area shape="rect" id="node11" href="$d9/d66/classG4Molecule.html#a42e1f1bf2f487e7cd6644b97cfa1f035" title="G4Molecule::G4Molecule" alt="" coords="365,372,555,400"/>
+<area shape="rect" id="node12" href="$dc/da7/classG4MolecularConfiguration.html#ab6e6e1cf0016d2661d3437afd0afe2d5" title="G4MolecularConfiguration\l::GetOrCreateMolecularConfiguration" alt="" coords="324,432,596,476"/>
+<area shape="rect" id="node6" href="$d7/d11/classG4MoleculeTable.html#a967aeaa2519e49cdbf926c3ff6f500e4" title="G4MoleculeTable::CreateConfiguration" alt="" coords="644,133,925,161"/>
+<area shape="rect" id="node7" href="$dd/d58/classG4MoleculeDefinition.html#ae9e60f644e234a871a6dd13b6de2de9d" title="G4MoleculeDefinition\l::NewConfiguration" alt="" coords="702,65,867,109"/>
+<area shape="rect" id="node10" href="$dd/d58/classG4MoleculeDefinition.html#aed0185250a2a419f46c1738c32e27875" title="G4MoleculeDefinition\l::NewConfigurationWithElectron\lOccupancy" alt="" coords="666,185,903,245"/>
+<area shape="rect" id="node8" href="$db/dfe/classG4DNAElectronHoleRecombination.html#ad5f7845fb5d3a83b2cffccef93961017" title="G4DNAElectronHoleRecombination\l::BuildDissociationChannels" alt="" coords="973,73,1231,117"/>
+<area shape="rect" id="node9" href="$db/dfe/classG4DNAElectronHoleRecombination.html#ab891f9fbb4db13501447973df754ce74" title="G4DNAElectronHoleRecombination\l::IsApplicable" alt="" coords="1279,73,1536,117"/>
+<area shape="rect" id="node13" href="$d9/d66/classG4Molecule.html#a57a7f6751d82ca7b3ad4cc29243d666e" title="G4Molecule::G4Molecule" alt="" coords="690,492,879,520"/>
+<area shape="rect" id="node14" href="$dc/da7/classG4MolecularConfiguration.html#a26ddcd3e28c862a3e3d45b96ab45ef97" title="G4MolecularConfiguration\l::GetOrCreateMolecularConfiguration" alt="" coords="649,544,921,588"/>
+<area shape="rect" id="node15" href="$d7/d11/classG4MoleculeTable.html#a9906c1bac5f7de4d2d48a782d5a38991" title="G4MoleculeTable::Prepare\lMolecularConfiguration" alt="" coords="687,372,883,416"/>
+<area shape="rect" id="node23" href="$d9/d66/classG4Molecule.html#a30fdda136f04acc35103138b3ab98a53" title="G4Molecule::SetElectronOccupancy" alt="" coords="653,440,916,468"/>
+<area shape="rect" id="node16" href="$dc/d37/classG4DNAChemistryManager.html#a2efe118eb7ab9e118e62c96b7143ade0" title="G4DNAChemistryManager\l::InitializeThreadSharedData" alt="" coords="995,372,1209,416"/>
+<area shape="rect" id="node17" href="$dc/d37/classG4DNAChemistryManager.html#ab74f4552fc3297f9ac9a89725ba2563d" title="G4DNAChemistryManager\l::Initialize" alt="" coords="1308,405,1507,449"/>
+<area shape="rect" id="node22" href="$dc/d37/classG4DNAChemistryManager.html#ae6849f1c0da863eb8dac5b7d07fa8c8b" title="G4DNAChemistryManager\l::Notify" alt="" coords="1308,337,1507,381"/>
+<area shape="rect" id="node18" href="$d3/df8/classG4EmDNAChemistry.html#a1a0bf7553bba200e0731c180d925591f" title="G4EmDNAChemistry::Construct\lProcess" alt="" coords="1584,303,1819,347"/>
+<area shape="rect" id="node19" href="$d6/d81/classG4EmDNAChemistry__option1.html#ad519d5689465ad8278282b55be018475" title="G4EmDNAChemistry_option1\l::ConstructProcess" alt="" coords="1592,371,1811,415"/>
+<area shape="rect" id="node20" href="$df/dbe/classG4EmDNAChemistry__option2.html#a26e0899c67dd024dfb00c4a90c35348e" title="G4EmDNAChemistry_option2\l::ConstructProcess" alt="" coords="1592,439,1811,483"/>
+<area shape="rect" id="node21" href="$dc/d37/classG4DNAChemistryManager.html#acd16799993dcce4bc4297b7d64b5652f" title="G4DNAChemistryManager\l::SetNewValue" alt="" coords="1602,507,1801,551"/>
+</map>

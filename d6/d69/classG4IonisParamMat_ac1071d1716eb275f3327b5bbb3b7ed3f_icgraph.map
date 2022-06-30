@@ -1,0 +1,51 @@
+<map id="G4IonisParamMat::SetMeanExcitationEnergy" name="G4IonisParamMat::SetMeanExcitationEnergy">
+<area shape="rect" id="node2" href="$df/d8e/classG4NistMaterialBuilder.html#ae93677008c7dadafcba78ce2ab7cba1a" title="G4NistMaterialBuilder\l::BuildMaterial" alt="" coords="294,375,465,419"/>
+<area shape="rect" id="node13" href="$d0/d78/classPHG4Reco.html#a90115a5a7726db54ec46f7fa341e0e5c" title="PHG4Reco::DefineMaterials" alt="" coords="1400,5,1607,33"/>
+<area shape="rect" id="node23" href="$d2/dc7/classdoiPETDetectorConstruction.html#a9a50e0ebdfa343407b23f8d5f05d94b2" title="doiPETDetectorConstruction\l::DefineMaterials" alt="" coords="1398,109,1609,153"/>
+<area shape="rect" id="node25" href="$d8/dc5/classG4tgbMaterialMgr.html#a8c8a22158b7fb108ecf4938a67c9e950" title="G4tgbMaterialMgr::FindOr\lBuildG4Material" alt="" coords="1405,245,1601,289"/>
+<area shape="rect" id="node42" href="$d5/de4/classG4Material.html#a51b61e323edd6ec8e0a2cfc9217cd58d" title="G4Material::CopyPointers\lOfBaseMaterial" alt="" coords="283,443,476,487"/>
+<area shape="rect" id="node44" href="$d8/d7b/classG4HumanPhantomMaterial.html#aab12678c67aee10d155e8ee010c911a6" title="G4HumanPhantomMaterial\l::DefineMaterials" alt="" coords="277,511,481,555"/>
+<area shape="rect" id="node45" href="$d8/d67/classBrachyMaterial.html#a362a53d0c9ea7bd9688965b9e89d0d3d" title="BrachyMaterial::DefineMaterials" alt="" coords="260,579,499,607"/>
+<area shape="rect" id="node46" href="$dc/d5b/classDetectorConstruction.html#a5c3bcd347659ea1931b858bc128c54a2" title="DetectorConstruction\l::DefineMaterials" alt="" coords="834,77,999,121"/>
+<area shape="rect" id="node47" href="$d5/dd3/classExN03DetectorConstruction.html#ad468f5881da650721ba3d28212948a69" title="ExN03DetectorConstruction\l::DefineMaterials" alt="" coords="275,631,484,675"/>
+<area shape="rect" id="node49" href="$db/d87/classG4GDMLReadMaterials.html#aea2d34239b0d61bca0ea6a645f2b55f2" title="G4GDMLReadMaterials\l::MaterialRead" alt="" coords="291,699,467,743"/>
+<area shape="rect" id="node3" href="$df/d8e/classG4NistMaterialBuilder.html#a877f161dc07f5e08f52109221ae02e3b" title="G4NistMaterialBuilder\l::BuildNistMaterial" alt="" coords="570,375,741,419"/>
+<area shape="rect" id="node34" href="$df/d8e/classG4NistMaterialBuilder.html#ae0bec346b7d33b45a0bd956beeeb5233" title="G4NistMaterialBuilder\l::ConstructNewMaterial" alt="" coords="1099,612,1277,656"/>
+<area shape="rect" id="node38" href="$df/d8e/classG4NistMaterialBuilder.html#af80146e3611635ae15a067afccf2dbd3" title="G4NistMaterialBuilder\l::ConstructNewIdealGasMaterial" alt="" coords="1069,544,1307,588"/>
+<area shape="rect" id="node4" href="$df/d8e/classG4NistMaterialBuilder.html#aa37cab6c172280b7e7f03cdf269d5436" title="G4NistMaterialBuilder\l::FindOrBuildMaterial" alt="" coords="831,408,1002,452"/>
+<area shape="rect" id="node40" href="$df/d8e/classG4NistMaterialBuilder.html#abb7aaea19015793b970d037acfb9fa69" title="G4NistMaterialBuilder\l::FindOrBuildSimpleMaterial" alt="" coords="812,340,1021,384"/>
+<area shape="rect" id="node5" href="$d2/d00/classG4NistManager.html#abb3a53647400f8477dfe1cae931c3e72" title="G4NistManager::FindOrBuild\lMaterial" alt="" coords="1082,476,1294,520"/>
+<area shape="rect" id="node37" href="$df/d8e/classG4NistMaterialBuilder.html#ac74095d521fedc02492ff6e1df8d6b21" title="G4NistMaterialBuilder\l::ConstructNewGasMaterial" alt="" coords="1086,408,1290,452"/>
+<area shape="rect" id="node6" href="$d3/d22/classPHG4BbcDetector.html#a7828b04efeed22f55fffce3385d0cfe1" title="construct BBC/MBD" alt="" coords="1711,893,1947,921"/>
+<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be" title="PHG4Detector::GetDetector\lMaterial" alt="" coords="1399,844,1608,888"/>
+<area shape="rect" id="node8" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a7ca6d04e93df762b3ebc553f04aa1ebc" title="PHG4ForwardDualReadoutDetector\l::ConstructTower" alt="" coords="1700,979,1959,1023"/>
+<area shape="rect" id="node9" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#aabe7f65cf7fc95c7092537acc12bf48b" title="PHG4ForwardDualReadoutDetector\l::ConstructTowerFCStyle" alt="" coords="1700,555,1959,599"/>
+<area shape="rect" id="node10" href="$d3/d05/classEICG4LumiDetector.html#a3f56aa34b97db016d8a6a4bffab4e0b9" title="EICG4LumiDetector::\lMakeTower" alt="" coords="1749,729,1910,773"/>
+<area shape="rect" id="node11" href="$d5/d40/classPHG4TTLDetector.html#a4071abf01a09d23a002a8cba3bb75964" title="PHG4TTLDetector::BuildBarrelTTL" alt="" coords="1705,825,1953,853"/>
+<area shape="rect" id="node12" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="1430,484,1577,512"/>
+<area shape="rect" id="node15" href="$de/d99/classPHG4FCalDetector.html#aea4be97f26cc1481397e373c9bfc40e1" title="PHG4FCalDetector::ConstructMe" alt="" coords="1383,588,1623,616"/>
+<area shape="rect" id="node16" href="$d4/df0/classPHG4FPbScDetector.html#af032703a449eadcc48a8ee8054b25ce5" title="PHG4FPbScDetector::\lConstructMe" alt="" coords="1421,640,1586,684"/>
+<area shape="rect" id="node17" href="$d2/d61/classePHENIXRICH_1_1ePHENIXRICHConstruction.html#acbb2fe5b417c06cfde726761b98b5cf9" title="ePHENIXRICH::ePHENIXRICHConstruction\l::GetDetectorMaterial" alt="" coords="1355,708,1652,752"/>
+<area shape="rect" id="node18" href="$df/d5a/classEICG4ZDCStructure.html#ab55cca16dc523512024a97af62ca9d11" title="EICG4ZDCStructure::\lMaterials" alt="" coords="1423,776,1584,820"/>
+<area shape="rect" id="node19" href="$dc/d5b/classDetectorConstruction.html#a5cb25b8d745e625d0a2e1da8d3b5d90c" title="DetectorConstruction\l::SetMaterial" alt="" coords="1421,177,1586,221"/>
+<area shape="rect" id="node21" href="$dc/d5b/classDetectorConstruction.html#a9b970ad4aacc014e624cc19ff5664d55" title="DetectorConstruction\l::SetAbsorberMaterial" alt="" coords="1419,912,1587,956"/>
+<area shape="rect" id="node22" href="$dc/d5b/classDetectorConstruction.html#ae511a5f00b0f6b52b258426d981440cd" title="DetectorConstruction\l::SetGapMaterial" alt="" coords="1421,416,1586,460"/>
+<area shape="rect" id="node14" href="$d0/d78/classPHG4Reco.html#a7b10a263dd7671587b574526da6b2d7d" title="full initialization" alt="" coords="1768,5,1891,33"/>
+<area shape="rect" id="node20" href="$dc/d5b/classDetectorConstruction.html#a1533c4308baddd0b2dcdf40f61dea1ef" title="DetectorConstruction\l::DetectorConstruction" alt="" coords="1743,125,1916,169"/>
+<area shape="rect" id="node24" href="$d2/dc7/classdoiPETDetectorConstruction.html#a94cb2961597f630b5e9a5cfb5590f5cd" title="doiPETDetectorConstruction\l::doiPETDetectorConstruction" alt="" coords="1719,57,1939,101"/>
+<area shape="rect" id="node26" href="$d2/dfb/classG4tgbMaterialMixtureByVolume.html#a93f1ac06fe8db4d903b1981f048f7294" title="G4tgbMaterialMixtureByVolume\l::BuildG4Material" alt="" coords="2007,269,2243,313"/>
+<area shape="rect" id="node27" href="$d2/dfb/classG4tgbMaterialMixtureByVolume.html#a95bcf60ccc093212f059dcf35e21a745" title="G4tgbMaterialMixtureByVolume\l::TransformToFractionsByWeight" alt="" coords="1710,245,1949,289"/>
+<area shape="rect" id="node28" href="$dd/dfb/classG4tgbMaterialMixtureByWeight.html#a6c81cd93cf3ede3e0d038ae761bceb52" title="G4tgbMaterialMixtureByWeight\l::BuildG4Material" alt="" coords="1713,365,1946,409"/>
+<area shape="rect" id="node29" href="$d1/d78/classG4tgbVolume.html#a7246bd33bb8e970b470dee1b3bd378eb" title="G4tgbVolume::ConstructG4\lLogVol" alt="" coords="1726,433,1933,477"/>
+<area shape="rect" id="node33" href="$d1/d78/classG4tgbVolume.html#a0cc2371fc97f047c9f0ac69f791fd8f7" title="G4tgbVolume::ConstructG4\lPhysVol" alt="" coords="2291,341,2497,385"/>
+<area shape="rect" id="node30" href="$d1/d78/classG4tgbVolume.html#a914b6aefd21c8a951b8d863b12170f61" title="G4tgbVolume::ConstructG4\lVolumes" alt="" coords="2021,409,2228,453"/>
+<area shape="rect" id="node31" href="$d9/d6c/classG4tgbDetectorBuilder.html#aa7113e3f68d1d769caad5cfa89bc0244" title="G4tgbDetectorBuilder\l::ConstructDetector" alt="" coords="2309,409,2479,453"/>
+<area shape="rect" id="node32" href="$da/d27/classG4tgbDetectorConstruction.html#a7853d57e0b71d49746d04bc716d725c3" title="G4tgbDetectorConstruction\l::Construct" alt="" coords="2291,477,2497,521"/>
+<area shape="rect" id="node35" href="$d2/d00/classG4NistManager.html#ab2de129709586652e4b018f61603a2e9" title="G4NistManager::Construct\lNewMaterial" alt="" coords="1403,1151,1603,1195"/>
+<area shape="rect" id="node36" href="$d1/d59/classXrayFluoNistMaterials.html#a1a99b5139aef764389134235e3b6bdd2" title="XrayFluoNistMaterials\l::CreateMaterials" alt="" coords="1745,1151,1913,1195"/>
+<area shape="rect" id="node39" href="$d2/d00/classG4NistManager.html#a4186e0b4d70bf6eb342e1975b0c4bdfe" title="G4NistManager::Construct\lNewIdealGasMaterial" alt="" coords="1403,1083,1603,1127"/>
+<area shape="rect" id="node41" href="$d2/d00/classG4NistManager.html#a8061c4d90c4ecd5804286d222d17f5a6" title="G4NistManager::FindOrBuild\lSimpleMaterial" alt="" coords="1082,340,1294,384"/>
+<area shape="rect" id="node43" href="$d5/de4/classG4Material.html#a3c29aa6ac369ed05b2648e5158b4c4da" title="G4Material::G4Material" alt="" coords="567,579,744,607"/>
+<area shape="rect" id="node48" href="$d5/dd3/classExN03DetectorConstruction.html#ace49e1a7dfff616456819fcb7da07b7f" title="ExN03DetectorConstruction\l::ExN03DetectorConstruction" alt="" coords="547,631,764,675"/>
+<area shape="rect" id="node50" href="$db/d87/classG4GDMLReadMaterials.html#aa810ff8fc6c63b50a82825ccccd774e6" title="G4GDMLReadMaterials\l::MaterialsRead" alt="" coords="567,699,743,743"/>
+</map>

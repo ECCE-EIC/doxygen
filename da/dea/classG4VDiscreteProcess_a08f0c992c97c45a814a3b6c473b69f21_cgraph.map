@@ -1,0 +1,17 @@
+<map id="G4VDiscreteProcess::PostStepGetPhysicalInteractionLength" name="G4VDiscreteProcess::PostStepGetPhysicalInteractionLength">
+<area shape="rect" id="node2" href="$d7/d5c/classG4DynamicParticle.html#a156a5de1774b99eb97d87e73ce32e15a" title="G4DynamicParticle::\lDumpInfo" alt="" coords="328,5,485,49"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="298,73,515,101"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="325,125,488,153"/>
+<area shape="rect" id="node5" href="$da/dea/classG4VDiscreteProcess.html#a3b9495a686d27476c5528ede8ece378b" title="G4VDiscreteProcess\l::GetMeanFreePath" alt="" coords="329,177,485,221"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="323,245,491,273"/>
+<area shape="rect" id="node7" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="295,297,519,325"/>
+<area shape="rect" id="node8" href="$d2/d84/classG4VProcess.html#a2d25bf39fe664d382066ecaa399dac7a" title="G4VProcess::ResetNumberOf\lInteractionLengthLeft" alt="" coords="298,349,515,393"/>
+<area shape="rect" id="node15" href="$d2/d84/classG4VProcess.html#a4b527b40cbb63d8eeae0189001e58eb0" title="G4VProcess::SubtractNumber\lOfInteractionLengthLeft" alt="" coords="296,417,517,461"/>
+<area shape="rect" id="node9" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="588,357,652,385"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="745,305,937,333"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="745,357,937,385"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="721,409,961,437"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1009,383,1197,411"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1009,435,1197,463"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="567,425,673,453"/>
+</map>

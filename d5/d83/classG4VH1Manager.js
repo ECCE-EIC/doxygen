@@ -1,0 +1,28 @@
+var classG4VH1Manager =
+[
+    [ "G4VH1Manager", "d5/d83/classG4VH1Manager.html#abe59047baec2f6d4ac3e83afc55e888d", null ],
+    [ "~G4VH1Manager", "d5/d83/classG4VH1Manager.html#a139c45c16e94c60e15d4ce90e42ba483", null ],
+    [ "G4VH1Manager", "d5/d83/classG4VH1Manager.html#aafd41baa5d0af9c8e37b5b1dd88d5f91", null ],
+    [ "CreateH1", "d5/d83/classG4VH1Manager.html#ab63062272e79395cd7355de8d221b202", null ],
+    [ "CreateH1", "d5/d83/classG4VH1Manager.html#a16f81df1d85767e860d131da28efafa4", null ],
+    [ "FillH1", "d5/d83/classG4VH1Manager.html#aaa8324be2b12e6473e00d016cbba0035", null ],
+    [ "GetH1Id", "d5/d83/classG4VH1Manager.html#afe279595acadae0680b5ef5c6bf4704b", null ],
+    [ "GetH1Nbins", "d5/d83/classG4VH1Manager.html#afc5c6ade9e266fcf3d80ff47f4b416c3", null ],
+    [ "GetH1Title", "d5/d83/classG4VH1Manager.html#a594ac4872e08fe02e37822e967387b62", null ],
+    [ "GetH1Width", "d5/d83/classG4VH1Manager.html#a14c5ae12fae00624fea7a37037aa6101", null ],
+    [ "GetH1XAxisTitle", "d5/d83/classG4VH1Manager.html#aaf1b9d2297e1fd91bbd2859b4b8c8086", null ],
+    [ "GetH1Xmax", "d5/d83/classG4VH1Manager.html#a59418fbffbcaf4a07d4a76f4af201256", null ],
+    [ "GetH1Xmin", "d5/d83/classG4VH1Manager.html#a412e43797ae99881203588d5bd8f1073", null ],
+    [ "GetH1YAxisTitle", "d5/d83/classG4VH1Manager.html#a7267109492b2ab25052697f9f498ff57", null ],
+    [ "GetHnManager", "d5/d83/classG4VH1Manager.html#a477640a73ec0d0cd5e9b04a10b119215", null ],
+    [ "operator=", "d5/d83/classG4VH1Manager.html#a7a85d9c21b92dfbc9b226b876b9e60e3", null ],
+    [ "ScaleH1", "d5/d83/classG4VH1Manager.html#a4b2c826bb993c4fbe7099af3919b717c", null ],
+    [ "SetH1", "d5/d83/classG4VH1Manager.html#a2d5e45fc7321e72d180be57db3e8eabb", null ],
+    [ "SetH1", "d5/d83/classG4VH1Manager.html#a59c3c53d5da2337a0d90ad9929c7faf2", null ],
+    [ "SetH1Title", "d5/d83/classG4VH1Manager.html#a20f239ef58c1aa71a75e1e809de3d73d", null ],
+    [ "SetH1XAxisTitle", "d5/d83/classG4VH1Manager.html#a0f5247cb992e94c863ec7966e6a2d96e", null ],
+    [ "SetH1YAxisTitle", "d5/d83/classG4VH1Manager.html#a744d780f9c864bcf18a67a35aaafee69", null ],
+    [ "WriteOnAscii", "d5/d83/classG4VH1Manager.html#a47f8cbee29af6b27e8e51959b1ecf822", null ],
+    [ "G4VAnalysisManager", "d5/d83/classG4VH1Manager.html#af7a24650025a1f095c74125dd1fef95a", null ],
+    [ "G4VAnalysisReader", "d5/d83/classG4VH1Manager.html#adb15328295755ff6a69be431e8989352", null ]
+];

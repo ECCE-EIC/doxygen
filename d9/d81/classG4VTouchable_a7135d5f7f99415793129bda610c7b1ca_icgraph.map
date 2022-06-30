@@ -1,0 +1,29 @@
+<map id="G4VTouchable::GetHistory" name="G4VTouchable::GetHistory">
+<area shape="rect" id="node2" href="$dc/de1/classG4PSSphereSurfaceCurrent.html#a6a1eeff52ec8181ecaec532903f54436" title="G4PSSphereSurfaceCurrent\l::IsSelectedSurface" alt="" coords="263,5,471,49"/>
+<area shape="rect" id="node4" href="$d3/df6/classG4PSCylinderSurfaceFlux.html#ae792c025622ccdef2dfaf1bf1fbe9998" title="G4PSCylinderSurfaceFlux\l::IsSelectedSurface" alt="" coords="270,73,463,117"/>
+<area shape="rect" id="node5" href="$d3/df6/classG4PSCylinderSurfaceFlux.html#a1edbeee643b4d23d5cd0e28065611796" title="G4PSCylinderSurfaceFlux\l::ProcessHits" alt="" coords="547,99,740,143"/>
+<area shape="rect" id="node6" href="$d1/d3a/classG4PSCylinderSurfaceCurrent.html#a7ae1422a4ab53c5941aec7724f5cd4c6" title="G4PSCylinderSurfaceCurrent\l::IsSelectedSurface" alt="" coords="259,193,475,237"/>
+<area shape="rect" id="node8" href="$d7/d77/classG4PSSphereSurfaceFlux.html#a760f1837b42c6f6b146f8f428c5bcc11" title="G4PSSphereSurfaceFlux\l::IsSelectedSurface" alt="" coords="274,261,459,305"/>
+<area shape="rect" id="node9" href="$d7/d77/classG4PSSphereSurfaceFlux.html#ae278d5c9d246f72c752fd6aa39028dab" title="G4PSSphereSurfaceFlux\l::ProcessHits" alt="" coords="551,287,736,331"/>
+<area shape="rect" id="node10" href="$da/dc4/classG4PSFlatSurfaceCurrent.html#a09562b9e5910af5b328401717173aa17" title="G4PSFlatSurfaceCurrent\l::IsSelectedSurface" alt="" coords="274,381,459,425"/>
+<area shape="rect" id="node12" href="$de/d78/classG4PSFlatSurfaceFlux.html#a31932ed9dd5b7e0996e3d16fa17bbc85" title="G4PSFlatSurfaceFlux\l::IsSelectedSurface" alt="" coords="285,449,448,493"/>
+<area shape="rect" id="node13" href="$de/d78/classG4PSFlatSurfaceFlux.html#a6b5dc0a5341f38b112e16f9f924998df" title="G4PSFlatSurfaceFlux\l::ProcessHits" alt="" coords="562,480,725,524"/>
+<area shape="rect" id="node14" href="$d4/da1/classRE05CalorimeterSD.html#a45a69a1cac1ca04eecbb6e19e352a772" title="RE05CalorimeterSD::\lProcessHits" alt="" coords="285,569,448,613"/>
+<area shape="rect" id="node15" href="$d2/d4e/classScreenSD.html#a4df99f4eeae16600e48531c37771a982" title="ScreenSD::ProcessHits" alt="" coords="280,637,453,665"/>
+<area shape="rect" id="node16" href="$d9/d62/classRE01CalorimeterSD.html#abb430d5f1858e2174144f03ea91da267" title="RE01CalorimeterSD::\lProcessHits" alt="" coords="285,689,448,733"/>
+<area shape="rect" id="node17" href="$d4/d9a/classCCaloSD.html#ac2b90971bea6febfecd4ee398f8cc93a" title="CCaloSD::SetToLocal" alt="" coords="287,757,446,785"/>
+<area shape="rect" id="node23" href="$df/d3f/classPHG4SteppingAction.html#aea99a3121d5ff333ed1a6e7cfd7a0645" title="Extract local coordinate of the hit and save to PHG4Hit." alt="" coords="279,809,454,853"/>
+<area shape="rect" id="node26" href="$d8/d10/classPHG4EICMvtxSteppingAction.html#a101f6de977c3cb9899d863721f23da99" title="stepping action" alt="" coords="535,873,751,917"/>
+<area shape="rect" id="node27" href="$d1/d77/classPHG4MvtxSteppingAction.html#a009c6fc495da0ae24b9d8dc092d868b9" title="stepping action" alt="" coords="547,941,740,985"/>
+<area shape="rect" id="node28" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="252,980,481,1024"/>
+<area shape="rect" id="node3" href="$dc/de1/classG4PSSphereSurfaceCurrent.html#a2481ca6af7d7643dda548c8bb6850202" title="G4PSSphereSurfaceCurrent\l::ProcessHits" alt="" coords="539,5,747,49"/>
+<area shape="rect" id="node7" href="$d1/d3a/classG4PSCylinderSurfaceCurrent.html#aba66387ba34e51e98ee45c37ff13d5c9" title="G4PSCylinderSurfaceCurrent\l::ProcessHits" alt="" coords="535,193,751,237"/>
+<area shape="rect" id="node11" href="$da/dc4/classG4PSFlatSurfaceCurrent.html#a7c32951cb29e2693f4ff44d060778fe1" title="G4PSFlatSurfaceCurrent\l::ProcessHits" alt="" coords="551,381,736,425"/>
+<area shape="rect" id="node18" href="$d4/d9a/classCCaloSD.html#ae59f1cc882438949f020d791ad9ca32f" title="CCaloSD::curve_LY" alt="" coords="570,633,717,661"/>
+<area shape="rect" id="node21" href="$d4/d9a/classCCaloSD.html#a5959029c5334af050e07a24041c7adc7" title="CCaloSD::ResetForNewPrimary" alt="" coords="529,685,757,713"/>
+<area shape="rect" id="node19" href="$d4/d9a/classCCaloSD.html#a8a651623c5d481b400f8efa368a25c88" title="CCaloSD::getStepInfo" alt="" coords="805,633,972,661"/>
+<area shape="rect" id="node20" href="$d4/d9a/classCCaloSD.html#a1ebbb2a8fe9b9828b9bc2df3cb71cf34" title="CCaloSD::ProcessHits" alt="" coords="1020,660,1185,688"/>
+<area shape="rect" id="node22" href="$d4/d9a/classCCaloSD.html#aec9c39d568b1b3c98f62573b86f22a30" title="CCaloSD::hitExists" alt="" coords="816,685,961,713"/>
+<area shape="rect" id="node24" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="540,737,747,781"/>
+<area shape="rect" id="node25" href="$d4/d7a/classPHG4InttSteppingAction.html#a49b6f99f5a88cd6f94e171e550091823" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="551,805,735,849"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G4VEnergyLossProcess::LambdaTable" name="G4VEnergyLossProcess::LambdaTable">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#ad36fa5cb73ee1b04f4fe43da1bb0afab" title="G4VEnergyLossProcess\l::BuildPhysicsTable" alt="" coords="253,5,430,49"/>
+<area shape="rect" id="node4" href="$d9/d78/classG4LossTableManager.html#a3c8dc480ebf5f90244ea83f32056b5fc" title="G4LossTableManager\l::CopyTables" alt="" coords="259,73,424,117"/>
+<area shape="rect" id="node6" href="$de/dc4/classG4EmCalculator.html#a889a126c6962ad7c4fd79a4c86ae623a" title="G4EmCalculator::FindLambda\lTable" alt="" coords="231,141,452,185"/>
+<area shape="rect" id="node3" href="$d7/d95/classG4ePolarizedIonisation.html#aeba0704cb84ce75a681097053be08a8a" title="G4ePolarizedIonisation\l::BuildPhysicsTable" alt="" coords="512,5,688,49"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4LossTableManager.html#ae78bdd5f6400219476462d432b1dc681" title="G4LossTableManager\l::BuildPhysicsTable" alt="" coords="517,73,683,117"/>
+<area shape="rect" id="node7" href="$de/dc4/classG4EmCalculator.html#a9970629c1c39eb18671d9c506027a71c" title="G4EmCalculator::GetCross\lSectionPerVolume" alt="" coords="500,141,700,185"/>
+<area shape="rect" id="node8" href="$d7/df6/classRunAction.html#a14b3433a6875194c4adfe1c222884f0d" title="RunAction::BeginOfRunAction" alt="" coords="1072,127,1292,155"/>
+<area shape="rect" id="node9" href="$de/db2/classRun.html#a798b741fa444a02c3bd4517b5dc01f0b" title="Run::EndOfRun" alt="" coords="815,119,938,147"/>
+<area shape="rect" id="node10" href="$de/dc4/classG4EmCalculator.html#adbf15a638b12e4b8cb8e6e10042cbabb" title="G4EmCalculator::GetCross\lSectionPerVolume" alt="" coords="777,171,977,215"/>
+<area shape="rect" id="node11" href="$de/dc4/classG4EmCalculator.html#aeb7a0b6d97e815043c1441d41c39d330" title="G4EmCalculator::GetMeanFreePath" alt="" coords="748,239,1005,267"/>
+<area shape="rect" id="node12" href="$de/dc4/classG4EmCalculator.html#af9f6fa046b4f9fa3329d09172d8b48de" title="G4EmCalculator::GetMeanFreePath" alt="" coords="1053,239,1311,267"/>
+</map>

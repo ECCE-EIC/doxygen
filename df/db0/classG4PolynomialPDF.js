@@ -1,0 +1,28 @@
+var classG4PolynomialPDF =
+[
+    [ "G4PolynomialPDF", "df/db0/classG4PolynomialPDF.html#a5c9a2f8a7d55f05928e712f92bf119a4", null ],
+    [ "~G4PolynomialPDF", "df/db0/classG4PolynomialPDF.html#aedca2de55f918234e7e3a97c7f2e483b", null ],
+    [ "Bisect", "df/db0/classG4PolynomialPDF.html#abe188cd15919d69cb88deb4bda7c01c0", null ],
+    [ "Dump", "df/db0/classG4PolynomialPDF.html#af5385218c2c297fdac01d70ebd3bdadd", null ],
+    [ "EvalInverseCDF", "df/db0/classG4PolynomialPDF.html#a985b70825edd3f68f2910a4d9fa3bf66", null ],
+    [ "Evaluate", "df/db0/classG4PolynomialPDF.html#a27b12865b9896d03e75667996a8566f5", null ],
+    [ "GetCoefficient", "df/db0/classG4PolynomialPDF.html#a04416dccc2319d034e290dec7604bf6d", null ],
+    [ "GetNCoefficients", "df/db0/classG4PolynomialPDF.html#af9a77b896117a053912bbde9eb6dcf88", null ],
+    [ "GetRandomX", "df/db0/classG4PolynomialPDF.html#ada52168d2c31ee90b921b1f5c85109cc", null ],
+    [ "GetX", "df/db0/classG4PolynomialPDF.html#a804e659875fa13d76e80e5a8128a921c", null ],
+    [ "HasNegativeMinimum", "df/db0/classG4PolynomialPDF.html#a6e45a7e35efddbaad5d61d29f838a94b", null ],
+    [ "Normalize", "df/db0/classG4PolynomialPDF.html#ad9efef6f2df6408e1fb334665def0543", null ],
+    [ "SetCoefficient", "df/db0/classG4PolynomialPDF.html#a3a3d70157546a81f875ec99a4290e29d", null ],
+    [ "SetCoefficients", "df/db0/classG4PolynomialPDF.html#ab157e8cf8c1e4b0888374d04ed8f5c73", null ],
+    [ "SetCoefficients", "df/db0/classG4PolynomialPDF.html#a90a19f0b5c025aabda58b45e062211c8", null ],
+    [ "SetDomain", "df/db0/classG4PolynomialPDF.html#a8714bf9838733d4fc6e8498e59bdd820", null ],
+    [ "SetNCoefficients", "df/db0/classG4PolynomialPDF.html#a0e282f3fe44cb975b51d71c6e74a9eaf", null ],
+    [ "SetTolerance", "df/db0/classG4PolynomialPDF.html#a88aff31dee25acaaf614e856e3cd25f1", null ],
+    [ "Simplify", "df/db0/classG4PolynomialPDF.html#a39c6ce88e1bf0ce1e0e54808d098cf67", null ],
+    [ "fChanged", "df/db0/classG4PolynomialPDF.html#abdd193e14791c12d45b54d8552863d5b", null ],
+    [ "fCoefficients", "df/db0/classG4PolynomialPDF.html#a52bedf1913c547a5579c3f9e19c7f2c8", null ],
+    [ "fTolerance", "df/db0/classG4PolynomialPDF.html#a16278cbaf86d0cac2f3057b284cc16ef", null ],
+    [ "fVerbose", "df/db0/classG4PolynomialPDF.html#a7b97708cdefb66d267e482958aa79c03", null ],
+    [ "fX1", "df/db0/classG4PolynomialPDF.html#a5f8c3377178e5217612eab9135a090df", null ],
+    [ "fX2", "df/db0/classG4PolynomialPDF.html#af24b11d04ddd3c19291e637f9dd81fd2", null ]
+];

@@ -1,0 +1,25 @@
+<map id="G4ITStepProcessor::SetInitialStep" name="G4ITStepProcessor::SetInitialStep">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="503,352,609,380"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#aa92998a8c1964dea7898488959b8cf30" title="G4Track::GetCurrentStepNumber" alt="" coords="210,68,454,96"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="231,120,433,148"/>
+<area shape="rect" id="node5" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="250,172,414,216"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="209,240,455,268"/>
+<area shape="rect" id="node7" href="$d9/d0a/classG4TrackingInformation.html#a613bdb2d441a80990251a94b7ddc404d" title="G4TrackingInformation\l::GetNavigatorState" alt="" coords="245,292,419,336"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="249,360,415,388"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="251,412,413,440"/>
+<area shape="rect" id="node10" href="$d1/d28/classG4VPhysicalVolume.html#a9024175e02f3f7ee19dc0f31df6cf6ec" title="G4VPhysicalVolume::\lGetRegularStructureId" alt="" coords="246,464,418,508"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#a68db2c7e6c7c9ee4c6aeb419fe02174c" title="G4Track::GetTouchableHandle" alt="" coords="219,532,445,560"/>
+<area shape="rect" id="node12" href="$d3/d7e/classG4IT.html#ac74cab7f6c97318b4a580e11e7f96b47" title="G4IT::GetTrackingInfo" alt="" coords="249,584,415,612"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="239,636,425,664"/>
+<area shape="rect" id="node14" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="231,688,433,716"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="253,740,411,768"/>
+<area shape="rect" id="node16" href="$d9/d7a/classG4Step.html#a14f1f1f3d489d39d1524f34674b8fb10" title="G4Step::InitializeStep" alt="" coords="248,792,416,820"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#ad1410f101d899d30711bf72f6ed66a32" title="G4Track::SetLogicalVolume\lAtVertex" alt="" coords="230,844,434,888"/>
+<area shape="rect" id="node18" href="$d9/d0a/classG4TrackingInformation.html#a803140627081f75988ad056e4f36bc15" title="G4TrackingInformation\l::SetNavigatorState" alt="" coords="245,912,419,956"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#a376099375a12e0e140fc6607707c2f9a" title="G4Track::SetNextTouchable\lHandle" alt="" coords="229,980,435,1024"/>
+<area shape="rect" id="node20" href="$d1/d33/classG4Track.html#a5a3c2585fb0fedc64573e08d0c8d08be" title="G4Track::SetTouchableHandle" alt="" coords="221,1048,443,1076"/>
+<area shape="rect" id="node21" href="$d1/d33/classG4Track.html#a0a9a76ea090ffed99910bb848b113380" title="G4Track::SetTrackStatus" alt="" coords="239,1100,425,1128"/>
+<area shape="rect" id="node22" href="$d1/d33/classG4Track.html#ab29988875a6d7af9f6619d09ac08b7fd" title="G4Track::SetVertexKinetic\lEnergy" alt="" coords="234,1152,430,1196"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html#a2af46db50afcd2305a9c02c13284b508" title="G4Track::SetVertexMomentum\lDirection" alt="" coords="219,1220,445,1264"/>
+<area shape="rect" id="node24" href="$d1/d33/classG4Track.html#a27420529065e3e2eb2eaa58c7d6fcaa9" title="G4Track::SetVertexPosition" alt="" coords="231,1288,433,1316"/>
+</map>

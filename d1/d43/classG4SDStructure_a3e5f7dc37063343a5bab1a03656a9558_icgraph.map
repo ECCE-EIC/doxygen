@@ -1,0 +1,15 @@
+<map id="G4SDStructure::Activate" name="G4SDStructure::Activate">
+<area shape="rect" id="node2" href="$d9/d6b/classG4SDManager.html#a6e061e90f913cf14077d872356474f3c" title="G4SDManager::Activate" alt="" coords="239,201,421,229"/>
+<area shape="rect" id="node3" href="$d5/d3c/classG4RTRunAction.html#aa1006bd16528f0f2743550a9840b7661" title="G4RTRunAction::BeginOfRun\lAction" alt="" coords="484,5,697,49"/>
+<area shape="rect" id="node4" href="$d5/d3c/classG4RTRunAction.html#a10bf71ac3aa9cb81f728560e02ac186b" title="G4RTRunAction::EndOfRunAction" alt="" coords="469,73,712,101"/>
+<area shape="rect" id="node5" href="$d2/dc8/classG4MaterialScanner.html#abef0bec4776bb169854c1ca608a14451" title="G4MaterialScanner::\lRestoreUserActions" alt="" coords="511,193,670,237"/>
+<area shape="rect" id="node8" href="$d2/dbf/classG4TheRayTracer.html#ac0363472ac06f288f84c7fbf299c3e0c" title="G4TheRayTracer::RestoreUser\lActions" alt="" coords="479,313,703,357"/>
+<area shape="rect" id="node12" href="$df/d5c/classG4SDmessenger.html#a1de134d1059493bfca27c1195a6a4053" title="G4SDmessenger::SetNewValue" alt="" coords="475,261,707,289"/>
+<area shape="rect" id="node13" href="$d2/dc8/classG4MaterialScanner.html#af2a79a9b766bf4a50e17c380a695b63b" title="G4MaterialScanner::\lStoreUserActions" alt="" coords="511,125,670,169"/>
+<area shape="rect" id="node14" href="$d2/dbf/classG4TheRayTracer.html#a2c7e92c96ad9e63dfe9c28c6b8aecec4" title="G4TheRayTracer::StoreUser\lActions" alt="" coords="487,381,695,425"/>
+<area shape="rect" id="node6" href="$d2/dc8/classG4MaterialScanner.html#a23308c4b255bd7e571a2a04a77b43a6b" title="G4MaterialScanner::Scan" alt="" coords="760,168,952,196"/>
+<area shape="rect" id="node7" href="$d4/d36/classG4MatScanMessenger.html#ae7172e8e059a99c2d11cb622a26d1ab3" title="G4MatScanMessenger\l::SetNewValue" alt="" coords="1028,160,1200,204"/>
+<area shape="rect" id="node9" href="$d2/dbf/classG4TheRayTracer.html#a50b2c01eb78c73a627b8d1abd5c19be4" title="G4TheRayTracer::Trace" alt="" coords="767,355,945,383"/>
+<area shape="rect" id="node10" href="$d5/dee/classG4RayTracerViewer.html#afee983c0a29f4d24b5f579eef5655384" title="G4RayTracerViewer::\lDrawView" alt="" coords="1033,376,1195,420"/>
+<area shape="rect" id="node11" href="$d9/d5c/classG4RTMessenger.html#a4a0e0ac3652bce8ebb02b0f9f5712d91" title="G4RTMessenger::SetNewValue" alt="" coords="1000,324,1228,352"/>
+</map>

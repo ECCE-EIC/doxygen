@@ -1,0 +1,51 @@
+<map id="G4Region::GetRegionalSteppingAction" name="G4Region::GetRegionalSteppingAction">
+<area shape="rect" id="node2" href="$de/d51/classG4RunManagerKernel.html#ac854aa84218822e13f6f555a1b6b1ac5" title="G4RunManagerKernel\l::DumpRegion" alt="" coords="329,5,497,49"/>
+<area shape="rect" id="node3" href="$de/d99/classPHG4FCalDetector.html#a1da03826954e71e858c5db68481f5e94" title="PHG4FCalDetector::GetStepping\lAction" alt="" coords="294,73,533,117"/>
+<area shape="rect" id="node5" href="$d4/df0/classPHG4FPbScDetector.html#a0a83932b3e2616898e8082c69e70cd9b" title="PHG4FPbScDetector::\lGetSteppingAction" alt="" coords="331,141,496,185"/>
+<area shape="rect" id="node7" href="$dc/d30/classPHG4RICHDetector.html#a6474162344cc7d58f1039757ea01a258" title="PHG4RICHDetector::GetStepping\lAction" alt="" coords="292,209,535,253"/>
+<area shape="rect" id="node9" href="$de/d1f/classPHG4HcalDetector.html#acbf382f43cf71c97af9d039eb58f1879" title="PHG4HcalDetector::GetStepping\lAction" alt="" coords="293,277,533,321"/>
+<area shape="rect" id="node10" href="$d0/dd0/classG4SteppingManager.html#a36cd94a9ce7a22568e78d0cd21c2d082" title="G4SteppingManager::\lStepping" alt="" coords="329,345,497,389"/>
+<area shape="rect" id="node50" href="$dd/d14/classG4WorkerThread.html#a6d3c23031827d571c330dd1b3ddcadfc" title="G4WorkerThread::UpdateGeometry\lAndPhysicsVectorFromMaster" alt="" coords="805,507,1067,551"/>
+<area shape="rect" id="node4" href="$d3/db0/classPHG4FCalSubsystem.html#aa20238682b4ff90b4b294dc005da9205" title="event processing" alt="" coords="585,73,755,117"/>
+<area shape="rect" id="node6" href="$df/d77/classPHG4FPbScSubsystem.html#afbe3fd7c744d42cdd48646a935279308" title="event processing" alt="" coords="583,141,757,185"/>
+<area shape="rect" id="node8" href="$d7/dcc/classPHG4RICHSubsystem.html#a1f480d61f1d57f7ad4214854ed5db4e0" title="event processing" alt="" coords="583,209,757,253"/>
+<area shape="rect" id="node11" href="$d7/de8/classG4ErrorPropagator.html#ab12283985ad650af4b65ab9500c79c08" title="G4ErrorPropagator::\lMakeOneStep" alt="" coords="593,277,747,321"/>
+<area shape="rect" id="node19" href="$dd/d71/classG4TrackingManager.html#a978b9d1ce2cc1279445b71891f35d6bc" title="G4TrackingManager::\lProcessOneTrack" alt="" coords="588,359,752,403"/>
+<area shape="rect" id="node12" href="$d7/de8/classG4ErrorPropagator.html#a49889dad1ec230c8c161792892c1f6b3" title="G4ErrorPropagator::\lMakeSteps" alt="" coords="859,177,1013,221"/>
+<area shape="rect" id="node17" href="$d7/de8/classG4ErrorPropagator.html#a5e25ebdd7ad89c111a4a3cfadc313478" title="G4ErrorPropagator::\lPropagateOneStep" alt="" coords="859,271,1013,315"/>
+<area shape="rect" id="node13" href="$d7/de8/classG4ErrorPropagator.html#ae98058a2abe76bf8e941d94871b05e5e" title="G4ErrorPropagator::\lPropagate" alt="" coords="1150,125,1305,169"/>
+<area shape="rect" id="node14" href="$dd/d88/classG4ErrorPropagatorManager.html#a4b42e52a50fdce30d6569241ebeae237" title="G4ErrorPropagatorManager\l::Propagate" alt="" coords="1405,124,1611,168"/>
+<area shape="rect" id="node15" href="$d3/dd6/errprop_8cc.html#a0aa8f3a7acd1c667334594ded9b06a90" title="ProcessEvent" alt="" coords="1745,145,1857,173"/>
+<area shape="rect" id="node16" href="$d3/dd6/errprop_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="2061,145,2116,173"/>
+<area shape="rect" id="node18" href="$dd/d88/classG4ErrorPropagatorManager.html#a7548ed4f2f8f0539b485482e86eca2c9" title="G4ErrorPropagatorManager\l::PropagateOneStep" alt="" coords="1124,193,1331,237"/>
+<area shape="rect" id="node20" href="$da/d44/classG4EventManager.html#aa9b657900a128fa1fe848ceb188c2c20" title="G4EventManager::DoProcessing" alt="" coords="817,369,1055,397"/>
+<area shape="rect" id="node21" href="$da/d44/classG4EventManager.html#acfa3338268ec4403e5b9126c7a39bf8d" title="G4EventManager::ProcessOne\lEvent" alt="" coords="1115,363,1340,407"/>
+<area shape="rect" id="node22" href="$d2/dbf/classG4TheRayTracer.html#a6842cd59306115fb21dd79ebb5c2265b" title="G4TheRayTracer::CreateBitMap" alt="" coords="1392,244,1624,272"/>
+<area shape="rect" id="node26" href="$dc/d34/classCexmcRunManager.html#a1a89fa04f3525ac1f92ab1a280a9a788" title="CexmcRunManager::DoCommon\lEventLoop" alt="" coords="1388,296,1628,340"/>
+<area shape="rect" id="node28" href="$d2/dc8/classG4MaterialScanner.html#a9b9141c56b72d7c8a66022549fd54647" title="G4MaterialScanner::\lDoScan" alt="" coords="1429,364,1587,408"/>
+<area shape="rect" id="node31" href="$d3/db3/classG4WorkerRunManager.html#abf86940ad939269f58bb800ab85e6c14" title="G4WorkerRunManager\l::ProcessOneEvent" alt="" coords="1421,432,1595,476"/>
+<area shape="rect" id="node33" href="$d4/daa/classG4RunManager.html#ace35e262f92b72ab975ea8ea01ff6c20" title="G4RunManager::ProcessOne\lEvent" alt="" coords="1402,500,1614,544"/>
+<area shape="rect" id="node23" href="$d2/dbf/classG4TheRayTracer.html#a50b2c01eb78c73a627b8d1abd5c19be4" title="G4TheRayTracer::Trace" alt="" coords="1713,244,1890,272"/>
+<area shape="rect" id="node24" href="$d5/dee/classG4RayTracerViewer.html#afee983c0a29f4d24b5f579eef5655384" title="G4RayTracerViewer::\lDrawView" alt="" coords="2008,223,2169,267"/>
+<area shape="rect" id="node25" href="$d9/d5c/classG4RTMessenger.html#a4a0e0ac3652bce8ebb02b0f9f5712d91" title="G4RTMessenger::SetNewValue" alt="" coords="1975,291,2203,319"/>
+<area shape="rect" id="node27" href="$dc/d34/classCexmcRunManager.html#a9a164e557e448eb0cc630744f82e817b" title="CexmcRunManager::DoEventLoop" alt="" coords="1676,304,1927,332"/>
+<area shape="rect" id="node29" href="$d2/dc8/classG4MaterialScanner.html#a23308c4b255bd7e571a2a04a77b43a6b" title="G4MaterialScanner::Scan" alt="" coords="1705,372,1897,400"/>
+<area shape="rect" id="node30" href="$d4/d36/classG4MatScanMessenger.html#ae7172e8e059a99c2d11cb622a26d1ab3" title="G4MatScanMessenger\l::SetNewValue" alt="" coords="2003,364,2175,408"/>
+<area shape="rect" id="node32" href="$d3/db3/classG4WorkerRunManager.html#ad7d3265e0002a28f27acee9c98ccf548" title="G4WorkerRunManager\l::DoEventLoop" alt="" coords="1714,432,1889,476"/>
+<area shape="rect" id="node34" href="$d4/daa/classG4RunManager.html#a34ac7c964ca9fb147645f1a942dd449f" title="G4RunManager::DoEventLoop" alt="" coords="1689,504,1913,532"/>
+<area shape="rect" id="node35" href="$d4/daa/classG4RunManager.html#a2e8622295d194ab03d48a9447c22521c" title="G4RunManager::BeamOn" alt="" coords="1993,465,2185,493"/>
+<area shape="rect" id="node36" href="$d0/d78/classPHG4Reco.html#a6d817542976ebb31fc3577289e9e77b0" title="event processing method" alt="" coords="2270,211,2469,239"/>
+<area shape="rect" id="node37" href="$dd/d36/pymodG4run_8cc.html#a40df4755f58bb0bd961be91b7372bd01" title="export_G4RunManager" alt="" coords="2281,263,2458,291"/>
+<area shape="rect" id="node39" href="$d2/d11/classGammaKnifeController.html#a9c6d1498cab6c2e2e801760c995ba7aa" title="GammaKnifeController\l::BeamOn" alt="" coords="2281,315,2457,359"/>
+<area shape="rect" id="node41" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2342,383,2397,411"/>
+<area shape="rect" id="node42" href="$d6/dfa/classG4BlineTracer.html#a101e07bb8610d82a5fb2b3b0fea44cf7" title="G4BlineTracer::ComputeBlines" alt="" coords="2256,435,2483,463"/>
+<area shape="rect" id="node44" href="$db/d16/classG4AdjointSimManager.html#a36783373c75cd61d440156d98abe6473" title="G4AdjointSimManager\l::RunAdjointSimulation" alt="" coords="2281,487,2457,531"/>
+<area shape="rect" id="node46" href="$de/d16/classG4MTRunManager.html#a940295ba3e5d03a139c4cee22a9bf95a" title="G4MTRunManager::Initialize" alt="" coords="2264,555,2475,583"/>
+<area shape="rect" id="node47" href="$d7/dcf/classG4RunMessenger.html#aeef7c7062232da161237e3642a24fbf2" title="G4RunMessenger::SetNewValue" alt="" coords="2251,607,2488,635"/>
+<area shape="rect" id="node48" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="2282,659,2457,703"/>
+<area shape="rect" id="node38" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="2536,263,2731,291"/>
+<area shape="rect" id="node40" href="$dd/dfe/classGammaKnifeMessenger.html#ab8e6d15aefdd7f105ab498174587a53e" title="GammaKnifeMessenger\l::SetNewValue" alt="" coords="2541,315,2725,359"/>
+<area shape="rect" id="node43" href="$d3/da7/classG4BlineTracerMessenger.html#acf8db65272c7e08eadae136c2cb710c9" title="G4BlineTracerMessenger\l::SetNewValue" alt="" coords="2539,423,2728,467"/>
+<area shape="rect" id="node45" href="$d6/d97/classG4AdjointSimMessenger.html#a5bfcad72a393216a5db8742d7d8556af" title="G4AdjointSimMessenger\l::SetNewValue" alt="" coords="2539,491,2727,535"/>
+<area shape="rect" id="node49" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="2539,659,2727,703"/>
+</map>

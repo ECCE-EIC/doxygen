@@ -1,0 +1,48 @@
+<map id="G4mplIonisationWithDeltaModel::ComputeDEDXPerVolume" name="G4mplIonisationWithDeltaModel::ComputeDEDXPerVolume">
+<area shape="rect" id="node2" href="$d7/dcf/classG4mplIonisationWithDeltaModel.html#abc109162325d26116baa3fbe990440e5" title="G4mplIonisationWithDelta\lModel::ComputeDEDXAhlen" alt="" coords="301,568,510,612"/>
+<area shape="rect" id="node39" href="$d3/dc1/classG4VEmModel.html#ab685a0c198165ce12cb7da76ae466596" title="G4VEmModel::CurrentCouple" alt="" coords="296,636,515,664"/>
+<area shape="rect" id="node40" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="319,688,491,732"/>
+<area shape="rect" id="node41" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="565,756,795,784"/>
+<area shape="rect" id="node42" href="$d7/dcf/classG4mplIonisationWithDeltaModel.html#a658397f8870bc956b553f53e0221c154" title="G4mplIonisationWithDelta\lModel::MaxSecondaryEnergy" alt="" coords="296,808,515,852"/>
+<area shape="rect" id="node43" href="$d7/dcf/classG4mplIonisationWithDeltaModel.html#a79af07169675795e99c2a886db32c23c" title="G4mplIonisationWithDelta\lModel::SetParticle" alt="" coords="307,876,504,920"/>
+<area shape="rect" id="node3" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="661,640,699,668"/>
+<area shape="rect" id="node4" href="$d6/d69/classG4IonisParamMat.html#a76ffb949a55a741a16f87a5698d4160c" title="G4IonisParamMat::Density\lCorrection" alt="" coords="580,452,780,496"/>
+<area shape="rect" id="node14" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1922,593,1986,621"/>
+<area shape="rect" id="node36" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="1121,5,1314,33"/>
+<area shape="rect" id="node37" href="$d5/de4/classG4Material.html#a60d52ac75b43c5e56865837e1a5b6798" title="G4Material::GetElectronDensity" alt="" coords="563,520,797,548"/>
+<area shape="rect" id="node38" href="$d6/d69/classG4IonisParamMat.html#a4fefdfbba759144ef70b9923ea225a13" title="G4IonisParamMat::GetMean\lExcitationEnergy" alt="" coords="575,572,785,616"/>
+<area shape="rect" id="node5" href="$d7/d18/classG4DensityEffectCalculator.html#aadf8042164d73f3d133e844c739ec46e" title="G4DensityEffectCalculator\l::ComputeDensityCorrection" alt="" coords="845,320,1057,364"/>
+<area shape="rect" id="node35" href="$d6/d69/classG4IonisParamMat.html#a4e4cf9c8b526b21af5b198d92de94826" title="G4IonisParamMat::GetDensity\lCorrection" alt="" coords="1105,551,1329,595"/>
+<area shape="rect" id="node6" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="2123,219,2234,247"/>
+<area shape="rect" id="node8" href="$d5/d14/compressor_8h.html#a02501c784aba8983915077f44f7112b1" title="approx" alt="" coords="1183,187,1251,215"/>
+<area shape="rect" id="node12" href="$d7/d18/classG4DensityEffectCalculator.html#ae45b695942d99ed72f83b2ae67aeb4af" title="G4DensityEffectCalculator\l::FermiDeltaCalculation" alt="" coords="1117,356,1317,400"/>
+<area shape="rect" id="node28" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1424,265,1531,293"/>
+<area shape="rect" id="node29" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1393,489,1561,517"/>
+<area shape="rect" id="node7" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="2353,219,2529,247"/>
+<area shape="rect" id="node9" href="$d5/d14/compressor_8h.html#ab425008f3ed156a7fd1b30932478b9db" title="addDiff" alt="" coords="1441,109,1513,137"/>
+<area shape="rect" id="node10" href="$d5/d14/compressor_8h.html#a6a9a2c9f4087e85d1d95149821c0e669" title="newLoc" alt="" coords="1441,161,1513,189"/>
+<area shape="rect" id="node11" href="$d5/d14/compressor_8h.html#a82b45e73b2bc2a8d5fa7d67bc805f0e3" title="removeDiff" alt="" coords="1429,213,1526,241"/>
+<area shape="rect" id="node13" href="$d7/d18/classG4DensityEffectCalculator.html#a848a4a6bdd819239ee86298153f8e4a9" title="G4DensityEffectCalculator\l::DeltaOnceSolved" alt="" coords="1637,527,1837,571"/>
+<area shape="rect" id="node20" href="$de/d0f/classG4Pow.html#a4c49b51d1c8cab85591ee899190d073f" title="G4Pow::powN" alt="" coords="1897,347,2011,375"/>
+<area shape="rect" id="node30" href="$d7/d18/classG4DensityEffectCalculator.html#a7825c87a99a6bfd6fb901a3691d5c912" title="G4DensityEffectCalculator\l::Newton" alt="" coords="1377,369,1577,413"/>
+<area shape="rect" id="node21" href="$de/d0f/classG4Pow.html#a758702f52323f5295365dd0334f3c69f" title="G4Pow::powZ" alt="" coords="1897,489,2011,517"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="2083,593,2275,621"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="2083,541,2275,569"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="2059,697,2299,725"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="2347,671,2535,699"/>
+<area shape="rect" id="node19" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="2347,723,2535,751"/>
+<area shape="rect" id="node22" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="2123,489,2234,517"/>
+<area shape="rect" id="node23" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="2421,489,2460,517"/>
+<area shape="rect" id="node24" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="2407,580,2474,608"/>
+<area shape="rect" id="node25" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="2595,555,2760,583"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="2583,607,2772,635"/>
+<area shape="rect" id="node26" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="2820,555,3008,583"/>
+<area shape="rect" id="node31" href="$d7/d18/classG4DensityEffectCalculator.html#a29f18b8fc600f5df319464f23ae703aa" title="G4DensityEffectCalculator\l::DEll" alt="" coords="1637,339,1837,383"/>
+<area shape="rect" id="node32" href="$d7/d18/classG4DensityEffectCalculator.html#a1f1c4ef33e9d5871608fe3f444287f40" title="G4DensityEffectCalculator\l::DFRho" alt="" coords="1637,271,1837,315"/>
+<area shape="rect" id="node33" href="$d7/d18/classG4DensityEffectCalculator.html#a1e9f7ca0e4fffb6fcc8093eace102296" title="G4DensityEffectCalculator::Ell" alt="" coords="1625,407,1849,435"/>
+<area shape="rect" id="node34" href="$d7/d18/classG4DensityEffectCalculator.html#a497b34523a80c211fade60c8df425702" title="G4DensityEffectCalculator\l::FRho" alt="" coords="1637,459,1837,503"/>
+<area shape="rect" id="node44" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="603,944,757,988"/>
+<area shape="rect" id="node45" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="563,1012,797,1040"/>
+<area shape="rect" id="node46" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="571,808,789,852"/>
+<area shape="rect" id="node47" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="569,876,791,920"/>
+</map>

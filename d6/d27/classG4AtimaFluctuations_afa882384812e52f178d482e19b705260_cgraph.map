@@ -1,0 +1,37 @@
+<map id="G4AtimaFluctuations::SampleFluctuations" name="G4AtimaFluctuations::SampleFluctuations">
+<area shape="rect" id="node2" href="$d6/d27/classG4AtimaFluctuations.html#a9c2fb8e92772e1db51d4a13d11a0adf6" title="G4AtimaFluctuations\l::Dispersion" alt="" coords="222,510,385,554"/>
+<area shape="rect" id="node32" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="217,719,389,763"/>
+<area shape="rect" id="node33" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="265,787,342,815"/>
+<area shape="rect" id="node34" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="225,951,382,995"/>
+<area shape="rect" id="node3" href="$d6/d27/classG4AtimaFluctuations.html#af508b7514d6b4e4af4589d4ee31043b6" title="G4AtimaFluctuations\l::EnergyTable_interpolate" alt="" coords="960,31,1153,75"/>
+<area shape="rect" id="node4" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1264,124,1328,152"/>
+<area shape="rect" id="node10" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1023,307,1090,335"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="524,359,592,387"/>
+<area shape="rect" id="node15" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="455,411,661,455"/>
+<area shape="rect" id="node17" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="479,479,637,523"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="468,547,648,575"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="461,599,655,627"/>
+<area shape="rect" id="node20" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="479,651,637,695"/>
+<area shape="rect" id="node21" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="481,719,635,763"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="481,787,635,831"/>
+<area shape="rect" id="node23" href="$d6/d69/classG4IonisParamMat.html#af5d92cb7b4d6c84e725f55b5ea46b081" title="G4IonisParamMat::GetZeffective" alt="" coords="437,855,679,883"/>
+<area shape="rect" id="node24" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="462,907,654,935"/>
+<area shape="rect" id="node25" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="501,255,615,283"/>
+<area shape="rect" id="node30" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="507,176,609,204"/>
+<area shape="rect" id="node5" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1463,124,1655,152"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1463,176,1655,204"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1439,72,1679,100"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1727,47,1915,75"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1727,99,1915,127"/>
+<area shape="rect" id="node11" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1213,280,1379,308"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1201,332,1391,360"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1465,280,1653,308"/>
+<area shape="rect" id="node16" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="734,411,905,455"/>
+<area shape="rect" id="node26" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="764,255,875,283"/>
+<area shape="rect" id="node28" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="766,203,873,231"/>
+<area shape="rect" id="node27" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1037,255,1076,283"/>
+<area shape="rect" id="node29" href="$de/d0f/classG4Pow.html#ac13480ec4002760d19472b52e517933b" title="G4Pow::logBase" alt="" coords="992,202,1121,230"/>
+<area shape="rect" id="node31" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="769,151,870,179"/>
+<area shape="rect" id="node35" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="444,959,672,987"/>
+<area shape="rect" id="node36" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="727,984,912,1012"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="ExP01MagneticField::SetFieldValue" name="ExP01MagneticField::SetFieldValue">
+<area shape="rect" id="node2" href="$d4/dd8/classExP01MagneticField.html#ac5e694eb985ec80c92d419c9475bdf4f" title="ExP01MagneticField\l::GetGlobalFieldManager" alt="" coords="225,149,415,193"/>
+<area shape="rect" id="node11" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="209,337,431,381"/>
+<area shape="rect" id="node17" href="$d5/d05/classG4UniformMagField.html#afa9aa46654a9a4c12b5b9a570ebcdcd8" title="G4UniformMagField::\lSetFieldValue" alt="" coords="239,559,401,603"/>
+<area shape="rect" id="node3" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="493,81,692,125"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="487,149,699,193"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="755,128,961,172"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1070,229,1177,257"/>
+<area shape="rect" id="node7" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1026,57,1221,101"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1047,125,1200,153"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1038,177,1209,205"/>
+<area shape="rect" id="node10" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1009,5,1237,33"/>
+<area shape="rect" id="node12" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="495,269,691,313"/>
+<area shape="rect" id="node14" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="479,337,707,381"/>
+<area shape="rect" id="node15" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="505,405,680,449"/>
+<area shape="rect" id="node16" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="512,473,673,517"/>
+<area shape="rect" id="node13" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="759,269,957,313"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="508,593,677,621"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="508,645,677,673"/>
+<area shape="rect" id="node20" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="509,541,677,569"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4INCL::INCL::cascade" name="G4INCL::INCL::cascade">
+<area shape="rect" id="node2" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a44b02ff056b898207b5ac4043149498b" title="G4INCL::CascadeAction\l::afterAvatarAction" alt="" coords="244,449,423,493"/>
+<area shape="rect" id="node9" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a52fe1132d1d5073070d82a7764847ce6" title="G4INCL::CascadeAction\l::afterPropagationAction" alt="" coords="241,73,426,117"/>
+<area shape="rect" id="node12" href="$d7/db0/classG4INCL_1_1Nucleus.html#a614d4c123c0f697c91dc7d088d56eeae" title="G4INCL::Nucleus::applyFinal\lState" alt="" coords="228,828,439,872"/>
+<area shape="rect" id="node31" href="$d1/da4/classG4INCL_1_1CascadeAction.html#ae4cb9e2adbc529c78dd32b06bb853b6e" title="G4INCL::CascadeAction\l::beforeAvatarAction" alt="" coords="244,1529,423,1573"/>
+<area shape="rect" id="node35" href="$d1/da4/classG4INCL_1_1CascadeAction.html#af22dbab1653b40bc70ba52170978c1b2" title="G4INCL::CascadeAction\l::beforePropagationAction" alt="" coords="235,1612,431,1656"/>
+<area shape="rect" id="node38" href="$d6/d0a/classG4INCL_1_1INCL.html#a5d052adb8eda299d93fd6983251be7bd" title="Stopping criterion for the cascade." alt="" coords="493,1957,728,1985"/>
+<area shape="rect" id="node44" href="$dd/d90/classG4INCL_1_1IAvatar.html#a1ddcbeece788c2bbf8601c722bb2e0e3" title="G4INCL::IAvatar::fillFinal\lState" alt="" coords="241,1709,425,1753"/>
+<area shape="rect" id="node49" href="$d7/d66/classG4INCL_1_1IPropagationModel.html#a5184476f1d9692ab949730d64191187e" title="G4INCL::IPropagationModel\l::propagate" alt="" coords="231,1829,436,1873"/>
+<area shape="rect" id="node50" href="$da/d83/classG4INCL_1_1FinalState.html#aeb089246f3bae289b50f6a5065207061" title="G4INCL::FinalState\l::reset" alt="" coords="260,1897,407,1941"/>
+<area shape="rect" id="node3" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a66c3afbd7567528a14dfc923492baa5c" title="G4INCL::CascadeAction\l::afterAvatarDefaultAction" alt="" coords="512,449,709,493"/>
+<area shape="rect" id="node8" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a982f912c6048e5099b152a346cd59fa0" title="G4INCL::CascadeAction\l::afterAvatarUserAction" alt="" coords="521,141,700,185"/>
+<area shape="rect" id="node4" href="$dd/d90/classG4INCL_1_1IAvatar.html#afde5618ca60230ab494a3a22faede017" title="G4INCL::IAvatar::getID" alt="" coords="825,904,997,932"/>
+<area shape="rect" id="node5" href="$d5/d11/namespaceG4INCL_1_1Random.html#a1daf33818e2038303f3a5695a479bd61" title="G4INCL::Random::getSeeds" alt="" coords="807,1305,1015,1333"/>
+<area shape="rect" id="node6" href="$da/d83/classG4INCL_1_1FinalState.html#aa1f6f1e3424edb1ce648c15a218435e4" title="G4INCL::FinalState\l::getModifiedParticles" alt="" coords="828,420,995,464"/>
+<area shape="rect" id="node7" href="$da/d83/classG4INCL_1_1FinalState.html#a815681a7fc806b49a119926b466a2603" title="G4INCL::FinalState\l::getCreatedParticles" alt="" coords="830,559,993,603"/>
+<area shape="rect" id="node10" href="$d1/da4/classG4INCL_1_1CascadeAction.html#ac07544f5e23b018533c83451f35f27bb" title="G4INCL::CascadeAction\l::afterPropagationDefaultAction" alt="" coords="493,73,728,117"/>
+<area shape="rect" id="node11" href="$d1/da4/classG4INCL_1_1CascadeAction.html#aa8e8911b5720f0f4d6c47245a5004225" title="G4INCL::CascadeAction\l::afterPropagationUserAction" alt="" coords="503,5,719,49"/>
+<area shape="rect" id="node13" href="$da/d83/classG4INCL_1_1FinalState.html#a08073ee0392f04091a7562bdaa9476bb" title="G4INCL::FinalState\l::getValidity" alt="" coords="537,1117,684,1161"/>
+<area shape="rect" id="node14" href="$d5/dd3/classG4INCL_1_1Store.html#a669515f693b3b017a847b6c765e710f6" title="G4INCL::Store::add" alt="" coords="536,1185,685,1213"/>
+<area shape="rect" id="node15" href="$da/d83/classG4INCL_1_1FinalState.html#ac12aefc649b4fc81228dc6209ef3ce49" title="G4INCL::FinalState\l::getDestroyedParticles" alt="" coords="521,1237,700,1281"/>
+<area shape="rect" id="node16" href="$d5/dd3/classG4INCL_1_1Store.html#a71b5ed298421984043e0da0833a58359" title="G4INCL::Store::particleHas\lBeenDestroyed" alt="" coords="510,209,711,253"/>
+<area shape="rect" id="node17" href="$d5/dd3/classG4INCL_1_1Store.html#a88e26560ddd822daf835cbf980644f99" title="Notify the Store about a particle update." alt="" coords="811,269,1012,313"/>
+<area shape="rect" id="node18" href="$da/d83/classG4INCL_1_1FinalState.html#ad51c843756c7de65b6b5803230775ea3" title="G4INCL::FinalState\l::getOutgoingParticles" alt="" coords="525,517,697,561"/>
+<area shape="rect" id="node19" href="$d0/d7f/classG4INCL_1_1Cluster.html#a2f25af692bc76144d5e71e9780fe2567" title="G4INCL::Cluster::getParticles" alt="" coords="503,585,718,613"/>
+<area shape="rect" id="node20" href="$d5/dd3/classG4INCL_1_1Store.html#aa82e9f6beb23b087c439a0baca5bbe8c" title="G4INCL::Store::particleHas\lBeenEjected" alt="" coords="510,329,711,373"/>
+<area shape="rect" id="node21" href="$d5/dd3/classG4INCL_1_1Store.html#a4782bd2e74e85dd8eae6a184cc70f441" title="add the particle to the outgoing particle list." alt="" coords="497,689,724,717"/>
+<area shape="rect" id="node22" href="$d5/dd3/classG4INCL_1_1Store.html#aad69fa0b425c84bf5a97962767ab7dfb" title="G4INCL::Store::getBook" alt="" coords="821,1452,1002,1480"/>
+<area shape="rect" id="node23" href="$db/d29/classG4INCL_1_1Book.html#a891013459ebbb677772523b12f2741f0" title="G4INCL::Book::getCurrentTime" alt="" coords="497,741,725,769"/>
+<area shape="rect" id="node24" href="$da/d83/classG4INCL_1_1FinalState.html#a5b05d5b9ff88b435e8e1a7d6499297b5" title="G4INCL::FinalState\l::getEnteringParticles" alt="" coords="527,793,694,837"/>
+<area shape="rect" id="node25" href="$d7/db0/classG4INCL_1_1Nucleus.html#a718ef4fb3d95aad593610385e95cb513" title="Insert a new particle (e.g. a projectile) in the nucleus." alt="" coords="495,1477,726,1505"/>
+<area shape="rect" id="node27" href="$d5/dd3/classG4INCL_1_1Store.html#a8e737309ae1611cb56e1421190cd6130" title="Remove avatars that have been scheduled." alt="" coords="487,861,734,905"/>
+<area shape="rect" id="node28" href="$da/d83/classG4INCL_1_1FinalState.html#a460441508120adeca7e469c60aae1a5b" title="G4INCL::FinalState\l::print" alt="" coords="537,929,684,973"/>
+<area shape="rect" id="node29" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="555,997,666,1025"/>
+<area shape="rect" id="node30" href="$da/d83/classG4INCL_1_1FinalState.html#a517c8b2cbf109583b181bd109a0bda63" title="G4INCL::FinalState\l::getTotalEnergyBeforeInteraction" alt="" coords="487,1049,735,1093"/>
+<area shape="rect" id="node26" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="826,1703,997,1731"/>
+<area shape="rect" id="node32" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a72355498b034a30c68c17f311f2f926c" title="G4INCL::CascadeAction\l::beforeAvatarDefaultAction" alt="" coords="506,1357,715,1401"/>
+<area shape="rect" id="node34" href="$d1/da4/classG4INCL_1_1CascadeAction.html#ad6f2d17b2b0f0c1c38b3e7fb0bc3f98f" title="G4INCL::CascadeAction\l::beforeAvatarUserAction" alt="" coords="515,1529,706,1573"/>
+<area shape="rect" id="node33" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="811,1553,1011,1581"/>
+<area shape="rect" id="node36" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a662433964dbc33675c2bc65fae80567c" title="G4INCL::CascadeAction\l::beforePropagationDefaultAction" alt="" coords="488,1665,733,1709"/>
+<area shape="rect" id="node37" href="$d1/da4/classG4INCL_1_1CascadeAction.html#aa08b9f4c1f1b9999e1df9c0459c549be" title="G4INCL::CascadeAction\l::beforePropagationUserAction" alt="" coords="497,1597,724,1641"/>
+<area shape="rect" id="node39" href="$d7/d66/classG4INCL_1_1IPropagationModel.html#a4a7a8eb01d553f597986d2017925afad" title="G4INCL::IPropagationModel\l::getCurrentTime" alt="" coords="809,2017,1014,2061"/>
+<area shape="rect" id="node40" href="$d7/d66/classG4INCL_1_1IPropagationModel.html#a689586331f28d6fb727a1e45e9b3997a" title="G4INCL::IPropagationModel\l::getStoppingTime" alt="" coords="809,2085,1014,2129"/>
+<area shape="rect" id="node41" href="$db/d29/classG4INCL_1_1Book.html#a369f9c0dfae3576c15aeba6ae62eb9d4" title="G4INCL::Book::getCascading" alt="" coords="804,1829,1019,1857"/>
+<area shape="rect" id="node42" href="$d5/dd3/classG4INCL_1_1Store.html#a964162437b43dd231aa2ac0858dc803b" title="G4INCL::Store::getIncoming\lParticles" alt="" coords="807,1881,1015,1925"/>
+<area shape="rect" id="node43" href="$d7/db0/classG4INCL_1_1Nucleus.html#a36ea39b144be37f82298a2ecb91ecff3" title="G4INCL::Nucleus::getTryCompound\lNucleus" alt="" coords="783,1949,1040,1993"/>
+<area shape="rect" id="node45" href="$dd/d90/classG4INCL_1_1IAvatar.html#a62c0a8aff07ff88669d4e8dd238e3cb4" title="G4INCL::IAvatar::preInteraction" alt="" coords="495,1905,726,1933"/>
+<area shape="rect" id="node46" href="$dd/d90/classG4INCL_1_1IAvatar.html#a38d18033d814bf22dbeeb0b090109b08" title="G4INCL::IAvatar::getChannel" alt="" coords="504,1733,717,1761"/>
+<area shape="rect" id="node47" href="$d1/da7/classG4INCL_1_1IChannel.html#af95b48da9779675ffc597b6dec6c55cb" title="G4INCL::IChannel::fillFinal\lState" alt="" coords="513,1785,709,1829"/>
+<area shape="rect" id="node48" href="$dd/d90/classG4INCL_1_1IAvatar.html#a340b29aa3bf82e4a636b7518ac83fa5c" title="G4INCL::IAvatar::postInteraction" alt="" coords="492,1853,729,1881"/>
+</map>

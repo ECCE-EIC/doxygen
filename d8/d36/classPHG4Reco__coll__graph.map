@@ -1,0 +1,44 @@
+<map id="PHG4Reco" name="PHG4Reco">
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1091,1933,1193,1961"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="641,1921,745,1949"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="197,1654,287,1682"/>
+<area shape="rect" id="node6" href="$d1/d13/classPHG4PhenixDetector.html" title="this is the main detector construction class, passed to geant to construct the entire phenix detector..." alt="" coords="1799,1749,1961,1777"/>
+<area shape="rect" id="node9" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="479,1035,559,1063"/>
+<area shape="rect" id="node12" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="822,1977,973,2005"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="5,1646,148,1690"/>
+<area shape="rect" id="node7" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="1279,1694,1503,1722"/>
+<area shape="rect" id="node48" href="$d4/daa/classG4RunManager.html" title="G4RunManager" alt="" coords="1817,1466,1943,1494"/>
+<area shape="rect" id="node8" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="1314,1529,1469,1557"/>
+<area shape="rect" id="node10" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="828,1587,967,1615"/>
+<area shape="rect" id="node22" href="$d9/d38/classG4VisFilterManager.html" title="G4VisFilterManager\l\&lt; G4VDigi \&gt;" alt="" coords="1803,1113,1957,1157"/>
+<area shape="rect" id="node24" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="832,1210,963,1238"/>
+<area shape="rect" id="node26" href="$d5/de2/classG4Event.html" title="G4Event" alt="" coords="1351,971,1431,999"/>
+<area shape="rect" id="node28" href="$d9/d52/classG4Scene.html" title="G4Scene" alt="" coords="857,675,938,703"/>
+<area shape="rect" id="node30" href="$d9/d38/classG4VisFilterManager.html" title="G4VisFilterManager\l\&lt; G4VTrajectory \&gt;" alt="" coords="1803,843,1957,887"/>
+<area shape="rect" id="node32" href="$df/d51/classG4VGraphicsSystem.html" title="G4VGraphicsSystem" alt="" coords="817,361,977,389"/>
+<area shape="rect" id="node34" href="$d9/d38/classG4VisFilterManager.html" title="G4VisFilterManager\l\&lt; G4VHit \&gt;" alt="" coords="1803,911,1957,955"/>
+<area shape="rect" id="node35" href="$d3/dbf/classG4VViewer.html" title="G4VViewer" alt="" coords="1832,402,1928,430"/>
+<area shape="rect" id="node36" href="$d7/dc2/classG4ViewParameters.html" title="G4ViewParameters" alt="" coords="1317,483,1466,511"/>
+<area shape="rect" id="node37" href="$da/d94/classG4VSceneHandler.html" title="G4VSceneHandler" alt="" coords="1319,567,1464,595"/>
+<area shape="rect" id="node41" href="$dc/dba/classG4VisModelManager.html" title="G4VisModelManager\&lt;\l G4VTrajectoryModel \&gt;" alt="" coords="1791,979,1969,1023"/>
+<area shape="rect" id="node46" href="$d8/def/classG4UImanager.html" title="G4UImanager" alt="" coords="839,1143,955,1171"/>
+<area shape="rect" id="node11" href="$d3/da8/classPHG4PhenixDisplayAction.html" title="PHG4PhenixDisplayAction" alt="" coords="1293,1915,1489,1943"/>
+<area shape="rect" id="node14" href="$d1/d53/classPHG4PhenixSteppingAction.html" title="PHG4PhenixSteppingAction" alt="" coords="1777,1310,1983,1338"/>
+<area shape="rect" id="node15" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="1305,1373,1478,1401"/>
+<area shape="rect" id="node17" href="$d7/d54/classPHG4PrimaryGeneratorAction.html" title="PHG4PrimaryGeneratorAction" alt="" coords="1769,1374,1991,1402"/>
+<area shape="rect" id="node18" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html" title="G4VUserPrimaryGeneratorAction" alt="" coords="1270,1425,1513,1453"/>
+<area shape="rect" id="node19" href="$db/d62/classPHG4InEvent.html" title="PHG4InEvent" alt="" coords="1336,1321,1447,1349"/>
+<area shape="rect" id="node20" href="$d0/d0d/classG4VisManager.html" title="G4VisManager" alt="" coords="2287,555,2407,583"/>
+<area shape="rect" id="node29" href="$d4/d4b/classG4VisStateDependent.html" title="G4VisStateDependent" alt="" coords="2637,557,2809,585"/>
+<area shape="rect" id="node21" href="$d8/d25/classG4VVisManager.html" title="G4VVisManager" alt="" coords="1815,623,1945,651"/>
+<area shape="rect" id="node25" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="462,1481,577,1509"/>
+<area shape="rect" id="node33" title="STL class." alt="" coords="428,327,611,355"/>
+<area shape="rect" id="node39" href="$dd/d5d/classG4SceneHandlerList.html" title="G4SceneHandlerList" alt="" coords="1800,143,1960,171"/>
+<area shape="rect" id="node40" href="$d2/d33/classG4SceneList.html" title="G4SceneList" alt="" coords="1827,195,1933,223"/>
+<area shape="rect" id="node42" href="$da/df2/classG4GraphicsSystemList.html" title="G4GraphicsSystemList" alt="" coords="1793,247,1967,275"/>
+<area shape="rect" id="node44" href="$d9/dce/classPHG4PhenixStackingAction.html" title="PHG4PhenixStackingAction" alt="" coords="2245,2119,2449,2147"/>
+<area shape="rect" id="node45" href="$d4/d2e/classG4TBMagneticFieldSetup.html" title="G4TBMagneticFieldSetup" alt="" coords="2251,2171,2442,2199"/>
+<area shape="rect" id="node47" href="$d0/ddf/classPHG4PhenixTrackingAction.html" title="PHG4PhenixTrackingAction" alt="" coords="2245,2223,2448,2251"/>
+<area shape="rect" id="node49" href="$d9/d7a/classPHG4PhenixEventAction.html" title="PHG4PhenixEventAction" alt="" coords="2254,1527,2439,1555"/>
+<area shape="rect" id="node50" href="$d3/d64/classPHG4UIsession.html" title="PHG4UIsession" alt="" coords="2285,1579,2408,1607"/>
+</map>

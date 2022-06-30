@@ -1,0 +1,13 @@
+<map id="G4ProductionCutsTable::StoreMaterialCutsCoupleInfo" name="G4ProductionCutsTable::StoreMaterialCutsCoupleInfo">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="358,5,465,33"/>
+<area shape="rect" id="node3" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="325,57,497,101"/>
+<area shape="rect" id="node4" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="634,100,806,144"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="327,296,495,324"/>
+<area shape="rect" id="node6" href="$d4/d1f/classG4ProductionCuts.html#a7fdc01761d45649460a87e63df2adfb5" title="G4ProductionCuts::GetProductionCut" alt="" coords="276,348,547,376"/>
+<area shape="rect" id="node7" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="634,168,806,212"/>
+<area shape="rect" id="node8" href="$d5/dda/classG4ProductionCutsTable.html#a3952248887d6649470f29deb2f3b6b98" title="G4ProductionCutsTable\l::IsCoupleUsedInTheRegion" alt="" coords="309,228,514,272"/>
+<area shape="rect" id="node12" href="$d9/dc9/classG4MaterialCutsCouple.html#a25120fa130f3ce41a1a1c06e14e55076" title="G4MaterialCutsCouple\l::IsUsed" alt="" coords="325,400,497,444"/>
+<area shape="rect" id="node9" href="$d1/d35/classG4Region.html#a17aa3f14df1e8fcafb0b91ca25359d2a" title="G4Region::GetMaterialIterator" alt="" coords="607,236,833,264"/>
+<area shape="rect" id="node10" href="$d1/d35/classG4Region.html#af4fb54713c75dee01cede9be2ff7570f" title="G4Region::GetNumberOfMaterials" alt="" coords="595,288,845,316"/>
+<area shape="rect" id="node11" href="$d1/d35/classG4Region.html#a02ad89e648445e18962263e7d6347530" title="G4Region::GetProductionCuts" alt="" coords="609,340,831,368"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="G4INCL::NuclearDensity::getMaxRFromP" name="G4INCL::NuclearDensity::getMaxRFromP">
+<area shape="rect" id="node2" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acdb8e56166ec9da8253c0192a0a854f4" title="G4INCL::KinematicsUtils\l::getLocalEnergy" alt="" coords="283,136,467,180"/>
+<area shape="rect" id="node19" href="$d7/db0/classG4INCL_1_1Nucleus.html#a43c35b08fb380b14df18ad209bb4a59c" title="Get the maximum allowed radius for a given particle." alt="" coords="587,268,803,312"/>
+<area shape="rect" id="node25" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#aca46376cfd760fe3fb068e2780735560" title="Sample one particle with a fuzzy rp&#45;correlation." alt="" coords="263,328,488,388"/>
+<area shape="rect" id="node31" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a807ef02b2d9a3ba05ffdeb8f01db7560" title="Sample one particle taking into account the rp&#45;correlation." alt="" coords="236,412,515,456"/>
+<area shape="rect" id="node3" href="$de/d20/classG4INCL_1_1InteractionAvatar_1_1ViolationEMomentumFunctor.html#a6b880223a021c60fddbeb01f4cdaa023" title="Scale the momenta of the modified and created particles." alt="" coords="581,5,808,65"/>
+<area shape="rect" id="node4" href="$dd/dfe/classG4INCL_1_1InteractionAvatar_1_1ViolationEEnergyFunctor.html#a2f9284a89e8fb9fd4fae79072e0709d1" title="Set the energy of the particle." alt="" coords="596,89,793,149"/>
+<area shape="rect" id="node5" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8fdc908e37944096ca697d1338d91746" title="G4INCL::KinematicsUtils\l::transformToLocalEnergyFrame" alt="" coords="577,173,812,217"/>
+<area shape="rect" id="node6" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af59776dad28c0c7f17415dd5b6e9e2c8" title="Apply local&#45;energy transformation, if appropriate." alt="" coords="909,89,1117,133"/>
+<area shape="rect" id="node10" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="875,173,1152,217"/>
+<area shape="rect" id="node7" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="1228,43,1425,87"/>
+<area shape="rect" id="node8" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#adbdf2218ffff261051eaaa09026bb583" title="G4INCL::DecayAvatar\l::preInteraction" alt="" coords="1531,9,1697,53"/>
+<area shape="rect" id="node9" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="1501,77,1727,121"/>
+<area shape="rect" id="node11" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="1200,179,1453,223"/>
+<area shape="rect" id="node14" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="1216,111,1437,155"/>
+<area shape="rect" id="node12" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a612af7900a1f5c727af8ab1b3910eafa" title="G4INCL::StandardPropagation\lModel::updateAvatars" alt="" coords="1503,247,1725,291"/>
+<area shape="rect" id="node13" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a137dff7f40f49603b311b9b219eeda35" title="G4INCL::StandardPropagation\lModel::propagate" alt="" coords="1775,247,1996,291"/>
+<area shape="rect" id="node15" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a797718f0232dc35b3a5c325da15a81f6" title="(Re)Generate all possible avatars." alt="" coords="1503,145,1725,189"/>
+<area shape="rect" id="node16" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="1775,179,1996,223"/>
+<area shape="rect" id="node18" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#abd1c8a055a0c106754b21f0393e20a58" title="G4INCL::StandardPropagation\lModel::shootComposite" alt="" coords="1775,111,1996,155"/>
+<area shape="rect" id="node17" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a7b190dd2a4c2a53d04ec6b9b0841c0f7" title="G4INCL::StandardPropagation\lModel::shoot" alt="" coords="2044,145,2265,189"/>
+<area shape="rect" id="node20" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af302fc5dd04411a0739ce56a0775228c" title="G4INCL::InteractionAvatar\l::bringParticleInside" alt="" coords="915,344,1112,388"/>
+<area shape="rect" id="node21" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ac8a019a080acc89c5c2ac6dbb339a750" title="G4INCL::InteractionAvatar\l::postInteraction" alt="" coords="1228,340,1425,384"/>
+<area shape="rect" id="node24" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a08ff6561de3f296069d757bea40a81a0" title="Get the reflection time." alt="" coords="1216,247,1437,291"/>
+<area shape="rect" id="node22" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#a87418f6177e792cb84b66b8075c2b9da" title="G4INCL::DecayAvatar\l::postInteraction" alt="" coords="1531,332,1697,376"/>
+<area shape="rect" id="node23" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a7a875ce633f6452bf1948ed61c903ce3" title="G4INCL::BinaryCollisionAvatar\l::postInteraction" alt="" coords="1501,400,1727,444"/>
+<area shape="rect" id="node26" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#af23dda8fb528b65f547290c96193c557" title="G4INCL::ParticleSampler\l::updateSampleOneParticleMethods" alt="" coords="563,412,827,456"/>
+<area shape="rect" id="node27" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a625688b81175c9d245dcc22cf6fa6c57" title="Setter for theDensity." alt="" coords="920,480,1107,524"/>
+<area shape="rect" id="node30" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a0086f69c41b791439a3bbe5e9912c66f" title="Setter for thePotential." alt="" coords="920,412,1107,456"/>
+<area shape="rect" id="node28" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad71def6c40bd876b5e2b1373c66732ea" title="Setter for theDensity." alt="" coords="1219,488,1434,516"/>
+<area shape="rect" id="node29" href="$d7/db0/classG4INCL_1_1Nucleus.html#acbf406f483d62a6cec8181f84cbb74ef" title="G4INCL::Nucleus::Nucleus" alt="" coords="1229,428,1425,456"/>
+</map>

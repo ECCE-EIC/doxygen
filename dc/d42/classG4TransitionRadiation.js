@@ -1,0 +1,28 @@
+var classG4TransitionRadiation =
+[
+    [ "G4TransitionRadiation", "dc/d42/classG4TransitionRadiation.html#a526203f6fed18335b263b0d7a5f92cac", null ],
+    [ "~G4TransitionRadiation", "dc/d42/classG4TransitionRadiation.html#a6d03baaff0c6108dfa4d2a2085e8523e", null ],
+    [ "G4TransitionRadiation", "dc/d42/classG4TransitionRadiation.html#a424792f26ac7b1aa38102f59fbfe8fb3", null ],
+    [ "AngleIntegralDistribution", "dc/d42/classG4TransitionRadiation.html#a64aef427fd1c4319e9a91d84f02c4801", null ],
+    [ "EnergyIntegralDistribution", "dc/d42/classG4TransitionRadiation.html#ab0793cbaffb920aa7e8a0c7795d273d6", null ],
+    [ "GetMeanFreePath", "dc/d42/classG4TransitionRadiation.html#ae96d9e9040b34b993816e1021cf8b0f6", null ],
+    [ "IntegralOverAngle", "dc/d42/classG4TransitionRadiation.html#a6e0b70802d7dfd21e134bf8f1c392ae9", null ],
+    [ "IntegralOverEnergy", "dc/d42/classG4TransitionRadiation.html#a5f29405c73c9b0fef45e4b0947986632", null ],
+    [ "IsApplicable", "dc/d42/classG4TransitionRadiation.html#aac79f9cbbb3ac43ac856bd8d5a7bbe49", null ],
+    [ "operator=", "dc/d42/classG4TransitionRadiation.html#ae8c1b9704d4236073ec8e9d3ee7fc422", null ],
+    [ "PostStepDoIt", "dc/d42/classG4TransitionRadiation.html#a4c5c6083f4f6322d7759e294096b2ab2", null ],
+    [ "SpectralAngleTRdensity", "dc/d42/classG4TransitionRadiation.html#a86e7cb14e3311a139c12de49226589ee", null ],
+    [ "fEnergy", "dc/d42/classG4TransitionRadiation.html#a7b551972af74ee54091ca5345cc9d4e4", null ],
+    [ "fGamma", "dc/d42/classG4TransitionRadiation.html#a6b9e7aab350f3ff76fd8f9aed1e4a0e3", null ],
+    [ "fGammaNumber", "dc/d42/classG4TransitionRadiation.html#a13233b5d5b099121aecbe522e25ef001", null ],
+    [ "fMatIndex1", "dc/d42/classG4TransitionRadiation.html#a99c60bdb5da03de9ef55e8d4ac770d2d", null ],
+    [ "fMatIndex2", "dc/d42/classG4TransitionRadiation.html#ad4169e1e1cbb00ff9b2f48e6d9a2dc74", null ],
+    [ "fMaxEnergy", "dc/d42/classG4TransitionRadiation.html#afb4cdcff8fe05c39a02ed4befa26803f", null ],
+    [ "fMaxTheta", "dc/d42/classG4TransitionRadiation.html#a5125c9b754d1a2ed0a391e4ebfd41ca4", null ],
+    [ "fMinEnergy", "dc/d42/classG4TransitionRadiation.html#a9217a729c2499fc1ce04949f18bc807d", null ],
+    [ "fPointNumber", "dc/d42/classG4TransitionRadiation.html#a344395c52ffb711d269e605a8a963bf1", null ],
+    [ "fSigma1", "dc/d42/classG4TransitionRadiation.html#a9af5bd9a68e5761725c5725052dcf88e", null ],
+    [ "fSigma2", "dc/d42/classG4TransitionRadiation.html#ad69aed7bd77877a4dcc7f6cc788cb116", null ],
+    [ "fSympsonNumber", "dc/d42/classG4TransitionRadiation.html#acf3532b959a4a93a6611440cc6152495", null ],
+    [ "fVarAngle", "dc/d42/classG4TransitionRadiation.html#ae2b2d5b5ee4e34b0847b4d5ac7dd0526", null ]
+];

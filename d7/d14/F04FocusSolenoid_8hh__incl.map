@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/field/field04/include/F04FocusSolenoid.hh" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/field/field04/include/F04FocusSolenoid.hh">
+<area shape="rect" id="node2" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="1289,509,1449,537"/>
+<area shape="rect" id="node29" href="$df/d03/F04SimpleSolenoid_8hh.html" title="Definition of the F04SimpleSolenoid class." alt="" coords="1131,129,1303,157"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1996,965,2096,993"/>
+<area shape="rect" id="node8" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="1473,585,1581,613"/>
+<area shape="rect" id="node12" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="1167,661,1317,689"/>
+<area shape="rect" id="node16" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1450,813,1581,841"/>
+<area shape="rect" id="node23" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="802,585,978,613"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1923,1041,1982,1069"/>
+<area shape="rect" id="node13" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="647,889,738,917"/>
+<area shape="rect" id="node14" href="$d9/ddb/geomwdefs_8hh.html" title="geomwdefs.hh" alt="" coords="1169,813,1289,841"/>
+<area shape="rect" id="node15" href="$d8/d7b/G4AutoLock_8hh.html" title="G4AutoLock.hh" alt="" coords="1315,737,1438,765"/>
+<area shape="rect" id="node24" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="269,661,378,689"/>
+<area shape="rect" id="node25" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="402,661,562,689"/>
+<area shape="rect" id="node26" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="522,737,663,765"/>
+<area shape="rect" id="node30" href="$d2/d10/G4Tubs_8hh.html" title="G4Tubs.hh" alt="" coords="373,205,465,233"/>
+<area shape="rect" id="node36" href="$d0/d88/F04ElementField_8hh.html" title="Definition of the F04ElementField class." alt="" coords="909,281,1063,309"/>
+<area shape="rect" id="node41" href="$d4/da1/F04GlobalField_8hh.html" title="Definition of the F04GlobalField class." alt="" coords="1928,205,2071,233"/>
+<area shape="rect" id="node31" href="$d9/dbc/G4GeomTypes_8hh.html" title="G4GeomTypes.hh" alt="" coords="420,281,560,309"/>
+<area shape="rect" id="node32" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="585,281,827,309"/>
+<area shape="rect" id="node33" href="$d8/df5/G4CSGSolid_8hh.html" title="G4CSGSolid.hh" alt="" coords="155,281,278,309"/>
+<area shape="rect" id="node34" href="$d7/dab/G4Polyhedron_8hh.html" title="G4Polyhedron.hh" alt="" coords="5,509,143,537"/>
+<area shape="rect" id="node37" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="599,433,725,461"/>
+<area shape="rect" id="node38" href="$d1/d2e/G4TransportationManager_8hh.html" title="G4TransportationManager.hh" alt="" coords="877,357,1095,385"/>
+<area shape="rect" id="node39" href="$db/da6/G4UserLimits_8hh.html" title="G4UserLimits.hh" alt="" coords="112,433,244,461"/>
+<area shape="rect" id="node40" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="1116,585,1264,613"/>
+<area shape="rect" id="node42" href="$d3/d88/G4FieldManager_8hh.html" title="G4FieldManager.hh" alt="" coords="765,813,916,841"/>
+<area shape="rect" id="node43" href="$dc/dd7/G4PropagatorInField_8hh.html" title="G4PropagatorInField.hh" alt="" coords="1957,737,2135,765"/>
+<area shape="rect" id="node44" href="$de/d95/G4MagIntegratorStepper_8hh.html" title="G4MagIntegratorStepper.hh" alt="" coords="2095,357,2304,385"/>
+<area shape="rect" id="node45" href="$d4/dd7/G4ChordFinder_8hh.html" title="G4ChordFinder.hh" alt="" coords="2103,281,2245,309"/>
+<area shape="rect" id="node46" href="$d7/dd4/G4MagneticField_8hh.html" title="G4MagneticField.hh" alt="" coords="2261,433,2415,461"/>
+<area shape="rect" id="node47" href="$dd/d37/G4ElectroMagneticField_8hh.html" title="G4ElectroMagneticField.hh" alt="" coords="1804,357,2005,385"/>
+<area shape="rect" id="node48" href="$d1/d7d/G4Mag__EqRhs_8hh.html" title="G4Mag_EqRhs.hh" alt="" coords="2379,357,2518,385"/>
+<area shape="rect" id="node49" href="$de/d8d/G4Mag__SpinEqRhs_8hh.html" title="G4Mag_SpinEqRhs.hh" alt="" coords="2431,281,2600,309"/>
+<area shape="rect" id="node50" href="$d8/d7c/G4EqMagElectricField_8hh.html" title="G4EqMagElectricField.hh" alt="" coords="1840,281,2028,309"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/electronScattering2/src/ElectronPrimaryGeneratorAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/electronScattering2/src/ElectronPrimaryGeneratorAction.cc">
+<area shape="rect" id="node2" href="$d3/d30/ElectronPrimaryGeneratorAction_8hh.html" title="Definition of the ElectronPrimaryGeneratorAction class." alt="" coords="699,129,896,173"/>
+<area shape="rect" id="node4" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="2066,373,2166,401"/>
+<area shape="rect" id="node37" href="$db/d5f/G4GeneralParticleSource_8hh.html" title="G4GeneralParticleSource.hh" alt="" coords="1075,137,1285,165"/>
+<area shape="rect" id="node3" href="$da/d51/G4VUserPrimaryGeneratorAction_8hh.html" title="G4VUserPrimaryGeneratorAction.hh" alt="" coords="309,221,573,249"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1575,677,1665,705"/>
+<area shape="rect" id="node21" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="1457,525,1549,553"/>
+<area shape="rect" id="node22" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="2317,601,2437,629"/>
+<area shape="rect" id="node26" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="1981,449,2137,477"/>
+<area shape="rect" id="node31" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="2123,525,2285,553"/>
+<area shape="rect" id="node34" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="1763,449,1957,477"/>
+<area shape="rect" id="node36" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="1520,449,1739,477"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1398,905,1479,933"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1313,981,1413,1009"/>
+<area shape="rect" id="node13" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1761,905,1863,933"/>
+<area shape="rect" id="node18" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1545,753,1655,781"/>
+<area shape="rect" id="node19" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1476,829,1604,857"/>
+<area shape="rect" id="node20" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1679,753,1857,781"/>
+<area shape="rect" id="node10" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1333,1057,1392,1085"/>
+<area shape="rect" id="node25" href="$dd/d53/G4AllocatorPool_8hh.html" title="G4AllocatorPool.hh" alt="" coords="2303,677,2452,705"/>
+<area shape="rect" id="node27" href="$df/df0/pwdefs_8hh.html" title="pwdefs.hh" alt="" coords="1861,601,1952,629"/>
+<area shape="rect" id="node28" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="1463,601,1604,629"/>
+<area shape="rect" id="node29" href="$d4/d5c/G4PrimaryParticle_8hh.html" title="G4PrimaryParticle.hh" alt="" coords="1835,525,1997,553"/>
+<area shape="rect" id="node32" href="$d0/d92/G4VDigiCollection_8hh.html" title="G4VDigiCollection.hh" alt="" coords="2078,601,2242,629"/>
+<area shape="rect" id="node35" href="$d1/d39/G4VTrajectory_8hh.html" title="G4VTrajectory.hh" alt="" coords="1573,525,1709,553"/>
+<area shape="rect" id="node38" href="$d1/d2e/G4SingleParticleSource_8hh.html" title="G4SingleParticleSource.hh" alt="" coords="587,297,787,325"/>
+<area shape="rect" id="node48" href="$d8/de0/G4GeneralParticleSourceMessenger_8hh.html" title="G4GeneralParticleSourceMessenger.hh" alt="" coords="1099,525,1381,553"/>
+<area shape="rect" id="node50" href="$d2/df7/G4GeneralParticleSourceData_8hh.html" title="G4GeneralParticleSourceData.hh" alt="" coords="597,221,840,249"/>
+<area shape="rect" id="node39" href="$d9/d9f/G4VPrimaryGenerator_8hh.html" title="G4VPrimaryGenerator.hh" alt="" coords="921,373,1111,401"/>
+<area shape="rect" id="node40" href="$dc/d2b/G4ParticleMomentum_8hh.html" title="G4ParticleMomentum.hh" alt="" coords="734,525,922,553"/>
+<area shape="rect" id="node41" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="795,601,973,629"/>
+<area shape="rect" id="node42" href="$dc/de9/G4SPSPosDistribution_8hh.html" title="G4SPSPosDistribution.hh" alt="" coords="246,449,434,477"/>
+<area shape="rect" id="node43" href="$df/d82/G4SPSRandomGenerator_8hh.html" title="G4SPSRandomGenerator.hh" alt="" coords="195,525,405,553"/>
+<area shape="rect" id="node44" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="235,601,365,629"/>
+<area shape="rect" id="node45" href="$d2/d5f/G4Cache_8hh.html" title="G4Cache.hh" alt="" coords="467,601,571,629"/>
+<area shape="rect" id="node46" href="$d8/d51/G4SPSAngDistribution_8hh.html" title="G4SPSAngDistribution.hh" alt="" coords="244,373,436,401"/>
+<area shape="rect" id="node47" href="$dd/d90/G4SPSEneDistribution_8hh.html" title="G4SPSEneDistribution.hh" alt="" coords="458,449,649,477"/>
+<area shape="rect" id="node49" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="1219,601,1368,629"/>
+</map>

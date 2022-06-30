@@ -1,0 +1,35 @@
+<map id="G4GenericPolycone::GetEndPhi" name="G4GenericPolycone::GetEndPhi">
+<area shape="rect" id="node2" href="$d1/d78/classG4tgbVolume.html#a54dfdcc4d1e1ed8870e5298a62101c2d" title="G4tgbVolume::BuildSolidFor\lDivision" alt="" coords="215,141,427,185"/>
+<area shape="rect" id="node14" href="$dc/d33/classG4GenericPolycone.html#ae7853c041ac4ebbaab3d9d5941568c71" title="G4GenericPolycone::\lCalculateExtent" alt="" coords="240,219,401,263"/>
+<area shape="rect" id="node15" href="$d0/d94/classPHG4GDMLWriteSolids.html#ab179c3202cc083769c7c4b3a391f7bad" title="PHG4GDMLWriteSolids\l::GenericPolyconeWrite" alt="" coords="231,287,410,331"/>
+<area shape="rect" id="node19" href="$d3/d4a/classG4GDMLWriteSolids.html#abace2a8c6d0ca0916307011591c04322" title="G4GDMLWriteSolids::\lGenericPolyconeWrite" alt="" coords="236,388,405,432"/>
+<area shape="rect" id="node26" href="$de/d7b/classG4tgbGeometryDumper.html#afc02fc6b87cfe7cd125b53b2392be207" title="G4tgbGeometryDumper\l::GetSolidParams" alt="" coords="228,592,413,636"/>
+<area shape="rect" id="node3" href="$d1/d78/classG4tgbVolume.html#a0cc2371fc97f047c9f0ac69f791fd8f7" title="G4tgbVolume::ConstructG4\lPhysVol" alt="" coords="475,124,681,168"/>
+<area shape="rect" id="node4" href="$d1/d78/classG4tgbVolume.html#a914b6aefd21c8a951b8d863b12170f61" title="G4tgbVolume::ConstructG4\lVolumes" alt="" coords="729,124,936,168"/>
+<area shape="rect" id="node5" href="$d9/d6c/classG4tgbDetectorBuilder.html#aa7113e3f68d1d769caad5cfa89bc0244" title="G4tgbDetectorBuilder\l::ConstructDetector" alt="" coords="1002,91,1173,135"/>
+<area shape="rect" id="node13" href="$da/d27/classG4tgbDetectorConstruction.html#a7853d57e0b71d49746d04bc716d725c3" title="G4tgbDetectorConstruction\l::Construct" alt="" coords="984,159,1191,203"/>
+<area shape="rect" id="node6" href="$db/df1/classExTGRCDetectorBuilder.html#a1ebdf86f4ee2d4d102c10e1dd5601de1" title="ExTGRCDetectorBuilder\l::ConstructDetector" alt="" coords="1285,40,1467,84"/>
+<area shape="rect" id="node8" href="$de/dd0/classG4tgbVolumeMgr.html#a93803d6bb5fccb055fae6c61d57cd701" title="G4tgbVolumeMgr::ReadAndConstruct\lDetector" alt="" coords="1239,141,1513,185"/>
+<area shape="rect" id="node7" href="$d2/df7/classExTGDetectorConstructionWithCuts.html#abf59f7df480dc283c3c0db9ff401dd01" title="ExTGDetectorConstruction\lWithCuts::Construct" alt="" coords="1561,5,1761,49"/>
+<area shape="rect" id="node9" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="1580,73,1743,117"/>
+<area shape="rect" id="node10" href="$d1/d9e/classExTGDetectorConstruction.html#ad1890aaa7d14667f91da538a415f2f6f" title="ExTGDetectorConstruction\l::Construct" alt="" coords="1561,141,1761,185"/>
+<area shape="rect" id="node11" href="$da/d45/classExTGDetectorConstructionWithCpp.html#ac70c77fdcf1806ced6b5132d801b37c5" title="ExTGDetectorConstruction\lWithCpp::Construct" alt="" coords="1561,209,1761,253"/>
+<area shape="rect" id="node12" href="$dd/d04/classExTGDetectorConstructionWithSD.html#a5c23eff76ef15a2939eb7dd855f544d1" title="ExTGDetectorConstruction\lWithSD::Construct" alt="" coords="1561,277,1761,321"/>
+<area shape="rect" id="node16" href="$d0/d94/classPHG4GDMLWriteSolids.html#ae96019d064cee9517bad4aea85bd94e9" title="PHG4GDMLWriteSolids\l::AddSolid" alt="" coords="491,227,665,271"/>
+<area shape="rect" id="node17" href="$d0/d94/classPHG4GDMLWriteSolids.html#acaa5a680bf366ae99a07faf07f4cbf7c" title="PHG4GDMLWriteSolids\l::BooleanWrite" alt="" coords="746,192,919,236"/>
+<area shape="rect" id="node18" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="735,260,930,304"/>
+<area shape="rect" id="node20" href="$d3/d4a/classG4GDMLWriteSolids.html#a56cd57edf94eaef073ea210babfdf642" title="G4GDMLWriteSolids::\lAddSolid" alt="" coords="497,396,659,440"/>
+<area shape="rect" id="node21" href="$d3/d4a/classG4GDMLWriteSolids.html#aa593ed85770e41d36a58f4a2b127bb45" title="G4GDMLWriteSolids::\lBooleanWrite" alt="" coords="751,328,914,372"/>
+<area shape="rect" id="node22" href="$d3/d4a/classG4GDMLWriteSolids.html#a4c8fb61e04b60c7f22c0ca6ebd4850df" title="G4GDMLWriteSolids::\lMultiUnionWrite" alt="" coords="751,396,914,440"/>
+<area shape="rect" id="node23" href="$d3/d4a/classG4GDMLWriteSolids.html#a469d5b6f0808a7b5305ed4127f60de05" title="G4GDMLWriteSolids::\lScaledWrite" alt="" coords="751,464,914,508"/>
+<area shape="rect" id="node24" href="$d4/ded/classG4GDMLWriteStructure.html#ad618893f498c97f395b97738cb75a0a6" title="G4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="744,532,921,576"/>
+<area shape="rect" id="node25" href="$d4/ded/classG4GDMLWriteStructure.html#a7b590030f21824be91b222b540b9ad19" title="G4GDMLWriteStructure\l::AssemblyWrite" alt="" coords="999,532,1176,576"/>
+<area shape="rect" id="node27" href="$de/d7b/classG4tgbGeometryDumper.html#a9312bb74b948d6b760e78f366a68c5dc" title="G4tgbGeometryDumper\l::DumpPVParameterised" alt="" coords="1283,592,1469,636"/>
+<area shape="rect" id="node31" href="$de/d7b/classG4tgbGeometryDumper.html#acff4e0423a05b58a479c254339392c26" title="G4tgbGeometryDumper\l::DumpSolidParams" alt="" coords="485,652,671,696"/>
+<area shape="rect" id="node28" href="$de/d7b/classG4tgbGeometryDumper.html#a710a628dc50008e820c7665e8ebd5165" title="G4tgbGeometryDumper\l::DumpPhysVol" alt="" coords="1569,621,1754,665"/>
+<area shape="rect" id="node29" href="$de/d7b/classG4tgbGeometryDumper.html#a3776e8200bee5cc32f330e76c83dcb8b" title="G4tgbGeometryDumper\l::DumpGeometry" alt="" coords="1809,621,1995,665"/>
+<area shape="rect" id="node30" href="$db/d53/classExTGRunAction.html#a6f56565015d94fe77438f3401f02e0bd" title="ExTGRunAction::BeginOfRun\lAction" alt="" coords="2043,621,2256,665"/>
+<area shape="rect" id="node32" href="$de/d7b/classG4tgbGeometryDumper.html#aaad30eddff1d68edbc83442555d08da4" title="G4tgbGeometryDumper\l::DumpSolid" alt="" coords="740,685,925,729"/>
+<area shape="rect" id="node33" href="$de/d7b/classG4tgbGeometryDumper.html#a162601d43fffda564dc194cc5b80062b" title="G4tgbGeometryDumper\l::DumpLogVol" alt="" coords="995,652,1180,696"/>
+<area shape="rect" id="node34" href="$de/d7b/classG4tgbGeometryDumper.html#a76b3afcdb95afe8b989be812c62ae439" title="G4tgbGeometryDumper\l::DumpBooleanVolume" alt="" coords="995,720,1180,764"/>
+</map>

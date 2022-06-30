@@ -1,0 +1,27 @@
+<map id="G4OpticalPhoton::OpticalPhoton" name="G4OpticalPhoton::OpticalPhoton">
+<area shape="rect" id="node2" href="$d1/dbc/classG4OpticalPhysics.html#a9e07f95fd620e8e3b06cd883bb63e18c" title="G4OpticalPhysics::Construct\lProcess" alt="" coords="517,397,731,441"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="284,83,431,111"/>
+<area shape="rect" id="node16" href="$d3/d65/classG4EicDircOpBoundaryProcess.html#abf66a6bd290312c265a262b7f5c978c8" title="G4EicDircOpBoundaryProcess\l::IsApplicable" alt="" coords="246,187,469,231"/>
+<area shape="rect" id="node17" href="$dd/ddb/classG4OpMieHG.html#a2554400f19290f974a6e91fe95785689" title="G4OpMieHG::IsApplicable" alt="" coords="260,255,455,283"/>
+<area shape="rect" id="node18" href="$d3/dff/classG4OpRayleigh.html#a38ad66848199f09f218948a54573847a" title="G4OpRayleigh::IsApplicable" alt="" coords="253,307,462,335"/>
+<area shape="rect" id="node19" href="$dc/df8/classG4OpAbsorption.html#a13e0f1a486537d2e7082c61687f8c876" title="G4OpAbsorption::IsApplicable" alt="" coords="245,359,469,387"/>
+<area shape="rect" id="node20" href="$d4/dee/classG4OpWLS.html#a11bd5339673903b45268baf670cf4c3c" title="G4OpWLS::IsApplicable" alt="" coords="267,411,447,439"/>
+<area shape="rect" id="node21" href="$dc/d81/classG4OpBoundaryProcess.html#a564e9a509fbffada853795f0f2cb0981" title="G4OpBoundaryProcess\l::IsApplicable" alt="" coords="269,463,445,507"/>
+<area shape="rect" id="node22" href="$d4/dee/classG4OpWLS.html#aa901a42c3aaf37f3a2d68e4500885ae5" title="G4OpWLS::PostStepDoIt" alt="" coords="265,531,450,559"/>
+<area shape="rect" id="node23" href="$db/d01/classG4Cerenkov.html#a3ab546533bd304848b3bbfadb5e60667" title="G4Cerenkov::PostStepDoIt" alt="" coords="257,583,457,611"/>
+<area shape="rect" id="node24" href="$d5/d96/classG4Scintillation.html#a9c97b9abcea6f11fb7534de21b7bedf0" title="G4Scintillation::PostStepDoIt" alt="" coords="249,635,465,663"/>
+<area shape="rect" id="node26" href="$dc/d72/classWLSSteppingAction.html#a117f4232ce75ae376123f3fcaeb7a3eb" title="WLSSteppingAction::\lUserSteppingAction" alt="" coords="277,687,438,731"/>
+<area shape="rect" id="node4" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="593,109,655,137"/>
+<area shape="rect" id="node6" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="579,255,669,283"/>
+<area shape="rect" id="node14" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="523,5,725,33"/>
+<area shape="rect" id="node15" href="$d9/d1d/matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="585,57,663,85"/>
+<area shape="rect" id="node5" href="$d5/d21/Fun4All__G4__dRICHImport_8C.html#a3a58b6c3d01066a007bf8f28289d1946" title="Fun4All_G4_dRICHImport" alt="" coords="781,44,972,72"/>
+<area shape="rect" id="node7" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html#a5028836c74f0bebec560d3ab54daa022" title="Fun4All_AnaTutorial\l_sPHENIX" alt="" coords="800,148,953,192"/>
+<area shape="rect" id="node8" href="$d6/d14/Fun4All__AnaTutorial__sPHENIX__Jets_8C.html#a61b352bca84476d24b0ff40991b27900" title="Fun4All_AnaTutorial\l_sPHENIX_Jets" alt="" coords="800,216,953,260"/>
+<area shape="rect" id="node9" href="$d2/d7e/Fun4All__G4__ECCEModular_8C.html#abfc0f0fda62657d78ec09187a1c5d74a" title="Fun4All_G4_ECCEModular" alt="" coords="779,284,974,312"/>
+<area shape="rect" id="node10" href="$da/d02/Fun4All__G4__EICDetector_8C.html#add9dee08cdb08b59c0b3870bb04994d9" title="Fun4All_G4_EICDetector" alt="" coords="784,336,969,364"/>
+<area shape="rect" id="node11" href="$d6/dda/macro_2Fun4All__G4__EICDetector__AnaTutorial_8C.html#a598434aca3dac5cdb0ca67ccc548d865" title="Fun4All_G4_EICDetector\l_AnaTutorial" alt="" coords="784,388,969,432"/>
+<area shape="rect" id="node12" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a4102cd3e195333de974409428a2e6dae" title="Fun4All_G4_sPHENIX" alt="" coords="796,456,957,484"/>
+<area shape="rect" id="node13" href="$d5/d9d/Fun4All__photonDispersion_8C.html#ac302dd70db86b0d1047fc47ebab58aef" title="Fun4All_photonDispersion" alt="" coords="779,96,975,124"/>
+<area shape="rect" id="node25" href="$d5/d96/classG4Scintillation.html#a1cbc17abbb7e8f4fe1236b639ba970b1" title="G4Scintillation::AtRestDoIt" alt="" coords="524,635,724,663"/>
+</map>

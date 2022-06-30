@@ -1,0 +1,21 @@
+<map id="G4ECDecay::SetARM" name="G4ECDecay::SetARM">
+<area shape="rect" id="node2" href="$dc/d8e/classG4RadioactiveDecayBase.html#a4d5b21e7e66ffea766b9c3e1299f6f09" title="G4RadioactiveDecayBase\l::LoadDecayTable" alt="" coords="213,187,408,231"/>
+<area shape="rect" id="node14" href="$df/d5e/classG4RadioactiveDecay.html#a41f60c5043ff45ad31cbcc1b5ad062c6" title="G4RadioactiveDecay\l::LoadDecayTable" alt="" coords="229,284,392,328"/>
+<area shape="rect" id="node3" href="$d0/dfa/classG4Radioactivation.html#a922cfa5786f02d6bad8b6c3da6972f90" title="G4Radioactivation::\lGetDecayTable1" alt="" coords="730,187,883,231"/>
+<area shape="rect" id="node8" href="$dc/d8e/classG4RadioactiveDecayBase.html#a7ca65f17832e262b7e21b3238b771327" title="G4RadioactiveDecayBase\l::GetDecayTable" alt="" coords="456,97,651,141"/>
+<area shape="rect" id="node4" href="$d0/dfa/classG4Radioactivation.html#a74c7e92e68178b8a283851002fadde1f" title="G4Radioactivation::\lCalculateChainsFromParent" alt="" coords="963,247,1169,291"/>
+<area shape="rect" id="node5" href="$d0/dfa/classG4Radioactivation.html#a5f3f52eb546d59390dd2e633ebc1918f" title="G4Radioactivation::\lDecayIt" alt="" coords="1238,183,1391,227"/>
+<area shape="rect" id="node6" href="$d0/dfa/classG4Radioactivation.html#a5e992a9701e77174b5815b47b8aea8a4" title="G4Radioactivation::\lAtRestDoIt" alt="" coords="1481,160,1634,204"/>
+<area shape="rect" id="node7" href="$d0/dfa/classG4Radioactivation.html#a9346a1112a2666c53aa9cf34646494ff" title="G4Radioactivation::\lPostStepDoIt" alt="" coords="1481,228,1634,272"/>
+<area shape="rect" id="node9" href="$dc/d8e/classG4RadioactiveDecayBase.html#a6ccd9cb11bb27fd2eee79015112793c9" title="G4RadioactiveDecayBase\l::DecayIt" alt="" coords="1217,52,1412,96"/>
+<area shape="rect" id="node12" href="$dc/d8e/classG4RadioactiveDecayBase.html#a79b15e3c6fe2c1efb00cf9af8786389c" title="G4RadioactiveDecayBase\l::DoDecay" alt="" coords="709,97,904,141"/>
+<area shape="rect" id="node10" href="$dc/d8e/classG4RadioactiveDecayBase.html#a57376089a83ff548766bd51f4dfd125e" title="G4RadioactiveDecayBase\l::AtRestDoIt" alt="" coords="1460,5,1655,49"/>
+<area shape="rect" id="node11" href="$dc/d8e/classG4RadioactiveDecayBase.html#a79c116f8e803847749467c6182c6adfb" title="G4RadioactiveDecayBase\l::PostStepDoIt" alt="" coords="1460,73,1655,117"/>
+<area shape="rect" id="node13" href="$dc/d8e/classG4RadioactiveDecayBase.html#a59e77fad8836a513c4834fff9c42f5f1" title="G4RadioactiveDecayBase\l::DecayAnalog" alt="" coords="969,76,1163,120"/>
+<area shape="rect" id="node15" href="$df/d5e/classG4RadioactiveDecay.html#a7441d66e1db789dc443ec966db47344d" title="G4RadioactiveDecay\l::GetDecayTable" alt="" coords="472,300,635,344"/>
+<area shape="rect" id="node16" href="$df/d5e/classG4RadioactiveDecay.html#ab2df89151fb5f31f8e617f8bce1bef77" title="G4RadioactiveDecay\l::CalculateChainsFromParent" alt="" coords="699,255,915,299"/>
+<area shape="rect" id="node17" href="$df/d5e/classG4RadioactiveDecay.html#a99665f00c3be293c00a1e94108faf7fb" title="G4RadioactiveDecay\l::DecayIt" alt="" coords="985,315,1147,359"/>
+<area shape="rect" id="node20" href="$df/d5e/classG4RadioactiveDecay.html#a5fa13b19b1e94ee51007efc1b02d8dfe" title="G4RadioactiveDecay\l::DoDecay" alt="" coords="725,375,888,419"/>
+<area shape="rect" id="node18" href="$df/d5e/classG4RadioactiveDecay.html#a0fb4257aca98bf87d751a0021dcf4639" title="G4RadioactiveDecay\l::AtRestDoIt" alt="" coords="1233,283,1396,327"/>
+<area shape="rect" id="node19" href="$df/d5e/classG4RadioactiveDecay.html#aff9187bc33e0500c36b77d5fe7ffeb95" title="G4RadioactiveDecay\l::PostStepDoIt" alt="" coords="1233,351,1396,395"/>
+</map>

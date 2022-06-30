@@ -1,0 +1,30 @@
+<map id="DicomFileMgr::AddFile" name="DicomFileMgr::AddFile">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="857,94,963,122"/>
+<area shape="rect" id="node3" href="$da/dd4/classDicomVFileImage.html#a8eaf693c44e79ac2173dd9f656eba494" title="DicomVFileImage::GetMaxZ" alt="" coords="225,602,435,630"/>
+<area shape="rect" id="node4" href="$da/dd4/classDicomVFileImage.html#a8ae90a19da89d73359c99119d5055875" title="DicomVFileImage::ReadData" alt="" coords="224,113,436,141"/>
+<area shape="rect" id="node8" href="$de/d1d/classDicomFileStructure.html#a285b815bc0a38abcdb3e6afe2549511e" title="DicomFileStructure\l::ReadData" alt="" coords="537,294,686,338"/>
+<area shape="rect" id="node15" href="$d9/d1f/classDicomFilePlan.html#ac1752e49f8b923ada268133885f1a12d" title="DicomFilePlan::ReadData" alt="" coords="235,550,425,578"/>
+<area shape="rect" id="node29" href="$d0/d6a/classDicomVFile.html#afa5b524b8fb0ec41d9ed915b6c00a545" title="DicomVFile::SetFileName" alt="" coords="235,654,425,682"/>
+<area shape="rect" id="node5" href="$d0/d6a/classDicomVFile.html#af1b1c3a18470cc6eba40ae6fdb7f008e" title="DicomVFile::Read1Data" alt="" coords="522,138,701,166"/>
+<area shape="rect" id="node7" href="$da/dd4/classDicomVFileImage.html#a98b7d3a879c6c203a9f9b8dc0315ea15" title="DicomVFileImage::ReadPixelData" alt="" coords="489,86,733,114"/>
+<area shape="rect" id="node6" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="831,146,989,174"/>
+<area shape="rect" id="node9" href="$d2/dd2/classG4UIcommand.html#abb2bd08fd64bc218be8bc10292c160ca" title="G4UIcommand::ConvertToInt" alt="" coords="801,198,1019,226"/>
+<area shape="rect" id="node10" href="$d7/d3c/classDicomROI.html#a3c827f000054fe40937468ae35945c84" title="DicomROI::GetNumber" alt="" coords="822,250,998,278"/>
+<area shape="rect" id="node11" href="$d7/d3c/classDicomROI.html#a946c90fa2fef6640e5c3f4d3ea1b3ae7" title="DicomROI::GetName" alt="" coords="830,302,990,330"/>
+<area shape="rect" id="node12" href="$da/dfc/classDicomROIContour.html#ac36cfd4c387d6ebb86c924a9982cbc88" title="DicomROIContour::AddImageIUID" alt="" coords="787,354,1033,382"/>
+<area shape="rect" id="node13" href="$da/dfc/classDicomROIContour.html#a37473e5b0668ff539a3fdfbf273b8824" title="DicomROIContour::SetGeomType" alt="" coords="788,406,1032,434"/>
+<area shape="rect" id="node14" href="$da/dfc/classDicomROIContour.html#a49d60bf1eef91eeca3e67962d605b7c7" title="DicomROIContour::SetData" alt="" coords="808,458,1012,486"/>
+<area shape="rect" id="node16" href="$d9/d1f/classDicomFilePlan.html#a8ede80768d5a68c32e2ef5968b4893a1" title="DicomFilePlan::CheckData0" alt="" coords="508,242,715,270"/>
+<area shape="rect" id="node17" href="$d1/d6a/classDicomBeam.html#a2a62fd8f50b3f98d6b42700e23bfc0ba" title="DicomBeam::SetDoseSpecification\lPoint" alt="" coords="484,362,739,406"/>
+<area shape="rect" id="node18" href="$d1/d6a/classDicomBeam.html#ada244e6740573f0c67bcc186fb16b71d" title="DicomBeam::SetMeterset" alt="" coords="514,430,709,458"/>
+<area shape="rect" id="node19" href="$d1/d6a/classDicomBeam.html#ac14e3f6be5f90327ebb65340714433ce" title="DicomBeam::SetSourceAxis\lDistance" alt="" coords="507,482,716,526"/>
+<area shape="rect" id="node20" href="$d1/d6a/classDicomBeam.html#aa63558d4591ebe0dd0bc0fbc7a033958" title="DicomBeam::AddDevice" alt="" coords="519,550,703,578"/>
+<area shape="rect" id="node21" href="$d1/d6a/classDicomBeam.html#abaac6ac7e14f937acca61c23acf81aeb" title="DicomBeam::SetNumber" alt="" coords="517,602,706,630"/>
+<area shape="rect" id="node22" href="$d1/d6a/classDicomBeam.html#a1982e666f902537815721cb8879ad5b2" title="DicomBeam::SetRadiationType" alt="" coords="497,654,726,682"/>
+<area shape="rect" id="node23" href="$d1/d6a/classDicomBeam.html#a3aef5764db399256422b342023c3f1a8" title="DicomBeam::AddWedge" alt="" coords="519,706,704,734"/>
+<area shape="rect" id="node24" href="$d1/d6a/classDicomBeam.html#ac56698c942665b975ad2502b0cebea87" title="DicomBeam::AddCompensator" alt="" coords="497,758,726,786"/>
+<area shape="rect" id="node25" href="$d1/d6a/classDicomBeam.html#a076776bc3c2915bdd1606a50eb397da2" title="DicomBeam::AddBlock" alt="" coords="523,810,699,838"/>
+<area shape="rect" id="node26" href="$d1/d6a/classDicomBeam.html#acf9e0d229a349e0f281772836bfe77bc" title="DicomBeam::GetNControlPoints" alt="" coords="493,862,729,890"/>
+<area shape="rect" id="node27" href="$d1/d6a/classDicomBeam.html#a768e6de974677453a74ed3bdaad3829a" title="DicomBeam::GetControlPoint" alt="" coords="502,914,721,942"/>
+<area shape="rect" id="node28" href="$d1/d6a/classDicomBeam.html#a7cd653c729d3df91e566db99f30c1148" title="DicomBeam::AddControlPoint" alt="" coords="501,966,722,994"/>
+</map>

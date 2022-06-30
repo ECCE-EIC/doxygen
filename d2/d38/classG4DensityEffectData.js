@@ -1,0 +1,28 @@
+var classG4DensityEffectData =
+[
+    [ "G4DensityEffectData", "d2/d38/classG4DensityEffectData.html#ad93428831621daa4bbb95601b191c7cd", null ],
+    [ "~G4DensityEffectData", "d2/d38/classG4DensityEffectData.html#a804f664fd121ab707daa7a3e7c4abaff", null ],
+    [ "G4DensityEffectData", "d2/d38/classG4DensityEffectData.html#a2560659c04feb177a6b461370b912e4f", null ],
+    [ "AddMaterial", "d2/d38/classG4DensityEffectData.html#afbb39aa46c3eb82829d0ad4ccdb2d4d8", null ],
+    [ "DumpData", "d2/d38/classG4DensityEffectData.html#a13ff58192b9de57e203f4908cf298b93", null ],
+    [ "GetAdensity", "d2/d38/classG4DensityEffectData.html#a97c848845a90e2902b31a3670d31fa96", null ],
+    [ "GetAdjustmentFactor", "d2/d38/classG4DensityEffectData.html#a19b5a870975ade0bf01e826cc9e591c7", null ],
+    [ "GetCdensity", "d2/d38/classG4DensityEffectData.html#ad755f24920c2491cfb9f43703420fbc3", null ],
+    [ "GetDelta0density", "d2/d38/classG4DensityEffectData.html#a794c6a877815b63f845661589bf4d321", null ],
+    [ "GetElementIndex", "d2/d38/classG4DensityEffectData.html#a6d3e0e46026a194fad1d74e982ad0aca", null ],
+    [ "GetErrorDensity", "d2/d38/classG4DensityEffectData.html#ab19cc15efc55c417c44cc7c1efaf1b4e", null ],
+    [ "GetIndex", "d2/d38/classG4DensityEffectData.html#a9a67e5eefa63d9391b5c3a0b80faeba8", null ],
+    [ "GetMdensity", "d2/d38/classG4DensityEffectData.html#a978a4f8c7cd4df47497ea1aa55717ff6", null ],
+    [ "GetMeanIonisationPotential", "d2/d38/classG4DensityEffectData.html#a1d8fe28e618a73077fa94fdcc693d3d8", null ],
+    [ "GetPlasmaEnergy", "d2/d38/classG4DensityEffectData.html#a73ca8fa09db7e39009b4bc86be058c01", null ],
+    [ "GetX0density", "d2/d38/classG4DensityEffectData.html#aafcad5818156fc5e1145a220900472ba", null ],
+    [ "GetX1density", "d2/d38/classG4DensityEffectData.html#acc8cc48ff974991c6126057ef10edb74", null ],
+    [ "Initialize", "d2/d38/classG4DensityEffectData.html#a08292134d9985bafbf7f894db37d16fb", null ],
+    [ "operator=", "d2/d38/classG4DensityEffectData.html#a814af452a1261d142ca0391c354335d2", null ],
+    [ "PrintData", "d2/d38/classG4DensityEffectData.html#a4231ab24a2cec65cda9cdaa25ab730c9", null ],
+    [ "data", "d2/d38/classG4DensityEffectData.html#a88c5a5874b789b57900456743dceaaf0", null ],
+    [ "index", "d2/d38/classG4DensityEffectData.html#a7b528e4138afabf1f9893f85dbec3f08", null ],
+    [ "indexZ", "d2/d38/classG4DensityEffectData.html#a6e71075497661363c9c2fe472e501ebc", null ],
+    [ "names", "d2/d38/classG4DensityEffectData.html#a5a8c67eb67ad3fa773262e06304750e0", null ],
+    [ "state", "d2/d38/classG4DensityEffectData.html#a5b129ab8b4e93e33658217f15afca2fd", null ]
+];

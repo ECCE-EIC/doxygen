@@ -1,0 +1,26 @@
+var classCML2Accelerator =
+[
+    [ "CML2Accelerator", "db/dda/classCML2Accelerator.html#abc6122d53e88ddedbf1510a4b5511c19", null ],
+    [ "~CML2Accelerator", "db/dda/classCML2Accelerator.html#ab199533db47bfdc0919b69724e090b89", null ],
+    [ "Construct", "db/dda/classCML2Accelerator.html#a1dcf07e7e2eb014de45a311bce0e9956", null ],
+    [ "getBeforeJaws_Z_PhaseSpacePosition", "db/dda/classCML2Accelerator.html#ad597b5788e2e4d48c28873a96414ac9b", null ],
+    [ "getidEnergy", "db/dda/classCML2Accelerator.html#a5602dc01d9dc763fb2b3d7d27bfae400", null ],
+    [ "reset", "db/dda/classCML2Accelerator.html#ae88a9cb3757915ffabceb620e4ca16af", null ],
+    [ "setidEnergy", "db/dda/classCML2Accelerator.html#a0ef25d0cf458072e5f500c7008bf8121", null ],
+    [ "setIsoCentre", "db/dda/classCML2Accelerator.html#aaa496cf1cd1f9c9df3dd31ce81ac0460", null ],
+    [ "setJaw1X", "db/dda/classCML2Accelerator.html#ac1f8e03ea73f0cc9adc55dbae1ba1910", null ],
+    [ "setJaw1Y", "db/dda/classCML2Accelerator.html#a0b7c43f13e65f2d895a4e6a3b110deaf", null ],
+    [ "setJaw2X", "db/dda/classCML2Accelerator.html#ae312ffad53708a90302c88f5df3ad3cc", null ],
+    [ "setJaw2Y", "db/dda/classCML2Accelerator.html#a02acbc4ca51a2008a49544ec15c22ef6", null ],
+    [ "setLeavesAx", "db/dda/classCML2Accelerator.html#ad2e9b88d0859207c4f871910cbed42ec", null ],
+    [ "setLeavesBx", "db/dda/classCML2Accelerator.html#a9f6b48bad2c08d0d7e0096af229ae040", null ],
+    [ "writeInfo", "db/dda/classCML2Accelerator.html#adb0621d3eb569398c51d05cadab006a9", null ],
+    [ "idEnergy", "db/dda/classCML2Accelerator.html#a16adc181d5c7a141be873c168d183c15", null ],
+    [ "isoCentre", "db/dda/classCML2Accelerator.html#a0cef248dfb9c76658a3c406a1e9f6744", null ],
+    [ "jaw1XAperture", "db/dda/classCML2Accelerator.html#a602b1b4a2dd816135c6665612f4970c6", null ],
+    [ "jaw1YAperture", "db/dda/classCML2Accelerator.html#a6d04d73a2548f0e1efcf229fa4ef838d", null ],
+    [ "jaw2XAperture", "db/dda/classCML2Accelerator.html#ae227040e2b0e5c9c724b8e4423494e3c", null ],
+    [ "jaw2YAperture", "db/dda/classCML2Accelerator.html#ad1eb9290d5baa2f3dcafd95886fb0eaa", null ],
+    [ "vec_leavesA", "db/dda/classCML2Accelerator.html#ad5a85255dc5fd3af11f2444de577ccb8", null ],
+    [ "vec_leavesB", "db/dda/classCML2Accelerator.html#a50532f91b8e25ba06acbe4cb69c2a2d8", null ]
+];

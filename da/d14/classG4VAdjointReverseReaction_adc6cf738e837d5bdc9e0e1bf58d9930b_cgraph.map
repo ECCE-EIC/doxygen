@@ -1,0 +1,18 @@
+<map id="G4VAdjointReverseReaction::PostStepDoIt" name="G4VAdjointReverseReaction::PostStepDoIt">
+<area shape="rect" id="node2" href="$d2/d84/classG4VProcess.html#a3876f68314f809d4031ec395653040ab" title="G4VProcess::ClearNumberOf\lInteractionLengthLeft" alt="" coords="261,305,477,349"/>
+<area shape="rect" id="node3" href="$d2/d06/classG4ParticleChange.html#ac0e464b1e58e7180b645b4ff9516281a" title="G4ParticleChange::Initialize" alt="" coords="265,373,473,401"/>
+<area shape="rect" id="node17" href="$df/d40/classG4VEmAdjointModel.html#a31d267409e9308dfb765cd3db510f862" title="G4VEmAdjointModel::\lSampleSecondaries" alt="" coords="285,425,453,469"/>
+<area shape="rect" id="node4" href="$d7/d5c/classG4DynamicParticle.html#a25422607b7822f675f845a9d2f7abd39" title="G4DynamicParticle::\lGetCharge" alt="" coords="555,5,713,49"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="525,73,743,101"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="541,125,727,153"/>
+<area shape="rect" id="node7" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="555,177,713,221"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a70077e82fa447fe7695784ddf733a647" title="G4Track::GetLocalTime" alt="" coords="545,245,723,273"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#a3b96233fcb3d586d7bf8b60718faeb00" title="G4DynamicParticle::\lGetMagneticMoment" alt="" coords="553,297,715,341"/>
+<area shape="rect" id="node10" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="555,365,713,409"/>
+<area shape="rect" id="node11" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="543,433,725,477"/>
+<area shape="rect" id="node12" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="555,501,713,545"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="553,569,715,597"/>
+<area shape="rect" id="node14" href="$d7/d5c/classG4DynamicParticle.html#a40ba834a495be7dac050257449e20211" title="G4DynamicParticle::\lGetProperTime" alt="" coords="555,621,713,665"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="553,689,715,717"/>
+<area shape="rect" id="node16" href="$d6/d6c/classG4VParticleChange.html#a87dc2247a22d7c2ac0422efa03bbae75" title="G4VParticleChange::\lInitialize" alt="" coords="554,741,714,785"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="G4FissLib" name="G4FissLib">
+<area shape="rect" id="node2" href="$db/d92/classG4HadronicInteraction.html" title="G4HadronicInteraction" alt="" coords="4230,615,4403,643"/>
+<area shape="rect" id="node3" href="$dd/d4a/classG4HadFinalState.html" title="G4HadFinalState" alt="" coords="4823,499,4957,527"/>
+<area shape="rect" id="node5" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="4813,357,4967,385"/>
+<area shape="rect" id="node6" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html" title="CLHEP::HepLorentzRotation" alt="" coords="4991,357,5197,385"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="3593,357,3688,385"/>
+<area shape="rect" id="node9" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="2723,207,2803,235"/>
+<area shape="rect" id="node18" href="$de/d80/classG4Element.html" title="G4Element" alt="" coords="3401,357,3499,385"/>
+<area shape="rect" id="node20" href="$da/de9/classG4ParticleHPChannel.html" title="G4ParticleHPChannel" alt="" coords="2099,615,2263,643"/>
+<area shape="rect" id="node21" href="$d7/d13/classG4StableIsotopes.html" title="G4StableIsotopes" alt="" coords="2403,437,2543,465"/>
+<area shape="rect" id="node23" href="$db/d66/classG4ParticleHPNames.html" title="G4ParticleHPNames" alt="" coords="2122,357,2277,385"/>
+<area shape="rect" id="node24" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="2914,357,3069,385"/>
+<area shape="rect" id="node27" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="2933,499,3058,527"/>
+<area shape="rect" id="node30" href="$d4/ded/classG4ParticleHPIsoData.html" title="G4ParticleHPIsoData" alt="" coords="1667,499,1825,527"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="2719,99,2808,127"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="2692,5,2835,49"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="3761,207,3893,235"/>
+<area shape="rect" id="node25" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="3214,499,3366,527"/>
+<area shape="rect" id="node28" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="3535,499,3653,527"/>
+<area shape="rect" id="node15" href="$d8/d46/classG4HadronicInteractionRegistry.html" title="G4HadronicInteractionRegistry" alt="" coords="4223,799,4453,827"/>
+<area shape="rect" id="node19" href="$da/dd8/classG4IonisParamElm.html" title="G4IonisParamElm" alt="" coords="3273,207,3413,235"/>
+<area shape="rect" id="node22" href="$df/d5c/classG4ParticleHPFinalState.html" title="G4ParticleHPFinalState" alt="" coords="1904,499,2079,527"/>
+<area shape="rect" id="node39" href="$d9/d0b/classG4FissionLibrary.html" title="G4FissionLibrary" alt="" coords="1058,615,1191,643"/>
+<area shape="rect" id="node37" href="$db/d28/classG4WendtFissionFragmentGenerator.html" title="G4WendtFissionFragmentGenerator" alt="" coords="2311,499,2573,527"/>
+<area shape="rect" id="node26" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="2931,207,3063,235"/>
+<area shape="rect" id="node29" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4HadFinalState * \&gt;" alt="" coords="1855,357,2091,385"/>
+<area shape="rect" id="node31" href="$dc/df1/classG4ParticleHPVector.html" title="G4ParticleHPVector" alt="" coords="1134,207,1286,235"/>
+<area shape="rect" id="node40" href="$da/da5/classG4ParticleHPPhotonDist.html" title="G4ParticleHPPhotonDist" alt="" coords="776,499,959,527"/>
+<area shape="rect" id="node42" href="$dd/d9f/classG4ParticleHPPartial.html" title="G4ParticleHPPartial" alt="" coords="792,357,943,385"/>
+<area shape="rect" id="node46" href="$da/d7e/classG4ParticleHPParticleYield.html" title="G4ParticleHPParticleYield" alt="" coords="1293,437,1484,465"/>
+<area shape="rect" id="node32" href="$d3/dae/classG4ParticleHPHash.html" title="G4ParticleHPHash" alt="" coords="1432,99,1575,127"/>
+<area shape="rect" id="node33" href="$d7/d30/classG4ParticleHPDataPoint.html" title="G4ParticleHPDataPoint" alt="" coords="1019,99,1193,127"/>
+<area shape="rect" id="node35" href="$dc/d8c/classG4InterpolationManager.html" title="G4InterpolationManager" alt="" coords="385,99,571,127"/>
+<area shape="rect" id="node41" href="$d8/d10/classG4ParticleHPLegendreTable.html" title="G4ParticleHPLegendreTable" alt="" coords="573,269,780,297"/>
+<area shape="rect" id="node44" href="$d7/d3a/classG4ParticleHPAngularP.html" title="G4ParticleHPAngularP" alt="" coords="469,207,639,235"/>
+<area shape="rect" id="node36" href="$d8/dd6/classG4ParticleHPInterpolator.html" title="G4ParticleHPInterpolator" alt="" coords="807,99,995,127"/>
+<area shape="rect" id="node48" href="$d2/d58/classG4ParticleHPAngular.html" title="G4ParticleHPAngular" alt="" coords="993,499,1155,527"/>
+<area shape="rect" id="node43" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; std::vector\l\&lt; G4int \&gt; * \&gt;" alt="" coords="1178,349,1349,393"/>
+<area shape="rect" id="node45" href="$de/d26/classG4ParticleHPFastLegendre.html" title="G4ParticleHPFastLegendre" alt="" coords="5,357,204,385"/>
+<area shape="rect" id="node47" href="$dd/dfa/classG4fissionEvent.html" title="G4fissionEvent" alt="" coords="1393,499,1517,527"/>
+<area shape="rect" id="node49" href="$d3/d6d/classG4ParticleHPFissionERelease.html" title="G4ParticleHPFissionERelease" alt="" coords="277,499,492,527"/>
+<area shape="rect" id="node50" href="$d2/d96/classG4ParticleHPEnergyDistribution.html" title="G4ParticleHPEnergyDistribution" alt="" coords="517,499,751,527"/>
+</map>

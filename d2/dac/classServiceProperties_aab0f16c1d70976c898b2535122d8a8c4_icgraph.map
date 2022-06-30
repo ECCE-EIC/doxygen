@@ -1,0 +1,15 @@
+<map id="ServiceProperties::get_rad_len_iron" name="ServiceProperties::get_rad_len_iron">
+<area shape="rect" id="node2" href="$d2/da4/G4__TrackingSupport_8C.html#a6b10fea36a8d1c5be99a01b719329c5a" title="get_thickness" alt="" coords="200,217,315,245"/>
+<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#ab4d954a3aed4125a364a0a6a4fc4524a" title="PHG4TpcDigitizer::Calculate\lCylinderCellADCScale" alt="" coords="384,5,595,49"/>
+<area shape="rect" id="node5" href="$dd/da0/classPHG4InttDigitizer.html#a8fd9fb7a2b7bfb6f247f60cfdac8ea00" title="PHG4InttDigitizer::\lCalculateLadderCellADCScale" alt="" coords="379,73,600,117"/>
+<area shape="rect" id="node7" href="$d5/d86/classInttClusterizer.html#a71f7f1ec129bd2113211bf2426b4e6b6" title="InttClusterizer::Calculate\lLadderThresholds" alt="" coords="395,141,583,185"/>
+<area shape="rect" id="node9" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a5d52892d52c8020e2e81e981b47a1220" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="363,209,616,253"/>
+<area shape="rect" id="node10" href="$d1/d05/classPHG4FullProjSpacalDetector.html#afd4c65353754d4baff1ed614a2aca247" title="PHG4FullProjSpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="384,277,595,321"/>
+<area shape="rect" id="node11" href="$d2/da4/G4__TrackingSupport_8C.html#af90375d66c6ab66ea233050c2fa1e64e" title="TrackingServiceCone" alt="" coords="407,345,571,373"/>
+<area shape="rect" id="node14" href="$d2/da4/G4__TrackingSupport_8C.html#a7d16932f3e8af86575e5a9c267b440f2" title="TrackingServiceCylinder" alt="" coords="397,397,582,425"/>
+<area shape="rect" id="node4" href="$d1/dc5/classPHG4TpcDigitizer.html#a0e3ca61d6e45c84a3fc46ec6f44c17cc" title="run initialization" alt="" coords="664,13,859,41"/>
+<area shape="rect" id="node6" href="$dd/da0/classPHG4InttDigitizer.html#a1add524430b73f19c7dc69184d243742" title="run initialization" alt="" coords="689,73,834,117"/>
+<area shape="rect" id="node8" href="$d5/d86/classInttClusterizer.html#a0bfadbdd17acfa1c86c51f8356e5925b" title="run initialization" alt="" coords="675,149,847,177"/>
+<area shape="rect" id="node12" href="$d2/da4/G4__TrackingSupport_8C.html#ade1a0fdf1152b6ea50ccbdfc286b6467" title="TrackingService" alt="" coords="697,371,826,399"/>
+<area shape="rect" id="node13" href="$d3/dad/macros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="907,371,987,399"/>
+</map>

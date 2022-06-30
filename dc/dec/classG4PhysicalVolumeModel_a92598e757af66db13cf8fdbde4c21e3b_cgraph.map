@@ -1,0 +1,16 @@
+<map id="G4PhysicalVolumeModel::DescribeSolid" name="G4PhysicalVolumeModel::DescribeSolid">
+<area shape="rect" id="node2" href="$da/d36/classG4VGraphicsScene.html#a473c96b0100e6d3e9fc5fa2e5195fdcb" title="G4VGraphicsScene::AddPrimitive" alt="" coords="250,5,495,33"/>
+<area shape="rect" id="node3" href="$da/d36/classG4VGraphicsScene.html#a425358c163e068656f022edb9f42f5cf" title="G4VGraphicsScene::BeginPrimitives" alt="" coords="240,57,505,85"/>
+<area shape="rect" id="node4" href="$da/d36/classG4VGraphicsScene.html#aa7366c0cca87995f08b1be04dc436225" title="G4VGraphicsScene::EndPrimitives" alt="" coords="247,109,499,137"/>
+<area shape="rect" id="node5" href="$dc/df1/classG4VisAttributes.html#ae6c7d6b2c9abefe16777b45fde970ab8" title="G4VisAttributes::GetForced\lLineSegmentsPerCircle" alt="" coords="271,161,475,205"/>
+<area shape="rect" id="node6" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="295,229,451,257"/>
+<area shape="rect" id="node7" href="$d3/d94/classHepPolyhedron.html#acbcb6dc237db60077c47b765b766e913" title="HepPolyhedron::GetNoFacets" alt="" coords="263,281,482,309"/>
+<area shape="rect" id="node8" href="$da/d34/classG4VSolid.html#a68896800a2a21a1aa64716f51eb7ca53" title="G4VSolid::GetPolyhedron" alt="" coords="277,333,468,361"/>
+<area shape="rect" id="node9" href="$dd/de6/classHepGeom_1_1Transform3D.html#a87d9dffaed68a0a994f4afe201fa0588" title="HepGeom::Transform3D\l::inverse" alt="" coords="281,385,465,429"/>
+<area shape="rect" id="node11" href="$dc/df1/classG4VisAttributes.html#a02eaf9b60d1e6c810bba141178cccf42" title="G4VisAttributes::IsForce\lLineSegmentsPerCircle" alt="" coords="281,453,464,497"/>
+<area shape="rect" id="node12" href="$da/d36/classG4VGraphicsScene.html#a4648bd26e65d889558e5d8e4c1644afe" title="G4VGraphicsScene::PostAdd\lSolid" alt="" coords="266,521,479,565"/>
+<area shape="rect" id="node13" href="$da/d36/classG4VGraphicsScene.html#aecdffe55b4bc148c6e8cb6140b5e0fc1" title="G4VGraphicsScene::PreAdd\lSolid" alt="" coords="269,589,476,633"/>
+<area shape="rect" id="node14" href="$d3/d94/classHepPolyhedron.html#ab194e03577b2e8f069db91166cf74abb" title="HepPolyhedron::ResetNumber\lOfRotationSteps" alt="" coords="260,657,485,701"/>
+<area shape="rect" id="node15" href="$d3/d94/classHepPolyhedron.html#a167c0bee415cf4e7d296d90f0899588e" title="HepPolyhedron::SetNumber\lOfRotationSteps" alt="" coords="267,725,478,769"/>
+<area shape="rect" id="node10" href="$dd/de6/classHepGeom_1_1Transform3D.html#a51d48f51757240f5e85b8fef7549f072" title="HepGeom::Transform3D\l::Transform3D" alt="" coords="553,385,737,429"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4KaonPlus::Definition" name="G4KaonPlus::Definition">
+<area shape="rect" id="node2" href="$d8/d80/classG4KaonPlus.html#a4518cb04f0117efac6a558fc77269b25" title="G4KaonPlus::KaonPlus" alt="" coords="262,1201,434,1229"/>
+<area shape="rect" id="node41" href="$d8/d80/classG4KaonPlus.html#a5251d30dec89bdbcbb5b9942c40a5408" title="G4KaonPlus::KaonPlusDefinition" alt="" coords="229,2528,467,2556"/>
+<area shape="rect" id="node49" href="$d2/d5e/classG4InuclElementaryParticle.html#a0800b546dac0295a975e602d932b5032" title="G4InuclElementaryParticle\l::makeDefinition" alt="" coords="248,2580,448,2624"/>
+<area shape="rect" id="node50" href="$d2/d5e/classG4InuclElementaryParticle.html#a975509a3a0676037e3d904d4e17ee9b5" title="G4InuclElementaryParticle\l::type" alt="" coords="248,2648,448,2692"/>
+<area shape="rect" id="node3" href="$d9/dcd/classKaonPhysics.html#a2ffc45b1834d4e86a42ea1cf20e14994" title="KaonPhysics::ConstructProcess" alt="" coords="549,5,779,33"/>
+<area shape="rect" id="node4" href="$dc/d10/classG4KaonBuilder.html#a93fde5be4f3dd80f7f02efdf5333f15e" title="G4KaonBuilder::Build" alt="" coords="581,57,747,85"/>
+<area shape="rect" id="node5" href="$d2/d0b/classG4PiKBuilder.html#a5947c41a0686e5d373639582af0056e7" title="G4PiKBuilder::Build" alt="" coords="588,109,740,137"/>
+<area shape="rect" id="node6" href="$d3/d2b/classG4HadronPhysicsFTFQGSP__BERT.html#a2ab54e472f8197096d0f22e51b8afa26" title="G4HadronPhysicsFTFQGSP\l_BERT::ConstructProcess" alt="" coords="563,161,765,205"/>
+<area shape="rect" id="node7" href="$d9/d3e/classG4HadronPhysicsShielding.html#a25ab90ab616020899e9fa26cf2365d84" title="G4HadronPhysicsShielding\l::ExtraConfiguration" alt="" coords="563,229,765,273"/>
+<area shape="rect" id="node8" href="$df/deb/classG4HadronPhysicsShieldingLEND.html#a330f6f0a37b6740f84b093f9a187d833" title="G4HadronPhysicsShielding\lLEND::ExtraConfiguration" alt="" coords="563,297,765,341"/>
+<area shape="rect" id="node9" href="$d8/d9a/classG4ee2KChargedModel.html#a6ec1805b1dc7876658dee276f98d9955" title="G4ee2KChargedModel\l::G4ee2KChargedModel" alt="" coords="574,365,754,409"/>
+<area shape="rect" id="node10" href="$d8/d9a/classG4ee2KChargedModel.html#a7af2d247eedcc05ad1773921c024d655" title="G4ee2KChargedModel\l::SampleSecondaries" alt="" coords="579,433,749,477"/>
+<area shape="rect" id="node11" href="$d3/d01/classG4eeCrossSections.html#a8f9f402e56e6f35bc71fe79a439b78c6" title="G4eeCrossSections::\lInitialise" alt="" coords="584,501,744,545"/>
+<area shape="rect" id="node12" href="$da/dc3/classG4hIonisation.html#ae7d3d3e863c8d96c096e5a37e90d1bcb" title="G4hIonisation::Initialise\lEnergyLossProcess" alt="" coords="574,569,754,613"/>
+<area shape="rect" id="node13" href="$d6/dee/classG4ChipsKaonPlusElasticXS.html#a197c7996ffee4b85a27cfc9ea4ffee71" title="G4ChipsKaonPlusElasticXS\l::G4ChipsKaonPlusElasticXS" alt="" coords="559,637,769,681"/>
+<area shape="rect" id="node14" href="$da/d5a/classG4ChipsKaonPlusInelasticXS.html#a94949428bd932002ccdadfc97bf135e2" title="G4ChipsKaonPlusInelastic\lXS::G4ChipsKaonPlusInelasticXS" alt="" coords="544,705,784,749"/>
+<area shape="rect" id="node15" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#ac0b8824ac3744c3eb25ed1faa3c0adb5" title="G4ComponentGGHadronNucleus\lXsc::G4ComponentGGHadronNucleusXsc" alt="" coords="515,773,813,817"/>
+<area shape="rect" id="node16" href="$d8/d11/classG4HadronNucleonXsc.html#ada7e5ed04ed3560785c899fdd49add24" title="G4HadronNucleonXsc\l::G4HadronNucleonXsc" alt="" coords="575,841,753,885"/>
+<area shape="rect" id="node17" href="$da/d41/classG4HadronicProcessStore.html#a539ecb97dc9e26aaf8ab08484abfaf2f" title="G4HadronicProcessStore\l::DumpHtml" alt="" coords="571,909,757,953"/>
+<area shape="rect" id="node18" href="$da/d5f/classG4KaonPlusField.html#acf2e4b5448c9e5d8c92a514a90967c3a" title="G4KaonPlusField::GetField" alt="" coords="565,977,763,1005"/>
+<area shape="rect" id="node19" href="$d0/d62/classG4RKPropagation.html#aaa266506a608131691d890ff102dd63d" title="G4RKPropagation::Init" alt="" coords="579,1029,749,1057"/>
+<area shape="rect" id="node20" href="$dd/d0b/classG4DiffuseElastic.html#a6a84d7cc5dd29d64bb43148c07a9b7bb" title="G4DiffuseElastic::IsApplicable" alt="" coords="553,1081,775,1109"/>
+<area shape="rect" id="node21" href="$df/d46/classG4DiffuseElasticV2.html#a659914e237f38eee8d5ba73de9d4d203" title="G4DiffuseElasticV2\l::IsApplicable" alt="" coords="589,1133,739,1177"/>
+<area shape="rect" id="node22" href="$d3/d61/classG4hhElastic.html#a42c03ca1bf79f8e769d39f1f26c22647" title="G4hhElastic::IsApplicable" alt="" coords="568,1201,760,1229"/>
+<area shape="rect" id="node23" href="$d8/dfa/classG4ChargeExchange.html#a47489ab0a25472883353f21786538082" title="G4ChargeExchange::G4Charge\lExchange" alt="" coords="548,1253,780,1297"/>
+<area shape="rect" id="node24" href="$d9/df3/classG4ChargeExchangeProcess.html#af223e14c125ef760e1eee5c858c779e8" title="G4ChargeExchangeProcess\l::G4ChargeExchangeProcess" alt="" coords="557,1321,771,1365"/>
+<area shape="rect" id="node25" href="$d3/d61/classG4hhElastic.html#ab1b3829641dde6d16456b9066f99ee0f" title="G4hhElastic::Initialise" alt="" coords="580,1389,748,1417"/>
+<area shape="rect" id="node26" href="$d3/d61/classG4hhElastic.html#a97cd2b280e0b429cb435382f6de32623" title="G4hhElastic::SampleInvariantT" alt="" coords="549,1441,779,1469"/>
+<area shape="rect" id="node27" href="$d3/d61/classG4hhElastic.html#a66962bc3d7ca54c485b33b6d406f4fae" title="G4hhElastic::SampleBisectionalT" alt="" coords="541,1493,787,1521"/>
+<area shape="rect" id="node28" href="$d6/d6c/classG4LMsdGenerator.html#ac6908142dea71be15abaf88eae8842e6" title="G4LMsdGenerator::IsApplicable" alt="" coords="547,1545,781,1573"/>
+<area shape="rect" id="node29" href="$d6/d6c/classG4LMsdGenerator.html#aaf5310305f9b635f31a0c8a0a9c25a0c" title="G4LMsdGenerator::SampleMx" alt="" coords="553,1597,775,1625"/>
+<area shape="rect" id="node30" href="$d8/d9d/classG4INCLXXInterface.html#ac70939bf7aac77ddfc76b8de4627dfd8" title="Convert G4ParticleDefinition to corresponding INCL particle type." alt="" coords="585,1649,743,1693"/>
+<area shape="rect" id="node31" href="$d8/d9d/classG4INCLXXInterface.html#aff2f179c54714416beb19b948b1dd804" title="Convert A and Z to a G4ParticleDefinition." alt="" coords="579,1717,749,1761"/>
+<area shape="rect" id="node32" href="$da/d6f/classG4RPGAntiLambdaInelastic.html#ac42198d4bf0e29acd23ff887fd452f7e" title="G4RPGAntiLambdaInelastic\l::Cascade" alt="" coords="561,1785,767,1829"/>
+<area shape="rect" id="node33" href="$db/d76/classG4RPGAntiSigmaMinusInelastic.html#aecdec01179daeecc240b69ef5d4c4a78" title="G4RPGAntiSigmaMinusInelastic\l::Cascade" alt="" coords="547,1853,781,1897"/>
+<area shape="rect" id="node34" href="$d3/d09/classG4RPGAntiSigmaPlusInelastic.html#a3a106c83fbc6254418c08f66c3b26890" title="G4RPGAntiSigmaPlusInelastic\l::Cascade" alt="" coords="553,1921,775,1965"/>
+<area shape="rect" id="node35" href="$d1/dd5/classG4RPGInelastic.html#afcdb7977cdba16dc91549d792056f7c6" title="G4RPGInelastic::G4RPGInelastic" alt="" coords="545,1989,783,2017"/>
+<area shape="rect" id="node36" href="$d1/dd5/classG4RPGInelastic.html#abfaa2b218586138cd65de9a1a5858df2" title="G4RPGInelastic::MarkLeading\lStrangeParticle" alt="" coords="554,2041,774,2085"/>
+<area shape="rect" id="node37" href="$d1/dd5/classG4RPGInelastic.html#a7d138daa28d129df9e5d27863bbc6b4c" title="G4RPGInelastic::Calculate\lMomenta" alt="" coords="861,2072,1057,2116"/>
+<area shape="rect" id="node38" href="$dc/d0e/classG4RPGKZeroInelastic.html#a0d808cc678e7e2e3b4cc6abefad19393" title="G4RPGKZeroInelastic\l::Cascade" alt="" coords="582,2161,746,2205"/>
+<area shape="rect" id="node39" href="$d7/d14/classG4RPGStrangeProduction.html#a7cda2cb6cf46a618ec2c50c8d97b06e5" title="G4RPGStrangeProduction\l::ReactionStage" alt="" coords="567,2229,761,2273"/>
+<area shape="rect" id="node40" href="$d0/dbf/classG4LightMedia.html#ac40d77d899be2c1f975a1bb869377442" title="G4LightMedia::KaonZeroShort\lExchange" alt="" coords="551,2297,777,2341"/>
+<area shape="rect" id="node42" href="$d2/daa/classPhysicsList.html#af7906507122c985d2da3e61c56efe60e" title="PhysicsList::ConstructParticle" alt="" coords="555,2365,773,2393"/>
+<area shape="rect" id="node43" href="$de/d1d/classGammaKnifeParticles.html#abdcbefce2959e072d239b17f39560643" title="GammaKnifeParticles\l::ConstructParticle" alt="" coords="581,2417,747,2461"/>
+<area shape="rect" id="node44" href="$d8/d34/classGammaRayTelHadronPhysics.html#aa4a70f146dcf73142cf139780968c656" title="GammaRayTelHadronPhysics\l::ConstructProcess" alt="" coords="555,2485,773,2529"/>
+<area shape="rect" id="node45" href="$d4/dd5/classG4AdjointPhysicsList.html#a1a9330873f1e97cdcda72bc9e50202e4" title="G4AdjointPhysicsList\l::ConstructMesons" alt="" coords="583,2553,745,2597"/>
+<area shape="rect" id="node46" href="$db/db9/classPhysListEm5DStandard.html#a4eaf5b2f1f13fe0bdba8d9d61efe3ef2" title="PhysListEm5DStandard\l::ConstructParticle" alt="" coords="575,2621,753,2665"/>
+<area shape="rect" id="node47" href="$d7/dfe/classPhysListEm19DStandard.html#aa29195cb5bb2d9080b451393204ef6e2" title="PhysListEm19DStandard\l::ConstructParticle" alt="" coords="571,2689,757,2733"/>
+<area shape="rect" id="node48" href="$d7/d8d/classG4EmStandardPhysics__option4__channeling.html#a5631d6bc8032e89237bbad93e42a21b5" title="G4EmStandardPhysics\l_option4_channeling\l::ConstructParticle" alt="" coords="577,2757,751,2817"/>
+</map>

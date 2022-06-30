@@ -1,0 +1,17 @@
+<map id="G4ParticleChangeForDecay::ProposeLocalTime" name="G4ParticleChangeForDecay::ProposeLocalTime">
+<area shape="rect" id="node2" href="$dc/d8e/classG4RadioactiveDecayBase.html#a59e77fad8836a513c4834fff9c42f5f1" title="G4RadioactiveDecayBase\l::DecayAnalog" alt="" coords="259,141,453,185"/>
+<area shape="rect" id="node3" href="$d0/dfa/classG4Radioactivation.html#a5f3f52eb546d59390dd2e633ebc1918f" title="G4Radioactivation::\lDecayIt" alt="" coords="545,73,698,117"/>
+<area shape="rect" id="node9" href="$dc/deb/classG4Decay.html#a3141051aeee3264a15ab5cb6d785e0bc" title="G4Decay::DecayIt" alt="" coords="285,261,427,289"/>
+<area shape="rect" id="node14" href="$df/d5e/classG4RadioactiveDecay.html#a99665f00c3be293c00a1e94108faf7fb" title="G4RadioactiveDecay\l::DecayIt" alt="" coords="275,417,437,461"/>
+<area shape="rect" id="node6" href="$dc/d8e/classG4RadioactiveDecayBase.html#a6ccd9cb11bb27fd2eee79015112793c9" title="G4RadioactiveDecayBase\l::DecayIt" alt="" coords="524,141,719,185"/>
+<area shape="rect" id="node4" href="$d0/dfa/classG4Radioactivation.html#a5e992a9701e77174b5815b47b8aea8a4" title="G4Radioactivation::\lAtRestDoIt" alt="" coords="810,5,963,49"/>
+<area shape="rect" id="node5" href="$d0/dfa/classG4Radioactivation.html#a9346a1112a2666c53aa9cf34646494ff" title="G4Radioactivation::\lPostStepDoIt" alt="" coords="810,73,963,117"/>
+<area shape="rect" id="node7" href="$dc/d8e/classG4RadioactiveDecayBase.html#a57376089a83ff548766bd51f4dfd125e" title="G4RadioactiveDecayBase\l::AtRestDoIt" alt="" coords="789,141,984,185"/>
+<area shape="rect" id="node8" href="$dc/d8e/classG4RadioactiveDecayBase.html#a79c116f8e803847749467c6182c6adfb" title="G4RadioactiveDecayBase\l::PostStepDoIt" alt="" coords="789,209,984,253"/>
+<area shape="rect" id="node10" href="$dc/d66/classG4DecayWithSpin.html#a789c12b2e8ad451a8f901e5818f4cad1" title="G4DecayWithSpin::AtRestDoIt" alt="" coords="509,209,733,237"/>
+<area shape="rect" id="node11" href="$dc/deb/classG4Decay.html#a79b8317ea07f17afc96989c2b5ec2e4e" title="G4Decay::AtRestDoIt" alt="" coords="540,261,703,289"/>
+<area shape="rect" id="node12" href="$dc/d66/classG4DecayWithSpin.html#adc3e8bae39e0363c3de8aa9799e00b9a" title="G4DecayWithSpin::PostStepDoIt" alt="" coords="501,313,741,341"/>
+<area shape="rect" id="node13" href="$dc/deb/classG4Decay.html#afa034d2998c54b9c084981c4340a9ad5" title="G4Decay::PostStepDoIt" alt="" coords="532,365,711,393"/>
+<area shape="rect" id="node15" href="$df/d5e/classG4RadioactiveDecay.html#a0fb4257aca98bf87d751a0021dcf4639" title="G4RadioactiveDecay\l::AtRestDoIt" alt="" coords="540,417,703,461"/>
+<area shape="rect" id="node16" href="$df/d5e/classG4RadioactiveDecay.html#aff9187bc33e0500c36b77d5fe7ffeb95" title="G4RadioactiveDecay\l::PostStepDoIt" alt="" coords="540,485,703,529"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="tutorials/blob/master/AnaTutorialECCE/macro/G4Setup_EICDetector.C" name="tutorials/blob/master/AnaTutorialECCE/macro/G4Setup_EICDetector.C">
+<area shape="rect" id="node2" href="$dc/dfe/GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="2432,213,2572,241"/>
+<area shape="rect" id="node3" href="$df/d47/coresoftware_2blob_2master_2simulation_2g4simulation_2g4decayer_2EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="2214,305,2414,333"/>
+<area shape="rect" id="node6" href="$d4/dcd/G4__BlackHole_8C.html" title="G4_BlackHole.C" alt="" coords="3513,121,3641,149"/>
+<area shape="rect" id="node7" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="3548,205,3749,249"/>
+<area shape="rect" id="node8" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="2235,213,2393,241"/>
+<area shape="rect" id="node10" href="$d1/d40/G4__BECAL_8C.html" title="G4_BECAL.C" alt="" coords="152,121,257,149"/>
+<area shape="rect" id="node19" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="1760,213,1937,241"/>
+<area shape="rect" id="node20" href="$d8/d04/G4__Barrel__EIC_8C.html" title="G4_Barrel_EIC.C" alt="" coords="2113,121,2243,149"/>
+<area shape="rect" id="node21" href="$d8/d4c/G4__CEmc__EIC_8C.html" title="G4_CEmc_EIC.C" alt="" coords="1575,121,1703,149"/>
+<area shape="rect" id="node22" href="$d8/d50/G4__DIRC_8C.html" title="Setup the gas DIRC detector full sim." alt="" coords="2267,121,2361,149"/>
+<area shape="rect" id="node23" href="$d3/d09/G4__DRCALO_8C.html" title="G4_DRCALO.C" alt="" coords="734,121,849,149"/>
+<area shape="rect" id="node24" href="$d1/d38/G4__EEMC_8C.html" title="G4_EEMC.C" alt="" coords="873,121,971,149"/>
+<area shape="rect" id="node25" href="$d3/d45/G4__EEMC__hybrid_8C.html" title="G4_EEMC_hybrid.C" alt="" coords="281,121,430,149"/>
+<area shape="rect" id="node26" href="$da/d5a/G4__EHCAL_8C.html" title="G4_EHCAL.C" alt="" coords="453,121,559,149"/>
+<area shape="rect" id="node27" href="$dd/dc8/G4__FEMC__EIC_8C.html" title="G4_FEMC_EIC.C" alt="" coords="583,121,709,149"/>
+<area shape="rect" id="node28" href="$d8/dc2/G4__FHCAL_8C.html" title="G4_FHCAL.C" alt="" coords="996,121,1101,149"/>
+<area shape="rect" id="node29" href="$d1/db0/G4__FST__EIC_8C.html" title="G4_FST_EIC.C" alt="" coords="4435,121,4548,149"/>
+<area shape="rect" id="node30" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="3369,121,3489,149"/>
+<area shape="rect" id="node31" href="$dc/dda/G4__HcalIn__ref_8C.html" title="G4_HcalIn_ref.C" alt="" coords="1424,121,1551,149"/>
+<area shape="rect" id="node32" href="$d8/d93/G4__HcalOut__ref_8C.html" title="G4_HcalOut_ref.C" alt="" coords="1261,121,1399,149"/>
+<area shape="rect" id="node33" href="$dc/d7e/G4__Input_8C.html" title="G4_Input.C" alt="" coords="4314,121,4410,149"/>
+<area shape="rect" id="node34" href="$d9/d3c/G4__LFHCAL_8C.html" title="G4_LFHCAL.C" alt="" coords="1125,121,1237,149"/>
+<area shape="rect" id="node35" href="$da/d17/G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="3665,121,3777,149"/>
+<area shape="rect" id="node36" href="$d3/df0/G4__Pipe__EIC_8C.html" title="G4_Pipe_EIC.C" alt="" coords="3801,121,3918,149"/>
+<area shape="rect" id="node37" href="$d4/d0f/G4__PlugDoor__EIC_8C.html" title="G4_PlugDoor_EIC.C" alt="" coords="3943,121,4093,149"/>
+<area shape="rect" id="node38" href="$db/dd2/G4__TTL__EIC_8C.html" title="G4_TTL_EIC.C" alt="" coords="4572,121,4685,149"/>
+<area shape="rect" id="node39" href="$d2/da4/G4__TrackingSupport_8C.html" title="G4_TrackingSupport.C" alt="" coords="2641,121,2811,149"/>
+<area shape="rect" id="node40" href="$d1/d31/G4__Tracking__EIC_8C.html" title="G4_Tracking_EIC.C" alt="" coords="1944,121,2089,149"/>
+<area shape="rect" id="node41" href="$da/d69/G4__dRICH_8C.html" title="G4_dRICH.C" alt="" coords="2385,121,2486,149"/>
+<area shape="rect" id="node42" href="$de/d8a/G4__mRICH_8C.html" title="Aerogel mRICH for EIC detector." alt="" coords="2510,121,2617,149"/>
+<area shape="rect" id="node43" href="$d9/d7a/G4__mRwell__EIC_8C.html" title="G4_mRwell_EIC.C" alt="" coords="2835,121,2974,149"/>
+<area shape="rect" id="node44" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html" title="G4_hFarFwdBeamLine\l_EIC.C" alt="" coords="3123,113,3294,157"/>
+<area shape="rect" id="node45" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html" title="G4_hFarBwdBeamLine\l_EIC.C" alt="" coords="4117,113,4289,157"/>
+<area shape="rect" id="node46" href="$d1/dd8/G4__User_8C.html" title="G4_User.C" alt="" coords="1778,121,1869,149"/>
+<area shape="rect" id="node47" href="$d0/d40/G4__World_8C.html" title="G4_World.C" alt="" coords="2999,121,3099,149"/>
+<area shape="rect" id="node48" href="$da/d58/PHG4DstCompressReco_8h.html" title="g4eval/PHG4DstCompressReco.h" alt="" coords="4202,213,4445,241"/>
+<area shape="rect" id="node49" href="$de/d78/PHG4TruthSubsystem_8h.html" title="g4main/PHG4TruthSubsystem.h" alt="" coords="4320,305,4556,333"/>
+<area shape="rect" id="node50" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="4830,205,5022,249"/>
+<area shape="rect" id="node11" href="$d7/d2f/RawTowerDigitizer_8h.html" title="g4calo/RawTowerDigitizer.h" alt="" coords="887,213,1093,241"/>
+<area shape="rect" id="node12" href="$d9/d8a/PHG4BarrelEcalSubsystem_8h.html" title="g4eiccalos/PHG4BarrelEcal\lSubsystem.h" alt="" coords="153,297,355,341"/>
+<area shape="rect" id="node13" href="$de/d2a/RawTowerBuilderByHitIndexBECAL_8h.html" title="g4eiccalos/RawTowerBuilder\lByHitIndexBECAL.h" alt="" coords="621,297,834,341"/>
+<area shape="rect" id="node14" href="$d6/dd5/CaloEvaluator_8h.html" title="Compares reconstructed tracks to truth particles." alt="" coords="1117,213,1295,241"/>
+<area shape="rect" id="node15" href="$da/ddc/RawClusterBuilderkV3_8h.html" title="eiccaloreco/RawClusterBuilderkV3.h" alt="" coords="1471,213,1735,241"/>
+<area shape="rect" id="node16" href="$d9/dc1/RawClusterBuilderHelper_8h.html" title="RawClusterBuilderHelper.h" alt="" coords="1283,305,1484,333"/>
+</map>

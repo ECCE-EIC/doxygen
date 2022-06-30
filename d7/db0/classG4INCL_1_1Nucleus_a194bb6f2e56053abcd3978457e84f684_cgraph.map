@@ -1,0 +1,35 @@
+<map id="G4INCL::Nucleus::fillEventInfo" name="G4INCL::Nucleus::fillEventInfo">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="352,5,463,33"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="322,57,493,85"/>
+<area shape="rect" id="node5" href="$db/d29/classG4INCL_1_1Book.html#a3e603625d5cb1015542d8307b13447c4" title="G4INCL::Book::getAccepted\lCollisions" alt="" coords="304,109,511,153"/>
+<area shape="rect" id="node6" href="$db/d29/classG4INCL_1_1Book.html#a35d3f5f2d5d835b36ff1d84e67f8c0ac" title="G4INCL::Book::getAccepted\lDecays" alt="" coords="304,177,511,221"/>
+<area shape="rect" id="node7" href="$db/d29/classG4INCL_1_1Book.html#add986f9aad19bc78c374aecc764884b3" title="G4INCL::Book::getAvatars" alt="" coords="309,245,505,273"/>
+<area shape="rect" id="node8" href="$db/d29/classG4INCL_1_1Book.html#ae4f4c6d79547f9f8a62843692b75643c" title="G4INCL::Book::getBlocked\lCollisions" alt="" coords="309,297,506,341"/>
+<area shape="rect" id="node9" href="$db/d29/classG4INCL_1_1Book.html#a3eedf297923a5d4595abc4ab89a54d6d" title="G4INCL::Book::getBlocked\lDecays" alt="" coords="309,365,506,409"/>
+<area shape="rect" id="node10" href="$d5/dd3/classG4INCL_1_1Store.html#aad69fa0b425c84bf5a97962767ab7dfb" title="G4INCL::Store::getBook" alt="" coords="317,433,498,461"/>
+<area shape="rect" id="node11" href="$db/d29/classG4INCL_1_1Book.html#ae10b92f86f4e6c391cdb31a959843c0e" title="G4INCL::Book::getEnergyViolation\lInteraction" alt="" coords="282,485,533,529"/>
+<area shape="rect" id="node12" href="$d0/d7f/classG4INCL_1_1Cluster.html#a3b79df53286eea1dec2d6fec9f72c761" title="Get the excitation energy of the cluster." alt="" coords="295,553,520,597"/>
+<area shape="rect" id="node13" href="$d7/db0/classG4INCL_1_1Nucleus.html#a90a17cfc3803170178e3100bad22be15" title="Get the excitation energy of the nucleus." alt="" coords="292,621,523,665"/>
+<area shape="rect" id="node14" href="$db/d29/classG4INCL_1_1Book.html#a79ee8916f6adb9310c83f5dbf5931566" title="G4INCL::Book::getFirstCollision\lIsElastic" alt="" coords="293,689,522,733"/>
+<area shape="rect" id="node15" href="$db/d29/classG4INCL_1_1Book.html#a3f0787759134d5c6378ac7c7cee2d5c4" title="G4INCL::Book::getFirstCollision\lSpectatorMomentum" alt="" coords="293,757,522,801"/>
+<area shape="rect" id="node16" href="$db/d29/classG4INCL_1_1Book.html#aadbe2f805cf20b9629492830f9048c8d" title="G4INCL::Book::getFirstCollision\lSpectatorPosition" alt="" coords="293,825,522,869"/>
+<area shape="rect" id="node17" href="$db/d29/classG4INCL_1_1Book.html#a16bb8eeaff6afa38f225e24175326120" title="G4INCL::Book::getFirstCollisionTime" alt="" coords="276,893,539,921"/>
+<area shape="rect" id="node18" href="$db/d29/classG4INCL_1_1Book.html#ad6d1c64a33c511cb783162dcd3af0de5" title="G4INCL::Book::getFirstCollisionXSec" alt="" coords="276,945,539,973"/>
+<area shape="rect" id="node19" href="$dd/d83/classG4INCL_1_1Particle.html#a8ec20398365f8dbdf6b9363cbfd15820" title="Get the particle kinetic energy." alt="" coords="304,997,511,1041"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="289,1065,526,1093"/>
+<area shape="rect" id="node21" href="$d5/dd3/classG4INCL_1_1Store.html#aad5dde18c393a7dc64c941abc51bf12f" title="G4INCL::Store::getOutgoing\lParticles" alt="" coords="303,1117,511,1161"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="323,1185,492,1213"/>
+<area shape="rect" id="node23" href="$d0/d7f/classG4INCL_1_1Cluster.html#aca30edc93c2b07b78ed340bd2964198c" title="Get the spin of the nucleus." alt="" coords="313,1237,501,1265"/>
+<area shape="rect" id="node24" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="307,1289,507,1317"/>
+<area shape="rect" id="node25" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aad44e9a918044f87556a035e3a6ca66c" title="G4INCL::ThreeVector\l::getX" alt="" coords="326,1341,489,1385"/>
+<area shape="rect" id="node26" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa04968b68a812fe73671ca10d140299b" title="G4INCL::ThreeVector\l::getY" alt="" coords="326,1409,489,1453"/>
+<area shape="rect" id="node27" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a94e3c281f8034bbab51bbad7a0f4a0ee" title="G4INCL::ThreeVector\l::getZ" alt="" coords="326,1477,489,1521"/>
+<area shape="rect" id="node28" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="322,1545,493,1573"/>
+<area shape="rect" id="node29" href="$d7/db0/classG4INCL_1_1Nucleus.html#abf066a1074f8626db5c890bb34694e02" title="Does the nucleus give a cascade remnant?" alt="" coords="293,1597,521,1625"/>
+<area shape="rect" id="node30" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="307,1649,507,1677"/>
+<area shape="rect" id="node31" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a41d24ba01fd12dd8b5fdc4ca592d30e8" title="G4INCL::ThreeVector::phi" alt="" coords="312,1701,503,1729"/>
+<area shape="rect" id="node32" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a9485dc7fa10c1ab521e280037c7b3685" title="G4INCL::ThreeVector\l::theta" alt="" coords="326,1753,489,1797"/>
+<area shape="rect" id="node34" href="$d1/dbe/namespaceG4INCL_1_1Math.html#ae635a004a39ca813cb25c8d763ec5356" title="G4INCL::Math::toDegrees" alt="" coords="311,1821,503,1849"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="587,5,763,33"/>
+<area shape="rect" id="node33" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a5b012aaf575545d58c2125b6819927ff" title="G4INCL::ThreeVector\l::perp" alt="" coords="593,1753,756,1797"/>
+</map>

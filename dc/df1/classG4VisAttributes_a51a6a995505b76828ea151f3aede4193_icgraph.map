@@ -1,0 +1,48 @@
+<map id="G4VisAttributes::SetForceWireframe" name="G4VisAttributes::SetForceWireframe">
+<area shape="rect" id="node2" href="$d6/d84/classPHG4SectorDisplayAction.html#ae7d67132b69778a4baa9b8e284ca4a16" title="ApplyDisplayAction method." alt="" coords="292,5,485,49"/>
+<area shape="rect" id="node3" href="$d8/dc5/classPHG4BarrelEcalDisplayAction.html#ae5bfba24f36cf4fa8d37b296ff059ac5" title="ApplyDisplayAction method." alt="" coords="279,73,498,117"/>
+<area shape="rect" id="node4" href="$df/d03/classPHG4RICHDisplayAction.html#a10eca2ce29264fe4edcdb8e6a55ffcc8" title="ApplyDisplayAction method." alt="" coords="297,141,480,185"/>
+<area shape="rect" id="node5" href="$d7/d14/classPHG4InttDisplayAction.html#aebdec7eba26ef666392089493b757bbc" title="ApplyDisplayAction method." alt="" coords="302,209,475,253"/>
+<area shape="rect" id="node6" href="$de/d47/classPHG4HybridHomogeneousCalorimeterDisplayAction.html#a4326a4cd2dd1e6c1b5d54cd8ff243223" title="ApplyDisplayAction method." alt="" coords="248,277,529,321"/>
+<area shape="rect" id="node7" href="$d4/d9b/classPHG4SpacalDisplayAction.html#aa0b01021ef5f18e17936aa204fdf61f8" title="ApplyDisplayAction method." alt="" coords="291,345,487,389"/>
+<area shape="rect" id="node8" href="$de/d3a/classPHG4ForwardEcalDisplayAction.html#aeb9f32ed50cf6bbd7aadec41265a6a34" title="ApplyDisplayAction method." alt="" coords="272,413,505,457"/>
+<area shape="rect" id="node9" href="$da/dc7/classPHG4TTLDisplayAction.html#a517499f490bc51abefb82deb1e40b0f3" title="ApplyDisplayAction method." alt="" coords="301,481,476,525"/>
+<area shape="rect" id="node10" href="$d2/d25/classPHG4LFHcalDisplayAction.html#a94449957efd36a3de0a93a5c10e682b7" title="ApplyDisplayAction method." alt="" coords="291,549,486,593"/>
+<area shape="rect" id="node11" href="$d9/deb/classPHG4mRICHDetector.html#ae4318da7abe29f98bdd5f8c149eaf8d8" title="PHG4mRICHDetector::\lbuild_lens" alt="" coords="303,617,474,661"/>
+<area shape="rect" id="node12" href="$da/d50/classExN04DetectorConstruction.html#a138659b6ab1b2c11a9e6df0f2345a094" title="ExN04DetectorConstruction\l::Construct" alt="" coords="284,685,493,729"/>
+<area shape="rect" id="node13" href="$d7/de8/classPar01DetectorConstruction.html#af1bbe6a6e244f68de36c38c1150701ae" title="Par01DetectorConstruction\l::Construct" alt="" coords="287,753,490,797"/>
+<area shape="rect" id="node14" href="$dc/d99/classRE01DetectorConstruction.html#a5dfa39bdd2985a31e9eccedafe5ac5ee" title="RE01DetectorConstruction\l::Construct" alt="" coords="289,821,489,865"/>
+<area shape="rect" id="node15" href="$d2/d0a/classRE05DetectorConstruction.html#a91a66d6ff9a1f7e8bab1d62fd183eab1" title="RE05DetectorConstruction\l::Construct" alt="" coords="289,889,489,933"/>
+<area shape="rect" id="node16" href="$d7/dfb/classExUCNDetectorConstruction.html#a1357ab9c563791414e45941df1cd1f6d" title="ExUCNDetectorConstruction\l::Construct" alt="" coords="283,957,494,1001"/>
+<area shape="rect" id="node17" href="$d2/dc7/classdoiPETDetectorConstruction.html#aa1ce34a7014e8c9393581ac12a6be071" title="doiPETDetectorConstruction\l::Construct" alt="" coords="603,1048,813,1092"/>
+<area shape="rect" id="node18" href="$dd/d29/classUltraDetectorConstruction.html#a3528b217068ec6f9aae397a33bb2ccd0" title="UltraDetectorConstruction\l::Construct" alt="" coords="290,1077,487,1121"/>
+<area shape="rect" id="node19" href="$d3/d69/classGammaRayTelDetectorConstruction.html#acda0256d6180ee937d4df6965d7677cf" title="GammaRayTelDetectorConstruction\l::ConstructPayload" alt="" coords="258,1213,519,1257"/>
+<area shape="rect" id="node23" href="$d2/dc7/classdoiPETDetectorConstruction.html#aefc1999ce090030bf2c08617089c813b" title="doiPETDetectorConstruction\l::ConstructPhantom" alt="" coords="283,1145,494,1189"/>
+<area shape="rect" id="node24" href="$dd/d29/classUltraDetectorConstruction.html#a01bdf62eaabc4ea7f4de6c8b80cd7d32" title="UltraDetectorConstruction\l::ConstructReflector" alt="" coords="290,1281,487,1325"/>
+<area shape="rect" id="node26" href="$d7/dfa/classTSDetectorConstruction.html#a9d4215ccb19b305db335fcbc2f4cf4bd" title="TSDetectorConstruction\l::ConstructWorld" alt="" coords="297,1349,480,1393"/>
+<area shape="rect" id="node28" href="$dc/dec/classG4PhysicalVolumeModel.html#a315f8c0031704839fa5a695a46362871" title="G4PhysicalVolumeModel\l::DescribeAndDescend" alt="" coords="295,1417,482,1461"/>
+<area shape="rect" id="node29" href="$d1/d7a/classG4LogicalVolumeModel.html#ad851afa7d1d305d50f20c36ab9dc2d10" title="G4LogicalVolumeModel\l::DescribeSolid" alt="" coords="299,1485,478,1529"/>
+<area shape="rect" id="node30" href="$d6/ddb/classExN04CalorimeterHit.html#ac017e0faade61b4c1cbada3076b9862f" title="ExN04CalorimeterHit\l::Draw" alt="" coords="307,1553,471,1597"/>
+<area shape="rect" id="node31" href="$d8/d09/classRE01CalorimeterHit.html#a63ad35a64fda9be360fddcb7efdf5fd0" title="RE01CalorimeterHit\l::Draw" alt="" coords="311,1621,467,1665"/>
+<area shape="rect" id="node32" href="$df/dc1/classExGflashHit.html#a76f2fe6816d1c95020977530c82994cd" title="ExGflashHit::Draw" alt="" coords="316,1689,461,1717"/>
+<area shape="rect" id="node33" href="$df/d31/classPar01CalorimeterHit.html#a78bd7e7c2b3de61347f21aebd4e726ea" title="Par01CalorimeterHit\l::Draw" alt="" coords="309,1741,468,1785"/>
+<area shape="rect" id="node34" href="$d7/d6d/pymodG4graphics__reps_8cc.html#aeba6fd2eecb0edde4124ebf254e5f1b3" title="export_G4VisAttributes" alt="" coords="300,1809,477,1837"/>
+<area shape="rect" id="node36" href="$db/d2e/classPerspectiveVisAction.html#a2abb7ffa60c499c3d03a09e00a478d02" title="PerspectiveVisAction\l::RoomAndChair" alt="" coords="308,1861,469,1905"/>
+<area shape="rect" id="node38" href="$d8/d02/classG4VisCommandsTouchableSet.html#a435f6e4f19deb0543a7cf53d81bae652" title="G4VisCommandsTouchableSet\l::SetNewValue" alt="" coords="275,1929,503,1973"/>
+<area shape="rect" id="node39" href="$d8/d1a/classCCalG4Able.html#a025d3afa4306953b8b11c9881af02cc5" title="CCalG4Able::setVisType" alt="" coords="298,2019,479,2047"/>
+<area shape="rect" id="node46" href="$d1/da3/classG4EicDircDetector.html#a4b5e28bc27853c64f1a8fb05b72d4ada" title="G4EicDircDetector::\lSetVisualization" alt="" coords="312,2135,465,2179"/>
+<area shape="rect" id="node20" href="$d3/d69/classGammaRayTelDetectorConstruction.html#aaa973f69ead82a92eec1bf6e0969657c" title="GammaRayTelDetectorConstruction\l::Construct" alt="" coords="577,1213,839,1257"/>
+<area shape="rect" id="node21" href="$d3/d69/classGammaRayTelDetectorConstruction.html#a1f2a12dba2c3b4e9fdc9e27bea5a0148" title="GammaRayTelDetectorConstruction\l::UpdateGeometry" alt="" coords="577,1145,839,1189"/>
+<area shape="rect" id="node22" href="$de/d8e/classGammaRayTelDetectorMessenger.html#a7503e9885597da2e8b6b7898d35363d9" title="GammaRayTelDetectorMessenger\l::SetNewValue" alt="" coords="887,1145,1137,1189"/>
+<area shape="rect" id="node25" href="$dd/d29/classUltraDetectorConstruction.html#a962a962de566790d3926f319ce0c8b8a" title="UltraDetectorConstruction\l::SetReflectionType" alt="" coords="609,1281,807,1325"/>
+<area shape="rect" id="node27" href="$d7/dfa/classTSDetectorConstruction.html#aadc85bd04c4d9e366f66efc2008e9392" title="TSDetectorConstruction\l::Construct" alt="" coords="617,1349,799,1393"/>
+<area shape="rect" id="node35" href="$d7/d6d/pymodG4graphics__reps_8cc.html#a6cdbd7d218a7dd2dbf8af93ab132c1b6" title="BOOST_PYTHON_MODULE" alt="" coords="611,1797,805,1825"/>
+<area shape="rect" id="node37" href="$db/d2e/classPerspectiveVisAction.html#ac7e0602d1f9e3313235aa84ff5037407" title="PerspectiveVisAction\l::Draw" alt="" coords="627,1849,789,1893"/>
+<area shape="rect" id="node40" href="$d4/db0/classCCalG4Hcal.html#a58ce3cf3d34847314f27e151e7bc62f2" title="CCalG4Hcal::constructAbsorber\lLayer" alt="" coords="591,2089,825,2133"/>
+<area shape="rect" id="node41" href="$d4/db0/classCCalG4Hcal.html#adb9bad641d50786b8a5e7cd40a6bf8fd" title="CCalG4Hcal::constructIn" alt="" coords="919,2097,1105,2125"/>
+<area shape="rect" id="node42" href="$d6/dd4/classCCalG4Ecal.html#a121bc8e36f3471f9d3c2851f2e6c56c2" title="CCalG4Ecal::constructGlobal" alt="" coords="601,1917,815,1945"/>
+<area shape="rect" id="node44" href="$d7/d1e/classCCalG4Hall.html#a14a9858f4dd754fa142b6d425bb0224f" title="CCalG4Hall::constructIn" alt="" coords="617,1969,799,1997"/>
+<area shape="rect" id="node45" href="$d4/db0/classCCalG4Hcal.html#a4261f00d0d360070c531c3a81f2feb94" title="CCalG4Hcal::constructScintillator\lLayer" alt="" coords="585,2021,831,2065"/>
+<area shape="rect" id="node43" href="$d6/dd4/classCCalG4Ecal.html#a0b060b1162f84cce45b91cec7ba62223" title="CCalG4Ecal::constructIn" alt="" coords="920,1917,1104,1945"/>
+<area shape="rect" id="node47" href="$d1/da3/classG4EicDircDetector.html#a4d775b99872bcc3cc186d19c810f12fa" title="construct" alt="" coords="631,2209,785,2253"/>
+</map>

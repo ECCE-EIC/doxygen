@@ -1,0 +1,51 @@
+<map id="G4eCoulombScatteringModel::SampleSecondaries" name="G4eCoulombScatteringModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a11958fe677bc697f48384d3adf7d0b99" title="G4WentzelOKandVIxSection\l::ComputeElectronCrossSection" alt="" coords="283,5,516,49"/>
+<area shape="rect" id="node3" href="$d9/d5f/classG4WentzelOKandVIxSection.html#abb62954416a85723fa52ac1808d77efb" title="G4WentzelOKandVIxSection\l::ComputeNuclearCrossSection" alt="" coords="284,73,515,117"/>
+<area shape="rect" id="node4" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="322,141,477,185"/>
+<area shape="rect" id="node5" href="$db/d99/classG4eCoulombScatteringModel.html#aa574facb31ba4e913aa87cd6753aec8c" title="G4eCoulombScatteringModel\l::DefineMaterial" alt="" coords="290,329,509,373"/>
+<area shape="rect" id="node8" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="321,261,478,305"/>
+<area shape="rect" id="node9" href="$da/d2b/classG4IonTable.html#a42a4a408a6b7107bb4c5c5560b6b7f80" title="G4IonTable::GetIon" alt="" coords="325,209,474,237"/>
+<area shape="rect" id="node16" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="321,397,478,441"/>
+<area shape="rect" id="node17" href="$d7/d5c/classG4DynamicParticle.html#afa8da8f9376eae2b46b93604e1769906" title="G4DynamicParticle::\lGetLogKineticEnergy" alt="" coords="318,465,481,509"/>
+<area shape="rect" id="node18" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="308,533,491,577"/>
+<area shape="rect" id="node19" href="$d9/d5f/classG4WentzelOKandVIxSection.html#af72683203cd9a37c3db4d7126ac96350" title="G4WentzelOKandVIxSection\l::GetMomentumSquare" alt="" coords="294,601,505,645"/>
+<area shape="rect" id="node20" href="$d3/df1/classG4NucleiProperties.html#acfcf06bdfd3034735124c76e06dd3794" title="G4NucleiProperties\l::GetNuclearMass" alt="" coords="913,960,1063,1004"/>
+<area shape="rect" id="node22" href="$de/d80/classG4Element.html#ac5960b7377f4d3b3aefd1e5c9aad601c" title="G4Element::GetZasInt" alt="" coords="313,721,485,749"/>
+<area shape="rect" id="node23" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="295,773,504,817"/>
+<area shape="rect" id="node24" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc" title="G4ParticleChangeForGamma\l::ProposeMomentumDirection" alt="" coords="289,961,510,1005"/>
+<area shape="rect" id="node28" href="$d6/d6c/classG4VParticleChange.html#a63dc08fa8006a2182251de84ec09a49f" title="G4VParticleChange::\lProposeNonIonizingEnergyDeposit" alt="" coords="272,893,527,937"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="319,1029,479,1073"/>
+<area shape="rect" id="node32" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="619,1093,787,1121"/>
+<area shape="rect" id="node33" href="$d9/d5f/classG4WentzelOKandVIxSection.html#ae119f596a182f6a0f77b40a8d63b9bca" title="G4WentzelOKandVIxSection\l::SampleSingleScattering" alt="" coords="294,1273,505,1317"/>
+<area shape="rect" id="node42" href="$d3/dc1/classG4VEmModel.html#a98cbc337083bd7239e441b7821436116" title="G4VEmModel::SelectIsotope\lNumber" alt="" coords="293,1736,505,1780"/>
+<area shape="rect" id="node45" href="$d3/dc1/classG4VEmModel.html#ac587d8b184949f40bb3f1cd92bfe8b65" title="G4VEmModel::SelectTargetAtom" alt="" coords="279,669,519,697"/>
+<area shape="rect" id="node46" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852" title="G4ParticleChangeForGamma\l::SetProposedKineticEnergy" alt="" coords="291,1409,507,1453"/>
+<area shape="rect" id="node47" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a031c21558a93bdab8a9e5985fdad9a6a" title="G4WentzelOKandVIxSection\l::SetTargetMass" alt="" coords="597,1676,808,1720"/>
+<area shape="rect" id="node48" href="$d9/d5f/classG4WentzelOKandVIxSection.html#ab03f20d52d033b6c4ae0a04c9da3afc6" title="G4WentzelOKandVIxSection\l::SetupKinematic" alt="" coords="294,1529,505,1573"/>
+<area shape="rect" id="node49" href="$db/d99/classG4eCoulombScatteringModel.html#af195b0325ad75c3feba9a0a5e527cb2b" title="G4eCoulombScatteringModel\l::SetupParticle" alt="" coords="290,1597,509,1641"/>
+<area shape="rect" id="node50" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a00593ce3c58366b18ea5e42251f3e654" title="G4WentzelOKandVIxSection\l::SetupTarget" alt="" coords="294,1341,505,1385"/>
+<area shape="rect" id="node6" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="617,547,789,591"/>
+<area shape="rect" id="node7" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="617,365,789,409"/>
+<area shape="rect" id="node10" href="$da/d2b/classG4IonTable.html#a7b66f00a9bb4e77db26564d546787ea7" title="G4IonTable::GetVerboseLevel" alt="" coords="879,223,1097,251"/>
+<area shape="rect" id="node11" href="$da/d2b/classG4IonTable.html#a89e95d4c3fd5a40920821debc4aa794a" title="G4IonTable::FindIon" alt="" coords="626,261,779,289"/>
+<area shape="rect" id="node12" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="935,300,1041,328"/>
+<area shape="rect" id="node13" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="591,53,815,81"/>
+<area shape="rect" id="node14" href="$da/d2b/classG4IonTable.html#af97ef452b41db7474cf898b06f36eea3" title="G4IonTable::FindIonInMaster" alt="" coords="596,105,809,133"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a97406ce9c69ca78c18bfb709ef3c096d" title="G4IonTable::InsertWorker" alt="" coords="607,157,799,185"/>
+<area shape="rect" id="node21" href="$d3/df1/classG4NucleiProperties.html#a84f621a35ef0b3c6cfffba0c4b4bd79c" title="G4NucleiProperties\l::NuclearMass" alt="" coords="1145,960,1296,1004"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="607,833,798,861"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="607,885,798,913"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="607,937,798,965"/>
+<area shape="rect" id="node30" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="618,1041,787,1069"/>
+<area shape="rect" id="node31" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="618,989,787,1017"/>
+<area shape="rect" id="node34" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="611,1281,794,1309"/>
+<area shape="rect" id="node35" href="$d8/dcf/classCLHEP_1_1HepRandomEngine.html#a743bd49472dc1c6034ad1047a6154329" title="CLHEP::HepRandomEngine\l::flat" alt="" coords="601,1333,805,1377"/>
+<area shape="rect" id="node36" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="669,1401,736,1429"/>
+<area shape="rect" id="node37" href="$d9/d5f/classG4WentzelOKandVIxSection.html#adf3a56fc4436f7337d8a32226fd778ff" title="G4WentzelOKandVIxSection\l::FlatFormfactor" alt="" coords="597,1453,808,1497"/>
+<area shape="rect" id="node38" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="652,1521,753,1549"/>
+<area shape="rect" id="node39" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="885,1565,1091,1609"/>
+<area shape="rect" id="node40" href="$d8/d3e/classG4ScreeningMottCrossSection.html#a396f30bc61f483688a56fe494926ad17" title="G4ScreeningMottCrossSection\l::SetupKinematic" alt="" coords="590,1145,815,1189"/>
+<area shape="rect" id="node41" href="$d8/d3e/classG4ScreeningMottCrossSection.html#acbc13b76f5a787acb3a88b849b95f264" title="G4ScreeningMottCrossSection\l::RatioMottRutherfordCosT" alt="" coords="590,1213,815,1257"/>
+<area shape="rect" id="node43" href="$d3/dc1/classG4VEmModel.html#a7e01612b6e41c7a39fac740e013dc0ee" title="G4VEmModel::SetCurrentElement" alt="" coords="577,1796,828,1824"/>
+<area shape="rect" id="node44" href="$de/d80/classG4Element.html#a8db620c908d7ef03465ebcd094d9af1a" title="G4Element::GetNumberOfIsotopes" alt="" coords="575,1744,831,1772"/>
+</map>

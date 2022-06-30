@@ -1,0 +1,15 @@
+<map id="G4VEmAdjointModel::DiffCrossSectionPerAtomPrimToSecond" name="G4VEmAdjointModel::DiffCrossSectionPerAtomPrimToSecond">
+<area shape="rect" id="node2" href="$df/d40/classG4VEmAdjointModel.html#a32ae3ac8916d3ddfe87b6ece787ff9b4" title="G4VEmAdjointModel::\lDiffCrossSectionFunction1" alt="" coords="552,97,749,141"/>
+<area shape="rect" id="node10" href="$df/d40/classG4VEmAdjointModel.html#a625bb4cc126936696f99d2fb1aba36f7" title="G4VEmAdjointModel::\lDiffCrossSectionPerAtomPrim\lToScatPrim" alt="" coords="272,176,491,236"/>
+<area shape="rect" id="node14" href="$df/d40/classG4VEmAdjointModel.html#ae6690c0dcd7158043121e2717b9b6595" title="G4VEmAdjointModel::\lSampleAdjSecEnergyFromDiff\lCrossSectionPerAtom" alt="" coords="539,249,763,309"/>
+<area shape="rect" id="node3" href="$df/d40/classG4VEmAdjointModel.html#a56e58e7b3197f151738a5afb18e80929" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerAtomForSecond" alt="" coords="811,5,1028,65"/>
+<area shape="rect" id="node8" href="$df/d40/classG4VEmAdjointModel.html#a8bd4b219b37b03635ec039ee826838df" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerVolumeForSecond" alt="" coords="811,89,1028,149"/>
+<area shape="rect" id="node4" href="$d8/d73/classG4AdjointCSManager.html#a835a1eb102c7680d83b6bf774471aa26" title="G4AdjointCSManager\l::BuildCrossSectionsMatrices\lForAGivenModelAndElement" alt="" coords="1076,89,1292,149"/>
+<area shape="rect" id="node5" href="$d8/d73/classG4AdjointCSManager.html#acb85b4d7950fec21643f6f5c6c6f8bff" title="G4AdjointCSManager\l::BuildCrossSectionMatrices" alt="" coords="1340,140,1549,184"/>
+<area shape="rect" id="node6" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#accef02a2e128b38a2f25a5b06f8af88d" title="G4AdjointForcedInteraction\lForGamma::BuildPhysicsTable" alt="" coords="1597,105,1821,149"/>
+<area shape="rect" id="node7" href="$da/d14/classG4VAdjointReverseReaction.html#aa34e0abea37e6e6139ebc621e07b4dbe" title="G4VAdjointReverseReaction\l::BuildPhysicsTable" alt="" coords="1605,173,1813,217"/>
+<area shape="rect" id="node9" href="$d8/d73/classG4AdjointCSManager.html#a0f643ea2537a47e6a4e4d1f85b549dcd" title="G4AdjointCSManager\l::BuildCrossSectionsMatrices\lForAGivenModelAndMaterial" alt="" coords="1076,173,1292,233"/>
+<area shape="rect" id="node11" href="$df/d40/classG4VEmAdjointModel.html#aad2cf50272b40b848b6809740ae5d9e2" title="G4VEmAdjointModel::\lDiffCrossSectionFunction2" alt="" coords="552,181,749,225"/>
+<area shape="rect" id="node12" href="$df/d40/classG4VEmAdjointModel.html#ae8bae0d1ad116d0e81afdf1b22d98509" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerAtomForScatProj" alt="" coords="811,173,1028,233"/>
+<area shape="rect" id="node13" href="$df/d40/classG4VEmAdjointModel.html#ad28615c3935f377bf5002c4538e8657f" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerVolumeForScatProj" alt="" coords="811,257,1028,317"/>
+</map>

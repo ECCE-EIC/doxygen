@@ -1,0 +1,28 @@
+<map id="G4ExtrudedSolid::AddGeneralPolygonFacets" name="G4ExtrudedSolid::AddGeneralPolygonFacets">
+<area shape="rect" id="node2" href="$da/db4/classG4TessellatedSolid.html#a5f7647437d05f199d908b68899f5920a" title="G4TessellatedSolid\l::AddFacet" alt="" coords="321,248,469,292"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="617,5,724,33"/>
+<area shape="rect" id="node12" href="$da/d21/classG4ExtrudedSolid.html#ac4d60ece14a7a3270111c10caa8cd7bd" title="G4ExtrudedSolid::GetAngle" alt="" coords="837,709,1044,737"/>
+<area shape="rect" id="node15" href="$d5/dd3/classG4GeometryTolerance.html#a78e63154aad6e6dcd14b502e7df598af" title="G4GeometryTolerance\l::GetAngularTolerance" alt="" coords="309,877,481,921"/>
+<area shape="rect" id="node16" href="$d5/dd3/classG4GeometryTolerance.html#af64e4b5b8b0c0f6962603865e93a9f30" title="G4GeometryTolerance\l::GetInstance" alt="" coords="309,1072,481,1116"/>
+<area shape="rect" id="node20" href="$da/d21/classG4ExtrudedSolid.html#aafd410f3a8d4a516a67f1df0f4143b8a" title="G4ExtrudedSolid::IsPoint\lInside" alt="" coords="300,809,489,853"/>
+<area shape="rect" id="node24" href="$da/d21/classG4ExtrudedSolid.html#a7aa7a14fe2ccaad45db578ed3c13303f" title="G4ExtrudedSolid::MakeDown\lFacet" alt="" coords="286,560,503,604"/>
+<area shape="rect" id="node27" href="$da/d21/classG4ExtrudedSolid.html#abf9835eba0db07e603c3ed4d1d72d959" title="G4ExtrudedSolid::MakeUpFacet" alt="" coords="277,641,512,669"/>
+<area shape="rect" id="node4" href="$d4/d28/classG4VFacet.html#af19379328cab8fe81f5a2f1431d027ac" title="G4VFacet::IsDefined" alt="" coords="592,281,749,309"/>
+<area shape="rect" id="node5" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="648,333,693,361"/>
+<area shape="rect" id="node6" href="$d4/d28/classG4VFacet.html#a72c5b658d1cde2b2e9a8e701a7f2ca67" title="G4VFacet::GetCircumcentre" alt="" coords="567,385,775,413"/>
+<area shape="rect" id="node7" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="856,88,1025,116"/>
+<area shape="rect" id="node8" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="856,185,1025,213"/>
+<area shape="rect" id="node9" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="857,463,1025,491"/>
+<area shape="rect" id="node10" href="$da/db4/classG4TessellatedSolid.html#ae41ab20a929f66df94128715c7b1e11e" title="G4TessellatedSolid\l::OutsideOfExtent" alt="" coords="597,109,745,153"/>
+<area shape="rect" id="node11" href="$d4/d28/classG4VFacet.html#a81871f96a1a734e220262563e4d5abf0" title="G4VFacet::StreamInfo" alt="" coords="587,177,755,205"/>
+<area shape="rect" id="node13" href="$d4/da4/classCLHEP_1_1Hep2Vector.html#acf0b1799f84792d758f7d955658cdb1d" title="CLHEP::Hep2Vector::y" alt="" coords="1100,812,1269,840"/>
+<area shape="rect" id="node14" href="$d4/da4/classCLHEP_1_1Hep2Vector.html#ab26c6f014e107086e697c86cb1c24dae" title="CLHEP::Hep2Vector::x" alt="" coords="1100,916,1269,944"/>
+<area shape="rect" id="node17" href="$d5/dd3/classG4GeometryTolerance.html#ab48f017ac932f3aeed61f7a2f9d1160d" title="G4GeometryTolerance\l::G4GeometryTolerance" alt="" coords="580,1072,761,1116"/>
+<area shape="rect" id="node18" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="580,1140,761,1168"/>
+<area shape="rect" id="node19" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="847,1132,1034,1176"/>
+<area shape="rect" id="node21" href="$da/d21/classG4ExtrudedSolid.html#adfcb8835cda15df2bf42e892131f9942" title="G4ExtrudedSolid::IsSameSide" alt="" coords="829,968,1052,996"/>
+<area shape="rect" id="node22" href="$da/d21/classG4ExtrudedSolid.html#a02326d9f4d95b8f36f48d71bf8eea93d" title="G4ExtrudedSolid::IsSameLine\lSegment" alt="" coords="560,835,781,879"/>
+<area shape="rect" id="node23" href="$da/d21/classG4ExtrudedSolid.html#a392e6d88b995e517a214c58129eaa68a" title="G4ExtrudedSolid::IsSameLine" alt="" coords="830,864,1051,892"/>
+<area shape="rect" id="node25" href="$da/d21/classG4ExtrudedSolid.html#a82a5ab4d2e09ae3d20f19d593cb20ac0" title="G4ExtrudedSolid::GetVertex" alt="" coords="565,540,777,568"/>
+<area shape="rect" id="node26" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="593,592,748,636"/>
+</map>

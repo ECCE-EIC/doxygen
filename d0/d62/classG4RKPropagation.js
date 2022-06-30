@@ -1,0 +1,26 @@
+var classG4RKPropagation =
+[
+    [ "G4RKPropagation", "d0/d62/classG4RKPropagation.html#a8fae5b8f52722e4311b9bd36b3b6390c", null ],
+    [ "~G4RKPropagation", "d0/d62/classG4RKPropagation.html#a6d0e33777070dc74fc9964f27454b1e9", null ],
+    [ "G4RKPropagation", "d0/d62/classG4RKPropagation.html#aa9e6e42dd625734dac2f36a52eafd310", null ],
+    [ "delete_EquationsAndMap", "d0/d62/classG4RKPropagation.html#a92aa193a9ac066d7274e7a6ecbd4423c", null ],
+    [ "delete_FieldsAndMap", "d0/d62/classG4RKPropagation.html#ad973b7d8c37e35682bf85dd55c6cb33e", null ],
+    [ "FieldTransport", "d0/d62/classG4RKPropagation.html#ac21477511beef33db51dec4cbf15b351", null ],
+    [ "FreeTransport", "d0/d62/classG4RKPropagation.html#a779a7ce03713a9eaa2414103112f9c67", null ],
+    [ "GetBarrier", "d0/d62/classG4RKPropagation.html#a6d149ea8eca78fb3003992d480beb8f4", null ],
+    [ "GetField", "d0/d62/classG4RKPropagation.html#a1b23103423c8277b376d0997169bcf9d", null ],
+    [ "GetMomentumTransfer", "d0/d62/classG4RKPropagation.html#a706d2d611f3b965df6303ed9176ccbb6", null ],
+    [ "GetSphereIntersectionTimes", "d0/d62/classG4RKPropagation.html#ac8b091421a65c4b8d843587655d1b4bb", null ],
+    [ "GetSphereIntersectionTimes", "d0/d62/classG4RKPropagation.html#ac79600c938552bd098aa6522cf278e57", null ],
+    [ "Init", "d0/d62/classG4RKPropagation.html#aaa266506a608131691d890ff102dd63d", null ],
+    [ "operator!=", "d0/d62/classG4RKPropagation.html#a730800d680d7e6b812a0c6eca76f5bf0", null ],
+    [ "operator=", "d0/d62/classG4RKPropagation.html#aff2c51fc63bd1d70ed8eda61b00d8607", null ],
+    [ "operator==", "d0/d62/classG4RKPropagation.html#a143e7e78252f343f8c129ee933f9bbf4", null ],
+    [ "Transport", "d0/d62/classG4RKPropagation.html#a7a3d85b6437ba380f8bddc05619933e5", null ],
+    [ "theEquationMap", "d0/d62/classG4RKPropagation.html#a63efa6871e85218e719128e003c39928", null ],
+    [ "theField", "d0/d62/classG4RKPropagation.html#a12a6bcd5261ad78c5babf3ec3de711c3", null ],
+    [ "theFieldMap", "d0/d62/classG4RKPropagation.html#ab863781f1c6a28ed12904f92cfac5669", null ],
+    [ "theMomentumTranfer", "d0/d62/classG4RKPropagation.html#a28ea2786abccc2bf9cc68e136b7ace23", null ],
+    [ "theNucleus", "d0/d62/classG4RKPropagation.html#a7628e61f112e34b7e59f8883b9a4394d", null ],
+    [ "theOuterRadius", "d0/d62/classG4RKPropagation.html#a0544651ebb310bee1f013827deca7074", null ]
+];

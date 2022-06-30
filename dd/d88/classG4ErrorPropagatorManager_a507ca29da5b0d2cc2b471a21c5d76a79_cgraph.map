@@ -1,0 +1,31 @@
+<map id="G4ErrorPropagatorManager::G4ErrorPropagatorManager" name="G4ErrorPropagatorManager::G4ErrorPropagatorManager">
+<area shape="rect" id="node2" href="$da/d6d/classG4ErrorPropagatorData.html#a1d48f4cd3176aa55b828dde67158b055" title="G4ErrorPropagatorData\l::GetErrorPropagatorData" alt="" coords="853,147,1045,191"/>
+<area shape="rect" id="node4" href="$da/d6d/classG4ErrorPropagatorData.html#abdea2860bd20bc9142b9f43eaa6c379a" title="G4ErrorPropagatorData\l::SetState" alt="" coords="303,57,481,101"/>
+<area shape="rect" id="node5" href="$da/d6d/classG4ErrorPropagatorData.html#a1771cd5e014a7dd70c0cf3247ff49d86" title="G4ErrorPropagatorData\l::SetVerbose" alt="" coords="303,125,481,169"/>
+<area shape="rect" id="node6" href="$dd/d88/classG4ErrorPropagatorManager.html#a41480013777207bf5377c84753050615" title="G4ErrorPropagatorManager\l::StartG4ErrorRunManagerHelper" alt="" coords="269,193,515,237"/>
+<area shape="rect" id="node9" href="$dd/d88/classG4ErrorPropagatorManager.html#a37caf9a0063a7d08ddddf97373aca164" title="G4ErrorPropagatorManager\l::StartNavigator" alt="" coords="289,610,495,654"/>
+<area shape="rect" id="node3" href="$da/d6d/classG4ErrorPropagatorData.html#afa3040c5b4b26841b54ca87d16e0ba35" title="G4ErrorPropagatorData\l::G4ErrorPropagatorData" alt="" coords="1127,147,1314,191"/>
+<area shape="rect" id="node7" href="$d8/db0/classG4ErrorRunManagerHelper.html#aaf96cb4cb26a4a06d27e6ed675273868" title="G4ErrorRunManagerHelper\l::GetRunManagerKernel" alt="" coords="575,90,779,134"/>
+<area shape="rect" id="node8" href="$da/d6d/classG4ErrorPropagatorData.html#a23a52d87e64acb6a6614951606c37877" title="G4ErrorPropagatorData\l::verbose" alt="" coords="587,158,766,202"/>
+<area shape="rect" id="node10" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="571,430,783,474"/>
+<area shape="rect" id="node16" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1107,527,1335,555"/>
+<area shape="rect" id="node17" href="$d1/dd0/classG4TransportationManager.html#a6939093ee6b1270721ce60875664722a" title="G4TransportationManager\l::GetNavigatorForTracking" alt="" coords="577,550,776,594"/>
+<area shape="rect" id="node18" href="$d9/d53/classG4Navigator.html#a662eacb4ba22e97d6270b98603a96b8e" title="G4Navigator::GetVerboseLevel" alt="" coords="563,618,791,646"/>
+<area shape="rect" id="node19" href="$d9/d53/classG4Navigator.html#ab97e337669dcd35c3a89029a5ab5d76f" title="G4Navigator::SetWorldVolume" alt="" coords="563,670,790,698"/>
+<area shape="rect" id="node20" href="$d9/d53/classG4Navigator.html#a0638138d8286754fef1861d1006fe20b" title="G4Navigator::SetVerboseLevel" alt="" coords="563,722,790,750"/>
+<area shape="rect" id="node21" href="$d1/dd0/classG4TransportationManager.html#af06dd2678eb010fc710fb96377cb0337" title="G4TransportationManager\l::SetNavigatorForTracking" alt="" coords="577,774,776,818"/>
+<area shape="rect" id="node23" href="$d1/dd0/classG4TransportationManager.html#aa7ba13e916a88e7f90c6ff59209b0e2d" title="G4TransportationManager\l::GetPropagatorInField" alt="" coords="577,842,776,886"/>
+<area shape="rect" id="node24" href="$dd/d94/classG4PropagatorInField.html#aaa09d8afcf2d100bdfa1cdc5f9e97341" title="G4PropagatorInField\l::GetIntersectionLocator" alt="" coords="584,910,769,954"/>
+<area shape="rect" id="node25" href="$d1/d32/classG4VIntersectionLocator.html#a5bab80a8e2f50e05120f6d87caa70133" title="G4VIntersectionLocator\l::SetNavigatorFor" alt="" coords="587,978,767,1022"/>
+<area shape="rect" id="node26" href="$da/d44/classG4EventManager.html#aacf5223cc2c7b5a1b1fc699eed9b0ff2" title="G4EventManager::GetEvent\lManager" alt="" coords="571,1046,782,1090"/>
+<area shape="rect" id="node27" href="$da/d44/classG4EventManager.html#a24e53d73f5d14465e30e094004c35e21" title="G4EventManager::GetTracking\lManager" alt="" coords="563,1114,790,1158"/>
+<area shape="rect" id="node28" href="$dd/d71/classG4TrackingManager.html#aa524e3a3f445ad57511d420be9108f6d" title="G4TrackingManager::\lGetSteppingManager" alt="" coords="594,226,759,270"/>
+<area shape="rect" id="node29" href="$d0/dd0/classG4SteppingManager.html#a5c471cb61a17f5d7ef975dc194be0e93" title="G4SteppingManager::\lSetNavigator" alt="" coords="593,294,761,338"/>
+<area shape="rect" id="node30" href="$dd/d88/classG4ErrorPropagatorManager.html#a6f66cea277e7183c1b5062ce5c83a2a6" title="G4ErrorPropagatorManager\l::PrintG4ErrorState" alt="" coords="573,362,780,406"/>
+<area shape="rect" id="node11" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="845,430,1052,474"/>
+<area shape="rect" id="node12" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1167,407,1274,435"/>
+<area shape="rect" id="node13" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1123,459,1318,503"/>
+<area shape="rect" id="node14" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1144,303,1297,331"/>
+<area shape="rect" id="node15" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1135,355,1306,383"/>
+<area shape="rect" id="node22" href="$dd/d94/classG4PropagatorInField.html#a3a748ea5c3a43942792fc2afd1edcb71" title="G4PropagatorInField\l::SetNavigatorForPropagating" alt="" coords="839,774,1059,818"/>
+</map>

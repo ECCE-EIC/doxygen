@@ -1,0 +1,45 @@
+<map id="G4INCL::Random::normVector" name="G4INCL::Random::normVector">
+<area shape="rect" id="node2" href="$d0/d84/classG4INCL_1_1EtaNElasticChannel.html#af3dbb4e77f6e4d2d196c2d51290a82ef" title="G4INCL::EtaNElasticChannel\l::fillFinalState" alt="" coords="322,5,533,49"/>
+<area shape="rect" id="node3" href="$d6/dc4/classG4INCL_1_1NLToNSChannel.html#ae984d659f764cfb0acaa9671c9e9fca4" title="G4INCL::NLToNSChannel\l::fillFinalState" alt="" coords="335,73,519,117"/>
+<area shape="rect" id="node4" href="$d8/df1/classG4INCL_1_1NSToNLChannel.html#a85df0a58a896608b0d9a02dc5d3d3d8d" title="G4INCL::NSToNLChannel\l::fillFinalState" alt="" coords="335,141,520,185"/>
+<area shape="rect" id="node5" href="$dd/d02/classG4INCL_1_1PiNToOmegaChannel.html#a803884933e2400a9455c38441a5f167d" title="G4INCL::PiNToOmegaChannel\l::fillFinalState" alt="" coords="317,209,537,253"/>
+<area shape="rect" id="node6" href="$d1/d88/classG4INCL_1_1NKElasticChannel.html#a84cf17ae67afb6f6968d3142c0dc9480" title="G4INCL::NKElasticChannel\l::fillFinalState" alt="" coords="328,277,527,321"/>
+<area shape="rect" id="node7" href="$d4/dff/classG4INCL_1_1NSToNSChannel.html#a728f3fec6155ddea0f44ee2763564c7f" title="G4INCL::NSToNSChannel\l::fillFinalState" alt="" coords="334,345,521,389"/>
+<area shape="rect" id="node8" href="$d0/d29/classG4INCL_1_1NYElasticChannel.html#a77b5c0574fe411d16a08dca22837ff29" title="G4INCL::NYElasticChannel\l::fillFinalState" alt="" coords="329,413,526,457"/>
+<area shape="rect" id="node9" href="$dc/dcf/classG4INCL_1_1NKToNKChannel.html#ac353286e5d9af116e11c1d45705d5041" title="G4INCL::NKToNKChannel\l::fillFinalState" alt="" coords="335,481,520,525"/>
+<area shape="rect" id="node10" href="$d3/d9b/classG4INCL_1_1OmegaNElasticChannel.html#a40ea33127d84db071354d4122298db45" title="G4INCL::OmegaNElasticChannel\l::fillFinalState" alt="" coords="308,549,547,593"/>
+<area shape="rect" id="node11" href="$d9/dac/classG4INCL_1_1OmegaNToPiNChannel.html#a4682471a4bc86f43e3fa970262c11bbf" title="G4INCL::OmegaNToPiNChannel\l::fillFinalState" alt="" coords="313,617,542,661"/>
+<area shape="rect" id="node12" href="$df/d00/classG4INCL_1_1RecombinationChannel.html#a83d9b851c89df77592a9cb02b09da5ec" title="G4INCL::RecombinationChannel\l::fillFinalState" alt="" coords="309,685,545,729"/>
+<area shape="rect" id="node13" href="$df/d7f/classG4INCL_1_1PhaseSpaceKopylov.html#a8ee1457566b5a11136269f9a596004a3" title="Generate momenta according to a uniform, non&#45;Lorentz&#45;invariant phase&#45;space model." alt="" coords="320,753,535,797"/>
+<area shape="rect" id="node14" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#a7ffe84be61c3d674909c523f8879d495" title="Generate an event." alt="" coords="319,821,535,865"/>
+<area shape="rect" id="node16" href="$db/dad/classG4INCL_1_1NKbToSpiChannel.html#a963be23bb9adc41c4edad5e1698f7821" title="G4INCL::NKbToSpiChannel\l::KaonMomentum" alt="" coords="328,889,527,933"/>
+<area shape="rect" id="node18" href="$d1/dcb/classG4INCL_1_1NKbToNKbChannel.html#a5779b5c1771b02077c9b7010930c60ee" title="G4INCL::NKbToNKbChannel\l::KaonMomentum" alt="" coords="325,957,529,1001"/>
+<area shape="rect" id="node20" href="$df/d29/classG4INCL_1_1NKbElasticChannel.html#a33d9be88738ea68d6eae783da9215188" title="G4INCL::NKbElasticChannel\l::KaonMomentum" alt="" coords="324,1025,531,1069"/>
+<area shape="rect" id="node22" href="$d1/d51/classG4INCL_1_1NpiToSKChannel.html#a1fa246ce541f01697a1fc56ad9cf3920" title="G4INCL::NpiToSKChannel\l::KaonMomentum" alt="" coords="333,1093,522,1137"/>
+<area shape="rect" id="node24" href="$d1/d72/classG4INCL_1_1NKbToLpiChannel.html#aa2047599ce876701d19be6e5c6302ee4" title="G4INCL::NKbToLpiChannel\l::KaonMomentum" alt="" coords="329,1161,526,1205"/>
+<area shape="rect" id="node26" href="$d5/d33/classG4INCL_1_1NpiToLKChannel.html#aaae888f3576235bcc05ca0c7b6d3af3a" title="G4INCL::NpiToLKChannel\l::KaonMomentum" alt="" coords="333,1229,521,1273"/>
+<area shape="rect" id="node28" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#aca46376cfd760fe3fb068e2780735560" title="Sample one particle with a fuzzy rp&#45;correlation." alt="" coords="652,1297,877,1357"/>
+<area shape="rect" id="node34" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a16048c085a776f8ff0e8bf976c7b36c3" title="Sample one particle not taking into account the rp&#45;correlation." alt="" coords="277,1441,577,1485"/>
+<area shape="rect" id="node43" href="$d5/d11/namespaceG4INCL_1_1Random.html#a4fcbde6d83379cf49dea7f18ccc0699a" title="G4INCL::Random::sphereVector" alt="" coords="310,1349,545,1377"/>
+<area shape="rect" id="node15" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#a9083d322c59e61afea02f97b5fd52b8c" title="Generate momenta according to a uniform, Lorentz&#45;invariant phase&#45;space model." alt="" coords="657,821,873,865"/>
+<area shape="rect" id="node17" href="$db/dad/classG4INCL_1_1NKbToSpiChannel.html#aeb3d431a79db26e98eb527c29aba4ead" title="G4INCL::NKbToSpiChannel\l::fillFinalState" alt="" coords="665,889,864,933"/>
+<area shape="rect" id="node19" href="$d1/dcb/classG4INCL_1_1NKbToNKbChannel.html#afdc20ece837c35e2860bb8d39eac4c01" title="G4INCL::NKbToNKbChannel\l::fillFinalState" alt="" coords="663,957,867,1001"/>
+<area shape="rect" id="node21" href="$df/d29/classG4INCL_1_1NKbElasticChannel.html#a1200b0ecc8e5fa2036d773ca8323a1e8" title="G4INCL::NKbElasticChannel\l::fillFinalState" alt="" coords="661,1025,868,1069"/>
+<area shape="rect" id="node23" href="$d1/d51/classG4INCL_1_1NpiToSKChannel.html#a3ae1238d9c88f7f4e2e68ea8b0db560f" title="G4INCL::NpiToSKChannel\l::fillFinalState" alt="" coords="670,1093,859,1137"/>
+<area shape="rect" id="node25" href="$d1/d72/classG4INCL_1_1NKbToLpiChannel.html#aa026a9652d70d5e8992ac201432119e9" title="G4INCL::NKbToLpiChannel\l::fillFinalState" alt="" coords="666,1161,863,1205"/>
+<area shape="rect" id="node27" href="$d5/d33/classG4INCL_1_1NpiToLKChannel.html#a77f78c2aeb4bc4d37cc4fbd76528d84d" title="G4INCL::NpiToLKChannel\l::fillFinalState" alt="" coords="671,1229,859,1273"/>
+<area shape="rect" id="node29" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#af23dda8fb528b65f547290c96193c557" title="G4INCL::ParticleSampler\l::updateSampleOneParticleMethods" alt="" coords="952,1381,1216,1425"/>
+<area shape="rect" id="node30" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a625688b81175c9d245dcc22cf6fa6c57" title="Setter for theDensity." alt="" coords="1272,1393,1459,1437"/>
+<area shape="rect" id="node33" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a0086f69c41b791439a3bbe5e9912c66f" title="Setter for thePotential." alt="" coords="1272,1325,1459,1369"/>
+<area shape="rect" id="node31" href="$d7/db0/classG4INCL_1_1Nucleus.html#acbf406f483d62a6cec8181f84cbb74ef" title="G4INCL::Nucleus::Nucleus" alt="" coords="1524,1341,1720,1369"/>
+<area shape="rect" id="node32" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad71def6c40bd876b5e2b1373c66732ea" title="Setter for theDensity." alt="" coords="1515,1401,1729,1429"/>
+<area shape="rect" id="node35" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a2faf807c0948f1d5719fccb7298e4f81" title="G4INCL::ParticleSampler\l::sampleParticlesIntoList" alt="" coords="671,1501,858,1545"/>
+<area shape="rect" id="node36" href="$d0/d7f/classG4INCL_1_1Cluster.html#a4f06b4ea85cb522ca7e66e1fc35578e4" title="Initialise the NuclearDensity pointer and sample the particles." alt="" coords="987,1475,1181,1519"/>
+<area shape="rect" id="node42" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#add96dbbe464a5432c9ac65876ea5b1ed" title="G4INCL::ParticleSampler\l::sampleParticles" alt="" coords="991,1543,1177,1587"/>
+<area shape="rect" id="node37" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad588c68e87ec1d6bf8fcdfd127b9f5df" title="G4INCL::Nucleus::initialize\lParticles" alt="" coords="1266,1461,1465,1505"/>
+<area shape="rect" id="node41" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a373198745a98c6bbdd831d5152e7d51d" title="G4INCL::ProjectileRemnant\l::ProjectileRemnant" alt="" coords="1264,1529,1467,1573"/>
+<area shape="rect" id="node38" href="$d6/d0a/classG4INCL_1_1INCL.html#a2fc478a97d486d1a5dfb16c62d0ee00d" title="G4INCL::INCL::initialize\lTarget" alt="" coords="1534,1461,1710,1505"/>
+<area shape="rect" id="node39" href="$d6/d0a/classG4INCL_1_1INCL.html#a22c4c885bc3bea582cfddaa29c4507fc" title="G4INCL::INCL::prepareReaction" alt="" coords="1777,1469,2007,1497"/>
+<area shape="rect" id="node40" href="$d6/d0a/classG4INCL_1_1INCL.html#a7db10f7a8cd5c5173448a48cc7a3cab7" title="G4INCL::INCL::processEvent" alt="" coords="2055,1469,2265,1497"/>
+<area shape="rect" id="node44" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a807ef02b2d9a3ba05ffdeb8f01db7560" title="Sample one particle taking into account the rp&#45;correlation." alt="" coords="625,1381,904,1425"/>
+</map>

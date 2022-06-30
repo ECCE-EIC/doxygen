@@ -1,0 +1,21 @@
+<map id="G4VDataSetAlgorithm::Clone" name="G4VDataSetAlgorithm::Clone">
+<area shape="rect" id="node2" href="$d7/d30/classG4CrossSectionHandler.html#a157560b0ce663423be9993d6893cf3df" title="G4CrossSectionHandler\l::BuildCrossSectionsForMaterials" alt="" coords="251,5,492,49"/>
+<area shape="rect" id="node3" href="$d8/db6/classG4BremsstrahlungCrossSectionHandler.html#af100959efb77b6ef16f92a929885263f" title="G4BremsstrahlungCrossSection\lHandler::BuildCrossSectionsForMaterials" alt="" coords="224,73,519,117"/>
+<area shape="rect" id="node4" href="$d2/d30/classG4eIonisationCrossSectionHandler.html#abf646a68eb850f7bf92307d152be6fe1" title="G4eIonisationCrossSection\lHandler::BuildCrossSectionsFor\lMaterials" alt="" coords="255,141,488,201"/>
+<area shape="rect" id="node5" href="$df/d02/classG4CompositeEMDataSet.html#aed717e1bdb682861eed9bb5807c15af6" title="G4CompositeEMDataSet\l::LoadData" alt="" coords="277,225,465,269"/>
+<area shape="rect" id="node7" href="$d7/df3/classG4ShellEMDataSet.html#ac04c5701ae840275816249ae005fe5ad" title="G4ShellEMDataSet::LoadData" alt="" coords="261,293,481,321"/>
+<area shape="rect" id="node8" href="$d6/d94/classG4VCrossSectionHandler.html#a6ff4b85d97cc8732a2ab7a6cab5dbc0f" title="G4VCrossSectionHandler\l::LoadData" alt="" coords="276,413,467,457"/>
+<area shape="rect" id="node12" href="$d7/df3/classG4ShellEMDataSet.html#addbc693a3df61440ab00d220eaef4572" title="G4ShellEMDataSet::LoadNon\lLogData" alt="" coords="263,481,479,525"/>
+<area shape="rect" id="node13" href="$df/d02/classG4CompositeEMDataSet.html#acd489cb976822b3c082ace2df81c1e50" title="G4CompositeEMDataSet\l::LoadNonLogData" alt="" coords="277,549,465,593"/>
+<area shape="rect" id="node14" href="$d6/d94/classG4VCrossSectionHandler.html#a8443a473e3700cd71b3f0978b91475e2" title="G4VCrossSectionHandler\l::LoadNonLogData" alt="" coords="276,617,467,661"/>
+<area shape="rect" id="node15" href="$df/dfb/classG4DopplerProfile.html#aa9c4d53e69531fbe741688c543a61fc5" title="G4DopplerProfile::LoadProfile" alt="" coords="262,685,481,713"/>
+<area shape="rect" id="node17" href="$d6/d94/classG4VCrossSectionHandler.html#a243f8f5862daee76225d2cc3be806b45" title="G4VCrossSectionHandler\l::LoadShellData" alt="" coords="276,345,467,389"/>
+<area shape="rect" id="node6" href="$d4/d4f/classG4LivermorePolarizedComptonModel.html#a06ce3208279d902296e914aeeda19519" title="G4LivermorePolarizedCompton\lModel::Initialise" alt="" coords="572,213,803,257"/>
+<area shape="rect" id="node9" href="$d2/d54/pymodG4processes_8cc.html#a24dce27a66a7fb5697553af7dc8b8725" title="export_G4VCrossSectionHandler" alt="" coords="567,417,808,445"/>
+<area shape="rect" id="node11" href="$d3/d97/classG4LivermoreComptonModifiedModel.html#a9ab1e7e95060bd000aae087c5f279697" title="G4LivermoreComptonModified\lModel::Initialise" alt="" coords="574,469,801,513"/>
+<area shape="rect" id="node10" href="$d2/d54/pymodG4processes_8cc.html#a3ce3fc869ed5449cae86f7210253bf7e" title="BOOST_PYTHON_MODULE" alt="" coords="875,417,1070,445"/>
+<area shape="rect" id="node16" href="$df/dfb/classG4DopplerProfile.html#aa24e18d7eb9d0cb94fcf6cc38e1c46db" title="G4DopplerProfile::G4Doppler\lProfile" alt="" coords="578,677,797,721"/>
+<area shape="rect" id="node18" href="$d1/d9b/classG4LivermoreIonisationCrossSection.html#a7300bf8a4c82b6a96f5646651f6f0546" title="G4LivermoreIonisationCross\lSection::Initialise" alt="" coords="582,281,793,325"/>
+<area shape="rect" id="node20" href="$dc/d61/classG4LivermoreIonisationModel.html#a6821d6c45da85d6322ef0e8ab7d02e26" title="G4LivermoreIonisationModel\l::Initialise" alt="" coords="580,349,795,393"/>
+<area shape="rect" id="node19" href="$d1/d9b/classG4LivermoreIonisationCrossSection.html#ab986d90b87a530fa6d27cfc8563fda86" title="G4LivermoreIonisationCross\lSection::G4LivermoreIonisation\lCrossSection" alt="" coords="856,273,1089,333"/>
+</map>

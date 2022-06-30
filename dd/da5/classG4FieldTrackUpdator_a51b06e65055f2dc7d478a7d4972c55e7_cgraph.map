@@ -1,0 +1,30 @@
+<map id="G4FieldTrackUpdator::Update" name="G4FieldTrackUpdator::Update">
+<area shape="rect" id="node2" href="$d7/d5c/classG4DynamicParticle.html#a25422607b7822f675f845a9d2f7abd39" title="G4DynamicParticle::\lGetCharge" alt="" coords="260,5,417,49"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="230,73,447,101"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="246,125,431,153"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="237,177,440,205"/>
+<area shape="rect" id="node6" href="$d7/d5c/classG4DynamicParticle.html#a3b96233fcb3d586d7bf8b60718faeb00" title="G4DynamicParticle::\lGetMagneticMoment" alt="" coords="257,229,420,273"/>
+<area shape="rect" id="node7" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="260,297,417,341"/>
+<area shape="rect" id="node8" href="$d5/d40/classG4FieldTrack.html#a151f8bdf52e7209df5c10b95c00c613f" title="G4FieldTrack::GetMomentum" alt="" coords="230,365,447,393"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#aa83f323d30aa6b3e8ae80745dba7ecf1" title="G4Track::GetMomentum" alt="" coords="246,417,431,445"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="216,469,461,497"/>
+<area shape="rect" id="node11" href="$d7/d5c/classG4DynamicParticle.html#a4af3d8c60e82b21a321f5f90264a7017" title="G4DynamicParticle::\lGetParticleDefinition" alt="" coords="259,521,419,565"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="261,589,416,633"/>
+<area shape="rect" id="node13" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="260,657,417,701"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="258,725,419,753"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#afb7ef91e381ab5e648d9b5c6e7ea10f0" title="G4Track::GetProperTime" alt="" coords="246,777,431,805"/>
+<area shape="rect" id="node16" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="239,829,439,857"/>
+<area shape="rect" id="node17" href="$d5/d40/classG4FieldTrack.html#a8c7f83449d860fdec0560c87d906e852" title="G4FieldTrack::SetChargeAnd\lMoments" alt="" coords="233,881,445,925"/>
+<area shape="rect" id="node25" href="$d5/d40/classG4FieldTrack.html#a7b2c68f49d932b18b06c67271f1017a4" title="G4FieldTrack::SetPDGSpin" alt="" coords="241,949,437,977"/>
+<area shape="rect" id="node26" href="$d5/d40/classG4FieldTrack.html#a1a7ab74084ff50416126f5925bfb9914" title="G4FieldTrack::SetProperTime\lOfFlight" alt="" coords="231,1001,446,1045"/>
+<area shape="rect" id="node27" href="$d5/d40/classG4FieldTrack.html#ac2b49170c29bdc8a443c807ce5b5ee3e" title="G4FieldTrack::SetRestMass" alt="" coords="238,1069,439,1097"/>
+<area shape="rect" id="node28" href="$d5/d40/classG4FieldTrack.html#acde5ac7182e7bbf6d49c2de714b66d18" title="G4FieldTrack::SetSpin" alt="" coords="255,1121,423,1149"/>
+<area shape="rect" id="node29" href="$d5/d40/classG4FieldTrack.html#ab3e74762b28a7fff19b11dbf66bdc392" title="G4FieldTrack::UpdateState" alt="" coords="239,1173,439,1201"/>
+<area shape="rect" id="node18" href="$d4/d2d/classG4ChargeState.html#a63144662f4f9c7ed006aaf45996b6cf5" title="G4ChargeState::SetCharges\lAndMoments" alt="" coords="509,881,720,925"/>
+<area shape="rect" id="node19" href="$d4/d2d/classG4ChargeState.html#ab07ef2e6d6a961ccc9ff3c500b198296" title="G4ChargeState::SetCharge\lDipoleMoments" alt="" coords="775,847,979,891"/>
+<area shape="rect" id="node24" href="$d4/d2d/classG4ChargeState.html#a3f4cee4723db78b65492a531248cba6c" title="G4ChargeState::SetMagnetic\lCharge" alt="" coords="768,915,985,959"/>
+<area shape="rect" id="node20" href="$d4/d2d/classG4ChargeState.html#a82c3dd4aebaf10995c8e1a431625f9ca" title="G4ChargeState::SetChargeMdm" alt="" coords="1033,825,1271,853"/>
+<area shape="rect" id="node23" href="$d4/d2d/classG4ChargeState.html#a83503969a06942649d59912ebabd381a" title="G4ChargeState::SetElectric\lDipoleMoment" alt="" coords="1049,877,1255,921"/>
+<area shape="rect" id="node21" href="$d4/d2d/classG4ChargeState.html#ac3b7da2e5715b83e8827c447fec09778" title="G4ChargeState::SetCharge" alt="" coords="1325,796,1529,824"/>
+<area shape="rect" id="node22" href="$d4/d2d/classG4ChargeState.html#af407e1aaaa087e49e58c7c81a4d712d7" title="G4ChargeState::SetMagnetic\lDipoleMoment" alt="" coords="1319,848,1536,892"/>
+</map>

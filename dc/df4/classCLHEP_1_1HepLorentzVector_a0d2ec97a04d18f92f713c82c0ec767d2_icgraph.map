@@ -1,0 +1,19 @@
+<map id="CLHEP::HepLorentzVector::findBoostToCM" name="CLHEP::HepLorentzVector::findBoostToCM">
+<area shape="rect" id="node2" href="$d8/df6/classG4ParticleHPElasticFS.html#a5903941fded8c029e7338192738ea143" title="G4ParticleHPElasticFS\l::ApplyYourself" alt="" coords="294,5,463,49"/>
+<area shape="rect" id="node3" href="$d4/d51/classG4QMDReaction.html#a786ddd982eab326e687eb864c8030886" title="G4QMDReaction::ApplyYourself" alt="" coords="557,197,791,225"/>
+<area shape="rect" id="node4" href="$d0/d33/classG4EMDissociation.html#aee7ad1ee549a0363a1162725bfc843de" title="G4EMDissociation::ApplyYourself" alt="" coords="257,125,501,153"/>
+<area shape="rect" id="node5" href="$d7/d1d/classG4WilsonAbrasionModel.html#af7e0adafbc8f33953fbca601bd7002df" title="G4WilsonAbrasionModel\l::ApplyYourself" alt="" coords="286,177,471,221"/>
+<area shape="rect" id="node6" href="$d7/dfb/classG4WilsonAblationModel.html#a40ad40aa1b22e6d11de5b4d650762696" title="G4WilsonAblationModel\l::BreakItUp" alt="" coords="288,245,469,289"/>
+<area shape="rect" id="node7" href="$d7/d66/classG4QMDCollision.html#a31a085266432d6662e7d73f2e9aafff2" title="G4QMDCollision::CalKinematics\lOfBinaryCollisions" alt="" coords="261,313,496,357"/>
+<area shape="rect" id="node8" href="$da/d7b/classG4LightTargetCollider.html#ae13ff79fa3488a07cfaab7ab02e9b1d3" title="G4LightTargetCollider\l::collide" alt="" coords="295,381,463,425"/>
+<area shape="rect" id="node14" href="$d0/d64/classG4QGSParticipants.html#a434d02447618c26743dff22684a070fd" title="G4QGSParticipants::\lGetResiduals" alt="" coords="300,449,457,493"/>
+<area shape="rect" id="node16" href="$dd/dbb/classG4FTFModel.html#a9ae5c4edbe25942f28ab8e1d6afd1cde" title="G4FTFModel::GetResiduals" alt="" coords="277,517,480,545"/>
+<area shape="rect" id="node18" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a5863f08fdf69872a6a903894a6f7f426" title="G4GeneratorPrecompoundInterface\l::PropagateNuclNucl" alt="" coords="248,569,509,613"/>
+<area shape="rect" id="node9" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="595,381,753,425"/>
+<area shape="rect" id="node10" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="839,348,1037,392"/>
+<area shape="rect" id="node12" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="839,416,1037,460"/>
+<area shape="rect" id="node11" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="1085,348,1284,392"/>
+<area shape="rect" id="node13" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="1090,416,1279,460"/>
+<area shape="rect" id="node15" href="$d0/d64/classG4QGSParticipants.html#adc7327c3052afdcff70994d87cd906a3" title="G4QGSParticipants::\lBuildInteractions" alt="" coords="595,449,753,493"/>
+<area shape="rect" id="node17" href="$dd/dbb/classG4FTFModel.html#ae51a4d0d59f37d979b53116356e63f49" title="G4FTFModel::GetStrings" alt="" coords="581,517,767,545"/>
+</map>

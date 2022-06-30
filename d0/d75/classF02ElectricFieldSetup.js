@@ -1,0 +1,25 @@
+var classF02ElectricFieldSetup =
+[
+    [ "F02ElectricFieldSetup", "d0/d75/classF02ElectricFieldSetup.html#a073256c3e6b6e9b3e63a6bef5a1f08f9", null ],
+    [ "F02ElectricFieldSetup", "d0/d75/classF02ElectricFieldSetup.html#a864293e94c54cc7b7be47590adf395ad", null ],
+    [ "~F02ElectricFieldSetup", "d0/d75/classF02ElectricFieldSetup.html#ad3cad30e0f2848cc2b1925e6255acf26", null ],
+    [ "CreateStepper", "d0/d75/classF02ElectricFieldSetup.html#a12b3a414fc83c3b31ce1f38e45a444c6", null ],
+    [ "GetConstantFieldValue", "d0/d75/classF02ElectricFieldSetup.html#a28a039ca9ac4758c1a7293c9774bd289", null ],
+    [ "GetGlobalFieldManager", "d0/d75/classF02ElectricFieldSetup.html#a8391eb94d9b2b70cf1099bc712c3062b", null ],
+    [ "SetFieldValue", "d0/d75/classF02ElectricFieldSetup.html#a83b5b022f8014de0688bbf59207b6202", null ],
+    [ "SetFieldZValue", "d0/d75/classF02ElectricFieldSetup.html#a98ff4b8385351e1a03850a52da454692", null ],
+    [ "SetMinStep", "d0/d75/classF02ElectricFieldSetup.html#a864b89540fffc2ac8c17616404300fcd", null ],
+    [ "SetStepperType", "d0/d75/classF02ElectricFieldSetup.html#a5c673cfaf44d4d7015fd391e533036d7", null ],
+    [ "UpdateIntegrator", "d0/d75/classF02ElectricFieldSetup.html#a52d15424e57942fc786b33b562e86a61", null ],
+    [ "fChordFinder", "d0/d75/classF02ElectricFieldSetup.html#a8e25fa5925dea45087bd2d24b17feb08", null ],
+    [ "fElFieldValue", "d0/d75/classF02ElectricFieldSetup.html#a4c4645ba9e9d555c35a3e2054ebc4ddc", null ],
+    [ "fEMfield", "d0/d75/classF02ElectricFieldSetup.html#aa9fbc5dc81985634117cf3d4ef3f220b", null ],
+    [ "fEquation", "d0/d75/classF02ElectricFieldSetup.html#a805bbc29df84c1a48853ec3c5fcb39c3", null ],
+    [ "fFieldManager", "d0/d75/classF02ElectricFieldSetup.html#a20aa1774765cf9c2deab42deb821954c", null ],
+    [ "fFieldMessenger", "d0/d75/classF02ElectricFieldSetup.html#a35e08cb76546e43ddfe91f3b5a23b102", null ],
+    [ "fIntgrDriver", "d0/d75/classF02ElectricFieldSetup.html#aec1d3fd3e9f9a4733f426f7dc26d5622", null ],
+    [ "fMinStep", "d0/d75/classF02ElectricFieldSetup.html#a337bdb254a1001981e3666b6c74b0f88", null ],
+    [ "fStepper", "d0/d75/classF02ElectricFieldSetup.html#af4c7c8dcf4c0d8cccf9d1222ebc67521", null ],
+    [ "fStepperType", "d0/d75/classF02ElectricFieldSetup.html#a8c0c623a73b43fed27f09cd80d54a8ff", null ],
+    [ "fVerbose", "d0/d75/classF02ElectricFieldSetup.html#ac4da0261be48ac27faccc531f03b7c64", null ]
+];

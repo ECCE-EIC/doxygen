@@ -1,0 +1,16 @@
+<map id="G4EmDNAPhysicsActivator::AddGenericIonModels0" name="G4EmDNAPhysicsActivator::AddGenericIonModels0">
+<area shape="rect" id="node2" href="$d9/d78/classG4LossTableManager.html#a9c6f36803878d36b3dcabb4280b583db" title="G4LossTableManager\l::EmConfigurator" alt="" coords="296,5,461,49"/>
+<area shape="rect" id="node3" href="$d9/d78/classG4LossTableManager.html#a2f26d6edfd1d62ac3a714ac9f6bd6b9c" title="G4LossTableManager\l::Instance" alt="" coords="296,73,461,117"/>
+<area shape="rect" id="node9" href="$dc/d54/classG4EmParameters.html#a67fb789cf4d122524cc8122b648c9fea" title="G4EmParameters::MaxKinEnergy" alt="" coords="256,141,501,169"/>
+<area shape="rect" id="node10" href="$d3/dc1/classG4VEmModel.html#a2219fdb60cda20faafd87585596abcfe" title="G4VEmModel::SetActivation\lLowEnergyLimit" alt="" coords="273,193,484,237"/>
+<area shape="rect" id="node11" href="$d9/df6/classG4EmConfigurator.html#a23f9b691bdfd6422fcac7c27cd767ca8" title="G4EmConfigurator::SetExtra\lEmModel" alt="" coords="273,261,485,305"/>
+<area shape="rect" id="node4" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="573,73,760,117"/>
+<area shape="rect" id="node5" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="865,29,981,57"/>
+<area shape="rect" id="node6" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="866,81,979,109"/>
+<area shape="rect" id="node7" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="832,133,1013,161"/>
+<area shape="rect" id="node8" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1061,125,1248,169"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a130128c3e374c1cc5236a6b8575ce415" title="G4VEmModel::GetName" alt="" coords="574,191,759,219"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="549,243,784,271"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="552,295,781,323"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a9f2862957d25be3f4ddbbc925d8801f7" title="G4VEmModel::SetActivation\lHighEnergyLimit" alt="" coords="561,347,772,391"/>
+</map>

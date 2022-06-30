@@ -1,0 +1,20 @@
+<map id="G4MagIntegratorStepper::GetNumberOfStateVariables" name="G4MagIntegratorStepper::GetNumberOfStateVariables">
+<area shape="rect" id="node2" href="$dd/dc4/classG4BogackiShampine45.html#a173b37724b3a445d34ac0ed712e61cc5" title="G4BogackiShampine45\l::G4BogackiShampine45" alt="" coords="310,5,498,49"/>
+<area shape="rect" id="node3" href="$d5/d3a/classG4CashKarpRKF45.html#a402b7007499a7f1238ae6cf15ef90121" title="G4CashKarpRKF45::G4CashKarp\lRKF45" alt="" coords="283,73,525,117"/>
+<area shape="rect" id="node4" href="$db/d7a/classG4SimpleRunge.html#a21ed4ac4a8677cb43cb45fbf248cf1b3" title="G4SimpleRunge::G4SimpleRunge" alt="" coords="281,141,527,169"/>
+<area shape="rect" id="node5" href="$de/d75/classG4TsitourasRK45.html#a843a0ef7444d4fa9140e1cf71db321e8" title="G4TsitourasRK45::G4TsitourasRK45" alt="" coords="275,193,533,221"/>
+<area shape="rect" id="node6" href="$dd/d11/classG4RK547FEq2.html#a7592292f532cb93bb0f3af0ced343fe1" title="G4RK547FEq2::makeStep" alt="" coords="307,245,501,273"/>
+<area shape="rect" id="node9" href="$dd/d2d/classG4RK547FEq3.html#a4ecde9d79e74acbb0fad3ead21329cc3" title="G4RK547FEq3::makeStep" alt="" coords="307,297,501,325"/>
+<area shape="rect" id="node12" href="$dd/d72/classG4RK547FEq1.html#af2d19d605e9fb6ebbff7f8986b686499" title="G4RK547FEq1::makeStep" alt="" coords="307,349,501,377"/>
+<area shape="rect" id="node15" href="$df/dfc/classG4BogackiShampine23.html#adb0ff03d98f26ab3440f5124b4def7f3" title="G4BogackiShampine23\l::makeStep" alt="" coords="315,401,493,445"/>
+<area shape="rect" id="node18" href="$dc/d5e/classG4MagErrorStepper.html#aeb9a92049e4566d312d61bbaae8eff69" title="G4MagErrorStepper::\lStepper" alt="" coords="323,469,485,513"/>
+<area shape="rect" id="node19" href="$d9/d37/classG4ConstRK4.html#a734461174700546a9ef79f82ce8a3ba0" title="G4ConstRK4::Stepper" alt="" coords="319,537,489,565"/>
+<area shape="rect" id="node7" href="$dd/d11/classG4RK547FEq2.html#a9a1e5292e7a92b5d201c7f1306438a04" title="G4RK547FEq2::Stepper" alt="" coords="587,141,769,169"/>
+<area shape="rect" id="node8" href="$dd/d11/classG4RK547FEq2.html#aef3d0ab363ad739f592e6e5b2d38eba2" title="G4RK547FEq2::DistChord" alt="" coords="581,193,775,221"/>
+<area shape="rect" id="node10" href="$dd/d2d/classG4RK547FEq3.html#a4fc9659499e4a2d3803a8028c65d093e" title="G4RK547FEq3::Stepper" alt="" coords="587,245,769,273"/>
+<area shape="rect" id="node11" href="$dd/d2d/classG4RK547FEq3.html#a870c3ba79ef625b7ce67f3f6a2154a75" title="G4RK547FEq3::DistChord" alt="" coords="581,297,775,325"/>
+<area shape="rect" id="node13" href="$dd/d72/classG4RK547FEq1.html#a253de9ad3c6da72040a4c55b5287daf8" title="G4RK547FEq1::Stepper" alt="" coords="587,349,769,377"/>
+<area shape="rect" id="node14" href="$dd/d72/classG4RK547FEq1.html#ae59a2c56fcb113cc44c5ffc4f1a24c2d" title="G4RK547FEq1::DistChord" alt="" coords="581,401,775,429"/>
+<area shape="rect" id="node16" href="$df/dfc/classG4BogackiShampine23.html#a5af50430406dd102444c6d7bae1d5ec6" title="G4BogackiShampine23\l::DistChord" alt="" coords="589,453,767,497"/>
+<area shape="rect" id="node17" href="$df/dfc/classG4BogackiShampine23.html#ad311287f5963439714c21c74ae7a9abb" title="G4BogackiShampine23\l::Stepper" alt="" coords="589,521,767,565"/>
+</map>

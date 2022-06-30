@@ -1,0 +1,29 @@
+<map id="eRositaDetectorConstruction::Construct" name="eRositaDetectorConstruction::Construct">
+<area shape="rect" id="node2" href="$d9/d6b/classG4SDManager.html#a8380c44487a009e4f53bb0a998bc8c31" title="G4SDManager::AddNewDetector" alt="" coords="275,232,517,260"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="287,359,505,387"/>
+<area shape="rect" id="node22" href="$d9/d6b/classG4SDManager.html#a08beb9db9dbec2cae46d06717f6369f7" title="G4SDManager::GetSDMpointer" alt="" coords="281,411,511,439"/>
+<area shape="rect" id="node24" href="$dc/df1/classG4VisAttributes.html#af20a3721c990a313084c575489a057ee" title="G4VisAttributes::SetColor" alt="" coords="299,463,493,491"/>
+<area shape="rect" id="node25" href="$da/dc4/classG4LogicalVolume.html#ae3f47df020cda5c50e615b11890e406d" title="G4LogicalVolume::SetSensitive\lDetector" alt="" coords="281,515,511,559"/>
+<area shape="rect" id="node27" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="268,583,524,611"/>
+<area shape="rect" id="node28" href="$dc/df1/classG4VisAttributes.html#a2c633b86c23dd2b32229db126885efd6" title="G4VisAttributes::SetVisibility" alt="" coords="289,635,503,663"/>
+<area shape="rect" id="node3" href="$df/dbc/classG4VSensitiveDetector.html#adc3da7f953edcd724965a11626fe8012" title="G4VSensitiveDetector\l::GetNumberOfCollections" alt="" coords="598,125,795,169"/>
+<area shape="rect" id="node4" href="$df/dbc/classG4VSensitiveDetector.html#a51333874c30591c54e7f03c859d0ed2f" title="G4VSensitiveDetector\l::GetPathName" alt="" coords="611,193,782,237"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html#a80e22772096d15941cc0a729d133e555" title="G4String::prepend" alt="" coords="920,127,1065,155"/>
+<area shape="rect" id="node6" href="$d1/d43/classG4SDStructure.html#af288d528ebb206e5dd190623b4858f9d" title="G4SDStructure::AddNewDetector" alt="" coords="574,337,819,365"/>
+<area shape="rect" id="node15" href="$df/dbc/classG4VSensitiveDetector.html#a3f90d67d18015a44c8daaa10859ae5a3" title="G4VSensitiveDetector\l::GetName" alt="" coords="907,595,1078,639"/>
+<area shape="rect" id="node18" href="$df/dbc/classG4VSensitiveDetector.html#a818f380e2e5fb712bfccb92a3b0b7053" title="G4VSensitiveDetector\l::GetCollectionName" alt="" coords="611,5,782,49"/>
+<area shape="rect" id="node19" href="$d9/d6b/classG4SDManager.html#afe0d8d6f95484177f0b4d4212d9e44bb" title="G4SDManager::AddNewCollection" alt="" coords="572,73,821,101"/>
+<area shape="rect" id="node7" href="$d5/d72/classG4String.html#afb274c4b23618f6ac01f89880e5069b9" title="G4String::remove" alt="" coords="1164,387,1305,415"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html#ab37edd5326efe646514318907798d264" title="G4String::isNull" alt="" coords="929,335,1056,363"/>
+<area shape="rect" id="node9" href="$d1/d43/classG4SDStructure.html#a02f143832c4920436d2b5c9a2dacb0fd" title="G4SDStructure::ExtractDirName" alt="" coords="874,283,1111,311"/>
+<area shape="rect" id="node11" href="$d1/d43/classG4SDStructure.html#a8fad749a23eb1253aefb4208038354f2" title="G4SDStructure::FindSubDirectory" alt="" coords="869,439,1116,467"/>
+<area shape="rect" id="node12" href="$d1/d43/classG4SDStructure.html#aa1cf9d96ea3cd63d599fcc8bc667c8aa" title="G4SDStructure::G4SDStructure" alt="" coords="877,491,1108,519"/>
+<area shape="rect" id="node14" href="$d1/d43/classG4SDStructure.html#a3d39e0d54816e3b2416ddf2b5d524a73" title="G4SDStructure::GetSD" alt="" coords="906,543,1079,571"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="939,179,1046,207"/>
+<area shape="rect" id="node17" href="$d1/d43/classG4SDStructure.html#a45f91ed781f1a6d0bfc7de6675af5557" title="G4SDStructure::RemoveSD" alt="" coords="891,231,1095,259"/>
+<area shape="rect" id="node10" href="$d5/d72/classG4String.html#ab6261a741b9eef5c5731c3a0523f08da" title="G4String::first" alt="" coords="1176,283,1293,311"/>
+<area shape="rect" id="node13" href="$d5/d72/classG4String.html#a736140ddd90de6db79a3d4036eb41d85" title="G4String::last" alt="" coords="1177,491,1292,519"/>
+<area shape="rect" id="node20" href="$de/dd7/classG4HCtable.html#a3690a802698825fdb174050cd9831120" title="G4HCtable::Registor" alt="" coords="913,73,1073,101"/>
+<area shape="rect" id="node23" href="$d9/d6b/classG4SDManager.html#a56303fb2a382670fba72f15beff2834c" title="G4SDManager::G4SDManager" alt="" coords="584,441,809,469"/>
+<area shape="rect" id="node26" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="586,523,807,551"/>
+</map>

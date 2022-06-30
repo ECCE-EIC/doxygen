@@ -1,0 +1,19 @@
+<map id="HadrontherapyDetectorROGeometry::UpdateROGeometry" name="HadrontherapyDetectorROGeometry::UpdateROGeometry">
+<area shape="rect" id="node2" href="$d9/dbb/classG4PhysicalVolumeStore.html#a7787a6c5fc1227ce1477175fbaad6a66" title="G4PhysicalVolumeStore\l::DeRegister" alt="" coords="321,83,503,127"/>
+<area shape="rect" id="node3" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="593,177,775,221"/>
+<area shape="rect" id="node8" href="$d9/dbb/classG4PhysicalVolumeStore.html#ac82d899011f0535cdfb71cbac30e4a86" title="G4PhysicalVolumeStore\l::GetVolume" alt="" coords="321,203,503,247"/>
+<area shape="rect" id="node15" href="$d0/d5a/classG4Box.html#ac294bf1fe30c68eb26e915bf675eaf2e" title="G4Box::SetXHalfLength" alt="" coords="323,271,501,299"/>
+<area shape="rect" id="node17" href="$d0/d5a/classG4Box.html#ac0aee998dce0464a468489efe4b79bf6" title="G4Box::SetYHalfLength" alt="" coords="323,323,501,351"/>
+<area shape="rect" id="node18" href="$d0/d5a/classG4Box.html#a87cd04543b09298414376c1438487d58" title="G4Box::SetZHalfLength" alt="" coords="323,375,501,403"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#a3b3e462bc9a0a36dfa6b0628762c0a2b" title="G4VPhysicalVolume::\lGetMotherLogical" alt="" coords="602,109,766,153"/>
+<area shape="rect" id="node5" href="$dd/dd0/classG4VNotifier.html#ac5da3624026e0a44f319b58913a3dc55" title="G4VNotifier::NotifyDeRegistration" alt="" coords="561,5,807,33"/>
+<area shape="rect" id="node6" href="$da/dc4/classG4LogicalVolume.html#a4a7913cc073e9316beb9503e99a6badb" title="G4LogicalVolume::RemoveDaughter" alt="" coords="551,57,817,85"/>
+<area shape="rect" id="node7" href="$d1/d35/classG4Region.html#a58af2e9a364d86c98d6a4c6679658488" title="G4Region::RegionModified" alt="" coords="873,57,1073,85"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="631,323,737,351"/>
+<area shape="rect" id="node10" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="643,271,725,299"/>
+<area shape="rect" id="node11" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="865,195,1081,239"/>
+<area shape="rect" id="node12" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="867,263,1079,307"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="868,331,1079,375"/>
+<area shape="rect" id="node14" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1129,331,1297,375"/>
+<area shape="rect" id="node16" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="606,375,762,403"/>
+</map>

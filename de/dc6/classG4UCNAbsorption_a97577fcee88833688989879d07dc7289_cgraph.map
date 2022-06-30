@@ -1,0 +1,24 @@
+<map id="G4UCNAbsorption::PostStepDoIt" name="G4UCNAbsorption::PostStepDoIt">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="564,5,749,33"/>
+<area shape="rect" id="node3" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="314,81,478,125"/>
+<area shape="rect" id="node4" href="$df/d47/classG4StepPoint.html#ac562791462aede5cfa51be7793cae137" title="G4StepPoint::GetPhysical\lVolume" alt="" coords="300,149,492,193"/>
+<area shape="rect" id="node5" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="297,217,495,245"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#afb7ef91e381ab5e648d9b5c6e7ea10f0" title="G4Track::GetProperTime" alt="" coords="303,269,489,297"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a04506540e721cde8fc36fac67a78e4e7" title="G4Track::GetTrackLength" alt="" coords="301,321,491,349"/>
+<area shape="rect" id="node8" href="$d2/d06/classG4ParticleChange.html#ac0e464b1e58e7180b645b4ff9516281a" title="G4ParticleChange::Initialize" alt="" coords="292,373,500,401"/>
+<area shape="rect" id="node21" href="$da/dea/classG4VDiscreteProcess.html#a9998931d55d5ba52d396c9738232e3f5" title="G4VDiscreteProcess\l::PostStepDoIt" alt="" coords="318,425,474,469"/>
+<area shape="rect" id="node23" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="316,493,476,537"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#a25422607b7822f675f845a9d2f7abd39" title="G4DynamicParticle::\lGetCharge" alt="" coords="578,57,735,101"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="548,125,765,153"/>
+<area shape="rect" id="node11" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="578,177,735,221"/>
+<area shape="rect" id="node12" href="$d1/d33/classG4Track.html#a70077e82fa447fe7695784ddf733a647" title="G4Track::GetLocalTime" alt="" coords="568,245,745,273"/>
+<area shape="rect" id="node13" href="$d7/d5c/classG4DynamicParticle.html#a3b96233fcb3d586d7bf8b60718faeb00" title="G4DynamicParticle::\lGetMagneticMoment" alt="" coords="575,297,738,341"/>
+<area shape="rect" id="node14" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="578,365,735,409"/>
+<area shape="rect" id="node15" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="565,433,748,477"/>
+<area shape="rect" id="node16" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="578,501,735,545"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="576,569,737,597"/>
+<area shape="rect" id="node18" href="$d7/d5c/classG4DynamicParticle.html#a40ba834a495be7dac050257449e20211" title="G4DynamicParticle::\lGetProperTime" alt="" coords="578,621,735,665"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="575,689,738,717"/>
+<area shape="rect" id="node20" href="$d6/d6c/classG4VParticleChange.html#a87dc2247a22d7c2ac0422efa03bbae75" title="G4VParticleChange::\lInitialize" alt="" coords="577,741,737,785"/>
+<area shape="rect" id="node22" href="$d2/d84/classG4VProcess.html#a3876f68314f809d4031ec395653040ab" title="G4VProcess::ClearNumberOf\lInteractionLengthLeft" alt="" coords="549,809,765,853"/>
+</map>

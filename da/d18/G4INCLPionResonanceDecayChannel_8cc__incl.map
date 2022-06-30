@@ -1,0 +1,33 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/src/G4INCLPionResonanceDecayChannel.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/src/G4INCLPionResonanceDecayChannel.cc">
+<area shape="rect" id="node2" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="861,1073,952,1101"/>
+<area shape="rect" id="node27" href="$d8/db8/G4INCLPionResonanceDecayChannel_8hh.html" title="G4INCLPionResonanceDecay\lChannel.hh" alt="" coords="283,297,499,341"/>
+<area shape="rect" id="node38" href="$d5/dcb/G4INCLRandom_8hh.html" title="G4INCLRandom.hh" alt="" coords="735,769,883,797"/>
+<area shape="rect" id="node41" href="$d6/d89/G4INCLGlobals_8hh.html" title="G4INCLGlobals.hh" alt="" coords="1131,845,1274,873"/>
+<area shape="rect" id="node46" href="$de/dde/G4INCLKinematicsUtils_8hh.html" title="G4INCLKinematicsUtils.hh" alt="" coords="1714,305,1910,333"/>
+<area shape="rect" id="node47" href="$de/d45/G4INCLBinaryCollisionAvatar_8hh.html" title="G4INCLBinaryCollisionAvatar.hh" alt="" coords="816,145,1051,173"/>
+<area shape="rect" id="node49" href="$d3/d46/G4INCLPhaseSpaceGenerator_8hh.html" title="G4INCLPhaseSpaceGenerator.hh" alt="" coords="626,389,867,417"/>
+<area shape="rect" id="node3" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1206,1301,1287,1329"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1037,1377,1137,1405"/>
+<area shape="rect" id="node10" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="867,1301,968,1329"/>
+<area shape="rect" id="node15" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="601,1149,711,1177"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1023,1225,1151,1253"/>
+<area shape="rect" id="node21" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1319,1149,1497,1177"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1151,1453,1209,1481"/>
+<area shape="rect" id="node19" href="$d9/d05/G4VExceptionHandler_8hh.html" title="G4VExceptionHandler.hh" alt="" coords="992,1301,1181,1329"/>
+<area shape="rect" id="node20" href="$d6/d7e/G4ExceptionSeverity_8hh.html" title="G4ExceptionSeverity.hh" alt="" coords="1199,1377,1380,1405"/>
+<area shape="rect" id="node28" href="$dc/dc6/G4INCLIChannel_8hh.html" title="G4INCLIChannel.hh" alt="" coords="195,541,347,569"/>
+<area shape="rect" id="node29" href="$da/d04/G4INCLAllocationPool_8hh.html" title="Singleton for recycling allocation of instances of a given class." alt="" coords="245,617,432,645"/>
+<area shape="rect" id="node30" href="$d2/d20/G4INCLParticle_8hh.html" title="G4INCLParticle.hh" alt="" coords="1335,541,1476,569"/>
+<area shape="rect" id="node44" href="$dd/d4b/G4INCLNucleus_8hh.html" title="G4INCLNucleus.hh" alt="" coords="1170,389,1315,417"/>
+<area shape="rect" id="node45" href="$d6/d0d/G4INCLFinalState_8hh.html" title="G4INCLFinalState.hh" alt="" coords="995,465,1154,493"/>
+<area shape="rect" id="node31" href="$dc/d41/G4INCLThreeVector_8hh.html" title="G4INCLThreeVector.hh" alt="" coords="1299,845,1469,873"/>
+<area shape="rect" id="node33" href="$d6/d58/G4INCLParticleTable_8hh.html" title="G4INCLParticleTable.hh" alt="" coords="1494,617,1671,645"/>
+<area shape="rect" id="node35" href="$df/d0c/G4INCLParticleType_8hh.html" title="G4INCLParticleType.hh" alt="" coords="1347,997,1519,1025"/>
+<area shape="rect" id="node36" href="$d9/d8d/G4INCLParticleSpecies_8hh.html" title="G4INCLParticleSpecies.hh" alt="" coords="1579,921,1773,949"/>
+<area shape="rect" id="node37" href="$d8/d3e/G4INCLLogger_8hh.html" title="G4INCLLogger.hh" alt="" coords="1970,693,2107,721"/>
+<area shape="rect" id="node42" href="$d6/d6d/G4INCLConfig_8hh.html" title="G4INCLConfig.hh" alt="" coords="2152,845,2288,873"/>
+<area shape="rect" id="node40" href="$d2/dcb/G4INCLIRandomGenerator_8hh.html" title="G4INCLIRandomGenerator.hh" alt="" coords="651,997,869,1025"/>
+<area shape="rect" id="node43" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="752,845,869,873"/>
+<area shape="rect" id="node48" href="$dc/de7/G4INCLInteractionAvatar_8hh.html" title="G4INCLInteractionAvatar.hh" alt="" coords="829,221,1037,249"/>
+<area shape="rect" id="node50" href="$db/d08/G4INCLIPhaseSpaceGenerator_8hh.html" title="Abstract interface for the phase&#45;space generators." alt="" coords="625,465,869,493"/>
+</map>

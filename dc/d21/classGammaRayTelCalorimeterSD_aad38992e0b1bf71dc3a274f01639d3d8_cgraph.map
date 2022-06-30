@@ -1,0 +1,15 @@
+<map id="GammaRayTelCalorimeterSD::ProcessHits" name="GammaRayTelCalorimeterSD::ProcessHits">
+<area shape="rect" id="node2" href="$d7/d48/classGammaRayTelCalorimeterHit.html#ae81605956ba37390745e3bd01a6d22e4" title="GammaRayTelCalorimeterHit\l::AddEnergy" alt="" coords="280,5,497,49"/>
+<area shape="rect" id="node3" href="$d1/d28/classG4VPhysicalVolume.html#a84f0c0503d7b0a0aeca7223e9bff860b" title="G4VPhysicalVolume::\lGetCopyNo" alt="" coords="307,73,471,117"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="307,141,471,185"/>
+<area shape="rect" id="node5" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="293,209,484,237"/>
+<area shape="rect" id="node6" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="293,261,484,289"/>
+<area shape="rect" id="node7" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="271,313,507,341"/>
+<area shape="rect" id="node8" href="$df/d47/classG4StepPoint.html#a3d7badd0a7dc69f55770230a5e891183" title="G4StepPoint::GetTouchable" alt="" coords="286,365,491,393"/>
+<area shape="rect" id="node9" href="$d2/dc3/classG4TouchableHistory.html#acb2a2615b5d70d448a3b0ed427e501e0" title="G4TouchableHistory\l::GetVolume" alt="" coords="310,417,467,461"/>
+<area shape="rect" id="node10" href="$d5/d58/classG4THitsCollection.html#ab5314c7da12c8553099ff67b4f300896" title="G4THitsCollection::\linsert" alt="" coords="313,485,464,529"/>
+<area shape="rect" id="node11" href="$d7/d48/classGammaRayTelCalorimeterHit.html#a45a8b329ce78918cf8cf197557d3341b" title="GammaRayTelCalorimeterHit\l::SetCALBarNumber" alt="" coords="280,553,497,597"/>
+<area shape="rect" id="node12" href="$d7/d48/classGammaRayTelCalorimeterHit.html#a999561659a6631111e58bfeca8141b6f" title="GammaRayTelCalorimeterHit\l::SetCALPlaneNumber" alt="" coords="280,621,497,665"/>
+<area shape="rect" id="node13" href="$d7/d48/classGammaRayTelCalorimeterHit.html#aedaa71dbd1254ffbf7b993352078badf" title="GammaRayTelCalorimeterHit\l::SetCALType" alt="" coords="280,689,497,733"/>
+<area shape="rect" id="node14" href="$d7/d48/classGammaRayTelCalorimeterHit.html#ac7205d544df0cddeb9e160e7384d8cad" title="GammaRayTelCalorimeterHit\l::SetPos" alt="" coords="280,757,497,801"/>
+</map>

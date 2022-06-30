@@ -1,0 +1,51 @@
+<map id="MCGIDI_KalbachMann_parseFromTOM2" name="MCGIDI_KalbachMann_parseFromTOM2">
+<area shape="rect" id="node2" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="485,292,624,320"/>
+<area shape="rect" id="node3" href="$d2/db9/nf__utilities_8h.html#a41a3474bf4b5054cfc0d85dafe7d3da3" title="nfu_statusMessage" alt="" coords="235,448,385,476"/>
+<area shape="rect" id="node4" href="$dc/d39/ptwX_8h.html#a1bd56c471d3b084b50b49daef747fb52" title="ptwX_free" alt="" coords="511,623,599,651"/>
+<area shape="rect" id="node8" href="$dc/d39/ptwX_8h.html#a8853350b041c8bcf7c65b36f2c37d2c7" title="ptwX_getPointAtIndex\l_Unsafely" alt="" coords="225,552,395,596"/>
+<area shape="rect" id="node9" href="$d2/d7d/ptwXY_8h.html#a4e2144be01132d37a1117e23388c293c" title="ptwXY_free" alt="" coords="507,759,603,787"/>
+<area shape="rect" id="node11" href="$d2/d7d/ptwXY_8h.html#a5c7ee79b86bdec11d13438e5768eefbd" title="ptwXY_getPointAtIndex\l_Unsafely" alt="" coords="221,672,399,716"/>
+<area shape="rect" id="node12" href="$d2/d7d/ptwXY_8h.html#a26fbf7beea8dc3f758d52c95f0e6c6b8" title="ptwXY_new" alt="" coords="261,792,359,820"/>
+<area shape="rect" id="node24" href="$d2/d7d/ptwXY_8h.html#a3349502f7c6176b3d7cc829de4ae5535" title="ptwXY_runningIntegral" alt="" coords="223,500,397,528"/>
+<area shape="rect" id="node45" href="$d2/d7d/ptwXY_8h.html#a14b62e958421b20c0d911e7b2b532704" title="ptwXY_setValueAtX" alt="" coords="234,844,386,872"/>
+<area shape="rect" id="node50" href="$dd/dc6/statusMessageReporting_8h.html#a23c74a6eff07826813358d99f43e1121" title="smr_freeMemory" alt="" coords="243,896,377,924"/>
+<area shape="rect" id="node5" href="$d2/db9/nf__utilities_8h.html#ada4b5b5229ccf0a4e9dfed13efeed72d" title="nfu_free" alt="" coords="1019,721,1095,749"/>
+<area shape="rect" id="node7" href="$dc/d39/ptwX_8h.html#a2def0c4149fa319065db8b211bd50fbb" title="ptwX_release" alt="" coords="754,707,865,735"/>
+<area shape="rect" id="node6" href="$d8/deb/comparison__ascii_8C.html#abdedbca3600eb6c52e42ed70d25d71aa" title="printf" alt="" coords="1713,721,1772,749"/>
+<area shape="rect" id="node10" href="$d2/d7d/ptwXY_8h.html#adcf19c96e1df2c0d7ef36268871d43ab" title="ptwXY_release" alt="" coords="750,811,869,839"/>
+<area shape="rect" id="node13" href="$d2/db9/nf__utilities_8h.html#a3c3b25dcd747e63c96d357e07a9b503a" title="nfu_calloc" alt="" coords="765,552,854,580"/>
+<area shape="rect" id="node14" href="$d2/d7d/ptwXY_8h.html#aff801ef2f772289c2e577ed1acfd0353" title="ptwXY_setup" alt="" coords="501,1009,609,1037"/>
+<area shape="rect" id="node15" href="$d7/db3/ptwXY__core_8cc.html#af7b3e6497914d3e67ea5c056d6236469" title="ptwXY_initialOverflowPoint" alt="" coords="956,1191,1159,1219"/>
+<area shape="rect" id="node16" href="$d2/d7d/ptwXY_8h.html#a21d8e7de3ccab559e72b1f34210bfd83" title="ptwXY_reallocateOverflow\lPoints" alt="" coords="711,915,908,959"/>
+<area shape="rect" id="node20" href="$d2/d7d/ptwXY_8h.html#a3ffc6169358b35ac6f46aaf1594e4a3d" title="ptwXY_reallocatePoints" alt="" coords="1231,927,1408,955"/>
+<area shape="rect" id="node21" href="$d2/d7d/ptwXY_8h.html#a0f5879c569742a3a941d6761a4fd37f6" title="ptwXY_setAccuracy" alt="" coords="733,1035,885,1063"/>
+<area shape="rect" id="node22" href="$d2/d7d/ptwXY_8h.html#ade2e8fea3b00426ad7745d3f8a216c55" title="ptwXY_setBiSectionMax" alt="" coords="719,1087,900,1115"/>
+<area shape="rect" id="node23" href="$d2/d7d/ptwXY_8h.html#a3f454ba7fba76a69c3adcee6bfb7fce7" title="ptwXY_setUserFlag" alt="" coords="735,1139,884,1167"/>
+<area shape="rect" id="node17" href="$d2/db9/nf__utilities_8h.html#a30e8c255242666faf25ce737faa08aa1" title="nfu_realloc" alt="" coords="1480,803,1575,831"/>
+<area shape="rect" id="node18" href="$d2/d7d/ptwXY_8h.html#a550600ef46036ede8fce5a5fae0d9d5b" title="ptwXY_coalescePoints" alt="" coords="973,927,1142,955"/>
+<area shape="rect" id="node19" href="$d2/d7d/ptwXY_8h.html#a5b7bec83d87c62cf9c522e2b7f5bfc8e" title="ptwXY_getNonOverflowLength" alt="" coords="1207,1295,1432,1323"/>
+<area shape="rect" id="node25" href="$dc/d39/ptwX_8h.html#a62589eb72856121e9e0c560664a80cd8" title="ptwX_new" alt="" coords="509,500,600,528"/>
+<area shape="rect" id="node28" href="$dc/d39/ptwX_8h.html#ad5bce6ae58065fedcbab23df09d5a0ea" title="ptwX_setPointAtIndex" alt="" coords="471,421,638,449"/>
+<area shape="rect" id="node29" href="$d2/d7d/ptwXY_8h.html#afd9fabd8d3a21665b7c28251f9497ed0" title="ptwXY_f_integrate" alt="" coords="483,344,626,372"/>
+<area shape="rect" id="node44" href="$d2/d7d/ptwXY_8h.html#a45754f6b580c2a9857919428fdc2cb62" title="ptwXY_simpleCoalescePoints" alt="" coords="447,559,663,587"/>
+<area shape="rect" id="node26" href="$dc/d39/ptwX_8h.html#a20f73ca043e49ffaff9ae0609e9034e9" title="ptwX_setup" alt="" coords="759,448,859,476"/>
+<area shape="rect" id="node27" href="$dc/d39/ptwX_8h.html#a18bb2acbbd2970699cd2018c8a199242" title="ptwX_reallocatePoints" alt="" coords="973,448,1142,476"/>
+<area shape="rect" id="node30" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1495,84,1559,112"/>
+<area shape="rect" id="node36" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="731,292,888,320"/>
+<area shape="rect" id="node37" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="789,344,829,372"/>
+<area shape="rect" id="node38" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="753,163,866,191"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1647,84,1839,112"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1647,136,1839,164"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1623,32,1863,60"/>
+<area shape="rect" id="node34" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1911,5,2099,33"/>
+<area shape="rect" id="node35" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1911,57,2099,85"/>
+<area shape="rect" id="node39" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="1002,163,1113,191"/>
+<area shape="rect" id="node42" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="1004,84,1111,112"/>
+<area shape="rect" id="node40" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1300,188,1339,216"/>
+<area shape="rect" id="node41" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1286,136,1353,164"/>
+<area shape="rect" id="node43" href="$de/d0f/classG4Pow.html#ac13480ec4002760d19472b52e517933b" title="G4Pow::logBase" alt="" coords="1255,84,1384,112"/>
+<area shape="rect" id="node46" href="$d2/d7d/ptwXY_8h.html#a641cb9a81a7169c94045d3fb3c31978a" title="ptwXY_setValueAtX_override\lIfClose" alt="" coords="448,1263,661,1307"/>
+<area shape="rect" id="node47" href="$d2/d7d/ptwXY_8h.html#a9b34cd7c28efa3e9d6c11c43bce54395" title="ptwXY_getPointsAroundX\l_closeIsEqual" alt="" coords="714,1293,905,1337"/>
+<area shape="rect" id="node48" href="$d2/d7d/ptwXY_8h.html#acdef5020b70bd453aba3ce9535df106c" title="ptwXY_getXMaxAndFrom" alt="" coords="963,1295,1151,1323"/>
+<area shape="rect" id="node49" href="$d2/d7d/ptwXY_8h.html#afcc2b5db05c068617d5958eacfe6b0d6" title="ptwXY_getXMinAndFrom" alt="" coords="965,1347,1150,1375"/>
+</map>

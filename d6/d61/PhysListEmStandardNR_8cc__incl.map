@@ -1,0 +1,48 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/electromagnetic/TestEm7/src/PhysListEmStandardNR.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/electromagnetic/TestEm7/src/PhysListEmStandardNR.cc">
+<area shape="rect" id="node2" href="$de/d54/PhysListEmStandardNR_8hh.html" title="Definition of the PhysListEmStandardNR class." alt="" coords="579,129,779,157"/>
+<area shape="rect" id="node6" href="$dd/d7b/G4PhysicsListHelper_8hh.html" title="G4PhysicsListHelper.hh" alt="" coords="1809,305,1987,333"/>
+<area shape="rect" id="node8" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="3012,389,3189,417"/>
+<area shape="rect" id="node14" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="3851,389,4012,417"/>
+<area shape="rect" id="node15" href="$db/d97/G4LossTableManager_8hh.html" title="G4LossTableManager.hh" alt="" coords="2011,305,2195,333"/>
+<area shape="rect" id="node18" href="$db/d75/G4EmProcessOptions_8hh.html" title="G4EmProcessOptions.hh" alt="" coords="2699,389,2886,417"/>
+<area shape="rect" id="node20" href="$dd/dd8/G4ComptonScattering_8hh.html" title="G4ComptonScattering.hh" alt="" coords="261,465,453,493"/>
+<area shape="rect" id="node21" href="$d9/d79/G4GammaConversion_8hh.html" title="G4GammaConversion.hh" alt="" coords="477,465,668,493"/>
+<area shape="rect" id="node22" href="$de/d76/G4PhotoElectricEffect_8hh.html" title="G4PhotoElectricEffect.hh" alt="" coords="481,213,670,241"/>
+<area shape="rect" id="node23" href="$d4/dd1/G4RayleighScattering_8hh.html" title="G4RayleighScattering.hh" alt="" coords="1006,129,1195,157"/>
+<area shape="rect" id="node24" href="$da/d7b/G4PEEffectFluoModel_8hh.html" title="G4PEEffectFluoModel.hh" alt="" coords="2317,213,2503,241"/>
+<area shape="rect" id="node25" href="$d7/d29/G4KleinNishinaModel_8hh.html" title="G4KleinNishinaModel.hh" alt="" coords="2527,213,2714,241"/>
+<area shape="rect" id="node26" href="$d0/dc3/G4LowEPComptonModel_8hh.html" title="G4LowEPComptonModel.hh" alt="" coords="1321,129,1528,157"/>
+<area shape="rect" id="node27" href="$d1/d5f/G4PenelopeGammaConversionModel_8hh.html" title="G4PenelopeGammaConversion\lModel.hh" alt="" coords="2831,297,3063,341"/>
+<area shape="rect" id="node28" href="$db/dd7/G4LivermorePhotoElectricModel_8hh.html" title="G4LivermorePhotoElectric\lModel.hh" alt="" coords="2096,205,2292,249"/>
+<area shape="rect" id="node29" href="$d6/dc1/G4eMultipleScattering_8hh.html" title="G4eMultipleScattering.hh" alt="" coords="1655,129,1848,157"/>
+<area shape="rect" id="node30" href="$d3/d61/G4MuMultipleScattering_8hh.html" title="G4MuMultipleScattering.hh" alt="" coords="1873,129,2078,157"/>
+<area shape="rect" id="node31" href="$d6/d8e/G4hMultipleScattering_8hh.html" title="G4hMultipleScattering.hh" alt="" coords="2103,129,2296,157"/>
+<area shape="rect" id="node32" href="$d0/d81/G4CoulombScattering_8hh.html" title="G4CoulombScattering.hh" alt="" coords="2320,129,2511,157"/>
+<area shape="rect" id="node33" href="$dc/db3/G4eCoulombScatteringModel_8hh.html" title="G4eCoulombScatteringModel.hh" alt="" coords="3290,389,3530,417"/>
+<area shape="rect" id="node34" href="$d6/dc1/G4UrbanMscModel_8hh.html" title="G4UrbanMscModel.hh" alt="" coords="3555,389,3724,417"/>
+<area shape="rect" id="node35" href="$da/d08/G4eIonisation_8hh.html" title="G4eIonisation.hh" alt="" coords="1089,213,1225,241"/>
+<area shape="rect" id="node36" href="$de/db4/G4eBremsstrahlung_8hh.html" title="G4eBremsstrahlung.hh" alt="" coords="1249,213,1427,241"/>
+<area shape="rect" id="node37" href="$d5/d12/G4Generator2BS_8hh.html" title="G4Generator2BS.hh" alt="" coords="3767,465,3923,493"/>
+<area shape="rect" id="node38" href="$de/d2d/G4SeltzerBergerModel_8hh.html" title="G4SeltzerBergerModel.hh" alt="" coords="2289,465,2483,493"/>
+<area shape="rect" id="node39" href="$db/db7/G4PenelopeIonisationModel_8hh.html" title="G4PenelopeIonisationModel.hh" alt="" coords="5,213,236,241"/>
+<area shape="rect" id="node40" href="$d2/d27/G4UniversalFluctuation_8hh.html" title="G4UniversalFluctuation.hh" alt="" coords="2970,213,3170,241"/>
+<area shape="rect" id="node41" href="$d9/d54/G4eplusAnnihilation_8hh.html" title="G4eplusAnnihilation.hh" alt="" coords="2941,129,3119,157"/>
+<area shape="rect" id="node42" href="$d9/ddb/G4UAtomicDeexcitation_8hh.html" title="G4UAtomicDeexcitation.hh" alt="" coords="2422,389,2625,417"/>
+<area shape="rect" id="node43" href="$dc/dd1/G4MuIonisation_8hh.html" title="G4MuIonisation.hh" alt="" coords="756,305,904,333"/>
+<area shape="rect" id="node44" href="$de/dbe/G4MuBremsstrahlung_8hh.html" title="G4MuBremsstrahlung.hh" alt="" coords="1182,305,1371,333"/>
+<area shape="rect" id="node45" href="$d8/d2e/G4MuPairProduction_8hh.html" title="G4MuPairProduction.hh" alt="" coords="1446,305,1625,333"/>
+<area shape="rect" id="node46" href="$d0/db9/G4hIonisation_8hh.html" title="G4hIonisation.hh" alt="" coords="1649,305,1785,333"/>
+<area shape="rect" id="node47" href="$d4/d45/G4ionIonisation_8hh.html" title="G4ionIonisation.hh" alt="" coords="917,213,1065,241"/>
+<area shape="rect" id="node48" href="$dd/d0e/G4IonParametrisedLossModel_8hh.html" title="G4IonParametrisedLossModel.hh" alt="" coords="3533,305,3775,333"/>
+<area shape="rect" id="node49" href="$d0/de9/G4ScreenedNuclearRecoil_8hh.html" title="Definition of the G4ScreenedNuclearRecoil class." alt="" coords="3189,305,3407,333"/>
+<area shape="rect" id="node50" href="$dc/ddf/G4BuilderType_8hh.html" title="G4BuilderType.hh" alt="" coords="3901,129,4041,157"/>
+<area shape="rect" id="node3" href="$d5/dbe/G4VPhysicsConstructor_8hh.html" title="G4VPhysicsConstructor.hh" alt="" coords="695,213,893,241"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1702,541,1793,569"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1707,617,1788,645"/>
+<area shape="rect" id="node13" href="$d7/d4b/G4ThreadLocalSingleton_8hh.html" title="G4ThreadLocalSingleton.hh" alt="" coords="1886,389,2094,417"/>
+<area shape="rect" id="node9" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="3499,465,3742,493"/>
+<area shape="rect" id="node11" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="2711,465,2861,493"/>
+<area shape="rect" id="node10" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="3510,541,3731,569"/>
+<area shape="rect" id="node17" href="$d7/d4d/G4VEnergyLossProcess_8hh.html" title="G4VEnergyLossProcess.hh" alt="" coords="1177,389,1376,417"/>
+<area shape="rect" id="node19" href="$d6/dec/G4MscStepLimitType_8hh.html" title="G4MscStepLimitType.hh" alt="" coords="2937,465,3120,493"/>
+</map>

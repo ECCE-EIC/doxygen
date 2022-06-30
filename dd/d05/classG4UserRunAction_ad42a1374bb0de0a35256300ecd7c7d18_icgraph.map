@@ -1,0 +1,11 @@
+<map id="G4UserRunAction::SetMaster" name="G4UserRunAction::SetMaster">
+<area shape="rect" id="node2" href="$d4/dd2/classG4MultiRunAction.html#a91e76177bbc3c53dee85be6e6707e811" title="G4MultiRunAction::SetMaster" alt="" coords="286,21,505,49"/>
+<area shape="rect" id="node3" href="$d3/db3/classG4WorkerRunManager.html#a83f23c1ff4700ab7f88a3f48ad36dd85" title="G4WorkerRunManager\l::SetUserAction" alt="" coords="308,73,483,117"/>
+<area shape="rect" id="node6" href="$de/d16/classG4MTRunManager.html#a13a6d5615566e979910695392816d94b" title="G4MTRunManager::SetUserAction" alt="" coords="271,149,520,177"/>
+<area shape="rect" id="node4" href="$dd/dec/classG4RTWorkerInitialization.html#aebd9a8210f7aa32b1fe68ceb591ef236" title="G4RTWorkerInitialization\l::WorkerRunStart" alt="" coords="589,5,775,49"/>
+<area shape="rect" id="node5" href="$dd/dec/classG4RTWorkerInitialization.html#ae5c310ea8eefe3633936012740604533" title="G4RTWorkerInitialization\l::WorkerRunEnd" alt="" coords="589,73,775,117"/>
+<area shape="rect" id="node7" href="$d8/dc8/classG4TheMTRayTracer.html#a9010d19495c006e3a7a68f5e7c82e23d" title="G4TheMTRayTracer::Restore\lUserActions" alt="" coords="576,141,788,185"/>
+<area shape="rect" id="node10" href="$d8/dc8/classG4TheMTRayTracer.html#a252db9d3b237355aa12be86973673626" title="G4TheMTRayTracer::StoreUser\lActions" alt="" coords="568,209,796,253"/>
+<area shape="rect" id="node8" href="$d8/dc8/classG4TheMTRayTracer.html#a644cacaa29d353e4b0387f36b2fc6b1b" title="G4TheMTRayTracer::Create\lBitMap" alt="" coords="844,176,1049,220"/>
+<area shape="rect" id="node9" href="$d8/dc8/classG4TheMTRayTracer.html#a4505783fc19c4842c1c275ada01be124" title="G4TheMTRayTracer::Trace" alt="" coords="1097,184,1293,212"/>
+</map>

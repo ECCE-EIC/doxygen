@@ -1,0 +1,36 @@
+<map id="G4ProtonPHPBuilder::Build" name="G4ProtonPHPBuilder::Build">
+<area shape="rect" id="node2" href="$de/dc6/classG4HadronicProcess.html#a2ae3ff37fc62b04c8a3f2ab5082f6a19" title="G4HadronicProcess::\lAddDataSet" alt="" coords="228,85,388,129"/>
+<area shape="rect" id="node5" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="240,232,376,260"/>
+<area shape="rect" id="node20" href="$de/dc6/classG4HadronicProcess.html#aeb2675ad54cae9f75863ab3c993684f3" title="G4HadronicProcess::\lRegisterMe" alt="" coords="228,305,388,349"/>
+<area shape="rect" id="node32" href="$db/d92/classG4HadronicInteraction.html#ae85559157298afaf484e452864caef56" title="G4HadronicInteraction\l::SetMaxEnergy" alt="" coords="221,373,395,417"/>
+<area shape="rect" id="node33" href="$da/d21/classG4VCrossSectionDataSet.html#a1849f9aa69b18cc1aedb25863bf753a1" title="G4VCrossSectionDataSet\l::SetMaxKinEnergy" alt="" coords="212,441,404,485"/>
+<area shape="rect" id="node34" href="$db/d92/classG4HadronicInteraction.html#a5b04006721fab073f09f22acc5b1e6f7" title="G4HadronicInteraction\l::SetMinEnergy" alt="" coords="221,509,395,553"/>
+<area shape="rect" id="node35" href="$da/d21/classG4VCrossSectionDataSet.html#a62987090fbd1ea9d7198cba3f2caeefd" title="G4VCrossSectionDataSet\l::SetMinKinEnergy" alt="" coords="212,577,404,621"/>
+<area shape="rect" id="node3" href="$de/da5/classG4CrossSectionDataStore.html#a43f038f695cb05d1d660df1831611a77" title="G4CrossSectionDataStore\l::AddDataSet" alt="" coords="467,5,661,49"/>
+<area shape="rect" id="node4" href="$da/d21/classG4VCrossSectionDataSet.html#acff5e43c817476a346cb553de23faa73" title="G4VCrossSectionDataSet\l::ForAllAtomsAndEnergies" alt="" coords="732,5,928,49"/>
+<area shape="rect" id="node6" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="485,209,643,237"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="724,245,936,273"/>
+<area shape="rect" id="node12" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="768,125,892,153"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="726,297,934,341"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="731,177,929,221"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="984,133,1228,161"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1299,177,1481,205"/>
+<area shape="rect" id="node11" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="994,193,1218,221"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1337,99,1443,127"/>
+<area shape="rect" id="node14" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1005,297,1207,341"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1313,417,1467,461"/>
+<area shape="rect" id="node16" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1302,229,1478,273"/>
+<area shape="rect" id="node17" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1302,297,1478,341"/>
+<area shape="rect" id="node18" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1276,365,1504,393"/>
+<area shape="rect" id="node21" href="$db/d92/classG4HadronicInteraction.html#ab5d00b0fa99a5da9656a52cad9a042cc" title="G4HadronicInteraction\l::GetModelName" alt="" coords="743,365,917,409"/>
+<area shape="rect" id="node22" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="452,261,676,289"/>
+<area shape="rect" id="node23" href="$da/d41/classG4HadronicProcessStore.html#aa8c636c772b4d43429b6903a161d7eeb" title="G4HadronicProcessStore\l::Instance" alt="" coords="471,433,657,477"/>
+<area shape="rect" id="node29" href="$da/d41/classG4HadronicProcessStore.html#aac32aadb53ee234b81ae20159bc91e3c" title="G4HadronicProcessStore\l::RegisterInteraction" alt="" coords="471,365,657,409"/>
+<area shape="rect" id="node30" href="$d0/d09/classG4EnergyRangeManager.html#a159b7ee41cecf5f4315cd1cccec2da1d" title="G4EnergyRangeManager\l::RegisterMe" alt="" coords="469,501,659,545"/>
+<area shape="rect" id="node31" href="$dd/d0d/classG4HadronicException.html#a6ecb8442f0e20bc0bf2f823606a07bb0" title="G4HadronicException\l::Report" alt="" coords="481,569,647,613"/>
+<area shape="rect" id="node24" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="737,447,923,491"/>
+<area shape="rect" id="node25" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1048,532,1164,560"/>
+<area shape="rect" id="node26" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1049,428,1163,456"/>
+<area shape="rect" id="node27" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1015,480,1197,508"/>
+<area shape="rect" id="node28" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1297,485,1483,529"/>
+</map>

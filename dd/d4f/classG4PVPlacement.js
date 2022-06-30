@@ -1,0 +1,26 @@
+var classG4PVPlacement =
+[
+    [ "G4PVPlacement", "dd/d4f/classG4PVPlacement.html#a63099cf3d125df8a92c4e33618855a8f", null ],
+    [ "G4PVPlacement", "dd/d4f/classG4PVPlacement.html#a89a239efbd1e175587a58dd356664a0e", null ],
+    [ "G4PVPlacement", "dd/d4f/classG4PVPlacement.html#a92c2be2ba466b89af8b79164f2c47696", null ],
+    [ "G4PVPlacement", "dd/d4f/classG4PVPlacement.html#af633991093b9772ec38c06766ab3de87", null ],
+    [ "~G4PVPlacement", "dd/d4f/classG4PVPlacement.html#ab4dbbe5a3f2463758393689d56058973", null ],
+    [ "G4PVPlacement", "dd/d4f/classG4PVPlacement.html#a815010c81c3fa4509727e4db7cb41ded", null ],
+    [ "G4PVPlacement", "dd/d4f/classG4PVPlacement.html#a0dcc26cfbf76c5794c3ca555452401b7", null ],
+    [ "CheckOverlaps", "dd/d4f/classG4PVPlacement.html#ac694379b95f24c7d58f0feb480c32457", null ],
+    [ "GetCopyNo", "dd/d4f/classG4PVPlacement.html#aee57752272cab1915adbc91e8a8cb8fb", null ],
+    [ "GetParameterisation", "dd/d4f/classG4PVPlacement.html#afecb53788ae9682effc755106ad19e6f", null ],
+    [ "GetRegularStructureId", "dd/d4f/classG4PVPlacement.html#a3ce30f2289e02feb97eb5ea629b28f52", null ],
+    [ "GetReplicationData", "dd/d4f/classG4PVPlacement.html#aaeb9f95ed58e11ba7fdc9d18c4e5e5b5", null ],
+    [ "IsMany", "dd/d4f/classG4PVPlacement.html#af6583456e6be834ca52c4ac31f20429f", null ],
+    [ "IsParameterised", "dd/d4f/classG4PVPlacement.html#aa54ac7fe48e947f9574442328805922b", null ],
+    [ "IsRegularStructure", "dd/d4f/classG4PVPlacement.html#a9fa4c57046706d02da9581ac01729d8d", null ],
+    [ "IsReplicated", "dd/d4f/classG4PVPlacement.html#af1d138f8b9ee3d9af6dcb056ae86a276", null ],
+    [ "NewPtrRotMatrix", "dd/d4f/classG4PVPlacement.html#acd06225a3f810b37e9f6b4ea64a80b4a", null ],
+    [ "operator=", "dd/d4f/classG4PVPlacement.html#a9106c8e686c0585e2490452c6f929438", null ],
+    [ "SetCopyNo", "dd/d4f/classG4PVPlacement.html#a608e92f99553d3e6647df45620cb83ef", null ],
+    [ "VolumeType", "dd/d4f/classG4PVPlacement.html#a8936bfd3730fcbdc936286c084fe589c", null ],
+    [ "fallocatedRotM", "dd/d4f/classG4PVPlacement.html#aff8e153254d27cc93d85eaf3798f8cd3", null ],
+    [ "fcopyNo", "dd/d4f/classG4PVPlacement.html#aae931198018c16ab299d37293183ae6e", null ],
+    [ "fmany", "dd/d4f/classG4PVPlacement.html#aad60f61c1be395d45bc4248d7c04e841", null ]
+];

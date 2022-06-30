@@ -1,0 +1,22 @@
+<map id="G4OpticalSurface::GetSigmaAlpha" name="G4OpticalSurface::GetSigmaAlpha">
+<area shape="rect" id="node2" href="$dc/d81/classG4OpBoundaryProcess.html#aec3f6bb6f5dbe17cd434907380561db2" title="G4OpBoundaryProcess\l::GetFacetNormal" alt="" coords="272,147,448,191"/>
+<area shape="rect" id="node11" href="$d0/d94/classPHG4GDMLWriteSolids.html#aeff594027a690ae9d0146a298ed2481c" title="PHG4GDMLWriteSolids\l::OpticalSurfaceWrite" alt="" coords="273,356,447,400"/>
+<area shape="rect" id="node15" href="$d3/d4a/classG4GDMLWriteSolids.html#afe5a9fa45f2fe781d224be0e65187e61" title="G4GDMLWriteSolids::\lOpticalSurfaceWrite" alt="" coords="279,424,441,468"/>
+<area shape="rect" id="node21" href="$dc/d5b/classDetectorConstruction.html#a345723496b1fb7f5335bf2b457935bec" title="DetectorConstruction\l::SetSurfaceSigmaAlpha" alt="" coords="268,492,452,536"/>
+<area shape="rect" id="node3" href="$dc/d81/classG4OpBoundaryProcess.html#a9aa8870f9cd4d76cb13835a0ceb56b79" title="G4OpBoundaryProcess\l::CalculateReflectivity" alt="" coords="509,5,685,49"/>
+<area shape="rect" id="node4" href="$dc/d81/classG4OpBoundaryProcess.html#a10016d391c879d86b85fd0b2fc88b86d" title="G4OpBoundaryProcess\l::DielectricMetal" alt="" coords="752,48,928,92"/>
+<area shape="rect" id="node8" href="$dc/d81/classG4OpBoundaryProcess.html#a452c76c4f1e1ceb385d56312cb79dbff" title="G4OpBoundaryProcess\l::DielectricDichroic" alt="" coords="752,236,928,280"/>
+<area shape="rect" id="node9" href="$dc/d81/classG4OpBoundaryProcess.html#adb421aabd7a1309080bccf4701d381ad" title="G4OpBoundaryProcess\l::DielectricDielectric" alt="" coords="752,116,928,160"/>
+<area shape="rect" id="node10" href="$dc/d81/classG4OpBoundaryProcess.html#a00bfdace8eebe7926e66c8c604a83d17" title="G4OpBoundaryProcess\l::DoReflection" alt="" coords="509,176,685,220"/>
+<area shape="rect" id="node5" href="$dc/d81/classG4OpBoundaryProcess.html#aa8b5e3269584885e9592d8e41b938d00" title="G4OpBoundaryProcess\l::PostStepDoIt" alt="" coords="986,116,1162,160"/>
+<area shape="rect" id="node6" href="$db/dc9/classPrtOpBoundaryProcess.html#a1f0c41c0c5e4c9b67f86b962df85df01" title="PrtOpBoundaryProcess\l::PostStepDoIt" alt="" coords="1235,149,1409,193"/>
+<area shape="rect" id="node7" href="$d3/d65/classG4EicDircOpBoundaryProcess.html#a6ced12c638c0277136bedd51c5f102c7" title="G4EicDircOpBoundaryProcess\l::PostStepDoIt" alt="" coords="1211,81,1433,125"/>
+<area shape="rect" id="node12" href="$d2/d72/classPHG4GDMLWriteStructure.html#aa22bfa894b736e4069f3733c5410b42e" title="PHG4GDMLWriteStructure\l::BorderSurfaceCache" alt="" coords="500,296,695,340"/>
+<area shape="rect" id="node14" href="$d2/d72/classPHG4GDMLWriteStructure.html#a2411bf73dc26fa137b5547e3ffb033ff" title="PHG4GDMLWriteStructure\l::SkinSurfaceCache" alt="" coords="500,364,695,408"/>
+<area shape="rect" id="node13" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="743,328,937,372"/>
+<area shape="rect" id="node16" href="$d4/ded/classG4GDMLWriteStructure.html#a539c88901280971b76a9e011b57dcd22" title="G4GDMLWriteStructure\l::BorderSurfaceCache" alt="" coords="509,485,686,529"/>
+<area shape="rect" id="node20" href="$d4/ded/classG4GDMLWriteStructure.html#a8e7fa7cf6f61dcfb02f735128bcc7fe1" title="G4GDMLWriteStructure\l::SkinSurfaceCache" alt="" coords="751,421,929,465"/>
+<area shape="rect" id="node17" href="$d4/ded/classG4GDMLWriteStructure.html#a2f78b75251abe8c448916af3841c1410" title="G4GDMLWriteStructure\l::GetBorderSurface" alt="" coords="751,489,929,533"/>
+<area shape="rect" id="node18" href="$d4/ded/classG4GDMLWriteStructure.html#ad618893f498c97f395b97738cb75a0a6" title="G4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="985,455,1163,499"/>
+<area shape="rect" id="node19" href="$d4/ded/classG4GDMLWriteStructure.html#a7b590030f21824be91b222b540b9ad19" title="G4GDMLWriteStructure\l::AssemblyWrite" alt="" coords="1233,455,1411,499"/>
+</map>

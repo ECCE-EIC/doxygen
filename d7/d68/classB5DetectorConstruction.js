@@ -1,0 +1,25 @@
+var classB5DetectorConstruction =
+[
+    [ "B5DetectorConstruction", "d7/d68/classB5DetectorConstruction.html#a5438ef9e4cb75a7818b982709690d2da", null ],
+    [ "~B5DetectorConstruction", "d7/d68/classB5DetectorConstruction.html#a6bb94ba3d40b24fd2f598623c538ddd5", null ],
+    [ "Construct", "d7/d68/classB5DetectorConstruction.html#aa35edfdce307c2d91ccc4cc8878d28e7", null ],
+    [ "ConstructMaterials", "d7/d68/classB5DetectorConstruction.html#a1455d71d1c67774dba88363eee68d4ac", null ],
+    [ "ConstructSDandField", "d7/d68/classB5DetectorConstruction.html#a6b3e7b0d486ab002b43bc8c251564f56", null ],
+    [ "DefineCommands", "d7/d68/classB5DetectorConstruction.html#a7a1c3c589a7eb98102172ba6d6c6027a", null ],
+    [ "GetArmAngle", "d7/d68/classB5DetectorConstruction.html#a7932a8ce161c48f8a2692caafa5fd367", null ],
+    [ "SetArmAngle", "d7/d68/classB5DetectorConstruction.html#a9a4514592d7f4c2bbf8889c84a02250c", null ],
+    [ "fArmAngle", "d7/d68/classB5DetectorConstruction.html#a551a21f00f18b90e14ab096f29b76dd1", null ],
+    [ "fArmRotation", "d7/d68/classB5DetectorConstruction.html#ad47b5e148ab09293d678a621fb030809", null ],
+    [ "fCellLogical", "d7/d68/classB5DetectorConstruction.html#a043c4fd2d980db5c123e53f84712def7", null ],
+    [ "fFieldMgr", "d7/d68/classB5DetectorConstruction.html#a05f9274959483abd275555fb663ac15d", null ],
+    [ "fHadCalScintiLogical", "d7/d68/classB5DetectorConstruction.html#a25589b2c2528b36aaba3a4ec4967ea11", null ],
+    [ "fHodoscope1Logical", "d7/d68/classB5DetectorConstruction.html#a922ae711611a666499802a8d1d524752", null ],
+    [ "fHodoscope2Logical", "d7/d68/classB5DetectorConstruction.html#a42c33107c1f44e6ffb759873aba95b50", null ],
+    [ "fMagneticField", "d7/d68/classB5DetectorConstruction.html#aaa5d52fc4172d20f91c4564e825e1f84", null ],
+    [ "fMagneticLogical", "d7/d68/classB5DetectorConstruction.html#ae11549fb49b4e6066c471417b8b52a32", null ],
+    [ "fMessenger", "d7/d68/classB5DetectorConstruction.html#a1c8528b3579162452e9d6a6f76fd0d67", null ],
+    [ "fSecondArmPhys", "d7/d68/classB5DetectorConstruction.html#a3892eb7764ff5a48937e978267f42c20", null ],
+    [ "fVisAttributes", "d7/d68/classB5DetectorConstruction.html#abd9a76a56a87571dcb657ae5fcbfce70", null ],
+    [ "fWirePlane1Logical", "d7/d68/classB5DetectorConstruction.html#a95abe330a9a2a813a0d97938ce698636", null ],
+    [ "fWirePlane2Logical", "d7/d68/classB5DetectorConstruction.html#a13492758cd08ef96ff091fa6903d4c5b", null ]
+];

@@ -1,0 +1,28 @@
+<map id="G4MolecularConfiguration::GetMass" name="G4MolecularConfiguration::GetMass">
+<area shape="rect" id="node2" href="$d9/d66/classG4Molecule.html#aadb86c4742084ba8b7459220ff95e9fe" title="G4Molecule::GetDiffusion\lVelocity" alt="" coords="251,553,444,597"/>
+<area shape="rect" id="node3" href="$d9/d66/classG4Molecule.html#a136d34ae6e16feacf86475af7876f80b" title="G4Molecule::GetKineticEnergy" alt="" coords="492,592,719,620"/>
+<area shape="rect" id="node27" href="$d9/d66/classG4Molecule.html#ae86fcf2b1ec300aa02ffd45e22f21cd4" title="G4Molecule::GetMass" alt="" coords="263,673,431,701"/>
+<area shape="rect" id="node4" href="$d9/d66/classG4Molecule.html#ab4ce0780b3b6e0e5c6922437298438a9" title="G4Molecule::BuildTrack" alt="" coords="767,592,947,620"/>
+<area shape="rect" id="node5" href="$d2/d3e/classG4DNAMolecularReaction.html#a23f3fb65dda60110e05ec1dc15a5def4" title="G4DNAMolecularReaction\l::MakeReaction" alt="" coords="1013,413,1206,457"/>
+<area shape="rect" id="node6" href="$dc/d37/classG4DNAChemistryManager.html#affaff8d66b90efb07cade704c0c7fff1" title="G4DNAChemistryManager\l::CreateWaterMolecule" alt="" coords="1010,481,1209,525"/>
+<area shape="rect" id="node20" href="$dc/d37/classG4DNAChemistryManager.html#a70355bcb5f851fd0a1c70a5e541b0616" title="G4DNAChemistryManager\l::PushMolecule" alt="" coords="1010,788,1209,832"/>
+<area shape="rect" id="node24" href="$df/d63/classG4MoleculeGun.html#a0bc99c63b161e752f408cfc308aee8f5" title="G4MoleculeGun::BuildAndPush\lTrack" alt="" coords="995,957,1224,1001"/>
+<area shape="rect" id="node7" href="$da/d9e/classG4DNADingfelderChargeDecreaseModel.html#addf784b3aef8880871c5639d87ba02c8" title="G4DNADingfelderChargeDecrease\lModel::SampleSecondaries" alt="" coords="1272,5,1524,49"/>
+<area shape="rect" id="node8" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#a3aa2d65d5b31ec0e1acab89828abeed0" title="G4DNARuddIonisationExtended\lModel::SampleSecondaries" alt="" coords="1281,73,1515,117"/>
+<area shape="rect" id="node9" href="$d5/d93/classG4DNARuddIonisationModel.html#aacf670d2e82ad8dc8f57dc7ad00469d0" title="G4DNARuddIonisationModel\l::SampleSecondaries" alt="" coords="1293,141,1503,185"/>
+<area shape="rect" id="node10" href="$d9/d5e/classG4DNABornExcitationModel1.html#a44b9b0ec5e50995834684d7b6625b886" title="G4DNABornExcitationModel1\l::SampleSecondaries" alt="" coords="1289,209,1507,253"/>
+<area shape="rect" id="node11" href="$d7/d47/classG4DNABornIonisationModel2.html#a91280b5bc8dda13a92747fbf248f0ac3" title="G4DNABornIonisationModel2\l::SampleSecondaries" alt="" coords="1290,277,1506,321"/>
+<area shape="rect" id="node12" href="$dc/db0/classG4DNABornIonisationModel1.html#add3e46ff8c6c2abe7614ef16741151e9" title="G4DNABornIonisationModel1\l::SampleSecondaries" alt="" coords="1290,345,1506,389"/>
+<area shape="rect" id="node13" href="$df/d94/classG4DNABornExcitationModel2.html#a53957fd3ccf0f54c6a595fc61608bffa" title="G4DNABornExcitationModel2\l::SampleSecondaries" alt="" coords="1289,413,1507,457"/>
+<area shape="rect" id="node14" href="$d4/d3a/classG4DNAMillerGreenExcitationModel.html#a744443a9ae8b7ae03cb3060acbdfb3e2" title="G4DNAMillerGreenExcitation\lModel::SampleSecondaries" alt="" coords="1291,481,1505,525"/>
+<area shape="rect" id="node15" href="$df/d79/classG4DNAEmfietzoglouExcitationModel.html#a385bd68658a14d32a54ae4d27c9f6499" title="G4DNAEmfietzoglouExcitation\lModel::SampleSecondaries" alt="" coords="1285,549,1511,593"/>
+<area shape="rect" id="node16" href="$d2/d6f/classG4DNAEmfietzoglouIonisationModel.html#af0bf8601fc84d88f4f1d580b6fa06310" title="G4DNAEmfietzoglouIonisation\lModel::SampleSecondaries" alt="" coords="1286,617,1510,661"/>
+<area shape="rect" id="node17" href="$db/d91/classG4DNACPA100ExcitationModel.html#ae2e0cc056a7dd80a35275b75e149e4ca" title="G4DNACPA100ExcitationModel\l::SampleSecondaries" alt="" coords="1284,685,1512,729"/>
+<area shape="rect" id="node18" href="$dc/da4/classG4DNACPA100IonisationModel.html#ad176f1ac17a890c4979e4070e06e052b" title="G4DNACPA100IonisationModel\l::SampleSecondaries" alt="" coords="1285,753,1511,797"/>
+<area shape="rect" id="node19" href="$da/dd5/classG4DNAPTBExcitationModel.html#aa865fb2f26cce62f6891453efa1b5a42" title="SampleSecondaries If the model is selected for the ModelInterface then the SampleSecondaries method w..." alt="" coords="1297,821,1499,865"/>
+<area shape="rect" id="node21" href="$dc/d37/classG4DNAChemistryManager.html#a15aefa04091f43455c100aaa99f96b22" title="G4DNAChemistryManager\l::CreateSolvatedElectron" alt="" coords="1299,889,1497,933"/>
+<area shape="rect" id="node22" href="$de/d16/classG4DNATransformElectronModel.html#abfcc90cc4e583129ed6536f5f6fae259" title="G4DNATransformElectronModel\l::SampleSecondaries" alt="" coords="1574,856,1806,900"/>
+<area shape="rect" id="node23" href="$d0/d5e/classG4TDNAOneStepThermalizationModel.html#a66a86939685e5f560df79c7c95609565" title="G4TDNAOneStepThermalization\lModel::SampleSecondaries" alt="" coords="1572,924,1808,968"/>
+<area shape="rect" id="node25" href="$db/dac/classTG4MoleculeShoot.html#a02ecc8593da85e74675f929c7d8d2fe7" title="TG4MoleculeShoot::ShootAt\lRandomPosition" alt="" coords="1292,957,1504,1001"/>
+<area shape="rect" id="node26" href="$db/dac/classTG4MoleculeShoot.html#ae1316a93fa7a48fc2e6e2439be5d54c5" title="TG4MoleculeShoot::ShootAt\lFixedPosition" alt="" coords="1292,1025,1504,1069"/>
+</map>

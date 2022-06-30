@@ -1,0 +1,17 @@
+<map id="G4MultiBodyMomentumDist::ChooseDist" name="G4MultiBodyMomentumDist::ChooseDist">
+<area shape="rect" id="node2" href="$db/d85/classG4MultiBodyMomentumDist.html#a0bd327e7fba1a3876b023f719246909c" title="G4MultiBodyMomentumDist\l::GetDist" alt="" coords="265,40,477,84"/>
+<area shape="rect" id="node3" href="$d3/d12/classG4CascadeFinalStateAlgorithm.html#acd711bcf64cdc55be9cccda2c21ad45e" title="G4CascadeFinalStateAlgorithm\l::ChooseGenerators" alt="" coords="525,40,756,84"/>
+<area shape="rect" id="node4" href="$d3/d12/classG4CascadeFinalStateAlgorithm.html#a63de6f238bf3722841d82d7163571c32" title="G4CascadeFinalStateAlgorithm\l::Configure" alt="" coords="804,40,1035,84"/>
+<area shape="rect" id="node5" href="$dd/da3/classG4CascadeFinalStateGenerator.html#a45b4923933b93921cc988a680477c2cb" title="G4CascadeFinalStateGenerator\l::Configure" alt="" coords="1083,40,1317,84"/>
+<area shape="rect" id="node6" href="$d4/ded/classG4ElementaryParticleCollider.html#aa13eb4ca0df1471303b50112a16684d2" title="G4ElementaryParticleCollider\l::generateSCMfinalState" alt="" coords="1365,69,1585,113"/>
+<area shape="rect" id="node16" href="$da/d7b/classG4LightTargetCollider.html#aa89532117ec231912059493b179e02c6" title="G4LightTargetCollider\l::SingleNucleonScattering" alt="" coords="1645,5,1841,49"/>
+<area shape="rect" id="node7" href="$d4/ded/classG4ElementaryParticleCollider.html#a9e82e63dca4498407cdcb2d917d73d0f" title="G4ElementaryParticleCollider\l::collide" alt="" coords="1633,73,1853,117"/>
+<area shape="rect" id="node8" href="$da/d7b/classG4LightTargetCollider.html#ae13ff79fa3488a07cfaab7ab02e9b1d3" title="G4LightTargetCollider\l::collide" alt="" coords="1953,9,2121,53"/>
+<area shape="rect" id="node14" href="$d4/d24/classG4InuclCollider.html#ab4109b3dbea48ffe64e45bab046ca4e5" title="G4InuclCollider::collide" alt="" coords="1948,77,2125,105"/>
+<area shape="rect" id="node15" href="$d9/da6/classG4NucleiModel.html#a328aa59398dda26dafeafef5a65e65c8" title="G4NucleiModel::generateParticleFate" alt="" coords="1901,129,2172,157"/>
+<area shape="rect" id="node9" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="2220,40,2377,84"/>
+<area shape="rect" id="node10" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="2425,5,2624,49"/>
+<area shape="rect" id="node12" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="2426,73,2623,117"/>
+<area shape="rect" id="node11" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="2672,5,2871,49"/>
+<area shape="rect" id="node13" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="2677,73,2866,117"/>
+</map>

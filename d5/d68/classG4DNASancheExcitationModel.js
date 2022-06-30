@@ -1,0 +1,28 @@
+var classG4DNASancheExcitationModel =
+[
+    [ "G4DNASancheExcitationModel", "d5/d68/classG4DNASancheExcitationModel.html#af7ca542da4a8f9944d8d57f51121f4f9", null ],
+    [ "~G4DNASancheExcitationModel", "d5/d68/classG4DNASancheExcitationModel.html#a8a2afd4d8afc7b647bd84ce14e61c8d5", null ],
+    [ "G4DNASancheExcitationModel", "d5/d68/classG4DNASancheExcitationModel.html#a41686b00b3f638c8980b393bc76bab4e", null ],
+    [ "CrossSectionPerVolume", "d5/d68/classG4DNASancheExcitationModel.html#acdf73a6452cce3775e21ac45c5188af4", null ],
+    [ "ExtendLowEnergyLimit", "d5/d68/classG4DNASancheExcitationModel.html#aa3963ba224d1f332085dc8247cf2482a", null ],
+    [ "Initialise", "d5/d68/classG4DNASancheExcitationModel.html#a1f9904d135d6f545c3fc33b076037a5a", null ],
+    [ "LinInterpolate", "d5/d68/classG4DNASancheExcitationModel.html#a57fb9dcf7528efcd9c98c1f8e2e7139c", null ],
+    [ "operator=", "d5/d68/classG4DNASancheExcitationModel.html#a124ea2706c23a6ebf0d2d3909c10bace", null ],
+    [ "PartialCrossSection", "d5/d68/classG4DNASancheExcitationModel.html#ae27a2cb6a583bc4105eec0957f8154d5", null ],
+    [ "RandomSelect", "d5/d68/classG4DNASancheExcitationModel.html#aa891e5c4cb9b88f044da66c8cbc67544", null ],
+    [ "SampleSecondaries", "d5/d68/classG4DNASancheExcitationModel.html#a36963a44d9d9ebf30d2edc353d1e29c0", null ],
+    [ "SelectStationary", "d5/d68/classG4DNASancheExcitationModel.html#a2c4356193e825bb1a08bbba195f71c64", null ],
+    [ "SetVerboseLevel", "d5/d68/classG4DNASancheExcitationModel.html#a518d3084aa5657cc471e72c1080064af", null ],
+    [ "Sum", "d5/d68/classG4DNASancheExcitationModel.html#ac201ebf90c319af4f7da8549181f30d2", null ],
+    [ "TotalCrossSection", "d5/d68/classG4DNASancheExcitationModel.html#a25a52b5a0a2161ecadc481af24b3ff81", null ],
+    [ "VibrationEnergy", "d5/d68/classG4DNASancheExcitationModel.html#a7e49188a2dd2ad9e5b9d29ef96b16a05", null ],
+    [ "fEnergyLevelXS", "d5/d68/classG4DNASancheExcitationModel.html#aa9557d79bd1afb15527c599c5b42af54", null ],
+    [ "fEnergyTotalXS", "d5/d68/classG4DNASancheExcitationModel.html#a2a2f005e47d9fd28030bf541afc6f049", null ],
+    [ "fParticleChangeForGamma", "d5/d68/classG4DNASancheExcitationModel.html#af77d24edd431a58815d780c5fd697b51", null ],
+    [ "fpWaterDensity", "d5/d68/classG4DNASancheExcitationModel.html#a3acb2bdf5a78a43540f4f4d08c2971f4", null ],
+    [ "isInitialised", "d5/d68/classG4DNASancheExcitationModel.html#a50f51355c68e8591469041f4c859952b", null ],
+    [ "nLevels", "d5/d68/classG4DNASancheExcitationModel.html#a49f87e242c61c02efec1cd75ccd6ce16", null ],
+    [ "statCode", "d5/d68/classG4DNASancheExcitationModel.html#aebf85a04161a5cd136bbf53fd1702f85", null ],
+    [ "tdummyVec", "d5/d68/classG4DNASancheExcitationModel.html#aabbcb497d3a1deb05e9cc02397607b9d", null ],
+    [ "verboseLevel", "d5/d68/classG4DNASancheExcitationModel.html#aa2d745574eed1e32658b5eb8e5c531bc", null ]
+];

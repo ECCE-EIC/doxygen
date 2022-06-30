@@ -1,0 +1,27 @@
+var classDMXScintHit =
+[
+    [ "DMXScintHit", "d1/dde/classDMXScintHit.html#a6b2cff81e7feb9e97380e23f2819aa24", null ],
+    [ "~DMXScintHit", "d1/dde/classDMXScintHit.html#a824634af5da24d0c93ce72b982a6f9ad", null ],
+    [ "DMXScintHit", "d1/dde/classDMXScintHit.html#acab5264f40a433b354aec2e4a2564506", null ],
+    [ "Draw", "d1/dde/classDMXScintHit.html#a69b147beede2d7ef0e8aca0233b5c0eb", null ],
+    [ "GetEdep", "d1/dde/classDMXScintHit.html#a6b2df2c886ff41151bb4ed1d42df38cf", null ],
+    [ "GetParticle", "d1/dde/classDMXScintHit.html#a0cbe0690f8b27da2f20933056b818828", null ],
+    [ "GetParticleEnergy", "d1/dde/classDMXScintHit.html#ad53da7e4440e5e871e1a48e4904c53bb", null ],
+    [ "GetPos", "d1/dde/classDMXScintHit.html#a1b50a98a62ef6c4604fff134b0bcde86", null ],
+    [ "GetTime", "d1/dde/classDMXScintHit.html#aca07938564f605d7ce7c6f1ca99325fb", null ],
+    [ "operator delete", "d1/dde/classDMXScintHit.html#a4aef5578d9805164bce21d3e932641f5", null ],
+    [ "operator new", "d1/dde/classDMXScintHit.html#aff62691996f561cbc0cc914f85ce22db", null ],
+    [ "operator=", "d1/dde/classDMXScintHit.html#a3ad60cb4b22a9ffb1834796dd4930328", null ],
+    [ "operator==", "d1/dde/classDMXScintHit.html#a7ee0265da4c5d8587b161a4626603166", null ],
+    [ "Print", "d1/dde/classDMXScintHit.html#a3b2e3d9ab5c7d45510a4b2c6212ce15c", null ],
+    [ "SetEdep", "d1/dde/classDMXScintHit.html#aa83f14c8415d5534b08b833bc64c0c1a", null ],
+    [ "SetParticle", "d1/dde/classDMXScintHit.html#ab02b6870405b912ac0067c08a34e07b2", null ],
+    [ "SetParticleEnergy", "d1/dde/classDMXScintHit.html#a94465edad422f9585833b40ac3f1ba48", null ],
+    [ "SetPos", "d1/dde/classDMXScintHit.html#a29d0b20fde5882e1bcf36ef8d03689a1", null ],
+    [ "SetTime", "d1/dde/classDMXScintHit.html#a7fca83b39676bcf4c87389707a9d6ba0", null ],
+    [ "edep", "d1/dde/classDMXScintHit.html#a580725be7dbf81632c70092f419e1045", null ],
+    [ "particleEnergy", "d1/dde/classDMXScintHit.html#ab1d5958af06bd06f35146ebb55b3ea7b", null ],
+    [ "particleName", "d1/dde/classDMXScintHit.html#ab329d8f181dbf2c3230acd85973829eb", null ],
+    [ "pos", "d1/dde/classDMXScintHit.html#a9008caf480bff00e86b08a33222584e4", null ],
+    [ "time", "d1/dde/classDMXScintHit.html#a10e56d3c673e90500d5faffbb1fe2c97", null ]
+];

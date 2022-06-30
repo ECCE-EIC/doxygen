@@ -1,0 +1,44 @@
+<map id="CLHEP::Hep3Vector::orthogonal" name="CLHEP::Hep3Vector::orthogonal">
+<area shape="rect" id="node2" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a8747b15d78a45442fff8836df803cb97" title="G4ElectroVDNuclearModel\l::CalculateEMVertex" alt="" coords="1084,118,1283,162"/>
+<area shape="rect" id="node4" href="$d7/db1/classGFlashShowerModel.html#aaa3e5078bf2ea6f94bb24440214bb3d7" title="GFlashShowerModel::\lCheckContainment" alt="" coords="257,135,423,179"/>
+<area shape="rect" id="node7" href="$dc/d81/classG4OpBoundaryProcess.html#a3814a3a4fe328bbdbcaf062dd1e1318c" title="G4OpBoundaryProcess\l::DielectricLUT" alt="" coords="252,203,428,247"/>
+<area shape="rect" id="node11" href="$d7/db1/classGFlashShowerModel.html#a4d550f44d807b5557924f01f8ad4d8b5" title="GFlashShowerModel::\lElectronDoIt" alt="" coords="257,271,423,315"/>
+<area shape="rect" id="node13" href="$d3/d67/classPar01PionShowerModel.html#a780a1cb48e01d79586aaf931ac587fda" title="Par01PionShowerModel\l::Explode" alt="" coords="251,339,429,383"/>
+<area shape="rect" id="node15" href="$d5/d13/classPar01EMShowerModel.html#a06c245e3d2bcb1ba016b17e241fb1ef6" title="Par01EMShowerModel\l::Explode" alt="" coords="255,407,425,451"/>
+<area shape="rect" id="node17" href="$d5/de7/G4RandomTools_8hh.html#ac4d8ac054f4f7e2a885bb4f39c6ee0e7" title="G4PlaneVectorRand" alt="" coords="263,475,417,503"/>
+<area shape="rect" id="node18" href="$d3/d6e/classG4LivermorePolarizedRayleighModel.html#aa2b5dc13199e4148372c600f0f8082f9" title="G4LivermorePolarizedRayleigh\lModel::GetPhotonPolarization" alt="" coords="226,527,454,571"/>
+<area shape="rect" id="node20" href="$d0/d72/classG4BinaryCascade.html#ad2293ec147400204df60af5f49212ffd" title="G4BinaryCascade::GetSphere\lPoint" alt="" coords="229,595,451,639"/>
+<area shape="rect" id="node22" href="$df/dda/classG4PhononDownconversion.html#a2bbab9e7109140ab06b793cbf4d47c3b" title="G4PhononDownconversion\l::MakeLTSecondaries" alt="" coords="239,663,441,707"/>
+<area shape="rect" id="node24" href="$df/dda/classG4PhononDownconversion.html#a9c1270e87b1ed381738dbb768a8ce58f" title="G4PhononDownconversion\l::MakeTTSecondaries" alt="" coords="239,731,441,775"/>
+<area shape="rect" id="node25" href="$d8/ddb/classG4QuasiElRatios.html#a172dd35519fa2ab68b380f71dce522c1" title="G4QuasiElRatios::RelDecayIn2" alt="" coords="227,799,453,827"/>
+<area shape="rect" id="node33" href="$d5/d21/classG4DNAUeharaScreenedRutherfordElasticModel.html#adcdc8a4aed7d6b28926c16862d5152d6" title="G4DNAUeharaScreenedRutherford\lElasticModel::SampleSecondaries" alt="" coords="213,851,467,895"/>
+<area shape="rect" id="node34" href="$dc/d1b/classG4DNAScreenedRutherfordElasticModel.html#a9792d6923e35c63606ed9c456cf89468" title="G4DNAScreenedRutherfordElastic\lModel::SampleSecondaries" alt="" coords="215,919,465,963"/>
+<area shape="rect" id="node35" href="$d7/d9d/classG4DNAChampionElasticModel.html#a407218b6673e4e6df18cfb6b5734b517" title="G4DNAChampionElasticModel\l::SampleSecondaries" alt="" coords="229,987,451,1031"/>
+<area shape="rect" id="node36" href="$d4/d6d/classG4DNAELSEPAElasticModel.html#ab42549ea419ca599fb5fcdcadd1a0485" title="G4DNAELSEPAElasticModel\l::SampleSecondaries" alt="" coords="238,1055,442,1099"/>
+<area shape="rect" id="node37" href="$d1/dbd/classG4DNAIonElasticModel.html#a837e5d3b065553f70910eb690840e145" title="G4DNAIonElasticModel\l::SampleSecondaries" alt="" coords="253,1123,427,1167"/>
+<area shape="rect" id="node38" href="$dd/d4a/classG4MuElecElasticModel.html#a3da227095ab98e0e479c3ceeb4f7a943" title="G4MuElecElasticModel\l::SampleSecondaries" alt="" coords="253,1191,427,1235"/>
+<area shape="rect" id="node39" href="$d0/dd3/classG4MicroElecElasticModel.html#a40f39f7e518c69ef7c9901a156cd6363" title="G4MicroElecElasticModel\l::SampleSecondaries" alt="" coords="245,1259,435,1303"/>
+<area shape="rect" id="node40" href="$dd/dfd/classG4BetheHeitler5DModel.html#af726bc927215a4193371bef79e026712" title="G4BetheHeitler5DModel\l::SampleSecondaries" alt="" coords="248,1327,432,1371"/>
+<area shape="rect" id="node43" href="$df/d41/classG4DNAPTBElasticModel.html#a483c862cf37b262fe6134ac251d21796" title="SampleSecondaries Method called after CrossSectionPerVolume if the process is the one which is select..." alt="" coords="250,1395,430,1439"/>
+<area shape="rect" id="node3" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="1577,287,1776,331"/>
+<area shape="rect" id="node5" href="$d7/db1/classGFlashShowerModel.html#aa0369ca46445d9042595dbcb9ecd8566" title="GFlashShowerModel::\lCheckParticleDefAndContainment" alt="" coords="515,135,765,179"/>
+<area shape="rect" id="node6" href="$d7/db1/classGFlashShowerModel.html#a4503d5ee9e9732c5f26760e8328c3bba" title="GFlashShowerModel::\lModelTrigger" alt="" coords="841,135,1008,179"/>
+<area shape="rect" id="node8" href="$dc/d81/classG4OpBoundaryProcess.html#aa8b5e3269584885e9592d8e41b938d00" title="G4OpBoundaryProcess\l::PostStepDoIt" alt="" coords="552,203,728,247"/>
+<area shape="rect" id="node9" href="$db/dc9/classPrtOpBoundaryProcess.html#a1f0c41c0c5e4c9b67f86b962df85df01" title="PrtOpBoundaryProcess\l::PostStepDoIt" alt="" coords="837,203,1012,247"/>
+<area shape="rect" id="node10" href="$d3/d65/classG4EicDircOpBoundaryProcess.html#a6ced12c638c0277136bedd51c5f102c7" title="G4EicDircOpBoundaryProcess\l::PostStepDoIt" alt="" coords="813,271,1036,315"/>
+<area shape="rect" id="node12" href="$d7/db1/classGFlashShowerModel.html#a27dd38c9bef755dd4bad5532dc38caf8" title="GFlashShowerModel::DoIt" alt="" coords="542,279,738,307"/>
+<area shape="rect" id="node14" href="$d3/d67/classPar01PionShowerModel.html#a40bc9b468d277731642a017c6b4eede9" title="Par01PionShowerModel\l::DoIt" alt="" coords="551,339,729,383"/>
+<area shape="rect" id="node16" href="$d5/d13/classPar01EMShowerModel.html#a2f1a10f19c112a368862043ef4a092cc" title="Par01EMShowerModel\l::DoIt" alt="" coords="555,407,725,451"/>
+<area shape="rect" id="node19" href="$d3/d6e/classG4LivermorePolarizedRayleighModel.html#a002d5acaa45099efa24738e9937ea5e3" title="G4LivermorePolarizedRayleigh\lModel::SampleSecondaries" alt="" coords="526,527,754,571"/>
+<area shape="rect" id="node21" href="$d0/d72/classG4BinaryCascade.html#a819ef318496ad0fc9ada18470447a6fa" title="G4BinaryCascade::ApplyYourself" alt="" coords="519,603,761,631"/>
+<area shape="rect" id="node23" href="$df/dda/classG4PhononDownconversion.html#a77f1184cf0f08eae7dc265d71873759e" title="G4PhononDownconversion\l::PostStepDoIt" alt="" coords="539,671,741,715"/>
+<area shape="rect" id="node26" href="$d8/ddb/classG4QuasiElRatios.html#a5dd83a3ce993d14af9a166b20f5c5367" title="G4QuasiElRatios::ChExer" alt="" coords="545,747,735,775"/>
+<area shape="rect" id="node27" href="$d8/ddb/classG4QuasiElRatios.html#af6198bc66cfbb8bc89be8ea29a5c499e" title="G4QuasiElRatios::Scatter" alt="" coords="545,799,735,827"/>
+<area shape="rect" id="node28" href="$d9/db3/classG4QuasiElasticChannel.html#a77c7ab32488569f2d1303132af2023a6" title="G4QuasiElasticChannel\l::Scatter" alt="" coords="835,564,1014,608"/>
+<area shape="rect" id="node29" href="$d4/d28/classG4TheoFSGenerator.html#ad24712a85688d9be2850b3b6e2a0157f" title="G4TheoFSGenerator::\lApplyYourself" alt="" coords="1100,384,1267,428"/>
+<area shape="rect" id="node30" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1331,302,1529,346"/>
+<area shape="rect" id="node31" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1331,384,1529,428"/>
+<area shape="rect" id="node32" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="1582,384,1771,428"/>
+<area shape="rect" id="node41" href="$d4/d14/classG4GammaConversionToMuons.html#aca8c02783c8ea9ad0db78d714dd9ee0b" title="G4GammaConversionToMuons\l::PostStepDoIt" alt="" coords="526,1327,754,1371"/>
+<area shape="rect" id="node42" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="825,1327,1024,1371"/>
+</map>

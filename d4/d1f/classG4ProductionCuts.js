@@ -1,0 +1,26 @@
+var classG4ProductionCuts =
+[
+    [ "G4ProductionCuts", "d4/d1f/classG4ProductionCuts.html#ae7150f006df2c6764b0708538931558a", null ],
+    [ "G4ProductionCuts", "d4/d1f/classG4ProductionCuts.html#a64f0bfbd2e2ab1e2ad34b2cac5281acb", null ],
+    [ "~G4ProductionCuts", "d4/d1f/classG4ProductionCuts.html#a888ec2f6d773c32653ccb37ad1813023", null ],
+    [ "GetIndex", "d4/d1f/classG4ProductionCuts.html#a846c52f7591e0145abb3e59cb7dc584b", null ],
+    [ "GetIndex", "d4/d1f/classG4ProductionCuts.html#a345b7a74bf523cdfdf378197ac7251c7", null ],
+    [ "GetProductionCut", "d4/d1f/classG4ProductionCuts.html#a7fdc01761d45649460a87e63df2adfb5", null ],
+    [ "GetProductionCut", "d4/d1f/classG4ProductionCuts.html#a690e0b4ab69539bb3b27359ec3220150", null ],
+    [ "GetProductionCuts", "d4/d1f/classG4ProductionCuts.html#abb3b06df659f13574fe6c079cf4bdd44", null ],
+    [ "IsModified", "d4/d1f/classG4ProductionCuts.html#a0e466fb5c0d71b566e6e89e967ed23cf", null ],
+    [ "operator!=", "d4/d1f/classG4ProductionCuts.html#a16ea2d1fa545680232dd750341cee293", null ],
+    [ "operator=", "d4/d1f/classG4ProductionCuts.html#a5ef588617cd64db7857bacc8e0f17ebd", null ],
+    [ "operator==", "d4/d1f/classG4ProductionCuts.html#a33164a5f51f7e7cde8e1cd8288e16eb5", null ],
+    [ "PhysicsTableUpdated", "d4/d1f/classG4ProductionCuts.html#ab288b51c1041b9f5571aaddf1ea52577", null ],
+    [ "SetProductionCut", "d4/d1f/classG4ProductionCuts.html#ab065a375060b5aa9eeb3ea15f48640c5", null ],
+    [ "SetProductionCut", "d4/d1f/classG4ProductionCuts.html#a8a3c184e155699a2570614f6ef0dc901", null ],
+    [ "SetProductionCut", "d4/d1f/classG4ProductionCuts.html#a73d944c2a7bf0776a8bdea945c807f35", null ],
+    [ "SetProductionCuts", "d4/d1f/classG4ProductionCuts.html#ade09fe2ede709496db344640259740a9", null ],
+    [ "electDef", "d4/d1f/classG4ProductionCuts.html#a42666e0622c2633e126a2e74a1a363d7", null ],
+    [ "fRangeCuts", "d4/d1f/classG4ProductionCuts.html#a6b3e0893394b36ac52823106baf6722a", null ],
+    [ "gammaDef", "d4/d1f/classG4ProductionCuts.html#ad65be917f180b8f1cbcfcb70f60a5375", null ],
+    [ "isModified", "d4/d1f/classG4ProductionCuts.html#a4bc62224d153d069a189c56f9552bae1", null ],
+    [ "positDef", "d4/d1f/classG4ProductionCuts.html#a322c00de5a2a19f7384f92d35fc99e7b", null ],
+    [ "protonDef", "d4/d1f/classG4ProductionCuts.html#a6ad0404bde9b7b6e1d40498b9891bb63", null ]
+];

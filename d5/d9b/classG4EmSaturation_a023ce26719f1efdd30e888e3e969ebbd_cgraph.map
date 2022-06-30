@@ -1,0 +1,29 @@
+<map id="G4EmSaturation::VisibleEnergyDepositionAtAStep" name="G4EmSaturation::VisibleEnergyDepositionAtAStep">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="308,5,501,49"/>
+<area shape="rect" id="node3" href="$d9/d7a/classG4Step.html#a504385279cbcf2ce0f1bf885b0d80ed9" title="G4Step::GetNonIonizingEnergy\lDeposit" alt="" coords="289,73,521,117"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a86961e4e580944b946cfd88b82ac5524" title="G4Track::GetParticleDefinition" alt="" coords="293,141,517,169"/>
+<area shape="rect" id="node5" href="$d9/d7a/classG4Step.html#a620ff37431d6c3c0129c06b7d3fa9f5d" title="G4Step::GetStepLength" alt="" coords="314,193,495,221"/>
+<area shape="rect" id="node6" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="287,245,523,273"/>
+<area shape="rect" id="node7" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="335,297,475,325"/>
+<area shape="rect" id="node8" href="$d5/d9b/classG4EmSaturation.html#a7b9a89e31151884340b7979b2cc2e784" title="G4EmSaturation::VisibleEnergy\lDeposition" alt="" coords="288,349,521,393"/>
+<area shape="rect" id="node9" href="$d6/d69/classG4IonisParamMat.html#ad8ecbf2b0c1db6da201d9a67beb73bc3" title="G4IonisParamMat::GetBirks\lConstant" alt="" coords="571,155,777,199"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="591,223,757,251"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="577,275,771,303"/>
+<area shape="rect" id="node12" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1371,341,1543,385"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="597,379,751,423"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="597,447,751,491"/>
+<area shape="rect" id="node15" href="$d9/d78/classG4LossTableManager.html#ae5c306a76c82b70e6744f755fc50c2d0" title="G4LossTableManager\l::GetRange" alt="" coords="591,515,757,559"/>
+<area shape="rect" id="node23" href="$d9/d78/classG4LossTableManager.html#a2f26d6edfd1d62ac3a714ac9f6bd6b9c" title="G4LossTableManager\l::Instance" alt="" coords="591,639,757,683"/>
+<area shape="rect" id="node16" href="$d9/d78/classG4LossTableManager.html#a4848c365447d5256fc19a8cdb28d23bc" title="G4LossTableManager\l::GetEnergyLossProcess" alt="" coords="827,411,1010,455"/>
+<area shape="rect" id="node18" href="$da/d80/classG4VEnergyLossProcess.html#ada3aba61c1e24ac7a72a2b61fb1ddc89" title="G4VEnergyLossProcess\l::GetRange" alt="" coords="830,511,1007,555"/>
+<area shape="rect" id="node17" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="1165,380,1211,408"/>
+<area shape="rect" id="node19" href="$da/d80/classG4VEnergyLossProcess.html#abfc0f724a5e8ccd023a9fa690a7089a0" title="G4VEnergyLossProcess\l::DefineMaterial" alt="" coords="1099,432,1277,476"/>
+<area shape="rect" id="node21" href="$da/d80/classG4VEnergyLossProcess.html#af12ecb55fdb5aee2a1390ef714cd8a37" title="G4VEnergyLossProcess\l::GetLimitScaledRangeForScaled\lEnergy" alt="" coords="1067,500,1309,560"/>
+<area shape="rect" id="node22" href="$da/d80/classG4VEnergyLossProcess.html#ac2bb4e32393fb505d1828f646d38a541" title="G4VEnergyLossProcess\l::GetScaledRangeForScaledEnergy" alt="" coords="1060,584,1316,628"/>
+<area shape="rect" id="node20" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1371,432,1543,476"/>
+<area shape="rect" id="node24" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="825,671,1012,715"/>
+<area shape="rect" id="node25" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1130,652,1246,680"/>
+<area shape="rect" id="node26" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1131,704,1245,732"/>
+<area shape="rect" id="node27" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1097,756,1279,784"/>
+<area shape="rect" id="node28" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1364,748,1551,792"/>
+</map>

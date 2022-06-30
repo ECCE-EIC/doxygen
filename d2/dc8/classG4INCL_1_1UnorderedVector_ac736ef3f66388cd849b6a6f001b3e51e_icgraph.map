@@ -1,0 +1,27 @@
+<map id="G4INCL::UnorderedVector::remove" name="G4INCL::UnorderedVector::remove">
+<area shape="rect" id="node2" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#ad46668b98bc40524da6985f06283aef3" title="Add back dynamical spectators to the projectile remnant." alt="" coords="268,149,471,193"/>
+<area shape="rect" id="node3" href="$d5/dd3/classG4INCL_1_1Store.html#ae67542d9e785ebf577a2bd6373bcbc43" title="Returns a list of dynamical spectators." alt="" coords="248,217,491,261"/>
+<area shape="rect" id="node7" href="$d5/dd3/classG4INCL_1_1Store.html#a71b5ed298421984043e0da0833a58359" title="G4INCL::Store::particleHas\lBeenDestroyed" alt="" coords="269,337,470,381"/>
+<area shape="rect" id="node13" href="$d5/dd3/classG4INCL_1_1Store.html#aa82e9f6beb23b087c439a0baca5bbe8c" title="G4INCL::Store::particleHas\lBeenEjected" alt="" coords="561,257,763,301"/>
+<area shape="rect" id="node20" href="$d5/dd3/classG4INCL_1_1Store.html#ae144e35ae40b5b364ba406338f84eaf7" title="Remove an avatar from the list of avatars." alt="" coords="259,405,479,433"/>
+<area shape="rect" id="node24" href="$d0/d7f/classG4INCL_1_1Cluster.html#a0bbbadc8ede560ef8b9ee144609aecbe" title="Remove a particle from the cluster components." alt="" coords="251,494,488,522"/>
+<area shape="rect" id="node4" href="$d6/d0a/classG4INCL_1_1INCL.html#ad3af30d982bdd92ab75225c4730c3e38" title="Make a projectile pre&#45;fragment out of geometrical spectators." alt="" coords="553,99,771,143"/>
+<area shape="rect" id="node5" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="1405,255,1611,283"/>
+<area shape="rect" id="node6" href="$d6/d0a/classG4INCL_1_1INCL.html#a7db10f7a8cd5c5173448a48cc7a3cab7" title="G4INCL::INCL::processEvent" alt="" coords="1659,383,1869,411"/>
+<area shape="rect" id="node8" href="$d7/db0/classG4INCL_1_1Nucleus.html#a614d4c123c0f697c91dc7d088d56eeae" title="G4INCL::Nucleus::applyFinal\lState" alt="" coords="851,393,1062,437"/>
+<area shape="rect" id="node9" href="$d6/d0a/classG4INCL_1_1INCL.html#acde1be31793296d7a8cb8a67cc577c40" title="The actual cascade loop." alt="" coords="1421,409,1595,437"/>
+<area shape="rect" id="node10" href="$d7/db0/classG4INCL_1_1Nucleus.html#a298541884fc27de276e6429a211b36fc" title="Force the decay of deltas inside the nucleus." alt="" coords="1131,375,1355,419"/>
+<area shape="rect" id="node11" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad04c5fdb4f44d66bd818728cf07c26e3" title="Force the transformation of strange particles into a Lambda;." alt="" coords="1131,443,1355,487"/>
+<area shape="rect" id="node12" href="$d6/d0a/classG4INCL_1_1INCL.html#a9e2cd5ca68f6ee1680ce9b306d2c01a3" title="Make a compound nucleus." alt="" coords="1128,307,1357,351"/>
+<area shape="rect" id="node14" href="$d7/db0/classG4INCL_1_1Nucleus.html#af840b4d956b404aa9647c14b303b558c" title="Compute the recoil kinematics for a 1&#45;nucleon remnant." alt="" coords="847,137,1066,181"/>
+<area shape="rect" id="node16" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5020a863b24169ea2bcdfb3caef20de9" title="Force emission of all Kaon inside the nucleus." alt="" coords="833,205,1080,233"/>
+<area shape="rect" id="node17" href="$d7/db0/classG4INCL_1_1Nucleus.html#acb04ec2e232fc8222b7eca375d121fd7" title="Force emission of all Lambda (desexitation code with strangeness not implanted yet)" alt="" coords="1136,69,1349,113"/>
+<area shape="rect" id="node18" href="$d7/db0/classG4INCL_1_1Nucleus.html#abe6a096e43436b19de4e873a976934ef" title="Force emission of all pions inside the nucleus." alt="" coords="850,257,1063,301"/>
+<area shape="rect" id="node19" href="$d7/db0/classG4INCL_1_1Nucleus.html#a7b914cc53f1445c43aef88fc64b999a8" title="Force emission of all strange particles inside the nucleus." alt="" coords="850,325,1063,369"/>
+<area shape="rect" id="node15" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2a52bd7a50d3ace82ababf837535632a" title="Compute the recoil momentum and spin of the nucleus." alt="" coords="1141,137,1344,181"/>
+<area shape="rect" id="node21" href="$d5/dd3/classG4INCL_1_1Store.html#a1f7295b6459f45724609773d3bf66c9b" title="G4INCL::Store::findSmallestTime" alt="" coords="541,467,783,495"/>
+<area shape="rect" id="node23" href="$d5/dd3/classG4INCL_1_1Store.html#a8e737309ae1611cb56e1421190cd6130" title="Remove avatars that have been scheduled." alt="" coords="539,397,785,441"/>
+<area shape="rect" id="node22" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a137dff7f40f49603b311b9b219eeda35" title="G4INCL::StandardPropagation\lModel::propagate" alt="" coords="846,461,1067,505"/>
+<area shape="rect" id="node25" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a196e7b7369ff5a96c9451337ee41eaed" title="Remove a nucleon from the projectile remnant." alt="" coords="561,523,763,567"/>
+<area shape="rect" id="node26" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#abf44c365082f5001071c3c658a611503" title="G4INCL::ParticleEntryChannel\l::fillFinalState" alt="" coords="847,529,1067,573"/>
+</map>

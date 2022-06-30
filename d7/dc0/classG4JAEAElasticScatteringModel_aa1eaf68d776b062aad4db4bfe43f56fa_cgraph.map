@@ -1,0 +1,26 @@
+<map id="G4JAEAElasticScatteringModel::SampleSecondaries" name="G4JAEAElasticScatteringModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="372,5,440,33"/>
+<area shape="rect" id="node3" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="327,57,485,101"/>
+<area shape="rect" id="node4" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="327,125,485,169"/>
+<area shape="rect" id="node5" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="315,193,497,237"/>
+<area shape="rect" id="node6" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="337,261,475,289"/>
+<area shape="rect" id="node7" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="386,313,426,341"/>
+<area shape="rect" id="node8" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="301,365,511,409"/>
+<area shape="rect" id="node9" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc" title="G4ParticleChangeForGamma\l::ProposeMomentumDirection" alt="" coords="295,433,517,477"/>
+<area shape="rect" id="node13" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="326,501,486,545"/>
+<area shape="rect" id="node14" href="$dc/d49/HelixHough__allButKappaRange__sse_8cpp.html#a665e8f3e2226dd39be9c0e4f06dd1eaf" title="return" alt="" coords="375,569,437,597"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="326,621,486,665"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#a7ee40bb5b254b7f72261d929ca497e48" title="G4VEmModel::SelectRandomAtom" alt="" coords="279,689,533,717"/>
+<area shape="rect" id="node24" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852" title="G4ParticleChangeForGamma\l::SetProposedKineticEnergy" alt="" coords="298,741,514,785"/>
+<area shape="rect" id="node25" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="378,809,434,837"/>
+<area shape="rect" id="node10" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="606,383,797,411"/>
+<area shape="rect" id="node11" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="606,435,797,463"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="606,487,797,515"/>
+<area shape="rect" id="node16" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="617,539,786,567"/>
+<area shape="rect" id="node17" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="617,591,786,619"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="617,643,785,671"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="581,695,821,723"/>
+<area shape="rect" id="node23" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="891,744,1063,788"/>
+<area shape="rect" id="node21" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="891,624,1063,668"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="869,692,1085,720"/>
+</map>

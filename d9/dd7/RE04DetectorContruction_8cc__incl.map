@@ -1,0 +1,44 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/runAndEvent/RE04/src/RE04DetectorContruction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/runAndEvent/RE04/src/RE04DetectorContruction.cc">
+<area shape="rect" id="node2" href="$d1/d08/RE04DetectorConstruction_8hh.html" title="Definition of the RE04DetectorConstruction class." alt="" coords="2052,433,2273,461"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="402,661,483,689"/>
+<area shape="rect" id="node8" href="$d9/de1/G4NistManager_8hh.html" title="G4NistManager.hh" alt="" coords="1345,205,1490,233"/>
+<area shape="rect" id="node11" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="809,357,925,385"/>
+<area shape="rect" id="node24" href="$d1/d8f/G4Box_8hh.html" title="G4Box.hh" alt="" coords="3581,129,3667,157"/>
+<area shape="rect" id="node29" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="2465,357,2625,385"/>
+<area shape="rect" id="node35" href="$d7/da4/G4PVPlacement_8hh.html" title="G4PVPlacement.hh" alt="" coords="3452,357,3601,385"/>
+<area shape="rect" id="node37" href="$d9/d7b/G4UniformMagField_8hh.html" title="G4UniformMagField.hh" alt="" coords="4191,433,4366,461"/>
+<area shape="rect" id="node39" href="$d1/d2e/G4TransportationManager_8hh.html" title="G4TransportationManager.hh" alt="" coords="2986,129,3203,157"/>
+<area shape="rect" id="node43" href="$d3/d88/G4FieldManager_8hh.html" title="G4FieldManager.hh" alt="" coords="3905,129,4055,157"/>
+<area shape="rect" id="node45" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="2785,281,2933,309"/>
+<area shape="rect" id="node47" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="2820,433,2924,461"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="4079,129,4241,157"/>
+<area shape="rect" id="node3" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="1849,509,2095,537"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1847,585,1937,613"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2935,737,3035,765"/>
+<area shape="rect" id="node9" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="1137,509,1380,537"/>
+<area shape="rect" id="node16" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="932,509,1063,537"/>
+<area shape="rect" id="node20" href="$dd/d4a/G4NistElementBuilder_8hh.html" title="G4NistElementBuilder.hh" alt="" coords="935,433,1126,461"/>
+<area shape="rect" id="node21" href="$d7/dae/G4NistMaterialBuilder_8hh.html" title="G4NistMaterialBuilder.hh" alt="" coords="1140,281,1329,309"/>
+<area shape="rect" id="node22" href="$d7/d75/G4ICRU90StoppingData_8hh.html" title="G4ICRU90StoppingData.hh" alt="" coords="1506,281,1710,309"/>
+<area shape="rect" id="node23" href="$df/db6/G4Pow_8hh.html" title="G4Pow.hh" alt="" coords="1762,281,1849,309"/>
+<area shape="rect" id="node10" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="2929,585,3151,613"/>
+<area shape="rect" id="node13" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="531,509,648,537"/>
+<area shape="rect" id="node14" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="1455,433,1673,461"/>
+<area shape="rect" id="node15" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="647,433,809,461"/>
+<area shape="rect" id="node17" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="481,433,623,461"/>
+<area shape="rect" id="node18" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="246,433,405,461"/>
+<area shape="rect" id="node19" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="195,509,347,537"/>
+<area shape="rect" id="node25" href="$d9/dbc/G4GeomTypes_8hh.html" title="G4GeomTypes.hh" alt="" coords="3554,205,3694,233"/>
+<area shape="rect" id="node26" href="$d8/df5/G4CSGSolid_8hh.html" title="G4CSGSolid.hh" alt="" coords="3719,205,3841,233"/>
+<area shape="rect" id="node27" href="$d7/dab/G4Polyhedron_8hh.html" title="G4Polyhedron.hh" alt="" coords="3725,281,3862,309"/>
+<area shape="rect" id="node30" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="2399,433,2507,461"/>
+<area shape="rect" id="node31" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="2504,509,2653,537"/>
+<area shape="rect" id="node32" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="3100,433,3276,461"/>
+<area shape="rect" id="node33" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="3228,509,3369,537"/>
+<area shape="rect" id="node36" href="$d3/dd7/G4Transform3D_8hh.html" title="G4Transform3D.hh" alt="" coords="3501,509,3649,537"/>
+<area shape="rect" id="node38" href="$d7/dd4/G4MagneticField_8hh.html" title="G4MagneticField.hh" alt="" coords="3917,661,4072,689"/>
+<area shape="rect" id="node40" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="3189,281,3315,309"/>
+<area shape="rect" id="node41" href="$d3/d97/G4SafetyHelper_8hh.html" title="G4SafetyHelper.hh" alt="" coords="3279,205,3427,233"/>
+<area shape="rect" id="node46" href="$d2/d5d/graphics__reps__defs_8hh.html" title="graphics_reps_defs.hh" alt="" coords="3301,661,3473,689"/>
+<area shape="rect" id="node48" href="$d8/d72/G4Color_8hh.html" title="G4Color.hh" alt="" coords="2700,357,2796,385"/>
+</map>

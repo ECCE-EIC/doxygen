@@ -1,0 +1,19 @@
+<map id="G4EventManager::GetUserTrackingAction" name="G4EventManager::GetUserTrackingAction">
+<area shape="rect" id="node2" href="$d7/de8/classG4ErrorPropagator.html#a3010e3dfc431339a00bf1365de6fae1c" title="G4ErrorPropagator::\lInvokePostUserTrackingAction" alt="" coords="575,40,797,84"/>
+<area shape="rect" id="node7" href="$d7/de8/classG4ErrorPropagator.html#a3c9ad2ae520ada91d40210f525d0f4c4" title="G4ErrorPropagator::\lInvokePreUserTrackingAction" alt="" coords="311,108,527,152"/>
+<area shape="rect" id="node11" href="$d2/dc8/classG4MaterialScanner.html#af2a79a9b766bf4a50e17c380a695b63b" title="G4MaterialScanner::\lStoreUserActions" alt="" coords="339,176,498,220"/>
+<area shape="rect" id="node14" href="$d2/dbf/classG4TheRayTracer.html#a2c7e92c96ad9e63dfe9c28c6b8aecec4" title="G4TheRayTracer::StoreUser\lActions" alt="" coords="315,244,523,288"/>
+<area shape="rect" id="node18" href="$d9/d4e/classITTrackingInteractivity.html#a9780292032f0803a1db99ba0c319f495" title="ITTrackingInteractivity\l::~ITTrackingInteractivity" alt="" coords="323,312,514,356"/>
+<area shape="rect" id="node3" href="$d3/dd6/errprop_8cc.html#a0aa8f3a7acd1c667334594ded9b06a90" title="ProcessEvent" alt="" coords="1376,48,1488,76"/>
+<area shape="rect" id="node5" href="$d7/de8/classG4ErrorPropagator.html#ae98058a2abe76bf8e941d94871b05e5e" title="G4ErrorPropagator::\lPropagate" alt="" coords="882,40,1037,84"/>
+<area shape="rect" id="node4" href="$d3/dd6/errprop_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1536,48,1591,76"/>
+<area shape="rect" id="node6" href="$dd/d88/classG4ErrorPropagatorManager.html#a4b42e52a50fdce30d6569241ebeae237" title="G4ErrorPropagatorManager\l::Propagate" alt="" coords="1121,40,1328,84"/>
+<area shape="rect" id="node8" href="$d7/de8/classG4ErrorPropagator.html#a1135145a74307f08740034eed045166c" title="G4ErrorPropagator::\lInitG4Track" alt="" coords="609,108,763,152"/>
+<area shape="rect" id="node9" href="$d7/de8/classG4ErrorPropagator.html#a5e25ebdd7ad89c111a4a3cfadc313478" title="G4ErrorPropagator::\lPropagateOneStep" alt="" coords="882,108,1037,152"/>
+<area shape="rect" id="node10" href="$dd/d88/classG4ErrorPropagatorManager.html#a7548ed4f2f8f0539b485482e86eca2c9" title="G4ErrorPropagatorManager\l::PropagateOneStep" alt="" coords="1121,108,1328,152"/>
+<area shape="rect" id="node12" href="$d2/dc8/classG4MaterialScanner.html#a23308c4b255bd7e571a2a04a77b43a6b" title="G4MaterialScanner::Scan" alt="" coords="590,184,782,212"/>
+<area shape="rect" id="node13" href="$d4/d36/classG4MatScanMessenger.html#ae7172e8e059a99c2d11cb622a26d1ab3" title="G4MatScanMessenger\l::SetNewValue" alt="" coords="873,176,1045,220"/>
+<area shape="rect" id="node15" href="$d2/dbf/classG4TheRayTracer.html#a50b2c01eb78c73a627b8d1abd5c19be4" title="G4TheRayTracer::Trace" alt="" coords="597,252,775,280"/>
+<area shape="rect" id="node16" href="$d5/dee/classG4RayTracerViewer.html#afee983c0a29f4d24b5f579eef5655384" title="G4RayTracerViewer::\lDrawView" alt="" coords="879,244,1040,288"/>
+<area shape="rect" id="node17" href="$d9/d5c/classG4RTMessenger.html#a4a0e0ac3652bce8ebb02b0f9f5712d91" title="G4RTMessenger::SetNewValue" alt="" coords="845,312,1073,340"/>
+</map>

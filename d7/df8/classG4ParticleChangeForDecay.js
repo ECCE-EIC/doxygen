@@ -1,0 +1,25 @@
+var classG4ParticleChangeForDecay =
+[
+    [ "G4ParticleChangeForDecay", "d7/df8/classG4ParticleChangeForDecay.html#af10b6af5baae47e7f795b0bcb057ff7b", null ],
+    [ "~G4ParticleChangeForDecay", "d7/df8/classG4ParticleChangeForDecay.html#aca0b495716a538b6de1edbfd4858a434", null ],
+    [ "G4ParticleChangeForDecay", "d7/df8/classG4ParticleChangeForDecay.html#a72febeef8d122866e2a997a982a44a65", null ],
+    [ "CheckIt", "d7/df8/classG4ParticleChangeForDecay.html#acb07094ce7f9b24c2ba4caf64372b7b0", null ],
+    [ "DumpInfo", "d7/df8/classG4ParticleChangeForDecay.html#a3556ec068e502006f281c5d7a7edd554", null ],
+    [ "GetGlobalTime", "d7/df8/classG4ParticleChangeForDecay.html#aa8629541881aad864f2f10c5fdd8f161", null ],
+    [ "GetLocalTime", "d7/df8/classG4ParticleChangeForDecay.html#a753fa3a985051bf92ad3deb3d7b323ac", null ],
+    [ "GetPolarization", "d7/df8/classG4ParticleChangeForDecay.html#a7f9cb4502e918865816151558d6ff761", null ],
+    [ "Initialize", "d7/df8/classG4ParticleChangeForDecay.html#ac8c1b6d55dcda38e531a3a8db35951fa", null ],
+    [ "operator!=", "d7/df8/classG4ParticleChangeForDecay.html#a3626c84d4a2fd7cb9bd54165d1af1266", null ],
+    [ "operator=", "d7/df8/classG4ParticleChangeForDecay.html#a68a96ce6eaf3417d3978e5b19b4db6d5", null ],
+    [ "operator==", "d7/df8/classG4ParticleChangeForDecay.html#a775a6af25a72d09cb74d52341bc32af7", null ],
+    [ "ProposeGlobalTime", "d7/df8/classG4ParticleChangeForDecay.html#a6a3cb4da7ea3fad02c4d85854834864f", null ],
+    [ "ProposeLocalTime", "d7/df8/classG4ParticleChangeForDecay.html#aafbfc14b92f60e844f769c6637428464", null ],
+    [ "ProposePolarization", "d7/df8/classG4ParticleChangeForDecay.html#a1f8757872e48e4543eee339983a2ce54", null ],
+    [ "ProposePolarization", "d7/df8/classG4ParticleChangeForDecay.html#ac4e52baec6ec0c840986c39ac18778cc", null ],
+    [ "UpdateStepForAtRest", "d7/df8/classG4ParticleChangeForDecay.html#a9f1e79d4310513262b1078becddb4f7a", null ],
+    [ "UpdateStepForPostStep", "d7/df8/classG4ParticleChangeForDecay.html#a2dd612920054e04bb4d481b028f200f1", null ],
+    [ "theGlobalTime0", "d7/df8/classG4ParticleChangeForDecay.html#acc662d77dc58d5c0ad7793d4118a1e1a", null ],
+    [ "theLocalTime0", "d7/df8/classG4ParticleChangeForDecay.html#a097a50fe27bd422b8246ab131fe97670", null ],
+    [ "thePolarizationChange", "d7/df8/classG4ParticleChangeForDecay.html#ab4cb3ce9913d2f8f1cc73c7043e5c066", null ],
+    [ "theTimeChange", "d7/df8/classG4ParticleChangeForDecay.html#a202d5e84ef3e4e480549ad573597b08e", null ]
+];

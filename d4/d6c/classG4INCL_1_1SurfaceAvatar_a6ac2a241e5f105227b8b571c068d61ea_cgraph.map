@@ -1,0 +1,35 @@
+<map id="G4INCL::SurfaceAvatar::getTransmissionProbability" name="G4INCL::SurfaceAvatar::getTransmissionProbability">
+<area shape="rect" id="node2" href="$d1/dbe/namespaceG4INCL_1_1Math.html#a5aa331bc87af4414119b0ca503ff0812" title="Calculates arccos with some tolerance on illegal arguments." alt="" coords="307,5,475,33"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="854,56,1025,84"/>
+<area shape="rect" id="node4" href="$d5/dd3/classG4INCL_1_1Store.html#ab96728e4416b8e1c0859f6757450a32b" title="G4INCL::Store::getConfig" alt="" coords="297,280,486,308"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#a883372f190a9fa266141db6a1b00891d" title="Computes correction on the emission Q&#45;value." alt="" coords="281,332,501,376"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#a8ec20398365f8dbdf6b9363cbfd15820" title="Get the particle kinetic energy." alt="" coords="288,400,495,444"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="294,468,489,496"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="273,520,510,548"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#a2b7dc0e28320c39bf6d8de3cfa48d0c2" title="Get the particle potential energy." alt="" coords="282,572,501,616"/>
+<area shape="rect" id="node17" href="$da/d4f/classG4INCL_1_1Config.html#aae7fd80c1f75e5e2198413aac7486521" title="True if we should use refraction." alt="" coords="280,640,503,668"/>
+<area shape="rect" id="node18" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="307,692,476,720"/>
+<area shape="rect" id="node19" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="291,744,491,772"/>
+<area shape="rect" id="node20" href="$d7/db0/classG4INCL_1_1Nucleus.html#a887b702eef33e24d4960977450d2f27d" title="Get the transmission barrier." alt="" coords="265,160,517,204"/>
+<area shape="rect" id="node30" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="854,228,1025,256"/>
+<area shape="rect" id="node31" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a2b21c9870e68528a863c28d48f2be4f5" title="G4INCL::SurfaceAvatar\l::initializeRefractionVariables" alt="" coords="282,848,501,892"/>
+<area shape="rect" id="node33" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="858,788,1021,832"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#ad859830be433794be92a8f371e2a114c" title="G4INCL::Particle::isCluster" alt="" coords="581,384,779,412"/>
+<area shape="rect" id="node7" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a1c7eefa4793b197220b7650346129082" title="Get Q&#45;value (in MeV/c^2)" alt="" coords="598,436,762,480"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a2902e76b7e4fec816cbd8473424e0339" title="Get the tabulated particle mass." alt="" coords="565,504,795,532"/>
+<area shape="rect" id="node9" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="857,324,1021,368"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#aa127348f0d36f847e9670ac4088680b3" title="Get the INCL particle mass." alt="" coords="567,332,793,360"/>
+<area shape="rect" id="node10" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1120,332,1231,360"/>
+<area shape="rect" id="node11" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1375,332,1551,360"/>
+<area shape="rect" id="node21" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#af678d9a6c1791845b43ac3b96ceca26b" title="The radius used for calculating the transmission coefficient." alt="" coords="587,109,773,153"/>
+<area shape="rect" id="node22" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aef86c3410e38c769321d2da25d6edc66" title="G4INCL::ParticleTable\l::getNuclearRadius" alt="" coords="857,160,1021,204"/>
+<area shape="rect" id="node29" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="843,108,1035,136"/>
+<area shape="rect" id="node23" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a46a87c3871f07858d95a7ddd5fa5f5c5" title="G4INCL::ParticleTable\l::getRadiusParameter" alt="" coords="1091,160,1259,204"/>
+<area shape="rect" id="node26" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1659,168,1697,196"/>
+<area shape="rect" id="node28" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#ab6ce8aa3f2f24696690fb2be8e410522" title="G4INCL::ParticleTable\l::getSurfaceDiffuseness" alt="" coords="1084,228,1267,272"/>
+<area shape="rect" id="node24" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a76025ec9abdf874fb975067a1dfbfc3f" title="Get the value of the r&#45;p correlation coefficient." alt="" coords="1354,160,1571,204"/>
+<area shape="rect" id="node25" href="$d1/dde/namespaceG4INCL_1_1HFB.html#aa734e794bb9a5d2787d44d01c725f709" title="Get the radius and diffuseness parameters from HFB calculations." alt="" coords="1323,228,1603,256"/>
+<area shape="rect" id="node27" href="$d1/dde/namespaceG4INCL_1_1HFB.html#a48739f247ee78c4848ffd04412a96946" title="G4INCL::HFB::getSurfaceDiffusenessHFB" alt="" coords="1315,280,1611,308"/>
+<area shape="rect" id="node32" href="$dd/d83/classG4INCL_1_1Particle.html#afa7070eff738e3d4e645d20245ede536" title="Get the cosine of the angle between position and momentum." alt="" coords="587,848,773,892"/>
+<area shape="rect" id="node34" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa30743ac6a72bc2943cdce1f49665281" title="G4INCL::ThreeVector::dot" alt="" coords="843,856,1036,884"/>
+</map>

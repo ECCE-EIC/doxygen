@@ -1,0 +1,51 @@
+<map id="G4UImanager::G4UImanager" name="G4UImanager::G4UImanager">
+<area shape="rect" id="node2" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="272,1500,483,1528"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#a7b10a263dd7671587b574526da6b2d7d" title="full initialization" alt="" coords="608,5,731,33"/>
+<area shape="rect" id="node4" href="$d0/d78/classPHG4Reco.html#ad0f5beaf012e51404b712277818c6b36" title="PHG4Reco::InitUImanager" alt="" coords="571,57,768,85"/>
+<area shape="rect" id="node5" href="$dc/dd7/classPHG4ScoringManager.html#a6e9899da695ab233fceca7cce54bee78" title="full initialization" alt="" coords="585,109,754,153"/>
+<area shape="rect" id="node6" href="$df/d32/namespacepyglobals.html#a9a8bb0660fbe6e341d5bfe3abf634d3c" title="pyglobals::SetG4PyCoutDestination" alt="" coords="539,177,800,205"/>
+<area shape="rect" id="node7" href="$df/d32/namespacepyglobals.html#a711badb25613a5cbfda0b5780e76ec59" title="pyglobals::ResetG4PyCout\lDestination" alt="" coords="569,229,769,273"/>
+<area shape="rect" id="node8" href="$dd/d86/namespacepyG4UImanager.html#aa8d3e51f6bb2b88e8c49e20c0dcd6ff1" title="pyG4UImanager::ApplyUICommand_1" alt="" coords="531,297,808,325"/>
+<area shape="rect" id="node9" href="$d2/dca/pymodG4intercoms_8cc.html#ad3945ebce6e57abaf1103b9f51a0e072" title="export_G4UImanager" alt="" coords="871,324,1037,352"/>
+<area shape="rect" id="node10" href="$dd/d44/classG4ZMQServer.html#aac6fd49ad4009f0d782f305f16a36e94" title="G4ZMQServer::G4ZMQServer" alt="" coords="559,401,779,429"/>
+<area shape="rect" id="node11" href="$da/d1b/Ultra_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="642,453,697,481"/>
+<area shape="rect" id="node12" href="$dc/d34/classCexmcRunManager.html#a1a89fa04f3525ac1f92ab1a280a9a788" title="CexmcRunManager::DoCommon\lEventLoop" alt="" coords="549,505,789,549"/>
+<area shape="rect" id="node13" href="$d9/dbb/classCexmcSensitiveDetectorMessenger.html#a5e94456d7dd20da05fb623a5ad55cf33" title="CexmcSensitiveDetectorMessenger\l::CexmcSensitiveDetectorMessenger" alt="" coords="534,573,805,617"/>
+<area shape="rect" id="node14" href="$d3/d69/classGammaRayTelDetectorConstruction.html#aa2503878bc2e61da702304d3804bb2d1" title="GammaRayTelDetectorConstruction\l::SetMagField" alt="" coords="539,641,800,685"/>
+<area shape="rect" id="node15" href="$dc/dde/classGammaRayTelRunAction.html#a84e2ca92f9818fdc8694a35dce6b1c94" title="GammaRayTelRunAction\l::BeginOfRunAction" alt="" coords="576,709,763,753"/>
+<area shape="rect" id="node16" href="$d3/d9a/classLaserDrivenBeamLine.html#a30863e48414aaac823b406f1ca2b28b1" title="LaserDrivenBeamLine\l::RemoveESS" alt="" coords="585,777,754,821"/>
+<area shape="rect" id="node17" href="$d3/d9a/classLaserDrivenBeamLine.html#a7de93c19d353dde10d1b061779a27b35" title="LaserDrivenBeamLine\l::SetFirstCollimatorRadius" alt="" coords="571,845,767,889"/>
+<area shape="rect" id="node18" href="$d3/d9a/classLaserDrivenBeamLine.html#a82cd1a24eb14ed2ffeb68bc860f30464" title="LaserDrivenBeamLine\l::SetFirstCollimatorThickness" alt="" coords="561,913,778,957"/>
+<area shape="rect" id="node19" href="$d3/d9a/classLaserDrivenBeamLine.html#a2c716c2b9aacb3ea48647f6cc05254e5" title="LaserDrivenBeamLine\l::SetFirstCollimatorPositionZ" alt="" coords="563,981,775,1025"/>
+<area shape="rect" id="node20" href="$d3/d9a/classLaserDrivenBeamLine.html#af0e0eebb1e7765f8f2e64f40b43f351b" title="LaserDrivenBeamLine\l::SetSecondCollimatorRadius" alt="" coords="561,1049,778,1093"/>
+<area shape="rect" id="node21" href="$d3/d9a/classLaserDrivenBeamLine.html#a04ecb2cc60489a25629eebaef462785d" title="LaserDrivenBeamLine\l::SetSecondCollimatorThickness" alt="" coords="550,1117,789,1161"/>
+<area shape="rect" id="node22" href="$d3/d9a/classLaserDrivenBeamLine.html#abdd31f58bab7beafa26cedc233b936dd" title="LaserDrivenBeamLine\l::SetSecondCollimatorPositionZ" alt="" coords="552,1185,787,1229"/>
+<area shape="rect" id="node23" href="$d3/d9a/classLaserDrivenBeamLine.html#a05c146061525df0ec29e7091025b997a" title="LaserDrivenBeamLine\l::SetThicknessSlit" alt="" coords="585,1253,754,1297"/>
+<area shape="rect" id="node24" href="$d3/d9a/classLaserDrivenBeamLine.html#aa44abbe9aef3dc004adb087ea419a2ef" title="LaserDrivenBeamLine\l::SetSlitHoleDimensionY" alt="" coords="577,1321,762,1365"/>
+<area shape="rect" id="node25" href="$d3/d9a/classLaserDrivenBeamLine.html#a260b0fc76f368daf190beb67fdb26025" title="LaserDrivenBeamLine\l::SetSlitHoleDimensionZ" alt="" coords="576,1389,763,1433"/>
+<area shape="rect" id="node26" href="$d3/d9a/classLaserDrivenBeamLine.html#a1e5a538c161fc852adfc2300f679d4a6" title="LaserDrivenBeamLine\l::SetSlitHolePositionZ" alt="" coords="585,1457,754,1501"/>
+<area shape="rect" id="node27" href="$d3/d9a/classLaserDrivenBeamLine.html#a539529118d4aff51497ac77842bacbc4" title="LaserDrivenBeamLine\l::RemoveQuads" alt="" coords="585,1525,754,1569"/>
+<area shape="rect" id="node28" href="$dc/d4b/ml2_8cc.html#a31ac0168d355ebbc2d5292645680a728" title="visio" alt="" coords="928,1849,980,1877"/>
+<area shape="rect" id="node29" href="$d1/d14/classCML2AcceleratorConstruction.html#ab59b6d510232fdd90d3858796bb9e260" title="CML2AcceleratorConstruction\l::design" alt="" coords="559,1645,779,1689"/>
+<area shape="rect" id="node30" href="$d9/ddc/classDMXEventAction.html#a3da9b297f1eb8a5c987193ee74dd36e1" title="DMXEventAction::drawTracks" alt="" coords="561,1713,778,1741"/>
+<area shape="rect" id="node31" href="$d9/d1f/classXrayFluoRunAction.html#ab7e3d17c925333a1c522c8a79febd7d9" title="XrayFluoRunAction::\lBeginOfRunAction" alt="" coords="591,1765,748,1809"/>
+<area shape="rect" id="node32" href="$d9/d1f/classXrayFluoRunAction.html#a4ae9b6499aba4cfd5236bea90fd6075a" title="XrayFluoRunAction::\lEndOfRunAction" alt="" coords="591,1833,748,1877"/>
+<area shape="rect" id="node33" href="$d4/d1d/classXrayFluoSimulation.html#accd4c375c6adf36bc22587e9aa477c85" title="XrayFluoSimulation\l::RunSimulation" alt="" coords="593,1901,745,1945"/>
+<area shape="rect" id="node34" href="$de/dc3/classXrayTelRunAction.html#a340b2b055f21ca3585ffe6d3983a6aab" title="XrayTelRunAction::BeginOf\lRunAction" alt="" coords="568,1969,771,2013"/>
+<area shape="rect" id="node35" href="$de/dc3/classXrayTelRunAction.html#aa3c85f246fd8486c04eddc5d121eee98" title="XrayTelRunAction::EndOfRun\lAction" alt="" coords="562,2037,777,2081"/>
+<area shape="rect" id="node36" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="631,2105,708,2133"/>
+<area shape="rect" id="node37" href="$de/d39/classG4BlineEventAction.html#aba12b35de199a5cdd10586064c3851c2" title="G4BlineEventAction\l::DrawFieldLines" alt="" coords="592,2157,747,2201"/>
+<area shape="rect" id="node38" href="$da/d38/classLXeDetectorConstruction.html#a83360c09148d278342530ac52d5a6c2c" title="LXeDetectorConstruction\l::SetDefaults" alt="" coords="575,2225,764,2269"/>
+<area shape="rect" id="node39" href="$dc/d72/classWLSSteppingAction.html#ad546e4d04c1aa9a5bfdd0714986d6bf7" title="WLSSteppingAction::\lSaveRandomStatus" alt="" coords="589,2293,750,2337"/>
+<area shape="rect" id="node40" href="$d2/d9a/classG4MPIbatch.html#a6096da42a78657280231905b706e487b" title="G4MPIbatch::SessionStart" alt="" coords="856,2499,1052,2527"/>
+<area shape="rect" id="node41" href="$d3/d24/classG4MPImanager.html#a02cd230d6dde9698217ca5ce50ca70f2" title="G4MPImanager::ExecuteThread\lCommand" alt="" coords="552,2413,787,2457"/>
+<area shape="rect" id="node42" href="$d3/d24/classG4MPImanager.html#aaa8c796cd0854407fba303ea5f9586e9" title="G4MPImanager::BeamOn" alt="" coords="574,2481,765,2509"/>
+<area shape="rect" id="node43" href="$d5/d39/classG4MPImessenger.html#a9388552412a7a07e96f0adee041383fb" title="G4MPImessenger::SetNewValue" alt="" coords="551,2533,787,2561"/>
+<area shape="rect" id="node44" href="$dc/da5/classG4MPIsession.html#a7d4a91a99311017e1391ee94322986c9" title="G4MPIsession::~G4MPIsession" alt="" coords="556,2585,783,2613"/>
+<area shape="rect" id="node45" href="$de/ddb/classG4VMPIsession.html#a64cbf77fa4df6bd682e4c1b453365f36" title="G4VMPIsession::ExecCommand" alt="" coords="553,2637,786,2665"/>
+<area shape="rect" id="node46" href="$da/df9/classtbbTask.html#ac48835b07dd4ff768b9b78c449f4c6e8" title="tbbTask::execute" alt="" coords="602,2689,737,2717"/>
+<area shape="rect" id="node47" href="$dc/d05/classPerspectiveVisActionMessenger.html#a40354c5df9bb5acca21b12ad20724b59" title="PerspectiveVisActionMessenger\l::SetNewValue" alt="" coords="551,2741,787,2785"/>
+<area shape="rect" id="node48" href="$dd/d5c/classG4LocalThreadCoutMessenger.html#a2f169e7980d6e37eb1507111c48f6d50" title="G4LocalThreadCoutMessenger\l::SetNewValue" alt="" coords="555,2809,783,2853"/>
+<area shape="rect" id="node49" href="$df/d29/classG4UIbatch.html#ac0b02dd974029ce11b6de0311ff26bbb" title="G4UIbatch::G4UIbatch" alt="" coords="583,2877,755,2905"/>
+<area shape="rect" id="node50" href="$df/d29/classG4UIbatch.html#a8abe373a73873b9f03c4d3a59f386d2b" title="G4UIbatch::ExecCommand" alt="" coords="568,2929,771,2957"/>
+</map>

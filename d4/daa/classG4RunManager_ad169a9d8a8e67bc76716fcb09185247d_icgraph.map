@@ -1,0 +1,26 @@
+<map id="G4RunManager::GetCurrentEvent" name="G4RunManager::GetCurrentEvent">
+<area shape="rect" id="node2" href="$db/daa/classPar02Output.html#a57618acbafc43ceb9f78e4cc0cb54330" title="Par02Output::CreateNtuples" alt="" coords="283,27,495,55"/>
+<area shape="rect" id="node4" href="$dd/d36/pymodG4run_8cc.html#a40df4755f58bb0bd961be91b7372bd01" title="export_G4RunManager" alt="" coords="300,91,477,119"/>
+<area shape="rect" id="node6" href="$d0/d48/classRE01StackingAction.html#adfa5452304127c5fe8026a26c410628b" title="RE01StackingAction\l::GetCalCollection" alt="" coords="311,160,467,204"/>
+<area shape="rect" id="node8" href="$d0/d0f/classRE05StackingAction.html#a383c7ea197e029b36b39b03f4429f371" title="RE05StackingAction\l::GetCollection" alt="" coords="311,261,467,305"/>
+<area shape="rect" id="node12" href="$dc/d4d/classExN04StackingAction.html#a1e5ccb8e66bd55723bfd39274eb0a29f" title="ExN04StackingAction\l::GetCollection" alt="" coords="306,363,471,407"/>
+<area shape="rect" id="node16" href="$d1/d3f/classG4DigiManager.html#af04c1d07defac29c5ffd3acc7d86482a" title="G4DigiManager::GetDigiCollection" alt="" coords="263,448,515,476"/>
+<area shape="rect" id="node18" href="$d1/d3f/classG4DigiManager.html#a23609d8435bb1464c2c033d48b92d773" title="G4DigiManager::GetHitsCollection" alt="" coords="263,525,515,553"/>
+<area shape="rect" id="node23" href="$dc/d72/classWLSSteppingAction.html#ad546e4d04c1aa9a5bfdd0714986d6bf7" title="WLSSteppingAction::\lSaveRandomStatus" alt="" coords="308,577,469,621"/>
+<area shape="rect" id="node24" href="$d1/d3f/classG4DigiManager.html#ae5869d50706b2bb23bfdeba04de9d3a2" title="G4DigiManager::SetDigiCollection" alt="" coords="263,687,514,715"/>
+<area shape="rect" id="node3" href="$d5/dd8/classPar02EventAction.html#a30894ebc4e2a3d475af4894d8d85df42" title="Par02EventAction::BeginOf\lEventAction" alt="" coords="571,5,777,49"/>
+<area shape="rect" id="node5" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="577,73,771,101"/>
+<area shape="rect" id="node7" href="$d0/d48/classRE01StackingAction.html#ae426df4824903f6896c744c259254082" title="RE01StackingAction\l::NewStage" alt="" coords="596,125,752,169"/>
+<area shape="rect" id="node9" href="$d0/d0f/classRE05StackingAction.html#a31549c7420df8cba14584c217fb0e5ab" title="RE05StackingAction\l::InsideRoI" alt="" coords="596,193,752,237"/>
+<area shape="rect" id="node11" href="$d0/d0f/classRE05StackingAction.html#a225e6d9700d3e87651e3d2ec70c6b25a" title="RE05StackingAction\l::NewStage" alt="" coords="596,261,752,305"/>
+<area shape="rect" id="node10" href="$d0/d0f/classRE05StackingAction.html#aae702388fc21f61141de9f4f94e0e96b" title="RE05StackingAction\l::ClassifyNewTrack" alt="" coords="874,193,1030,237"/>
+<area shape="rect" id="node13" href="$dc/d4d/classExN04StackingAction.html#af3bb25f8ce954a7a19fe9fb2c64d5173" title="ExN04StackingAction\l::InsideRoI" alt="" coords="591,329,757,373"/>
+<area shape="rect" id="node15" href="$dc/d4d/classExN04StackingAction.html#abe4252a5a3a692c4c77bdea9e5657455" title="ExN04StackingAction\l::NewStage" alt="" coords="591,397,757,441"/>
+<area shape="rect" id="node14" href="$dc/d4d/classExN04StackingAction.html#a513ac105015dee647b1e869bcc14c3d3" title="ExN04StackingAction\l::ClassifyNewTrack" alt="" coords="869,329,1035,373"/>
+<area shape="rect" id="node17" href="$d1/d5b/classGammaRayTelEventAction.html#a20d9479bb169f60267d94ecdfd914ba4" title="GammaRayTelEventAction\l::EndOfEventAction" alt="" coords="853,501,1051,545"/>
+<area shape="rect" id="node19" href="$da/d69/classGammaRayTelDigitizer.html#a209a5f9cb3c419dc38151bc3ca816bcb" title="GammaRayTelDigitizer\l::Digitize" alt="" coords="586,517,762,561"/>
+<area shape="rect" id="node20" href="$d7/d12/classCexmcTrackPointsDigitizer.html#a339c49bdac61b41101df22cc7757d013" title="CexmcTrackPointsDigitizer\l::Digitize" alt="" coords="574,585,774,629"/>
+<area shape="rect" id="node22" href="$db/d54/classCexmcEnergyDepositDigitizer.html#a184b41c00550599a69cc88c339dac17d" title="CexmcEnergyDepositDigitizer\l::Digitize" alt="" coords="563,653,785,697"/>
+<area shape="rect" id="node21" href="$da/d21/classCexmcEventAction.html#a4ed4a9dc909f2ea54089d0a633ebf1f2" title="CexmcEventAction::EndOfEvent\lAction" alt="" coords="833,603,1071,647"/>
+<area shape="rect" id="node25" href="$db/d5c/classG4VDigitizerModule.html#af91963d5c36274936fa549e51076db3e" title="G4VDigitizerModule\l::StoreDigiCollection" alt="" coords="595,721,753,765"/>
+</map>

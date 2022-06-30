@@ -1,0 +1,30 @@
+<map id="G4StatMFMicroPartition::CalcPartitionTemperature" name="G4StatMFMicroPartition::CalcPartitionTemperature">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="287,143,398,171"/>
+<area shape="rect" id="node4" href="$d6/dc9/classG4StatMFMicroPartition.html#ae7873b73861ab2fbfee268cbfcfc65d7" title="G4StatMFMicroPartition\l::GetPartitionEnergy" alt="" coords="253,332,432,376"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="481,5,657,33"/>
+<area shape="rect" id="node5" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="491,57,648,85"/>
+<area shape="rect" id="node6" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="519,109,620,137"/>
+<area shape="rect" id="node20" href="$d1/d3f/classG4StatMFParameters.html#aa99582e56240092a2a7ccc9744c768a8" title="G4StatMFParameters\l::GetKappaCoulomb" alt="" coords="487,161,651,205"/>
+<area shape="rect" id="node21" href="$d6/dc9/classG4StatMFMicroPartition.html#a9458802ef1b0d85f8682c41444032427" title="G4StatMFMicroPartition\l::InvLevelDensity" alt="" coords="480,229,659,273"/>
+<area shape="rect" id="node23" href="$d1/d3f/classG4StatMFParameters.html#a373fd550babb33af16c4c782254845d8" title="G4StatMFParameters\l::GetE0" alt="" coords="487,297,651,341"/>
+<area shape="rect" id="node24" href="$d1/d3f/classG4StatMFParameters.html#a3d986c47201fea920fce8c551f0f3947" title="G4StatMFParameters\l::GetGamma0" alt="" coords="487,365,651,409"/>
+<area shape="rect" id="node25" href="$d1/d3f/classG4StatMFParameters.html#a5703e447ab1f51511d5717f21c76b8a7" title="G4StatMFParameters\l::Beta" alt="" coords="487,433,651,477"/>
+<area shape="rect" id="node26" href="$d1/d3f/classG4StatMFParameters.html#a0d93ff0a37d640ee19dddf3bcc4f397b" title="G4StatMFParameters\l::DBetaDT" alt="" coords="487,501,651,545"/>
+<area shape="rect" id="node27" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="519,569,620,597"/>
+<area shape="rect" id="node28" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="738,595,839,623"/>
+<area shape="rect" id="node29" href="$d1/d3f/classG4StatMFParameters.html#a98c50d62940a2ea36539d55103276ff5" title="G4StatMFParameters\l::Getr0" alt="" coords="487,673,651,717"/>
+<area shape="rect" id="node7" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="769,57,808,85"/>
+<area shape="rect" id="node8" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="722,109,855,137"/>
+<area shape="rect" id="node19" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="724,161,853,189"/>
+<area shape="rect" id="node9" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="919,71,985,99"/>
+<area shape="rect" id="node13" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="920,148,984,176"/>
+<area shape="rect" id="node10" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1071,19,1236,47"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1059,71,1248,99"/>
+<area shape="rect" id="node11" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1321,19,1509,47"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1057,123,1249,151"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1057,175,1249,203"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1033,227,1273,255"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1321,200,1509,228"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1321,252,1509,280"/>
+<area shape="rect" id="node22" href="$d1/d3f/classG4StatMFParameters.html#af001d6af28f3a73f5578e9de256f0d13" title="G4StatMFParameters\l::GetEpsilon0" alt="" coords="707,229,871,273"/>
+</map>

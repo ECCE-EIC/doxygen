@@ -1,0 +1,36 @@
+<map id="G4Transportation::PostStepDoIt" name="G4Transportation::PostStepDoIt">
+<area shape="rect" id="node2" href="$d9/d53/classG4Navigator.html#acaaa6f01523ba8130bb842001c92531a" title="G4Navigator::EnteredDaughter\lVolume" alt="" coords="305,5,537,49"/>
+<area shape="rect" id="node3" href="$d9/d53/classG4Navigator.html#a605b4580ef09607796534f6c45a38946" title="G4Navigator::ExitedMother\lVolume" alt="" coords="318,73,523,117"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="625,743,789,787"/>
+<area shape="rect" id="node5" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="335,193,507,237"/>
+<area shape="rect" id="node6" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="308,261,533,289"/>
+<area shape="rect" id="node7" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="327,313,514,357"/>
+<area shape="rect" id="node8" href="$da/dc4/classG4LogicalVolume.html#a6e98cd941fcb9a71d14907b24ecbd1ea" title="G4LogicalVolume::GetMaterial\lCutsCouple" alt="" coords="308,381,533,425"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="298,449,543,477"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="340,501,501,529"/>
+<area shape="rect" id="node11" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="335,553,507,597"/>
+<area shape="rect" id="node12" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="325,621,516,665"/>
+<area shape="rect" id="node13" href="$da/dc4/classG4LogicalVolume.html#a24691c613a88b2c32acb13d4d14144dc" title="G4LogicalVolume::GetSensitive\lDetector" alt="" coords="304,689,537,733"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a68db2c7e6c7c9ee4c6aeb419fe02174c" title="G4Track::GetTouchableHandle" alt="" coords="308,757,533,785"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="327,809,514,837"/>
+<area shape="rect" id="node16" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="320,141,521,169"/>
+<area shape="rect" id="node18" href="$dd/d94/classG4PropagatorInField.html#a35475f564d1f9d2a797a278604d90d5b" title="G4PropagatorInField\l::IsLastStepInVolume" alt="" coords="339,913,502,957"/>
+<area shape="rect" id="node19" href="$d9/d53/classG4Navigator.html#a4d2ebc77384adac011d6124f33249d1c" title="G4Navigator::LocateGlobal\lPointWithinVolume" alt="" coords="319,981,522,1025"/>
+<area shape="rect" id="node28" href="$d6/d6c/classG4VParticleChange.html#adae3811e8c855e57b49b7acf531f35ed" title="G4VParticleChange::\lProposeFirstStepInVolume" alt="" coords="323,1049,519,1093"/>
+<area shape="rect" id="node29" href="$d6/d6c/classG4VParticleChange.html#a5dd2a59a7c73626333d6f3697475e20a" title="G4VParticleChange::\lProposeLastStepInVolume" alt="" coords="323,1117,519,1161"/>
+<area shape="rect" id="node30" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="341,1185,501,1229"/>
+<area shape="rect" id="node31" href="$d9/d53/classG4Navigator.html#a18dab9435b7fe066f1d1087a8129cd59" title="G4Navigator::SetGeometrically\lLimitedStep" alt="" coords="305,1253,537,1297"/>
+<area shape="rect" id="node32" href="$d6/d31/classG4ParticleChangeForTransport.html#a681f3c2e2b1cbb8a345aa3f718ffcfad" title="G4ParticleChangeForTransport\l::SetMaterialCutsCoupleInTouchable" alt="" coords="288,1321,553,1365"/>
+<area shape="rect" id="node33" href="$d6/d31/classG4ParticleChangeForTransport.html#a2dce519a843be83dae31896717bdbf63" title="G4ParticleChangeForTransport\l::SetMaterialInTouchable" alt="" coords="307,1389,534,1433"/>
+<area shape="rect" id="node34" href="$d6/d31/classG4ParticleChangeForTransport.html#a9e36801fe717667d2fc542894bc20a7e" title="G4ParticleChangeForTransport\l::SetSensitiveDetectorInTouchable" alt="" coords="294,1457,547,1501"/>
+<area shape="rect" id="node35" href="$d6/d31/classG4ParticleChangeForTransport.html#a36ed861185e261d06e68911375658414" title="G4ParticleChangeForTransport\l::SetTouchableHandle" alt="" coords="307,1525,534,1569"/>
+<area shape="rect" id="node17" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="653,141,760,169"/>
+<area shape="rect" id="node20" href="$d9/d53/classG4Navigator.html#abecdc4492ec4c31a4c19eb7bd2e29d6a" title="G4Navigator::Characterise\lDaughters" alt="" coords="607,947,807,991"/>
+<area shape="rect" id="node21" href="$d9/d53/classG4Navigator.html#a0f8194f31956bdcbeabc18648ec4bd16" title="G4Navigator::ComputeLocal\lPoint" alt="" coords="601,1015,812,1059"/>
+<area shape="rect" id="node22" href="$d9/d53/classG4Navigator.html#a6519e3d63d8a014b1e70f8bfa7d62fe8" title="G4Navigator::GetDaughters\lRegularStructureId" alt="" coords="602,1083,811,1127"/>
+<area shape="rect" id="node23" href="$d4/d3b/classG4NavigationHistory.html#af7880d2c61e4fcb69267cddca74573d0" title="G4NavigationHistory\l::GetTopVolume" alt="" coords="626,1151,787,1195"/>
+<area shape="rect" id="node24" href="$da/dc4/classG4LogicalVolume.html#af30f36410cdabc34abca4fd166e246e0" title="G4LogicalVolume::GetVoxel\lHeader" alt="" coords="603,1219,810,1263"/>
+<area shape="rect" id="node25" href="$dd/dff/classG4ParameterisedNavigation.html#a4b9b4fb8bb549dcd69f94e6f8cef0d2f" title="G4ParameterisedNavigation\l::ParamVoxelLocate" alt="" coords="601,1287,812,1331"/>
+<area shape="rect" id="node26" href="$d4/d78/classG4VExternalNavigation.html#a0f1c2dd1b4438be0502a4108f397324e" title="G4VExternalNavigation\l::RelocateWithinVolume" alt="" coords="615,811,798,855"/>
+<area shape="rect" id="node27" href="$d6/da7/classG4VoxelNavigation.html#a0cdc3bc756a24a8df0ff6ae8bf9f39cc" title="G4VoxelNavigation::\lVoxelLocate" alt="" coords="628,879,785,923"/>
+</map>

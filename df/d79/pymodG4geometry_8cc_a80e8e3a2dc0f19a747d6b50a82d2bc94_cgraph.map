@@ -1,0 +1,25 @@
+<map id="export_G4FieldManager" name="export_G4FieldManager">
+<area shape="rect" id="node2" href="$dc/d5a/classG4FieldManager.html#a8f9aad144d24f46a92165102896f8fab" title="G4FieldManager::Configure\lForTrack" alt="" coords="251,5,456,49"/>
+<area shape="rect" id="node3" href="$dc/d5a/classG4FieldManager.html#a351a7830e37f5ca15955287371b39d69" title="G4FieldManager::CreateChord\lFinder" alt="" coords="241,73,465,117"/>
+<area shape="rect" id="node4" href="$dc/d5a/classG4FieldManager.html#a216fd10ed462c50542a12f8602881a88" title="G4FieldManager::DoesField\lChangeEnergy" alt="" coords="251,141,455,185"/>
+<area shape="rect" id="node5" href="$dc/d5a/classG4FieldManager.html#a3038479c6746e4017d44920ca920198f" title="G4FieldManager::DoesField\lExist" alt="" coords="251,209,455,253"/>
+<area shape="rect" id="node6" href="$dc/d5a/classG4FieldManager.html#a18ca66356ae019db8ea72a7519020940" title="G4FieldManager::GetDelta\lIntersection" alt="" coords="254,277,453,321"/>
+<area shape="rect" id="node7" href="$dc/d5a/classG4FieldManager.html#a3b2e0e6091b91b874241d6a9d00300cb" title="G4FieldManager::GetDelta\lOneStep" alt="" coords="254,345,453,389"/>
+<area shape="rect" id="node8" href="$dc/d5a/classG4FieldManager.html#a71d03f0660d835e8f7d7f99246fa5ddd" title="G4FieldManager::GetDetector\lField" alt="" coords="242,413,465,457"/>
+<area shape="rect" id="node9" href="$dc/d5a/classG4FieldManager.html#a2835d993d85148af51c6e0e6345fd7c8" title="G4FieldManager::GetMaximum\lEpsilonStep" alt="" coords="238,481,469,525"/>
+<area shape="rect" id="node10" href="$dc/d5a/classG4FieldManager.html#abeec40de1946173c6d73c965522b5ab6" title="G4FieldManager::GetMinimum\lEpsilonStep" alt="" coords="240,549,467,593"/>
+<area shape="rect" id="node11" href="$dc/d5a/classG4FieldManager.html#a13655bbbe6fb6c3695ab35e9cf89f17d" title="G4FieldManager::SetAccuracies\lWithDeltaOneStep" alt="" coords="236,617,471,661"/>
+<area shape="rect" id="node12" href="$dc/d5a/classG4FieldManager.html#a7a32f93dd4eebfb185527d0896a0e2a3" title="G4FieldManager::SetChord\lFinder" alt="" coords="253,685,454,729"/>
+<area shape="rect" id="node13" href="$dc/d5a/classG4FieldManager.html#ae99a0019b01b013237feb7a8212bf6c5" title="G4FieldManager::SetDelta\lIntersection" alt="" coords="255,753,452,797"/>
+<area shape="rect" id="node14" href="$dc/d5a/classG4FieldManager.html#a67a7609697c8bfb1013196e232b10e92" title="G4FieldManager::SetDelta\lOneStep" alt="" coords="255,821,452,865"/>
+<area shape="rect" id="node15" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="243,889,464,933"/>
+<area shape="rect" id="node22" href="$dc/d5a/classG4FieldManager.html#a4ca162fd50dc3312d2dfea494a5b7f14" title="G4FieldManager::SetField\lChangesEnergy" alt="" coords="257,957,450,1001"/>
+<area shape="rect" id="node23" href="$dc/d5a/classG4FieldManager.html#af78add710b42f0fca565b2fbff7b2b7b" title="G4FieldManager::SetMaximum\lEpsilonStep" alt="" coords="239,1025,467,1069"/>
+<area shape="rect" id="node24" href="$dc/d5a/classG4FieldManager.html#aae17b205b2a84d298d83fede0bb48831" title="G4FieldManager::SetMinimum\lEpsilonStep" alt="" coords="241,1093,465,1137"/>
+<area shape="rect" id="node16" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="535,753,731,797"/>
+<area shape="rect" id="node18" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="519,821,747,865"/>
+<area shape="rect" id="node19" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="545,889,720,933"/>
+<area shape="rect" id="node20" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="552,957,713,1001"/>
+<area shape="rect" id="node21" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="579,1025,686,1053"/>
+<area shape="rect" id="node17" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="795,753,992,797"/>
+</map>

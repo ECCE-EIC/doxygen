@@ -1,0 +1,30 @@
+<map id="G4PhotoElectricAngularGeneratorPolarized::SampleDirection" name="G4PhotoElectricAngularGeneratorPolarized::SampleDirection">
+<area shape="rect" id="node2" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="355,5,537,49"/>
+<area shape="rect" id="node3" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="367,73,525,117"/>
+<area shape="rect" id="node4" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#a7f687ff4a06a2d9eae78551e93bad842" title="G4PhotoElectricAngularGenerator\lPolarized::PhotoElectronComputeFinal\lDirection" alt="" coords="307,141,585,201"/>
+<area shape="rect" id="node5" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#a2145dadb2b25a1c3b5a90f159b0691aa" title="G4PhotoElectricAngularGenerator\lPolarized::PhotoElectronGeneratePhi\lAndTheta" alt="" coords="312,225,580,285"/>
+<area shape="rect" id="node7" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1052,280,1108,308"/>
+<area shape="rect" id="node14" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#ad64c1ce039080d55a7ff52eae55257ff" title="G4PhotoElectricAngularGenerator\lPolarized::PhotoElectronGetMajorant\lSurfaceAandCParameters" alt="" coords="311,383,581,443"/>
+<area shape="rect" id="node15" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#a869a99c31017a8504c04ee9c539b06d6" title="G4PhotoElectricAngularGenerator\lPolarized::PhotoElectronRotationMatrix" alt="" coords="304,671,588,715"/>
+<area shape="rect" id="node6" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#a0216e42f77d8060a7b0ab29710999a6c" title="G4PhotoElectricAngularGenerator\lPolarized::CrossSectionMajorantFunction" alt="" coords="636,212,932,256"/>
+<area shape="rect" id="node8" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#a18e1714f6fcf645510923d574e89dee9" title="G4PhotoElectricAngularGenerator\lPolarized::DSigmaKshellGavrila1959" alt="" coords="650,24,918,68"/>
+<area shape="rect" id="node9" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#a8da9ed77a71c29ba754bcf57dc90f7ae" title="G4PhotoElectricAngularGenerator\lPolarized::DSigmaL1shellGavrila" alt="" coords="659,92,909,136"/>
+<area shape="rect" id="node10" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="751,160,817,188"/>
+<area shape="rect" id="node11" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="997,135,1163,163"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="985,187,1175,215"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1228,135,1416,163"/>
+<area shape="rect" id="node16" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="1000,865,1160,909"/>
+<area shape="rect" id="node17" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3b24b40b735f0f3fd9ff2bf60c3046d4" title="CLHEP::Hep3Vector::dot" alt="" coords="988,939,1172,967"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aef66f5b3faa7c4ffbc43ccf5b68d38d7" title="CLHEP::Hep3Vector::\lhowOrthogonal" alt="" coords="704,931,864,975"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="985,1020,1175,1048"/>
+<area shape="rect" id="node20" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a8c41ad20b997cfe9862af8d1a453f141" title="CLHEP::Hep3Vector::\lisOrthogonal" alt="" coords="704,863,864,907"/>
+<area shape="rect" id="node22" href="$d1/d41/classG4PhotoElectricAngularGeneratorPolarized.html#aa420a7de53581676631d85bcdf8262cf" title="G4PhotoElectricAngularGenerator\lPolarized::PerpendicularVector" alt="" coords="659,641,909,685"/>
+<area shape="rect" id="node23" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="995,677,1165,705"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="995,759,1165,787"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="996,623,1164,651"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="689,433,879,461"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="689,485,879,513"/>
+<area shape="rect" id="node28" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="689,537,879,565"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="690,589,878,617"/>
+<area shape="rect" id="node21" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="980,813,1180,841"/>
+</map>

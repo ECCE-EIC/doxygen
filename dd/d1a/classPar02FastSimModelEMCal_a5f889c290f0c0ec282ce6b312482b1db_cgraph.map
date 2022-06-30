@@ -1,0 +1,32 @@
+<map id="Par02FastSimModelEMCal::DoIt" name="Par02FastSimModelEMCal::DoIt">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="333,9,443,37"/>
+<area shape="rect" id="node4" href="$db/daa/classPar02Output.html#a5176b4842ed61178c4c1284b53635dbf" title="Par02Output::FillHistogram" alt="" coords="286,65,490,93"/>
+<area shape="rect" id="node7" href="$dc/d0c/classPar02EventInformation.html#a3b411ae8ae472c6d093f4ae36c55c87e" title="Gets the flag indicating if smearing should be done." alt="" coords="300,117,476,161"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="279,185,497,213"/>
+<area shape="rect" id="node9" href="$dc/dad/classPar02DetectorParametrisation.html#a952a853e52edab3621cb7bba5763c422" title="Par02DetectorParametrisation\l::GetEfficiency" alt="" coords="276,237,500,281"/>
+<area shape="rect" id="node10" href="$da/d44/classG4EventManager.html#aacf5223cc2c7b5a1b1fc699eed9b0ff2" title="G4EventManager::GetEvent\lManager" alt="" coords="283,305,493,349"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="287,373,489,401"/>
+<area shape="rect" id="node12" href="$d1/d33/classG4Track.html#aa83f323d30aa6b3e8ae80745dba7ecf1" title="G4Track::GetMomentum" alt="" coords="295,425,481,453"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="305,477,471,505"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="307,529,469,557"/>
+<area shape="rect" id="node15" href="$d7/d5c/classG4DynamicParticle.html#a55eac6591db47f75cb3b5c94c16e3b54" title="G4DynamicParticle::\lGetPrimaryParticle" alt="" coords="309,581,467,625"/>
+<area shape="rect" id="node16" href="$d6/d25/classG4FastTrack.html#a29eb6e1d44c1aa78f9eac15f89373d7e" title="G4FastTrack::GetPrimaryTrack" alt="" coords="276,649,500,677"/>
+<area shape="rect" id="node17" href="$dc/dad/classPar02DetectorParametrisation.html#afcf3962fad3252e2c624c7bc00216ff3" title="Par02DetectorParametrisation\l::GetResolution" alt="" coords="276,701,500,745"/>
+<area shape="rect" id="node18" href="$da/d44/classG4EventManager.html#ae70b46cd74da80edad47d6da7274a5ce" title="G4EventManager::GetUserInformation" alt="" coords="248,769,528,797"/>
+<area shape="rect" id="node21" href="$db/daa/classPar02Output.html#affa0a658be4f4df30f4c630f89140de0" title="Par02Output::Instance" alt="" coords="302,821,474,849"/>
+<area shape="rect" id="node23" href="$d5/dbf/classPar02Smearer.html#a0e406a42a765ad08bcdd16d257e6e203" title="Par02Smearer::Instance" alt="" coords="297,873,479,901"/>
+<area shape="rect" id="node26" href="$d4/df5/classG4FastStep.html#a25d995371a9e5778e743185afe715432" title="G4FastStep::KillPrimaryTrack" alt="" coords="280,925,496,953"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="293,977,483,1005"/>
+<area shape="rect" id="node30" href="$d4/df5/classG4FastStep.html#af6bfa3d47970c4c61ff6e35e068ebc8e" title="G4FastStep::ProposePrimary\lTrackPathLength" alt="" coords="282,1029,494,1073"/>
+<area shape="rect" id="node31" href="$d4/df5/classG4FastStep.html#a8a0f56d099854404be5a829642b96503" title="G4FastStep::ProposeTotal\lEnergyDeposited" alt="" coords="292,1097,484,1141"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="599,5,775,33"/>
+<area shape="rect" id="node5" href="$d9/dc0/classG4ToolsAnalysisManager.html#a629081b912115346cca665f41e274c74" title="G4ToolsAnalysisManager\l::Instance" alt="" coords="592,57,783,101"/>
+<area shape="rect" id="node6" href="$d8/d9b/classG4VAnalysisManager.html#a978368567c1dca5d45598cca6e580bff" title="G4VAnalysisManager\l::FillH1" alt="" coords="605,125,770,169"/>
+<area shape="rect" id="node19" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="578,701,797,745"/>
+<area shape="rect" id="node20" href="$d5/de2/classG4Event.html#ae42473937a20e5b625c9b36847893dc7" title="G4Event::GetUserInformation" alt="" coords="577,769,797,797"/>
+<area shape="rect" id="node22" href="$db/daa/classPar02Output.html#aeceb4da82a4481a8bd8e97b1372dfebd" title="A default, protected constructor (due to singleton pattern)." alt="" coords="587,821,788,849"/>
+<area shape="rect" id="node24" href="$d5/dbf/classPar02Smearer.html#a99276a2d20b45574e7a815b94468c3f4" title="A default constructor." alt="" coords="576,873,799,901"/>
+<area shape="rect" id="node25" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="847,865,1001,909"/>
+<area shape="rect" id="node27" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="607,925,767,969"/>
+<area shape="rect" id="node28" href="$d4/df5/classG4FastStep.html#aba093a789de1032ee4efad156cb9e782" title="G4FastStep::SetPrimaryTrack\lFinalKineticEnergy" alt="" coords="579,993,796,1037"/>
+</map>

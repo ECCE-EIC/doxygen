@@ -1,0 +1,29 @@
+<map id="G4ParticleChangeForLoss::SetProposedKineticEnergy" name="G4ParticleChangeForLoss::SetProposedKineticEnergy">
+<area shape="rect" id="node2" href="$d8/d35/classG4NuclearStopping.html#ac6edf51d2d73428309ceeb4b2752927a" title="G4NuclearStopping::\lAlongStepDoIt" alt="" coords="328,5,489,49"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="320,73,497,117"/>
+<area shape="rect" id="node4" href="$db/d69/classG4EmBiasingManager.html#a6ec265328f35360d08719a7201cf06f6" title="G4EmBiasingManager\l::ApplySecondaryBiasing" alt="" coords="314,141,503,185"/>
+<area shape="rect" id="node5" href="$de/d59/classG4LivermoreBremsstrahlungModel.html#ab8819c45d260a95e153f9e2419cf4902" title="G4LivermoreBremsstrahlung\lModel::SampleSecondaries" alt="" coords="301,209,516,253"/>
+<area shape="rect" id="node6" href="$d9/df1/classG4PolarizedMollerBhabhaModel.html#a0fd505243c6abca26fa258418142dcfa" title="G4PolarizedMollerBhabhaModel\l::SampleSecondaries" alt="" coords="291,277,526,321"/>
+<area shape="rect" id="node7" href="$dc/d61/classG4LivermoreIonisationModel.html#a8fff0bf08635f38bb339fa8a78032aa1" title="G4LivermoreIonisationModel\l::SampleSecondaries" alt="" coords="301,345,516,389"/>
+<area shape="rect" id="node8" href="$d6/d5d/classG4LDMBremModel.html#a3407bbd18113bacf44f9cbdd5f4617f1" title="G4LDMBremModel::SampleSecondaries" alt="" coords="264,413,553,441"/>
+<area shape="rect" id="node9" href="$db/d8c/classG4SeltzerBergerModel.html#a39d9f8226310b7226379234d71061080" title="G4SeltzerBergerModel\l::SampleSecondaries" alt="" coords="323,465,495,509"/>
+<area shape="rect" id="node11" href="$d3/db7/classG4eBremsstrahlungRelModel.html#a8ca35ebb4bcdcb06a7ce7f6fb50a8caa" title="G4eBremsstrahlungRelModel\l::SampleSecondaries" alt="" coords="300,533,517,577"/>
+<area shape="rect" id="node12" href="$d7/dcf/classG4mplIonisationWithDeltaModel.html#a5bcea522d0968bbf6683930c972fdf01" title="G4mplIonisationWithDelta\lModel::SampleSecondaries" alt="" coords="306,601,511,645"/>
+<area shape="rect" id="node13" href="$de/d1a/classG4eBremParametrizedModel.html#a965b60ec6a2e60dd8dad7c111a7b8e19" title="G4eBremParametrizedModel\l::SampleSecondaries" alt="" coords="301,669,516,713"/>
+<area shape="rect" id="node14" href="$df/d05/classG4PAIPhotModel.html#a4b0fd139530dfe18365d3c4cd8e58be7" title="G4PAIPhotModel::SampleSecondaries" alt="" coords="271,737,546,765"/>
+<area shape="rect" id="node15" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a532486f879768d24e7e296b57a5fb698" title="G4PenelopeBremsstrahlung\lModel::SampleSecondaries" alt="" coords="304,789,513,833"/>
+<area shape="rect" id="node16" href="$d9/dd7/classG4PenelopeIonisationModel.html#a13dab58e0d23f51275d2b0f626accd3e" title="G4PenelopeIonisationModel\l::SampleSecondaries" alt="" coords="304,857,513,901"/>
+<area shape="rect" id="node17" href="$db/d64/classG4PAIModel.html#a978a801400d77ebb4c413dcf91b8a512" title="G4PAIModel::SampleSecondaries" alt="" coords="287,925,531,953"/>
+<area shape="rect" id="node18" href="$da/de8/classG4MuPairProductionModel.html#a73185640790969cf8a1767165293a174" title="G4MuPairProductionModel\l::SampleSecondaries" alt="" coords="310,977,507,1021"/>
+<area shape="rect" id="node19" href="$d5/dda/classG4MollerBhabhaModel.html#a5f443bc807613b760648e8be7ff7b713" title="G4MollerBhabhaModel\l::SampleSecondaries" alt="" coords="322,1045,495,1089"/>
+<area shape="rect" id="node20" href="$d4/dc6/classG4MuBremsstrahlungModel.html#a864ed8ef2bc06a50741c5631e5dc2006" title="G4MuBremsstrahlungModel\l::SampleSecondaries" alt="" coords="305,1113,513,1157"/>
+<area shape="rect" id="node21" href="$d7/d82/classG4ICRU73QOModel.html#aaf0dbba2de1e2457a76f832857128980" title="G4ICRU73QOModel::SampleSecondaries" alt="" coords="261,1181,556,1209"/>
+<area shape="rect" id="node22" href="$da/d5b/classG4MuBetheBlochModel.html#a10372b07176bad7baec99244515c76ca" title="G4MuBetheBlochModel\l::SampleSecondaries" alt="" coords="319,1233,498,1277"/>
+<area shape="rect" id="node23" href="$d4/d77/classG4BraggModel.html#a5a97ad4eb9be29e3372d305a1c8f58b6" title="G4BraggModel::SampleSecondaries" alt="" coords="277,1301,541,1329"/>
+<area shape="rect" id="node24" href="$d1/d4d/classG4BraggIonModel.html#a2e19b265d429da12dbd8e93124cb3414" title="G4BraggIonModel::SampleSecondaries" alt="" coords="266,1353,551,1381"/>
+<area shape="rect" id="node25" href="$d0/dd3/classG4AtimaEnergyLossModel.html#a4db6782ed0864ec2b3c2aa7a0a9eb0e3" title="G4AtimaEnergyLossModel\l::SampleSecondaries" alt="" coords="310,1405,507,1449"/>
+<area shape="rect" id="node26" href="$d6/d8c/classG4LindhardSorensenIonModel.html#afa685114f9a9a75dc7b4ff845aa80568" title="G4LindhardSorensenIonModel\l::SampleSecondaries" alt="" coords="297,1473,521,1517"/>
+<area shape="rect" id="node27" href="$d7/df6/classG4BetheBlochModel.html#a64aaf4fdc73f31afa1fe217083dc5734" title="G4BetheBlochModel::\lSampleSecondaries" alt="" coords="325,1541,492,1585"/>
+<area shape="rect" id="node28" href="$de/d12/classG4IonParametrisedLossModel.html#af4dcf99d7a413d0df5f9cc59c0420672" title="G4IonParametrisedLossModel\l::SampleSecondaries" alt="" coords="299,1609,519,1653"/>
+<area shape="rect" id="node10" href="$d8/dd5/classG4ePolarizedBremsstrahlungModel.html#a2f05e3979ca7631cf70efeb4dd6f7a5d" title="G4ePolarizedBremsstrahlung\lModel::SampleSecondaries" alt="" coords="604,465,821,509"/>
+</map>

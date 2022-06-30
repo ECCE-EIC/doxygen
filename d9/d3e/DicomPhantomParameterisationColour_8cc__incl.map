@@ -1,0 +1,38 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/DICOM/src/DicomPhantomParameterisationColour.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/DICOM/src/DicomPhantomParameterisationColour.cc">
+<area shape="rect" id="node2" href="$dc/de2/DicomPhantomParameterisationColour_8hh.html" title="Definition of the DicomPhantomParameterisationColour class." alt="" coords="1417,145,1655,189"/>
+<area shape="rect" id="node13" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2047,541,2137,569"/>
+<area shape="rect" id="node24" href="$de/dd9/DicomHandler_8hh.html" title="Definition of the DicomHandler class." alt="" coords="43,465,181,493"/>
+<area shape="rect" id="node27" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="1207,237,1355,265"/>
+<area shape="rect" id="node33" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="833,313,949,341"/>
+<area shape="rect" id="node42" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="2484,313,2660,341"/>
+<area shape="rect" id="node47" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="2608,237,2768,265"/>
+<area shape="rect" id="node50" href="$d7/d9a/G4VVisManager_8hh.html" title="G4VVisManager.hh" alt="" coords="2097,313,2245,341"/>
+<area shape="rect" id="node4" href="$d9/d57/G4PhantomParameterisation_8hh.html" title="G4PhantomParameterisation.hh" alt="" coords="1774,237,2010,265"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2865,845,2965,873"/>
+<area shape="rect" id="node10" href="$db/d80/G4VPVParameterisation_8hh.html" title="G4VPVParameterisation.hh" alt="" coords="3168,769,3371,797"/>
+<area shape="rect" id="node11" href="$d4/d98/G4AffineTransform_8hh.html" title="G4AffineTransform.hh" alt="" coords="2269,313,2437,341"/>
+<area shape="rect" id="node9" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="2979,921,3037,949"/>
+<area shape="rect" id="node12" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="2227,465,2368,493"/>
+<area shape="rect" id="node21" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="2273,389,2433,417"/>
+<area shape="rect" id="node22" href="$d3/dd7/G4Transform3D_8hh.html" title="G4Transform3D.hh" alt="" coords="1999,389,2147,417"/>
+<area shape="rect" id="node14" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1877,769,1958,797"/>
+<area shape="rect" id="node17" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="2120,769,2221,797"/>
+<area shape="rect" id="node18" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1769,617,1879,645"/>
+<area shape="rect" id="node19" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="2107,693,2235,721"/>
+<area shape="rect" id="node20" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="2006,617,2183,645"/>
+<area shape="rect" id="node28" href="$d2/d5d/graphics__reps__defs_8hh.html" title="graphics_reps_defs.hh" alt="" coords="3003,693,3175,721"/>
+<area shape="rect" id="node29" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="1719,389,1823,417"/>
+<area shape="rect" id="node30" href="$d8/d72/G4Color_8hh.html" title="G4Color.hh" alt="" coords="1471,313,1567,341"/>
+<area shape="rect" id="node31" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="357,541,579,569"/>
+<area shape="rect" id="node34" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="357,465,600,493"/>
+<area shape="rect" id="node35" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="877,465,995,493"/>
+<area shape="rect" id="node36" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="1424,465,1643,493"/>
+<area shape="rect" id="node37" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="1431,389,1593,417"/>
+<area shape="rect" id="node38" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1819,465,1949,493"/>
+<area shape="rect" id="node39" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="483,389,626,417"/>
+<area shape="rect" id="node40" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="929,389,1087,417"/>
+<area shape="rect" id="node41" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="651,389,803,417"/>
+<area shape="rect" id="node44" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="2443,465,2552,493"/>
+<area shape="rect" id="node45" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="2576,465,2725,493"/>
+<area shape="rect" id="node48" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="2863,389,2971,417"/>
+</map>

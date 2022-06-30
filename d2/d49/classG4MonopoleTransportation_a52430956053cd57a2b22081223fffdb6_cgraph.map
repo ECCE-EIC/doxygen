@@ -1,0 +1,24 @@
+<map id="G4MonopoleTransportation::AlongStepDoIt" name="G4MonopoleTransportation::AlongStepDoIt">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="285,5,502,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="301,57,486,85"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="292,109,495,137"/>
+<area shape="rect" id="node5" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="315,161,472,205"/>
+<area shape="rect" id="node6" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="298,229,489,257"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#afb7ef91e381ab5e648d9b5c6e7ea10f0" title="G4Track::GetProperTime" alt="" coords="301,281,486,309"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a7dd5a8f9f5cb8c5312275397c639ec6f" title="G4Track::GetStepLength" alt="" coords="301,333,486,361"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#ada2129758dd945e5987b57466536b045" title="G4Track::GetTotalEnergy" alt="" coords="299,385,487,413"/>
+<area shape="rect" id="node10" href="$df/d47/classG4StepPoint.html#afbf46dfb72cef026d9df81474a89f210" title="G4StepPoint::GetVelocity" alt="" coords="298,437,489,465"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="312,489,475,517"/>
+<area shape="rect" id="node12" href="$dd/d94/classG4PropagatorInField.html#a6395c9c5c76b8fd9e8d9fbe0768431e5" title="G4PropagatorInField\l::GimmeTrajectoryVectorAnd\lForgetIt" alt="" coords="286,541,501,601"/>
+<area shape="rect" id="node14" href="$d6/d31/classG4ParticleChangeForTransport.html#a89748b7e447d5358e42636a4339d4418" title="G4ParticleChangeForTransport\l::Initialize" alt="" coords="280,625,507,669"/>
+<area shape="rect" id="node15" href="$d2/d06/classG4ParticleChange.html#a992921ff016c9aa43036fff57dba5ee9" title="G4ParticleChange::Propose\lEnergy" alt="" coords="291,693,495,737"/>
+<area shape="rect" id="node16" href="$d2/d06/classG4ParticleChange.html#aae541befaabe0e63f6018da200df4eef" title="G4ParticleChange::Propose\lGlobalTime" alt="" coords="291,761,495,805"/>
+<area shape="rect" id="node17" href="$d2/d06/classG4ParticleChange.html#aa388946fcae03222d8787c306f6f7e33" title="G4ParticleChange::Propose\lMomentumDirection" alt="" coords="291,829,495,873"/>
+<area shape="rect" id="node18" href="$d2/d06/classG4ParticleChange.html#a1aa102c5c8333dd6508fd651c95a67c2" title="G4ParticleChange::Propose\lPolarization" alt="" coords="291,897,495,941"/>
+<area shape="rect" id="node19" href="$d2/d06/classG4ParticleChange.html#a47ad2db5e53268c05b69612584beaeb4" title="G4ParticleChange::Propose\lPosition" alt="" coords="291,965,495,1009"/>
+<area shape="rect" id="node20" href="$d2/d06/classG4ParticleChange.html#a7dac4d11831cb9afe6a141de535c1bca" title="G4ParticleChange::Propose\lProperTime" alt="" coords="291,1033,495,1077"/>
+<area shape="rect" id="node21" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="313,1101,473,1145"/>
+<area shape="rect" id="node22" href="$d6/d31/classG4ParticleChangeForTransport.html#acb326379844c6d8b07a7cf78ba35e0ed" title="G4ParticleChangeForTransport\l::SetMomentumChanged" alt="" coords="280,1169,507,1213"/>
+<area shape="rect" id="node23" href="$d6/d31/classG4ParticleChangeForTransport.html#a8594f0cff4d6f194046c81ec1a7c81c0" title="G4ParticleChangeForTransport\l::SetPointerToVectorOfAuxiliaryPoints" alt="" coords="257,1237,529,1281"/>
+<area shape="rect" id="node13" href="$d8/de2/classG4VCurvedTrajectoryFilter.html#a325f4ee1c9e8bd2764bbcf49b01505c3" title="G4VCurvedTrajectoryFilter\l::GimmeThePointsAndForgetThem" alt="" coords="577,549,831,593"/>
+</map>

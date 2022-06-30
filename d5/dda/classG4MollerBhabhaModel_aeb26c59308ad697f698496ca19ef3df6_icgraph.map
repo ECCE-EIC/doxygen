@@ -1,0 +1,22 @@
+<map id="G4MollerBhabhaModel::Initialise" name="G4MollerBhabhaModel::Initialise">
+<area shape="rect" id="node2" href="$dc/dd9/classG4TablesForExtrapolator.html#aece8a13213bfeaa475474d25a353e067" title="G4TablesForExtrapolator\l::ComputeElectronDEDX" alt="" coords="227,358,415,402"/>
+<area shape="rect" id="node3" href="$dc/dd9/classG4TablesForExtrapolator.html#a174966c4aab7851aec39cf223c04c49e" title="G4TablesForExtrapolator\l::Initialisation" alt="" coords="463,358,651,402"/>
+<area shape="rect" id="node4" href="$da/de2/classG4EnergyLossForExtrapolator.html#aa13b7b10633a6d8c33436d3073c5703a" title="G4EnergyLossForExtrapolator\l::BuildTables" alt="" coords="699,323,921,367"/>
+<area shape="rect" id="node21" href="$dc/dd9/classG4TablesForExtrapolator.html#a88db07b686cd332a9f712ed4a45d95c8" title="G4TablesForExtrapolator\l::G4TablesForExtrapolator" alt="" coords="711,391,909,435"/>
+<area shape="rect" id="node5" href="$da/de2/classG4EnergyLossForExtrapolator.html#a2469d740bba25f47a141a65707316dad" title="G4EnergyLossForExtrapolator\l::Initialisation" alt="" coords="969,323,1192,367"/>
+<area shape="rect" id="node6" href="$da/de2/classG4EnergyLossForExtrapolator.html#ad14ca9754b75248c0d312cdb43720dae" title="G4EnergyLossForExtrapolator\l::EnergyAfterStep" alt="" coords="2323,86,2545,130"/>
+<area shape="rect" id="node10" href="$da/de2/classG4EnergyLossForExtrapolator.html#a696617cc14056b31669918a1f7db6b41" title="G4EnergyLossForExtrapolator\l::EnergyBeforeStep" alt="" coords="2323,273,2545,317"/>
+<area shape="rect" id="node12" href="$da/de2/classG4EnergyLossForExtrapolator.html#a6fb85ecb8a42ff1180824cc76a26cb0f" title="G4EnergyLossForExtrapolator\l::SetupKinematics" alt="" coords="1240,243,1463,287"/>
+<area shape="rect" id="node18" href="$da/de2/classG4EnergyLossForExtrapolator.html#a0159186159b590367a48d4b85ec692e0" title="G4EnergyLossForExtrapolator\l::TrueStepLength" alt="" coords="2052,333,2275,377"/>
+<area shape="rect" id="node7" href="$d9/d11/classG4ErrorEnergyLoss.html#a6cd08338c876907863c78a7f830a3537" title="G4ErrorEnergyLoss::\lAlongStepDoIt" alt="" coords="2625,205,2784,249"/>
+<area shape="rect" id="node8" href="$da/de2/classG4EnergyLossForExtrapolator.html#a9225030167b6d3784adfb14d2b5515c7" title="G4EnergyLossForExtrapolator\l::EnergyAfterStep" alt="" coords="2593,69,2816,113"/>
+<area shape="rect" id="node9" href="$d9/d11/classG4ErrorEnergyLoss.html#a50c6b03ec237ac098af4855402483115" title="G4ErrorEnergyLoss::\lGetContinuousStepLimit" alt="" coords="2611,137,2798,181"/>
+<area shape="rect" id="node11" href="$da/de2/classG4EnergyLossForExtrapolator.html#a7c8d34b3555e1710916257ef649112aa" title="G4EnergyLossForExtrapolator\l::EnergyBeforeStep" alt="" coords="2593,273,2816,317"/>
+<area shape="rect" id="node13" href="$da/de2/classG4EnergyLossForExtrapolator.html#aa5117e9038b4b8035cbe8867ae22fa21" title="G4EnergyLossForExtrapolator\l::AverageScatteringAngle" alt="" coords="1511,213,1733,257"/>
+<area shape="rect" id="node16" href="$da/de2/classG4EnergyLossForExtrapolator.html#a10c4ae346f7dbd49b65c971f824c1522" title="G4EnergyLossForExtrapolator\l::EnergyDispersion" alt="" coords="2052,187,2275,231"/>
+<area shape="rect" id="node14" href="$da/de2/classG4EnergyLossForExtrapolator.html#a15587285d4f3df572c868e8c49b26a01" title="G4EnergyLossForExtrapolator\l::AverageScatteringAngle" alt="" coords="1781,145,2004,189"/>
+<area shape="rect" id="node15" href="$da/de2/classG4EnergyLossForExtrapolator.html#acd6e6295b395b59336c36ac92419c00f" title="G4EnergyLossForExtrapolator\l::ComputeTrueStep" alt="" coords="1781,213,2004,257"/>
+<area shape="rect" id="node17" href="$da/de2/classG4EnergyLossForExtrapolator.html#ae3e9f7e6d77d6e168ececda93f01b9b8" title="G4EnergyLossForExtrapolator\l::EnergyDispersion" alt="" coords="2323,187,2545,231"/>
+<area shape="rect" id="node19" href="$da/d76/classG4EnergySplitter.html#ab21723d5a691168fffee8d7dc66539b9" title="G4EnergySplitter::SplitEnergy\lInVolumes" alt="" coords="2323,341,2545,385"/>
+<area shape="rect" id="node20" href="$dd/d79/classG4ScoreSplittingProcess.html#a360c639b35f911e9708a32b88a8e4aee" title="G4ScoreSplittingProcess\l::PostStepDoIt" alt="" coords="2612,341,2797,385"/>
+</map>

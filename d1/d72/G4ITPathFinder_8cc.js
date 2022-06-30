@@ -1,0 +1,28 @@
+var G4ITPathFinder_8cc =
+[
+    [ "fCurrentPreStepSafety", "d1/d72/G4ITPathFinder_8cc.html#ab1ba4a01039a6ec17d44b4afc322d3d2", null ],
+    [ "fCurrentStepNo", "d1/d72/G4ITPathFinder_8cc.html#a86ac2bef267cb0fe8a30320a9bb8f703", null ],
+    [ "fCurrentStepSize", "d1/d72/G4ITPathFinder_8cc.html#ae0187ffe2942cd98fca4b30917d34d84", null ],
+    [ "fEndState", "d1/d72/G4ITPathFinder_8cc.html#a84c941072765e8f2498ad661e7e1a405", null ],
+    [ "fFieldExertedForce", "d1/d72/G4ITPathFinder_8cc.html#a75eed0d8d6b27baed9e228cedf91de90", null ],
+    [ "fLastLocatedPosition", "d1/d72/G4ITPathFinder_8cc.html#ab4e869c759929c888ae8d933256b827a", null ],
+    [ "fLastStepNo", "d1/d72/G4ITPathFinder_8cc.html#a82fa3835afd55b2395aaf9d780e12da2", null ],
+    [ "fLimitedStep", "d1/d72/G4ITPathFinder_8cc.html#ae21fd8e4954b8b777e4346ae3acd1744", null ],
+    [ "fLimitTruth", "d1/d72/G4ITPathFinder_8cc.html#a3cdc9e9d2e789c354b0ef7b6a9328924", null ],
+    [ "fLocatedVolume", "d1/d72/G4ITPathFinder_8cc.html#a217983a86acb6fadb468e8da800731b4", null ],
+    [ "fMinSafety_atSafLocation", "d1/d72/G4ITPathFinder_8cc.html#a7be8b15755c0233e53881cbb377285cc", null ],
+    [ "fMinSafety_PreStepPt", "d1/d72/G4ITPathFinder_8cc.html#af9e25a0149ff44656be6e2b09d3b449e", null ],
+    [ "fMinStep", "d1/d72/G4ITPathFinder_8cc.html#a0b2ed6357f0a2fc70b7039648f809698", null ],
+    [ "fNewSafetyComputed", "d1/d72/G4ITPathFinder_8cc.html#aa0ad1c7210b072aff3e6a5538c5c16ed", null ],
+    [ "fNewTrack", "d1/d72/G4ITPathFinder_8cc.html#a4295851c11855b0908dd01da303a0eae", null ],
+    [ "fNoGeometriesLimiting", "d1/d72/G4ITPathFinder_8cc.html#a03c5df5681b1f0750e50d4f630b64919", null ],
+    [ "fPreSafetyLocation", "d1/d72/G4ITPathFinder_8cc.html#a9bc3bedb652147c8fb99a55d57c81adc", null ],
+    [ "fPreSafetyMinValue", "d1/d72/G4ITPathFinder_8cc.html#a46c1a9316c08bead320148fb2e6b2ba3", null ],
+    [ "fPreSafetyValues", "d1/d72/G4ITPathFinder_8cc.html#a6cfacb3da482fb52f96839550977db57", null ],
+    [ "fPreStepCenterRenewed", "d1/d72/G4ITPathFinder_8cc.html#ade0c619d8abac871360cb400cdf0cb16", null ],
+    [ "fPreStepLocation", "d1/d72/G4ITPathFinder_8cc.html#ac3fc5bd26761b44ce223fa20e9b85bd3", null ],
+    [ "fRelocatedPoint", "d1/d72/G4ITPathFinder_8cc.html#a5d41aeb724ad3df89ff208400c1a808b", null ],
+    [ "fSafetyLocation", "d1/d72/G4ITPathFinder_8cc.html#af1eccb7b7326d8b24e7f0a6dad36b715", null ],
+    [ "fTrueMinStep", "d1/d72/G4ITPathFinder_8cc.html#a35e2f071a1a5f186b916f4385fb1c6f6", null ],
+    [ "State", "d1/d72/G4ITPathFinder_8cc.html#aff9a10c4649df069a149f680782eb074", null ]
+];

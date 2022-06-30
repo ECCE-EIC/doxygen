@@ -1,0 +1,14 @@
+<map id="F02ElectricFieldSetup::UpdateIntegrator" name="F02ElectricFieldSetup::UpdateIntegrator">
+<area shape="rect" id="node2" href="$d0/d75/classF02ElectricFieldSetup.html#a12b3a414fc83c3b31ce1f38e45a444c6" title="F02ElectricFieldSetup\l::CreateStepper" alt="" coords="247,5,414,49"/>
+<area shape="rect" id="node5" href="$d3/df3/classG4MagIntegratorStepper.html#ac1eb8c4e96ae2022205f7273ee69c1f8" title="G4MagIntegratorStepper\l::GetNumberOfVariables" alt="" coords="235,73,426,117"/>
+<area shape="rect" id="node6" href="$dc/d5a/classG4FieldManager.html#a7a32f93dd4eebfb185527d0896a0e2a3" title="G4FieldManager::SetChord\lFinder" alt="" coords="230,141,431,185"/>
+<area shape="rect" id="node7" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="220,209,441,253"/>
+<area shape="rect" id="node3" href="$d2/df5/classG4MagInt__Driver.html#a68c93eea7c8bfe4242de1d9104eaabac" title="G4MagInt_Driver::RenewStepper\lAndAdjust" alt="" coords="489,5,732,49"/>
+<area shape="rect" id="node4" href="$d2/df5/classG4MagInt__Driver.html#afe6d74b104f2556990576e7ebc717b22" title="G4MagInt_Driver::ReSetParameters" alt="" coords="780,13,1039,41"/>
+<area shape="rect" id="node8" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="513,73,709,117"/>
+<area shape="rect" id="node10" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="497,141,725,185"/>
+<area shape="rect" id="node11" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="523,209,698,253"/>
+<area shape="rect" id="node12" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="530,277,691,321"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="557,345,664,373"/>
+<area shape="rect" id="node9" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="811,73,1008,117"/>
+</map>

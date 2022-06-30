@@ -1,0 +1,45 @@
+<map id="F04GlobalField::F04GlobalField" name="F04GlobalField::F04GlobalField">
+<area shape="rect" id="node2" href="$df/de8/classF04GlobalField.html#a1998b67aa9a08c635ea3453041455c22" title="constructs all field tracking objects" alt="" coords="252,691,448,735"/>
+<area shape="rect" id="node3" href="$df/de8/classF04GlobalField.html#a81de7bd8c67f098fbfd9cca022866476" title="F04GlobalField::Clear" alt="" coords="530,7,697,35"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="801,53,1013,97"/>
+<area shape="rect" id="node11" href="$df/de8/classF04GlobalField.html#ae52e755184085331dee8ec62be08500c" title="Get the global field manager." alt="" coords="515,111,712,155"/>
+<area shape="rect" id="node13" href="$d1/dd0/classG4TransportationManager.html#aa7ba13e916a88e7f90c6ff59209b0e2d" title="G4TransportationManager\l::GetPropagatorInField" alt="" coords="514,179,713,223"/>
+<area shape="rect" id="node14" href="$dc/d5a/classG4FieldManager.html#a4ca162fd50dc3312d2dfea494a5b7f14" title="G4FieldManager::SetField\lChangesEnergy" alt="" coords="517,247,710,291"/>
+<area shape="rect" id="node15" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="503,315,724,359"/>
+<area shape="rect" id="node21" href="$df/de8/classF04GlobalField.html#ac0c019cc97d1595a4bfd3dfa099d5c8f" title="Set the Stepper." alt="" coords="510,383,717,411"/>
+<area shape="rect" id="node22" href="$df/d7d/classG4ChordFinder.html#aabd4bfcc520e4fda179ad6b9bf9f3efd" title="G4ChordFinder::SetDeltaChord" alt="" coords="499,435,727,463"/>
+<area shape="rect" id="node23" href="$dc/d5a/classG4FieldManager.html#a13655bbbe6fb6c3695ab35e9cf89f17d" title="G4FieldManager::SetAccuracies\lWithDeltaOneStep" alt="" coords="496,487,731,531"/>
+<area shape="rect" id="node24" href="$dc/d5a/classG4FieldManager.html#ae99a0019b01b013237feb7a8212bf6c5" title="G4FieldManager::SetDelta\lIntersection" alt="" coords="515,555,712,599"/>
+<area shape="rect" id="node25" href="$dd/d94/classG4PropagatorInField.html#ad2545cbfabf776900258f534f53431f2" title="G4PropagatorInField\l::SetMinimumEpsilonStep" alt="" coords="516,623,711,667"/>
+<area shape="rect" id="node26" href="$dd/d94/classG4PropagatorInField.html#a977247dfcd2bee1dff1f5abd63b34e2a" title="G4PropagatorInField\l::SetMaximumEpsilonStep" alt="" coords="514,691,713,735"/>
+<area shape="rect" id="node27" href="$dc/d5a/classG4FieldManager.html#a7a32f93dd4eebfb185527d0896a0e2a3" title="G4FieldManager::SetChord\lFinder" alt="" coords="513,759,714,803"/>
+<area shape="rect" id="node28" href="$d5/d42/classF04DetectorConstruction.html#adbf1ad06b272603d00a62483f78713dd" title="F04DetectorConstruction\l::GetCaptureMgntB1" alt="" coords="519,827,708,871"/>
+<area shape="rect" id="node29" href="$d5/d42/classF04DetectorConstruction.html#a5bf3ae012c086700c0ddeaa2ce624301" title="F04DetectorConstruction\l::GetCaptureMgntB2" alt="" coords="519,895,708,939"/>
+<area shape="rect" id="node30" href="$d5/d42/classF04DetectorConstruction.html#a0a6152c4c08b439923dbc13dadb2b0ce" title="F04DetectorConstruction\l::GetCaptureMgnt" alt="" coords="519,963,708,1007"/>
+<area shape="rect" id="node31" href="$d5/d42/classF04DetectorConstruction.html#ab986ec0bc2683e33ee5602f99d35b07b" title="F04DetectorConstruction\l::GetCaptureMgntCenter" alt="" coords="519,1031,708,1075"/>
+<area shape="rect" id="node32" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="594,1099,633,1127"/>
+<area shape="rect" id="node33" href="$d5/d42/classF04DetectorConstruction.html#acca142a573b7330baf603ff090dd2583" title="F04DetectorConstruction\l::GetTransferMgntB" alt="" coords="519,1151,708,1195"/>
+<area shape="rect" id="node34" href="$d5/d42/classF04DetectorConstruction.html#a4d4a0c1eea6bd63d1136b35e5b6100c0" title="F04DetectorConstruction\l::GetTransferMgnt" alt="" coords="519,1219,708,1263"/>
+<area shape="rect" id="node35" href="$d5/d42/classF04DetectorConstruction.html#a7370e4975163b72fce6c834cf83c3bc3" title="F04DetectorConstruction\l::GetTransferMgntCenter" alt="" coords="519,1287,708,1331"/>
+<area shape="rect" id="node36" href="$d0/d37/classF04ElementField.html#ad021cfd1499c752828ea640ac24abe41" title="SetColor(G4String) sets the color." alt="" coords="513,1355,714,1383"/>
+<area shape="rect" id="node42" href="$d0/d37/classF04ElementField.html#a4a157ca984fe827b0fe4852dfd7bc3e2" title="SetMaxStep(G4double) sets the max. step size." alt="" coords="501,1415,725,1443"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="1093,79,1300,123"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1426,241,1533,269"/>
+<area shape="rect" id="node7" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1382,109,1577,153"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1403,177,1556,205"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1394,5,1565,33"/>
+<area shape="rect" id="node10" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1365,57,1593,85"/>
+<area shape="rect" id="node12" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="807,121,1006,165"/>
+<area shape="rect" id="node16" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="809,313,1005,357"/>
+<area shape="rect" id="node18" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="793,381,1021,425"/>
+<area shape="rect" id="node19" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="819,449,994,493"/>
+<area shape="rect" id="node20" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="826,193,987,237"/>
+<area shape="rect" id="node17" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="1098,313,1295,357"/>
+<area shape="rect" id="node37" href="$d0/d37/classF04ElementField.html#a6cc6794b4b04e293304cb1d94bb0f0e7" title="GetVisAttribute() returns the appropriate G4VisAttributes." alt="" coords="784,1355,1029,1383"/>
+<area shape="rect" id="node41" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="779,1303,1035,1331"/>
+<area shape="rect" id="node38" href="$dc/df1/classG4VisAttributes.html#a8a93e48d71166a664f2817eb4038a20f" title="G4VisAttributes::GetInvisible" alt="" coords="1089,1384,1305,1412"/>
+<area shape="rect" id="node40" href="$dc/df1/classG4VisAttributes.html#adb4b1d5cf6a2e6809cec36a791434781" title="G4VisAttributes::SetDaughters\lInvisible" alt="" coords="1083,1316,1311,1360"/>
+<area shape="rect" id="node39" href="$dc/df1/classG4VisAttributes.html#a9c8337a3bcb268de3ba3ff009734c284" title="G4VisAttributes::G4VisAttributes" alt="" coords="1359,1384,1600,1412"/>
+<area shape="rect" id="node43" href="$d9/d11/classG4UserLimits.html#ab09dd3fc89c5d519afb7789ea8b80346" title="G4UserLimits::SetMaxAllowedStep" alt="" coords="779,1475,1034,1503"/>
+<area shape="rect" id="node44" href="$da/dc4/classG4LogicalVolume.html#a2cee3bf46b1bf2d36359d07929284b85" title="G4LogicalVolume::SetUser\lLimits" alt="" coords="806,1407,1007,1451"/>
+</map>

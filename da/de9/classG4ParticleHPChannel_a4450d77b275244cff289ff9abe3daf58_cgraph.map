@@ -1,0 +1,34 @@
+<map id="G4ParticleHPChannel::ApplyYourself" name="G4ParticleHPChannel::ApplyYourself">
+<area shape="rect" id="node2" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="634,389,673,417"/>
+<area shape="rect" id="node3" href="$db/d28/classG4WendtFissionFragmentGenerator.html#a3fef0e00627a3c7c68bc229ef1058d66" title="G4WendtFissionFragmentGenerator\l::ApplyYourself" alt="" coords="217,5,480,49"/>
+<area shape="rect" id="node5" href="$df/d5c/classG4ParticleHPFinalState.html#a478f1ecd8297febd6a3fc6f4185708ac" title="G4ParticleHPFinalState\l::ApplyYourself" alt="" coords="261,141,436,185"/>
+<area shape="rect" id="node6" href="$de/ddf/classG4ParticleHPManager.html#acc235813e5f7dedeeac826d9c8376f49" title="G4ParticleHPManager\l::GetInstance" alt="" coords="265,209,433,253"/>
+<area shape="rect" id="node7" href="$da/de9/classG4ParticleHPChannel.html#aa49d6af782dc043ce32609bf6967bc73" title="G4ParticleHPChannel\l::GetM" alt="" coords="267,73,431,117"/>
+<area shape="rect" id="node9" href="$da/d11/classG4HadProjectile.html#adcb639abe6e543c39965c4f9b82d1e26" title="G4HadProjectile::GetMaterial" alt="" coords="240,345,457,373"/>
+<area shape="rect" id="node10" href="$df/d5c/classG4ParticleHPFinalState.html#ae70982cf182b0f62d0490ca45ae761bb" title="G4ParticleHPFinalState\l::GetN" alt="" coords="566,459,741,503"/>
+<area shape="rect" id="node11" href="$da/de9/classG4ParticleHPChannel.html#abefa5775d972127f797155c378646b7f" title="G4ParticleHPChannel\l::GetN" alt="" coords="267,449,431,493"/>
+<area shape="rect" id="node12" href="$de/ddf/classG4ParticleHPManager.html#afb47f88239092a899047f8f2c5487f3b" title="G4ParticleHPManager\l::GetReactionWhiteBoard" alt="" coords="253,621,445,665"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#a9c66e8742ee9e8491a269df8bef35687" title="G4Material::GetTemperature" alt="" coords="242,569,455,597"/>
+<area shape="rect" id="node21" href="$d0/df8/classG4ParticleHPThermalBoost.html#a48cf0f6a970921a5564d10ce9fd0cd86" title="G4ParticleHPThermalBoost\l::GetThermalEnergy" alt="" coords="247,689,450,733"/>
+<area shape="rect" id="node24" href="$d4/ded/classG4ParticleHPIsoData.html#ae7586bb55dd3690945488e97ee082451" title="G4ParticleHPIsoData\l::GetXsec" alt="" coords="269,757,428,801"/>
+<area shape="rect" id="node27" href="$df/d5c/classG4ParticleHPFinalState.html#a7370908f6c1a2e9e48a7500b7a2cbe75" title="G4ParticleHPFinalState\l::GetZ" alt="" coords="566,869,741,913"/>
+<area shape="rect" id="node28" href="$da/de9/classG4ParticleHPChannel.html#aefc3ad7f157b3bdd269bc18907e71e3c" title="G4ParticleHPChannel\l::GetZ" alt="" coords="267,877,431,921"/>
+<area shape="rect" id="node29" href="$da/de9/classG4ParticleHPChannel.html#a22ea6b4495c57168cd54b64aa1ff78a5" title="G4ParticleHPChannel\l::HasAnyData" alt="" coords="267,945,431,989"/>
+<area shape="rect" id="node31" href="$d8/dbe/classG4ParticleHPReactionWhiteBoard.html#a4c161de4dfc63dd7e4fdb4bb2fdcada1" title="G4ParticleHPReactionWhite\lBoard::SetTargA" alt="" coords="245,277,452,321"/>
+<area shape="rect" id="node32" href="$d8/dbe/classG4ParticleHPReactionWhiteBoard.html#aeb8a00bea68f7d6a91350d92bb2dd9fc" title="G4ParticleHPReactionWhite\lBoard::SetTargM" alt="" coords="245,1013,452,1057"/>
+<area shape="rect" id="node33" href="$d8/dbe/classG4ParticleHPReactionWhiteBoard.html#ac6c9254cabcc27533154c3a8bb0b19fc" title="G4ParticleHPReactionWhite\lBoard::SetTargZ" alt="" coords="245,1081,452,1125"/>
+<area shape="rect" id="node4" href="$de/da4/classG4FissionFragmentGenerator.html#abc3e417ce2724b0144dc559be713e5b7" title="G4FissionFragmentGenerator\l::G4MakeIsotopeCode" alt="" coords="543,5,763,49"/>
+<area shape="rect" id="node8" href="$df/d5c/classG4ParticleHPFinalState.html#a94854a05997b632dc5cfd3025df603c0" title="G4ParticleHPFinalState\l::GetM" alt="" coords="566,73,741,117"/>
+<area shape="rect" id="node13" href="$d1/db9/classG4ParticleHPThreadLocalManager.html#a36e2834edeb31f7c3daa88d9996d2282" title="G4ParticleHPThreadLocalManager\l::GetInstance" alt="" coords="528,621,779,665"/>
+<area shape="rect" id="node19" href="$d1/db9/classG4ParticleHPThreadLocalManager.html#ad3fcae141d104f25e3fd8ca9d4b742a2" title="G4ParticleHPThreadLocalManager\l::GetReactionWhiteBoard" alt="" coords="528,553,779,597"/>
+<area shape="rect" id="node14" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="827,621,1013,665"/>
+<area shape="rect" id="node15" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1094,577,1210,605"/>
+<area shape="rect" id="node16" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1095,629,1209,657"/>
+<area shape="rect" id="node17" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1061,681,1243,709"/>
+<area shape="rect" id="node18" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1291,673,1477,717"/>
+<area shape="rect" id="node22" href="$de/d80/classG4Element.html#afdbaa23cf1c2da3acded8de288eab5d8" title="G4Element::GetN" alt="" coords="584,741,723,769"/>
+<area shape="rect" id="node23" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="584,689,723,717"/>
+<area shape="rect" id="node25" href="$dc/df1/classG4ParticleHPVector.html#a47ec4e6de05f7e5dbab83686e6af8cb8" title="G4ParticleHPVector\l::GetXsec" alt="" coords="577,793,729,837"/>
+<area shape="rect" id="node26" href="$d7/d30/classG4ParticleHPDataPoint.html#a98ec935410c526f7ce9e1f8bdf887cac" title="G4ParticleHPDataPoint\l::GetY" alt="" coords="833,793,1007,837"/>
+<area shape="rect" id="node30" href="$df/d5c/classG4ParticleHPFinalState.html#ace5532438a6e3a77a8e0c597ad1cda3d" title="G4ParticleHPFinalState\l::HasAnyData" alt="" coords="566,945,741,989"/>
+</map>

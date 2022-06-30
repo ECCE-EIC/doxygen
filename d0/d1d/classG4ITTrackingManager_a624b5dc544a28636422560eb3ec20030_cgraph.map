@@ -1,0 +1,21 @@
+<map id="G4ITTrackingManager::StartTracking" name="G4ITTrackingManager::StartTracking">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="841,6,1015,34"/>
+<area shape="rect" id="node3" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="264,222,429,266"/>
+<area shape="rect" id="node4" href="$d4/d3b/classG4ITTrackingInteractivity.html#ad617844b302c2e301f3ed0271a3bfbd3" title="G4ITTrackingInteractivity\l::GetSteppingVerbose" alt="" coords="252,290,441,334"/>
+<area shape="rect" id="node5" href="$d4/d3b/classG4ITTrackingInteractivity.html#aee6b1d6b52be11c4d4c25fd4e1080643" title="G4ITTrackingInteractivity\l::StartTracking" alt="" coords="252,358,441,402"/>
+<area shape="rect" id="node6" href="$d5/d2e/classG4ProcessManager.html#a1cfaeeb9244904be77938ab25a1f6f84" title="G4ProcessManager::StartTracking" alt="" coords="223,170,471,198"/>
+<area shape="rect" id="node12" href="$da/df0/classG4VITSteppingVerbose.html#adddea7e0582a68c827fd91e6d5c2460d" title="G4VITSteppingVerbose\l::TrackingStarted" alt="" coords="258,102,435,146"/>
+<area shape="rect" id="node7" href="$d5/da4/classG4ProcessVector.html#ae68aec78f92079adc46d6aefeb0b690d" title="G4ProcessVector::entries" alt="" coords="545,170,735,198"/>
+<area shape="rect" id="node8" href="$d5/d2e/classG4ProcessManager.html#a9db1b6102a20e5d6a1889d82ee11f0b0" title="G4ProcessManager::GetAttribute" alt="" coords="519,251,761,279"/>
+<area shape="rect" id="node9" href="$d5/d2e/classG4ProcessManager.html#a5e69e9cc5cddd558ab18dc9e0d6690b2" title="G4ProcessManager::GetVerbose\lLevel" alt="" coords="809,334,1047,378"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="851,214,1005,258"/>
+<area shape="rect" id="node11" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="875,282,981,310"/>
+<area shape="rect" id="node13" href="$da/df0/classG4VITSteppingVerbose.html#ae516a8076f2d9088e91f4d06e85dbeb1" title="G4VITSteppingVerbose\l::TrackBanner" alt="" coords="551,102,729,146"/>
+<area shape="rect" id="node14" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="887,110,969,138"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="849,162,1007,190"/>
+<area shape="rect" id="node20" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="845,58,1011,86"/>
+<area shape="rect" id="node15" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1095,34,1311,78"/>
+<area shape="rect" id="node16" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1097,102,1309,146"/>
+<area shape="rect" id="node17" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1097,170,1308,214"/>
+<area shape="rect" id="node18" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1359,170,1527,214"/>
+</map>

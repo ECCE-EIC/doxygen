@@ -1,0 +1,21 @@
+<map id="Acts::Test::BOOST_FIXTURE_TEST_CASE" name="Acts::Test::BOOST_FIXTURE_TEST_CASE">
+<area shape="rect" id="node2" href="$d5/dd2/classActs_1_1SurfaceArray.html#a1a2f6c61955b5d9307dd2bd84d08d167" title="Get all surfaces in bin given by position." alt="" coords="271,59,442,87"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a6cfe9213aa362d7771aa43dc33ebf4eb" title="Acts::Test::draw_surfaces" alt="" coords="260,111,453,139"/>
+<area shape="rect" id="node5" href="$db/dff/structActs_1_1SurfaceArray_1_1SurfaceGridLookup.html#ac0df6c2eaa68b88a85734bcb2cd2ace6" title="Fill provided surfaces into the contained Grid." alt="" coords="265,163,449,207"/>
+<area shape="rect" id="node19" href="$d4/dcd/namespaceG4Analysis.html#a0900b6c8eb6dfb5eb94a8ba0128ca5e1" title="G4Analysis::make_unique" alt="" coords="259,231,455,259"/>
+<area shape="rect" id="node20" href="$da/d7b/namespaceActs.html#a337992aec16b459064f9bba326128657" title="Acts::unpack_shared\l_vector" alt="" coords="276,283,437,327"/>
+<area shape="rect" id="node4" href="$d4/da9/namespaceboost.html#aec3e92def17f29e9ac5f43d94f7c9c9a" title="boost::dynamic_pointer_cast" alt="" coords="503,60,719,88"/>
+<area shape="rect" id="node6" href="$db/dff/structActs_1_1SurfaceArray_1_1SurfaceGridLookup.html#a86709eee4431a0a293d7bffd6bfd15fa" title="Performs lookup at pos and returns bin content as reference." alt="" coords="531,112,690,172"/>
+<area shape="rect" id="node8" href="$db/dff/structActs_1_1SurfaceArray_1_1SurfaceGridLookup.html#a3e73556df8fa7d4c8a8850a699d1e4ec" title="Acts::SurfaceArray\l::SurfaceGridLookup\l::populateNeighborCache" alt="" coords="514,196,707,256"/>
+<area shape="rect" id="node18" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="588,280,633,308"/>
+<area shape="rect" id="node7" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a74eedbc6a4ba2cbfc67f9eca80210917" title="access value stored in bin for a given point" alt="" coords="787,5,921,49"/>
+<area shape="rect" id="node9" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#af1740f025f852ded59760beee4f0d33d" title="access value stored in bin with given global bin number" alt="" coords="775,73,933,101"/>
+<area shape="rect" id="node10" href="$d9/de4/namespacefield__utils.html#a729e76ec3e56f739a78ca68e20dde00f" title="field_utils::copy" alt="" coords="790,125,918,153"/>
+<area shape="rect" id="node11" href="$db/dff/structActs_1_1SurfaceArray_1_1SurfaceGridLookup.html#a2c5b17e897d3868e334628e197574af5" title="Checks if global bin is valid." alt="" coords="775,229,933,289"/>
+<area shape="rect" id="node12" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a996ffb4ec1f86f88ce5c745d724ee5f9" title="determine local bin index for each axis from global bin index" alt="" coords="989,169,1179,213"/>
+<area shape="rect" id="node14" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a49d27d639b53e1a2bc774c012ef10592" title="get global bin indices for neighborhood" alt="" coords="767,313,941,357"/>
+<area shape="rect" id="node15" href="$db/dff/structActs_1_1SurfaceArray_1_1SurfaceGridLookup.html#a0c2db1e2dd35aa06a5c0eeeedf12058b" title="Performs a lookup at pos, but returns neighbors as well." alt="" coords="775,381,933,441"/>
+<area shape="rect" id="node17" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a6e7b03447acf010477ae14122c305977" title="total number of bins" alt="" coords="787,465,921,509"/>
+<area shape="rect" id="node13" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a53e780b2130802fb3140d7e1af78ec52" title="get number of bins along each specific axis" alt="" coords="1017,237,1151,281"/>
+<area shape="rect" id="node16" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a33c515979196410a4aaaf51e7bdc7714" title="determine global index for bin containing the given point" alt="" coords="995,389,1173,433"/>
+</map>

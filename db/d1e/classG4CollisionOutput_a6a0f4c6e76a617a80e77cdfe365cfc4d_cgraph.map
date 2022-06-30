@@ -1,0 +1,35 @@
+<map id="G4CollisionOutput::setOnShell" name="G4CollisionOutput::setOnShell">
+<area shape="rect" id="node2" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#af7bc7b339695350b833e78b55270db0d" title="CLHEP::HepLorentzVector::e" alt="" coords="484,236,695,264"/>
+<area shape="rect" id="node3" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="241,325,401,353"/>
+<area shape="rect" id="node18" href="$d9/da2/classG4InuclParticle.html#ab11174eda75ffc99101afc15f7e7bfb3" title="G4InuclParticle::getMomentum" alt="" coords="205,377,436,405"/>
+<area shape="rect" id="node20" href="$db/d1e/classG4CollisionOutput.html#a8d2b56047168ebceb46499b7fa2f420f" title="G4CollisionOutput::\lgetTotalOutputMomentum" alt="" coords="221,601,420,645"/>
+<area shape="rect" id="node21" href="$db/d1e/classG4CollisionOutput.html#aa882804f90923faf6b7b9be3186a80f6" title="G4CollisionOutput::\lnumberOfFragments" alt="" coords="509,507,670,551"/>
+<area shape="rect" id="node22" href="$db/d1e/classG4CollisionOutput.html#a289c7b43ca0455c875d4a632618e2261" title="G4CollisionOutput::\lnumberOfOutgoingNuclei" alt="" coords="493,588,686,632"/>
+<area shape="rect" id="node23" href="$db/d1e/classG4CollisionOutput.html#aeca5f606626835e44969bc73dff6409d" title="G4CollisionOutput::\lnumberOfOutgoingParticles" alt="" coords="485,669,694,713"/>
+<area shape="rect" id="node24" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a04b2e4d17ab720ad641de5ed16682dc3" title="CLHEP::HepLorentzVector::m" alt="" coords="213,789,428,817"/>
+<area shape="rect" id="node25" href="$db/d1e/classG4CollisionOutput.html#ad8d5fa1031ac8d0b0cff4362ffb61137" title="G4CollisionOutput::\lprintCollisionOutput" alt="" coords="242,669,399,713"/>
+<area shape="rect" id="node26" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#ac8e5a617ac991b6794d1271dac972a76" title="CLHEP::HepLorentzVector::rho" alt="" coords="209,841,433,869"/>
+<area shape="rect" id="node27" href="$db/d1e/classG4CollisionOutput.html#a715b18c33f6591d0813b65ba67d72ea6" title="G4CollisionOutput::\lselectPairToTune" alt="" coords="245,893,397,937"/>
+<area shape="rect" id="node28" href="$db/d1e/classG4CollisionOutput.html#a16f73965ed227c5fb0600e3cd139e808" title="G4CollisionOutput::\lsetRemainingExitationEnergy" alt="" coords="210,481,431,525"/>
+<area shape="rect" id="node29" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a3c774ae8eb5b5a7368be99dc2c3309ff" title="CLHEP::HepLorentzVector\l::setVectM" alt="" coords="223,961,418,1005"/>
+<area shape="rect" id="node30" href="$db/d1e/classG4CollisionOutput.html#a5e0cf017e4847a30eba36d8589a98925" title="G4CollisionOutput::\ltuneSelectedPair" alt="" coords="245,257,397,301"/>
+<area shape="rect" id="node31" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a609a46bf7d9e939b077bbf539090fdcd" title="CLHEP::HepLorentzVector\l::vect" alt="" coords="223,1029,418,1073"/>
+<area shape="rect" id="node32" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a7accb6710e359a0604df1d119897c429" title="CLHEP::HepLorentzVector::x" alt="" coords="215,1097,426,1125"/>
+<area shape="rect" id="node33" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a566eaa8184d633b794c069a992054435" title="CLHEP::HepLorentzVector::y" alt="" coords="215,1149,426,1177"/>
+<area shape="rect" id="node34" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a1df65728ae62f00bf0a9b6991ae4f042" title="CLHEP::HepLorentzVector::z" alt="" coords="216,1201,425,1229"/>
+<area shape="rect" id="node4" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="504,321,675,349"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="745,185,953,229"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="743,296,955,324"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1043,400,1207,444"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="749,400,948,444"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1024,143,1225,187"/>
+<area shape="rect" id="node7" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1321,125,1497,169"/>
+<area shape="rect" id="node8" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1321,193,1497,237"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1317,261,1500,289"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1331,5,1486,49"/>
+<area shape="rect" id="node11" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1295,73,1523,101"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1003,296,1247,324"/>
+<area shape="rect" id="node15" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1013,348,1237,376"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1355,335,1462,363"/>
+<area shape="rect" id="node19" href="$d7/d5c/classG4DynamicParticle.html#a6a2f12f20a7938ac1677677696d71a57" title="G4DynamicParticle::\lGet4Momentum" alt="" coords="511,373,668,417"/>
+</map>

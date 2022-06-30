@@ -1,0 +1,31 @@
+<map id="G4ChipsKaonPlusInelasticXS::G4ChipsKaonPlusInelasticXS" name="G4ChipsKaonPlusInelasticXS::G4ChipsKaonPlusInelasticXS">
+<area shape="rect" id="node2" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1837,145,1991,189"/>
+<area shape="rect" id="node3" href="$d8/d80/classG4KaonPlus.html#a4518cb04f0117efac6a558fc77269b25" title="G4KaonPlus::KaonPlus" alt="" coords="293,189,465,217"/>
+<area shape="rect" id="node20" href="$d7/d27/classG4TemplateAutoLock.html#a1fc2695a8c9b5527f9f3c62b32a2c172" title="G4TemplateAutoLock\l::unlock" alt="" coords="1568,249,1733,293"/>
+<area shape="rect" id="node25" href="$d0/dc2/classG4PionPlus.html#a8b9d03d0c6b25435078da1674723892b" title="G4PionPlus::PionPlus" alt="" coords="299,243,460,271"/>
+<area shape="rect" id="node27" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="311,478,447,506"/>
+<area shape="rect" id="node4" href="$d8/d80/classG4KaonPlus.html#a1298aac3eb3ccd09fc832fd83a2099fb" title="G4KaonPlus::Definition" alt="" coords="513,185,689,213"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="737,303,945,347"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1808,373,2020,401"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="759,115,923,159"/>
+<area shape="rect" id="node17" href="$db/d89/classG4DecayTable.html#a3edb3d6c42c02f3554e3121f5f079f6f" title="G4DecayTable::Insert" alt="" coords="758,183,925,211"/>
+<area shape="rect" id="node24" href="$d5/d38/classG4ParticleDefinition.html#ad3c610e90b4ba111581b30943d66cfea" title="G4ParticleDefinition\l::SetDecayTable" alt="" coords="764,235,919,279"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1005,381,1206,425"/>
+<area shape="rect" id="node7" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1291,385,1467,429"/>
+<area shape="rect" id="node8" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1291,453,1467,497"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="2099,501,2281,529"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1302,265,1457,309"/>
+<area shape="rect" id="node11" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1265,333,1493,361"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="2068,283,2312,311"/>
+<area shape="rect" id="node15" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="2078,373,2302,401"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2360,213,2467,241"/>
+<area shape="rect" id="node18" href="$df/d2d/classG4VDecayChannel.html#ac39f0f3b9b175652872f0a54e7c28c12" title="G4VDecayChannel::GetParent" alt="" coords="993,265,1217,293"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1028,197,1183,241"/>
+<area shape="rect" id="node23" href="$df/d2d/classG4VDecayChannel.html#a5d58c7fe44af8cd34c06d1887ef9e75b" title="G4VDecayChannel::GetBR" alt="" coords="1005,145,1205,173"/>
+<area shape="rect" id="node19" href="$df/d2d/classG4VDecayChannel.html#a1c515b1f4f1f9e5aafe3d0e10cb5b643" title="G4VDecayChannel::CheckAnd\lFillParent" alt="" coords="1267,145,1491,189"/>
+<area shape="rect" id="node21" href="$df/d2d/classG4VDecayChannel.html#a58f654382302cd3c1c6894bd5a8c8565" title="G4VDecayChannel::FillParent" alt="" coords="1541,145,1760,173"/>
+<area shape="rect" id="node26" href="$d0/dc2/classG4PionPlus.html#a5cfffef14b8502c5a679b10ff926734f" title="G4PionPlus::Definition" alt="" coords="516,243,687,271"/>
+<area shape="rect" id="node28" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="523,482,680,510"/>
+<area shape="rect" id="node29" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="779,542,903,570"/>
+<area shape="rect" id="node30" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="742,474,941,518"/>
+</map>

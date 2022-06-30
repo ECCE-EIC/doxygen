@@ -1,0 +1,37 @@
+<map id="G4ManyFastLists::Add" name="G4ManyFastLists::Add">
+<area shape="rect" id="node2" href="$d6/d0e/classPriorityList.html#a617e8092f66b30b490167f17c22a4f10" title="PriorityList::NewMainList" alt="" coords="223,445,409,473"/>
+<area shape="rect" id="node36" href="$d6/d0e/classPriorityList.html#a7e8c43b5b79e115fc5815434591d97ce" title="PriorityList::PushToList\lOfSecondaries" alt="" coords="230,519,402,563"/>
+<area shape="rect" id="node3" href="$d6/d0e/classPriorityList.html#a8c69da04d38ec99c220b8fc5359d1be0" title="PriorityList::PriorityList" alt="" coords="473,393,646,421"/>
+<area shape="rect" id="node4" href="$d6/d0e/classPriorityList.html#a7c353f1289cdba899460f801cc7b2668" title="PriorityList::NewMainList" alt="" coords="466,445,653,473"/>
+<area shape="rect" id="node5" href="$d6/d0e/classPriorityList.html#ab64b89028b7cd1325632522ab28d6a10" title="PriorityList::PushToMainList" alt="" coords="457,497,661,525"/>
+<area shape="rect" id="node28" href="$d6/d0e/classPriorityList.html#a9440f98bbb5823dd6f1f539e42efe037" title="PriorityList::TransferTo\lMainList" alt="" coords="474,325,645,369"/>
+<area shape="rect" id="node6" href="$d6/dfd/classG4ITTrackHolder.html#a852fa37310e5a128497cbe76ac6dbabc" title="G4ITTrackHolder::PushTo" alt="" coords="723,523,910,551"/>
+<area shape="rect" id="node7" href="$d6/dfd/classG4ITTrackHolder.html#a30a1dcfe02ba9f6a8b9b103960015749" title="G4ITTrackHolder::_PushTrack" alt="" coords="972,523,1188,551"/>
+<area shape="rect" id="node8" href="$d6/dfd/classG4ITTrackHolder.html#a95384ffc227122f9d0d0bccb15d1055c" title="G4ITTrackHolder::Push" alt="" coords="1236,523,1408,551"/>
+<area shape="rect" id="node9" href="$dc/d37/classG4DNAChemistryManager.html#a62db5f7bde49c4ea5e5dabf5848942cb" title="G4DNAChemistryManager\l::PushTrack" alt="" coords="1473,515,1671,559"/>
+<area shape="rect" id="node10" href="$dc/d37/classG4DNAChemistryManager.html#affaff8d66b90efb07cade704c0c7fff1" title="G4DNAChemistryManager\l::CreateWaterMolecule" alt="" coords="1736,448,1935,492"/>
+<area shape="rect" id="node24" href="$dc/d37/classG4DNAChemistryManager.html#a70355bcb5f851fd0a1c70a5e541b0616" title="G4DNAChemistryManager\l::PushMolecule" alt="" coords="1736,656,1935,700"/>
+<area shape="rect" id="node11" href="$da/d9e/classG4DNADingfelderChargeDecreaseModel.html#addf784b3aef8880871c5639d87ba02c8" title="G4DNADingfelderChargeDecrease\lModel::SampleSecondaries" alt="" coords="1983,73,2235,117"/>
+<area shape="rect" id="node12" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#a3aa2d65d5b31ec0e1acab89828abeed0" title="G4DNARuddIonisationExtended\lModel::SampleSecondaries" alt="" coords="1991,141,2226,185"/>
+<area shape="rect" id="node13" href="$d5/d93/classG4DNARuddIonisationModel.html#aacf670d2e82ad8dc8f57dc7ad00469d0" title="G4DNARuddIonisationModel\l::SampleSecondaries" alt="" coords="2003,209,2214,253"/>
+<area shape="rect" id="node14" href="$d9/d5e/classG4DNABornExcitationModel1.html#a44b9b0ec5e50995834684d7b6625b886" title="G4DNABornExcitationModel1\l::SampleSecondaries" alt="" coords="2000,277,2217,321"/>
+<area shape="rect" id="node15" href="$d7/d47/classG4DNABornIonisationModel2.html#a91280b5bc8dda13a92747fbf248f0ac3" title="G4DNABornIonisationModel2\l::SampleSecondaries" alt="" coords="2001,345,2217,389"/>
+<area shape="rect" id="node16" href="$dc/db0/classG4DNABornIonisationModel1.html#add3e46ff8c6c2abe7614ef16741151e9" title="G4DNABornIonisationModel1\l::SampleSecondaries" alt="" coords="2001,413,2217,457"/>
+<area shape="rect" id="node17" href="$df/d94/classG4DNABornExcitationModel2.html#a53957fd3ccf0f54c6a595fc61608bffa" title="G4DNABornExcitationModel2\l::SampleSecondaries" alt="" coords="2000,481,2217,525"/>
+<area shape="rect" id="node18" href="$d4/d3a/classG4DNAMillerGreenExcitationModel.html#a744443a9ae8b7ae03cb3060acbdfb3e2" title="G4DNAMillerGreenExcitation\lModel::SampleSecondaries" alt="" coords="2001,549,2216,593"/>
+<area shape="rect" id="node19" href="$df/d79/classG4DNAEmfietzoglouExcitationModel.html#a385bd68658a14d32a54ae4d27c9f6499" title="G4DNAEmfietzoglouExcitation\lModel::SampleSecondaries" alt="" coords="1996,617,2221,661"/>
+<area shape="rect" id="node20" href="$d2/d6f/classG4DNAEmfietzoglouIonisationModel.html#af0bf8601fc84d88f4f1d580b6fa06310" title="G4DNAEmfietzoglouIonisation\lModel::SampleSecondaries" alt="" coords="1997,685,2221,729"/>
+<area shape="rect" id="node21" href="$db/d91/classG4DNACPA100ExcitationModel.html#ae2e0cc056a7dd80a35275b75e149e4ca" title="G4DNACPA100ExcitationModel\l::SampleSecondaries" alt="" coords="1995,753,2223,797"/>
+<area shape="rect" id="node22" href="$dc/da4/classG4DNACPA100IonisationModel.html#ad176f1ac17a890c4979e4070e06e052b" title="G4DNACPA100IonisationModel\l::SampleSecondaries" alt="" coords="1995,821,2222,865"/>
+<area shape="rect" id="node23" href="$da/dd5/classG4DNAPTBExcitationModel.html#aa865fb2f26cce62f6891453efa1b5a42" title="SampleSecondaries If the model is selected for the ModelInterface then the SampleSecondaries method w..." alt="" coords="2007,5,2210,49"/>
+<area shape="rect" id="node25" href="$dc/d37/classG4DNAChemistryManager.html#a15aefa04091f43455c100aaa99f96b22" title="G4DNAChemistryManager\l::CreateSolvatedElectron" alt="" coords="2009,889,2208,933"/>
+<area shape="rect" id="node26" href="$de/d16/classG4DNATransformElectronModel.html#abfcc90cc4e583129ed6536f5f6fae259" title="G4DNATransformElectronModel\l::SampleSecondaries" alt="" coords="2285,855,2517,899"/>
+<area shape="rect" id="node27" href="$d0/d5e/classG4TDNAOneStepThermalizationModel.html#a66a86939685e5f560df79c7c95609565" title="G4TDNAOneStepThermalization\lModel::SampleSecondaries" alt="" coords="2283,923,2519,967"/>
+<area shape="rect" id="node29" href="$d6/dfd/classG4ITTrackHolder.html#ad1e1f13f503e09811df76cb0bfe95359" title="G4ITTrackHolder::MergeNext\lTimeToMainList" alt="" coords="709,325,924,369"/>
+<area shape="rect" id="node30" href="$de/dcb/classG4Scheduler.html#a0cbd65bc98d9bf21609d09af9c97af52" title="G4Scheduler::Synchronize\lTracks" alt="" coords="980,325,1180,369"/>
+<area shape="rect" id="node31" href="$de/dcb/classG4Scheduler.html#aa05805cce156b61c245f1a63eb7145a5" title="G4Scheduler::Process" alt="" coords="1238,333,1406,361"/>
+<area shape="rect" id="node32" href="$d1/db4/classG4SchedulerMessenger.html#a03e3218b6582104487c39c504ebf5060" title="G4SchedulerMessenger\l::SetNewValue" alt="" coords="1481,355,1663,399"/>
+<area shape="rect" id="node33" href="$dc/d37/classG4DNAChemistryManager.html#aed01301b67d0a5e1c50bcf992d48a837" title="G4DNAChemistryManager::Run" alt="" coords="1456,303,1688,331"/>
+<area shape="rect" id="node34" href="$d4/d47/classStackingAction.html#af9f38d1665274246654f501fe63adfa7" title="StackingAction::NewStage" alt="" coords="1736,272,1935,300"/>
+<area shape="rect" id="node35" href="$dc/d37/classG4DNAChemistryManager.html#acd16799993dcce4bc4297b7d64b5652f" title="G4DNAChemistryManager\l::SetNewValue" alt="" coords="1736,324,1935,368"/>
+</map>

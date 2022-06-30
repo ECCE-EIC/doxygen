@@ -1,0 +1,15 @@
+<map id="G4Integrator::Simpson" name="G4Integrator::Simpson">
+<area shape="rect" id="node2" href="$df/d40/classG4VEmAdjointModel.html#ae8bae0d1ad116d0e81afdf1b22d98509" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerAtomForScatProj" alt="" coords="228,5,445,65"/>
+<area shape="rect" id="node7" href="$df/d40/classG4VEmAdjointModel.html#a56e58e7b3197f151738a5afb18e80929" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerAtomForSecond" alt="" coords="228,89,445,149"/>
+<area shape="rect" id="node8" href="$df/d40/classG4VEmAdjointModel.html#ad28615c3935f377bf5002c4538e8657f" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerVolumeForScatProj" alt="" coords="228,173,445,233"/>
+<area shape="rect" id="node10" href="$df/d40/classG4VEmAdjointModel.html#a8bd4b219b37b03635ec039ee826838df" title="G4VEmAdjointModel::\lComputeAdjointCrossSection\lVectorPerVolumeForSecond" alt="" coords="228,257,445,317"/>
+<area shape="rect" id="node11" href="$d4/db0/classG4KineticTrack.html#a3b4c5f983515fd473af54cd14431d759" title="G4KineticTrack::Integrand\lFunction4" alt="" coords="239,341,435,385"/>
+<area shape="rect" id="node12" href="$d4/db0/classG4KineticTrack.html#a193ecf3312f1a013878aaed457639d32" title="G4KineticTrack::Integrate\lCMMomentum2" alt="" coords="505,384,697,428"/>
+<area shape="rect" id="node14" href="$d4/db0/classG4KineticTrack.html#a4149528bdc03b5886631038406d13607" title="G4KineticTrack::Integrate\lCMMomentum" alt="" coords="505,452,697,496"/>
+<area shape="rect" id="node3" href="$d8/d73/classG4AdjointCSManager.html#a835a1eb102c7680d83b6bf774471aa26" title="G4AdjointCSManager\l::BuildCrossSectionsMatrices\lForAGivenModelAndElement" alt="" coords="493,89,709,149"/>
+<area shape="rect" id="node4" href="$d8/d73/classG4AdjointCSManager.html#acb85b4d7950fec21643f6f5c6c6f8bff" title="G4AdjointCSManager\l::BuildCrossSectionMatrices" alt="" coords="757,140,967,184"/>
+<area shape="rect" id="node5" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#accef02a2e128b38a2f25a5b06f8af88d" title="G4AdjointForcedInteraction\lForGamma::BuildPhysicsTable" alt="" coords="1015,107,1239,151"/>
+<area shape="rect" id="node6" href="$da/d14/classG4VAdjointReverseReaction.html#aa34e0abea37e6e6139ebc621e07b4dbe" title="G4VAdjointReverseReaction\l::BuildPhysicsTable" alt="" coords="1023,175,1231,219"/>
+<area shape="rect" id="node9" href="$d8/d73/classG4AdjointCSManager.html#a0f643ea2537a47e6a4e4d1f85b549dcd" title="G4AdjointCSManager\l::BuildCrossSectionsMatrices\lForAGivenModelAndMaterial" alt="" coords="493,173,709,233"/>
+<area shape="rect" id="node13" href="$d4/db0/classG4KineticTrack.html#a301e39837cc98eb74fcbb7d3fcee0d2c" title="G4KineticTrack::G4Kinetic\lTrack" alt="" coords="764,417,960,461"/>
+</map>

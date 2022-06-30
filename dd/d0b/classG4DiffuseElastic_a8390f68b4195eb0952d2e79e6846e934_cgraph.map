@@ -1,0 +1,48 @@
+<map id="G4DiffuseElastic::SampleTableThetaCMS" name="G4DiffuseElastic::SampleTableThetaCMS">
+<area shape="rect" id="node2" href="$d7/d2c/classG4PhysicsVector.html#a665e74899c6067c0f1cf4500c93e542f" title="G4PhysicsVector::GetLowEdge\lEnergy" alt="" coords="793,5,1019,49"/>
+<area shape="rect" id="node3" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="829,73,983,117"/>
+<area shape="rect" id="node4" href="$dd/d0b/classG4DiffuseElastic.html#ac5e536bb48a8ae70b5cc8100f7f21e76" title="G4DiffuseElastic::GetScattering\lAngle" alt="" coords="245,133,480,177"/>
+<area shape="rect" id="node5" href="$dd/d0b/classG4DiffuseElastic.html#ab2ae658f1ccb9bf7f0836f0a9d107706" title="G4DiffuseElastic::Initialise\lOnFly" alt="" coords="264,639,461,683"/>
+<area shape="rect" id="node6" href="$dd/d0b/classG4DiffuseElastic.html#a23560d6aa5f2b5aaa947d1525d7937ff" title="G4DiffuseElastic::BuildAngle\lTable" alt="" coords="528,308,743,352"/>
+<area shape="rect" id="node37" href="$dd/d0b/classG4DiffuseElastic.html#aab6d038a15a82ce4e9621f3d9b2911bc" title="G4DiffuseElastic::Calculate\lNuclearRad" alt="" coords="533,639,737,683"/>
+<area shape="rect" id="node45" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="533,707,738,751"/>
+<area shape="rect" id="node47" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="539,775,731,803"/>
+<area shape="rect" id="node7" href="$dd/d0b/classG4DiffuseElastic.html#a1a0cd2ac2f81cae3557ec3965cd66687" title="G4DiffuseElastic::CalculateAm" alt="" coords="793,569,1019,597"/>
+<area shape="rect" id="node23" href="$dd/d0b/classG4DiffuseElastic.html#aab456a1071f3ec448b2ef82d6eab6038" title="G4DiffuseElastic::Calculate\lZommerfeld" alt="" coords="804,209,1008,253"/>
+<area shape="rect" id="node24" href="$dd/d0b/classG4DiffuseElastic.html#a5e88a525289c6ba0e10a8ed904f6a26e" title="G4DiffuseElastic::GetIntegrand\lFunction" alt="" coords="791,141,1021,185"/>
+<area shape="rect" id="node31" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="829,277,983,321"/>
+<area shape="rect" id="node32" href="$dd/d15/classG4PhysicsTable.html#a037cc4ad165591380b927ba0cf6aac38" title="G4PhysicsTable::insertAt" alt="" coords="812,345,1000,373"/>
+<area shape="rect" id="node33" href="$d5/d82/classG4Integrator.html#a754f677b54a631e522bf5ebbfaee0b8b" title="G4Integrator::Legendre10" alt="" coords="808,397,1004,425"/>
+<area shape="rect" id="node34" href="$d4/dc2/classG4PhysicsFreeVector.html#a81714f2a435774457cbca7f421188309" title="G4PhysicsFreeVector\l::PutValue" alt="" coords="825,449,987,493"/>
+<area shape="rect" id="node8" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="1116,673,1217,701"/>
+<area shape="rect" id="node22" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="1088,517,1245,545"/>
+<area shape="rect" id="node9" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1405,725,1443,753"/>
+<area shape="rect" id="node10" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="1359,673,1489,701"/>
+<area shape="rect" id="node11" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="1357,621,1491,649"/>
+<area shape="rect" id="node12" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1658,635,1725,663"/>
+<area shape="rect" id="node16" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1659,557,1723,585"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1884,687,2049,715"/>
+<area shape="rect" id="node15" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1872,635,2061,663"/>
+<area shape="rect" id="node14" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="2135,687,2323,715"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1871,531,2063,559"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1871,583,2063,611"/>
+<area shape="rect" id="node19" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1847,479,2087,507"/>
+<area shape="rect" id="node20" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="2135,453,2323,481"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="2135,505,2323,533"/>
+<area shape="rect" id="node25" href="$dd/d0b/classG4DiffuseElastic.html#a07a4af0885c12c5fdc6e633522f32e4f" title="G4DiffuseElastic::GetDiff\lElasticSumProbA" alt="" coords="1071,159,1262,203"/>
+<area shape="rect" id="node26" href="$dd/d0b/classG4DiffuseElastic.html#aba011ed73a0befc7f84a05fd90385a5b" title="G4DiffuseElastic::BesselJone" alt="" coords="1584,197,1799,225"/>
+<area shape="rect" id="node27" href="$dd/d0b/classG4DiffuseElastic.html#a48aa5d2b626720b38fcbfa4a3a5a57a6" title="G4DiffuseElastic::Bessel\lJzero" alt="" coords="1331,287,1517,331"/>
+<area shape="rect" id="node28" href="$dd/d0b/classG4DiffuseElastic.html#a08823d40a86c0969892ec3911d043fdc" title="G4DiffuseElastic::Bessel\lOneByArg" alt="" coords="1331,219,1517,263"/>
+<area shape="rect" id="node29" href="$dd/d0b/classG4DiffuseElastic.html#a66a0a077a04829f879a1d0598769af91" title="G4DiffuseElastic::DampFactor" alt="" coords="1312,63,1536,91"/>
+<area shape="rect" id="node30" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1396,115,1452,143"/>
+<area shape="rect" id="node35" href="$d7/d2c/classG4PhysicsVector.html#a3ab62fa83db33d15a7e85748b03f2d78" title="G4PhysicsVector::PrintPut\lValueError" alt="" coords="1069,449,1264,493"/>
+<area shape="rect" id="node36" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1371,457,1477,485"/>
+<area shape="rect" id="node38" href="$de/d0f/classG4Pow.html#aeaaa3906af7e599dc5142068b16c40a4" title="G4Pow::A23" alt="" coords="855,725,957,753"/>
+<area shape="rect" id="node39" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="851,777,961,805"/>
+<area shape="rect" id="node41" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="849,621,963,649"/>
+<area shape="rect" id="node40" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1079,777,1255,805"/>
+<area shape="rect" id="node42" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="1111,725,1222,753"/>
+<area shape="rect" id="node43" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="1113,569,1220,597"/>
+<area shape="rect" id="node44" href="$de/d0f/classG4Pow.html#ac13480ec4002760d19472b52e517933b" title="G4Pow::logBase" alt="" coords="1359,517,1489,545"/>
+<area shape="rect" id="node46" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="821,829,991,873"/>
+</map>

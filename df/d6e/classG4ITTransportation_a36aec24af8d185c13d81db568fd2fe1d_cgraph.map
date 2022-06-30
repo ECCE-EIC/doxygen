@@ -1,0 +1,43 @@
+<map id="G4ITTransportation::ComputeStep" name="G4ITTransportation::ComputeStep">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#ae07f129ee3f806548d9f7861ce328cb1" title="G4Track::CalculateVelocity" alt="" coords="211,480,412,508"/>
+<area shape="rect" id="node37" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="203,532,420,560"/>
+<area shape="rect" id="node38" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="219,584,404,612"/>
+<area shape="rect" id="node39" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="220,636,403,680"/>
+<area shape="rect" id="node40" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="231,704,392,732"/>
+<area shape="rect" id="node41" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="230,756,393,784"/>
+<area shape="rect" id="node42" href="$d2/d06/classG4ParticleChange.html#a93b2102004164bb9d6bfd87daaee9f24" title="G4ParticleChange::Propose\lVelocity" alt="" coords="209,808,413,852"/>
+<area shape="rect" id="node3" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="496,196,653,240"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#af52ce9434b4aaa3b8ef4625907a45b12" title="G4Track::CalculateVelocity\lForOpticalPhoton" alt="" coords="474,264,675,308"/>
+<area shape="rect" id="node17" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="496,404,653,448"/>
+<area shape="rect" id="node18" href="$d1/d33/classG4Track.html#a688a7ccba4422a00c95322e5b44e32bb" title="G4Track::GetMaxTOfVelocity\lTable" alt="" coords="468,472,681,516"/>
+<area shape="rect" id="node26" href="$d1/d33/classG4Track.html#a2fa6e46411f2bf23c125745fa0e744bc" title="G4Track::GetMinTOfVelocity\lTable" alt="" coords="470,540,679,584"/>
+<area shape="rect" id="node28" href="$d1/d33/classG4Track.html#a1645b3e53fd6c880dd446a04e1ff612a" title="G4Track::velTable" alt="" coords="505,608,645,636"/>
+<area shape="rect" id="node29" href="$dd/de8/classG4VelocityTable.html#a84919bce70f226f0267f260c85b516ba" title="G4VelocityTable::Value" alt="" coords="487,660,662,688"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="773,5,936,33"/>
+<area shape="rect" id="node6" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="1047,105,1249,133"/>
+<area shape="rect" id="node8" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="773,109,937,153"/>
+<area shape="rect" id="node9" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="742,177,967,205"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a484f9a43cb92efc16d9421d082b91f41" title="G4Material::GetMaterialProperties\lTable" alt="" coords="729,229,980,273"/>
+<area shape="rect" id="node11" href="$da/dbc/classG4MaterialPropertiesTable.html#a302e3c2870152cdb8c4a531e3380e46a" title="G4MaterialPropertiesTable\l::GetProperty" alt="" coords="755,297,954,341"/>
+<area shape="rect" id="node13" href="$d7/d5c/classG4DynamicParticle.html#a91ba12f47c1d066a999409b3a5076a93" title="G4DynamicParticle::\lGetTotalMomentum" alt="" coords="776,365,933,409"/>
+<area shape="rect" id="node14" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="765,433,944,461"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1357,183,1463,211"/>
+<area shape="rect" id="node12" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="1049,251,1247,295"/>
+<area shape="rect" id="node15" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="1053,407,1243,435"/>
+<area shape="rect" id="node16" href="$d7/d2c/classG4PhysicsVector.html#a5d5c84f331f6c7d7201f48c0d00a0e81" title="G4PhysicsVector::Interpolation" alt="" coords="1034,459,1262,487"/>
+<area shape="rect" id="node19" href="$dd/de8/classG4VelocityTable.html#a960c3f77f15faa1a47a9e3c327ebbc0f" title="G4VelocityTable::GetMaxTOf\lVelocityTable" alt="" coords="747,485,962,529"/>
+<area shape="rect" id="node20" href="$dd/de8/classG4VelocityTable.html#a125203c812306c071ae835f039f1efba" title="G4VelocityTable::GetVelocity\lTable" alt="" coords="1041,532,1255,576"/>
+<area shape="rect" id="node21" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="1317,532,1503,576"/>
+<area shape="rect" id="node22" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1585,488,1701,516"/>
+<area shape="rect" id="node23" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1586,540,1699,568"/>
+<area shape="rect" id="node24" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1552,592,1733,620"/>
+<area shape="rect" id="node25" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1781,584,1968,628"/>
+<area shape="rect" id="node27" href="$dd/de8/classG4VelocityTable.html#abbd0cc95c19ccc2eee80547fa646d68e" title="G4VelocityTable::GetMinTOf\lVelocityTable" alt="" coords="749,553,960,597"/>
+<area shape="rect" id="node30" href="$dd/de8/classG4VelocityTable.html#adea496da1730f47c0f3a0fed41534924" title="G4VelocityTable::Interpolation" alt="" coords="743,647,967,675"/>
+<area shape="rect" id="node31" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="823,699,887,727"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1052,647,1244,675"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1052,699,1244,727"/>
+<area shape="rect" id="node34" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1028,751,1268,779"/>
+<area shape="rect" id="node35" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1316,724,1504,752"/>
+<area shape="rect" id="node36" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1316,776,1504,804"/>
+</map>

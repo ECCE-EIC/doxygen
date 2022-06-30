@@ -1,0 +1,27 @@
+var classG4NucleiProperties =
+[
+    [ "MaxZ", "d3/df1/classG4NucleiProperties.html#a5bc7eaf996361f3b4c3b0f5ce7ebc13aac198b0fc7058b2cb860a28e3a4ba3654", null ],
+    [ "~G4NucleiProperties", "d3/df1/classG4NucleiProperties.html#a299afd47c2549b2fe8b073b654c78a7b", null ],
+    [ "G4NucleiProperties", "d3/df1/classG4NucleiProperties.html#a93f911d98f8da42e76f2eca9ddd12d52", null ],
+    [ "AtomicMass", "d3/df1/classG4NucleiProperties.html#aee1660bc4a3c6d59e2a1af5406410422", null ],
+    [ "BindingEnergy", "d3/df1/classG4NucleiProperties.html#ac66a063606af1c1d4518dcd10221eb49", null ],
+    [ "GetAtomicMass", "d3/df1/classG4NucleiProperties.html#a3a4e7e31874f836ee540699bfe70ef21", null ],
+    [ "GetBindingEnergy", "d3/df1/classG4NucleiProperties.html#abba4ae207884389dc08dac9a68003d2f", null ],
+    [ "GetBindingEnergy", "d3/df1/classG4NucleiProperties.html#a09ff0263dc3018ceaec71c55cf569f6c", null ],
+    [ "GetMassExcess", "d3/df1/classG4NucleiProperties.html#a143aba6e976c6f8e18ece5cf3e6ce048", null ],
+    [ "GetMassExcess", "d3/df1/classG4NucleiProperties.html#ab1d20b0e0855b8928a001da4663503fa", null ],
+    [ "GetNuclearMass", "d3/df1/classG4NucleiProperties.html#acfcf06bdfd3034735124c76e06dd3794", null ],
+    [ "GetNuclearMass", "d3/df1/classG4NucleiProperties.html#a1e7195f9002d301d2e148cf22b0221ff", null ],
+    [ "IsInStableTable", "d3/df1/classG4NucleiProperties.html#ab7ba01fced8943f053611163c0a734f4", null ],
+    [ "IsInStableTable", "d3/df1/classG4NucleiProperties.html#a7136c4f34d653bc82249bdc399d15711", null ],
+    [ "MassExcess", "d3/df1/classG4NucleiProperties.html#a378bc038b2c1fb3b0fb1600663faace4", null ],
+    [ "NuclearMass", "d3/df1/classG4NucleiProperties.html#a84f621a35ef0b3c6cfffba0c4b4bd79c", null ],
+    [ "electronMass", "d3/df1/classG4NucleiProperties.html#a4e31caece55abfaf37335b7c157b75e9", null ],
+    [ "isIntialized", "d3/df1/classG4NucleiProperties.html#abe736546ff13732c3c1d11e129466e9a", null ],
+    [ "mass_alpha", "d3/df1/classG4NucleiProperties.html#ab2b0ab7e84c1cb7baaf5b7d36620142a", null ],
+    [ "mass_deuteron", "d3/df1/classG4NucleiProperties.html#ad8a20d10ef128affd5d156d392b337d9", null ],
+    [ "mass_He3", "d3/df1/classG4NucleiProperties.html#aca9f2d6ce8cbe55d18afba03b4f7d563", null ],
+    [ "mass_neutron", "d3/df1/classG4NucleiProperties.html#a110e0e2ef11e9c493bc1e26c1767d4dd", null ],
+    [ "mass_proton", "d3/df1/classG4NucleiProperties.html#a74c6f5ab30a24b8d0480b91581afbc29", null ],
+    [ "mass_triton", "d3/df1/classG4NucleiProperties.html#a1304a99a367ee229d82634cab4a3826a", null ]
+];

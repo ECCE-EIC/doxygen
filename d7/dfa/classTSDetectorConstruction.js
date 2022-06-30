@@ -1,0 +1,26 @@
+var classTSDetectorConstruction =
+[
+    [ "MaterialCollection_t", "d7/dfa/classTSDetectorConstruction.html#a00736a19719650041905012b2d0b9a68", null ],
+    [ "ScoringVolumes_t", "d7/dfa/classTSDetectorConstruction.html#ac8d48cf197117ccf9187efe755d1c473", null ],
+    [ "TSDetectorConstruction", "d7/dfa/classTSDetectorConstruction.html#a0f7875b2bf7e4bd0fa51b0fa05f444dc", null ],
+    [ "~TSDetectorConstruction", "d7/dfa/classTSDetectorConstruction.html#a8cfadfd243cf9e57ccde99d5200b4b16", null ],
+    [ "Construct", "d7/dfa/classTSDetectorConstruction.html#aadc85bd04c4d9e366f66efc2008e9392", null ],
+    [ "ConstructMaterials", "d7/dfa/classTSDetectorConstruction.html#ae83641e76811832d1fdff92d29232cf8", null ],
+    [ "ConstructSDandField", "d7/dfa/classTSDetectorConstruction.html#a2ac1c822189c306831d77688fb208812", null ],
+    [ "ConstructWorld", "d7/dfa/classTSDetectorConstruction.html#a9d4215ccb19b305db335fcbc2f4cf4bd", null ],
+    [ "GetMFDName", "d7/dfa/classTSDetectorConstruction.html#af20ed71d627d2bd58dfa00b134cb83f2", null ],
+    [ "GetScoringVolumes", "d7/dfa/classTSDetectorConstruction.html#a5e490fc4e7a7e35cafe9a9492b172f8f", null ],
+    [ "GetTotalTargets", "d7/dfa/classTSDetectorConstruction.html#a8aab88be2238a136b49b1610b0e166b6", null ],
+    [ "GetWorldDimensions", "d7/dfa/classTSDetectorConstruction.html#a322e0dbb2f4fafb420884a212c9ba265", null ],
+    [ "Instance", "d7/dfa/classTSDetectorConstruction.html#a3027533a659d49f97e576603f12a2c3b", null ],
+    [ "fCasingMaterialName", "d7/dfa/classTSDetectorConstruction.html#a6aa2cf29536a55f6b23bb3e8cc42eadd", null ],
+    [ "fgInstance", "d7/dfa/classTSDetectorConstruction.html#a65f17ec9a93bebf957bb1bbddc47b487", null ],
+    [ "fMfdName", "d7/dfa/classTSDetectorConstruction.html#a83ca49c79a07de5469ca5e72651a95b3", null ],
+    [ "fScoringVolumes", "d7/dfa/classTSDetectorConstruction.html#acd61c0cd3eae585a8ac5b6b96b15fb72", null ],
+    [ "fTargetDim", "d7/dfa/classTSDetectorConstruction.html#aa73a2e0293d8e8e0717430ae3430b456", null ],
+    [ "fTargetMaterialName", "d7/dfa/classTSDetectorConstruction.html#a3512c99ecd5b280506bc69b4f4245278", null ],
+    [ "fTargetSections", "d7/dfa/classTSDetectorConstruction.html#ab15dcb732e3f6e8650e100245b49de4f", null ],
+    [ "fWorldDim", "d7/dfa/classTSDetectorConstruction.html#a4090b8a817c43413237502ec78d0f84d", null ],
+    [ "fWorldMaterialName", "d7/dfa/classTSDetectorConstruction.html#aaba7b782372720727e66efcd8e937603", null ],
+    [ "fWorldPhys", "d7/dfa/classTSDetectorConstruction.html#a05e33b735008e5b5f45374b86a818c67", null ]
+];

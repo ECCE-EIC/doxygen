@@ -1,0 +1,27 @@
+var classG4PolarizationTransition =
+[
+    [ "POLAR", "d3/dab/classG4PolarizationTransition.html#a92dc41079f7c6ca387db4a08786b9d8d", null ],
+    [ "G4PolarizationTransition", "d3/dab/classG4PolarizationTransition.html#a7011d90fa5e57da08ce6101679ce8a73", null ],
+    [ "~G4PolarizationTransition", "d3/dab/classG4PolarizationTransition.html#a30ed81e7a6709e13ddb7a4798f3a9fd6", null ],
+    [ "G4PolarizationTransition", "d3/dab/classG4PolarizationTransition.html#ad236fb224fe9deaab34a0bce286cd83f", null ],
+    [ "DumpTransitionData", "d3/dab/classG4PolarizationTransition.html#a274a36b7197bd62f782df2848f7bc66c", null ],
+    [ "F3Coefficient", "d3/dab/classG4PolarizationTransition.html#ab653343edfb47ff36e860ff6d1109e7c", null ],
+    [ "FCoefficient", "d3/dab/classG4PolarizationTransition.html#abda99669d69b601deee96eb9d157f67d", null ],
+    [ "GammaTransF3Coefficient", "d3/dab/classG4PolarizationTransition.html#aa5de87165a907260dc2394ec56ae9fbc", null ],
+    [ "GammaTransFCoefficient", "d3/dab/classG4PolarizationTransition.html#a7749e74ececa3d6bf1386f91f5cee7db", null ],
+    [ "GenerateGammaCosTheta", "d3/dab/classG4PolarizationTransition.html#a89e952dde17c14103c38cb69245d342f", null ],
+    [ "GenerateGammaPhi", "d3/dab/classG4PolarizationTransition.html#acc1d9f1fa884688c3174f4e6fc84b7de", null ],
+    [ "LnFactorial", "d3/dab/classG4PolarizationTransition.html#a06dfa82d181c808854f134fa7bde8d1f", null ],
+    [ "operator=", "d3/dab/classG4PolarizationTransition.html#a9884888f55035907f1a962650bfc9769", null ],
+    [ "SampleGammaTransition", "d3/dab/classG4PolarizationTransition.html#a31a27c744dbba8f23dca712191c94ce5", null ],
+    [ "SetVerbose", "d3/dab/classG4PolarizationTransition.html#a96c9872e510ded14e4db44c2b82ad2ff", null ],
+    [ "fDelta", "d3/dab/classG4PolarizationTransition.html#ab6e5c7918594ca01b52ecf391f23f497", null ],
+    [ "fgLegendrePolys", "d3/dab/classG4PolarizationTransition.html#aeb6ddeaa0b5b58a687d49ebabdb24c05", null ],
+    [ "fL", "d3/dab/classG4PolarizationTransition.html#a8567bb3827bfdce36738e50a9270352f", null ],
+    [ "fLbar", "d3/dab/classG4PolarizationTransition.html#a9ee23c3c22284d130f911ec0001dd745", null ],
+    [ "fTwoJ1", "d3/dab/classG4PolarizationTransition.html#a450d38aa20fdc5c3d1601a35af7aebae", null ],
+    [ "fTwoJ2", "d3/dab/classG4PolarizationTransition.html#a75d2253f7c863a7feb6442ce3a6db5e0", null ],
+    [ "fVerbose", "d3/dab/classG4PolarizationTransition.html#a76ebadedd2821ca0724a47b54070a029", null ],
+    [ "kEps", "d3/dab/classG4PolarizationTransition.html#ab363837f4fd8deaba3651069301a4f5e", null ],
+    [ "kPolyPDF", "d3/dab/classG4PolarizationTransition.html#aca743f462b452451af7717fc3cac6ec3", null ]
+];

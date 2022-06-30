@@ -1,0 +1,16 @@
+<map id="IORTPhysicsList::SetCuts" name="IORTPhysicsList::SetCuts">
+<area shape="rect" id="node2" href="$d5/d8b/classG4VUserPhysicsList.html#ac56090954dfe76113b3147f70a7ab86b" title="G4VUserPhysicsList\l::DumpCutValuesTable" alt="" coords="273,5,446,49"/>
+<area shape="rect" id="node3" href="$d5/d8b/classG4VUserPhysicsList.html#a44b5df9d7066e0687970c19016545f30" title="G4VUserPhysicsList\l::SetCutValue" alt="" coords="282,73,437,117"/>
+<area shape="rect" id="node6" href="$d6/d2b/classIORTPhysicsList.html#a6a75049d211a80dd1d5697494ff565af" title="IORTPhysicsList::SetDetectorCut" alt="" coords="240,155,479,183"/>
+<area shape="rect" id="node4" href="$d5/d8b/classG4VUserPhysicsList.html#a99ce1bfb9b103b239c334b4ccd12f0dc" title="G4VUserPhysicsList\l::SetParticleCuts" alt="" coords="555,60,710,104"/>
+<area shape="rect" id="node5" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="815,60,970,104"/>
+<area shape="rect" id="node7" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="787,128,999,156"/>
+<area shape="rect" id="node8" href="$db/d69/classG4RegionStore.html#acef4d472a500f195f17d2c9d83e6f276" title="G4RegionStore::GetRegion" alt="" coords="532,180,733,208"/>
+<area shape="rect" id="node15" href="$d4/d1f/classG4ProductionCuts.html#a846c52f7591e0145abb3e59cb7dc584b" title="G4ProductionCuts::GetIndex" alt="" coords="527,232,739,260"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="839,180,946,208"/>
+<area shape="rect" id="node10" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="851,232,934,260"/>
+<area shape="rect" id="node11" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1047,156,1263,200"/>
+<area shape="rect" id="node12" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1049,224,1261,268"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1049,292,1260,336"/>
+<area shape="rect" id="node14" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1311,292,1479,336"/>
+</map>

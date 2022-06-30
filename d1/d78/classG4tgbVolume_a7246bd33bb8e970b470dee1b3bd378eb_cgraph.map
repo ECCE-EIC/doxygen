@@ -1,0 +1,51 @@
+<map id="G4tgbVolume::ConstructG4LogVol" name="G4tgbVolume::ConstructG4LogVol">
+<area shape="rect" id="node2" href="$d8/dc5/classG4tgbMaterialMgr.html#a8c8a22158b7fb108ecf4938a67c9e950" title="G4tgbMaterialMgr::FindOr\lBuildG4Material" alt="" coords="290,418,486,462"/>
+<area shape="rect" id="node5" href="$d1/dda/classG4tgrMessenger.html#a554edbbce90ae4c6fcc85cdb6a711608" title="G4tgrMessenger::GetVerbose\lLevel" alt="" coords="887,242,1107,286"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="943,486,1050,514"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="913,761,1081,789"/>
+<area shape="rect" id="node27" href="$d1/d78/classG4tgbVolume.html#a35458e94ade107257efcaed5f0ab72c9" title="G4tgbVolume::GetColour" alt="" coords="293,864,483,892"/>
+<area shape="rect" id="node29" href="$d8/dc5/classG4tgbMaterialMgr.html#afe2f5410315fd3aa0695b2bcf7cb3d28" title="G4tgbMaterialMgr::GetInstance" alt="" coords="271,916,505,944"/>
+<area shape="rect" id="node42" href="$d5/df8/classG4tgrVolume.html#a48b0b7fdfb333270c6db060cce23a20c" title="G4tgrVolume::GetMaterialName" alt="" coords="269,968,507,996"/>
+<area shape="rect" id="node43" href="$d1/d78/classG4tgbVolume.html#a3b4bd451a815607bb42da2c40bea281d" title="G4tgbVolume::GetName" alt="" coords="295,1020,481,1048"/>
+<area shape="rect" id="node45" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="283,1072,493,1100"/>
+<area shape="rect" id="node46" href="$d1/d78/classG4tgbVolume.html#a3d13d28cb21aa80896e79f6ab5bd8bfa" title="G4tgbVolume::GetVisibility" alt="" coords="286,1124,490,1152"/>
+<area shape="rect" id="node48" href="$dc/df1/classG4VisAttributes.html#a2a37373fb043df4effbaf918fa5002ee" title="G4VisAttributes::SetColour" alt="" coords="287,1176,489,1204"/>
+<area shape="rect" id="node49" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="260,1228,516,1256"/>
+<area shape="rect" id="node50" href="$dc/df1/classG4VisAttributes.html#a2c633b86c23dd2b32229db126885efd6" title="G4VisAttributes::SetVisibility" alt="" coords="281,1280,495,1308"/>
+<area shape="rect" id="node3" href="$d8/dc1/classG4tgbMaterial.html#acae08eba6e627cc6a96d49bfee971ef8" title="G4tgbMaterial::BuildG4Material" alt="" coords="584,538,819,566"/>
+<area shape="rect" id="node4" href="$d8/dc5/classG4tgbMaterialMgr.html#a7b53bfaae0c8fa7f00352a36f83bc4ac" title="G4tgbMaterialMgr::FindBuilt\lG4Material" alt="" coords="596,126,807,170"/>
+<area shape="rect" id="node6" href="$d8/dc5/classG4tgbMaterialMgr.html#a0aba1821aac76b7c724a2a465bb123d8" title="G4tgbMaterialMgr::FindG4tgb\lMaterial" alt="" coords="591,418,812,462"/>
+<area shape="rect" id="node8" href="$d2/d00/classG4NistManager.html#abb3a53647400f8477dfe1cae931c3e72" title="G4NistManager::FindOrBuild\lMaterial" alt="" coords="595,58,807,102"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="605,246,798,274"/>
+<area shape="rect" id="node13" href="$d8/db9/classG4tgrMaterial.html#aaab697022cce447a92bd285e84c24c22" title="G4tgrMaterial::GetIonisation\lMeanExcitationEnergy" alt="" coords="595,298,808,342"/>
+<area shape="rect" id="node15" href="$d8/dc1/classG4tgbMaterial.html#ac2af7d935bb10034a65fd39b73dd3cdf" title="G4tgbMaterial::GetTgrMate" alt="" coords="598,194,805,222"/>
+<area shape="rect" id="node16" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="901,589,1093,617"/>
+<area shape="rect" id="node17" href="$d6/d69/classG4IonisParamMat.html#ac1071d1716eb275f3327b5bbb3b7ed3f" title="G4IonisParamMat::SetMean\lExcitationEnergy" alt="" coords="598,693,805,737"/>
+<area shape="rect" id="node9" href="$df/d8e/classG4NistMaterialBuilder.html#aa37cab6c172280b7e7f03cdf269d5436" title="G4NistMaterialBuilder\l::FindOrBuildMaterial" alt="" coords="911,58,1082,102"/>
+<area shape="rect" id="node10" href="$df/d8e/classG4NistMaterialBuilder.html#a877f161dc07f5e08f52109221ae02e3b" title="G4NistMaterialBuilder\l::BuildNistMaterial" alt="" coords="1200,25,1371,69"/>
+<area shape="rect" id="node11" href="$df/d8e/classG4NistMaterialBuilder.html#a84be2df2dc470cbc5afd0d2a3540dac0" title="G4NistMaterialBuilder\l::FindMaterial" alt="" coords="1200,93,1371,137"/>
+<area shape="rect" id="node18" href="$d6/d69/classG4IonisParamMat.html#a35608f674d493dd650595c67b7a30121" title="G4IonisParamMat::Compute\lFluctModel" alt="" coords="891,693,1102,737"/>
+<area shape="rect" id="node20" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1253,620,1317,648"/>
+<area shape="rect" id="node19" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1252,724,1319,752"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="1171,776,1399,804"/>
+<area shape="rect" id="node25" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="1173,828,1398,856"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1155,672,1416,700"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1488,568,1680,596"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1488,620,1680,648"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1464,672,1704,700"/>
+<area shape="rect" id="node28" href="$d5/df8/classG4tgrVolume.html#a87dd48309117421f2bade6db852a5e52" title="G4tgrVolume::GetColour" alt="" coords="607,864,795,892"/>
+<area shape="rect" id="node30" href="$d8/dc5/classG4tgbMaterialMgr.html#a99d69a0e3e008cfb83969450f65acc0d" title="G4tgbMaterialMgr::CopyElements" alt="" coords="577,916,826,944"/>
+<area shape="rect" id="node34" href="$d8/dc5/classG4tgbMaterialMgr.html#a0d16080e2b720fd8f818a3c1bdbcea9a" title="G4tgbMaterialMgr::CopyIsotopes" alt="" coords="580,968,823,996"/>
+<area shape="rect" id="node37" href="$d8/dc5/classG4tgbMaterialMgr.html#a4002c2ba0cd62b1254e3b400997c71f6" title="G4tgbMaterialMgr::CopyMaterials" alt="" coords="577,1020,825,1048"/>
+<area shape="rect" id="node41" href="$d8/dc5/classG4tgbMaterialMgr.html#ab600be811ac81a16b43dfe68ef4f92a3" title="G4tgbMaterialMgr::G4tgbMaterialMgr" alt="" coords="564,1072,839,1100"/>
+<area shape="rect" id="node31" href="$dc/dd0/classG4tgrMaterialFactory.html#a32e9e2e619c5a7b84b800f5f0bc109bb" title="G4tgrMaterialFactory\l::GetElementList" alt="" coords="915,865,1079,909"/>
+<area shape="rect" id="node32" href="$dc/dd0/classG4tgrMaterialFactory.html#a3e0d6f4277ef0036a28ba9147d8208b9" title="G4tgrMaterialFactory\l::GetInstance" alt="" coords="915,933,1079,977"/>
+<area shape="rect" id="node33" href="$d0/d75/classG4tgbElement.html#af45fc4a0ad600e2416e1e6728aa1f972" title="G4tgbElement::GetName" alt="" coords="901,813,1093,841"/>
+<area shape="rect" id="node35" href="$dc/dd0/classG4tgrMaterialFactory.html#aece7c209e5e6e8213ccf9728a25398db" title="G4tgrMaterialFactory\l::GetIsotopeList" alt="" coords="915,1001,1079,1045"/>
+<area shape="rect" id="node36" href="$da/d5d/classG4tgbIsotope.html#a8610fd2752f618fae7ac6ec12d2fefc6" title="G4tgbIsotope::GetName" alt="" coords="904,1069,1089,1097"/>
+<area shape="rect" id="node38" href="$dc/dd0/classG4tgrMaterialFactory.html#a58a2bd973f82cdd5a38c739eecfb237b" title="G4tgrMaterialFactory\l::GetMaterialList" alt="" coords="915,1173,1079,1217"/>
+<area shape="rect" id="node39" href="$d8/dc1/classG4tgbMaterial.html#a9207907f97dcfd189d2a78ae4fe42e45" title="G4tgbMaterial::GetName" alt="" coords="901,1241,1092,1269"/>
+<area shape="rect" id="node40" href="$d8/db9/classG4tgrMaterial.html#a011c778e5bdb91332b0ccef992c3bec1" title="G4tgrMaterial::GetType" alt="" coords="907,1121,1086,1149"/>
+<area shape="rect" id="node44" href="$d5/df8/classG4tgrVolume.html#acf00434b6c69b3160ce4d419dcfb904e" title="G4tgrVolume::GetName" alt="" coords="610,1124,793,1152"/>
+<area shape="rect" id="node47" href="$d5/df8/classG4tgrVolume.html#a73ec2df4fe272cf2cc6111d78168cd0a" title="G4tgrVolume::GetVisibility" alt="" coords="601,1176,801,1204"/>
+</map>

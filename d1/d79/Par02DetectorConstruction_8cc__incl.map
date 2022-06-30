@@ -1,0 +1,43 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/parameterisations/Par02/src/Par02DetectorConstruction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/parameterisations/Par02/src/Par02DetectorConstruction.cc">
+<area shape="rect" id="node2" href="$d3/d97/Par02DetectorConstruction_8hh.html" title="Definition of the Par02DetectorConstruction class." alt="" coords="571,129,797,157"/>
+<area shape="rect" id="node30" href="$df/d6b/G4GlobalMagFieldMessenger_8hh.html" title="G4GlobalMagFieldMessenger.hh" alt="" coords="245,357,483,385"/>
+<area shape="rect" id="node32" href="$d4/d6a/G4ProductionCuts_8hh.html" title="G4ProductionCuts.hh" alt="" coords="1276,357,1439,385"/>
+<area shape="rect" id="node38" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="2102,129,2263,157"/>
+<area shape="rect" id="node39" href="$d8/dba/G4RegionStore_8hh.html" title="G4RegionStore.hh" alt="" coords="2273,433,2417,461"/>
+<area shape="rect" id="node41" href="$da/d0a/G4GDMLParser_8hh.html" title="G4GDMLParser.hh" alt="" coords="1872,129,2013,157"/>
+<area shape="rect" id="node49" href="$df/d7a/G4AutoDelete_8hh.html" title="G4AutoDelete.hh" alt="" coords="2419,129,2557,157"/>
+<area shape="rect" id="node3" href="$dc/d3b/Par02FastSimModelTracker_8hh.html" title="Definition of the Par02FastSimModelTracker class." alt="" coords="573,205,795,233"/>
+<area shape="rect" id="node6" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="619,585,709,613"/>
+<area shape="rect" id="node10" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1661,965,1720,993"/>
+<area shape="rect" id="node22" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="1549,357,1709,385"/>
+<area shape="rect" id="node27" href="$d3/d36/Par02FastSimModelEMCal_8hh.html" title="Definition of the Par02FastSimModelEMCal class." alt="" coords="333,205,549,233"/>
+<area shape="rect" id="node28" href="$df/da8/Par02FastSimModelHCal_8hh.html" title="Definition of the Par02FastSimModelHCal class." alt="" coords="104,205,309,233"/>
+<area shape="rect" id="node29" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="872,433,1117,461"/>
+<area shape="rect" id="node4" href="$df/de8/G4VFastSimulationModel_8hh.html" title="G4VFastSimulationModel.hh" alt="" coords="93,281,304,309"/>
+<area shape="rect" id="node5" href="$d7/d82/Par02DetectorParametrisation_8hh.html" title="Definition of the Par02DetectorParameterisation class." alt="" coords="328,281,573,309"/>
+<area shape="rect" id="node17" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="598,281,690,309"/>
+<area shape="rect" id="node21" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="1414,281,1541,309"/>
+<area shape="rect" id="node7" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="725,813,806,841"/>
+<area shape="rect" id="node8" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1707,889,1807,917"/>
+<area shape="rect" id="node13" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="448,813,549,841"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="753,661,863,689"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="499,737,627,765"/>
+<area shape="rect" id="node16" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="398,661,575,689"/>
+<area shape="rect" id="node18" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="621,433,797,461"/>
+<area shape="rect" id="node20" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="672,509,821,537"/>
+<area shape="rect" id="node24" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="1581,433,1689,461"/>
+<area shape="rect" id="node25" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1967,433,2097,461"/>
+<area shape="rect" id="node31" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="397,509,547,537"/>
+<area shape="rect" id="node33" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1142,433,1319,461"/>
+<area shape="rect" id="node34" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="1477,509,1720,537"/>
+<area shape="rect" id="node36" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="947,509,1098,537"/>
+<area shape="rect" id="node35" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="1917,585,2139,613"/>
+<area shape="rect" id="node40" href="$d3/dc4/G4VStoreNotifier_8hh.html" title="G4VStoreNotifier.hh" alt="" coords="2264,509,2419,537"/>
+<area shape="rect" id="node42" href="$de/da8/G4GDMLReadStructure_8hh.html" title="G4GDMLReadStructure.hh" alt="" coords="2213,737,2411,765"/>
+<area shape="rect" id="node43" href="$d5/d3c/G4GDMLWriteStructure_8hh.html" title="G4GDMLWriteStructure.hh" alt="" coords="2493,585,2691,613"/>
+<area shape="rect" id="node44" href="$dd/d84/G4STRead_8hh.html" title="G4STRead.hh" alt="" coords="1832,281,1944,309"/>
+<area shape="rect" id="node45" href="$db/d08/G4GDMLMessenger_8hh.html" title="G4GDMLMessenger.hh" alt="" coords="557,357,731,385"/>
+<area shape="rect" id="node46" href="$dd/d49/G4GDMLEvaluator_8hh.html" title="G4GDMLEvaluator.hh" alt="" coords="1917,357,2081,385"/>
+<area shape="rect" id="node47" href="$d1/d2e/G4TransportationManager_8hh.html" title="G4TransportationManager.hh" alt="" coords="1637,205,1854,233"/>
+<area shape="rect" id="node50" href="$d7/d4b/G4ThreadLocalSingleton_8hh.html" title="G4ThreadLocalSingleton.hh" alt="" coords="2401,205,2609,233"/>
+</map>

@@ -1,0 +1,26 @@
+var classG02DetectorConstruction =
+[
+    [ "G02DetectorConstruction", "dc/de1/classG02DetectorConstruction.html#a4fed41e50ad7a019e8c26d8141beb4b3", null ],
+    [ "~G02DetectorConstruction", "dc/de1/classG02DetectorConstruction.html#afc6e6a357b4c0e00aa3cfd265a01aaca", null ],
+    [ "Construct", "dc/de1/classG02DetectorConstruction.html#a6ab49f12dcaf5c86f7e4436ed84ffeac", null ],
+    [ "ConstructAssembly", "dc/de1/classG02DetectorConstruction.html#a37a6d8f76e4666239eaefc7ab00b91a9", null ],
+    [ "ConstructDetector", "dc/de1/classG02DetectorConstruction.html#a4ee0ba9d1650717e709bd144dd7fa3c2", null ],
+    [ "ConstructParametrisationChamber", "dc/de1/classG02DetectorConstruction.html#a08403c370d4a3caeb852e2d0a43ed057", null ],
+    [ "ConstructSubDetector1", "dc/de1/classG02DetectorConstruction.html#a13a26b3afacca97efb7fb883184c5d1d", null ],
+    [ "ConstructSubDetector2", "dc/de1/classG02DetectorConstruction.html#a58b9b2735d7aa1e72c791cd95c58a0e5", null ],
+    [ "ListOfMaterials", "dc/de1/classG02DetectorConstruction.html#a111053ff520c66ebcb6cba5b9f93715a", null ],
+    [ "SetReadFile", "dc/de1/classG02DetectorConstruction.html#a51997e83fb99fac789e75b7726f92685", null ],
+    [ "SetStepFile", "dc/de1/classG02DetectorConstruction.html#a20461c2d66c599e62f6c69b430d7a564", null ],
+    [ "SetWriteFile", "dc/de1/classG02DetectorConstruction.html#ad1b44bce4f14a5b9b1a04faad1872bf2", null ],
+    [ "fAir", "dc/de1/classG02DetectorConstruction.html#a3858b2ec4bbdd246cb9015122a449152", null ],
+    [ "fAluminum", "dc/de1/classG02DetectorConstruction.html#a08cff1a0870edf8d6aa0a9129c70be0e", null ],
+    [ "fDetectorMessenger", "dc/de1/classG02DetectorConstruction.html#a1e01cf55b7c08e06f1363f503b264418", null ],
+    [ "fExpHall_x", "dc/de1/classG02DetectorConstruction.html#a6a208fdf78b6af7a98741f8e183efbdb", null ],
+    [ "fParser", "dc/de1/classG02DetectorConstruction.html#a1cbf5303405c37322b479bf0719d3bff", null ],
+    [ "fPb", "dc/de1/classG02DetectorConstruction.html#a7f46881c66b684a5cae7771faf3a6b68", null ],
+    [ "fReadFile", "dc/de1/classG02DetectorConstruction.html#ad745cdfc97533bdb86d0898accd79074", null ],
+    [ "fStepFile", "dc/de1/classG02DetectorConstruction.html#a7d670941b10580100319b0c699a6d7ac", null ],
+    [ "fWriteFile", "dc/de1/classG02DetectorConstruction.html#acb1aa81166ae44cf0b4cdeee56a94abc", null ],
+    [ "fWritingChoice", "dc/de1/classG02DetectorConstruction.html#aa332b548a7d589b910d558f6ff8dd47e", null ],
+    [ "fXenon", "dc/de1/classG02DetectorConstruction.html#adc37bfd7ca46dd800abdf1a4a3ffc799", null ]
+];

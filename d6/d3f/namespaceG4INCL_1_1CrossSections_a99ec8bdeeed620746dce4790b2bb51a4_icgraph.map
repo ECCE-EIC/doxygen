@@ -1,0 +1,51 @@
+<map id="G4INCL::CrossSections::total" name="G4INCL::CrossSections::total">
+<area shape="rect" id="node2" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a149dec7a2cbefe33ab4890b47a674c0a" title="G4ParticleHPThermalScattering\l::ApplyYourself" alt="" coords="855,47,1088,91"/>
+<area shape="rect" id="node3" href="$da/d11/classG4Voxelizer.html#ab1070eebc8105e321a5fb70ffb6f4938" title="G4Voxelizer::BuildBitmasks" alt="" coords="264,141,469,169"/>
+<area shape="rect" id="node5" href="$da/d11/classG4Voxelizer.html#a8953ea4b3f653cd8cbfaa100c27f0bed" title="G4Voxelizer::BuildReduce\lVoxels2" alt="" coords="269,245,464,289"/>
+<area shape="rect" id="node6" href="$da/d11/classG4Voxelizer.html#afda8e51dec76c3b7576f7e733451fdbe" title="G4Voxelizer::Voxelize" alt="" coords="597,193,763,221"/>
+<area shape="rect" id="node7" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="228,313,505,357"/>
+<area shape="rect" id="node10" href="$d0/dfe/classG4ParticleHPThermalScattering.html#aada3e796f5da3263a6d0df5fba627c4c" title="G4ParticleHPThermalScattering\l::get_secondary_energy_from\l_E_P_E_isoAng" alt="" coords="250,5,483,65"/>
+<area shape="rect" id="node12" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a70ad321a32fd3b9f3ef76d0f54691a25" title="G4INCL::BinaryCollisionAvatar\l::getChannel" alt="" coords="254,381,479,425"/>
+<area shape="rect" id="node13" href="$d9/d50/classG4Volant.html#aa46bbf9e5cea0c267cf2163d4ec94037" title="G4Volant::getTotalMass" alt="" coords="277,449,457,477"/>
+<area shape="rect" id="node14" href="$dd/dc7/classG4ParticleHPFissionBaseFS.html#a36fce723ef55ce4c5fe31ee40bbdf4cf" title="G4ParticleHPFissionBaseFS\l::Init" alt="" coords="579,381,781,425"/>
+<area shape="rect" id="node19" href="$db/d7c/classG4ParticleHPList.html#a0eec28178ef44e4c6fa1b3a650bcfa7b" title="G4ParticleHPList::Init" alt="" coords="285,724,448,752"/>
+<area shape="rect" id="node20" href="$d2/da9/classG4ParticleHPInelasticBaseFS.html#a330b67b8a54d5991f4a9f0c8aa47eada" title="G4ParticleHPInelasticBase\lFS::Init" alt="" coords="581,633,779,677"/>
+<area shape="rect" id="node32" href="$de/d7e/classG4ParticleHPInelasticCompFS.html#a4956c98d721ada7770d3896a3d63b800" title="G4ParticleHPInelasticComp\lFS::Init" alt="" coords="578,701,782,745"/>
+<area shape="rect" id="node33" href="$dc/df1/classG4ParticleHPVector.html#ab9d823027a0049581114369e89469e85" title="G4ParticleHPVector\l::Init" alt="" coords="291,553,443,597"/>
+<area shape="rect" id="node34" href="$dc/df1/classG4ParticleHPVector.html#a3d20ea3422e1c66b5695df49ffce89c8" title="G4ParticleHPVector\l::IntegrateAndNormalise" alt="" coords="273,776,460,820"/>
+<area shape="rect" id="node35" href="$d6/d54/classG4GeneralParticleSourceData.html#a94d2ab05dde5b035c3e5315d4d7f027f" title="G4GeneralParticleSourceData\l::IntensityNormalise" alt="" coords="256,844,477,888"/>
+<area shape="rect" id="node36" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a17c65113d2c74509bcf70c02838a721c" title="Compute the &quot;interaction distance&quot;." alt="" coords="265,912,468,956"/>
+<area shape="rect" id="node37" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a717125d2a38295f7b67f56ec228a3633" title="Compute the &quot;interaction distance&quot;." alt="" coords="277,980,457,1024"/>
+<area shape="rect" id="node38" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#ad1047c97164df2370fa967db56c7bd01" title="Compute the &quot;interaction distance&quot;." alt="" coords="276,1048,457,1092"/>
+<area shape="rect" id="node39" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a1a29d549d97b24a230a4caaf3fa55e32" title="Compute the &quot;interaction distance&quot;." alt="" coords="275,1116,458,1160"/>
+<area shape="rect" id="node40" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a82c49b1cea3a70039fdc73fa8468268b" title="Compute the &quot;interaction distance&quot;." alt="" coords="277,1184,457,1228"/>
+<area shape="rect" id="node41" href="$d9/d52/classG4SPBaryon.html#af92c267054354cba6013be606cedba05" title="G4SPBaryon::MatchDiQuark\lAndGetQuark" alt="" coords="261,1252,472,1296"/>
+<area shape="rect" id="node42" href="$d9/df3/classActs_1_1MaterialComposition.html#a297cb8989aecfdf5dce6b729ea84b254" title="Acts::MaterialComposition\l::MaterialComposition" alt="" coords="267,1320,466,1364"/>
+<area shape="rect" id="node43" href="$de/d38/classG4VUserMPIrunMerger.html#ad1301115c546aee9f3370515155d6283" title="G4VUserMPIrunMerger\l::Merge" alt="" coords="279,1388,454,1432"/>
+<area shape="rect" id="node44" href="$d1/dcb/classG4MPIscorerMerger.html#ac45a6730554f3c8904b3a60ff82290e4" title="G4MPIscorerMerger::\lMerge" alt="" coords="286,1456,447,1500"/>
+<area shape="rect" id="node45" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#a71b3e81d78bac51a8c158d0b4d260281" title="Store the state of the particles before the interaction." alt="" coords="268,1524,465,1568"/>
+<area shape="rect" id="node46" href="$d0/dc0/classCexmcRunAction.html#aa736945e08e4c649c87abc067959f01d" title="CexmcRunAction::PrintResults" alt="" coords="255,1592,479,1620"/>
+<area shape="rect" id="node47" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a747227fdc78ccab5a63d609e1d573a65" title="G4ParticleHPThermalScattering\l::readAnE_P_E_isoAng" alt="" coords="250,1644,483,1688"/>
+<area shape="rect" id="node48" href="$dd/db4/classG4GeometryManager.html#a2ee1d2e0b82ed6337762c55078bf66cb" title="G4GeometryManager::\lReportVoxelStats" alt="" coords="279,1712,454,1756"/>
+<area shape="rect" id="node49" href="$d9/d91/classG4LENDCombinedCrossSection.html#a8f9e1ddb800107760b17d2540a2c1e8f" title="G4LENDCombinedCrossSection\l::SelectChannel" alt="" coords="251,1780,483,1824"/>
+<area shape="rect" id="node50" href="$d5/da1/classG4LENDGammaCrossSection.html#a86986d0e01592f11840000b3db501b54" title="G4LENDGammaCrossSection\l::SelectChannel" alt="" coords="258,1848,475,1892"/>
+<area shape="rect" id="node4" href="$da/d11/classG4Voxelizer.html#ae60d488b2d2f3f72ceba475b2f21ea28" title="G4Voxelizer::Voxelize" alt="" coords="597,141,763,169"/>
+<area shape="rect" id="node8" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="569,313,791,357"/>
+<area shape="rect" id="node9" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="553,245,807,289"/>
+<area shape="rect" id="node11" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a706fe0d832ba770e99f9e221ae9ca1ea" title="G4ParticleHPThermalScattering\l::create_sE_and_EPM_from\l_pE_and_vE_P_E_isoAng" alt="" coords="563,5,797,65"/>
+<area shape="rect" id="node15" href="$dd/df8/classG4ParticleHPFCFissionFS.html#a43756cd8f97952eb07f194da67acd1e8" title="G4ParticleHPFCFissionFS\l::Init" alt="" coords="878,157,1065,201"/>
+<area shape="rect" id="node16" href="$df/d55/classG4ParticleHPTCFissionFS.html#ae66f08de3f19b314c29eb640f5439b6f" title="G4ParticleHPTCFissionFS\l::Init" alt="" coords="878,225,1065,269"/>
+<area shape="rect" id="node17" href="$d6/d43/classG4ParticleHPSCFissionFS.html#ab08c49a7ce0b71c63126e64199da701c" title="G4ParticleHPSCFissionFS\l::Init" alt="" coords="877,293,1065,337"/>
+<area shape="rect" id="node18" href="$d7/d85/classG4ParticleHPLCFissionFS.html#aab854e7d57fff2253923a0649a91824b" title="G4ParticleHPLCFissionFS\l::Init" alt="" coords="878,361,1065,405"/>
+<area shape="rect" id="node21" href="$d4/d6d/classG4ParticleHPD2AInelasticFS.html#ab0a1b5595dab4a83c8713728aafb8bfd" title="G4ParticleHPD2AInelastic\lFS::Init" alt="" coords="875,701,1068,745"/>
+<area shape="rect" id="node22" href="$d0/d58/classG4ParticleHPT2AInelasticFS.html#a815de294c40b2ad680f631660bf89454" title="G4ParticleHPT2AInelastic\lFS::Init" alt="" coords="876,769,1067,813"/>
+<area shape="rect" id="node23" href="$d3/dff/classG4ParticleHPPTInelasticFS.html#a7be074a9025cb8ec22aa1fb3b4b74b2b" title="G4ParticleHPPTInelasticFS\l::Init" alt="" coords="873,837,1070,881"/>
+<area shape="rect" id="node24" href="$d1/d22/classG4ParticleHPPDInelasticFS.html#ae60b44ddaa0e4d5aabe1f87abe443451" title="G4ParticleHPPDInelasticFS\l::Init" alt="" coords="872,905,1071,949"/>
+<area shape="rect" id="node25" href="$de/d48/classG4ParticleHPPAInelasticFS.html#a81801d1b1ff2929028ad3b9830829fb6" title="G4ParticleHPPAInelasticFS\l::Init" alt="" coords="873,973,1070,1017"/>
+<area shape="rect" id="node26" href="$db/d97/classG4ParticleHPNXInelasticFS.html#a8f4716398fc2724ddec9bc5e12e30b2c" title="G4ParticleHPNXInelasticFS\l::Init" alt="" coords="871,1041,1071,1085"/>
+<area shape="rect" id="node27" href="$d7/d3b/classG4ParticleHPNTInelasticFS.html#a4eda642622744bbc47e4b697696f43e3" title="G4ParticleHPNTInelasticFS\l::Init" alt="" coords="872,1109,1071,1153"/>
+<area shape="rect" id="node28" href="$d9/dbc/classG4ParticleHP2NDInelasticFS.html#adb8a99268b22071e60121f702c51d8b7" title="G4ParticleHP2NDInelastic\lFS::Init" alt="" coords="875,429,1068,473"/>
+<area shape="rect" id="node29" href="$db/df2/classG4ParticleHPNPInelasticFS.html#a652f8fcf1b81021f5400e162e108988c" title="G4ParticleHPNPInelasticFS\l::Init" alt="" coords="872,497,1071,541"/>
+<area shape="rect" id="node30" href="$dc/d01/classG4ParticleHP3AInelasticFS.html#a62fc36dfa3691c35c243893080b1e8cb" title="G4ParticleHP3AInelasticFS\l::Init" alt="" coords="872,565,1071,609"/>
+<area shape="rect" id="node31" href="$d6/d37/classG4ParticleHPNHe3InelasticFS.html#a6ff4f419cb5932e49a114b7fa46a48f2" title="G4ParticleHPNHe3Inelastic\lFS::Init" alt="" coords="871,633,1072,677"/>
+</map>

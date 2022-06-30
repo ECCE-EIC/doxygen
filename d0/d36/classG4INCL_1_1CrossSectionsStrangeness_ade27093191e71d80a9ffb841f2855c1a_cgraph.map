@@ -1,0 +1,21 @@
+<map id="G4INCL::CrossSectionsStrangeness::NNToNSK2pi" name="G4INCL::CrossSectionsStrangeness::NNToNSK2pi">
+<area shape="rect" id="node2" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aaca2446bb48ddb4f8392c31c54db8f5b" title="Get the isospin of a particle." alt="" coords="666,43,830,87"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="1435,111,1629,139"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="933,299,1125,327"/>
+<area shape="rect" id="node5" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#ae10525b900faa6b00ae7140bd5ffca11" title="Internal implementation of the isospin dependent NN reaction cross section." alt="" coords="645,163,851,207"/>
+<area shape="rect" id="node14" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a9fe5732df4e407558f8f947ee2715862" title="Cross section for direct 1&#45;pion production + delta production &#45; NN entrance channel." alt="" coords="645,454,851,498"/>
+<area shape="rect" id="node17" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a6ced8235ecc87762ae733ab5a1e79575" title="Cross section for direct 2&#45;pion production &#45; NN entrance channel." alt="" coords="925,454,1132,498"/>
+<area shape="rect" id="node18" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a522226f45ce8e71b6c406d41bc647aeb" title="G4INCL::CrossSectionsStrangeness\l::NNToNSKpi" alt="" coords="312,283,571,327"/>
+<area shape="rect" id="node19" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a874b82c4e5e033b4fdce70758f770e5e" title="G4INCL::KinematicsUtils\l::totalEnergyInCM" alt="" coords="656,574,840,618"/>
+<area shape="rect" id="node6" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a3897cb8c2099194fcdb38c84e1bb4c40" title="Internal implementation of the NN elastic cross section with fixed isospin." alt="" coords="925,163,1132,207"/>
+<area shape="rect" id="node13" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a6b400a3d072709dc765e53adff076a16" title="Internal implementation of the NN total cross section with fixed isospin." alt="" coords="925,231,1132,275"/>
+<area shape="rect" id="node7" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="1191,343,1375,387"/>
+<area shape="rect" id="node8" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="1438,379,1626,423"/>
+<area shape="rect" id="node9" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="1677,379,1861,423"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1924,331,2132,359"/>
+<area shape="rect" id="node12" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="1688,447,1851,491"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1909,387,2147,415"/>
+<area shape="rect" id="node15" href="$d6/d9b/structG4INCL_1_1BystrickyEvaluator.html#a16fa791b49521c4f9d94ccc9f9f86fa2" title="G4INCL::BystrickyEvaluator\l::eval" alt="" coords="1180,483,1387,527"/>
+<area shape="rect" id="node16" href="$dd/da6/structG4INCL_1_1HornerEvaluator.html#aa99fd83e59d2e674da60aa1f5c201520" title="G4INCL::HornerEvaluator\l::eval" alt="" coords="1436,483,1628,527"/>
+<area shape="rect" id="node20" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a31d99d8c69197e0263ec14becfb9ae68" title="G4INCL::CrossSectionsStrangeness\l::NNToNSK" alt="" coords="619,334,877,378"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="G4ScoreSplittingProcess::CreateTouchableForSubStep" name="G4ScoreSplittingProcess::CreateTouchableForSubStep">
+<area shape="rect" id="node2" href="$d4/d3b/classG4NavigationHistory.html#ac0cd9805d8694c54450e6e24d7646981" title="G4NavigationHistory\l::BackLevel" alt="" coords="311,83,472,127"/>
+<area shape="rect" id="node3" href="$da/d34/classG4VSolid.html#a6a0255d82cf1ba8cc5a3aaa0f7c6e4ac" title="G4VSolid::ComputeDimensions" alt="" coords="275,151,508,179"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="871,209,978,237"/>
+<area shape="rect" id="node10" href="$de/dcc/classG4VPVParameterisation.html#a21360f5a2b1b1787ce7a24cebbc58439" title="G4VPVParameterisation\l::ComputeSolid" alt="" coords="301,255,482,299"/>
+<area shape="rect" id="node13" href="$de/dcc/classG4VPVParameterisation.html#a6b1dfa7290aa34f9e062ccd22d279766" title="G4VPVParameterisation\l::ComputeTransformation" alt="" coords="295,323,488,367"/>
+<area shape="rect" id="node14" href="$d2/dc3/classG4TouchableHistory.html#a853c5c496ede67492d60f31994de8aa6" title="G4TouchableHistory\l::GetHistory" alt="" coords="313,391,470,435"/>
+<area shape="rect" id="node15" href="$d1/d28/classG4VPhysicalVolume.html#a12ab240392398ebfabbb37592f5d870e" title="G4VPhysicalVolume::\lGetParameterisation" alt="" coords="309,459,473,503"/>
+<area shape="rect" id="node16" href="$d4/d3b/classG4NavigationHistory.html#af7880d2c61e4fcb69267cddca74573d0" title="G4NavigationHistory\l::GetTopVolume" alt="" coords="311,527,472,571"/>
+<area shape="rect" id="node17" href="$d4/d3b/classG4NavigationHistory.html#ae17f7fb335dcb9c9faa46694d130a951" title="G4NavigationHistory\l::GetTopVolumeType" alt="" coords="311,595,472,639"/>
+<area shape="rect" id="node18" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="285,663,497,707"/>
+<area shape="rect" id="node24" href="$d4/d3b/classG4NavigationHistory.html#a1354f451c376cbf3bf5f3e8096269ba5" title="G4NavigationHistory\l::NewLevel" alt="" coords="311,731,472,775"/>
+<area shape="rect" id="node4" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="618,88,701,116"/>
+<area shape="rect" id="node5" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="817,5,1033,49"/>
+<area shape="rect" id="node6" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="819,73,1031,117"/>
+<area shape="rect" id="node7" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="819,141,1030,185"/>
+<area shape="rect" id="node8" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1087,141,1255,185"/>
+<area shape="rect" id="node11" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="577,255,741,299"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="557,323,761,351"/>
+<area shape="rect" id="node19" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="556,519,763,563"/>
+<area shape="rect" id="node20" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="827,432,1022,476"/>
+<area shape="rect" id="node21" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="848,500,1001,528"/>
+<area shape="rect" id="node22" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="839,552,1010,580"/>
+<area shape="rect" id="node23" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="811,604,1039,632"/>
+</map>

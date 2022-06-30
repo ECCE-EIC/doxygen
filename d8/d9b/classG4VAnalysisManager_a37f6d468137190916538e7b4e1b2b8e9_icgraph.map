@@ -1,0 +1,25 @@
+<map id="G4VAnalysisManager::AddNtupleRow" name="G4VAnalysisManager::AddNtupleRow">
+<area shape="rect" id="node2" href="$d4/d05/classHisto.html#af4ab64e7019cc13e628a0d0603005d71" title="Histo::AddRow" alt="" coords="291,5,411,33"/>
+<area shape="rect" id="node3" href="$d7/d08/classXrayFluoAnalysisManager.html#a0943b2f7b2d717bad3d1822ff0ad1599" title="XrayFluoAnalysisManager\l::analyseStepping" alt="" coords="253,57,449,101"/>
+<area shape="rect" id="node5" href="$df/d60/classXrayTelAnalysis.html#aeea0941e033cc43064f6c9d1045e7f21" title="XrayTelAnalysis::analyse\lStepping" alt="" coords="257,125,445,169"/>
+<area shape="rect" id="node7" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#a0a0f823b32a7004d41f33474f29126f1" title="G4PhysChemIO::G4Analysis\l::CreateSolvatedElectron" alt="" coords="246,193,457,237"/>
+<area shape="rect" id="node8" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#a2d7ae494288503c1af6c2baf91b568aa" title="G4PhysChemIO::G4Analysis\l::CreateWaterMolecule" alt="" coords="246,261,457,305"/>
+<area shape="rect" id="node9" href="$dd/db3/classCCalEventAction.html#ae5e9fe389ef67f47603a884f457094fe" title="CCalEventAction::EndOfEvent\lAction" alt="" coords="240,329,463,373"/>
+<area shape="rect" id="node10" href="$d4/dcd/classHistoManager.html#aefc479636211062b09209413bef1b772" title="HistoManager::FillNtuple" alt="" coords="258,397,445,425"/>
+<area shape="rect" id="node11" href="$d2/db1/classG4HumanPhantomAnalysisManager.html#a0b2c0ea08ff2d3ee75d729a137d864ca" title="G4HumanPhantomAnalysisManager\l::FillNtupleWithEnergyDeposition" alt="" coords="219,449,484,493"/>
+<area shape="rect" id="node12" href="$d0/d83/classDMXPrimaryGeneratorAction.html#a0d3f652493f14195cd49ce7d9a25fb9a" title="DMXPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="244,517,459,561"/>
+<area shape="rect" id="node13" href="$d2/d4e/classScreenSD.html#a4df99f4eeae16600e48531c37771a982" title="ScreenSD::ProcessHits" alt="" coords="265,585,438,613"/>
+<area shape="rect" id="node14" href="$db/daa/classPar02Output.html#a7aa900d520684e65f355eeb74f4748ca" title="Par02Output::SaveTrack" alt="" coords="259,637,444,665"/>
+<area shape="rect" id="node16" href="$df/db9/classGammaRayTelAnalysis.html#ab50b5508760eec983f5336eecdbae8a7" title="GammaRayTelAnalysis\l::setNtuple" alt="" coords="264,689,439,733"/>
+<area shape="rect" id="node18" href="$dc/d6d/classHadrontherapyLet.html#a877e3e91cd8f7c0574810cd0cbb9475d" title="HadrontherapyLet::StoreLet\lAscii" alt="" coords="247,757,456,801"/>
+<area shape="rect" id="node19" href="$dc/df9/classPurgMagSteppingAction.html#a0ecfa1af2a1ac89c3a1bef4594e8eb7a" title="PurgMagSteppingAction\l::UserSteppingAction" alt="" coords="260,825,443,869"/>
+<area shape="rect" id="node20" href="$d9/ddc/classDMXEventAction.html#ab7c0dffb7971c3792029a830ee9059b6" title="DMXEventAction::writePmt\lHitsToFile" alt="" coords="250,893,453,937"/>
+<area shape="rect" id="node22" href="$d9/ddc/classDMXEventAction.html#a588cfd849812b07f79b96d26c8f8a21b" title="DMXEventAction::writeScint\lHitsToFile" alt="" coords="246,961,457,1005"/>
+<area shape="rect" id="node23" href="$db/d4a/classScoreSpecies.html#ae9ef020c78efa9544cec5bd4d57e0ac1" title="ScoreSpecies::WriteWithAnalysis\lManager" alt="" coords="230,1029,473,1073"/>
+<area shape="rect" id="node4" href="$d2/d12/classXrayFluoSteppingAction.html#aaecf2319a206c8ace8adce64dea5cfce" title="XrayFluoSteppingAction\l::UserSteppingAction" alt="" coords="555,57,738,101"/>
+<area shape="rect" id="node6" href="$df/dcb/classXrayTelSteppingAction.html#a2c97ce38e4af60890d194bf8bbdc99cf" title="XrayTelSteppingAction\l::UserSteppingAction" alt="" coords="561,125,733,169"/>
+<area shape="rect" id="node15" href="$dc/db6/classPar02TrackingAction.html#a4f5a64a0c31e4d5abb2327c5701f11fd" title="Par02TrackingAction\l::PostUserTrackingAction" alt="" coords="553,625,740,669"/>
+<area shape="rect" id="node17" href="$d1/d5b/classGammaRayTelEventAction.html#a20d9479bb169f60267d94ecdfd914ba4" title="GammaRayTelEventAction\l::EndOfEventAction" alt="" coords="547,693,746,737"/>
+<area shape="rect" id="node21" href="$d9/ddc/classDMXEventAction.html#acd6c6663e0cdf032c2b2e7acf5950120" title="DMXEventAction::EndOfEvent\lAction" alt="" coords="535,927,758,971"/>
+<area shape="rect" id="node24" href="$db/d4a/classScoreSpecies.html#aef0e2beef0f1cfa39ea61155f50e1161" title="ScoreSpecies::OutputAndClear" alt="" coords="532,1037,761,1065"/>
+</map>

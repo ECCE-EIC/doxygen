@@ -1,0 +1,41 @@
+<map id="PHG4RICHDetector" name="PHG4RICHDetector">
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="2584,1051,2701,1079"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="2356,943,2489,971"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="2461,437,2563,465"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="2460,301,2564,329"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="2193,99,2282,127"/>
+<area shape="rect" id="node11" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="1293,239,1373,267"/>
+<area shape="rect" id="node36" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="2547,239,2621,267"/>
+<area shape="rect" id="node48" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="2341,561,2491,589"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="2166,5,2309,49"/>
+<area shape="rect" id="node8" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="1339,827,1477,855"/>
+<area shape="rect" id="node32" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="1220,943,1375,971"/>
+<area shape="rect" id="node9" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="723,727,891,755"/>
+<area shape="rect" id="node27" href="$d1/d35/classG4Region.html" title="G4Region" alt="" coords="609,1051,695,1079"/>
+<area shape="rect" id="node10" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="1307,615,1477,643"/>
+<area shape="rect" id="node13" href="$d5/db4/classG4LVData.html" title="G4LVData" alt="" coords="1257,727,1343,755"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="319,507,414,535"/>
+<area shape="rect" id="node18" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="127,365,281,393"/>
+<area shape="rect" id="node21" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="1200,615,1283,643"/>
+<area shape="rect" id="node26" href="$d9/d11/classG4UserLimits.html" title="G4UserLimits" alt="" coords="485,727,597,755"/>
+<area shape="rect" id="node43" href="$d8/da8/classePHENIXRICH_1_1RICH__Geometry.html" title="This class provides geometry and material parameters to construct the ePHENIX RICH detector in ePHENI..." alt="" coords="2059,615,2287,643"/>
+<area shape="rect" id="node45" href="$d9/ded/classG4SurfaceProperty.html" title="G4SurfaceProperty" alt="" coords="1868,365,2017,393"/>
+<area shape="rect" id="node12" href="$d0/dcf/classG4SmartVoxelHeader.html" title="G4SmartVoxelHeader" alt="" coords="915,727,1083,755"/>
+<area shape="rect" id="node16" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="375,615,547,643"/>
+<area shape="rect" id="node15" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="1463,365,1662,393"/>
+<area shape="rect" id="node44" href="$d4/d86/classG4OpticalSurface.html" title="G4OpticalSurface" alt="" coords="1867,507,2007,535"/>
+<area shape="rect" id="node17" href="$d4/d1f/classG4ProductionCuts.html" title="G4ProductionCuts" alt="" coords="559,507,702,535"/>
+<area shape="rect" id="node19" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="48,507,200,535"/>
+<area shape="rect" id="node46" href="$d3/d41/classG4Physics2DVector.html" title="G4Physics2DVector" alt="" coords="2151,365,2305,393"/>
+<area shape="rect" id="node22" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="818,615,950,643"/>
+<area shape="rect" id="node23" href="$df/d7d/classG4ChordFinder.html" title="G4ChordFinder" alt="" coords="787,507,909,535"/>
+<area shape="rect" id="node24" href="$d6/d64/classG4Field.html" title="G4Field" alt="" coords="936,507,1008,535"/>
+<area shape="rect" id="node25" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="1689,727,1815,755"/>
+<area shape="rect" id="node28" href="$d7/dad/classG4VUserRegionInformation.html" title="G4VUserRegionInformation" alt="" coords="715,943,919,971"/>
+<area shape="rect" id="node42" href="$dd/d4f/classG4PVPlacement.html" title="G4PVPlacement" alt="" coords="1294,1051,1423,1079"/>
+<area shape="rect" id="node33" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="1113,827,1202,855"/>
+<area shape="rect" id="node35" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="2644,507,2791,535"/>
+<area shape="rect" id="node37" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="2622,365,2815,393"/>
+<area shape="rect" id="node38" href="$d2/d61/classePHENIXRICH_1_1ePHENIXRICHConstruction.html" title="This class creates the ePHENIX RICH volumes for Geant4 based on the geometry information in ePHENIXRI..." alt="" coords="1726,1271,2023,1299"/>
+<area shape="rect" id="node47" href="$df/d03/classPHG4RICHDisplayAction.html" title="PHG4RICHDisplayAction" alt="" coords="1783,1051,1966,1079"/>
+</map>

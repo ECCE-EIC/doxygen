@@ -1,0 +1,45 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/field/BlineTracer/src/G4BlineEventAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/field/BlineTracer/src/G4BlineEventAction.cc">
+<area shape="rect" id="node2" href="$d7/db5/G4BlineEventAction_8hh.html" title="Definition of the G4BlineEventAction class." alt="" coords="4218,205,4394,233"/>
+<area shape="rect" id="node12" href="$d5/d88/G4BlineTracer_8hh.html" title="Definition of the G4BlineTracer class." alt="" coords="113,357,249,385"/>
+<area shape="rect" id="node14" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="519,205,619,233"/>
+<area shape="rect" id="node23" href="$de/df7/G4Trajectory_8hh.html" title="G4Trajectory.hh" alt="" coords="1416,281,1543,309"/>
+<area shape="rect" id="node31" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="2047,205,2206,233"/>
+<area shape="rect" id="node36" href="$de/dd0/G4VisManager_8hh.html" title="G4VisManager.hh" alt="" coords="3182,129,3321,157"/>
+<area shape="rect" id="node48" href="$d6/de9/G4UImanager_8hh.html" title="G4UImanager.hh" alt="" coords="2926,357,3060,385"/>
+<area shape="rect" id="node49" href="$d2/d9c/G4Polyline_8hh.html" title="G4Polyline.hh" alt="" coords="2522,129,2637,157"/>
+<area shape="rect" id="node50" href="$d5/de7/G4Polymarker_8hh.html" title="G4Polymarker.hh" alt="" coords="3396,129,3532,157"/>
+<area shape="rect" id="node3" href="$d3/d92/G4UserEventAction_8hh.html" title="G4UserEventAction.hh" alt="" coords="4220,281,4393,309"/>
+<area shape="rect" id="node4" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="3574,281,3722,309"/>
+<area shape="rect" id="node11" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="3901,357,4005,385"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1934,433,2025,461"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1566,509,1647,537"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="843,585,943,613"/>
+<area shape="rect" id="node13" href="$d2/d75/G4UserRunAction_8hh.html" title="G4UserRunAction.hh" alt="" coords="358,509,518,537"/>
+<area shape="rect" id="node15" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="506,357,598,385"/>
+<area shape="rect" id="node16" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="677,433,797,461"/>
+<area shape="rect" id="node17" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="274,357,430,385"/>
+<area shape="rect" id="node19" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="1179,357,1340,385"/>
+<area shape="rect" id="node20" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="1199,281,1392,309"/>
+<area shape="rect" id="node22" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="212,281,430,309"/>
+<area shape="rect" id="node21" href="$d1/d39/G4VTrajectory_8hh.html" title="G4VTrajectory.hh" alt="" coords="2338,357,2474,385"/>
+<area shape="rect" id="node25" href="$d7/d2d/trkgdefs_8hh.html" title="trkgdefs.hh" alt="" coords="844,433,942,461"/>
+<area shape="rect" id="node26" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1518,357,1695,385"/>
+<area shape="rect" id="node27" href="$d5/d7b/G4TrajectoryPoint_8hh.html" title="G4TrajectoryPoint.hh" alt="" coords="775,357,936,385"/>
+<area shape="rect" id="node28" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="2166,357,2263,385"/>
+<area shape="rect" id="node30" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="1063,357,1155,385"/>
+<area shape="rect" id="node29" href="$d8/dcd/G4TrackStatus_8hh.html" title="G4TrackStatus.hh" alt="" coords="2320,433,2460,461"/>
+<area shape="rect" id="node32" href="$d3/d40/evmandefs_8hh.html" title="evmandefs.hh" alt="" coords="1922,357,2040,385"/>
+<area shape="rect" id="node33" href="$df/dae/G4StackManager_8hh.html" title="G4StackManager.hh" alt="" coords="1990,281,2146,309"/>
+<area shape="rect" id="node34" href="$d8/d5c/G4PrimaryTransformer_8hh.html" title="G4PrimaryTransformer.hh" alt="" coords="1720,281,1914,309"/>
+<area shape="rect" id="node35" href="$d7/de7/G4TrackingManager_8hh.html" title="G4TrackingManager.hh" alt="" coords="2221,281,2397,309"/>
+<area shape="rect" id="node37" href="$d7/d9a/G4VVisManager_8hh.html" title="G4VVisManager.hh" alt="" coords="2675,205,2823,233"/>
+<area shape="rect" id="node38" href="$d3/dd7/G4Transform3D_8hh.html" title="G4Transform3D.hh" alt="" coords="2624,281,2772,309"/>
+<area shape="rect" id="node39" href="$d3/d09/G4GraphicsSystemList_8hh.html" title="G4GraphicsSystemList.hh" alt="" coords="3154,205,3349,233"/>
+<area shape="rect" id="node40" href="$db/dca/G4ModelingParameters_8hh.html" title="G4ModelingParameters.hh" alt="" coords="3576,205,3776,233"/>
+<area shape="rect" id="node41" href="$dc/d91/G4NullModel_8hh.html" title="G4NullModel.hh" alt="" coords="3901,205,4029,233"/>
+<area shape="rect" id="node42" href="$d8/de1/G4SceneHandlerList_8hh.html" title="G4SceneHandlerList.hh" alt="" coords="2950,205,3130,233"/>
+<area shape="rect" id="node43" href="$d7/d67/G4SceneList_8hh.html" title="G4SceneList.hh" alt="" coords="3424,205,3551,233"/>
+<area shape="rect" id="node44" href="$d3/d88/G4TrajectoriesModel_8hh.html" title="G4TrajectoriesModel.hh" alt="" coords="3646,357,3826,385"/>
+<area shape="rect" id="node45" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="2752,357,2901,385"/>
+<area shape="rect" id="node46" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="3136,357,3266,385"/>
+</map>

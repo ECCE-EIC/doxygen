@@ -1,0 +1,27 @@
+var classG4PenelopeComptonModel =
+[
+    [ "G4PenelopeComptonModel", "db/d2c/classG4PenelopeComptonModel.html#a82b6bee17446552f7d60b77ff8e7b221", null ],
+    [ "~G4PenelopeComptonModel", "db/d2c/classG4PenelopeComptonModel.html#a11e9d64ae66cf55f87bfb00f94eb4f79", null ],
+    [ "G4PenelopeComptonModel", "db/d2c/classG4PenelopeComptonModel.html#af581860e45030ad079390d7f911526bb", null ],
+    [ "ComputeCrossSectionPerAtom", "db/d2c/classG4PenelopeComptonModel.html#abfa99b9bbfd633d35ee9ec2b2d9fbf8b", null ],
+    [ "CrossSectionPerVolume", "db/d2c/classG4PenelopeComptonModel.html#aebb770507f5063b3251f20683377f368", null ],
+    [ "DifferentialCrossSection", "db/d2c/classG4PenelopeComptonModel.html#ae77268cf751dd64bd4e29bf626af85a3", null ],
+    [ "GetVerbosityLevel", "db/d2c/classG4PenelopeComptonModel.html#a41bad07c0dc589f5ef8fb9b51cb8988a", null ],
+    [ "Initialise", "db/d2c/classG4PenelopeComptonModel.html#a979041635293fc89f95dd2b61a8945b2", null ],
+    [ "InitialiseLocal", "db/d2c/classG4PenelopeComptonModel.html#a6067d981ba69a78ea85c16578f8d1d1a", null ],
+    [ "KleinNishinaCrossSection", "db/d2c/classG4PenelopeComptonModel.html#a9229e9d3dac9a7887e7ad0325b131ecd", null ],
+    [ "operator=", "db/d2c/classG4PenelopeComptonModel.html#a45dd92df782cd7aa6d7a0698175ee5f8", null ],
+    [ "OscillatorTotalCrossSection", "db/d2c/classG4PenelopeComptonModel.html#a93d585a0ce2e9549a9137357bd4ef292", null ],
+    [ "SampleSecondaries", "db/d2c/classG4PenelopeComptonModel.html#ae9f9c281423ad00cd8703e90b75cd874", null ],
+    [ "SetParticle", "db/d2c/classG4PenelopeComptonModel.html#a329bf6184c5e126523252d6e31a7c998", null ],
+    [ "SetVerbosityLevel", "db/d2c/classG4PenelopeComptonModel.html#a7f89b241d60750a4b5188abb612e3911", null ],
+    [ "fAtomDeexcitation", "db/d2c/classG4PenelopeComptonModel.html#ac189d1ca7b79b20d9b795c4b78a7c9af", null ],
+    [ "fIntrinsicHighEnergyLimit", "db/d2c/classG4PenelopeComptonModel.html#a6c68844e1b15a4779b7bd4c1a842d00f", null ],
+    [ "fIntrinsicLowEnergyLimit", "db/d2c/classG4PenelopeComptonModel.html#a1986307b85dfcd0107e70b92e0b79288", null ],
+    [ "fParticle", "db/d2c/classG4PenelopeComptonModel.html#aad5b0f3f3cb1665da3f9dbc0b3a58fb0", null ],
+    [ "fParticleChange", "db/d2c/classG4PenelopeComptonModel.html#a52035195f0d342deb396fb583f6724a2", null ],
+    [ "fTransitionManager", "db/d2c/classG4PenelopeComptonModel.html#a48e9754a81d5ce42339018252e70591d", null ],
+    [ "isInitialised", "db/d2c/classG4PenelopeComptonModel.html#acc323453c98a4b5141533c4d1403a09c", null ],
+    [ "oscManager", "db/d2c/classG4PenelopeComptonModel.html#a418cdcff7f7fa818074ca7da911c5331", null ],
+    [ "verboseLevel", "db/d2c/classG4PenelopeComptonModel.html#ad193efdc0cfe24e7a5987f2ec4bdd09e", null ]
+];

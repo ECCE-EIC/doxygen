@@ -1,0 +1,36 @@
+<map id="Dicom2PrimaryGeneratorAction::GeneratePrimaries" name="Dicom2PrimaryGeneratorAction::GeneratePrimaries">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="635,736,741,764"/>
+<area shape="rect" id="node3" href="$db/d84/G4RandomDirection_8hh.html#a4443665124c96cff96548814539083ea" title="G4RandomDirection" alt="" coords="331,951,488,979"/>
+<area shape="rect" id="node4" href="$dc/ded/classG4ParticleGun.html#ae379db98a1089954ae61be18581b3042" title="G4ParticleGun::GeneratePrimary\lVertex" alt="" coords="288,436,531,480"/>
+<area shape="rect" id="node11" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="869,137,1038,165"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="869,17,1038,45"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="869,77,1037,105"/>
+<area shape="rect" id="node18" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="597,908,779,952"/>
+<area shape="rect" id="node19" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="601,840,775,884"/>
+<area shape="rect" id="node20" href="$d1/d28/classG4VPhysicalVolume.html#a8b719c8cd11b4288bea134a5c2afcb34" title="G4VPhysicalVolume::\lGetObjectTranslation" alt="" coords="327,1003,491,1047"/>
+<area shape="rect" id="node21" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="307,1071,511,1099"/>
+<area shape="rect" id="node22" href="$d9/df2/classG4LogicalVolumeStore.html#a0e77b1ad778eb286695edf4567174e65" title="G4LogicalVolumeStore\l::GetVolume" alt="" coords="323,712,496,756"/>
+<area shape="rect" id="node28" href="$d9/dbb/classG4PhysicalVolumeStore.html#ac82d899011f0535cdfb71cbac30e4a86" title="G4PhysicalVolumeStore\l::GetVolume" alt="" coords="319,780,500,824"/>
+<area shape="rect" id="node29" href="$d0/d5a/classG4Box.html#a57ecdd3fd3a32274edfcf848330fc4a2" title="G4Box::GetXHalfLength" alt="" coords="319,1123,500,1151"/>
+<area shape="rect" id="node30" href="$d0/d5a/classG4Box.html#ab06d81091f3c8c77cc14ac4170b6767d" title="G4Box::GetYHalfLength" alt="" coords="319,1175,499,1203"/>
+<area shape="rect" id="node31" href="$d0/d5a/classG4Box.html#af6adc9bd51a72f46255f122ccc25c5f9" title="G4Box::GetZHalfLength" alt="" coords="319,1227,500,1255"/>
+<area shape="rect" id="node32" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="387,1279,432,1307"/>
+<area shape="rect" id="node33" href="$dc/ded/classG4ParticleGun.html#a1cf3f060ee960071bfb26fcb3bed63b7" title="G4ParticleGun::SetParticle\lMomentumDirection" alt="" coords="310,1331,509,1375"/>
+<area shape="rect" id="node35" href="$db/d9d/classG4VPrimaryGenerator.html#aec08e7aabccac4a0c0089cc49178e59c" title="G4VPrimaryGenerator\l::SetParticlePosition" alt="" coords="324,1399,495,1443"/>
+<area shape="rect" id="node5" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="611,240,765,284"/>
+<area shape="rect" id="node6" href="$df/d7e/classG4PrimaryParticle.html#a6bf5d884c9134b54923afa830ab0cae4" title="G4PrimaryParticle::\lSetKineticEnergy" alt="" coords="613,308,763,352"/>
+<area shape="rect" id="node7" href="$df/d7e/classG4PrimaryParticle.html#a9a1323191192c663fffe38cbefa315b1" title="G4PrimaryParticle::\lSetMass" alt="" coords="613,376,763,420"/>
+<area shape="rect" id="node8" href="$df/d7e/classG4PrimaryParticle.html#a95efb520a8f56abc60d22d891822ab4d" title="G4PrimaryParticle::\lSetMomentumDirection" alt="" coords="598,548,778,592"/>
+<area shape="rect" id="node9" href="$df/d7e/classG4PrimaryParticle.html#a2c742ead33c25cd673e069fe99dd57d1" title="G4PrimaryParticle::\lSetCharge" alt="" coords="613,616,763,660"/>
+<area shape="rect" id="node10" href="$df/d7e/classG4PrimaryParticle.html#a53b70d9a9f83c52bbbc267f2b458c8ed" title="G4PrimaryParticle::\lSetPolarization" alt="" coords="613,69,763,113"/>
+<area shape="rect" id="node14" href="$de/dbd/classG4PrimaryVertex.html#ab3554dca89ed5a3ad41fac6d16a71796" title="G4PrimaryVertex::SetPrimary" alt="" coords="579,496,797,524"/>
+<area shape="rect" id="node16" href="$d5/de2/classG4Event.html#aabf700be265d0bc4d4f9f273f061145d" title="G4Event::AddPrimaryVertex" alt="" coords="583,684,793,712"/>
+<area shape="rect" id="node15" href="$df/d7e/classG4PrimaryParticle.html#a5cc6ce76c958eaaccd8621cbf5328d69" title="G4PrimaryParticle::\lSetNext" alt="" coords="878,488,1029,532"/>
+<area shape="rect" id="node17" href="$de/dbd/classG4PrimaryVertex.html#a2ecd1d312d0f77ab258341007472e53c" title="G4PrimaryVertex::SetNext" alt="" coords="854,672,1053,700"/>
+<area shape="rect" id="node23" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="647,788,729,816"/>
+<area shape="rect" id="node24" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="845,792,1061,836"/>
+<area shape="rect" id="node25" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="847,860,1059,904"/>
+<area shape="rect" id="node26" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="848,724,1059,768"/>
+<area shape="rect" id="node27" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1109,724,1277,768"/>
+<area shape="rect" id="node34" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="594,1339,782,1367"/>
+</map>

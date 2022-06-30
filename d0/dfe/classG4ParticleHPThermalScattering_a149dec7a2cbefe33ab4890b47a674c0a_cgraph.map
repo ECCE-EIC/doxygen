@@ -1,0 +1,30 @@
+<map id="G4ParticleHPThermalScattering::ApplyYourself" name="G4ParticleHPThermalScattering::ApplyYourself">
+<area shape="rect" id="node2" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a530772727cd00a1f4a8d79562d85e61c" title="G4ParticleHPThermalScattering\l::create_E_isoAng_from_energy" alt="" coords="596,114,829,158"/>
+<area shape="rect" id="node3" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a146a9c24c486e708ff7d0d89ce88e3aa" title="G4ParticleHPThermalScattering\l::find_LH" alt="" coords="877,46,1111,90"/>
+<area shape="rect" id="node5" href="$d0/dfe/classG4ParticleHPThermalScattering.html#aa4a282f7eea1d0c6c573f2f71ccea53e" title="G4ParticleHPThermalScattering\l::get_linear_interpolated" alt="" coords="877,238,1111,282"/>
+<area shape="rect" id="node7" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a706fe0d832ba770e99f9e221ae9ca1ea" title="G4ParticleHPThermalScattering\l::create_sE_and_EPM_from\l_pE_and_vE_P_E_isoAng" alt="" coords="301,174,534,234"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a99ec8bdeeed620746dce4790b2bb51a4" title="G4INCL::CrossSections\l::total" alt="" coords="907,334,1081,378"/>
+<area shape="rect" id="node10" href="$da/d11/classG4HadProjectile.html#a17b9908f5e243c2ccd055d59c9ea97e6" title="G4HadProjectile::Get4Momentum" alt="" coords="293,420,541,448"/>
+<area shape="rect" id="node11" href="$d0/d20/classG4ParticleHPThermalScatteringData.html#a8cb5a587211fd4cc67775c62e7ecae70" title="G4ParticleHPThermalScattering\lData::GetCoherentCrossSection" alt="" coords="300,472,535,516"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#a9c66e8742ee9e8491a269df8bef35687" title="G4Material::GetTemperature" alt="" coords="606,615,819,643"/>
+<area shape="rect" id="node16" href="$d0/d20/classG4ParticleHPThermalScatteringData.html#a26ac648a218a0a533010b73d6697afdd" title="G4ParticleHPThermalScattering\lData::GetCrossSection" alt="" coords="301,540,534,584"/>
+<area shape="rect" id="node17" href="$da/d11/classG4HadProjectile.html#ac21308f4f0f2cb12978301fb331f03dd" title="G4HadProjectile::GetDefinition" alt="" coords="303,728,531,756"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="325,780,510,808"/>
+<area shape="rect" id="node19" href="$d0/d20/classG4ParticleHPThermalScatteringData.html#ac74d8ee618c53afd9157ba798840c276" title="G4ParticleHPThermalScattering\lData::GetInelasticCrossSection" alt="" coords="301,608,534,652"/>
+<area shape="rect" id="node20" href="$da/d11/classG4HadProjectile.html#a0142202507906a04a41f28d445c9e13b" title="G4HadProjectile::GetKinetic\lEnergy" alt="" coords="313,832,521,876"/>
+<area shape="rect" id="node21" href="$da/d11/classG4HadProjectile.html#adcb639abe6e543c39965c4f9b82d1e26" title="G4HadProjectile::GetMaterial" alt="" coords="309,900,526,928"/>
+<area shape="rect" id="node22" href="$d0/dfe/classG4ParticleHPThermalScattering.html#aafc6cec165a77b9aa98bb6a83f174d8e" title="G4ParticleHPThermalScattering\l::getMu" alt="" coords="301,952,534,996"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="287,1020,548,1048"/>
+<area shape="rect" id="node25" href="$d0/dfe/classG4ParticleHPThermalScattering.html#a4c14c77a6c1ad91251f521566dec7516" title="G4ParticleHPThermalScattering\l::getTS_ID" alt="" coords="301,1072,534,1116"/>
+<area shape="rect" id="node26" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="348,1140,487,1168"/>
+<area shape="rect" id="node27" href="$d3/dc0/classG4Nucleus.html#a6405ea3f87626f1801a6e865d4c00ebc" title="G4Nucleus::GetZ_asInt" alt="" coords="329,1192,506,1220"/>
+<area shape="rect" id="node28" href="$dd/d4a/classG4HadFinalState.html#ab8148d260bb9eadce6f185dad3711fb1" title="G4HadFinalState::SetEnergy\lChange" alt="" coords="311,1244,524,1288"/>
+<area shape="rect" id="node29" href="$dd/d4a/classG4HadFinalState.html#adf06912ba5818e24b9e26f433eb6149b" title="G4HadFinalState::SetMomentum\lChange" alt="" coords="296,1312,539,1356"/>
+<area shape="rect" id="node4" href="$d0/dfe/classG4ParticleHPThermalScattering.html#aa27d49f2b83862dc321ee36d1db78de9" title="G4ParticleHPThermalScattering\l::check_E_isoAng" alt="" coords="877,114,1111,158"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="941,182,1047,210"/>
+<area shape="rect" id="node8" href="$d0/dfe/classG4ParticleHPThermalScattering.html#aada3e796f5da3263a6d0df5fba627c4c" title="G4ParticleHPThermalScattering\l::get_secondary_energy_from\l_E_P_E_isoAng" alt="" coords="596,234,829,294"/>
+<area shape="rect" id="node12" href="$d0/d20/classG4ParticleHPThermalScatteringData.html#acc78584cad83afb5613e4588d595fb88" title="G4ParticleHPThermalScattering\lData::getTS_ID" alt="" coords="596,544,829,588"/>
+<area shape="rect" id="node14" href="$d0/d20/classG4ParticleHPThermalScatteringData.html#a627fdd2029d9abc07af402b8e73e9d62" title="G4ParticleHPThermalScattering\lData::GetX" alt="" coords="596,476,829,520"/>
+<area shape="rect" id="node15" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="915,476,1073,520"/>
+<area shape="rect" id="node23" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="693,960,733,988"/>
+</map>

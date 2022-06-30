@@ -1,0 +1,26 @@
+var classG4RDGenerator2BN =
+[
+    [ "G4RDGenerator2BN", "d3/dc9/classG4RDGenerator2BN.html#a38a84936adb2bef9de6f5282e0f09213", null ],
+    [ "~G4RDGenerator2BN", "d3/dc9/classG4RDGenerator2BN.html#a34ffb051918b82d1f4335044c65c69c4", null ],
+    [ "G4RDGenerator2BN", "d3/dc9/classG4RDGenerator2BN.html#adba7190d1b4fbbbd41f3e0512a49be70", null ],
+    [ "Calculatedsdkdt", "d3/dc9/classG4RDGenerator2BN.html#a707f34aa248c2119169a6c1b5a531600", null ],
+    [ "CalculateFkt", "d3/dc9/classG4RDGenerator2BN.html#a07c89ba40e84ae13f08b0fdb87d04587", null ],
+    [ "ConstructMajorantSurface", "d3/dc9/classG4RDGenerator2BN.html#a3744b1f415c287107258c9f49c953eb8", null ],
+    [ "Generate2BN", "d3/dc9/classG4RDGenerator2BN.html#a2f7f8ffef4e18ddbd62a468a228ef61b", null ],
+    [ "GetGammaCutValue", "d3/dc9/classG4RDGenerator2BN.html#ad2cddec34e3514855ab2248fcc445fb8", null ],
+    [ "GetInterpolationThetaIncrement", "d3/dc9/classG4RDGenerator2BN.html#ab2db8fb63fee4d2556749d1dcebeeb0c", null ],
+    [ "operator=", "d3/dc9/classG4RDGenerator2BN.html#a90c9aba6917ccf6358b67e0d1f5673c7", null ],
+    [ "PolarAngle", "d3/dc9/classG4RDGenerator2BN.html#a4666f87c75161f0234641d4ad45c2c92", null ],
+    [ "PrintGeneratorInformation", "d3/dc9/classG4RDGenerator2BN.html#a03ac7889e26d7bd83567dff8557e0bdf", null ],
+    [ "SetGammaCutValue", "d3/dc9/classG4RDGenerator2BN.html#a389e1374cdee80b747a3f5dba7c542e3", null ],
+    [ "SetInterpolationThetaIncrement", "d3/dc9/classG4RDGenerator2BN.html#a1e2dd43b06c632d4a074d11cbe0ed04a", null ],
+    [ "Atab", "d3/dc9/classG4RDGenerator2BN.html#a057facb89e6c384e745ccfea75f1c74e", null ],
+    [ "b", "d3/dc9/classG4RDGenerator2BN.html#a027079cf290bc0a42770e5eb8c9e4950", null ],
+    [ "ctab", "d3/dc9/classG4RDGenerator2BN.html#a13f5673c15fe06274c0b08b35aebee9d", null ],
+    [ "dtheta", "d3/dc9/classG4RDGenerator2BN.html#a90ec677a543220fe08d0e70e8893975c", null ],
+    [ "Ekmin", "d3/dc9/classG4RDGenerator2BN.html#a23b6733f142556638b61c4ad5fa2b98c", null ],
+    [ "index_max", "d3/dc9/classG4RDGenerator2BN.html#a3508bcdf1512db6c211e0c90fd84f5fa", null ],
+    [ "index_min", "d3/dc9/classG4RDGenerator2BN.html#aa50af126fa20c7f8ad486f565ce73e28", null ],
+    [ "kcut", "d3/dc9/classG4RDGenerator2BN.html#aa5d4fbbefef84d23f481090dd4e4e6f4", null ],
+    [ "kmin", "d3/dc9/classG4RDGenerator2BN.html#abeead53d94dc8888d20f89dba4a5400f", null ]
+];

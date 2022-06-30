@@ -1,0 +1,29 @@
+<map id="G4BiasingProcessInterface::PostStepGetPhysicalInteractionLength" name="G4BiasingProcessInterface::PostStepGetPhysicalInteractionLength">
+<area shape="rect" id="node2" href="$d7/dd6/classG4VBiasingOperation.html#a92474772eae4ac04f154ea7715534c09" title="G4VBiasingOperation\l::DistanceToApplyOperation" alt="" coords="341,5,550,49"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="664,596,771,624"/>
+<area shape="rect" id="node4" href="$d1/d27/classG4VBiasingOperator.html#aa3501a6935d5cdb4a472e419cc8e6f65" title="G4VBiasingOperator\l::GetBiasingOperator" alt="" coords="363,73,528,117"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#aa92998a8c1964dea7898488959b8cf30" title="G4Track::GetCurrentStepNumber" alt="" coords="323,193,567,221"/>
+<area shape="rect" id="node9" href="$de/de9/classG4ParallelGeometriesLimiterProcess.html#a0089b029b475cc370e4743f99fcee914" title="G4ParallelGeometriesLimiter\lProcess::GetCurrentVolumes" alt="" coords="337,245,553,289"/>
+<area shape="rect" id="node10" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="363,313,527,357"/>
+<area shape="rect" id="node11" href="$d1/d27/classG4VBiasingOperator.html#ab143e7fdd956d55c8cdaf0b84b4b9b55" title="G4VBiasingOperator\l::GetName" alt="" coords="365,381,525,425"/>
+<area shape="rect" id="node12" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="350,449,541,477"/>
+<area shape="rect" id="node13" href="$d2/d5e/classG4VBiasingInteractionLaw.html#afcf5705d419fcd4ee049ba8dab712b0b" title="G4VBiasingInteractionLaw\l::GetSampledInteractionLength" alt="" coords="329,501,562,545"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a520f19a10e8debe92844f368b162fc87" title="G4Track::GetStep" alt="" coords="375,569,515,597"/>
+<area shape="rect" id="node15" href="$df/d47/classG4StepPoint.html#af382f66572d29c61f2a66214b76ed260" title="G4StepPoint::GetStepStatus" alt="" coords="339,621,551,649"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="366,673,525,701"/>
+<area shape="rect" id="node17" href="$de/de9/classG4ParallelGeometriesLimiterProcess.html#a93f9b95bd8e1d046acd18ef925c22de4" title="G4ParallelGeometriesLimiter\lProcess::GetWasLimiting" alt="" coords="337,725,553,769"/>
+<area shape="rect" id="node18" href="$d2/d84/classG4VProcess.html#a2786225909c0372b3c4bab6a460b352f" title="G4VProcess::PostStepGetPhysical\lInteractionLength" alt="" coords="322,793,569,837"/>
+<area shape="rect" id="node19" href="$d7/dd6/classG4VBiasingOperation.html#aa5d7ee6b8ff3474461258f28cfc36669" title="G4VBiasingOperation\l::ProvideOccurenceBiasingInteractionLaw" alt="" coords="295,861,596,905"/>
+<area shape="rect" id="node20" href="$d6/d72/classG4BiasingProcessInterface.html#a36c6a72d6f63eab4a3aed8c15ec22f23" title="G4BiasingProcessInterface\l::ResetForUnbiasedTracking" alt="" coords="341,929,549,973"/>
+<area shape="rect" id="node21" href="$d2/d84/classG4VProcess.html#a2d25bf39fe664d382066ecaa399dac7a" title="G4VProcess::ResetNumberOf\lInteractionLengthLeft" alt="" coords="337,1065,554,1109"/>
+<area shape="rect" id="node28" href="$dd/d2b/classG4InteractionLawPhysical.html#a499687e9011d58beda05552e96fe13f3" title="G4InteractionLawPhysical\l::SetPhysicalCrossSection" alt="" coords="348,997,543,1041"/>
+<area shape="rect" id="node5" href="$d6/df6/classG4MapCache.html#a74f303a078c3c4dc995b53ec96309659" title="G4MapCache::Find" alt="" coords="644,56,791,84"/>
+<area shape="rect" id="node7" href="$d6/df6/classG4MapCache.html#a7cd67f60dbf2341c9dc182d775c5f294" title="G4MapCache::End" alt="" coords="645,108,790,136"/>
+<area shape="rect" id="node6" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="901,81,1017,109"/>
+<area shape="rect" id="node22" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="685,1073,749,1101"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="863,1073,1055,1101"/>
+<area shape="rect" id="node24" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="863,1125,1055,1153"/>
+<area shape="rect" id="node25" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="839,1021,1079,1049"/>
+<area shape="rect" id="node26" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1127,996,1315,1024"/>
+<area shape="rect" id="node27" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1127,1048,1315,1076"/>
+</map>

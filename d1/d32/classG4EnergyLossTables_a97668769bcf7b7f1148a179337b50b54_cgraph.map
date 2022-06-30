@@ -1,0 +1,19 @@
+<map id="G4EnergyLossTables::GetRange" name="G4EnergyLossTables::GetRange">
+<area shape="rect" id="node2" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="973,22,1145,66"/>
+<area shape="rect" id="node3" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="219,88,373,132"/>
+<area shape="rect" id="node4" href="$d9/d78/classG4LossTableManager.html#ae5c306a76c82b70e6744f755fc50c2d0" title="G4LossTableManager\l::GetRange" alt="" coords="213,156,379,200"/>
+<area shape="rect" id="node12" href="$d1/d32/classG4EnergyLossTables.html#a30f6fb023406e73db0326965a1754f68" title="G4EnergyLossTables\l::GetTables" alt="" coords="216,224,376,268"/>
+<area shape="rect" id="node13" href="$d9/d78/classG4LossTableManager.html#a2f26d6edfd1d62ac3a714ac9f6bd6b9c" title="G4LossTableManager\l::Instance" alt="" coords="213,348,379,392"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4LossTableManager.html#a4848c365447d5256fc19a8cdb28d23bc" title="G4LossTableManager\l::GetEnergyLossProcess" alt="" coords="429,89,611,133"/>
+<area shape="rect" id="node7" href="$da/d80/classG4VEnergyLossProcess.html#ada3aba61c1e24ac7a72a2b61fb1ddc89" title="G4VEnergyLossProcess\l::GetRange" alt="" coords="431,173,609,217"/>
+<area shape="rect" id="node6" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="767,60,812,88"/>
+<area shape="rect" id="node8" href="$da/d80/classG4VEnergyLossProcess.html#abfc0f724a5e8ccd023a9fa690a7089a0" title="G4VEnergyLossProcess\l::DefineMaterial" alt="" coords="701,112,878,156"/>
+<area shape="rect" id="node10" href="$da/d80/classG4VEnergyLossProcess.html#af12ecb55fdb5aee2a1390ef714cd8a37" title="G4VEnergyLossProcess\l::GetLimitScaledRangeForScaled\lEnergy" alt="" coords="669,180,910,240"/>
+<area shape="rect" id="node11" href="$da/d80/classG4VEnergyLossProcess.html#ac2bb4e32393fb505d1828f646d38a541" title="G4VEnergyLossProcess\l::GetScaledRangeForScaledEnergy" alt="" coords="661,264,917,308"/>
+<area shape="rect" id="node9" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="973,112,1145,156"/>
+<area shape="rect" id="node14" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="427,362,613,406"/>
+<area shape="rect" id="node15" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="731,332,847,360"/>
+<area shape="rect" id="node16" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="733,384,846,412"/>
+<area shape="rect" id="node17" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="699,436,880,464"/>
+<area shape="rect" id="node18" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="965,428,1152,472"/>
+</map>

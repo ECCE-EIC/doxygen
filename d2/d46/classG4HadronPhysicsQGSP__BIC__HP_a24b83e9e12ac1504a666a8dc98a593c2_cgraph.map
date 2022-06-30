@@ -1,0 +1,21 @@
+<map id="G4HadronPhysicsQGSP_BIC_HP::CreateModels" name="G4HadronPhysicsQGSP_BIC_HP::CreateModels">
+<area shape="rect" id="node2" href="$db/dcf/classG4HadronicParameters.html#a04977f4321e13410723f5bed33a0150f" title="G4HadronicParameters\l::GetMaxEnergyTransitionFTF\l_Cascade" alt="" coords="250,5,469,65"/>
+<area shape="rect" id="node3" href="$db/dcf/classG4HadronicParameters.html#a79f93447939b08c3e17484df99e47e75" title="G4HadronicParameters\l::GetMaxEnergyTransitionQGS_FTF" alt="" coords="232,89,487,133"/>
+<area shape="rect" id="node4" href="$db/dcf/classG4HadronicParameters.html#a25bf9c2de45af2c044514c80b7d34deb" title="G4HadronicParameters\l::GetMinEnergyTransitionFTF\l_Cascade" alt="" coords="252,157,467,217"/>
+<area shape="rect" id="node5" href="$db/dcf/classG4HadronicParameters.html#a374ad858a19ae100f6e7cb5af14b3a95" title="G4HadronicParameters\l::Instance" alt="" coords="270,241,449,285"/>
+<area shape="rect" id="node6" href="$d2/dfe/classG4AntiBarionBuilder.html#a5670bba2107b5f0b29e6098f24c279af" title="G4AntiBarionBuilder\l::RegisterMe" alt="" coords="279,309,439,353"/>
+<area shape="rect" id="node9" href="$d2/d0b/classG4PiKBuilder.html#a0f572ef629cdce656745ee3edfaef05d" title="G4PiKBuilder::RegisterMe" alt="" coords="263,377,456,405"/>
+<area shape="rect" id="node10" href="$d9/dad/classG4ProtonBuilder.html#aedbb0d65bd81c5448131641791ed7a99" title="G4ProtonBuilder::RegisterMe" alt="" coords="251,429,467,457"/>
+<area shape="rect" id="node11" href="$d6/d81/classG4NeutronBuilder.html#a1d35d20d0d690186945bf75053bf811f" title="G4NeutronBuilder::RegisterMe" alt="" coords="246,481,473,509"/>
+<area shape="rect" id="node12" href="$d2/d98/classG4BinaryProtonBuilder.html#ab06f63738262939a3baa261d43f4b125" title="G4BinaryProtonBuilder\l::SetMaxEnergy" alt="" coords="271,533,447,577"/>
+<area shape="rect" id="node13" href="$d2/da6/classG4BinaryNeutronBuilder.html#aef4d7971e290ff4f4503db255e28aaa5" title="G4BinaryNeutronBuilder\l::SetMaxEnergy" alt="" coords="266,601,453,645"/>
+<area shape="rect" id="node14" href="$df/dcd/classG4FTFPProtonBuilder.html#ac99f18880f8253f163e7cc7a5ff463ee" title="G4FTFPProtonBuilder\l::SetMaxEnergy" alt="" coords="277,669,441,713"/>
+<area shape="rect" id="node15" href="$dd/dc3/classG4BertiniPiKBuilder.html#a7e945a97be0234d4d3fcadc3dcc32f07" title="G4BertiniPiKBuilder\l::SetMaxEnergy" alt="" coords="282,737,437,781"/>
+<area shape="rect" id="node16" href="$d6/ddd/classG4FTFPNeutronBuilder.html#a57e7d3c62356712df1502d1e691dcac2" title="G4FTFPNeutronBuilder\l::SetMaxEnergy" alt="" coords="272,805,447,849"/>
+<area shape="rect" id="node17" href="$da/d5c/classG4FTFPPiKBuilder.html#a256faf8196b14255f8db9dcc125d8995" title="G4FTFPPiKBuilder::SetMax\lEnergy" alt="" coords="260,873,459,917"/>
+<area shape="rect" id="node18" href="$d2/da6/classG4BinaryNeutronBuilder.html#a91fe5dd08d4ed2d12a477d01406f847f" title="G4BinaryNeutronBuilder\l::SetMinEnergy" alt="" coords="266,941,453,985"/>
+<area shape="rect" id="node19" href="$df/dcd/classG4FTFPProtonBuilder.html#a0a54e7f8ec4ef2c7b198192d30d4b2af" title="G4FTFPProtonBuilder\l::SetMinEnergy" alt="" coords="277,1009,441,1053"/>
+<area shape="rect" id="node20" href="$d6/ddd/classG4FTFPNeutronBuilder.html#aad03d1843b03f368c62ebb951aa32fce" title="G4FTFPNeutronBuilder\l::SetMinEnergy" alt="" coords="272,1077,447,1121"/>
+<area shape="rect" id="node7" href="$de/dc8/classG4PhysicsBuilderInterface.html#a479f099140f05ed31e87e7f7613af1d0" title="G4PhysicsBuilderInterface\l::RegisterMe" alt="" coords="535,396,733,440"/>
+<area shape="rect" id="node8" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="781,404,888,432"/>
+</map>

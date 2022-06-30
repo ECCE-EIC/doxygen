@@ -1,0 +1,32 @@
+<map id="G4VSceneHandler::RequestPrimitives" name="G4VSceneHandler::RequestPrimitives">
+<area shape="rect" id="node2" href="$da/d94/classG4VSceneHandler.html#afcb9d5355acabffd33a8b9ae59161178" title="G4VSceneHandler::AddPrimitive" alt="" coords="273,5,511,33"/>
+<area shape="rect" id="node3" href="$da/d94/classG4VSceneHandler.html#ad305d0a294661195df569c2249d21784" title="G4VSceneHandler::BeginPrimitives" alt="" coords="263,57,521,85"/>
+<area shape="rect" id="node5" href="$da/d94/classG4VSceneHandler.html#a575f37ecfa601b71eaa1b0488a2b79bb" title="G4VSceneHandler::EndPrimitives" alt="" coords="269,109,515,137"/>
+<area shape="rect" id="node6" href="$da/d94/classG4VSceneHandler.html#abe304410e84743d2814b780bc6a139de" title="G4VSceneHandler::GetDrawing\lStyle" alt="" coords="275,213,509,257"/>
+<area shape="rect" id="node8" href="$dc/dec/classG4PhysicalVolumeModel.html#a829420158863a40be546591304465f76" title="G4PhysicalVolumeModel\l::GetFullPVPath" alt="" coords="299,281,485,325"/>
+<area shape="rect" id="node9" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="314,349,470,377"/>
+<area shape="rect" id="node10" href="$da/d94/classG4VSceneHandler.html#a0e08d6289387e614ae206aff3eecd56e" title="G4VSceneHandler::GetNoOf\lSides" alt="" coords="286,401,498,445"/>
+<area shape="rect" id="node14" href="$d3/dbf/classG4VViewer.html#ad18033edeb72a8b06aeeee1fef03ba02" title="G4VViewer::GetViewParameters" alt="" coords="569,553,807,581"/>
+<area shape="rect" id="node16" href="$d7/dc2/classG4ViewParameters.html#a2a47a668906b9305cbe46d5724e61e92" title="G4ViewParameters::GetNumber\lOfCloudPoints" alt="" coords="273,521,511,565"/>
+<area shape="rect" id="node17" href="$da/d94/classG4VSceneHandler.html#a1d571a8fec3b08ad7b6b64dde88fce6d" title="G4VSceneHandler::GetNumber\lOfCloudPoints" alt="" coords="276,589,508,633"/>
+<area shape="rect" id="node18" href="$da/d34/classG4VSolid.html#ae619bf7281648ab12fd569ebb802221b" title="G4VSolid::GetPointOnSurface" alt="" coords="282,161,502,189"/>
+<area shape="rect" id="node25" href="$da/d34/classG4VSolid.html#a68896800a2a21a1aa64716f51eb7ca53" title="G4VSolid::GetPolyhedron" alt="" coords="297,657,487,685"/>
+<area shape="rect" id="node26" href="$d0/d0d/classG4VisManager.html#aa0e16695f2aa218f67abdcecc014071d" title="G4VisManager::GetVerbosity" alt="" coords="284,709,500,737"/>
+<area shape="rect" id="node27" href="$d3/d94/classHepPolyhedron.html#ab194e03577b2e8f069db91166cf74abb" title="HepPolyhedron::ResetNumber\lOfRotationSteps" alt="" coords="279,761,505,805"/>
+<area shape="rect" id="node28" href="$d6/d89/classG4Polymarker.html#a0133a849249e4070ec3983507f9965b1" title="G4Polymarker::SetMarkerType" alt="" coords="280,829,504,857"/>
+<area shape="rect" id="node29" href="$d3/d94/classHepPolyhedron.html#a167c0bee415cf4e7d296d90f0899588e" title="HepPolyhedron::SetNumber\lOfRotationSteps" alt="" coords="287,881,497,925"/>
+<area shape="rect" id="node30" href="$da/d97/classG4VMarker.html#a2a879262b5ef76acaa2e62252a395abd" title="G4VMarker::SetSize" alt="" coords="315,949,469,977"/>
+<area shape="rect" id="node31" href="$d8/dda/classG4Visible.html#a16b219694f07fee10478738dc3263236" title="G4Visible::SetVisAttributes" alt="" coords="291,1001,493,1029"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="635,57,741,85"/>
+<area shape="rect" id="node7" href="$d7/dc2/classG4ViewParameters.html#ad3d1182113ab09ff8a7b5b44329959c5" title="G4ViewParameters::GetDrawing\lStyle" alt="" coords="569,213,807,257"/>
+<area shape="rect" id="node11" href="$dc/df1/classG4VisAttributes.html#ae6c7d6b2c9abefe16777b45fde970ab8" title="G4VisAttributes::GetForced\lLineSegmentsPerCircle" alt="" coords="586,281,790,325"/>
+<area shape="rect" id="node12" href="$dc/df1/classG4VisAttributes.html#aabaf71135b421bc1e0cffc30c877c8ad" title="G4VisAttributes::GetMinLine\lSegmentsPerCircle" alt="" coords="582,349,794,393"/>
+<area shape="rect" id="node13" href="$d7/dc2/classG4ViewParameters.html#ab501aaa445d343057377bb14f30fa50a" title="G4ViewParameters::GetNoOf\lSides" alt="" coords="579,417,797,461"/>
+<area shape="rect" id="node15" href="$dc/df1/classG4VisAttributes.html#a02eaf9b60d1e6c810bba141178cccf42" title="G4VisAttributes::IsForce\lLineSegmentsPerCircle" alt="" coords="597,485,779,529"/>
+<area shape="rect" id="node19" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="647,109,729,137"/>
+<area shape="rect" id="node24" href="$da/d34/classG4VSolid.html#af419b3fdb051e4d07ebdb0aa63fd0941" title="G4VSolid::GetEntityType" alt="" coords="595,161,781,189"/>
+<area shape="rect" id="node20" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="855,33,1071,77"/>
+<area shape="rect" id="node21" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="857,101,1069,145"/>
+<area shape="rect" id="node22" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="857,169,1068,213"/>
+<area shape="rect" id="node23" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1119,169,1287,213"/>
+</map>

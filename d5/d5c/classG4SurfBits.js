@@ -1,0 +1,26 @@
+var classG4SurfBits =
+[
+    [ "G4SurfBits", "d5/d5c/classG4SurfBits.html#ac8b6ac3f124a685a977544669639240f", null ],
+    [ "G4SurfBits", "d5/d5c/classG4SurfBits.html#a7a96de5cdf2e8f64b94b8218b21ca0cd", null ],
+    [ "~G4SurfBits", "d5/d5c/classG4SurfBits.html#a815976b05e1f640eff613c079ac09ce7", null ],
+    [ "Clear", "d5/d5c/classG4SurfBits.html#a79e34584992b25f90c2d48aa0a9d2063", null ],
+    [ "Compact", "d5/d5c/classG4SurfBits.html#a928315ff017adfabfb96d0d27a678058", null ],
+    [ "Get", "d5/d5c/classG4SurfBits.html#affbc2ca524f6e8ec0ac0f6fe9e53c796", null ],
+    [ "Get", "d5/d5c/classG4SurfBits.html#aee467a4e0854829c5f6cec164c7230d8", null ],
+    [ "GetNbits", "d5/d5c/classG4SurfBits.html#add78f41f3aa9ac245f33adc044731e81", null ],
+    [ "GetNbytes", "d5/d5c/classG4SurfBits.html#a3ab10d8cd47c3293439681b3ded5cbab", null ],
+    [ "operator=", "d5/d5c/classG4SurfBits.html#a363e22f7df5eb3636dbd6d76560474d8", null ],
+    [ "operator[]", "d5/d5c/classG4SurfBits.html#a89a8e58bcd97c1a47b363b3f47c9406a", null ],
+    [ "Output", "d5/d5c/classG4SurfBits.html#a883d2c021d49eb38d1ce77c4f3a8c70d", null ],
+    [ "Print", "d5/d5c/classG4SurfBits.html#a830a486a41696c56c09320be27898a0c", null ],
+    [ "ReserveBytes", "d5/d5c/classG4SurfBits.html#ab1078b1bcdf8b4e6d18d576fb8faf84e", null ],
+    [ "ResetAllBits", "d5/d5c/classG4SurfBits.html#a587383d4ed9a3c1dd6421030c6867790", null ],
+    [ "ResetBitNumber", "d5/d5c/classG4SurfBits.html#a908634a45a652af082bf91c7a811d0d5", null ],
+    [ "set", "d5/d5c/classG4SurfBits.html#a96392597c253b2c00e036c133645914b", null ],
+    [ "set", "d5/d5c/classG4SurfBits.html#aaecc710e4a82b8a4f828b6605697255c", null ],
+    [ "SetBitNumber", "d5/d5c/classG4SurfBits.html#a92b1d2859c18ec73ad9e6fa4fc43544c", null ],
+    [ "TestBitNumber", "d5/d5c/classG4SurfBits.html#a36ee7dae870837d1676e06aac72f290e", null ],
+    [ "fAllBits", "d5/d5c/classG4SurfBits.html#a54f0eb6cc580530dfb55a09c6b6b77e8", null ],
+    [ "fNBits", "d5/d5c/classG4SurfBits.html#a082620c501ed297a841826fdc6f4d721", null ],
+    [ "fNBytes", "d5/d5c/classG4SurfBits.html#afd30f81426ff7c31d00b1e61f514cff1", null ]
+];

@@ -1,0 +1,41 @@
+<map id="BeamLineMagnetSubsystem" name="BeamLineMagnetSubsystem">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="3653,813,3845,841"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="2655,703,2789,731"/>
+<area shape="rect" id="node44" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="2653,813,2770,841"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="2702,403,2803,431"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="2661,193,2765,221"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="2800,99,2889,127"/>
+<area shape="rect" id="node12" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="998,193,1078,221"/>
+<area shape="rect" id="node33" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="3537,457,3653,485"/>
+<area shape="rect" id="node37" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="3401,703,3584,731"/>
+<area shape="rect" id="node40" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="2853,457,2927,485"/>
+<area shape="rect" id="node42" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="2480,703,2631,731"/>
+<area shape="rect" id="node43" href="$df/d95/classBeamLineMagnetDetector.html" title="BeamLineMagnetDetector" alt="" coords="2223,915,2421,943"/>
+<area shape="rect" id="node49" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="2897,343,3059,371"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="2773,5,2916,49"/>
+<area shape="rect" id="node8" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="1298,577,1437,605"/>
+<area shape="rect" id="node14" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="923,703,1078,731"/>
+<area shape="rect" id="node9" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="1118,457,1286,485"/>
+<area shape="rect" id="node29" href="$d1/d35/classG4Region.html" title="G4Region" alt="" coords="895,813,981,841"/>
+<area shape="rect" id="node10" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="607,915,778,943"/>
+<area shape="rect" id="node20" href="$d5/db4/classG4LVData.html" title="G4LVData" alt="" coords="1428,1007,1515,1035"/>
+<area shape="rect" id="node11" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="377,641,480,669"/>
+<area shape="rect" id="node13" href="$d5/d11/classG4VReadOutGeometry.html" title="G4VReadOutGeometry" alt="" coords="478,813,654,841"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="5,813,100,841"/>
+<area shape="rect" id="node23" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="1710,457,1793,485"/>
+<area shape="rect" id="node28" href="$d9/d11/classG4UserLimits.html" title="G4UserLimits" alt="" coords="982,457,1094,485"/>
+<area shape="rect" id="node15" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="753,577,843,605"/>
+<area shape="rect" id="node16" href="$dd/d65/classCLHEP_1_1HepRotation.html" title="CLHEP::HepRotation" alt="" coords="709,457,866,485"/>
+<area shape="rect" id="node17" href="$df/d6f/classG4CollectionNameVector.html" title="G4CollectionNameVector" alt="" coords="679,813,869,841"/>
+<area shape="rect" id="node18" href="$d0/dcf/classG4SmartVoxelHeader.html" title="G4SmartVoxelHeader" alt="" coords="1361,457,1529,485"/>
+<area shape="rect" id="node22" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="291,915,463,943"/>
+<area shape="rect" id="node24" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="1553,457,1685,485"/>
+<area shape="rect" id="node25" href="$d6/d64/classG4Field.html" title="G4Field" alt="" coords="1849,343,1921,371"/>
+<area shape="rect" id="node48" href="$d8/d9d/classG4MagneticField.html" title="G4MagneticField" alt="" coords="1853,513,1986,541"/>
+<area shape="rect" id="node26" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="1951,457,2077,485"/>
+<area shape="rect" id="node34" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="3325,343,3409,371"/>
+<area shape="rect" id="node35" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="3329,193,3405,221"/>
+<area shape="rect" id="node39" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="3003,703,3150,731"/>
+<area shape="rect" id="node41" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="2793,577,2987,605"/>
+<area shape="rect" id="node45" href="$de/d82/classBeamLineMagnetDisplayAction.html" title="BeamLineMagnetDisplayAction" alt="" coords="2123,813,2353,841"/>
+</map>

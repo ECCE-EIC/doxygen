@@ -1,0 +1,28 @@
+<map id="G4LEPTSRotExcitationModel::Initialise" name="G4LEPTSRotExcitationModel::Initialise">
+<area shape="rect" id="node2" href="$d2/d29/classG4VLEPTSModel.html#a9dc4ab22587210d86790717235e1fdf5" title="G4VLEPTSModel::BuildPhysics\lTable" alt="" coords="275,393,500,437"/>
+<area shape="rect" id="node23" href="$d3/dc1/classG4VEmModel.html#a33daba8fe8e5e6e65cead26b69149b23" title="G4VEmModel::GetParticleChange\lForGamma" alt="" coords="264,771,511,815"/>
+<area shape="rect" id="node25" href="$d2/d29/classG4VLEPTSModel.html#ad4d04947953ec2d670e2477e96f51a39" title="G4VLEPTSModel::Init" alt="" coords="306,839,469,867"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="944,427,1051,455"/>
+<area shape="rect" id="node4" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="611,5,766,49"/>
+<area shape="rect" id="node5" href="$dd/d15/classG4PhysicsTable.html#a14d3fd7296f663c1d95fb3befd60a6f1" title="G4PhysicsTable::clearAnd\lDestroy" alt="" coords="591,73,786,117"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a367ef71701dd787b47c15c2a0c3167d7" title="G4Material::GetNumberOfMaterials" alt="" coords="559,141,819,169"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="579,193,798,221"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="605,245,773,273"/>
+<area shape="rect" id="node9" href="$d2/d29/classG4VLEPTSModel.html#a0059bc17e01faf9bfdb2e5bb925a66b0" title="G4VLEPTSModel::ReadParam" alt="" coords="580,349,797,377"/>
+<area shape="rect" id="node14" href="$d2/d29/classG4VLEPTSModel.html#a9ed3f5c645620f997c6562f0dcb9ee19" title="G4VLEPTSModel::ReadIXS" alt="" coords="591,453,787,481"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a130128c3e374c1cc5236a6b8575ce415" title="G4VEmModel::GetName" alt="" coords="905,479,1090,507"/>
+<area shape="rect" id="node16" href="$d7/d2c/classG4PhysicsVector.html#ad923df7c7b31dc411b6ade3a3c739988" title="G4PhysicsVector::PutValue" alt="" coords="897,531,1098,559"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="915,703,1080,731"/>
+<area shape="rect" id="node18" href="$dd/d15/classG4PhysicsTable.html#a037cc4ad165591380b927ba0cf6aac38" title="G4PhysicsTable::insertAt" alt="" coords="903,755,1091,783"/>
+<area shape="rect" id="node19" href="$d5/d72/classG4String.html#ab6261a741b9eef5c5731c3a0523f08da" title="G4String::first" alt="" coords="630,297,747,325"/>
+<area shape="rect" id="node20" href="$d2/d29/classG4VLEPTSModel.html#ad77b2c59d43fcf37023c6ad10d6dda1a" title="G4VLEPTSModel::BuildMean\lFreePathTable" alt="" coords="583,608,794,652"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="867,219,1128,247"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a3ed91631cc74a059a98f8014a7867766" title="G4Material::GetAtomsVector" alt="" coords="890,271,1105,299"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="905,323,1090,351"/>
+<area shape="rect" id="node13" href="$de/d80/classG4Element.html#acd081e1705555cd8dce5081291c7a3f9" title="G4Element::GetA" alt="" coords="928,375,1067,403"/>
+<area shape="rect" id="node21" href="$d7/d2c/classG4PhysicsVector.html#a665e74899c6067c0f1cf4500c93e542f" title="G4PhysicsVector::GetLowEdge\lEnergy" alt="" coords="884,583,1111,627"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="907,651,1087,679"/>
+<area shape="rect" id="node24" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="567,779,811,807"/>
+<area shape="rect" id="node26" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="580,831,797,875"/>
+<area shape="rect" id="node27" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="577,899,800,943"/>
+</map>

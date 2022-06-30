@@ -1,0 +1,23 @@
+<map id="F01FieldSetup::F01FieldSetup" name="F01FieldSetup::F01FieldSetup">
+<area shape="rect" id="node2" href="$db/d6c/classF01FieldSetup.html#a9ef5de492a979520a10828f4f6fb2de6" title="F01FieldSetup::InitialiseAll" alt="" coords="275,425,473,453"/>
+<area shape="rect" id="node3" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="544,188,756,232"/>
+<area shape="rect" id="node10" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="551,507,749,551"/>
+<area shape="rect" id="node11" href="$db/d6c/classF01FieldSetup.html#a602b81073e06b8f1887742908c4b59fc" title="F01FieldSetup::CreateFSALStepper\lAndChordFinder" alt="" coords="521,575,779,619"/>
+<area shape="rect" id="node14" href="$db/d6c/classF01FieldSetup.html#a2f8352135d0c914eeb7bb9ebc71caaeb" title="F01FieldSetup::CreateStepper\lAndChordFinder" alt="" coords="538,387,762,431"/>
+<area shape="rect" id="node16" href="$dc/d5a/classG4FieldManager.html#a7a32f93dd4eebfb185527d0896a0e2a3" title="G4FieldManager::SetChord\lFinder" alt="" coords="855,447,1056,491"/>
+<area shape="rect" id="node17" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="845,327,1066,371"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="852,140,1059,184"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1193,229,1299,257"/>
+<area shape="rect" id="node6" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1149,109,1343,153"/>
+<area shape="rect" id="node7" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1169,177,1323,205"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1161,5,1331,33"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1132,57,1360,85"/>
+<area shape="rect" id="node12" href="$db/d6c/classF01FieldSetup.html#a7ba49e05b6f80e42688133a37ecfe029" title="F01FieldSetup::CreateFSALStepper\lAndDriver" alt="" coords="827,575,1084,619"/>
+<area shape="rect" id="node13" href="$d3/d58/classG4VIntegrationDriver.html#adcb8327d112452d84ce16354818c9874" title="G4VIntegrationDriver\l::GetStepper" alt="" coords="1163,575,1329,619"/>
+<area shape="rect" id="node15" href="$db/d6c/classF01FieldSetup.html#afcc4c72d138b0221f86a4ee7e7a8f228" title="F01FieldSetup::SetStepper" alt="" coords="854,395,1057,423"/>
+<area shape="rect" id="node18" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="1148,349,1344,393"/>
+<area shape="rect" id="node20" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="1132,417,1360,461"/>
+<area shape="rect" id="node21" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="1159,485,1333,529"/>
+<area shape="rect" id="node22" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="1165,281,1327,325"/>
+<area shape="rect" id="node19" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="1408,349,1605,393"/>
+</map>

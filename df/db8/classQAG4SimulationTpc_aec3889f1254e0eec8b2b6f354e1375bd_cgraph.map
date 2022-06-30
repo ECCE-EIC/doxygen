@@ -1,0 +1,51 @@
+<map id="QAG4SimulationTpc::evaluate_clusters" name="QAG4SimulationTpc::evaluate_clusters">
+<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="257,381,395,425"/>
+<area shape="rect" id="node4" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="773,42,972,70"/>
+<area shape="rect" id="node14" href="$d8/d2b/namespaceQAG4Util.html#a6e1e25d78459f9a518ba04b97289f69d" title="angle difference between [&#45;pi, pi[" alt="" coords="249,709,403,737"/>
+<area shape="rect" id="node15" href="$d4/de4/classSvtxTruthEval.html#acba57da6300f3a718d9547ec1c96bb73" title="SvtxTruthEval::get\l_embed" alt="" coords="253,186,399,230"/>
+<area shape="rect" id="node17" href="$df/db8/classQAG4SimulationTpc.html#a3ab682bdec69214929268d7730d67dce" title="common prefix for QA histograms" alt="" coords="243,761,409,805"/>
+<area shape="rect" id="node19" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="243,949,409,977"/>
+<area shape="rect" id="node20" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="263,1001,389,1029"/>
+<area shape="rect" id="node22" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="783,953,963,981"/>
+<area shape="rect" id="node23" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="522,1086,682,1130"/>
+<area shape="rect" id="node27" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="799,1229,946,1257"/>
+<area shape="rect" id="node29" href="$d8/db5/namespaceQAHistManagerDef.html#a95764557eee8578107f3f8cac5a640da" title="Get a pointer to the default hist manager for QA modules." alt="" coords="219,829,433,873"/>
+<area shape="rect" id="node32" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="785,878,961,906"/>
+<area shape="rect" id="node34" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="249,1274,403,1318"/>
+<area shape="rect" id="node35" href="$d7/db0/namespaceTpcDefs.html#a5009e86d9bf74a453e860b3650aac4d4" title="Get the pad index from hitkey." alt="" coords="260,1342,392,1370"/>
+<area shape="rect" id="node36" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="227,1394,425,1438"/>
+<area shape="rect" id="node37" href="$d6/dfa/classTrkrCluster.html#a8bc3c5d7fe1fe62cd729f0e30712d725" title="TrkrCluster::getRPhiError" alt="" coords="231,1462,421,1490"/>
+<area shape="rect" id="node38" href="$d7/db0/namespaceTpcDefs.html#a3ec8638cf9427c7955840853dbd96383" title="Get the time bin from hitkey." alt="" coords="257,1514,395,1542"/>
+<area shape="rect" id="node39" href="$d6/dfa/classTrkrCluster.html#a7be7cdba7b854678e0519288b8021b2a" title="TrkrCluster::getX" alt="" coords="258,1566,394,1594"/>
+<area shape="rect" id="node40" href="$d6/dfa/classTrkrCluster.html#a526ac89c45b903df8890bd8b4d476e5c" title="TrkrCluster::getY" alt="" coords="259,1618,393,1646"/>
+<area shape="rect" id="node41" href="$d6/dfa/classTrkrCluster.html#a7d92784527cb537e382ffa0460e0f728" title="TrkrCluster::getZ" alt="" coords="258,1670,394,1698"/>
+<area shape="rect" id="node42" href="$d6/dfa/classTrkrCluster.html#a73c9bdc559b2906e6cfc942d1bf355ed" title="TrkrCluster::getZError" alt="" coords="241,1722,411,1750"/>
+<area shape="rect" id="node43" href="$d4/de4/classSvtxTruthEval.html#af3301c0ffc7ae211a2a964e5efba970f" title="SvtxTruthEval::is_primary" alt="" coords="229,1774,423,1802"/>
+<area shape="rect" id="node45" href="$d1/d1e/classSvtxClusterEval.html#acc2f398ba46c0ad05ba1426701718529" title="SvtxClusterEval::reco\l_cluster_from_truth_cluster" alt="" coords="223,1206,429,1250"/>
+<area shape="rect" id="node3" href="$d4/de4/classSvtxTruthEval.html#ae7550493b6ee8785fdbae87a4d893f8b" title="SvtxTruthEval::has\l_node_pointers" alt="" coords="799,489,946,533"/>
+<area shape="rect" id="node5" href="$d4/de4/classSvtxTruthEval.html#aadade59ba8c67eb108524b42ef8bda8a" title="SvtxTruthEval::all\l_truth_hits" alt="" coords="533,570,671,614"/>
+<area shape="rect" id="node6" href="$d4/de4/classSvtxTruthEval.html#a6bfd9cc85d5e568a114876331998d84b" title="SvtxTruthEval::LayerCluster\lG4Hits" alt="" coords="497,638,707,682"/>
+<area shape="rect" id="node7" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="519,154,685,182"/>
+<area shape="rect" id="node8" href="$d8/df1/namespaceMvtxDefs.html#a9205343fdba72e5ac8b44946102af8ae" title="Generate a cluster key from indeces." alt="" coords="516,206,688,234"/>
+<area shape="rect" id="node9" href="$d6/d9e/namespaceInttDefs.html#ac29c04abf033fc44815ffb9db43aeea5" title="Generate a cluster key from indeces." alt="" coords="521,258,683,286"/>
+<area shape="rect" id="node10" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="485,310,719,338"/>
+<area shape="rect" id="node11" href="$d2/ddf/namespaceMicromegasDefs.html#a90431bb4a4411b6df97960b30a1ae454" title="Generate a cluster key using a hitsetkey and cluster id." alt="" coords="482,362,722,390"/>
+<area shape="rect" id="node12" href="$d4/de4/classSvtxTruthEval.html#a0b3241441131d063d5be2d480c7891c6" title="SvtxTruthEval::getAdcValue" alt="" coords="498,466,706,494"/>
+<area shape="rect" id="node13" href="$d4/de4/classSvtxTruthEval.html#ade4b494c4cfaa95e70829c37446d9a83" title="SvtxTruthEval::G4ClusterSize" alt="" coords="493,518,711,546"/>
+<area shape="rect" id="node16" href="$dc/d23/classBaseTruthEval.html#a4283b2f124d147df8499373f59372773" title="what was the embed flag set for this particle?" alt="" coords="527,34,677,78"/>
+<area shape="rect" id="node18" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="796,737,949,765"/>
+<area shape="rect" id="node21" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="533,982,671,1010"/>
+<area shape="rect" id="node24" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="787,1125,958,1153"/>
+<area shape="rect" id="node25" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="787,1177,958,1205"/>
+<area shape="rect" id="node26" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="771,1005,975,1049"/>
+<area shape="rect" id="node28" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="837,1073,908,1101"/>
+<area shape="rect" id="node30" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="511,826,693,854"/>
+<area shape="rect" id="node31" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="481,878,723,906"/>
+<area shape="rect" id="node33" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="497,758,707,802"/>
+<area shape="rect" id="node44" href="$dc/d23/classBaseTruthEval.html#a98bebdc989a84ce46fff6fa958476041" title="is this a primary shower?" alt="" coords="503,1774,701,1802"/>
+<area shape="rect" id="node46" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="528,1478,676,1506"/>
+<area shape="rect" id="node47" href="$d1/d1e/classSvtxClusterEval.html#a71bb4c981bdde92138eda3a7db1975b8" title="SvtxClusterEval::get\l_truth_eval" alt="" coords="522,1206,682,1250"/>
+<area shape="rect" id="node48" href="$d4/de4/classSvtxTruthEval.html#a6a789385e323a93d5a156d0b868924ed" title="SvtxTruthEval::get\l_truth_hits_from_truth\l_cluster" alt="" coords="517,1274,687,1334"/>
+<area shape="rect" id="node49" href="$d1/d1e/classSvtxClusterEval.html#a084923c9a81dba1d830b390970ac3c8d" title="SvtxClusterEval::all\l_clusters_from" alt="" coords="526,1358,678,1402"/>
+<area shape="rect" id="node50" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="526,1426,678,1454"/>
+</map>

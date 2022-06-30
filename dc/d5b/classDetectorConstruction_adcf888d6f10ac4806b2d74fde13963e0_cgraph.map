@@ -1,0 +1,18 @@
+<map id="DetectorConstruction::ConstructLine" name="DetectorConstruction::ConstructLine">
+<area shape="rect" id="node2" href="$de/d19/classCellParameterisation.html#aab8f4dab0f73e61261f583c9501ff59b" title="CellParameterisation\l::GetCytoplasmMass" alt="" coords="266,5,427,49"/>
+<area shape="rect" id="node3" href="$de/d19/classCellParameterisation.html#a2d548644fab38c9705ce7c44226560d2" title="CellParameterisation\l::GetNucleusMass" alt="" coords="266,73,427,117"/>
+<area shape="rect" id="node4" href="$de/d19/classCellParameterisation.html#adfb30d6f0adf86cb2b723cbbedba4963" title="CellParameterisation\l::GetPhantomTotalPixels" alt="" coords="254,141,439,185"/>
+<area shape="rect" id="node5" href="$de/d19/classCellParameterisation.html#ab75ce01e5ddc27fd5d7107a11b2b90df" title="CellParameterisation\l::GetPixelSizeX" alt="" coords="266,209,427,253"/>
+<area shape="rect" id="node6" href="$de/d19/classCellParameterisation.html#aad43a8f9e16f5c636116809f9514c87c" title="CellParameterisation\l::GetPixelSizeY" alt="" coords="266,277,427,321"/>
+<area shape="rect" id="node7" href="$de/d19/classCellParameterisation.html#a1f214675f4abc25c09b006791bb08973" title="CellParameterisation\l::GetPixelSizeZ" alt="" coords="266,345,427,389"/>
+<area shape="rect" id="node8" href="$dd/d65/classCLHEP_1_1HepRotation.html#aade1964498bb450b9d90a40977837e67" title="CLHEP::HepRotation\l::rotateX" alt="" coords="268,413,425,457"/>
+<area shape="rect" id="node9" href="$dd/d65/classCLHEP_1_1HepRotation.html#ad3bd2245c819d7d0062c5ad0a49d6fbe" title="CLHEP::HepRotation\l::rotateY" alt="" coords="268,481,425,525"/>
+<area shape="rect" id="node10" href="$dd/d65/classCLHEP_1_1HepRotation.html#ac60c2a08a88c544733d840a166dcb7a8" title="CLHEP::HepRotation\l::rotateZ" alt="" coords="268,549,425,593"/>
+<area shape="rect" id="node11" href="$dc/df1/classG4VisAttributes.html#adb4b1d5cf6a2e6809cec36a791434781" title="G4VisAttributes::SetDaughters\lInvisible" alt="" coords="233,617,461,661"/>
+<area shape="rect" id="node12" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="249,685,444,729"/>
+<area shape="rect" id="node13" href="$dc/d5b/classDetectorConstruction.html#a22d0f8a0e3d5f4721513002b855a69c0" title="DetectorConstruction\l::SetMassCytoplasm" alt="" coords="264,753,429,797"/>
+<area shape="rect" id="node14" href="$dc/d5b/classDetectorConstruction.html#ac904c64fe9903e08e8b7f2b1f0a2f15e" title="DetectorConstruction\l::SetMassNucleus" alt="" coords="264,821,429,865"/>
+<area shape="rect" id="node15" href="$dc/d5b/classDetectorConstruction.html#a8066c775192daef5709fbf1c735034bc" title="DetectorConstruction\l::SetNbOfPixelsInPhantom" alt="" coords="248,889,445,933"/>
+<area shape="rect" id="node16" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="219,957,475,985"/>
+<area shape="rect" id="node17" href="$dc/df1/classG4VisAttributes.html#a2c633b86c23dd2b32229db126885efd6" title="G4VisAttributes::SetVisibility" alt="" coords="239,1009,454,1037"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4PolarizationTransition::SampleGammaTransition" name="G4PolarizationTransition::SampleGammaTransition">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="574,584,685,612"/>
+<area shape="rect" id="node4" href="$d3/dab/classG4PolarizationTransition.html#a274a36b7197bd62f782df2848f7bc66c" title="G4PolarizationTransition\l::DumpTransitionData" alt="" coords="537,464,721,508"/>
+<area shape="rect" id="node5" href="$d3/d0d/classG4LegendrePolynomial.html#a0c358e6be13dd588ace351868d2fbf18" title="G4LegendrePolynomial\l::EvalAssocLegendrePoly" alt="" coords="1126,602,1315,646"/>
+<area shape="rect" id="node7" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1489,824,1555,852"/>
+<area shape="rect" id="node19" href="$d3/dab/classG4PolarizationTransition.html#aa5de87165a907260dc2394ec56ae9fbc" title="G4PolarizationTransition\l::GammaTransF3Coefficient" alt="" coords="253,1064,463,1108"/>
+<area shape="rect" id="node21" href="$d0/d6a/classG4Clebsch.html#a3c8cdaa2c4f014ca7899cc2b9d32aff1" title="G4Clebsch::Wigner3J" alt="" coords="1139,1014,1302,1042"/>
+<area shape="rect" id="node24" href="$d3/dab/classG4PolarizationTransition.html#a89e952dde17c14103c38cb69245d342f" title="G4PolarizationTransition\l::GenerateGammaCosTheta" alt="" coords="253,407,463,451"/>
+<area shape="rect" id="node43" href="$d3/dab/classG4PolarizationTransition.html#acc1d9f1fa884688c3174f4e6fc84b7de" title="G4PolarizationTransition\l::GenerateGammaPhi" alt="" coords="266,708,450,752"/>
+<area shape="rect" id="node44" href="$d3/dab/classG4PolarizationTransition.html#a06dfa82d181c808854f134fa7bde8d1f" title="G4PolarizationTransition\l::LnFactorial" alt="" coords="831,688,1015,732"/>
+<area shape="rect" id="node47" href="$d6/ddf/classG4NuclearPolarization.html#a1fa6937606e58e004dc82b6e6e3bb080" title="G4NuclearPolarization\l::GetPolarization" alt="" coords="273,1132,443,1176"/>
+<area shape="rect" id="node48" href="$d6/ddf/classG4NuclearPolarization.html#ac07ca7850d34f10aec05f719f0bbe76e" title="G4NuclearPolarization\l::SetPolarization" alt="" coords="273,1200,443,1244"/>
+<area shape="rect" id="node50" href="$d6/ddf/classG4NuclearPolarization.html#acf2a74b8fe6c459e17156f94cd5e730a" title="G4NuclearPolarization\l::Unpolarize" alt="" coords="273,1268,443,1312"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="835,584,1011,612"/>
+<area shape="rect" id="node6" href="$de/d0f/classG4Pow.html#ac7061537e33757a8fadc456cbe898a7d" title="G4Pow::factorial" alt="" coords="1457,612,1587,640"/>
+<area shape="rect" id="node11" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1490,560,1554,588"/>
+<area shape="rect" id="node17" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="1443,668,1601,696"/>
+<area shape="rect" id="node18" href="$de/d0f/classG4Pow.html#adc464a1ab0e925e6a191691b4816a599" title="G4Pow::logfactorial" alt="" coords="1446,720,1598,748"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1739,798,1904,826"/>
+<area shape="rect" id="node10" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1727,850,1916,878"/>
+<area shape="rect" id="node9" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1989,798,2177,826"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1725,612,1917,640"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1725,508,1917,536"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1701,560,1941,588"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1989,587,2177,615"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1989,535,2177,563"/>
+<area shape="rect" id="node20" href="$d3/dab/classG4PolarizationTransition.html#ab653343edfb47ff36e860ff6d1109e7c" title="G4PolarizationTransition\l::F3Coefficient" alt="" coords="831,1064,1015,1108"/>
+<area shape="rect" id="node22" href="$d0/d6a/classG4Clebsch.html#affec7d4aa4df1582cf5d487d453e3037" title="G4Clebsch::Wigner9J" alt="" coords="1139,1068,1302,1096"/>
+<area shape="rect" id="node23" href="$da/d0a/CylinderKalman_8cpp.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="1497,971,1547,999"/>
+<area shape="rect" id="node25" href="$d3/dab/classG4PolarizationTransition.html#a7749e74ececa3d6bf1386f91f5cee7db" title="G4PolarizationTransition\l::GammaTransFCoefficient" alt="" coords="529,739,730,783"/>
+<area shape="rect" id="node29" href="$d3/d0d/classG4LegendrePolynomial.html#a2fc0da1efef7bf525b24ec2d6ff28080" title="G4LegendrePolynomial\l::GetCoefficient" alt="" coords="541,276,718,320"/>
+<area shape="rect" id="node30" href="$d3/d0d/classG4LegendrePolynomial.html#aba21660c92aa14f46e237e5449ba7480" title="G4LegendrePolynomial\l::GetNCoefficients" alt="" coords="541,344,718,388"/>
+<area shape="rect" id="node31" href="$df/db0/classG4PolynomialPDF.html#ada52168d2c31ee90b921b1f5c85109cc" title="G4PolynomialPDF::GetRandomX" alt="" coords="511,168,748,196"/>
+<area shape="rect" id="node42" href="$df/db0/classG4PolynomialPDF.html#ab157e8cf8c1e4b0888374d04ed8f5c73" title="G4PolynomialPDF::SetCoefficients" alt="" coords="798,440,1049,468"/>
+<area shape="rect" id="node26" href="$d3/dab/classG4PolarizationTransition.html#abda99669d69b601deee96eb9d157f67d" title="G4PolarizationTransition\l::FCoefficient" alt="" coords="831,756,1015,800"/>
+<area shape="rect" id="node27" href="$d0/d6a/classG4Clebsch.html#a694cc67dddc527ec6cfb4363aa8dc2f7" title="G4Clebsch::Wigner6J" alt="" coords="1139,772,1302,800"/>
+<area shape="rect" id="node28" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1469,772,1575,800"/>
+<area shape="rect" id="node32" href="$df/db0/classG4PolynomialPDF.html#ad9efef6f2df6408e1fb334665def0543" title="G4PolynomialPDF::Normalize" alt="" coords="815,260,1031,288"/>
+<area shape="rect" id="node38" href="$df/db0/classG4PolynomialPDF.html#a6e45a7e35efddbaad5d61d29f838a94b" title="G4PolynomialPDF::HasNegative\lMinimum" alt="" coords="806,79,1041,123"/>
+<area shape="rect" id="node41" href="$df/db0/classG4PolynomialPDF.html#a985b70825edd3f68f2910a4d9fa3bf66" title="G4PolynomialPDF::EvalInverseCDF" alt="" coords="796,162,1051,190"/>
+<area shape="rect" id="node33" href="$df/db0/classG4PolynomialPDF.html#af9a77b896117a053912bbde9eb6dcf88" title="G4PolynomialPDF::GetNCoefficients" alt="" coords="1391,87,1653,115"/>
+<area shape="rect" id="node34" href="$df/db0/classG4PolynomialPDF.html#a04416dccc2319d034e290dec7604bf6d" title="G4PolynomialPDF::GetCoefficient" alt="" coords="1399,191,1645,219"/>
+<area shape="rect" id="node35" href="$df/db0/classG4PolynomialPDF.html#af5385218c2c297fdac01d70ebd3bdadd" title="G4PolynomialPDF::Dump" alt="" coords="1126,191,1315,219"/>
+<area shape="rect" id="node36" href="$df/db0/classG4PolynomialPDF.html#a3a3d70157546a81f875ec99a4290e29d" title="G4PolynomialPDF::SetCoefficient" alt="" coords="1099,396,1343,424"/>
+<area shape="rect" id="node37" href="$df/db0/classG4PolynomialPDF.html#a39c6ce88e1bf0ce1e0e54808d098cf67" title="G4PolynomialPDF::Simplify" alt="" coords="1421,396,1623,424"/>
+<area shape="rect" id="node39" href="$df/db0/classG4PolynomialPDF.html#a27b12865b9896d03e75667996a8566f5" title="G4PolynomialPDF::Evaluate" alt="" coords="1117,35,1325,63"/>
+<area shape="rect" id="node40" href="$df/db0/classG4PolynomialPDF.html#a804e659875fa13d76e80e5a8128a921c" title="G4PolynomialPDF::GetX" alt="" coords="1130,87,1311,115"/>
+<area shape="rect" id="node45" href="$df/d54/airy_8f.html#aa3cb7df6701e87b9c6a8bd76170be9b5" title="phase" alt="" coords="598,859,661,887"/>
+<area shape="rect" id="node46" href="$db/dbb/xmlrole_8cc.html#a62f133652f0a0ae574e6e2fa4110268d" title="common" alt="" coords="883,876,963,904"/>
+<area shape="rect" id="node49" href="$d6/ddf/classG4NuclearPolarization.html#a6661bf2a9c18b6ee4659670bf94863a3" title="G4NuclearPolarization\l::Clean" alt="" coords="544,1234,715,1278"/>
+</map>

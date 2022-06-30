@@ -1,0 +1,44 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/hadronic/Hadr07/src/PhysicsList.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/hadronic/Hadr07/src/PhysicsList.cc">
+<area shape="rect" id="node3" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="3018,137,3179,165"/>
+<area shape="rect" id="node5" href="$d5/dba/G4UnitsTable_8hh.html" title="G4UnitsTable.hh" alt="" coords="252,229,382,257"/>
+<area shape="rect" id="node13" href="$d4/d58/G4HadronPhysicsFTFP__BERT__HP_8hh.html" title="G4HadronPhysicsFTFP\l_BERT_HP.hh" alt="" coords="4654,129,4826,173"/>
+<area shape="rect" id="node17" href="$de/db6/G4HadronPhysicsQGSP__BIC__HP_8hh.html" title="G4HadronPhysicsQGSP\l_BIC_HP.hh" alt="" coords="1982,221,2161,265"/>
+<area shape="rect" id="node34" href="$dc/d9e/G4HadronInelasticQBBC_8hh.html" title="G4HadronInelasticQBBC.hh" alt="" coords="4424,137,4629,165"/>
+<area shape="rect" id="node36" href="$d7/db3/G4HadronPhysicsINCLXX_8hh.html" title="G4HadronPhysicsINCLXX.hh" alt="" coords="4888,229,5098,257"/>
+<area shape="rect" id="node37" href="$df/dbf/G4IonElasticPhysics_8hh.html" title="G4IonElasticPhysics.hh" alt="" coords="3410,229,3586,257"/>
+<area shape="rect" id="node38" href="$d9/d82/G4IonPhysicsXS_8hh.html" title="G4IonPhysicsXS.hh" alt="" coords="3305,137,3454,165"/>
+<area shape="rect" id="node40" href="$d0/d91/G4IonINCLXXPhysics_8hh.html" title="G4IonINCLXXPhysics.hh" alt="" coords="5122,229,5302,257"/>
+<area shape="rect" id="node41" href="$d1/d03/G4StoppingPhysics_8hh.html" title="G4StoppingPhysics.hh" alt="" coords="3611,229,3783,257"/>
+<area shape="rect" id="node44" href="$dd/d2f/G4EmStandardPhysics_8hh.html" title="G4EmStandardPhysics.hh" alt="" coords="3980,229,4174,257"/>
+<area shape="rect" id="node46" href="$d9/d0a/G4EmStandardPhysics__option3_8hh.html" title="G4EmStandardPhysics\l_option3.hh" alt="" coords="4198,221,4372,265"/>
+<area shape="rect" id="node47" href="$d0/dde/G4DecayPhysics_8hh.html" title="G4DecayPhysics.hh" alt="" coords="5326,229,5479,257"/>
+<area shape="rect" id="node49" href="$d3/df8/G4RadioactiveDecayPhysics_8hh.html" title="G4RadioactiveDecayPhysics.hh" alt="" coords="4166,137,4399,165"/>
+<area shape="rect" id="node50" href="$d6/d5b/StepMaxBuilder_8hh.html" title="Definition of the StepMaxBuilder class." alt="" coords="3807,229,3955,257"/>
+<area shape="rect" id="node4" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="6,229,228,257"/>
+<area shape="rect" id="node6" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="3497,389,3588,417"/>
+<area shape="rect" id="node10" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="33,313,174,341"/>
+<area shape="rect" id="node7" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="4618,465,4699,493"/>
+<area shape="rect" id="node14" href="$da/d8d/G4HadronPhysicsFTFP__BERT_8hh.html" title="G4HadronPhysicsFTFP\l_BERT.hh" alt="" coords="4692,221,4864,265"/>
+<area shape="rect" id="node15" href="$d5/dbe/G4VPhysicsConstructor_8hh.html" title="G4VPhysicsConstructor.hh" alt="" coords="4318,313,4516,341"/>
+<area shape="rect" id="node16" href="$d2/d5f/G4Cache_8hh.html" title="G4Cache.hh" alt="" coords="4793,313,4897,341"/>
+<area shape="rect" id="node18" href="$d2/d42/G4PiKBuilder_8hh.html" title="G4PiKBuilder.hh" alt="" coords="847,313,976,341"/>
+<area shape="rect" id="node19" href="$d0/d54/G4FTFPPiKBuilder_8hh.html" title="G4FTFPPiKBuilder.hh" alt="" coords="1897,313,2057,341"/>
+<area shape="rect" id="node20" href="$d1/d41/G4QGSPPiKBuilder_8hh.html" title="G4QGSPPiKBuilder.hh" alt="" coords="2082,313,2248,341"/>
+<area shape="rect" id="node21" href="$d8/d92/G4BertiniPiKBuilder_8hh.html" title="G4BertiniPiKBuilder.hh" alt="" coords="2273,313,2446,341"/>
+<area shape="rect" id="node22" href="$d1/d6b/G4ProtonBuilder_8hh.html" title="G4ProtonBuilder.hh" alt="" coords="1001,313,1153,341"/>
+<area shape="rect" id="node23" href="$dd/d54/G4FTFPProtonBuilder_8hh.html" title="G4FTFPProtonBuilder.hh" alt="" coords="2471,313,2654,341"/>
+<area shape="rect" id="node24" href="$d5/d93/G4QGSPProtonBuilder_8hh.html" title="G4QGSPProtonBuilder.hh" alt="" coords="2678,313,2868,341"/>
+<area shape="rect" id="node25" href="$d4/de0/G4BinaryProtonBuilder_8hh.html" title="G4BinaryProtonBuilder.hh" alt="" coords="2892,313,3086,341"/>
+<area shape="rect" id="node26" href="$d3/dd2/G4NeutronBuilder_8hh.html" title="G4NeutronBuilder.hh" alt="" coords="457,313,620,341"/>
+<area shape="rect" id="node27" href="$db/d35/G4FTFPNeutronBuilder_8hh.html" title="G4FTFPNeutronBuilder.hh" alt="" coords="3111,313,3304,341"/>
+<area shape="rect" id="node28" href="$dc/da2/G4QGSPNeutronBuilder_8hh.html" title="G4QGSPNeutronBuilder.hh" alt="" coords="3329,313,3529,341"/>
+<area shape="rect" id="node29" href="$d6/d51/G4BinaryNeutronBuilder_8hh.html" title="G4BinaryNeutronBuilder.hh" alt="" coords="3553,313,3758,341"/>
+<area shape="rect" id="node30" href="$dc/dbf/G4NeutronPHPBuilder_8hh.html" title="G4NeutronPHPBuilder.hh" alt="" coords="1178,313,1366,341"/>
+<area shape="rect" id="node31" href="$de/da8/G4HyperonFTFPBuilder_8hh.html" title="G4HyperonFTFPBuilder.hh" alt="" coords="1390,313,1588,341"/>
+<area shape="rect" id="node32" href="$d9/de9/G4AntiBarionBuilder_8hh.html" title="G4AntiBarionBuilder.hh" alt="" coords="644,313,822,341"/>
+<area shape="rect" id="node33" href="$d0/d18/G4FTFPAntiBarionBuilder_8hh.html" title="G4FTFPAntiBarionBuilder.hh" alt="" coords="1612,313,1822,341"/>
+<area shape="rect" id="node35" href="$dc/d37/G4VHadronPhysics_8hh.html" title="G4VHadronPhysics.hh" alt="" coords="4446,229,4617,257"/>
+<area shape="rect" id="node39" href="$d2/d9e/G4IonPhysics_8hh.html" title="G4IonPhysics.hh" alt="" coords="3203,229,3335,257"/>
+<area shape="rect" id="node45" href="$de/d98/G4EmParticleList_8hh.html" title="G4EmParticleList.hh" alt="" coords="4087,313,4243,341"/>
+<area shape="rect" id="node48" href="$d8/d1d/G4Decay_8hh.html" title="G4Decay.hh" alt="" coords="5174,313,5276,341"/>
+</map>

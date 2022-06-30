@@ -1,0 +1,25 @@
+var classG4DNABornExcitationModel2 =
+[
+    [ "G4DNABornExcitationModel2", "df/d94/classG4DNABornExcitationModel2.html#a57518c5a653e544a87af5951a5b4f8be", null ],
+    [ "~G4DNABornExcitationModel2", "df/d94/classG4DNABornExcitationModel2.html#ad9bac5ac7099a645ad4fb7bbad8a1906", null ],
+    [ "G4DNABornExcitationModel2", "df/d94/classG4DNABornExcitationModel2.html#acb9d1c6e2d3281d2228752b3c34f4c01", null ],
+    [ "CrossSectionPerVolume", "df/d94/classG4DNABornExcitationModel2.html#a00c460be6d7c413342857366a6fb958d", null ],
+    [ "GetPartialCrossSection", "df/d94/classG4DNABornExcitationModel2.html#ad3a6df854ea54c1b67d36e3d94ec7016", null ],
+    [ "Initialise", "df/d94/classG4DNABornExcitationModel2.html#a9a9ba0dec33824c86f3bcd9678ee394a", null ],
+    [ "operator=", "df/d94/classG4DNABornExcitationModel2.html#a61d2cb26ad7cb38dc0b45f321d450878", null ],
+    [ "RandomSelect", "df/d94/classG4DNABornExcitationModel2.html#ad7edd5145627287c51f2157263d912e1", null ],
+    [ "SampleSecondaries", "df/d94/classG4DNABornExcitationModel2.html#a53957fd3ccf0f54c6a595fc61608bffa", null ],
+    [ "SelectStationary", "df/d94/classG4DNABornExcitationModel2.html#a209777f2935fbee7a2c8c1f1befca5ae", null ],
+    [ "fHighEnergy", "df/d94/classG4DNABornExcitationModel2.html#ab4fc6562844a3a64050eb78ce91c4df9", null ],
+    [ "fLastBinCallForFinalXS", "df/d94/classG4DNABornExcitationModel2.html#aa349c45020dbaf7a4aec8e308a6cb99f", null ],
+    [ "fLowEnergy", "df/d94/classG4DNABornExcitationModel2.html#a740f8bd0eacf455df2f754c445ade14d", null ],
+    [ "fParticleChangeForGamma", "df/d94/classG4DNABornExcitationModel2.html#a1aec37d041b8f679de23138290fd662e", null ],
+    [ "fParticleDefinition", "df/d94/classG4DNABornExcitationModel2.html#a6b9cec2516e8e46832ba4f037204dd5e", null ],
+    [ "fpMolWaterDensity", "df/d94/classG4DNABornExcitationModel2.html#a1c1c0d3ff940987ee0f2e2cc4e79c417", null ],
+    [ "fTableData", "df/d94/classG4DNABornExcitationModel2.html#a1dfdff3098d13c333946a606032b099a", null ],
+    [ "fTotalXS", "df/d94/classG4DNABornExcitationModel2.html#a7cea62f1f7c62e5695ec87d0bf18cf35", null ],
+    [ "isInitialised", "df/d94/classG4DNABornExcitationModel2.html#af437375eba7276b52056ab98c0bfed7a", null ],
+    [ "statCode", "df/d94/classG4DNABornExcitationModel2.html#af47186901d0dc93969e66dcde886e701", null ],
+    [ "verboseLevel", "df/d94/classG4DNABornExcitationModel2.html#a76a79f71ee87da1d5b7c79489f282d3d", null ],
+    [ "waterStructure", "df/d94/classG4DNABornExcitationModel2.html#adb348ac79922c603be80308964ce6967", null ]
+];

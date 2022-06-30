@@ -1,0 +1,51 @@
+<map id="G4NeutronElasticXS::SelectIsotope" name="G4NeutronElasticXS::SelectIsotope">
+<area shape="rect" id="node2" href="$de/d80/classG4Element.html#a234032e9239515c70a4637535cbe46ed" title="G4Element::GetIsotope" alt="" coords="262,96,441,124"/>
+<area shape="rect" id="node3" href="$d8/d66/classG4Isotope.html#ab76a4582cdd212ce4ccda3b5d373a21b" title="G4Isotope::GetN" alt="" coords="285,148,417,176"/>
+<area shape="rect" id="node4" href="$de/d80/classG4Element.html#afd864bfd58f9662117da4454342e5036" title="G4Element::GetNaturalAbundanceFlag" alt="" coords="209,200,493,228"/>
+<area shape="rect" id="node5" href="$de/d80/classG4Element.html#a8db620c908d7ef03465ebcd094d9af1a" title="G4Element::GetNumberOfIsotopes" alt="" coords="223,252,479,280"/>
+<area shape="rect" id="node6" href="$de/d80/classG4Element.html#a53f6ad00e10dbc5aeb9eb8020bc7fb51" title="G4Element::GetRelativeAbundance\lVector" alt="" coords="221,304,481,348"/>
+<area shape="rect" id="node7" href="$de/d80/classG4Element.html#ac5960b7377f4d3b3aefd1e5c9aad601c" title="G4Element::GetZasInt" alt="" coords="265,372,437,400"/>
+<area shape="rect" id="node8" href="$d9/d86/classG4NeutronElasticXS.html#a64da0b372e1dd57ae287a4c69bb16489" title="G4NeutronElasticXS\l::IsoCrossSection" alt="" coords="273,424,429,468"/>
+<area shape="rect" id="node9" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#a8dec4ddbbf16faad56b3691cd534596d" title="G4ComponentGGHadronNucleus\lXsc::GetElasticElementCrossSection" alt="" coords="1153,389,1417,433"/>
+<area shape="rect" id="node44" href="$d9/d86/classG4NeutronElasticXS.html#a35df54c37b20f1515603ec8f894f713f" title="G4NeutronElasticXS\l::GetPhysicsVector" alt="" coords="541,453,697,497"/>
+<area shape="rect" id="node10" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#a21fa13b5ac1739731917980b39f09555" title="G4ComponentGGHadronNucleus\lXsc::ComputeCrossSections" alt="" coords="1465,333,1708,377"/>
+<area shape="rect" id="node43" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="1553,401,1621,429"/>
+<area shape="rect" id="node11" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1858,5,1897,33"/>
+<area shape="rect" id="node12" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="2856,289,2920,317"/>
+<area shape="rect" id="node18" href="$d8/d11/classG4HadronNucleonXsc.html#a3c05cc0ac75881bb4d561ea3f6412195" title="G4HadronNucleonXsc\l::GetInelasticHadronNucleonXsc" alt="" coords="1758,163,1997,207"/>
+<area shape="rect" id="node19" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#ab05f45be8da098a68a967aee10caecac" title="G4ComponentGGHadronNucleus\lXsc::GetParticleBarCorIn" alt="" coords="1756,231,1999,275"/>
+<area shape="rect" id="node20" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#a2ef90f477bcd7e2efbb82d8366c06ec5" title="G4ComponentGGHadronNucleus\lXsc::GetParticleBarCorTot" alt="" coords="1756,299,1999,343"/>
+<area shape="rect" id="node21" href="$d8/d11/classG4HadronNucleonXsc.html#a5458424d3d9df10269375d5c86a77142" title="G4HadronNucleonXsc\l::HadronNucleonXsc" alt="" coords="1793,367,1961,411"/>
+<area shape="rect" id="node36" href="$d8/d11/classG4HadronNucleonXsc.html#a3e231f2b05951a61afc0cae5a1b44111" title="G4HadronNucleonXsc\l::KaonNucleonXscNS" alt="" coords="2062,468,2230,512"/>
+<area shape="rect" id="node38" href="$d8/d11/classG4HadronNucleonXsc.html#a34e5aeb977ed4a3a3441e85f8fbdca1c" title="G4HadronNucleonXsc\l::KaonNucleonXscGG" alt="" coords="2062,549,2230,593"/>
+<area shape="rect" id="node40" href="$da/d31/classG4NuclearRadii.html#a8bca606ec634712868800bc17dd0fa5c" title="G4NuclearRadii::RadiusHNGG" alt="" coords="1767,791,1988,819"/>
+<area shape="rect" id="node42" href="$da/d31/classG4NuclearRadii.html#a933781b6534117ef93362583b685f9dc" title="G4NuclearRadii::RadiusKNGG" alt="" coords="1767,843,1987,871"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="3044,237,3236,265"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="3044,289,3236,317"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="3020,341,3260,369"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="3308,316,3496,344"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="3308,368,3496,396"/>
+<area shape="rect" id="node22" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="2833,135,2943,163"/>
+<area shape="rect" id="node24" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="2069,212,2223,256"/>
+<area shape="rect" id="node25" href="$d8/d11/classG4HadronNucleonXsc.html#ada586cdf16615e04e03b275dc8c18970" title="G4HadronNucleonXsc\l::HadronNucleonXscNS" alt="" coords="2293,393,2471,437"/>
+<area shape="rect" id="node35" href="$d8/d11/classG4HadronNucleonXsc.html#abba620de1c8a7d7ef305cd04f31f67a6" title="G4HadronNucleonXsc\l::HyperonNucleonXscNS" alt="" coords="2053,332,2239,376"/>
+<area shape="rect" id="node37" href="$d8/d11/classG4HadronNucleonXsc.html#a3fe3e7ecc13a5fc3b41713127a8a08fa" title="G4HadronNucleonXsc\l::SCBMesonNucleonXscNS" alt="" coords="2047,400,2245,444"/>
+<area shape="rect" id="node23" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="3052,135,3228,163"/>
+<area shape="rect" id="node26" href="$d8/d11/classG4HadronNucleonXsc.html#a71755ef86684a45cddf5f4cc05039001" title="G4HadronNucleonXsc\l::CalcMandelstamS" alt="" coords="2804,391,2972,435"/>
+<area shape="rect" id="node27" href="$da/d31/classG4NuclearRadii.html#a41203d3941108839d827c4006fca9dca" title="G4NuclearRadii::CoulombFactor" alt="" coords="2519,587,2756,615"/>
+<area shape="rect" id="node28" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="2811,463,2965,507"/>
+<area shape="rect" id="node29" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="2811,540,2965,584"/>
+<area shape="rect" id="node30" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="2855,689,2921,717"/>
+<area shape="rect" id="node33" href="$d8/d11/classG4HadronNucleonXsc.html#ad1907fb209262062b0c2b991eeeef4b5" title="G4HadronNucleonXsc\l::HadronNucleonXscPDG" alt="" coords="2544,416,2731,460"/>
+<area shape="rect" id="node34" href="$de/d0f/classG4Pow.html#a4c49b51d1c8cab85591ee899190d073f" title="G4Pow::powN" alt="" coords="2581,160,2694,188"/>
+<area shape="rect" id="node31" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="3057,663,3223,691"/>
+<area shape="rect" id="node32" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="3045,715,3235,743"/>
+<area shape="rect" id="node39" href="$d8/d11/classG4HadronNucleonXsc.html#a71a24cc268035d6bb87c5e02cfab0912" title="G4HadronNucleonXsc\l::KaonNucleonXscVG" alt="" coords="2298,564,2466,608"/>
+<area shape="rect" id="node41" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="2095,843,2197,871"/>
+<area shape="rect" id="node45" href="$d9/d86/classG4NeutronElasticXS.html#a030ce6827c90078f44eeee489cd49d42" title="G4NeutronElasticXS\l::InitialiseOnFly" alt="" coords="745,457,901,501"/>
+<area shape="rect" id="node46" href="$d9/d86/classG4NeutronElasticXS.html#ac88e4bf57591e8e1ae20e2bd47881da5" title="G4NeutronElasticXS\l::Initialise" alt="" coords="949,457,1105,501"/>
+<area shape="rect" id="node47" href="$d9/d86/classG4NeutronElasticXS.html#a4808d9409c73b5c6e59dd8f58a6f1e3b" title="G4NeutronElasticXS\l::FindDirectoryPath" alt="" coords="1207,525,1363,569"/>
+<area shape="rect" id="node48" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1533,563,1640,591"/>
+<area shape="rect" id="node49" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="1183,457,1388,501"/>
+<area shape="rect" id="node50" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="1501,457,1672,501"/>
+</map>

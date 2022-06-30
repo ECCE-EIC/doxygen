@@ -1,0 +1,26 @@
+<map id="G4VEmProcess::MeanFreePath" name="G4VEmProcess::MeanFreePath">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#a208306f526c21ee6fdfce3be0db5d5da" title="G4VEmProcess::CurrentSetup" alt="" coords="279,156,500,184"/>
+<area shape="rect" id="node11" href="$d0/dfb/classG4VEmProcess.html#a87130db0a9a90f12bcda2231395fce39" title="G4VEmProcess::GetCurrent\lLambda" alt="" coords="286,319,493,363"/>
+<area shape="rect" id="node22" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="281,387,498,415"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="288,439,491,467"/>
+<area shape="rect" id="node24" href="$d7/d5c/classG4DynamicParticle.html#afa8da8f9376eae2b46b93604e1769906" title="G4DynamicParticle::\lGetLogKineticEnergy" alt="" coords="308,491,471,535"/>
+<area shape="rect" id="node25" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="293,559,486,603"/>
+<area shape="rect" id="node3" href="$d0/dfb/classG4VEmProcess.html#a02c303b40eb630a817a61b449b399551" title="G4VEmProcess::DefineMaterial" alt="" coords="845,156,1075,184"/>
+<area shape="rect" id="node7" href="$d0/dfb/classG4VEmProcess.html#a99ba44db455864ba9c13bae1d16a55d0" title="G4VEmProcess::SelectModel" alt="" coords="563,104,777,132"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="1151,57,1367,85"/>
+<area shape="rect" id="node5" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1173,109,1345,153"/>
+<area shape="rect" id="node6" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1173,177,1345,221"/>
+<area shape="rect" id="node8" href="$dd/de5/classG4EmModelManager.html#a9965149654139effd46726e430259eea" title="G4EmModelManager::Select\lModel" alt="" coords="853,11,1067,55"/>
+<area shape="rect" id="node10" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="840,104,1080,132"/>
+<area shape="rect" id="node9" href="$db/d1d/classG4RegionModels.html#aeaf4199cf301551c74389e9fd4208733" title="G4RegionModels::SelectIndex" alt="" coords="1147,5,1370,33"/>
+<area shape="rect" id="node12" href="$d0/dfb/classG4VEmProcess.html#aeb24def381f1ad0ee1ee39ce6bddef48" title="G4VEmProcess::ComputeCurrent\lLambda" alt="" coords="548,284,792,328"/>
+<area shape="rect" id="node20" href="$d0/dfb/classG4VEmProcess.html#a7088126d5b9cab3f1f7cd8cc91eec68e" title="G4VEmProcess::GetLambdaFrom\lTable" alt="" coords="549,352,791,396"/>
+<area shape="rect" id="node21" href="$d0/dfb/classG4VEmProcess.html#a9424c28f0cb70c8338ee38c08a8f6678" title="G4VEmProcess::GetLambdaFrom\lTablePrim" alt="" coords="549,420,791,464"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="856,373,1064,417"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="1149,245,1369,289"/>
+<area shape="rect" id="node15" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1181,313,1336,357"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="1166,381,1351,409"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1128,433,1389,461"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="1144,485,1373,529"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="1141,553,1377,581"/>
+</map>

@@ -1,0 +1,26 @@
+var classG4AdjointhIonisationModel =
+[
+    [ "G4AdjointhIonisationModel", "d5/d26/classG4AdjointhIonisationModel.html#a21799e49533b6363b1626f3c9a5de41a", null ],
+    [ "~G4AdjointhIonisationModel", "d5/d26/classG4AdjointhIonisationModel.html#a343465d787b10bd7582b08e114c0cab9", null ],
+    [ "AdjointCrossSection", "d5/d26/classG4AdjointhIonisationModel.html#aa1e69e0521f78510e35e807e2b063a2f", null ],
+    [ "DefineProjectileProperty", "d5/d26/classG4AdjointhIonisationModel.html#a3dd6013d5464c2a7803231eb9285a2d0", null ],
+    [ "DiffCrossSectionPerAtomPrimToSecond", "d5/d26/classG4AdjointhIonisationModel.html#aa97376dad1902a94d3e7fd81f940b98e", null ],
+    [ "GetSecondAdjEnergyMaxForProdToProjCase", "d5/d26/classG4AdjointhIonisationModel.html#ab479d127ce788a9dc6c4be52743ec9b3", null ],
+    [ "GetSecondAdjEnergyMaxForScatProjToProjCase", "d5/d26/classG4AdjointhIonisationModel.html#a0a0b3eb9c2d5fe6838caf8b0eec82c02", null ],
+    [ "GetSecondAdjEnergyMinForProdToProjCase", "d5/d26/classG4AdjointhIonisationModel.html#a4d5d3b7c253c3a2506ae2606100af221", null ],
+    [ "GetSecondAdjEnergyMinForScatProjToProjCase", "d5/d26/classG4AdjointhIonisationModel.html#a7131fb4e366b8bd59a0280e9c7582b85", null ],
+    [ "RapidSampleSecondaries", "d5/d26/classG4AdjointhIonisationModel.html#ae8d835e8e051846bfc8e3210388cac17", null ],
+    [ "SampleSecondaries", "d5/d26/classG4AdjointhIonisationModel.html#aadcb5e8f9bf972793dc8e6c7c2e2bd25", null ],
+    [ "chargeSquare", "d5/d26/classG4AdjointhIonisationModel.html#a08493343f6d75234b489d30e02fc6513", null ],
+    [ "formfact", "d5/d26/classG4AdjointhIonisationModel.html#a2934b3906e9adcb5772bee0683ef4e1f", null ],
+    [ "isIon", "d5/d26/classG4AdjointhIonisationModel.html#a30aad0eb5f51353a1f37a661d40d5833", null ],
+    [ "magMoment2", "d5/d26/classG4AdjointhIonisationModel.html#aa76e3dcf476daa79972d188e34e69d88", null ],
+    [ "mass", "d5/d26/classG4AdjointhIonisationModel.html#aee320a6ebe92cbe538f2fc4a07f98f38", null ],
+    [ "one_minus_ratio_2", "d5/d26/classG4AdjointhIonisationModel.html#afcc471deed7334ce613e67b437f3ee6f", null ],
+    [ "one_plus_ratio_2", "d5/d26/classG4AdjointhIonisationModel.html#ad73bfbfa45462c2c097aeabef0af3a32", null ],
+    [ "ratio", "d5/d26/classG4AdjointhIonisationModel.html#a42147f7f1ce67fd64b657d5193663ff5", null ],
+    [ "ratio2", "d5/d26/classG4AdjointhIonisationModel.html#a4210339c7146bd56a77be00ec15536cc", null ],
+    [ "spin", "d5/d26/classG4AdjointhIonisationModel.html#a002f7a764e552c27ad204828a154ef93", null ],
+    [ "theBraggDirectEMModel", "d5/d26/classG4AdjointhIonisationModel.html#ab8c524998906ed6895d34bdf6ff8dd0b", null ],
+    [ "tlimit", "d5/d26/classG4AdjointhIonisationModel.html#a8aff9d8d494545460489d845cc1b3250", null ]
+];

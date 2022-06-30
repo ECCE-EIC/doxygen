@@ -1,0 +1,44 @@
+<map id="GammaRayTelDigitizer" name="GammaRayTelDigitizer">
+<area shape="rect" id="node49" href="$d4/da6/classGammaRayTelDigitizerMessenger.html" title="GammaRayTelDigitizerMessenger" alt="" coords="5184,1063,5433,1091"/>
+<area shape="rect" id="node2" href="$db/d5c/classG4VDigitizerModule.html" title="G4VDigitizerModule" alt="" coords="4527,1195,4681,1223"/>
+<area shape="rect" id="node8" href="$d3/d78/classG4DCtable.html" title="G4DCtable" alt="" coords="2417,1558,2512,1586"/>
+<area shape="rect" id="node11" href="$de/dd7/classG4HCtable.html" title="G4HCtable" alt="" coords="2417,1501,2512,1529"/>
+<area shape="rect" id="node15" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="1418,506,1539,534"/>
+<area shape="rect" id="node4" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="336,1621,416,1649"/>
+<area shape="rect" id="node13" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="987,845,1118,873"/>
+<area shape="rect" id="node19" href="$d3/df5/structG4UItokenNum_1_1yystype.html" title="G4UItokenNum::yystype" alt="" coords="575,503,760,531"/>
+<area shape="rect" id="node24" href="$d1/d43/classG4SDStructure.html" title="G4SDStructure" alt="" coords="786,1127,907,1155"/>
+<area shape="rect" id="node25" href="$d4/daa/classG4RunManager.html" title="G4RunManager" alt="" coords="3960,1597,4087,1625"/>
+<area shape="rect" id="node26" href="$d5/de2/classG4Event.html" title="G4Event" alt="" coords="2768,1421,2848,1449"/>
+<area shape="rect" id="node32" href="$d7/dcf/classG4RunMessenger.html" title="G4RunMessenger" alt="" coords="4237,693,4377,721"/>
+<area shape="rect" id="node34" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="3080,2189,3235,2217"/>
+<area shape="rect" id="node35" href="$d5/d8b/classG4VUserPhysicsList.html" title="G4VUserPhysicsList" alt="" coords="3080,2073,3235,2101"/>
+<area shape="rect" id="node36" href="$d2/d10/classG4Run.html" title="G4Run" alt="" coords="2775,1533,2841,1561"/>
+<area shape="rect" id="node39" href="$da/d44/classG4EventManager.html" title="G4EventManager" alt="" coords="3088,1655,3227,1683"/>
+<area shape="rect" id="node43" href="$de/d51/classG4RunManagerKernel.html" title="G4RunManagerKernel" alt="" coords="3492,2178,3660,2206"/>
+<area shape="rect" id="node48" href="$d5/d1f/classG4VDigiCollection.html" title="G4VDigiCollection" alt="" coords="596,2397,739,2425"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="197,1621,287,1649"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="5,1613,148,1657"/>
+<area shape="rect" id="node7" href="$d1/d3f/classG4DigiManager.html" title="G4DigiManager" alt="" coords="4244,1115,4371,1143"/>
+<area shape="rect" id="node45" href="$d9/dbc/classG4DMmessenger.html" title="G4DMmessenger" alt="" coords="4535,874,4673,902"/>
+<area shape="rect" id="node10" href="$d9/d6b/classG4SDManager.html" title="G4SDManager" alt="" coords="2748,878,2868,906"/>
+<area shape="rect" id="node12" href="$df/d5c/classG4SDmessenger.html" title="G4SDmessenger" alt="" coords="2397,723,2532,751"/>
+<area shape="rect" id="node14" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="1922,782,2037,810"/>
+<area shape="rect" id="node20" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="1889,573,2070,601"/>
+<area shape="rect" id="node21" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="1898,450,2061,478"/>
+<area shape="rect" id="node22" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="1876,351,2083,379"/>
+<area shape="rect" id="node50" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html" title="G4UIcmdWithADoubleAndUnit" alt="" coords="2107,15,2333,43"/>
+<area shape="rect" id="node27" href="$dd/d05/classG4UserRunAction.html" title="G4UserRunAction" alt="" coords="3507,1171,3645,1199"/>
+<area shape="rect" id="node28" href="$d4/d9f/classG4UserTrackingAction.html" title="G4UserTrackingAction" alt="" coords="2723,1887,2893,1915"/>
+<area shape="rect" id="node29" href="$d1/df4/classG4UserWorkerThreadInitialization.html" title="G4UserWorkerThreadInitialization" alt="" coords="3452,1223,3700,1251"/>
+<area shape="rect" id="node31" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="2721,1771,2895,1799"/>
+<area shape="rect" id="node33" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html" title="G4VUserPrimaryGeneratorAction" alt="" coords="3455,1275,3697,1303"/>
+<area shape="rect" id="node37" href="$da/d4f/classG4Timer.html" title="G4Timer" alt="" coords="3536,1327,3616,1355"/>
+<area shape="rect" id="node38" href="$de/d75/classG4UserEventAction.html" title="G4UserEventAction" alt="" coords="3500,1597,3652,1625"/>
+<area shape="rect" id="node40" href="$d9/d8c/classG4UserStackingAction.html" title="G4UserStackingAction" alt="" coords="2723,1601,2893,1629"/>
+<area shape="rect" id="node41" href="$d9/de6/classG4UserWorkerInitialization.html" title="G4UserWorkerInitialization" alt="" coords="3475,1765,3677,1793"/>
+<area shape="rect" id="node42" href="$d0/d77/classG4VUserActionInitialization.html" title="G4VUserActionInitialization" alt="" coords="3473,1817,3679,1845"/>
+<area shape="rect" id="node44" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="3464,1869,3688,1897"/>
+<area shape="rect" id="node46" href="$dd/ddb/classG4TDigiCollection.html" title="G4TDigiCollection\&lt; T \&gt;" alt="" coords="1648,2397,1828,2425"/>
+<area shape="rect" id="node47" href="$d0/d24/classG4DigiCollection.html" title="G4DigiCollection" alt="" coords="986,2397,1119,2425"/>
+</map>

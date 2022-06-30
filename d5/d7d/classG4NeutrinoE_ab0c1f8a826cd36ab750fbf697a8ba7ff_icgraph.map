@@ -1,0 +1,38 @@
+<map id="G4NeutrinoE::Definition" name="G4NeutrinoE::Definition">
+<area shape="rect" id="node2" href="$d2/d5e/classG4InuclElementaryParticle.html#a0800b546dac0295a975e602d932b5032" title="G4InuclElementaryParticle\l::makeDefinition" alt="" coords="259,116,459,160"/>
+<area shape="rect" id="node3" href="$d5/d7d/classG4NeutrinoE.html#ad9275568fc7c8b8a5c1afb7d17364d09" title="G4NeutrinoE::NeutrinoE" alt="" coords="267,184,450,212"/>
+<area shape="rect" id="node8" href="$d5/d7d/classG4NeutrinoE.html#a9140b887775a9284f2f3599f76316cc8" title="G4NeutrinoE::NeutrinoEDefinition" alt="" coords="235,492,483,520"/>
+<area shape="rect" id="node37" href="$d2/d5e/classG4InuclElementaryParticle.html#a975509a3a0676037e3d904d4e17ee9b5" title="G4InuclElementaryParticle\l::type" alt="" coords="259,544,459,588"/>
+<area shape="rect" id="node4" href="$d3/d1e/classB3StackingAction.html#a71555ca3e81c03f22219bc81681a60dd" title="B3StackingAction::Classify\lNewTrack" alt="" coords="541,5,743,49"/>
+<area shape="rect" id="node5" href="$d1/de1/classG4EmExtraPhysics.html#a3af2fe0c708b8a30f445c4f319a4254b" title="G4EmExtraPhysics::Construct\lParticle" alt="" coords="531,73,753,117"/>
+<area shape="rect" id="node6" href="$d1/de1/classG4EmExtraPhysics.html#a4c48942d6b9e2da0cae97c76babdabf9" title="G4EmExtraPhysics::Construct\lProcess" alt="" coords="531,141,753,185"/>
+<area shape="rect" id="node7" href="$dc/d3c/classG4NeutrinoElectronCcModel.html#af44d50a694515f02c911b8fb516ed44c" title="G4NeutrinoElectronCcModel\l::G4NeutrinoElectronCcModel" alt="" coords="532,209,752,253"/>
+<area shape="rect" id="node9" href="$d2/daa/classPhysicsList.html#af7906507122c985d2da3e61c56efe60e" title="PhysicsList::ConstructParticle" alt="" coords="533,277,751,305"/>
+<area shape="rect" id="node10" href="$de/d1d/classGammaKnifeParticles.html#abdcbefce2959e072d239b17f39560643" title="GammaKnifeParticles\l::ConstructParticle" alt="" coords="1093,321,1260,365"/>
+<area shape="rect" id="node11" href="$de/d5e/classDMXPhysicsList.html#a49de5fe1cc2bd981079bb62885c195a1" title="DMXPhysicsList::Construct\lMyLeptons" alt="" coords="542,381,742,425"/>
+<area shape="rect" id="node13" href="$d8/d26/classXrayFluoPhysicsList.html#af1e34a2dfd3c81c559b0db448de9deb6" title="XrayFluoPhysicsList\l::ConstructParticle" alt="" coords="565,449,719,493"/>
+<area shape="rect" id="node14" href="$d0/d9b/classXrayTelPhysicsList.html#ae4f7f4a99a891ab77d86f09356a774dc" title="XrayTelPhysicsList\l::ConstructLeptons" alt="" coords="568,517,716,561"/>
+<area shape="rect" id="node16" href="$d4/dd5/classG4AdjointPhysicsList.html#acc801368fbdc1947f4c72e668bc57784" title="G4AdjointPhysicsList\l::ConstructLeptons" alt="" coords="561,585,723,629"/>
+<area shape="rect" id="node18" href="$dc/dd7/classExN02PhysicsList.html#a884cfffe5bfb27fa137cb7356a983caa" title="ExN02PhysicsList::Construct\lLeptons" alt="" coords="535,653,749,697"/>
+<area shape="rect" id="node20" href="$d5/d43/classG4LeptonConstructor.html#a722fb44578ed86c4ff452f750509dda9" title="G4LeptonConstructor\l::ConstructELeptons" alt="" coords="559,721,725,765"/>
+<area shape="rect" id="node35" href="$d1/d3b/classG4SpinDecayPhysics.html#ab507c4f1e74e9d143fa2005036e1944f" title="G4SpinDecayPhysics\l::ConstructParticle" alt="" coords="561,789,723,833"/>
+<area shape="rect" id="node36" href="$d4/d5a/classLBE.html#ae725acdc5885d43dc8e8cbabc25d1656" title="LBE::ConstructMyLeptons" alt="" coords="811,1016,1005,1044"/>
+<area shape="rect" id="node12" href="$de/d5e/classDMXPhysicsList.html#a7cb54df62c3efc03698cc986d8af3c7a" title="DMXPhysicsList::Construct\lParticle" alt="" coords="808,381,1008,425"/>
+<area shape="rect" id="node15" href="$d0/d9b/classXrayTelPhysicsList.html#a1968e904024068ac6c265a708c1726d1" title="XrayTelPhysicsList\l::ConstructParticle" alt="" coords="835,517,981,561"/>
+<area shape="rect" id="node17" href="$d4/dd5/classG4AdjointPhysicsList.html#a05249dac715c992fd2cc522a6621f6c7" title="G4AdjointPhysicsList\l::ConstructParticle" alt="" coords="827,585,989,629"/>
+<area shape="rect" id="node19" href="$dc/dd7/classExN02PhysicsList.html#aa89f3ddb7b66f12ebe41878116881503" title="ExN02PhysicsList::Construct\lParticle" alt="" coords="801,653,1015,697"/>
+<area shape="rect" id="node21" href="$d5/d43/classG4LeptonConstructor.html#aad754e44135189ff2d18809ae8315f8f" title="G4LeptonConstructor\l::ConstructParticle" alt="" coords="825,721,991,765"/>
+<area shape="rect" id="node22" href="$d4/d90/classB03PhysicsList.html#a3dd34a581364b88cc16eed31458448f0" title="B03PhysicsList::Construct\lAllLeptons" alt="" coords="1079,389,1275,433"/>
+<area shape="rect" id="node24" href="$d2/d49/classPar02PhysicsList.html#a650121e242ec9185a3b6e342806fd8df" title="Constructs all leptons." alt="" coords="1073,457,1281,501"/>
+<area shape="rect" id="node26" href="$df/d95/classEICPhysicsList.html#a21f647e804de94e5391a97f525e89944" title="EICPhysicsList::Construct\lParticle" alt="" coords="1081,525,1272,569"/>
+<area shape="rect" id="node27" href="$dc/dd9/classHadrontherapyParticles.html#a9648fdebb8c5e1f6db8d29f5f9f508dc" title="HadrontherapyParticles\l::ConstructParticle" alt="" coords="1087,593,1267,637"/>
+<area shape="rect" id="node28" href="$db/db6/classG4ChannelingPhysics.html#a1739cc5b63fb552ec3966f1d072701d1" title="G4ChannelingPhysics\l::ConstructParticle" alt="" coords="1093,661,1261,705"/>
+<area shape="rect" id="node29" href="$da/da1/classGammaRayTelParticles.html#a5afdb760c111fce90b0c98b2745b1817" title="GammaRayTelParticles\l::ConstructParticle" alt="" coords="1089,729,1264,773"/>
+<area shape="rect" id="node30" href="$de/d20/classParticles.html#aed880c43efffcdd5dfe505f18ae506ce" title="Particles::ConstructParticle" alt="" coords="1076,797,1277,825"/>
+<area shape="rect" id="node31" href="$d9/d5f/classG4DecayPhysics.html#a0853458914af3c40b44fe3d888d31324" title="G4DecayPhysics::Construct\lParticle" alt="" coords="1073,849,1281,893"/>
+<area shape="rect" id="node32" href="$d7/d60/classG4StoppingPhysicsFritiofWithBinaryCascade.html#a0db1f41f5750b2e912cc6c4cfd571a89" title="G4StoppingPhysicsFritiof\lWithBinaryCascade::Construct\lParticle" alt="" coords="1063,917,1291,977"/>
+<area shape="rect" id="node33" href="$d1/de4/classG4StoppingPhysics.html#ac0826235eab4aed123da5a84ca88f629" title="G4StoppingPhysics::\lConstructParticle" alt="" coords="1097,1001,1256,1045"/>
+<area shape="rect" id="node23" href="$d4/d90/classB03PhysicsList.html#a4eba1b1b48c5c42796b2563954e87fb7" title="B03PhysicsList::Construct\lParticle" alt="" coords="1345,389,1541,433"/>
+<area shape="rect" id="node25" href="$d2/d49/classPar02PhysicsList.html#ab6b8e1508d000d4b33efe831a01ac3d6" title="Constructs particles: bosons, leptons, mesons, baryons and ions." alt="" coords="1339,457,1547,501"/>
+<area shape="rect" id="node34" href="$d4/d5a/classLBE.html#a060061f994ecb3f03bb6cc3a046d4eb3" title="LBE::ConstructParticle" alt="" coords="1357,1039,1528,1067"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G4VisCommandSceneEndOfEventAction::SetNewValue" name="G4VisCommandSceneEndOfEventAction::SetNewValue">
+<area shape="rect" id="node2" href="$d4/daa/classG4RunManager.html#a19914f799506d46e9a04199f7099a42c" title="G4RunManager::GetCurrentRun" alt="" coords="310,5,545,33"/>
+<area shape="rect" id="node3" href="$d0/d0d/classG4VisManager.html#a0af953e1209da433fd6220db096f0602" title="G4VisManager::GetCurrent\lScene" alt="" coords="326,57,529,101"/>
+<area shape="rect" id="node4" href="$d0/d0d/classG4VisManager.html#a55e6f8f42c587e22e2ea29e231221a36" title="G4VisManager::GetCurrent\lSceneHandler" alt="" coords="326,125,529,169"/>
+<area shape="rect" id="node5" href="$d2/d10/classG4Run.html#a48a04aca4d8fc254cf20210d5382753e" title="G4Run::GetEventVector" alt="" coords="337,193,518,221"/>
+<area shape="rect" id="node6" href="$de/d16/classG4MTRunManager.html#ab4c4f53820e73b76b57ec49c76810b19" title="G4MTRunManager::GetMaster\lRunManager" alt="" coords="315,245,540,289"/>
+<area shape="rect" id="node7" href="$d9/d52/classG4Scene.html#a6a8e1fb538dad7aa72fbd3b60628f93b" title="G4Scene::GetRefreshAtEnd\lOfEvent" alt="" coords="325,313,530,357"/>
+<area shape="rect" id="node8" href="$d9/d52/classG4Scene.html#a5548b8fd1fb480a57a205f7cc5312b73" title="G4Scene::GetRefreshAtEnd\lOfRun" alt="" coords="325,381,530,425"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="305,449,549,477"/>
+<area shape="rect" id="node10" href="$d0/d0d/classG4VisManager.html#aa0e16695f2aa218f67abdcecc014071d" title="G4VisManager::GetVerbosity" alt="" coords="319,501,535,529"/>
+<area shape="rect" id="node11" href="$d7/d23/namespaceG4Threading.html#a758c2bb8cc25d5961ccff43546c368f5" title="G4Threading::IsMultithreaded\lApplication" alt="" coords="316,553,539,597"/>
+<area shape="rect" id="node12" href="$d0/d0d/classG4VisManager.html#aa97641dee23b2c8ab1f626385f0489de" title="G4VisManager::ResetTransients\lDrawnFlags" alt="" coords="310,621,545,665"/>
+<area shape="rect" id="node13" href="$da/d94/classG4VSceneHandler.html#a31e35d3f02d4bdbab333d1ca84758ff9" title="G4VSceneHandler::SetMark\lForClearingTransientStore" alt="" coords="323,689,532,733"/>
+<area shape="rect" id="node14" href="$d9/d52/classG4Scene.html#ae8eb6a34f9b3dd96d40cbdd9b4dc8a40" title="G4Scene::SetMaxNumberOfKept\lEvents" alt="" coords="307,757,548,801"/>
+<area shape="rect" id="node15" href="$d9/d52/classG4Scene.html#a64d11f27a8a282ee4b615727522b4774" title="G4Scene::SetRefreshAtEnd\lOfEvent" alt="" coords="326,825,529,869"/>
+</map>

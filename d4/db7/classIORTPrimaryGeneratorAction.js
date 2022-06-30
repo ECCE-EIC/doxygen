@@ -1,0 +1,27 @@
+var classIORTPrimaryGeneratorAction =
+[
+    [ "IORTPrimaryGeneratorAction", "d4/db7/classIORTPrimaryGeneratorAction.html#a55d31a405958c3a939ae7a7c1f9cb2b5", null ],
+    [ "~IORTPrimaryGeneratorAction", "d4/db7/classIORTPrimaryGeneratorAction.html#ae313979b487b75e7b09898a9094e867c", null ],
+    [ "GeneratePrimaries", "d4/db7/classIORTPrimaryGeneratorAction.html#a7ebfca8c05eae20927e60b9ca1e556ed", null ],
+    [ "GetmeanKineticEnergy", "d4/db7/classIORTPrimaryGeneratorAction.html#a673149e66cd22485a129b3ca9049e381", null ],
+    [ "GetParticleGun", "d4/db7/classIORTPrimaryGeneratorAction.html#a837e0a0e637d452ddafa7c289497bfd3", null ],
+    [ "SetDefaultPrimaryParticle", "d4/db7/classIORTPrimaryGeneratorAction.html#aa423f3debe6f238dd55910ab02b71311", null ],
+    [ "SetmeanKineticEnergy", "d4/db7/classIORTPrimaryGeneratorAction.html#a56f8f4768634e1bbfe792bd056404acc", null ],
+    [ "SetsigmaEnergy", "d4/db7/classIORTPrimaryGeneratorAction.html#acb8cb0a69fb2a956296b40ed367ce83f", null ],
+    [ "SetsigmaY", "d4/db7/classIORTPrimaryGeneratorAction.html#ac1032a25ba7a411b10ccdd62453ee40c", null ],
+    [ "SetsigmaZ", "d4/db7/classIORTPrimaryGeneratorAction.html#ae72741bb8b3a00e7a45c98d1b52b01f3", null ],
+    [ "SetTheta", "d4/db7/classIORTPrimaryGeneratorAction.html#ad083b42182caa56316e503f36bc5a2df", null ],
+    [ "SetXposition", "d4/db7/classIORTPrimaryGeneratorAction.html#a92446912b7a2003352c8aa68c581187b", null ],
+    [ "SetYposition", "d4/db7/classIORTPrimaryGeneratorAction.html#ae8f1d1805174efbff79a21f8cdfe2640", null ],
+    [ "SetZposition", "d4/db7/classIORTPrimaryGeneratorAction.html#aad419ae2adacd4b878a64650a678daf9", null ],
+    [ "gunMessenger", "d4/db7/classIORTPrimaryGeneratorAction.html#a593caaa01a7a2ca6ad664d7fd7ccadff", null ],
+    [ "meanKineticEnergy", "d4/db7/classIORTPrimaryGeneratorAction.html#a01d2d2bfcfa0919c8f49713bb809386f", null ],
+    [ "particleGun", "d4/db7/classIORTPrimaryGeneratorAction.html#aeebc44ac729f2dc379951ca1a8ac1fa4", null ],
+    [ "sigmaEnergy", "d4/db7/classIORTPrimaryGeneratorAction.html#a20163e7fefe8937caf54b5a52202ecbb", null ],
+    [ "sigmaY", "d4/db7/classIORTPrimaryGeneratorAction.html#abdc55e0df7eac4fbfeaf2a032d05875c", null ],
+    [ "sigmaZ", "d4/db7/classIORTPrimaryGeneratorAction.html#a6ec08adcc5ead491614446c12f882f09", null ],
+    [ "Theta", "d4/db7/classIORTPrimaryGeneratorAction.html#a1c02b1e52afe91db506022373c48cfa7", null ],
+    [ "X0", "d4/db7/classIORTPrimaryGeneratorAction.html#aea1ae7741bfe0aa1502f8ce5ee854765", null ],
+    [ "Y0", "d4/db7/classIORTPrimaryGeneratorAction.html#a9ff5e22ce0fcf10bbb08cafbd10c5d06", null ],
+    [ "Z0", "d4/db7/classIORTPrimaryGeneratorAction.html#a02b0ae6427712f53d4b198dbeff4e883", null ]
+];

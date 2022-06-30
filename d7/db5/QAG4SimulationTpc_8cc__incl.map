@@ -1,0 +1,36 @@
+<map id="coresoftware/blob/master/offline/QA/modules/QAG4SimulationTpc.cc" name="coresoftware/blob/master/offline/QA/modules/QAG4SimulationTpc.cc">
+<area shape="rect" id="node2" href="$dc/d6f/QAG4SimulationTpc_8h.html" title="QAG4SimulationTpc.h" alt="" coords="742,213,911,241"/>
+<area shape="rect" id="node3" href="$d3/d59/SvtxEvalStack_8h.html" title="g4eval/SvtxEvalStack.h" alt="" coords="161,305,341,333"/>
+<area shape="rect" id="node5" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="2192,305,2352,333"/>
+<area shape="rect" id="node8" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="365,305,531,333"/>
+<area shape="rect" id="node12" href="$db/d52/QAG4Util_8h.html" title="some common utility functions used in detector specific evaluation modules" alt="" coords="1314,121,1409,149"/>
+<area shape="rect" id="node18" href="$d5/d3f/QAHistManagerDef_8h.html" title="QAHistManagerDef.h" alt="" coords="163,121,325,149"/>
+<area shape="rect" id="node19" href="$d4/d90/PHG4CylinderCellGeomContainer_8h.html" title="g4detectors/PHG4Cylinder\lCellGeomContainer.h" alt="" coords="2891,205,3093,249"/>
+<area shape="rect" id="node20" href="$dd/d05/PHG4Particle_8h.html" title="g4main/PHG4Particle.h" alt="" coords="936,213,1112,241"/>
+<area shape="rect" id="node21" href="$d0/d25/PHG4TruthInfoContainer_8h.html" title="g4main/PHG4TruthInfoContainer.h" alt="" coords="3117,213,3368,241"/>
+<area shape="rect" id="node23" href="$d3/d08/PHG4HitContainer_8h.html" title="g4main/PHG4HitContainer.h" alt="" coords="2395,213,2605,241"/>
+<area shape="rect" id="node24" href="$d4/de3/TpcDefs_8h.html" title="Utility functions for TPC." alt="" coords="451,213,565,241"/>
+<area shape="rect" id="node25" href="$de/dd2/ActsTransformations_8h.html" title="trackbase_historic\l/ActsTransformations.h" alt="" coords="3621,113,3797,157"/>
+<area shape="rect" id="node26" href="$da/d51/ActsSurfaceMaps_8h.html" title="maps hitsetids to Acts Surfaces" alt="" coords="4203,213,4423,241"/>
+<area shape="rect" id="node28" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="trackbase/ActsTrackingGeometry.h" alt="" coords="4702,213,4957,241"/>
+<area shape="rect" id="node37" href="$d1/d4a/TrkrCluster_8h.html" title="Base class for cluster object." alt="" coords="1459,213,1635,241"/>
+<area shape="rect" id="node38" href="$d2/d44/TrkrClusterContainer_8h.html" title="Cluster container base class." alt="" coords="1905,213,2146,241"/>
+<area shape="rect" id="node39" href="$d7/d04/TrkrClusterHitAssoc_8h.html" title="Base class for associating clusters to the hits that went into them." alt="" coords="2630,205,2815,249"/>
+<area shape="rect" id="node40" href="$d1/d21/TrkrHitTruthAssoc_8h.html" title="trackbase/TrkrHitTruthAssoc.h" alt="" coords="1659,213,1880,241"/>
+<area shape="rect" id="node41" href="$d7/dcd/SvtxClusterEval_8h.html" title="SvtxClusterEval.h" alt="" coords="4091,121,4231,149"/>
+<area shape="rect" id="node42" href="$d7/d20/SvtxTruthEval_8h.html" title="SvtxTruthEval.h" alt="" coords="4001,213,4127,241"/>
+<area shape="rect" id="node43" href="$d0/d59/Fun4AllHistoManager_8h.html" title="fun4all/Fun4AllHistoManager.h" alt="" coords="605,305,832,333"/>
+<area shape="rect" id="node44" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="4752,121,4973,149"/>
+<area shape="rect" id="node45" href="$dd/dd4/getClass_8h.html" title="phool/getClass.h" alt="" coords="5,121,139,149"/>
+<area shape="rect" id="node46" href="$d5/d6f/phool_8h.html" title="phool.h" alt="" coords="640,121,712,149"/>
+<area shape="rect" id="node13" href="$de/d83/PHG4Hit_8h.html" title="g4main/PHG4Hit.h" alt="" coords="1288,213,1435,241"/>
+<area shape="rect" id="node14" href="$d2/d92/PHG4HitDefs_8h.html" title="PHG4HitDefs.h" alt="" coords="1782,305,1903,333"/>
+<area shape="rect" id="node15" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="2029,305,2168,333"/>
+<area shape="rect" id="node29" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="4718,305,4941,333"/>
+<area shape="rect" id="node30" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="4705,389,4919,417"/>
+<area shape="rect" id="node31" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="3487,305,3673,333"/>
+<area shape="rect" id="node35" href="$d0/d87/SvtxTrack_8h.html" title="SvtxTrack.h" alt="" coords="2221,213,2320,241"/>
+<area shape="rect" id="node32" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="4314,305,4593,333"/>
+<area shape="rect" id="node33" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="4965,297,5168,341"/>
+<area shape="rect" id="node34" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="5192,297,5376,341"/>
+</map>

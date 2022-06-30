@@ -1,0 +1,26 @@
+<map id="G4CascadeCoalescence::selectCandidates" name="G4CascadeCoalescence::selectCandidates">
+<area shape="rect" id="node2" href="$de/dd8/classG4CascadeCoalescence.html#a1923a1fa87f1e931d86e9075ffa53621" title="G4CascadeCoalescence\l::getHadron" alt="" coords="1224,269,1407,313"/>
+<area shape="rect" id="node3" href="$db/d32/namespaceG4InuclParticleNames.html#aab3a6382cc17b00ae41fc3618393b7b7" title="G4InuclParticleNames\l::nucleon" alt="" coords="1231,5,1400,49"/>
+<area shape="rect" id="node4" href="$de/dd8/classG4CascadeCoalescence.html#a649b45cdc875a8f3e315c53d05f06851" title="G4CascadeCoalescence\l::tryClusters" alt="" coords="236,389,419,433"/>
+<area shape="rect" id="node5" href="$de/dd8/classG4CascadeCoalescence.html#aafac0e26a375532e6e50599c13fea95c" title="G4CascadeCoalescence\l::nucleonUsed" alt="" coords="467,449,649,493"/>
+<area shape="rect" id="node6" href="$de/dd8/classG4CascadeCoalescence.html#acaabda778428953507551e753f08cd2c" title="G4CascadeCoalescence\l::fillCluster" alt="" coords="467,517,649,561"/>
+<area shape="rect" id="node7" href="$de/dd8/classG4CascadeCoalescence.html#a13fa19942a9504b4f08c0d10f6436ef9" title="G4CascadeCoalescence\l::reportArgs" alt="" coords="949,329,1131,373"/>
+<area shape="rect" id="node9" href="$de/dd8/classG4CascadeCoalescence.html#a1c1b889012d2017564c1e108ac7a950f" title="G4CascadeCoalescence\l::goodCluster" alt="" coords="467,329,649,373"/>
+<area shape="rect" id="node8" href="$d9/de4/namespacefield__utils.html#a729e76ec3e56f739a78ca68e20dde00f" title="field_utils::copy" alt="" coords="1251,337,1379,365"/>
+<area shape="rect" id="node10" href="$de/dd8/classG4CascadeCoalescence.html#acb8b41e443d38b8ee7d73fa642d3ca9a" title="G4CascadeCoalescence\l::allNucleons" alt="" coords="697,209,880,253"/>
+<area shape="rect" id="node15" href="$de/dd8/classG4CascadeCoalescence.html#ac033026a3185da4e77f05591657dc3b8" title="G4CascadeCoalescence\l::clusterType" alt="" coords="697,129,880,173"/>
+<area shape="rect" id="node16" href="$de/dd8/classG4CascadeCoalescence.html#a1e0e58f95778e96f83c0a6fe0a59da18" title="G4CascadeCoalescence\l::maxDeltaP" alt="" coords="697,483,880,527"/>
+<area shape="rect" id="node11" href="$d2/d5e/classG4InuclElementaryParticle.html#aff5ac2e1777ce5586219e9d9f175f1c2" title="G4InuclElementaryParticle\l::nucleon" alt="" coords="940,57,1140,101"/>
+<area shape="rect" id="node12" href="$d2/d5e/classG4InuclElementaryParticle.html#a55558cc132e9a845d9e90b25e96b0be5" title="G4InuclElementaryParticle\l::type" alt="" coords="1215,111,1415,155"/>
+<area shape="rect" id="node13" href="$d9/da2/classG4InuclParticle.html#aac20622e2f870e56638bdf04392c4eec" title="G4InuclParticle::getDefinition" alt="" coords="1479,119,1697,147"/>
+<area shape="rect" id="node14" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="1745,111,1903,155"/>
+<area shape="rect" id="node17" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a2a6aac189de495232a7a4ef3b0945903" title="CLHEP::HepLorentzVector\l::boost" alt="" coords="943,449,1137,493"/>
+<area shape="rect" id="node18" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a4bf2074d0469443c61ccac560657d114" title="CLHEP::HepLorentzVector\l::boostVector" alt="" coords="943,517,1137,561"/>
+<area shape="rect" id="node21" href="$de/dd8/classG4CascadeCoalescence.html#a79b71cb1c395d6a84cd7bb0f9728e365" title="G4CascadeCoalescence\l::getClusterMomentum" alt="" coords="949,585,1131,629"/>
+<area shape="rect" id="node22" href="$d9/da2/classG4InuclParticle.html#ab11174eda75ffc99101afc15f7e7bfb3" title="G4InuclParticle::getMomentum" alt="" coords="1200,649,1431,677"/>
+<area shape="rect" id="node25" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#ac8e5a617ac991b6794d1271dac972a76" title="CLHEP::HepLorentzVector::rho" alt="" coords="928,705,1152,733"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="1215,469,1415,497"/>
+<area shape="rect" id="node20" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a3f9d79afe78a2a9c3a2cb424d64335e1" title="CLHEP::HepLorentzVector\l::restMass2" alt="" coords="1218,521,1413,565"/>
+<area shape="rect" id="node24" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a78d2152637be53ba770453507b374b02" title="CLHEP::HepLorentzVector::set" alt="" coords="1203,593,1427,621"/>
+<area shape="rect" id="node23" href="$d7/d5c/classG4DynamicParticle.html#a6a2f12f20a7938ac1677677696d71a57" title="G4DynamicParticle::\lGet4Momentum" alt="" coords="1509,641,1667,685"/>
+</map>

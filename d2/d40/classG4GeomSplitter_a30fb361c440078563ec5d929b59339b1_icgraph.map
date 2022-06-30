@@ -1,0 +1,27 @@
+<map id="G4GeomSplitter::Reallocate" name="G4GeomSplitter::Reallocate">
+<area shape="rect" id="node2" href="$d2/d40/classG4GeomSplitter.html#a617bf91a43933a87b0ab3ecffa93768f" title="G4GeomSplitter::CreateSub\lInstance" alt="" coords="263,153,473,197"/>
+<area shape="rect" id="node11" href="$d2/d40/classG4GeomSplitter.html#a9d6e054fd4ac76857b724a2fa79c468c" title="G4GeomSplitter::SlaveCopy\lSubInstanceArray" alt="" coords="263,432,473,476"/>
+<area shape="rect" id="node23" href="$d2/d40/classG4GeomSplitter.html#a309c6d42fffcdaa9cccd819258cec7d6" title="G4GeomSplitter::SlaveInitialize\lSubInstance" alt="" coords="1100,611,1332,655"/>
+<area shape="rect" id="node3" href="$da/dc4/classG4LogicalVolume.html#a6a27e02ed013f39f9b84575c6fba8cfc" title="G4LogicalVolume::G4Logical\lVolume" alt="" coords="545,281,759,325"/>
+<area shape="rect" id="node4" href="$d7/d9a/classG4PolyconeSide.html#a7b155d021efef706fdd1bd9f08c962f2" title="G4PolyconeSide::G4PolyconeSide" alt="" coords="528,5,776,33"/>
+<area shape="rect" id="node6" href="$de/dc4/classG4PolyhedraSide.html#a5114ee4b3216609ddd3bfdbdcc168111" title="G4PolyhedraSide::G4PolyhedraSide" alt="" coords="521,57,783,85"/>
+<area shape="rect" id="node8" href="$de/d93/classG4PVReplica.html#a369ab51b4338fb331dcc6c13a5a83df9" title="G4PVReplica::G4PVReplica" alt="" coords="552,109,752,137"/>
+<area shape="rect" id="node9" href="$d1/d35/classG4Region.html#a7d9eba65ecd7156ef54898ef50b64af6" title="G4Region::G4Region" alt="" coords="571,161,733,189"/>
+<area shape="rect" id="node10" href="$d1/d28/classG4VPhysicalVolume.html#a508c7e925678a444722479f6d98f07ae" title="G4VPhysicalVolume::\lG4VPhysicalVolume" alt="" coords="570,213,734,257"/>
+<area shape="rect" id="node5" href="$d7/d9a/classG4PolyconeSide.html#adda087c9a6259f20f5cc14af02804990" title="G4PolyconeSide::Clone" alt="" coords="853,5,1030,33"/>
+<area shape="rect" id="node7" href="$de/dc4/classG4PolyhedraSide.html#a055e86d2ace7ae7f81ccf559a2161f08" title="G4PolyhedraSide::Clone" alt="" coords="849,57,1033,85"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#ab944634e2e1eedfddd6855e74169b76d" title="G4LogicalVolume::Initialise\lWorker" alt="" coords="550,521,754,565"/>
+<area shape="rect" id="node14" href="$d6/d0e/classG4GeometryWorkspace.html#aa5dacb909c877c9687a9474cab142da2" title="G4GeometryWorkspace\l::InitialiseWorkspace" alt="" coords="1403,479,1584,523"/>
+<area shape="rect" id="node21" href="$d1/d28/classG4VPhysicalVolume.html#aff16587075def1b293587dadecf067ee" title="G4VPhysicalVolume::\lInitialiseWorker" alt="" coords="570,401,734,445"/>
+<area shape="rect" id="node22" href="$de/d93/classG4PVReplica.html#abcdb7c2c7b93fd63d42dfa6598b78ba5" title="G4PVReplica::InitialiseWorker" alt="" coords="831,409,1052,437"/>
+<area shape="rect" id="node13" href="$d6/d0e/classG4GeometryWorkspace.html#a557d8f37758884ff36131edddc6a3923" title="G4GeometryWorkspace\l::InitialisePhysicalVolumes" alt="" coords="1116,479,1316,523"/>
+<area shape="rect" id="node19" href="$d6/d0e/classG4GeometryWorkspace.html#aa841a19cd8257e0a23516d1b7aa3399a" title="G4GeometryWorkspace\l::CloneReplicaSolid" alt="" coords="851,513,1032,557"/>
+<area shape="rect" id="node20" href="$d6/d0e/classG4GeometryWorkspace.html#abdedf9314570446c175e282d36212182" title="G4GeometryWorkspace\l::CloneParameterisedSolids" alt="" coords="838,581,1045,625"/>
+<area shape="rect" id="node15" href="$d6/d0e/classG4GeometryWorkspace.html#a75771771494836c6c823bed5bad527ea" title="G4GeometryWorkspace\l::G4GeometryWorkspace" alt="" coords="1690,460,1881,504"/>
+<area shape="rect" id="node16" href="$dd/d14/classG4WorkerThread.html#a6d3c23031827d571c330dd1b3ddcadfc" title="G4WorkerThread::UpdateGeometry\lAndPhysicsVectorFromMaster" alt="" coords="1655,528,1916,572"/>
+<area shape="rect" id="node17" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="1964,528,2139,572"/>
+<area shape="rect" id="node18" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="2187,528,2375,572"/>
+<area shape="rect" id="node24" href="$d2/d40/classG4GeomSplitter.html#a00fc77e0026f98eb1087a2847792cecd" title="G4GeomSplitter::SlaveReCopy\lSubInstanceArray" alt="" coords="1380,644,1607,688"/>
+<area shape="rect" id="node25" href="$d4/dfa/classG4SolidsWorkspace.html#abf08a5925dd0eb9433801b62a0507f48" title="G4SolidsWorkspace::\lInitialiseWorkspace" alt="" coords="1412,576,1575,620"/>
+<area shape="rect" id="node26" href="$d4/dfa/classG4SolidsWorkspace.html#a10636973058dbbac5668a009efec95bf" title="G4SolidsWorkspace::\lG4SolidsWorkspace" alt="" coords="1704,596,1867,640"/>
+</map>

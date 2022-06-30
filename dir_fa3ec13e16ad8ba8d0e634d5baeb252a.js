@@ -1,0 +1,25 @@
+var dir_fa3ec13e16ad8ba8d0e634d5baeb252a =
+[
+    [ "G4DNAChemistryManager.cc", "d4/dd4/G4DNAChemistryManager_8cc.html", "d4/dd4/G4DNAChemistryManager_8cc" ],
+    [ "G4DNACPA100LogLogInterpolation.cc", "d9/dfe/G4DNACPA100LogLogInterpolation_8cc.html", null ],
+    [ "G4DNACPA100WaterExcitationStructure.cc", "dd/d4b/G4DNACPA100WaterExcitationStructure_8cc.html", null ],
+    [ "G4DNACPA100WaterIonisationStructure.cc", "dc/d9a/G4DNACPA100WaterIonisationStructure_8cc.html", null ],
+    [ "G4DNACrossSectionDataSet.cc", "df/d24/G4DNACrossSectionDataSet_8cc.html", null ],
+    [ "G4DNADamage.cc", "dc/d13/G4DNADamage_8cc.html", null ],
+    [ "G4DNAEmfietzoglouWaterExcitationStructure.cc", "d3/d88/G4DNAEmfietzoglouWaterExcitationStructure_8cc.html", null ],
+    [ "G4DNAEmfietzoglouWaterIonisationStructure.cc", "df/d72/G4DNAEmfietzoglouWaterIonisationStructure_8cc.html", null ],
+    [ "G4DNAGenericIonsManager.cc", "dc/d66/G4DNAGenericIonsManager_8cc.html", null ],
+    [ "G4DNAIons.cc", "db/da5/G4DNAIons_8cc.html", null ],
+    [ "G4DNAMolecularMaterial.cc", "de/db8/G4DNAMolecularMaterial_8cc.html", "de/db8/G4DNAMolecularMaterial_8cc" ],
+    [ "G4DNAMolecularReactionTable.cc", "d6/d64/G4DNAMolecularReactionTable_8cc.html", null ],
+    [ "G4DNAPTBIonisationStructure.cc", "d4/d7f/G4DNAPTBIonisationStructure_8cc.html", null ],
+    [ "G4DNAWaterExcitationStructure.cc", "dc/d77/G4DNAWaterExcitationStructure_8cc.html", null ],
+    [ "G4DNAWaterIonisationStructure.cc", "d9/d8e/G4DNAWaterIonisationStructure_8cc.html", null ],
+    [ "G4MoleculeGun.cc", "d0/d88/G4MoleculeGun_8cc.html", null ],
+    [ "G4MoleculeGunMessenger.cc", "d9/de0/G4MoleculeGunMessenger_8cc.html", null ],
+    [ "G4PhysChemIO.cc", "d4/d96/G4PhysChemIO_8cc.html", null ],
+    [ "G4ReactionTableMessenger.cc", "d4/dca/G4ReactionTableMessenger_8cc.html", null ],
+    [ "G4VDNAReactionModel.cc", "d6/d51/G4VDNAReactionModel_8cc.html", null ],
+    [ "G4VPhysChemIO.cc", "d7/d55/G4VPhysChemIO_8cc.html", null ],
+    [ "G4VUserChemistryList.cc", "dc/dab/G4VUserChemistryList_8cc.html", null ]
+];

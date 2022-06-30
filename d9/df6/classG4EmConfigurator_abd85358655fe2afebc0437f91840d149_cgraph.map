@@ -1,0 +1,24 @@
+<map id="G4EmConfigurator::PrepareModels" name="G4EmConfigurator::PrepareModels">
+<area shape="rect" id="node2" href="$d9/d2a/classG4VMultipleScattering.html#a2f14e1feb495a42c00d4f38625988719" title="G4VMultipleScattering\l::AddEmModel" alt="" coords="289,48,461,92"/>
+<area shape="rect" id="node6" href="$d9/df6/classG4EmConfigurator.html#a9c08ad770ddec0c56627498c9f5e9ce8" title="G4EmConfigurator::FindRegion" alt="" coords="260,116,489,144"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="297,168,452,212"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="297,236,452,280"/>
+<area shape="rect" id="node17" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="263,304,487,332"/>
+<area shape="rect" id="node18" href="$d9/df6/classG4EmConfigurator.html#a9b1f6afadea3777245784851c06ecc71" title="G4EmConfigurator::Update\lModelEnergyRange" alt="" coords="273,356,477,400"/>
+<area shape="rect" id="node3" href="$dd/de5/classG4EmModelManager.html#a07a87cc0684d520becd4ab68472eded0" title="G4EmModelManager::AddEmModel" alt="" coords="537,5,796,33"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="545,57,789,85"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a8a0058208f810612a43b141f61242a98" title="G4VEmModel::DefineForRegion" alt="" coords="844,5,1076,33"/>
+<area shape="rect" id="node7" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="854,113,1066,141"/>
+<area shape="rect" id="node8" href="$db/d69/classG4RegionStore.html#acef4d472a500f195f17d2c9d83e6f276" title="G4RegionStore::GetRegion" alt="" coords="566,165,767,193"/>
+<area shape="rect" id="node9" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="919,165,1001,193"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="907,217,1013,245"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1124,89,1340,133"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1126,157,1338,201"/>
+<area shape="rect" id="node12" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1127,225,1337,269"/>
+<area shape="rect" id="node13" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1388,225,1556,269"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="552,260,781,288"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="549,312,784,340"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#a130128c3e374c1cc5236a6b8575ce415" title="G4VEmModel::GetName" alt="" coords="574,364,759,392"/>
+<area shape="rect" id="node22" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="558,416,775,460"/>
+<area shape="rect" id="node23" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="555,484,778,528"/>
+</map>

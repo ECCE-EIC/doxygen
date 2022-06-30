@@ -1,0 +1,32 @@
+<map id="G4LossTableManager::CopyTables" name="G4LossTableManager::CopyTables">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#a4a472ddab813bb7f42b4f905a25def47" title="G4VEnergyLossProcess\l::CSDARangeTable" alt="" coords="231,5,409,49"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#a36d03638413978fb07bc0e0eee83ea53" title="G4VEnergyLossProcess\l::DEDXTableForSubsec" alt="" coords="231,73,409,117"/>
+<area shape="rect" id="node4" href="$da/d80/classG4VEnergyLossProcess.html#a12f55ce3f3ca73c60b9f9855b0473829" title="G4VEnergyLossProcess\l::DEDXunRestrictedTable" alt="" coords="226,141,414,185"/>
+<area shape="rect" id="node5" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="504,307,659,351"/>
+<area shape="rect" id="node6" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="469,375,693,403"/>
+<area shape="rect" id="node7" href="$da/d80/classG4VEnergyLossProcess.html#a4fd30351cf45b9aea345c3b84e472c00" title="G4VEnergyLossProcess\l::InverseRangeTable" alt="" coords="231,789,409,833"/>
+<area shape="rect" id="node8" href="$da/d80/classG4VEnergyLossProcess.html#ad1cc9b02127e4861b38ab8c9aa011e45" title="G4VEnergyLossProcess\l::IonisationTable" alt="" coords="231,857,409,901"/>
+<area shape="rect" id="node9" href="$da/d80/classG4VEnergyLossProcess.html#aefe894e141a5fe5c8488ec325bf198b3" title="G4VEnergyLossProcess\l::IsIonisationProcess" alt="" coords="231,925,409,969"/>
+<area shape="rect" id="node10" href="$da/d80/classG4VEnergyLossProcess.html#a9ad33943f4ec1a819400329d0fc404c6" title="G4VEnergyLossProcess\l::LambdaTable" alt="" coords="231,993,409,1037"/>
+<area shape="rect" id="node11" href="$da/d80/classG4VEnergyLossProcess.html#a98e0c52705a1df41e6831ae25bd08a1b" title="G4VEnergyLossProcess\l::RangeTableForLoss" alt="" coords="231,1061,409,1105"/>
+<area shape="rect" id="node12" href="$da/d80/classG4VEnergyLossProcess.html#a345b8954df09b4482bc45c304d232eeb" title="G4VEnergyLossProcess\l::SecondaryParticle" alt="" coords="231,1129,409,1173"/>
+<area shape="rect" id="node13" href="$da/d80/classG4VEnergyLossProcess.html#ae3c4a3c873e484580c84783356c2c8f1" title="G4VEnergyLossProcess\l::SetCSDARangeTable" alt="" coords="231,721,409,765"/>
+<area shape="rect" id="node19" href="$da/d80/classG4VEnergyLossProcess.html#aae8c8560a07d33a9f216bf7f2fba4c25" title="G4VEnergyLossProcess\l::SetDEDXTable" alt="" coords="231,653,409,697"/>
+<area shape="rect" id="node23" href="$da/d80/classG4VEnergyLossProcess.html#a85dbf77a2b887e353a6d3ebce4f40a16" title="G4VEnergyLossProcess\l::SetInverseRangeTable" alt="" coords="230,329,410,373"/>
+<area shape="rect" id="node24" href="$da/d80/classG4VEnergyLossProcess.html#abba42c525739cf1fe5e4e44244285dbb" title="G4VEnergyLossProcess\l::SetIonisation" alt="" coords="231,1197,409,1241"/>
+<area shape="rect" id="node25" href="$da/d80/classG4VEnergyLossProcess.html#acf0024d2482d11c5cfc6c2ce84a29342" title="G4VEnergyLossProcess\l::SetLambdaTable" alt="" coords="231,585,409,629"/>
+<area shape="rect" id="node28" href="$da/d80/classG4VEnergyLossProcess.html#a3403d7f7c89ad3b71773b429245f6ad7" title="G4VEnergyLossProcess\l::SetRangeTableForLoss" alt="" coords="229,397,411,441"/>
+<area shape="rect" id="node29" href="$da/d80/classG4VEnergyLossProcess.html#ab07cb0292e58350e791a22557a93bd7f" title="G4VEnergyLossProcess\l::SetSecondaryRangeTable" alt="" coords="219,465,421,509"/>
+<area shape="rect" id="node30" href="$da/d80/classG4VEnergyLossProcess.html#abc0a3851c04be13fe2a1a28d8e403664" title="G4VEnergyLossProcess\l::SetSubLambdaTable" alt="" coords="231,261,409,305"/>
+<area shape="rect" id="node31" href="$da/d80/classG4VEnergyLossProcess.html#a0892139a26e4f141c4b1727b9413e552" title="G4VEnergyLossProcess\l::SubLambdaTable" alt="" coords="231,1265,409,1309"/>
+<area shape="rect" id="node14" href="$dd/d15/classG4PhysicsTable.html#a25440e61457c9ea018380883a23164d3" title="G4PhysicsTable::length" alt="" coords="493,751,670,779"/>
+<area shape="rect" id="node15" href="$d6/dfd/EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="553,855,609,883"/>
+<area shape="rect" id="node16" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="492,803,671,831"/>
+<area shape="rect" id="node17" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="760,776,951,804"/>
+<area shape="rect" id="node18" href="$d7/d2c/classG4PhysicsVector.html#a5d5c84f331f6c7d7201f48c0d00a0e81" title="G4PhysicsVector::Interpolation" alt="" coords="741,828,969,856"/>
+<area shape="rect" id="node20" href="$d9/d78/classG4LossTableManager.html#a50e0a595d4bb72d3c0f39b3d441b84b0" title="G4LossTableManager\l::GetTableBuilder" alt="" coords="499,683,664,727"/>
+<area shape="rect" id="node21" href="$d3/d1d/classG4LossTableBuilder.html#a2db5e2c03ca693f05f620c1713a21905" title="G4LossTableBuilder\l::GetDensityFactors" alt="" coords="504,547,659,591"/>
+<area shape="rect" id="node22" href="$d3/d1d/classG4LossTableBuilder.html#a731e90509123f9b969190d06dcc50ea9" title="G4LossTableBuilder\l::GetCoupleIndexes" alt="" coords="504,615,659,659"/>
+<area shape="rect" id="node26" href="$d7/d2c/classG4PhysicsVector.html#a2f8f9e7e7d2d6ca8b5f8daae9380afca" title="G4PhysicsVector::GetVector\lLength" alt="" coords="477,427,686,471"/>
+<area shape="rect" id="node27" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="487,495,676,523"/>
+</map>

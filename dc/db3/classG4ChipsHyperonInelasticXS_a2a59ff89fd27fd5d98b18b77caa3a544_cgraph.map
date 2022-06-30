@@ -1,0 +1,21 @@
+<map id="G4ChipsHyperonInelasticXS::GetIsoCrossSection" name="G4ChipsHyperonInelasticXS::GetIsoCrossSection">
+<area shape="rect" id="node2" href="$dc/db3/classG4ChipsHyperonInelasticXS.html#a13366393b531cf5f56885abedff9b417" title="G4ChipsHyperonInelasticXS\l::GetChipsCrossSection" alt="" coords="263,109,472,153"/>
+<area shape="rect" id="node18" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="289,177,446,221"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="290,245,445,289"/>
+<area shape="rect" id="node20" href="$d7/d5c/classG4DynamicParticle.html#a91ba12f47c1d066a999409b3a5076a93" title="G4DynamicParticle::\lGetTotalMomentum" alt="" coords="289,313,446,357"/>
+<area shape="rect" id="node3" href="$dc/db3/classG4ChipsHyperonInelasticXS.html#a6e6e2d18d969f627cc46f086a0ca2e9d" title="G4ChipsHyperonInelasticXS\l::CalculateCrossSection" alt="" coords="520,109,729,153"/>
+<area shape="rect" id="node4" href="$dc/db3/classG4ChipsHyperonInelasticXS.html#a6775a368f0d515ca8009bd914e0bf716" title="G4ChipsHyperonInelasticXS\l::CrossSectionFormula" alt="" coords="1035,109,1244,153"/>
+<area shape="rect" id="node9" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1293,57,1357,85"/>
+<area shape="rect" id="node15" href="$dc/db3/classG4ChipsHyperonInelasticXS.html#a2df6ea9e5b1720f0c5066e00d7365fed" title="G4ChipsHyperonInelasticXS\l::CrossSectionLin" alt="" coords="777,49,987,93"/>
+<area shape="rect" id="node16" href="$dc/db3/classG4ChipsHyperonInelasticXS.html#a27aa277aa5bfa16a3ae7e6882689ffa0" title="G4ChipsHyperonInelasticXS\l::CrossSectionLog" alt="" coords="777,169,987,213"/>
+<area shape="rect" id="node17" href="$dc/db3/classG4ChipsHyperonInelasticXS.html#a31253fdeadc67cbf2587a701746c0bdb" title="G4ChipsHyperonInelasticXS\l::EquLinearFit" alt="" coords="777,237,987,281"/>
+<area shape="rect" id="node5" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1292,169,1359,197"/>
+<area shape="rect" id="node6" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1444,161,1609,189"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1432,213,1621,241"/>
+<area shape="rect" id="node7" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1695,161,1883,189"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1431,109,1623,137"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1431,5,1623,33"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1407,57,1647,85"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1695,84,1883,112"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1695,32,1883,60"/>
+</map>

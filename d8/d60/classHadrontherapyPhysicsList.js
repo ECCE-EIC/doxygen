@@ -1,0 +1,26 @@
+var classHadrontherapyPhysicsList =
+[
+    [ "HadrontherapyPhysicsList", "d8/d60/classHadrontherapyPhysicsList.html#a82a55be76cb4419f09db41b5b5e2e9b0", null ],
+    [ "~HadrontherapyPhysicsList", "d8/d60/classHadrontherapyPhysicsList.html#a4555783e038af9a0840530d3e89adb8f", null ],
+    [ "AddPackage", "d8/d60/classHadrontherapyPhysicsList.html#ab802b49de639e56ab35184bd1eff9402", null ],
+    [ "AddPhysicsList", "d8/d60/classHadrontherapyPhysicsList.html#a162bc7a8ef46a3d66573120940422a66", null ],
+    [ "AddStepMax", "d8/d60/classHadrontherapyPhysicsList.html#afdb96a3fc0ae5c0f5484c17cc102a781", null ],
+    [ "ConstructParticle", "d8/d60/classHadrontherapyPhysicsList.html#a098d5fe05b40a83b60c06a6c1bb1acc1", null ],
+    [ "ConstructProcess", "d8/d60/classHadrontherapyPhysicsList.html#a3753bc7fea0d0f0c42a084a6432618d5", null ],
+    [ "SetCutForElectron", "d8/d60/classHadrontherapyPhysicsList.html#a33da8768cd8f3d9871bab72d44479b2d", null ],
+    [ "SetCutForGamma", "d8/d60/classHadrontherapyPhysicsList.html#ae47dd2d4aec6f7141ca50ae125974ba3", null ],
+    [ "SetCutForPositron", "d8/d60/classHadrontherapyPhysicsList.html#afb23f932c2539f113a351630ef868e96", null ],
+    [ "SetDetectorCut", "d8/d60/classHadrontherapyPhysicsList.html#a74b8f21f01064fc86be8243de4ba123c", null ],
+    [ "cutForElectron", "d8/d60/classHadrontherapyPhysicsList.html#a1ced6ed7f07ba7dcb16b60c193cbd004", null ],
+    [ "cutForGamma", "d8/d60/classHadrontherapyPhysicsList.html#a6567e338df4d3d2f80a93552a83dbd05", null ],
+    [ "cutForPositron", "d8/d60/classHadrontherapyPhysicsList.html#aa7002164ed4044f0e875aa0b8efcb6f7", null ],
+    [ "decay_List", "d8/d60/classHadrontherapyPhysicsList.html#a82523e4911cee64cab49da50f141b0e7", null ],
+    [ "em_config", "d8/d60/classHadrontherapyPhysicsList.html#a040763b198f28c1952b282add1ba57fd", null ],
+    [ "emName", "d8/d60/classHadrontherapyPhysicsList.html#a1e6227fe4d62112ab3df3a0cf173852d", null ],
+    [ "emPhysicsList", "d8/d60/classHadrontherapyPhysicsList.html#a6a07d58e35aaf6f81d3eceeda88255dd", null ],
+    [ "hadronPhys", "d8/d60/classHadrontherapyPhysicsList.html#a95d0c4da7b9ada685513b77f69280074", null ],
+    [ "locIonIonInelasticIsRegistered", "d8/d60/classHadrontherapyPhysicsList.html#a270d86f75d2fbf459f845ef1cb27d35e", null ],
+    [ "pMessenger", "d8/d60/classHadrontherapyPhysicsList.html#a30441f446c9d5d8d942285e7da445a91", null ],
+    [ "radioactiveDecay_List", "d8/d60/classHadrontherapyPhysicsList.html#a3fa166b858f31012a940af17244c9bf0", null ],
+    [ "radioactiveDecayIsRegistered", "d8/d60/classHadrontherapyPhysicsList.html#ab2421f1729f02a13f2f51736437d8868", null ]
+];

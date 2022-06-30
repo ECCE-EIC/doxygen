@@ -1,0 +1,26 @@
+var classG4ParticleHPInelasticCompFS =
+[
+    [ "G4ParticleHPInelasticCompFS", "de/d7e/classG4ParticleHPInelasticCompFS.html#ac92f39a4f9c23fbf3ddf0f6ab2cd4e59", null ],
+    [ "~G4ParticleHPInelasticCompFS", "de/d7e/classG4ParticleHPInelasticCompFS.html#a91fda90b7c78e4e2f8f92a8ab2925e7d", null ],
+    [ "ApplyYourself", "de/d7e/classG4ParticleHPInelasticCompFS.html#a2d382f23cdd30c266b892dffa7bab1c9", null ],
+    [ "CompositeApply", "de/d7e/classG4ParticleHPInelasticCompFS.html#a1d659199f5971ff9d4721ffe78851d1c", null ],
+    [ "GetXsec", "de/d7e/classG4ParticleHPInelasticCompFS.html#a5b384daade630618fccf76e13c5523c1", null ],
+    [ "GetXsec", "de/d7e/classG4ParticleHPInelasticCompFS.html#a1e64132c1b1509c237bc8eb581e44ddd", null ],
+    [ "Init", "de/d7e/classG4ParticleHPInelasticCompFS.html#a4956c98d721ada7770d3896a3d63b800", null ],
+    [ "InitDistributionInitialState", "de/d7e/classG4ParticleHPInelasticCompFS.html#a0e04f9db1efaaca6fbe20782951dbf32", null ],
+    [ "InitGammas", "de/d7e/classG4ParticleHPInelasticCompFS.html#a2d25f17f78fb69b0fc7e4691da565e98", null ],
+    [ "New", "de/d7e/classG4ParticleHPInelasticCompFS.html#af9cd3ea95e1cd7ed2954ea4387ac4af4", null ],
+    [ "SelectExitChannel", "de/d7e/classG4ParticleHPInelasticCompFS.html#a15f9a374a1c0220647f2b44ca52e259c", null ],
+    [ "two_body_reaction", "de/d7e/classG4ParticleHPInelasticCompFS.html#aaf2d5f8b244ecd02ec42ba89c47fd5c1", null ],
+    [ "use_nresp71_model", "de/d7e/classG4ParticleHPInelasticCompFS.html#afe2f8371faf31dbd66008ad34c23093f", null ],
+    [ "gammaPath", "de/d7e/classG4ParticleHPInelasticCompFS.html#a13669d3d5f255dfd17f68e69d9cf7a2b", null ],
+    [ "LR", "de/d7e/classG4ParticleHPInelasticCompFS.html#a32e402cb1100b560e0c298c8b96c2501", null ],
+    [ "nresp71_model", "de/d7e/classG4ParticleHPInelasticCompFS.html#a2dd68edc9fc1d3e7b835d36fbf9f41aa", null ],
+    [ "QI", "de/d7e/classG4ParticleHPInelasticCompFS.html#ad30356ca2717e1d3ff474421133acc40", null ],
+    [ "theAngularDistribution", "de/d7e/classG4ParticleHPInelasticCompFS.html#a294a453c65a1a343271a292fecd0e75f", null ],
+    [ "theEnergyAngData", "de/d7e/classG4ParticleHPInelasticCompFS.html#a71c30c0783265725883dc3a622019185", null ],
+    [ "theEnergyDistribution", "de/d7e/classG4ParticleHPInelasticCompFS.html#a531df11530f839106192189abbe2a39f", null ],
+    [ "theFinalStatePhotons", "de/d7e/classG4ParticleHPInelasticCompFS.html#a9c7f8ba3ae323bb4740a012848130f12", null ],
+    [ "theGammas", "de/d7e/classG4ParticleHPInelasticCompFS.html#abc2c2657a0146da04d7d27762cec3b18", null ],
+    [ "theXsection", "de/d7e/classG4ParticleHPInelasticCompFS.html#ae43f615d77ed6eeffa431e42973b4536", null ]
+];

@@ -1,0 +1,27 @@
+var classG4ecpssrBaseLixsModel =
+[
+    [ "TriDimensionMap", "d6/d82/classG4ecpssrBaseLixsModel.html#a254be7ca879fb56826ccb4a5b2c3c958", null ],
+    [ "VecMap", "d6/d82/classG4ecpssrBaseLixsModel.html#add3c3b48c41e0ad11dcd160165efac93", null ],
+    [ "G4ecpssrBaseLixsModel", "d6/d82/classG4ecpssrBaseLixsModel.html#a0d2e3f0e5fe9cd83a787d99f93a23f75", null ],
+    [ "~G4ecpssrBaseLixsModel", "d6/d82/classG4ecpssrBaseLixsModel.html#a6bb3c15eee6878286522e3626e50efbf", null ],
+    [ "G4ecpssrBaseLixsModel", "d6/d82/classG4ecpssrBaseLixsModel.html#a1ebca4e63289f60931ee76a0358770de", null ],
+    [ "CalculateL1CrossSection", "d6/d82/classG4ecpssrBaseLixsModel.html#a1bb49361f6ce9e9bb4b6dd0eb82536c7", null ],
+    [ "CalculateL2CrossSection", "d6/d82/classG4ecpssrBaseLixsModel.html#a75a345e549b86d808b3508b47fad0fa2", null ],
+    [ "CalculateL3CrossSection", "d6/d82/classG4ecpssrBaseLixsModel.html#ad14474047f9c193c605f148570f686ee", null ],
+    [ "CalculateVelocity", "d6/d82/classG4ecpssrBaseLixsModel.html#ab3010316977df7746c03f395032b2f33", null ],
+    [ "ExpIntFunction", "d6/d82/classG4ecpssrBaseLixsModel.html#a9471c928052e523e6142d986664ead43", null ],
+    [ "FunctionFL1", "d6/d82/classG4ecpssrBaseLixsModel.html#acfe26097f965f57a0b8e5cd5dca1a8a2", null ],
+    [ "FunctionFL2", "d6/d82/classG4ecpssrBaseLixsModel.html#a1b761a5eca16ce85a08bf85fba5a117a", null ],
+    [ "LinLinInterpolate", "d6/d82/classG4ecpssrBaseLixsModel.html#a49d90c2814827e180a5b5af0df1a6818", null ],
+    [ "LinLogInterpolate", "d6/d82/classG4ecpssrBaseLixsModel.html#a2332bf3c6814aec6bf7a783cca97bb57", null ],
+    [ "LogLogInterpolate", "d6/d82/classG4ecpssrBaseLixsModel.html#a870ecb0f72751a240702bf9ddd1f32a3", null ],
+    [ "operator=", "d6/d82/classG4ecpssrBaseLixsModel.html#a0446d990fa39ed6de3814b608628a8e9", null ],
+    [ "QuadInterpolator", "d6/d82/classG4ecpssrBaseLixsModel.html#a1b50f66b47da2c624e79fa8a0d89380d", null ],
+    [ "aVecMap1", "d6/d82/classG4ecpssrBaseLixsModel.html#af0936d7acb9dc072d262ac11c80eef38", null ],
+    [ "aVecMap2", "d6/d82/classG4ecpssrBaseLixsModel.html#a146e31f84ad9af04cc9ad3862f6e9f38", null ],
+    [ "dummyVec1", "d6/d82/classG4ecpssrBaseLixsModel.html#a86e5fb2d28b84bcc0b06d657ca4a03be", null ],
+    [ "dummyVec2", "d6/d82/classG4ecpssrBaseLixsModel.html#ad87cca99a6c5af7a2151b2629121be0f", null ],
+    [ "FL1Data", "d6/d82/classG4ecpssrBaseLixsModel.html#ae8c1ef6561ca799518e6fddc7bf0cbfe", null ],
+    [ "FL2Data", "d6/d82/classG4ecpssrBaseLixsModel.html#a8f6f8649c080a828dfe2d948276c4aa6", null ],
+    [ "verboseLevel", "d6/d82/classG4ecpssrBaseLixsModel.html#a164000ec0097f87bebdc9a8adcb3bf33", null ]
+];

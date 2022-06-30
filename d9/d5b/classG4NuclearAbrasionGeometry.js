@@ -1,0 +1,26 @@
+var classG4NuclearAbrasionGeometry =
+[
+    [ "G4NuclearAbrasionGeometry", "d9/d5b/classG4NuclearAbrasionGeometry.html#a6843d887ae98d5b91446ba9a15329fcc", null ],
+    [ "~G4NuclearAbrasionGeometry", "d9/d5b/classG4NuclearAbrasionGeometry.html#a55cf326af90663ca647587561cc1f63f", null ],
+    [ "F", "d9/d5b/classG4NuclearAbrasionGeometry.html#a7e5748b91e788702bc9fe0433435aae2", null ],
+    [ "GetExcitationEnergyOfProjectile", "d9/d5b/classG4NuclearAbrasionGeometry.html#a7eb9dab14ddaa95331dd62eb2f477305", null ],
+    [ "GetExcitationEnergyOfTarget", "d9/d5b/classG4NuclearAbrasionGeometry.html#a1289e824c3ea8c62ba10f987565380f5", null ],
+    [ "GetPeripheralThreshold", "d9/d5b/classG4NuclearAbrasionGeometry.html#ad7d1446346b19690efddbb3df9e0b87c", null ],
+    [ "P", "d9/d5b/classG4NuclearAbrasionGeometry.html#a9889461b8040f82ee0435c79ad30f268", null ],
+    [ "SetPeripheralThreshold", "d9/d5b/classG4NuclearAbrasionGeometry.html#a8268ac36c3cd59500de1490d1567833b", null ],
+    [ "AP", "d9/d5b/classG4NuclearAbrasionGeometry.html#a80321d2fe5bf8d3deb3c604474187266", null ],
+    [ "AT", "d9/d5b/classG4NuclearAbrasionGeometry.html#a22eb7d3ae4ce0a00261cf7e736cf6403", null ],
+    [ "b", "d9/d5b/classG4NuclearAbrasionGeometry.html#a3b58e38a782e064690b6f16365b988d4", null ],
+    [ "B", "d9/d5b/classG4NuclearAbrasionGeometry.html#a7de184f40a70e56e3ccba3371973d752", null ],
+    [ "m", "d9/d5b/classG4NuclearAbrasionGeometry.html#aef9d152e1c01350e0f98c43dfaa22ca2", null ],
+    [ "n", "d9/d5b/classG4NuclearAbrasionGeometry.html#ad95624db2a354b40f15d53743628c080", null ],
+    [ "Q", "d9/d5b/classG4NuclearAbrasionGeometry.html#a169f609d84b4f1a2319b815c0ed9eeea", null ],
+    [ "r", "d9/d5b/classG4NuclearAbrasionGeometry.html#a5b90ffcab3dbb4f430b4b085feb6fffa", null ],
+    [ "R", "d9/d5b/classG4NuclearAbrasionGeometry.html#a0d160870c189da422442d6ca334b5e3a", null ],
+    [ "rP", "d9/d5b/classG4NuclearAbrasionGeometry.html#aa09cbccf13ff6d265772278a9bbf95c3", null ],
+    [ "rT", "d9/d5b/classG4NuclearAbrasionGeometry.html#a4dfb139c977453506913c6602a65d04c", null ],
+    [ "rth", "d9/d5b/classG4NuclearAbrasionGeometry.html#a448ae6044a20a0c2327cd3f8bb603735", null ],
+    [ "S", "d9/d5b/classG4NuclearAbrasionGeometry.html#aac537aa08a867649b5895273652945fb", null ],
+    [ "T", "d9/d5b/classG4NuclearAbrasionGeometry.html#ab157eb3aa618960afeea49350e7b89da", null ],
+    [ "U", "d9/d5b/classG4NuclearAbrasionGeometry.html#a9557016a2c45fae84e5c6f1f244e37a7", null ]
+];

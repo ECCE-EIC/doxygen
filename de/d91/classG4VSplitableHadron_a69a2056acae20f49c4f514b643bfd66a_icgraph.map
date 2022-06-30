@@ -1,0 +1,24 @@
+<map id="G4VSplitableHadron::Set4Momentum" name="G4VSplitableHadron::Set4Momentum">
+<area shape="rect" id="node2" href="$dd/dbb/classG4FTFModel.html#af516f33380646db4248c448efcb6d94c" title="G4FTFModel::AdjustNucleons" alt="" coords="537,101,755,129"/>
+<area shape="rect" id="node5" href="$dd/dbb/classG4FTFModel.html#adadaaf49abcb9fa40d90567e70253ba7" title="G4FTFModel::AdjustNucleons\lAlgorithm_afterSampling" alt="" coords="239,59,458,103"/>
+<area shape="rect" id="node6" href="$dd/dbb/classG4FTFModel.html#a7d5073dd86bce37df3439f8580a87bf6" title="G4FTFModel::AdjustNucleons\lAlgorithm_beforeSampling" alt="" coords="239,127,458,171"/>
+<area shape="rect" id="node7" href="$d8/dd5/classG4FTFAnnihilation.html#a8502aaf796b0d44c422303452466be2c" title="G4FTFAnnihilation::\lCreate1DiquarkAntiDiquarkString" alt="" coords="225,195,472,239"/>
+<area shape="rect" id="node9" href="$d8/dd5/classG4FTFAnnihilation.html#afd4df37d20c9f33c4d3a7923b777876e" title="G4FTFAnnihilation::\lCreate1QuarkAntiQuarkString" alt="" coords="237,263,460,307"/>
+<area shape="rect" id="node10" href="$d8/dd5/classG4FTFAnnihilation.html#adcd4ef988ae9d7ac45bcf90e34fa8f3e" title="G4FTFAnnihilation::\lCreate2QuarkAntiQuarkStrings" alt="" coords="233,331,464,375"/>
+<area shape="rect" id="node11" href="$d8/dd5/classG4FTFAnnihilation.html#a64c67687a761fff0016c76c2bf57ed5f" title="G4FTFAnnihilation::\lCreate3QuarkAntiQuarkStrings" alt="" coords="233,399,464,443"/>
+<area shape="rect" id="node12" href="$d5/dae/classG4ElasticHNScattering.html#a8956696bb1301e6f1720cbd1fde2d17c" title="G4ElasticHNScattering\l::ElasticScattering" alt="" coords="262,467,435,511"/>
+<area shape="rect" id="node13" href="$d9/d3a/classG4DiffractiveExcitation.html#a9f7286ef3f7ce183bcf3931e474aa223" title="G4DiffractiveExcitation\l::ExciteParticipants_doCharge\lExchange" alt="" coords="535,501,757,561"/>
+<area shape="rect" id="node14" href="$d9/d3a/classG4DiffractiveExcitation.html#ae959f7e204e5a422bb748c06abce366f" title="G4DiffractiveExcitation\l::ExciteParticipants" alt="" coords="805,509,983,553"/>
+<area shape="rect" id="node15" href="$db/d5f/classG4QuarkExchange.html#a5191772dedecc968e89e801b368ad58a" title="G4QuarkExchange::ExciteParticipants" alt="" coords="211,637,487,665"/>
+<area shape="rect" id="node18" href="$da/d6b/classG4SingleDiffractiveExcitation.html#aba4926b28514e044fdeef099c87cfeae" title="G4SingleDiffractiveExcitation\l::ExciteParticipants" alt="" coords="239,689,458,733"/>
+<area shape="rect" id="node19" href="$da/d8f/classG4QGSDiffractiveExcitation.html#a7d7243a17a96e924b139a661880ccd23" title="G4QGSDiffractiveExcitation\l::ExciteParticipants" alt="" coords="245,757,452,801"/>
+<area shape="rect" id="node20" href="$d0/d64/classG4QGSParticipants.html#a633345ad4eb76257e62549f697643a7b" title="G4QGSParticipants::\lFinalizeKinematics" alt="" coords="270,825,427,869"/>
+<area shape="rect" id="node21" href="$d0/d64/classG4QGSParticipants.html#af2acf2ceb09b3ab4d4605ca1681b081b" title="G4QGSParticipants::\lPutOnMassShell" alt="" coords="567,825,725,869"/>
+<area shape="rect" id="node22" href="$dd/dbb/classG4FTFModel.html#a00bfb2d9316242f6f8b1c938cd3335c6" title="G4FTFModel::FinalizeKinematics" alt="" coords="229,945,468,973"/>
+<area shape="rect" id="node23" href="$dd/dbb/classG4FTFModel.html#a6a698b32a89e896210bffff1eb6eac80" title="G4FTFModel::PutOnMassShell" alt="" coords="535,945,757,973"/>
+<area shape="rect" id="node3" href="$dd/dbb/classG4FTFModel.html#a8b7187dbefc0137e849b83ec23690966" title="G4FTFModel::ExciteParticipants" alt="" coords="1031,449,1264,477"/>
+<area shape="rect" id="node4" href="$dd/dbb/classG4FTFModel.html#ae51a4d0d59f37d979b53116356e63f49" title="G4FTFModel::GetStrings" alt="" coords="1312,761,1497,789"/>
+<area shape="rect" id="node8" href="$d8/dd5/classG4FTFAnnihilation.html#a73fd21db8de0633e0e7af843c41e6daf" title="G4FTFAnnihilation::\lAnnihilate" alt="" coords="570,331,722,375"/>
+<area shape="rect" id="node16" href="$d0/d64/classG4QGSParticipants.html#a756a38cfaaa2ebc1a10b211954da5ad1" title="G4QGSParticipants::\lPerformDiffractiveCollisions" alt="" coords="542,723,750,767"/>
+<area shape="rect" id="node17" href="$d0/d64/classG4QGSParticipants.html#adc7327c3052afdcff70994d87cd906a3" title="G4QGSParticipants::\lBuildInteractions" alt="" coords="815,753,973,797"/>
+</map>

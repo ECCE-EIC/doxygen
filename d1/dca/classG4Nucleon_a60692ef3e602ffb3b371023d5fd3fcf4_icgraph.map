@@ -1,0 +1,27 @@
+<map id="G4Nucleon::GetDefinition" name="G4Nucleon::GetDefinition">
+<area shape="rect" id="node2" href="$dd/dbb/classG4FTFModel.html#a7d5073dd86bce37df3439f8580a87bf6" title="G4FTFModel::AdjustNucleons\lAlgorithm_beforeSampling" alt="" coords="268,5,487,49"/>
+<area shape="rect" id="node6" href="$d0/d72/classG4BinaryCascade.html#a8ee428eaf64de4b71276efb01ea58121" title="G4BinaryCascade::BuildTargetList" alt="" coords="252,193,503,221"/>
+<area shape="rect" id="node9" href="$dd/d18/classG4BinaryLightIonReaction.html#a38327ae889e8e418224d4a9d3b4ac2d1" title="G4BinaryLightIonReaction\l::Interact" alt="" coords="849,237,1045,281"/>
+<area shape="rect" id="node11" href="$d0/d64/classG4QGSParticipants.html#a81d6e01a580f7ff54f8d0be4448d39de" title="G4QGSParticipants::\lComputeNucleusProperties" alt="" coords="275,348,479,392"/>
+<area shape="rect" id="node14" href="$dd/dbb/classG4FTFModel.html#a2cacdaa677e80c781f574369fbfe3e53" title="G4FTFModel::ComputeNucleus\lProperties" alt="" coords="263,73,492,117"/>
+<area shape="rect" id="node16" href="$d0/d64/classG4QGSParticipants.html#a633345ad4eb76257e62549f697643a7b" title="G4QGSParticipants::\lFinalizeKinematics" alt="" coords="299,416,456,460"/>
+<area shape="rect" id="node17" href="$d0/d64/classG4QGSParticipants.html#a9d2669d8c8a0d21f8f0c751696e6c062" title="G4QGSParticipants::\lGetList" alt="" coords="588,459,745,503"/>
+<area shape="rect" id="node18" href="$dd/d18/classG4BinaryLightIonReaction.html#a8831e28ad89279a9413b40f6ac7e7414" title="G4BinaryLightIonReaction\l::GetProjectileExcitation" alt="" coords="849,305,1045,349"/>
+<area shape="rect" id="node19" href="$d0/d64/classG4QGSParticipants.html#a434d02447618c26743dff22684a070fd" title="G4QGSParticipants::\lGetResiduals" alt="" coords="588,527,745,571"/>
+<area shape="rect" id="node20" href="$dd/dbb/classG4FTFModel.html#a9ae5c4edbe25942f28ab8e1d6afd1cde" title="G4FTFModel::GetResiduals" alt="" coords="565,137,768,165"/>
+<area shape="rect" id="node21" href="$dd/dbb/classG4FTFModel.html#a1f141abb3f0c23ed0cc9051411f3def3" title="G4FTFModel::Init" alt="" coords="309,637,445,665"/>
+<area shape="rect" id="node22" href="$d1/dca/classG4Nucleon.html#a1b3d4444df6e10fb265cce3e11641c01" title="G4Nucleon::operator=" alt="" coords="291,689,464,717"/>
+<area shape="rect" id="node23" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a1c8c78222bbf7168a6b7345f1723696c" title="G4GeneratorPrecompoundInterface\l::Propagate" alt="" coords="247,741,508,785"/>
+<area shape="rect" id="node24" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a5863f08fdf69872a6a903894a6f7f426" title="G4GeneratorPrecompoundInterface\l::PropagateNuclNucl" alt="" coords="247,809,508,853"/>
+<area shape="rect" id="node25" href="$d0/d64/classG4QGSParticipants.html#a71b319da56c87fac577e1d116991b7f0" title="G4QGSParticipants::\lReggeonCascade" alt="" coords="588,595,745,639"/>
+<area shape="rect" id="node26" href="$d4/d1a/classG4VPartonStringModel.html#a031893db1d663059efb14dbfc63e0009" title="G4VPartonStringModel\l::Scatter" alt="" coords="291,877,464,921"/>
+<area shape="rect" id="node3" href="$dd/dbb/classG4FTFModel.html#af516f33380646db4248c448efcb6d94c" title="G4FTFModel::AdjustNucleons" alt="" coords="557,17,776,45"/>
+<area shape="rect" id="node4" href="$dd/dbb/classG4FTFModel.html#a8b7187dbefc0137e849b83ec23690966" title="G4FTFModel::ExciteParticipants" alt="" coords="830,25,1063,53"/>
+<area shape="rect" id="node5" href="$dd/dbb/classG4FTFModel.html#ae51a4d0d59f37d979b53116356e63f49" title="G4FTFModel::GetStrings" alt="" coords="1121,81,1307,109"/>
+<area shape="rect" id="node7" href="$d0/d72/classG4BinaryCascade.html#a8cb949ade0dc2dbac02d409d159f798f" title="G4BinaryCascade::Propagate" alt="" coords="557,193,776,221"/>
+<area shape="rect" id="node8" href="$d0/d72/classG4BinaryCascade.html#a819ef318496ad0fc9ada18470447a6fa" title="G4BinaryCascade::ApplyYourself" alt="" coords="825,185,1068,213"/>
+<area shape="rect" id="node10" href="$dd/d18/classG4BinaryLightIonReaction.html#a7ebd9d632f36d7cdcab5a07202cb765f" title="G4BinaryLightIonReaction\l::ApplyYourself" alt="" coords="1116,271,1312,315"/>
+<area shape="rect" id="node12" href="$d0/d64/classG4QGSParticipants.html#af2acf2ceb09b3ab4d4605ca1681b081b" title="G4QGSParticipants::\lPutOnMassShell" alt="" coords="588,391,745,435"/>
+<area shape="rect" id="node13" href="$d0/d64/classG4QGSParticipants.html#adc7327c3052afdcff70994d87cd906a3" title="G4QGSParticipants::\lBuildInteractions" alt="" coords="868,492,1025,536"/>
+<area shape="rect" id="node15" href="$dd/dbb/classG4FTFModel.html#a6a698b32a89e896210bffff1eb6eac80" title="G4FTFModel::PutOnMassShell" alt="" coords="556,81,777,109"/>
+</map>

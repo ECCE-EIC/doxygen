@@ -1,0 +1,37 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/advanced/eRosita/application/src/eRositaPrimaryGeneratorAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/advanced/eRosita/application/src/eRositaPrimaryGeneratorAction.cc">
+<area shape="rect" id="node2" href="$dc/d15/eRositaPrimaryGeneratorAction_8hh.html" title="eRositaPrimaryGeneratorAction.hh" alt="" coords="65,129,319,157"/>
+<area shape="rect" id="node3" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1771,509,1861,537"/>
+<area shape="rect" id="node21" href="$df/df0/eRositaDetectorConstruction_8hh.html" title="eRositaDetectorConstruction.hh" alt="" coords="1005,129,1241,157"/>
+<area shape="rect" id="node31" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="3307,129,3469,157"/>
+<area shape="rect" id="node32" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="1403,281,1503,309"/>
+<area shape="rect" id="node40" href="$da/d3e/G4ParticleGun_8hh.html" title="G4ParticleGun.hh" alt="" coords="2403,281,2541,309"/>
+<area shape="rect" id="node42" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="2895,357,3073,385"/>
+<area shape="rect" id="node47" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="2995,205,3141,233"/>
+<area shape="rect" id="node20" href="$da/d51/G4VUserPrimaryGeneratorAction_8hh.html" title="G4VUserPrimaryGeneratorAction.hh" alt="" coords="5,205,269,233"/>
+<area shape="rect" id="node4" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1953,737,2034,765"/>
+<area shape="rect" id="node5" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2215,813,2315,841"/>
+<area shape="rect" id="node11" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1533,737,1635,765"/>
+<area shape="rect" id="node16" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1981,585,2091,613"/>
+<area shape="rect" id="node17" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1676,661,1804,689"/>
+<area shape="rect" id="node18" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1727,585,1905,613"/>
+<area shape="rect" id="node8" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="2143,889,2201,917"/>
+<area shape="rect" id="node22" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="496,357,741,385"/>
+<area shape="rect" id="node24" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="2121,205,2269,233"/>
+<area shape="rect" id="node25" href="$d2/d5d/graphics__reps__defs_8hh.html" title="graphics_reps_defs.hh" alt="" coords="3355,509,3527,537"/>
+<area shape="rect" id="node26" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="2239,357,2343,385"/>
+<area shape="rect" id="node28" href="$d8/d72/G4Color_8hh.html" title="G4Color.hh" alt="" coords="2232,281,2328,309"/>
+<area shape="rect" id="node29" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="3109,509,3331,537"/>
+<area shape="rect" id="node27" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="2369,433,2511,461"/>
+<area shape="rect" id="node33" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="1923,433,2015,461"/>
+<area shape="rect" id="node34" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="1265,433,1385,461"/>
+<area shape="rect" id="node35" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="2007,357,2163,385"/>
+<area shape="rect" id="node37" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="918,357,1079,385"/>
+<area shape="rect" id="node38" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="1103,357,1297,385"/>
+<area shape="rect" id="node39" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="1559,357,1777,385"/>
+<area shape="rect" id="node41" href="$d9/d9f/G4VPrimaryGenerator_8hh.html" title="G4VPrimaryGenerator.hh" alt="" coords="2367,357,2556,385"/>
+<area shape="rect" id="node46" href="$dc/d2b/G4ParticleMomentum_8hh.html" title="G4ParticleMomentum.hh" alt="" coords="2581,357,2769,385"/>
+<area shape="rect" id="node43" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="3116,433,3359,461"/>
+<area shape="rect" id="node44" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="2637,433,2787,461"/>
+<area shape="rect" id="node48" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1801,357,1932,385"/>
+<area shape="rect" id="node49" href="$dc/dcc/G4ParticleTableIterator_8hh.html" title="G4ParticleTableIterator.hh" alt="" coords="3013,281,3208,309"/>
+</map>

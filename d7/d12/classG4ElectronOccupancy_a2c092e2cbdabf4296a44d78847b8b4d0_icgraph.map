@@ -1,0 +1,26 @@
+<map id="G4ElectronOccupancy::AddElectron" name="G4ElectronOccupancy::AddElectron">
+<area shape="rect" id="node2" href="$dc/da7/classG4MolecularConfiguration.html#a42bcf7c33ee29de484c4c77fcf31e997" title="G4MolecularConfiguration\l::AddElectron" alt="" coords="245,304,443,348"/>
+<area shape="rect" id="node18" href="$d3/df8/classG4EmDNAChemistry.html#acb7f4dade4f1200f08960837b61f7440" title="G4EmDNAChemistry::Construct\lDissociationChannels" alt="" coords="227,372,461,416"/>
+<area shape="rect" id="node19" href="$d6/d81/classG4EmDNAChemistry__option1.html#a9b3c2c165ad89097071b1320d046955d" title="G4EmDNAChemistry_option1\l::ConstructDissociationChannels" alt="" coords="224,440,464,484"/>
+<area shape="rect" id="node20" href="$df/dbe/classG4EmDNAChemistry__option2.html#a46e3eb0cc02089a64a948a3049b85b9a" title="G4EmDNAChemistry_option2\l::ConstructDissociationChannels" alt="" coords="224,508,464,552"/>
+<area shape="rect" id="node21" href="$dc/da7/classG4MolecularConfiguration.html#a04c01a27efc0416a6fab2e5a8bc3e2ba" title="G4MolecularConfiguration\l::ExciteMolecule" alt="" coords="245,576,443,620"/>
+<area shape="rect" id="node23" href="$dc/da7/classG4MolecularConfiguration.html#a523b190f991b529b16caefbf9d8dfa90" title="G4MolecularConfiguration\l::MoveOneElectron" alt="" coords="245,644,443,688"/>
+<area shape="rect" id="node25" href="$dd/d58/classG4MoleculeDefinition.html#aaea93b64e928c073e366459822239aa6" title="G4MoleculeDefinition\l::SetLevelOccupation" alt="" coords="261,712,427,756"/>
+<area shape="rect" id="node3" href="$d9/d66/classG4Molecule.html#a171b838f4e7288bacb958261fe56bff7" title="G4Molecule::AddElectron" alt="" coords="531,368,721,396"/>
+<area shape="rect" id="node4" href="$dc/d37/classG4DNAChemistryManager.html#affaff8d66b90efb07cade704c0c7fff1" title="G4DNAChemistryManager\l::CreateWaterMolecule" alt="" coords="788,413,987,457"/>
+<area shape="rect" id="node5" href="$da/d9e/classG4DNADingfelderChargeDecreaseModel.html#addf784b3aef8880871c5639d87ba02c8" title="G4DNADingfelderChargeDecrease\lModel::SampleSecondaries" alt="" coords="1035,5,1287,49"/>
+<area shape="rect" id="node6" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#a3aa2d65d5b31ec0e1acab89828abeed0" title="G4DNARuddIonisationExtended\lModel::SampleSecondaries" alt="" coords="1043,73,1278,117"/>
+<area shape="rect" id="node7" href="$d5/d93/classG4DNARuddIonisationModel.html#aacf670d2e82ad8dc8f57dc7ad00469d0" title="G4DNARuddIonisationModel\l::SampleSecondaries" alt="" coords="1055,141,1266,185"/>
+<area shape="rect" id="node8" href="$d9/d5e/classG4DNABornExcitationModel1.html#a44b9b0ec5e50995834684d7b6625b886" title="G4DNABornExcitationModel1\l::SampleSecondaries" alt="" coords="1052,209,1269,253"/>
+<area shape="rect" id="node9" href="$d7/d47/classG4DNABornIonisationModel2.html#a91280b5bc8dda13a92747fbf248f0ac3" title="G4DNABornIonisationModel2\l::SampleSecondaries" alt="" coords="1053,277,1269,321"/>
+<area shape="rect" id="node10" href="$dc/db0/classG4DNABornIonisationModel1.html#add3e46ff8c6c2abe7614ef16741151e9" title="G4DNABornIonisationModel1\l::SampleSecondaries" alt="" coords="1053,345,1269,389"/>
+<area shape="rect" id="node11" href="$df/d94/classG4DNABornExcitationModel2.html#a53957fd3ccf0f54c6a595fc61608bffa" title="G4DNABornExcitationModel2\l::SampleSecondaries" alt="" coords="1052,413,1269,457"/>
+<area shape="rect" id="node12" href="$d4/d3a/classG4DNAMillerGreenExcitationModel.html#a744443a9ae8b7ae03cb3060acbdfb3e2" title="G4DNAMillerGreenExcitation\lModel::SampleSecondaries" alt="" coords="1053,481,1268,525"/>
+<area shape="rect" id="node13" href="$df/d79/classG4DNAEmfietzoglouExcitationModel.html#a385bd68658a14d32a54ae4d27c9f6499" title="G4DNAEmfietzoglouExcitation\lModel::SampleSecondaries" alt="" coords="1048,549,1273,593"/>
+<area shape="rect" id="node14" href="$d2/d6f/classG4DNAEmfietzoglouIonisationModel.html#af0bf8601fc84d88f4f1d580b6fa06310" title="G4DNAEmfietzoglouIonisation\lModel::SampleSecondaries" alt="" coords="1049,617,1273,661"/>
+<area shape="rect" id="node15" href="$db/d91/classG4DNACPA100ExcitationModel.html#ae2e0cc056a7dd80a35275b75e149e4ca" title="G4DNACPA100ExcitationModel\l::SampleSecondaries" alt="" coords="1047,685,1275,729"/>
+<area shape="rect" id="node16" href="$dc/da4/classG4DNACPA100IonisationModel.html#ad176f1ac17a890c4979e4070e06e052b" title="G4DNACPA100IonisationModel\l::SampleSecondaries" alt="" coords="1047,753,1274,797"/>
+<area shape="rect" id="node17" href="$da/dd5/classG4DNAPTBExcitationModel.html#aa865fb2f26cce62f6891453efa1b5a42" title="SampleSecondaries If the model is selected for the ModelInterface then the SampleSecondaries method w..." alt="" coords="1059,821,1262,865"/>
+<area shape="rect" id="node22" href="$d9/d66/classG4Molecule.html#ac5e3da7546d3029abea5be42c110a14d" title="G4Molecule::ExciteMolecule" alt="" coords="521,475,731,503"/>
+<area shape="rect" id="node24" href="$d9/d66/classG4Molecule.html#a387685f32a122f778c2423206c6d7d10" title="G4Molecule::MoveOneElectron" alt="" coords="512,652,740,680"/>
+</map>

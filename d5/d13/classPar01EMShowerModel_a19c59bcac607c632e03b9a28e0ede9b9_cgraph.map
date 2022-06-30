@@ -1,0 +1,29 @@
+<map id="Par01EMShowerModel::AssignSpotAndCallHit" name="Par01EMShowerModel::AssignSpotAndCallHit">
+<area shape="rect" id="node2" href="$d5/d13/classPar01EMShowerModel.html#ad2dc2f404e5663e6c1005ba9ab59baa6" title="Par01EMShowerModel\l::FillFakeStep" alt="" coords="245,140,415,184"/>
+<area shape="rect" id="node14" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="1045,665,1209,709"/>
+<area shape="rect" id="node15" href="$df/d47/classG4StepPoint.html#ac562791462aede5cfa51be7793cae137" title="G4StepPoint::GetPhysical\lVolume" alt="" coords="766,349,958,393"/>
+<area shape="rect" id="node16" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="1032,357,1223,385"/>
+<area shape="rect" id="node17" href="$df/dbc/classG4VSensitiveDetector.html#a448c276500112abbd39c9c0d5a9d51d5" title="G4VSensitiveDetector::Hit" alt="" coords="231,536,429,564"/>
+<area shape="rect" id="node3" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="488,109,700,153"/>
+<area shape="rect" id="node10" href="$dc/d2a/classPar01EnergySpot.html#a15f3eff3414dd4429072e141de8b1b20" title="Par01EnergySpot::GetPosition" alt="" coords="483,177,705,205"/>
+<area shape="rect" id="node11" href="$df/d47/classG4StepPoint.html#a8e251ea81184923760e577dbe20bda17" title="G4StepPoint::SetTouchable\lHandle" alt="" coords="492,229,696,273"/>
+<area shape="rect" id="node12" href="$d9/d7a/classG4Step.html#ad8fe9389a2649a1de456df55963e1f02" title="G4Step::SetTotalEnergyDeposit" alt="" coords="477,5,711,33"/>
+<area shape="rect" id="node13" href="$dc/d2a/classPar01EnergySpot.html#ad10fd019927aa0462642b3378083e8a9" title="Par01EnergySpot::GetEnergy" alt="" coords="485,57,703,85"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="759,109,965,153"/>
+<area shape="rect" id="node5" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1042,65,1213,93"/>
+<area shape="rect" id="node6" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1051,117,1204,145"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1074,169,1181,197"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1030,221,1225,265"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1013,13,1241,41"/>
+<area shape="rect" id="node18" href="$d5/d2d/classG4VSDFilter.html#a6965003a1c09a41e81ef4ab4c111f7a3" title="G4VSDFilter::Accept" alt="" coords="515,536,673,564"/>
+<area shape="rect" id="node19" href="$d5/d11/classG4VReadOutGeometry.html#a7fb6e364e4bda7e6965f4a3c5bef6b8f" title="G4VReadOutGeometry\l::CheckROVolume" alt="" coords="506,468,682,512"/>
+<area shape="rect" id="node27" href="$df/dbc/classG4VSensitiveDetector.html#ad56137e6d4a9444fdfa6b606b8a50a4d" title="G4VSensitiveDetector\l::isActive" alt="" coords="509,588,679,632"/>
+<area shape="rect" id="node28" href="$df/dbc/classG4VSensitiveDetector.html#ad6370486de778e524660ed44ae1d3d68" title="G4VSensitiveDetector\l::ProcessHits" alt="" coords="509,656,679,700"/>
+<area shape="rect" id="node20" href="$d1/d83/classG4SensitiveVolumeList.html#a616b6efd6c08311033dc6790eec7572a" title="G4SensitiveVolumeList\l::CheckLV" alt="" coords="773,537,951,581"/>
+<area shape="rect" id="node21" href="$d1/d83/classG4SensitiveVolumeList.html#a007adae3e72b21df2293c11f77e68a20" title="G4SensitiveVolumeList\l::CheckPV" alt="" coords="773,605,951,649"/>
+<area shape="rect" id="node22" href="$d5/d11/classG4VReadOutGeometry.html#ab44f7983da5da5daa2f8de0748aec586" title="G4VReadOutGeometry\l::FindROTouchable" alt="" coords="774,469,950,513"/>
+<area shape="rect" id="node23" href="$df/d47/classG4StepPoint.html#a6bb1e7841c0b9ae2ea16a78fac7d77ad" title="G4StepPoint::GetMomentum\lDirection" alt="" coords="1020,409,1235,453"/>
+<area shape="rect" id="node24" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="1032,477,1223,505"/>
+<area shape="rect" id="node25" href="$d2/dc3/classG4TouchableHistory.html#acb2a2615b5d70d448a3b0ed427e501e0" title="G4TouchableHistory\l::GetVolume" alt="" coords="1049,529,1206,573"/>
+<area shape="rect" id="node26" href="$d9/d53/classG4Navigator.html#aa43a21e86cbb36fb1940b9291c4cfcf1" title="G4Navigator::LocateGlobal\lPointAndUpdateTouchable" alt="" coords="1026,597,1229,641"/>
+</map>

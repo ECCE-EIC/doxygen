@@ -1,0 +1,17 @@
+<map id="G4SafetyHelper::RecheckDistanceToCurrentBoundary" name="G4SafetyHelper::RecheckDistanceToCurrentBoundary">
+<area shape="rect" id="node2" href="$dd/dfc/classG4PathFinder.html#a6c796290134c5454b03fdbd3c6a6c575" title="G4PathFinder::RecheckDistance\lToCurrentBoundary" alt="" coords="305,319,540,363"/>
+<area shape="rect" id="node3" href="$d9/d53/classG4Navigator.html#a39bd3293bb383e8895c03f15dc622cd7" title="G4Navigator::RecheckDistance\lToCurrentBoundary" alt="" coords="588,349,819,393"/>
+<area shape="rect" id="node4" href="$da/dc4/classG4LogicalVolume.html#aa08a98f935981ef2b1be29c602a3d1bf" title="G4LogicalVolume::Characterise\lDaughters" alt="" coords="870,5,1103,49"/>
+<area shape="rect" id="node5" href="$d9/d53/classG4Navigator.html#a1c393a8bbf16e90620b12d4226b92797" title="G4Navigator::ComputeLocalAxis" alt="" coords="867,73,1107,101"/>
+<area shape="rect" id="node6" href="$d9/d53/classG4Navigator.html#a0f8194f31956bdcbeabc18648ec4bd16" title="G4Navigator::ComputeLocal\lPoint" alt="" coords="881,125,1092,169"/>
+<area shape="rect" id="node7" href="$da/d34/classG4VSolid.html#ac95e39d50f7c8c311128d0ebb15243cf" title="G4VSolid::DistanceToIn" alt="" coords="898,193,1075,221"/>
+<area shape="rect" id="node8" href="$da/d34/classG4VSolid.html#a6b0064936626582fba8aabe34e531648" title="G4VSolid::DistanceToOut" alt="" coords="891,245,1082,273"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="933,297,1040,325"/>
+<area shape="rect" id="node10" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="905,349,1069,393"/>
+<area shape="rect" id="node11" href="$d1/d28/classG4VPhysicalVolume.html#a4b8b8520fc66e0e3a7cc7d4dbc1cc37c" title="G4VPhysicalVolume::\lGetRotation" alt="" coords="905,417,1069,461"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="885,485,1089,513"/>
+<area shape="rect" id="node13" href="$d4/d3b/classG4NavigationHistory.html#af7880d2c61e4fcb69267cddca74573d0" title="G4NavigationHistory\l::GetTopVolume" alt="" coords="906,537,1067,581"/>
+<area shape="rect" id="node14" href="$d4/d3b/classG4NavigationHistory.html#ae17f7fb335dcb9c9faa46694d130a951" title="G4NavigationHistory\l::GetTopVolumeType" alt="" coords="906,605,1067,649"/>
+<area shape="rect" id="node15" href="$d1/d28/classG4VPhysicalVolume.html#aa3451c7999f343b2510f35b3c1d8d289" title="G4VPhysicalVolume::\lGetTranslation" alt="" coords="905,673,1069,717"/>
+<area shape="rect" id="node16" href="$da/d34/classG4VSolid.html#a65ec466e3542e3a700b4dc70937a2c47" title="G4VSolid::Inside" alt="" coords="921,741,1053,769"/>
+</map>

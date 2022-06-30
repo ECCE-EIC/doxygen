@@ -1,0 +1,36 @@
+<map id="G4StatMFParameters::GetCoulomb" name="G4StatMFParameters::GetCoulomb">
+<area shape="rect" id="node2" href="$d3/d9d/classG4StatMFMacroMultiplicity.html#a85ee4f0476d7758a4af18e5165eb3cf0" title="G4StatMFMacroMultiplicity\l::CalcChemicalPotentialMu" alt="" coords="239,5,440,49"/>
+<area shape="rect" id="node6" href="$d4/d25/classG4StatMFMacroChemicalPotential.html#a3a22d665495175904ebd5b80eff53f2f" title="G4StatMFMacroChemicalPotential\l::CalcChemicalPotentialNu" alt="" coords="1401,36,1651,80"/>
+<area shape="rect" id="node14" href="$d9/d12/classG4StatMFMacroTriNucleon.html#a09e4ab08dd40ab45ea6cf1747e47795a" title="G4StatMFMacroTriNucleon\l::CalcEnergy" alt="" coords="241,125,438,169"/>
+<area shape="rect" id="node15" href="$d3/dbe/classG4StatMFMacroTetraNucleon.html#a68a584dcc25f8f0da65d9691e6a7fd8e" title="G4StatMFMacroTetraNucleon\l::CalcEnergy" alt="" coords="231,193,447,237"/>
+<area shape="rect" id="node16" href="$dc/d1d/classG4StatMFMacroNucleon.html#a76a985bc5433554c8354fe1f6c1296b7" title="G4StatMFMacroNucleon\l::CalcEnergy" alt="" coords="248,261,431,305"/>
+<area shape="rect" id="node17" href="$df/db5/classG4StatMFMacroBiNucleon.html#a57376c68147f9e9fc0172e940ab35496" title="G4StatMFMacroBiNucleon\l::CalcEnergy" alt="" coords="242,329,437,373"/>
+<area shape="rect" id="node18" href="$dd/d09/classG4StatMFMacroMultiNucleon.html#a1a83968d7924cf87aed7ef998d6ede3e" title="G4StatMFMacroMultiNucleon\l::CalcEnergy" alt="" coords="232,397,447,441"/>
+<area shape="rect" id="node19" href="$dd/d2a/classG4StatMF.html#a79a4411a3184d31ab4b960dca8ec2cb3" title="G4StatMF::CalcEnergy" alt="" coords="254,465,425,493"/>
+<area shape="rect" id="node22" href="$dc/d1d/classG4StatMFMacroNucleon.html#a03477dec776d30eb82962a1a9b21199b" title="G4StatMFMacroNucleon\l::CalcMeanMultiplicity" alt="" coords="248,517,431,561"/>
+<area shape="rect" id="node23" href="$d3/dbe/classG4StatMFMacroTetraNucleon.html#ae973bd41009e6a2ecec35d961aa70111" title="G4StatMFMacroTetraNucleon\l::CalcMeanMultiplicity" alt="" coords="231,585,447,629"/>
+<area shape="rect" id="node24" href="$d9/d12/classG4StatMFMacroTriNucleon.html#a04823759696d7f1674d28182244ac311" title="G4StatMFMacroTriNucleon\l::CalcMeanMultiplicity" alt="" coords="241,653,438,697"/>
+<area shape="rect" id="node25" href="$df/db5/classG4StatMFMacroBiNucleon.html#ac3da57ea27d4f58cb15cfcffaa07a909" title="G4StatMFMacroBiNucleon\l::CalcMeanMultiplicity" alt="" coords="242,721,437,765"/>
+<area shape="rect" id="node26" href="$dd/d09/classG4StatMFMacroMultiNucleon.html#aaa4a979589cfee0cbf0a0cdfd2e5f77a" title="G4StatMFMacroMultiNucleon\l::CalcMeanMultiplicity" alt="" coords="232,789,447,833"/>
+<area shape="rect" id="node27" href="$dd/d09/classG4StatMFMacroMultiNucleon.html#a51ac8e9f85dc42ecc82bc43814718097" title="G4StatMFMacroMultiNucleon\l::CalcZARatio" alt="" coords="232,857,447,901"/>
+<area shape="rect" id="node28" href="$d9/df6/classG4StatMFMacroCanonical.html#a388b7b804b76966b3f4a43eaf0a2d54c" title="G4StatMFMacroCanonical\l::ChooseZ" alt="" coords="243,925,436,969"/>
+<area shape="rect" id="node30" href="$d6/dc9/classG4StatMFMicroPartition.html#a775d1956ed0434f60c6489d44911bc78" title="G4StatMFMicroPartition\l::CoulombFreeEnergy" alt="" coords="250,993,429,1037"/>
+<area shape="rect" id="node34" href="$d9/d1b/classG4StatMFFragment.html#a4798607f82029ed7bc77d9bc51141830" title="G4StatMFFragment::GetCoulomb\lEnergy" alt="" coords="217,1061,461,1105"/>
+<area shape="rect" id="node3" href="$d4/d25/classG4StatMFMacroChemicalPotential.html#a062b79c2919039b9032e3d3f6ff803a5" title="G4StatMFMacroChemicalPotential\l::CalcChemicalPotentialMu" alt="" coords="509,5,759,49"/>
+<area shape="rect" id="node4" href="$d4/d25/classG4StatMFMacroChemicalPotential.html#a2d9e57002883736336747e38e266b94d" title="G4StatMFMacroChemicalPotential\l::CalcMeanZ" alt="" coords="807,5,1056,49"/>
+<area shape="rect" id="node5" href="$d4/d25/classG4StatMFMacroChemicalPotential.html#a3dea86e6ab72524a1180b2503f4920df" title="G4StatMFMacroChemicalPotential\l::operator()" alt="" coords="1104,5,1353,49"/>
+<area shape="rect" id="node7" href="$de/d75/classG4StatMFMacroTemperature.html#ad42540b0a641385f3876d8ec1fb287d8" title="G4StatMFMacroTemperature\l::CalcChemicalPotentialNu" alt="" coords="1699,36,1912,80"/>
+<area shape="rect" id="node8" href="$de/d75/classG4StatMFMacroTemperature.html#a6f86efffe57f6c61e3665dd851e2f289" title="G4StatMFMacroTemperature\l::FragsExcitEnergy" alt="" coords="1960,36,2173,80"/>
+<area shape="rect" id="node9" href="$de/d75/classG4StatMFMacroTemperature.html#a24e2479d23af9ec90211e64318c4886f" title="G4StatMFMacroTemperature\l::operator()" alt="" coords="2221,36,2435,80"/>
+<area shape="rect" id="node10" href="$de/d75/classG4StatMFMacroTemperature.html#ae7e845ddc9649b781281088e64295bd1" title="G4StatMFMacroTemperature\l::CalcTemperature" alt="" coords="2483,36,2696,80"/>
+<area shape="rect" id="node11" href="$d9/df6/classG4StatMFMacroCanonical.html#a13e558a68b97e13a58ef75a7a108e245" title="G4StatMFMacroCanonical\l::CalculateTemperature" alt="" coords="2744,36,2937,80"/>
+<area shape="rect" id="node12" href="$d9/df6/classG4StatMFMacroCanonical.html#a7a522e0545c34388dea939af744298a0" title="G4StatMFMacroCanonical\l::Initialize" alt="" coords="2985,36,3179,80"/>
+<area shape="rect" id="node13" href="$d9/df6/classG4StatMFMacroCanonical.html#aa5a5eb43764c4270bc30469d3f59660e" title="G4StatMFMacroCanonical\l::G4StatMFMacroCanonical" alt="" coords="3227,36,3429,80"/>
+<area shape="rect" id="node20" href="$dd/d2a/classG4StatMF.html#a9bfb581f95cff4e3d1e357b856ecdee4" title="G4StatMF::FindTemperature\lOfBreakingChannel" alt="" coords="530,557,738,601"/>
+<area shape="rect" id="node21" href="$dd/d2a/classG4StatMF.html#a46bfab31d184316019c0be5c7f883595" title="G4StatMF::BreakItUp" alt="" coords="851,649,1012,677"/>
+<area shape="rect" id="node29" href="$d9/df6/classG4StatMFMacroCanonical.html#ad7eab8da0863e4770db3a4f66324c775" title="G4StatMFMacroCanonical\l::ChooseAandZ" alt="" coords="537,725,731,769"/>
+<area shape="rect" id="node31" href="$d6/dc9/classG4StatMFMicroPartition.html#a82797e7485bb7fb435df48d8c31910f6" title="G4StatMFMicroPartition\l::SetPartitionFragment" alt="" coords="545,993,723,1037"/>
+<area shape="rect" id="node32" href="$dd/da4/classG4StatMFMicroManager.html#af668bf807b0da6b2c7dc44c82321d567" title="G4StatMFMicroManager\l::Initialize" alt="" coords="840,993,1023,1037"/>
+<area shape="rect" id="node33" href="$dd/da4/classG4StatMFMicroManager.html#a04e78502a33ca439bf8b732311dde4a8" title="G4StatMFMicroManager\l::G4StatMFMicroManager" alt="" coords="1133,993,1325,1037"/>
+<area shape="rect" id="node35" href="$d9/d1b/classG4StatMFFragment.html#a74dffcbaa7f95da1c4c936b10d3f0315" title="G4StatMFFragment::GetEnergy" alt="" coords="518,1069,750,1097"/>
+</map>

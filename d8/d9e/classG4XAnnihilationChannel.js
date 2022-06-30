@@ -1,0 +1,25 @@
+var classG4XAnnihilationChannel =
+[
+    [ "G4XAnnihilationChannel", "d8/d9e/classG4XAnnihilationChannel.html#aa5c99116475049112c061bb5810388dd", null ],
+    [ "G4XAnnihilationChannel", "d8/d9e/classG4XAnnihilationChannel.html#ad95ce4216205db23fc434dee83cdac0c", null ],
+    [ "~G4XAnnihilationChannel", "d8/d9e/classG4XAnnihilationChannel.html#afdfc820a2bd4cf4310fc545a855fd9c7", null ],
+    [ "G4XAnnihilationChannel", "d8/d9e/classG4XAnnihilationChannel.html#a635007699afc7c627ca710d7e6980f28", null ],
+    [ "Branch", "d8/d9e/classG4XAnnihilationChannel.html#a6c24101165eaba7e0da69ece0251a0d0", null ],
+    [ "CrossSection", "d8/d9e/classG4XAnnihilationChannel.html#a6c4595ad5017e603358035ae9eafff04", null ],
+    [ "GetComponents", "d8/d9e/classG4XAnnihilationChannel.html#ace783c8f71c7c24b755757a5ecad50c4", null ],
+    [ "IsValid", "d8/d9e/classG4XAnnihilationChannel.html#ad7aa0d34fc22dff71ccfefebb743d685", null ],
+    [ "Name", "d8/d9e/classG4XAnnihilationChannel.html#a664a225d497f409d1a58a83533779022", null ],
+    [ "NormalizedClebsch", "d8/d9e/classG4XAnnihilationChannel.html#a1ce7abfa8d94fef5cb2b293b9c5aa564", null ],
+    [ "operator!=", "d8/d9e/classG4XAnnihilationChannel.html#a5aa2eadda340bf8e36654e52bca5f9c3", null ],
+    [ "operator=", "d8/d9e/classG4XAnnihilationChannel.html#a868f6d4b7cdfeb6f4776fb94a4128ac2", null ],
+    [ "operator==", "d8/d9e/classG4XAnnihilationChannel.html#a876602403be5ff46fb1709474c6f0016", null ],
+    [ "VariablePartialWidth", "d8/d9e/classG4XAnnihilationChannel.html#a60f45dd46b948550924925242d793162", null ],
+    [ "VariableWidth", "d8/d9e/classG4XAnnihilationChannel.html#ada6661f5f4c2a2258b257da85b958965", null ],
+    [ "clebsch", "d8/d9e/classG4XAnnihilationChannel.html#ada2f81d76cda8467ecd89c03c9293e9b", null ],
+    [ "highLimit", "d8/d9e/classG4XAnnihilationChannel.html#adf60b5d6c7b346fbe9412a2633ec7425", null ],
+    [ "lowLimit", "d8/d9e/classG4XAnnihilationChannel.html#ac2b269e9151415c9ade1f8e9226fc028", null ],
+    [ "partWidthTable", "d8/d9e/classG4XAnnihilationChannel.html#abf054063bc480fcf50c31919ed3b408d", null ],
+    [ "resonance", "d8/d9e/classG4XAnnihilationChannel.html#a6acd764fc3b42a9f331b608c1ae443fd", null ],
+    [ "theNames", "d8/d9e/classG4XAnnihilationChannel.html#a2fd9d054abcc0378e6cfa19efe44127b", null ],
+    [ "widthTable", "d8/d9e/classG4XAnnihilationChannel.html#a1bae1f20abb0a1b2485ad140bb008c1c", null ]
+];

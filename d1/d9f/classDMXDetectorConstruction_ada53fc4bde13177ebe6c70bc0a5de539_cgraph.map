@@ -1,0 +1,21 @@
+<map id="DMXDetectorConstruction::Construct" name="DMXDetectorConstruction::Construct">
+<area shape="rect" id="node2" href="$da/dbc/classG4MaterialPropertiesTable.html#af8f630001ea7d2f78f339ac0d730bac2" title="G4MaterialPropertiesTable\l::AddProperty" alt="" coords="278,73,477,117"/>
+<area shape="rect" id="node13" href="$d1/d9f/classDMXDetectorConstruction.html#ab8e2a07dc828a0dc6251cbcfd270759e" title="DMXDetectorConstruction\l::DefineMaterials" alt="" coords="279,141,475,185"/>
+<area shape="rect" id="node14" href="$dc/df1/classG4VisAttributes.html#a8a93e48d71166a664f2817eb4038a20f" title="G4VisAttributes::GetInvisible" alt="" coords="269,209,485,237"/>
+<area shape="rect" id="node16" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="280,261,475,305"/>
+<area shape="rect" id="node17" href="$d4/d86/classG4OpticalSurface.html#a112d555d8e6ddf9e74bb7d9a2250d6ea" title="G4OpticalSurface::SetMaterial\lPropertiesTable" alt="" coords="265,329,490,373"/>
+<area shape="rect" id="node18" href="$da/dc4/classG4LogicalVolume.html#a2cee3bf46b1bf2d36359d07929284b85" title="G4LogicalVolume::SetUser\lLimits" alt="" coords="277,397,478,441"/>
+<area shape="rect" id="node19" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="249,465,505,493"/>
+<area shape="rect" id="node20" href="$dc/df1/classG4VisAttributes.html#a2c633b86c23dd2b32229db126885efd6" title="G4VisAttributes::SetVisibility" alt="" coords="270,517,485,545"/>
+<area shape="rect" id="node3" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="575,5,773,49"/>
+<area shape="rect" id="node5" href="$da/dbc/classG4MaterialPropertiesTable.html#a086f7d7eb71abeb9270dc37028d3d8b8" title="G4MaterialPropertiesTable\l::CalculateGROUPVEL" alt="" coords="575,73,773,117"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="898,17,1005,45"/>
+<area shape="rect" id="node6" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="919,73,983,101"/>
+<area shape="rect" id="node12" href="$dc/d99/classG4PhysicsOrderedFreeVector.html#a27c29e664f582dd93ee469bd001c9f7f" title="G4PhysicsOrderedFreeVector\l::InsertValues" alt="" coords="843,125,1060,169"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1132,21,1324,49"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1132,73,1324,101"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1108,125,1348,153"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1396,99,1584,127"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1396,151,1584,179"/>
+<area shape="rect" id="node15" href="$dc/df1/classG4VisAttributes.html#a9c8337a3bcb268de3ba3ff009734c284" title="G4VisAttributes::G4VisAttributes" alt="" coords="553,209,795,237"/>
+</map>

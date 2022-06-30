@@ -1,0 +1,25 @@
+<map id="G4DNAPTBIonisationModel::DifferentialCrossSection" name="G4DNAPTBIonisationModel::DifferentialCrossSection">
+<area shape="rect" id="node2" href="$d3/d96/classG4Electron.html#a981418d4d6fdb59a467c7070c691e53b" title="G4Electron::ElectronDefinition" alt="" coords="255,118,480,146"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="290,222,445,266"/>
+<area shape="rect" id="node18" href="$d1/dee/classG4DNAPTBIonisationStructure.html#a32cacfff97f58a6f13f82eca9cfce9f9" title="G4DNAPTBIonisationStructure\l::IonisationEnergy" alt="" coords="255,46,479,90"/>
+<area shape="rect" id="node20" href="$d2/dd8/classG4Proton.html#a16a4c07451ddd7d28dc065be0a2840d8" title="G4Proton::ProtonDefinition" alt="" coords="267,170,468,198"/>
+<area shape="rect" id="node23" href="$dc/d67/classG4DNAPTBIonisationModel.html#ac8a498f05c86ddb5d6602aa4be105d81" title="QuadInterpolator." alt="" coords="267,290,468,334"/>
+<area shape="rect" id="node3" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="555,118,725,146"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="802,224,1010,268"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="800,172,1012,200"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1100,45,1264,89"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="807,104,1005,148"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1081,286,1283,330"/>
+<area shape="rect" id="node6" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1378,252,1554,296"/>
+<area shape="rect" id="node7" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1378,320,1554,364"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1375,200,1557,228"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1389,388,1543,432"/>
+<area shape="rect" id="node10" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1352,456,1580,484"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1060,113,1304,141"/>
+<area shape="rect" id="node14" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1070,165,1294,193"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1413,53,1519,81"/>
+<area shape="rect" id="node19" href="$d1/dee/classG4DNAPTBIonisationStructure.html#a8697efa7a4e6a13ad0295d685c89a139" title="G4DNAPTBIonisationStructure\l::ReplaceMaterial" alt="" coords="528,46,752,90"/>
+<area shape="rect" id="node21" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="561,172,719,200"/>
+<area shape="rect" id="node22" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="844,292,968,320"/>
+<area shape="rect" id="node24" href="$dc/d67/classG4DNAPTBIonisationModel.html#ae2c063fed093dc7124f8c72c4e753c4d" title="LogLogInterpolate." alt="" coords="539,290,741,334"/>
+</map>

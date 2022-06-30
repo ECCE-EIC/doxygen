@@ -1,0 +1,11 @@
+<map id="G4WorkerThread::GetThreadId" name="G4WorkerThread::GetThreadId">
+<area shape="rect" id="node2" href="$d3/db3/classG4WorkerRunManager.html#a75f5ac19b325dcbbe9c01ad30f1ea3f9" title="G4WorkerRunManager\l::rndmSaveThisEvent" alt="" coords="311,5,486,49"/>
+<area shape="rect" id="node3" href="$d3/db3/classG4WorkerRunManager.html#ab049cafae3abd4483636e911fffeedf5" title="G4WorkerRunManager\l::rndmSaveThisRun" alt="" coords="311,73,486,117"/>
+<area shape="rect" id="node4" href="$dd/d14/classG4WorkerThread.html#a94e10d22f0c95e61c646b44f7f85293f" title="G4WorkerThread::SetPinAffinity" alt="" coords="281,141,516,169"/>
+<area shape="rect" id="node5" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="564,144,752,188"/>
+<area shape="rect" id="node6" href="$d3/db3/classG4WorkerRunManager.html#af6ea06a81406c521adc0d23f10dff8c7" title="G4WorkerRunManager\l::StoreRNGStatus" alt="" coords="311,245,486,289"/>
+<area shape="rect" id="node7" href="$d3/db3/classG4WorkerRunManager.html#af58cf44988ee99b02cad3cbb89dad48d" title="G4WorkerRunManager\l::GenerateEvent" alt="" coords="571,233,745,277"/>
+<area shape="rect" id="node10" href="$d3/db3/classG4WorkerRunManager.html#accd7793b6e80b2f66a0876a4b4745c33" title="G4WorkerRunManager\l::RunInitialization" alt="" coords="571,301,745,345"/>
+<area shape="rect" id="node8" href="$d3/db3/classG4WorkerRunManager.html#abf86940ad939269f58bb800ab85e6c14" title="G4WorkerRunManager\l::ProcessOneEvent" alt="" coords="800,233,975,277"/>
+<area shape="rect" id="node9" href="$d3/db3/classG4WorkerRunManager.html#ad7d3265e0002a28f27acee9c98ccf548" title="G4WorkerRunManager\l::DoEventLoop" alt="" coords="1023,233,1197,277"/>
+</map>

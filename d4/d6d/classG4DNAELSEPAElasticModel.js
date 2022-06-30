@@ -1,0 +1,28 @@
+var classG4DNAELSEPAElasticModel =
+[
+    [ "TriDimensionMap", "d4/d6d/classG4DNAELSEPAElasticModel.html#ad4f7e63b1ac0359cc5128d483c99c6d0", null ],
+    [ "VecMap", "d4/d6d/classG4DNAELSEPAElasticModel.html#a0ad09ca0ef17258e01e5ec5897e864c9", null ],
+    [ "G4DNAELSEPAElasticModel", "d4/d6d/classG4DNAELSEPAElasticModel.html#a944925bfb3f608187c6be4d739dac538", null ],
+    [ "~G4DNAELSEPAElasticModel", "d4/d6d/classG4DNAELSEPAElasticModel.html#a004a5b8066534b514d10702dfa827fcf", null ],
+    [ "G4DNAELSEPAElasticModel", "d4/d6d/classG4DNAELSEPAElasticModel.html#a6737b1fe893d532b4ff2d81cfdd42363", null ],
+    [ "CrossSectionPerVolume", "d4/d6d/classG4DNAELSEPAElasticModel.html#a797cba940351949e0dc47a3c35d0a933", null ],
+    [ "GetKillBelowThreshold", "d4/d6d/classG4DNAELSEPAElasticModel.html#a1ee9cf616c8a85936ea6939898fdfc5f", null ],
+    [ "Initialise", "d4/d6d/classG4DNAELSEPAElasticModel.html#a499dbf466975a3fb12115bc669c6f901", null ],
+    [ "LinLinInterpolate", "d4/d6d/classG4DNAELSEPAElasticModel.html#a906c1535b2d04508302bb664179ace4a", null ],
+    [ "LinLogInterpolate", "d4/d6d/classG4DNAELSEPAElasticModel.html#a60a8417fcd1b97666cd2532edbee9d02", null ],
+    [ "LogLogInterpolate", "d4/d6d/classG4DNAELSEPAElasticModel.html#a69b42ffd9885e68b701f5c826e1013f5", null ],
+    [ "operator=", "d4/d6d/classG4DNAELSEPAElasticModel.html#a9a464308ffd57741dd3ad1a3e4252ed7", null ],
+    [ "QuadInterpolator", "d4/d6d/classG4DNAELSEPAElasticModel.html#a999a6be3926001c11385d911afd26c58", null ],
+    [ "RandomizeCosTheta", "d4/d6d/classG4DNAELSEPAElasticModel.html#a1b340c70c0d3ab44c45ce17858f3ee05", null ],
+    [ "SampleSecondaries", "d4/d6d/classG4DNAELSEPAElasticModel.html#ab42549ea419ca599fb5fcdcadd1a0485", null ],
+    [ "SetKillBelowThreshold", "d4/d6d/classG4DNAELSEPAElasticModel.html#ae2b07a143c0c4ed6ae3837237c380c9f", null ],
+    [ "Theta", "d4/d6d/classG4DNAELSEPAElasticModel.html#ad79ea176fa94091dd24c099c874686d1", null ],
+    [ "eDiffCrossSectionData", "d4/d6d/classG4DNAELSEPAElasticModel.html#a3e127f9a0c6fa6b8a61cb16d2e1bd516", null ],
+    [ "eTdummyVec", "d4/d6d/classG4DNAELSEPAElasticModel.html#acb3f11594d0f9677b1a603ce0d4d4140", null ],
+    [ "eVecm", "d4/d6d/classG4DNAELSEPAElasticModel.html#a5dd24832aa9d830f894fa1acba19dc01", null ],
+    [ "fParticleChangeForGamma", "d4/d6d/classG4DNAELSEPAElasticModel.html#aef5ca42e75a41c5f0d3aadbfd0f01530", null ],
+    [ "fpData", "d4/d6d/classG4DNAELSEPAElasticModel.html#ae8399b953b0eea54a46b393f3645669e", null ],
+    [ "fpMolWaterDensity", "d4/d6d/classG4DNAELSEPAElasticModel.html#a9de5e4a6b1a9baae58d09e5ed58ba504", null ],
+    [ "isInitialised", "d4/d6d/classG4DNAELSEPAElasticModel.html#acf4648c37d411e627fd515b9824ce3c9", null ],
+    [ "verboseLevel", "d4/d6d/classG4DNAELSEPAElasticModel.html#ab8b54b58bbd36e907d2944b1f298d635", null ]
+];

@@ -1,0 +1,51 @@
+<map id="G4IonFluctuations::SampleFluctuations" name="G4IonFluctuations::SampleFluctuations">
+<area shape="rect" id="node2" href="$d7/d34/classG4IonFluctuations.html#aa1d366367ef6a86d987f082dab0bb5b1" title="G4IonFluctuations::\lDispersion" alt="" coords="221,195,373,239"/>
+<area shape="rect" id="node24" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="497,228,655,272"/>
+<area shape="rect" id="node26" href="$d8/dcf/classCLHEP_1_1HepRandomEngine.html#a743bd49472dc1c6034ad1047a6154329" title="CLHEP::HepRandomEngine\l::flat" alt="" coords="794,1380,998,1424"/>
+<area shape="rect" id="node27" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="490,348,662,392"/>
+<area shape="rect" id="node28" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="537,416,615,444"/>
+<area shape="rect" id="node29" href="$d6/d90/classG4UniversalFluctuation.html#ae228fe285d698c83128f314a4f30c3a1" title="G4UniversalFluctuation\l::SampleFluctuations" alt="" coords="208,797,387,841"/>
+<area shape="rect" id="node34" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="817,1491,975,1535"/>
+<area shape="rect" id="node3" href="$d7/d34/classG4IonFluctuations.html#a7c83eaf8247bf132a6af42b0aacf89c3" title="G4IonFluctuations::\lFactor" alt="" coords="500,160,652,204"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="1092,108,1285,136"/>
+<area shape="rect" id="node23" href="$d5/de4/classG4Material.html#a60d52ac75b43c5e56865837e1a5b6798" title="G4Material::GetElectronDensity" alt="" coords="459,296,693,324"/>
+<area shape="rect" id="node25" href="$d6/d69/classG4IonisParamMat.html#af5d92cb7b4d6c84e725f55b5ea46b081" title="G4IonisParamMat::GetZeffective" alt="" coords="455,5,697,33"/>
+<area shape="rect" id="node4" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="845,716,947,744"/>
+<area shape="rect" id="node13" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="1133,820,1244,848"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="862,160,930,188"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="765,212,1027,240"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#a799afb574dc04d80f5a27c081a0dfaa3" title="G4Material::GetState" alt="" coords="814,264,978,292"/>
+<area shape="rect" id="node17" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="839,612,953,640"/>
+<area shape="rect" id="node19" href="$d7/d34/classG4IonFluctuations.html#a1b453e34c7d69558a289929874322e3f" title="G4IonFluctuations::\lRelativisticFactor" alt="" coords="820,320,972,364"/>
+<area shape="rect" id="node5" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1424,872,1463,900"/>
+<area shape="rect" id="node6" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="1124,716,1253,744"/>
+<area shape="rect" id="node7" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="1122,768,1255,796"/>
+<area shape="rect" id="node8" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1410,820,1477,848"/>
+<area shape="rect" id="node9" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1411,639,1475,667"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1608,587,1800,615"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1608,639,1800,667"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1584,691,1824,719"/>
+<area shape="rect" id="node18" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="1135,612,1242,640"/>
+<area shape="rect" id="node20" href="$d6/d69/classG4IonisParamMat.html#a78e43b8340f87820ede53d81a04dac4d" title="G4IonisParamMat::GetFermi\lEnergy" alt="" coords="1084,380,1293,424"/>
+<area shape="rect" id="node22" href="$d6/d69/classG4IonisParamMat.html#a4fefdfbba759144ef70b9923ea225a13" title="G4IonisParamMat::GetMean\lExcitationEnergy" alt="" coords="1084,456,1293,500"/>
+<area shape="rect" id="node30" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="497,708,655,752"/>
+<area shape="rect" id="node31" href="$d6/d90/classG4UniversalFluctuation.html#ad714af46455927ba59d79530217c2c75" title="G4UniversalFluctuation\l::InitialiseMe" alt="" coords="487,828,665,872"/>
+<area shape="rect" id="node37" href="$d6/d69/classG4IonisParamMat.html#a02308edb8d1e4759842e03e697c940bc" title="G4IonisParamMat::GetF1fluct" alt="" coords="466,1016,686,1044"/>
+<area shape="rect" id="node38" href="$d6/d69/classG4IonisParamMat.html#a34838763ff12cd8c84e1df9b444975d5" title="G4IonisParamMat::GetF2fluct" alt="" coords="466,1068,686,1096"/>
+<area shape="rect" id="node39" href="$d6/d69/classG4IonisParamMat.html#a72a32351f4a9b4667c2359f09841009c" title="G4IonisParamMat::GetEnergy1fluct" alt="" coords="447,1120,705,1148"/>
+<area shape="rect" id="node40" href="$d6/d69/classG4IonisParamMat.html#a68a97f5c56425bcaa03c9ab42099a472" title="G4IonisParamMat::GetEnergy2fluct" alt="" coords="447,1224,705,1252"/>
+<area shape="rect" id="node41" href="$d6/d69/classG4IonisParamMat.html#a715af0f785113b76b790eddee7b5bfb4" title="G4IonisParamMat::GetLogEnergy1fluct" alt="" coords="435,1276,717,1304"/>
+<area shape="rect" id="node42" href="$d6/d69/classG4IonisParamMat.html#a538d7ea30af1588c7bbc895a4681138a" title="G4IonisParamMat::GetLogEnergy2fluct" alt="" coords="435,1328,717,1356"/>
+<area shape="rect" id="node43" href="$d6/d69/classG4IonisParamMat.html#a02073d1e9f49e1586fdacf904d95a522" title="G4IonisParamMat::GetLogMean\lExcEnergy" alt="" coords="459,520,693,564"/>
+<area shape="rect" id="node44" href="$d6/d69/classG4IonisParamMat.html#ab40e67e9153baf6510f768a246980e26" title="G4IonisParamMat::GetEnergy0fluct" alt="" coords="447,588,705,616"/>
+<area shape="rect" id="node45" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="557,1172,595,1200"/>
+<area shape="rect" id="node47" href="$d6/d90/classG4UniversalFluctuation.html#a784f130a0a4f1f1b6f667fde494e2370" title="G4UniversalFluctuation\l::AddExcitation" alt="" coords="487,948,665,992"/>
+<area shape="rect" id="node48" href="$d1/d20/G4Poisson_8hh.html#af968bed230b6c78c15ff5b04efe96e59" title="G4Poisson" alt="" coords="851,956,941,984"/>
+<area shape="rect" id="node49" href="$d6/d90/classG4UniversalFluctuation.html#af890f9e25425fb4681a1227e7a84eddc" title="G4UniversalFluctuation\l::SampleGauss" alt="" coords="487,1380,665,1424"/>
+<area shape="rect" id="node50" href="$d8/dcf/classCLHEP_1_1HepRandomEngine.html#ab166b636ad7672b421dd8614b686ce91" title="CLHEP::HepRandomEngine\l::flatArray" alt="" coords="474,640,678,684"/>
+<area shape="rect" id="node32" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="819,820,973,864"/>
+<area shape="rect" id="node33" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="819,888,973,932"/>
+<area shape="rect" id="node35" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="1075,1472,1303,1500"/>
+<area shape="rect" id="node36" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="1351,1497,1536,1525"/>
+<area shape="rect" id="node46" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="877,1120,915,1148"/>
+</map>

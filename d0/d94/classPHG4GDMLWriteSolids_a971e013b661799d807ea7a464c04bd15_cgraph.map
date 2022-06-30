@@ -1,0 +1,29 @@
+<map id="PHG4GDMLWriteSolids::TwistedtrapWrite" name="PHG4GDMLWriteSolids::TwistedtrapWrite">
+<area shape="rect" id="node2" href="$dd/db5/classPHG4GDMLWrite.html#a16834147e17b47595b04d27a49405198" title="PHG4GDMLWrite::GenerateName" alt="" coords="227,5,471,33"/>
+<area shape="rect" id="node4" href="$d3/da8/classG4TwistedTrap.html#a3ca1f2411fccdc7a35c2a4f130160500" title="G4TwistedTrap::GetAzimuthal\lAnglePhi" alt="" coords="239,57,459,101"/>
+<area shape="rect" id="node6" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="271,125,427,153"/>
+<area shape="rect" id="node7" href="$d3/da8/classG4TwistedTrap.html#adab56c5e8ae8a0d45a46b8a1160d8305" title="G4TwistedTrap::GetPhiTwist" alt="" coords="245,177,452,205"/>
+<area shape="rect" id="node9" href="$d3/da8/classG4TwistedTrap.html#adba1673cad1fc9545c47ea479b0bcfe5" title="G4TwistedTrap::GetPolarAngle\lTheta" alt="" coords="237,229,461,273"/>
+<area shape="rect" id="node11" href="$d3/da8/classG4TwistedTrap.html#a9bd9e3ecab84c62011bec78671e3ec12" title="G4TwistedTrap::GetTiltAngle\lAlpha" alt="" coords="243,297,455,341"/>
+<area shape="rect" id="node13" href="$d3/da8/classG4TwistedTrap.html#a57789b15c4b41ee0be43cfa09eb53b72" title="G4TwistedTrap::GetX1Half\lLength" alt="" coords="249,365,448,409"/>
+<area shape="rect" id="node15" href="$d3/da8/classG4TwistedTrap.html#a9ad3412d4ce1d41e7d65b0c738650f98" title="G4TwistedTrap::GetX2Half\lLength" alt="" coords="249,433,448,477"/>
+<area shape="rect" id="node17" href="$d3/da8/classG4TwistedTrap.html#a499f5f3f2915e33a22d98b3057595133" title="G4TwistedTrap::GetX3Half\lLength" alt="" coords="249,501,448,545"/>
+<area shape="rect" id="node19" href="$d3/da8/classG4TwistedTrap.html#abf32649c5e2dc48a6e60217451ad8be8" title="G4TwistedTrap::GetX4Half\lLength" alt="" coords="249,569,448,613"/>
+<area shape="rect" id="node21" href="$d3/da8/classG4TwistedTrap.html#a933642b125dcaf82a6ec0fe0d124620b" title="G4TwistedTrap::GetY1Half\lLength" alt="" coords="250,637,447,681"/>
+<area shape="rect" id="node23" href="$d3/da8/classG4TwistedTrap.html#a724cf7d28e5b09d7610be4672b219bf3" title="G4TwistedTrap::GetY2Half\lLength" alt="" coords="250,705,447,749"/>
+<area shape="rect" id="node25" href="$d3/da8/classG4TwistedTrap.html#a61d1ac2f502b07ac708d48a70dc80a7d" title="G4TwistedTrap::GetZHalfLength" alt="" coords="231,773,466,801"/>
+<area shape="rect" id="node27" href="$dd/db5/classPHG4GDMLWrite.html#afe96dc9fdc7c1a0a1a96b59dc15dffa2" title="PHG4GDMLWrite::NewAttribute" alt="" coords="234,825,463,853"/>
+<area shape="rect" id="node28" href="$dd/db5/classPHG4GDMLWrite.html#ada0a5579d406ec27f3150711ab83becc" title="PHG4GDMLWrite::NewElement" alt="" coords="235,877,463,905"/>
+<area shape="rect" id="node3" href="$d5/d72/classG4String.html#a2d1a2d77f4af63b9592e015a21e9ff33" title="G4String::contains" alt="" coords="525,5,672,33"/>
+<area shape="rect" id="node5" href="$d4/d92/classG4VTwistedFaceted.html#acb57afcff65b7d1f16462b71092599f0" title="G4VTwistedFaceted::\lGetPhi" alt="" coords="519,57,679,101"/>
+<area shape="rect" id="node8" href="$d4/d92/classG4VTwistedFaceted.html#a301fdbcb532acab3aef82f06f1fc3005" title="G4VTwistedFaceted::\lGetTwistAngle" alt="" coords="519,161,679,205"/>
+<area shape="rect" id="node10" href="$d4/d92/classG4VTwistedFaceted.html#a6331a2636d957a8003daa985a37f3579" title="G4VTwistedFaceted::\lGetTheta" alt="" coords="519,229,679,273"/>
+<area shape="rect" id="node12" href="$d4/d92/classG4VTwistedFaceted.html#ab2a59eccfdb3c995137edd7e48505960" title="G4VTwistedFaceted::\lGetAlpha" alt="" coords="519,297,679,341"/>
+<area shape="rect" id="node14" href="$d4/d92/classG4VTwistedFaceted.html#a4de5369687c6b73d25c02978ed378df4" title="G4VTwistedFaceted::\lGetDx1" alt="" coords="519,365,679,409"/>
+<area shape="rect" id="node16" href="$d4/d92/classG4VTwistedFaceted.html#aa16735f7a9dea863aaed5a02b2244859" title="G4VTwistedFaceted::\lGetDx2" alt="" coords="519,433,679,477"/>
+<area shape="rect" id="node18" href="$d4/d92/classG4VTwistedFaceted.html#a26e736e8742b8fab5357429619d39a0b" title="G4VTwistedFaceted::\lGetDx3" alt="" coords="519,501,679,545"/>
+<area shape="rect" id="node20" href="$d4/d92/classG4VTwistedFaceted.html#ab073b596a77d449f9c5d987d79e06111" title="G4VTwistedFaceted::\lGetDx4" alt="" coords="519,569,679,613"/>
+<area shape="rect" id="node22" href="$d4/d92/classG4VTwistedFaceted.html#a70d0b7ca702c7a41eb1800f0c5856ab7" title="G4VTwistedFaceted::\lGetDy1" alt="" coords="519,637,679,681"/>
+<area shape="rect" id="node24" href="$d4/d92/classG4VTwistedFaceted.html#a9b5e290f75a8188fa8fa1ddee6eb113c" title="G4VTwistedFaceted::\lGetDy2" alt="" coords="519,705,679,749"/>
+<area shape="rect" id="node26" href="$d4/d92/classG4VTwistedFaceted.html#a083cf12b8374566ab795dedb2a3770b1" title="G4VTwistedFaceted::\lGetDz" alt="" coords="519,773,679,817"/>
+</map>

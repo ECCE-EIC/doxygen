@@ -1,0 +1,45 @@
+<map id="G4BOptrForceCollisionTrackData" name="G4BOptrForceCollisionTrackData">
+<area shape="rect" id="node3" href="$d1/da6/classG4BOptrForceCollision.html" title="G4BOptrForceCollision" alt="" coords="1315,1441,1487,1469"/>
+<area shape="rect" id="node2" href="$da/dba/classG4VAuxiliaryTrackInformation.html" title="G4VAuxiliaryTrackInformation" alt="" coords="845,83,1067,111"/>
+<area shape="rect" id="node4" href="$d1/d27/classG4VBiasingOperator.html" title="G4VBiasingOperator" alt="" coords="872,799,1032,827"/>
+<area shape="rect" id="node5" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4BiasingOperator\lStateNotifier * \&gt;" alt="" coords="446,415,674,459"/>
+<area shape="rect" id="node6" href="$da/d8c/classG4CacheReference.html" title="G4CacheReference\&lt; value\l_type \&gt;" alt="" coords="459,191,661,235"/>
+<area shape="rect" id="node12" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; std::vector\l\&lt; G4VBiasingOperator * \&gt; \&gt;" alt="" coords="635,339,851,383"/>
+<area shape="rect" id="node14" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; std::map\&lt;\l const G4LogicalVolume\l *,G4VBiasingOperator * \&gt; \&gt;" alt="" coords="298,331,515,391"/>
+<area shape="rect" id="node7" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="3156,83,3236,111"/>
+<area shape="rect" id="node10" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="1184,199,1323,227"/>
+<area shape="rect" id="node16" href="$d7/dd6/classG4VBiasingOperation.html" title="G4VBiasingOperation" alt="" coords="1350,491,1517,519"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="3703,1191,3857,1219"/>
+<area shape="rect" id="node20" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="2768,799,2869,827"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="3285,199,3379,227"/>
+<area shape="rect" id="node27" href="$df/de2/classG4VUserTrackInformation.html" title="G4VUserTrackInformation" alt="" coords="2725,199,2918,227"/>
+<area shape="rect" id="node34" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="3955,1567,4080,1595"/>
+<area shape="rect" id="node37" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="3913,269,4009,297"/>
+<area shape="rect" id="node45" href="$d2/d5e/classG4VBiasingInteractionLaw.html" title="G4VBiasingInteractionLaw" alt="" coords="1472,799,1672,827"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="3151,5,3241,33"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="2758,347,2834,375"/>
+<area shape="rect" id="node11" href="$da/d85/classG4VectorCache.html" title="G4VectorCache\&lt; G4VBiasing\lOperator * \&gt;" alt="" coords="680,483,899,527"/>
+<area shape="rect" id="node13" href="$d6/df6/classG4MapCache.html" title="G4MapCache\&lt; const G4Logical\lVolume *, G4VBiasingOperator * \&gt;" alt="" coords="256,483,512,527"/>
+<area shape="rect" id="node41" href="$d3/d7e/classG4BOptnForceCommonTruncatedExp.html" title="G4BOptnForceCommonTruncatedExp" alt="" coords="2124,1099,2396,1127"/>
+<area shape="rect" id="node47" href="$d6/d1d/classG4BOptnCloning.html" title="G4BOptnCloning" alt="" coords="1787,799,1920,827"/>
+<area shape="rect" id="node49" href="$d6/d72/classG4BiasingProcessInterface.html" title="G4BiasingProcessInterface" alt="" coords="2766,1191,2967,1219"/>
+<area shape="rect" id="node50" href="$d7/d28/classG4BOptnForceFreeFlight.html" title="G4BOptnForceFreeFlight" alt="" coords="1331,1099,1517,1127"/>
+<area shape="rect" id="node18" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="3659,1099,3811,1127"/>
+<area shape="rect" id="node19" href="$d9/d8c/classG4ProcessManagerMessenger.html" title="G4ProcessManagerMessenger" alt="" coords="3615,949,3841,977"/>
+<area shape="rect" id="node29" href="$d7/d5c/classG4DynamicParticle.html" title="G4DynamicParticle" alt="" coords="3157,1299,3307,1327"/>
+<area shape="rect" id="node38" href="$db/d05/classG4ParticleMessenger.html" title="G4ParticleMessenger" alt="" coords="4190,1441,4354,1469"/>
+<area shape="rect" id="node40" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="3791,1299,3908,1327"/>
+<area shape="rect" id="node21" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="1927,347,2078,375"/>
+<area shape="rect" id="node22" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="1817,491,1959,519"/>
+<area shape="rect" id="node42" href="$df/d11/classG4ParticleChangeForNothing.html" title="G4ParticleChangeForNothing" alt="" coords="2081,949,2297,977"/>
+<area shape="rect" id="node28" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="2876,491,2948,519"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="4027,83,4159,111"/>
+<area shape="rect" id="node33" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="4055,799,4190,827"/>
+<area shape="rect" id="node26" href="$dc/d99/classG4PhysicsOrderedFreeVector.html" title="G4PhysicsOrderedFreeVector" alt="" coords="2483,199,2701,227"/>
+<area shape="rect" id="node30" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="2041,199,2194,227"/>
+<area shape="rect" id="node31" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="2943,191,3156,235"/>
+<area shape="rect" id="node36" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="3771,1433,3947,1477"/>
+<area shape="rect" id="node39" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="4119,1099,4251,1127"/>
+<area shape="rect" id="node44" href="$d8/d7a/classG4ILawForceFreeFlight.html" title="G4ILawForceFreeFlight" alt="" coords="1473,949,1647,977"/>
+<area shape="rect" id="node46" href="$d1/d67/classG4ILawCommonTruncatedExp.html" title="G4ILawCommonTruncatedExp" alt="" coords="1831,949,2055,977"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="G4PhysListRegistry::GetModularPhysicsList" name="G4PhysListRegistry::GetModularPhysicsList">
+<area shape="rect" id="node2" href="$db/dcf/classG4PhysListRegistry.html#ab9492a22b66dfbfbf6b2a50d730a7dde" title="G4PhysListRegistry\l::DeconstructPhysListName" alt="" coords="245,232,451,276"/>
+<area shape="rect" id="node8" href="$d7/d95/classG4PhysicsConstructorRegistry.html#aab17ba354f257c519e78f8576b7702c5" title="G4PhysicsConstructorRegistry\l::Instance" alt="" coords="510,397,734,441"/>
+<area shape="rect" id="node11" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="569,491,675,519"/>
+<area shape="rect" id="node12" href="$d7/d95/classG4PhysicsConstructorRegistry.html#a85942feb3d6e7348d599a358e93f5f72" title="G4PhysicsConstructorRegistry\l::GetPhysicsConstructor" alt="" coords="236,495,460,539"/>
+<area shape="rect" id="node13" href="$dc/d2e/classG4VModularPhysicsList.html#ab252613c25f9e8407c27e0c2ceecdb93" title="G4VModularPhysicsList\l::GetVerboseLevel" alt="" coords="259,699,437,743"/>
+<area shape="rect" id="node14" href="$dc/d2e/classG4VModularPhysicsList.html#a749b7064b776c809d258bcb4a95e9916" title="G4VModularPhysicsList\l::RegisterPhysics" alt="" coords="259,563,437,607"/>
+<area shape="rect" id="node21" href="$dc/d2e/classG4VModularPhysicsList.html#acd6050c16d624c777380b91f7b36b3cc" title="G4VModularPhysicsList\l::ReplacePhysics" alt="" coords="259,631,437,675"/>
+<area shape="rect" id="node22" href="$dc/d2e/classG4VModularPhysicsList.html#a24f4328684c0fc6a6f4736815a719d91" title="G4VModularPhysicsList\l::SetVerboseLevel" alt="" coords="259,767,437,811"/>
+<area shape="rect" id="node3" href="$d7/d95/classG4PhysicsConstructorRegistry.html#ac8423467d9c8d625f163f87ce4e465a1" title="G4PhysicsConstructorRegistry\l::AvailablePhysicsConstructors" alt="" coords="508,5,736,49"/>
+<area shape="rect" id="node4" href="$db/dcf/classG4PhysListRegistry.html#ad15d531b58d272e5bb7acc43cdb4bc4f" title="G4PhysListRegistry\l::AvailablePhysicsExtensions" alt="" coords="514,73,730,117"/>
+<area shape="rect" id="node5" href="$db/dcf/classG4PhysListRegistry.html#ada905d06eeed656aa9e1c677cd5b9861" title="G4PhysListRegistry\l::AvailablePhysLists" alt="" coords="545,141,699,185"/>
+<area shape="rect" id="node6" href="$d5/d72/classG4String.html#a3317b840ea50faeee9104d379f1e29cf" title="G4String::data" alt="" coords="562,209,682,237"/>
+<area shape="rect" id="node7" href="$db/dcf/classG4PhysListRegistry.html#a76bdb94799873d56e1864ed9f4bc8c5e" title="G4PhysListRegistry\l::FindLongestMatch" alt="" coords="546,261,698,305"/>
+<area shape="rect" id="node10" href="$d7/d95/classG4PhysicsConstructorRegistry.html#ae06804d074baa5b962c084e65c9dd1eb" title="G4PhysicsConstructorRegistry\l::IsKnownPhysicsConstructor" alt="" coords="510,329,734,373"/>
+<area shape="rect" id="node9" href="$d7/d95/classG4PhysicsConstructorRegistry.html#adad42bab13b678a1affbea6aae2d7a3e" title="G4PhysicsConstructorRegistry\l::G4PhysicsConstructorRegistry" alt="" coords="797,397,1030,441"/>
+<area shape="rect" id="node15" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="521,679,723,723"/>
+<area shape="rect" id="node18" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="513,747,731,791"/>
+<area shape="rect" id="node19" href="$d1/d2f/classG4VPhysicsConstructor.html#a79beb456199fd30b7ceaea70c0171339" title="G4VPhysicsConstructor\l::GetPhysicsName" alt="" coords="533,543,711,587"/>
+<area shape="rect" id="node20" href="$d1/d2f/classG4VPhysicsConstructor.html#a58a22988c11e11cb12fe75fd2c5e22e7" title="G4VPhysicsConstructor\l::GetPhysicsType" alt="" coords="533,611,711,655"/>
+<area shape="rect" id="node16" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="784,687,1043,715"/>
+<area shape="rect" id="node17" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1091,687,1232,715"/>
+</map>

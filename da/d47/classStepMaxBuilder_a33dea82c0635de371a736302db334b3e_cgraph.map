@@ -1,0 +1,8 @@
+<map id="StepMaxBuilder::ConstructProcess" name="StepMaxBuilder::ConstructProcess">
+<area shape="rect" id="node2" href="$d5/d2e/classG4ProcessManager.html#a1f3bf2141ef9c5a354c8b030bfa864f0" title="G4ProcessManager::AddDiscrete\lProcess" alt="" coords="256,5,497,49"/>
+<area shape="rect" id="node3" href="$d1/d2f/classG4VPhysicsConstructor.html#a86d8854089b387348df16032de550557" title="G4VPhysicsConstructor\l::GetParticleIterator" alt="" coords="287,73,466,117"/>
+<area shape="rect" id="node4" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="294,141,459,185"/>
+<area shape="rect" id="node5" href="$da/d53/classStepMaxProcess.html#a979e4fb2a56f9f7c33f29a2af0589f03" title="StepMaxProcess::IsApplicable" alt="" coords="266,209,487,237"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="545,167,700,211"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#a4a0a0696d1465dda55b65777ce74fb9a" title="G4ParticleDefinition\l::IsShortLived" alt="" coords="545,235,700,279"/>
+</map>

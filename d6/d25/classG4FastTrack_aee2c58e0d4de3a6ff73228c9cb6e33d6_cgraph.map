@@ -1,0 +1,31 @@
+<map id="G4FastTrack::SetCurrentTrack" name="G4FastTrack::SetCurrentTrack">
+<area shape="rect" id="node2" href="$d6/d25/classG4FastTrack.html#a39cd7a7326330e9a18cd717fd26427cd" title="G4FastTrack::FRecordsAffine\lTransformation" alt="" coords="273,457,485,501"/>
+<area shape="rect" id="node25" href="$d1/d33/classG4Track.html#aa83f323d30aa6b3e8ae80745dba7ecf1" title="G4Track::GetMomentum" alt="" coords="287,525,472,553"/>
+<area shape="rect" id="node26" href="$d1/d33/classG4Track.html#af7468c92f19244330c121315306813ce" title="G4Track::GetPolarization" alt="" coords="286,577,473,605"/>
+<area shape="rect" id="node27" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="299,629,460,657"/>
+<area shape="rect" id="node28" href="$d8/d1e/classG4AffineTransform.html#a3e7de3e7d6f4f903416299f609b4cb03" title="G4AffineTransform::\lTransformAxis" alt="" coords="302,681,457,725"/>
+<area shape="rect" id="node29" href="$d8/d1e/classG4AffineTransform.html#ac5cb9beef1fa275e47f07d4afe04769e" title="G4AffineTransform::\lTransformPoint" alt="" coords="302,749,457,793"/>
+<area shape="rect" id="node30" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="285,817,473,845"/>
+<area shape="rect" id="node3" href="$d9/d53/classG4Navigator.html#ae58d98135b06f412ea27dc5e978c7b3c" title="G4Navigator::CreateTouchable\lHistoryHandle" alt="" coords="537,5,765,49"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1153,273,1259,301"/>
+<area shape="rect" id="node6" href="$d4/d3b/classG4NavigationHistory.html#a9e1a69accb54ee7651a30370af0f334e" title="G4NavigationHistory\l::GetDepth" alt="" coords="570,125,731,169"/>
+<area shape="rect" id="node7" href="$d2/dc3/classG4TouchableHistory.html#a853c5c496ede67492d60f31994de8aa6" title="G4TouchableHistory\l::GetHistory" alt="" coords="572,193,729,237"/>
+<area shape="rect" id="node8" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="569,261,733,305"/>
+<area shape="rect" id="node9" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="569,329,733,373"/>
+<area shape="rect" id="node10" href="$d1/dd0/classG4TransportationManager.html#a6939093ee6b1270721ce60875664722a" title="G4TransportationManager\l::GetNavigatorForTracking" alt="" coords="551,397,750,441"/>
+<area shape="rect" id="node11" href="$da/dc4/classG4LogicalVolume.html#ac5ed1a269bc718f5acd258407d5f9459" title="G4LogicalVolume::GetRegion" alt="" coords="542,465,759,493"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="549,517,753,545"/>
+<area shape="rect" id="node13" href="$d4/d3b/classG4NavigationHistory.html#a7db50b3d13a1473369e4c85273de6ae9" title="G4NavigationHistory\l::GetTransform" alt="" coords="570,569,731,613"/>
+<area shape="rect" id="node14" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="545,637,757,681"/>
+<area shape="rect" id="node20" href="$d4/d3b/classG4NavigationHistory.html#a0ef311938afdc5e8ada4fefb97cd7ff2" title="G4NavigationHistory\l::GetVolume" alt="" coords="570,705,731,749"/>
+<area shape="rect" id="node21" href="$d0/d12/namespaceg4zmq.html#a2d2a8c92185420c6378fe4492859a327" title="g4zmq.history" alt="" coords="591,773,710,801"/>
+<area shape="rect" id="node23" href="$d8/d1e/classG4AffineTransform.html#a58285c24c97d320a1d632d417cf0513c" title="G4AffineTransform::\lInverse" alt="" coords="573,825,728,869"/>
+<area shape="rect" id="node24" href="$da/dc4/classG4LogicalVolume.html#ac680c5061dfb18eed2756ddb3dc0fa01" title="G4LogicalVolume::IsRootRegion" alt="" coords="533,893,768,921"/>
+<area shape="rect" id="node4" href="$d9/d53/classG4Navigator.html#a4cc6ebea874a033c8777988cd525c00c" title="G4Navigator::CreateTouchable\lHistory" alt="" coords="816,5,1044,49"/>
+<area shape="rect" id="node15" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="827,525,1033,569"/>
+<area shape="rect" id="node16" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1109,439,1303,483"/>
+<area shape="rect" id="node17" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1129,507,1283,535"/>
+<area shape="rect" id="node18" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1121,559,1291,587"/>
+<area shape="rect" id="node19" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1092,611,1320,639"/>
+<area shape="rect" id="node22" href="$d8/d03/G4ecpssrBaseKxsModel_8cc.html#afca89815e8ce05521ca0a7ec9bd17385" title="print" alt="" coords="903,773,957,801"/>
+</map>

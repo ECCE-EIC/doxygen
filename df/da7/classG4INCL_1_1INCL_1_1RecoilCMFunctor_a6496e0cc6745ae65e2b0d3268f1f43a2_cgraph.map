@@ -1,0 +1,18 @@
+<map id="G4INCL::INCL::RecoilCMFunctor::operator()" name="G4INCL::INCL::RecoilCMFunctor::operator()">
+<area shape="rect" id="node2" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5dc670c8feb78dd16725796a3afd993b" title="Compute charge, mass, energy and momentum balance." alt="" coords="285,364,539,408"/>
+<area shape="rect" id="node14" href="$df/da7/classG4INCL_1_1INCL_1_1RecoilCMFunctor.html#ae11578fc3ed9b4b5ab8adb5f7a33943d" title="Scale the kinetic energies of the outgoing particles." alt="" coords="296,575,528,619"/>
+<area shape="rect" id="node3" href="$d7/db0/classG4INCL_1_1Nucleus.html#addaae791625d2fefeb78cc90c634d9ed" title="Get the initial energy." alt="" coords="605,5,806,49"/>
+<area shape="rect" id="node4" href="$d7/db0/classG4INCL_1_1Nucleus.html#a07ae731e12e51d3cb01191131e56524e" title="Get the incoming momentum vector." alt="" coords="592,73,819,117"/>
+<area shape="rect" id="node5" href="$d5/dd3/classG4INCL_1_1Store.html#aad5dde18c393a7dc64c941abc51bf12f" title="G4INCL::Store::getOutgoing\lParticles" alt="" coords="601,141,809,185"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="620,449,791,477"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="620,501,791,529"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="621,553,790,581"/>
+<area shape="rect" id="node9" href="$d0/d7f/classG4INCL_1_1Cluster.html#a3b79df53286eea1dec2d6fec9f72c761" title="Get the excitation energy of the cluster." alt="" coords="593,209,818,253"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a8ec20398365f8dbdf6b9363cbfd15820" title="Get the particle kinetic energy." alt="" coords="602,277,809,321"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="587,345,824,373"/>
+<area shape="rect" id="node12" href="$d7/db0/classG4INCL_1_1Nucleus.html#abf066a1074f8626db5c890bb34694e02" title="Does the nucleus give a cascade remnant?" alt="" coords="591,397,819,425"/>
+<area shape="rect" id="node13" href="$d7/db0/classG4INCL_1_1Nucleus.html#a90a17cfc3803170178e3100bad22be15" title="Get the excitation energy of the nucleus." alt="" coords="590,605,821,649"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="587,673,823,701"/>
+<area shape="rect" id="node16" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="624,725,787,769"/>
+<area shape="rect" id="node17" href="$dd/d83/classG4INCL_1_1Particle.html#ac6ece0a46852fc251f788f5dd88e47e4" title="G4INCL::Particle::setEnergy" alt="" coords="602,793,809,821"/>
+</map>

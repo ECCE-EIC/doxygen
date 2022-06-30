@@ -1,0 +1,51 @@
+<map id="G4IonTable::FindIon" name="G4IonTable::FindIon">
+<area shape="rect" id="node2" href="$da/d2b/classG4IonTable.html#a87f1cfae4299db2087bc408cdcafdb01" title="G4IonTable::FindIon" alt="" coords="237,1360,390,1388"/>
+<area shape="rect" id="node3" href="$da/d2b/classG4IonTable.html#a436a7ae66261af7dc42e9b5450b092cf" title="G4IonTable::FindIonInMaster" alt="" coords="207,1412,420,1440"/>
+<area shape="rect" id="node4" href="$da/d2b/classG4IonTable.html#a42a4a408a6b7107bb4c5c5560b6b7f80" title="G4IonTable::GetIon" alt="" coords="239,1464,388,1492"/>
+<area shape="rect" id="node5" href="$da/ddc/classPHG4IonGun.html#a9be0567cd28272569e2e6236e6d5a306" title="PHG4IonGun::UpdateParticle" alt="" coords="493,5,707,33"/>
+<area shape="rect" id="node6" href="$d7/d54/classPHG4PrimaryGeneratorAction.html#a1fecb3351dbdb7cb03536e83c9bcf1b6" title="PHG4PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="489,57,711,101"/>
+<area shape="rect" id="node7" href="$d4/d20/classHadrontherapyPrimaryGeneratorAction.html#af907ca21052fe930d642b84ffcff5cbc" title="HadrontherapyPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="478,125,722,169"/>
+<area shape="rect" id="node8" href="$da/d75/classDMXParticleSourceMessenger.html#a4ba32a3f809b72d275dec3b90a2e3a9b" title="DMXParticleSourceMessenger\l::SetNewValue" alt="" coords="489,193,711,237"/>
+<area shape="rect" id="node9" href="$df/dbe/classB3PrimaryGeneratorAction.html#a111c32ea03fc0fa573022e6ea01c6da0" title="B3PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="499,261,701,305"/>
+<area shape="rect" id="node10" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#ae9570fdd39c65e151153a194ad2da10e" title="G4ScreenedCoulombCrossSection\l::SelectRandomUnweightedTarget" alt="" coords="475,329,725,373"/>
+<area shape="rect" id="node11" href="$d9/d1c/classG4GeneralParticleSourceMessenger.html#a9a9dd6d72308f566baac2c5638eacefd" title="G4GeneralParticleSourceMessenger\l::IonCommand" alt="" coords="468,397,732,441"/>
+<area shape="rect" id="node12" href="$d9/d1c/classG4GeneralParticleSourceMessenger.html#a5308386c9f8e8f1a299c1c03930e4a14" title="G4GeneralParticleSourceMessenger\l::IonLvlCommand" alt="" coords="468,465,732,509"/>
+<area shape="rect" id="node13" href="$d0/db6/classG4ParticleGunMessenger.html#a68e5ffcd1b6eb8fa273b5b94f51fb56a" title="G4ParticleGunMessenger\l::IonLevelCommand" alt="" coords="504,533,696,577"/>
+<area shape="rect" id="node14" href="$d0/db6/classG4ParticleGunMessenger.html#a7eb76603961e931f130ae9716c90c8db" title="G4ParticleGunMessenger\l::IonCommand" alt="" coords="504,601,696,645"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a4304798d4fe5cca32c634231490b8c16" title="G4IonTable::GetIon" alt="" coords="525,669,675,697"/>
+<area shape="rect" id="node16" href="$da/d2b/classG4IonTable.html#a00b3f55ee3c3ac0c21c528ec18690651" title="G4IonTable::PreloadNuclide" alt="" coords="497,721,703,749"/>
+<area shape="rect" id="node17" href="$da/d2b/classG4IonTable.html#a9c0774afb187a595ac67651b2043b044" title="G4IonTable::GetMuonicAtom" alt="" coords="493,773,707,801"/>
+<area shape="rect" id="node18" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#adb30e0111121e1e276528bf1642e58a4" title="G4DNARuddIonisationExtended\lModel::Initialise" alt="" coords="483,825,717,869"/>
+<area shape="rect" id="node19" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#a9c1c09af6b961037bfb251b1efeedaed" title="G4DNARuddIonisationExtended\lModel::CrossSectionPerVolume" alt="" coords="483,893,717,937"/>
+<area shape="rect" id="node20" href="$dd/dfd/classG4BetheHeitler5DModel.html#af726bc927215a4193371bef79e026712" title="G4BetheHeitler5DModel\l::SampleSecondaries" alt="" coords="508,961,692,1005"/>
+<area shape="rect" id="node21" href="$db/d99/classG4eCoulombScatteringModel.html#a06d598b8c1240dec202005e00212d57f" title="G4eCoulombScatteringModel\l::SampleSecondaries" alt="" coords="491,1029,709,1073"/>
+<area shape="rect" id="node22" href="$df/d59/classG4eSingleCoulombScatteringModel.html#a46ed0fed3e3a0e463d199fd83a1239bb" title="G4eSingleCoulombScattering\lModel::SampleSecondaries" alt="" coords="490,1097,710,1141"/>
+<area shape="rect" id="node23" href="$d8/d6d/classG4hCoulombScatteringModel.html#a8a4a078b254a4edd1bffd085e9b5303f" title="G4hCoulombScatteringModel\l::SampleSecondaries" alt="" coords="491,1165,709,1209"/>
+<area shape="rect" id="node24" href="$d7/d0d/classG4IonCoulombScatteringModel.html#ada7983ceb9eed1f0d784cec81eb2d86d" title="G4IonCoulombScatteringModel\l::SampleSecondaries" alt="" coords="485,1233,715,1277"/>
+<area shape="rect" id="node25" href="$de/dc4/classG4EmCalculator.html#a42c4e33715239bcbcdfe722f2999d5b0" title="G4EmCalculator::FindIon" alt="" coords="506,1301,694,1329"/>
+<area shape="rect" id="node26" href="$d7/db3/classG4EmCorrections.html#a4c0144d360125334e1b926532d19ca74" title="G4EmCorrections::BuildCorrection\lVector" alt="" coords="475,1353,725,1397"/>
+<area shape="rect" id="node27" href="$d7/de3/classG4ChipsAntiBaryonElasticXS.html#ac0bafdf6b488fbfcda9df8ee150df15f" title="G4ChipsAntiBaryonElastic\lXS::GetQ2max" alt="" coords="501,1421,699,1465"/>
+<area shape="rect" id="node28" href="$d7/d8f/classG4ChipsHyperonElasticXS.html#a1cd6e087bad1e2f129273451a6c05b69" title="G4ChipsHyperonElasticXS\l::GetQ2max" alt="" coords="501,1489,699,1533"/>
+<area shape="rect" id="node29" href="$d4/d7f/classG4ChipsKaonMinusElasticXS.html#a30f7b047636cf421f2e1d9ee462e5138" title="G4ChipsKaonMinusElasticXS\l::GetQ2max" alt="" coords="493,1557,707,1601"/>
+<area shape="rect" id="node30" href="$d6/dee/classG4ChipsKaonPlusElasticXS.html#af826ae4d21407895b22097f3e82299ef" title="G4ChipsKaonPlusElasticXS\l::GetQ2max" alt="" coords="499,1625,701,1669"/>
+<area shape="rect" id="node31" href="$d4/de6/classG4ChipsNeutronElasticXS.html#a661d38ebee15499f6266e9563319ffcb" title="G4ChipsNeutronElasticXS\l::GetQ2max" alt="" coords="503,1693,697,1737"/>
+<area shape="rect" id="node32" href="$d2/d0e/classG4ChipsPionMinusElasticXS.html#a602386da93b9b56e9666a9bd036d5d21" title="G4ChipsPionMinusElasticXS\l::GetQ2max" alt="" coords="496,1761,704,1805"/>
+<area shape="rect" id="node33" href="$df/dab/classG4ChipsPionPlusElasticXS.html#a5fbb65423f272955eb0b2ddefb1ed279" title="G4ChipsPionPlusElasticXS\l::GetQ2max" alt="" coords="502,1829,698,1873"/>
+<area shape="rect" id="node34" href="$d7/df0/classG4ChipsProtonElasticXS.html#a83ca394fdf4ea7a628003959bd3f7c45" title="G4ChipsProtonElasticXS\l::GetQ2max" alt="" coords="509,1897,691,1941"/>
+<area shape="rect" id="node35" href="$df/dee/classG4AblaInterface.html#ab74d1b34500741d62a7bb892c84e7927" title="Convert A, Z and S to a G4ParticleDefinition." alt="" coords="489,1965,711,2009"/>
+<area shape="rect" id="node36" href="$d0/d72/classG4BinaryCascade.html#ac6740a26f61044bc41fa2d0871a098d4" title="G4BinaryCascade::HighEnergy\lModelFSProducts" alt="" coords="485,2033,715,2077"/>
+<area shape="rect" id="node37" href="$d6/dbd/classG4InuclNuclei.html#a308bcd8aec930e97e046bd398521330c" title="G4InuclNuclei::makeDefinition" alt="" coords="487,2101,713,2129"/>
+<area shape="rect" id="node38" href="$d8/dfa/classG4ChargeExchange.html#a32c2a55056a8c4f1912205db2c4acc09" title="G4ChargeExchange::ApplyYourself" alt="" coords="472,2153,728,2181"/>
+<area shape="rect" id="node39" href="$dd/d0b/classG4DiffuseElastic.html#a346c33e4004188eb61741a2641794443" title="G4DiffuseElastic::GetInv\lElasticXsc" alt="" coords="507,2205,693,2249"/>
+<area shape="rect" id="node40" href="$dd/d0b/classG4DiffuseElastic.html#ae31f5131489e16677af4bce7d5e0bd2c" title="G4DiffuseElastic::GetInv\lElasticSumXsc" alt="" coords="507,2273,693,2317"/>
+<area shape="rect" id="node41" href="$dd/d0b/classG4DiffuseElastic.html#a3553f6c2b8fc40496021fef56bb4e019" title="G4DiffuseElastic::GetInv\lCoulombElasticXsc" alt="" coords="507,2341,693,2385"/>
+<area shape="rect" id="node42" href="$dd/dd9/classG4HadronElastic.html#aa62524c9dcca031bcab27dd8aee05e2d" title="G4HadronElastic::ApplyYourself" alt="" coords="483,2409,717,2437"/>
+<area shape="rect" id="node43" href="$d6/d6c/classG4LMsdGenerator.html#a9212a3ad845890c384654302f6be04bc" title="G4LMsdGenerator::ApplyYourself" alt="" coords="478,2461,722,2489"/>
+<area shape="rect" id="node44" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a0aae79bee16c7cd5c8cb17071680408f" title="G4NuclNuclDiffuseElastic\l::GetInvElasticXsc" alt="" coords="504,2513,696,2557"/>
+<area shape="rect" id="node45" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a52837347663b09bf56759a2be48cb8f3" title="G4NuclNuclDiffuseElastic\l::GetInvElasticSumXsc" alt="" coords="504,2581,696,2625"/>
+<area shape="rect" id="node46" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a2e778b866d5e2476e8d541f252ac54c5" title="G4NuclNuclDiffuseElastic\l::GetInvCoulombElasticXsc" alt="" coords="499,2649,701,2693"/>
+<area shape="rect" id="node47" href="$d4/d72/classG4ExcitationHandler.html#a815790f0b697663e0e50674603f4ec3f" title="G4ExcitationHandler\l::BreakItUp" alt="" coords="519,2717,681,2761"/>
+<area shape="rect" id="node48" href="$d3/d61/classG4NeutronRadCapture.html#a80deee31a5a1d67059e926ea65664864" title="G4NeutronRadCapture\l::ApplyYourself" alt="" coords="513,2785,687,2829"/>
+<area shape="rect" id="node49" href="$d8/d9d/classG4INCLXXInterface.html#ae624f1c50cc9a605086a6bc8466a8efd" title="G4INCLXXInterface::\lApplyYourself" alt="" coords="521,2853,679,2897"/>
+<area shape="rect" id="node50" href="$d8/d9d/classG4INCLXXInterface.html#aff2f179c54714416beb19b948b1dd804" title="Convert A and Z to a G4ParticleDefinition." alt="" coords="515,2921,685,2965"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="DicomFileMgr::GetCompression" name="DicomFileMgr::GetCompression">
+<area shape="rect" id="node2" href="$db/d3b/classDicomFilePET.html#a3e78ae6636b6698d45e08b85c5121c54" title="DicomFilePET::BuildActivities" alt="" coords="297,5,512,33"/>
+<area shape="rect" id="node3" href="$da/d57/classDicomFileCT.html#a2dd2210bf7bd1ecec99bb0b33ad3fdad" title="DicomFileCT::BuildMaterials" alt="" coords="301,57,509,85"/>
+<area shape="rect" id="node4" href="$da/d57/classDicomFileCT.html#a471ae961f44d16b6758bb469d5c785da" title="DicomFileCT::BuildStructureIDs" alt="" coords="290,109,519,137"/>
+<area shape="rect" id="node5" href="$db/d3b/classDicomFilePET.html#a4d097f13dfbbeb34ace2bd8a926e5406" title="DicomFilePET::DumpActivities\lToTextFile" alt="" coords="294,161,515,205"/>
+<area shape="rect" id="node6" href="$da/d57/classDicomFileCT.html#ad686e4b59e546f821f0525767e34c0fb" title="DicomFileCT::DumpDensities\lToTextFile" alt="" coords="297,229,512,273"/>
+<area shape="rect" id="node7" href="$da/dd4/classDicomVFileImage.html#a141842f9c4a1dd65ae433ed49bdb4498" title="DicomVFileImage::DumpHeader\lToTextFile" alt="" coords="285,297,524,341"/>
+<area shape="rect" id="node12" href="$da/d57/classDicomFileCT.html#a74faff9debb104e8939d91ac378cea0b" title="DicomFileCT::DumpMateIDs\lToTextFile" alt="" coords="301,365,508,409"/>
+<area shape="rect" id="node13" href="$da/d57/classDicomFileCT.html#a9e4ae5f951498a99aa41a5bc8a834b45" title="DicomFileCT::DumpStructure\lIDsToTextFile" alt="" coords="297,433,512,477"/>
+<area shape="rect" id="node14" href="$da/dd4/classDicomVFileImage.html#aeba2221972047b6ff70c13e3a5fbf13b" title="DicomVFileImage::Print" alt="" coords="315,501,494,529"/>
+<area shape="rect" id="node8" href="$d0/d5e/classDicomFileMgr.html#a61ba8d885030036305e887646b4b3621" title="DicomFileMgr::DumpToTextFile" alt="" coords="572,305,799,333"/>
+<area shape="rect" id="node9" href="$d0/d5e/classDicomFileMgr.html#a618f8dcafc845c15fd09a9158e43b0ec" title="DicomFileMgr::ProcessFiles" alt="" coords="847,305,1049,333"/>
+<area shape="rect" id="node10" href="$d0/d5e/classDicomFileMgr.html#ac8459e9909962a0e60dfdaa0c642004f" title="DicomFileMgr::Convert" alt="" coords="1097,305,1272,333"/>
+<area shape="rect" id="node11" href="$d1/d67/DICOM_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1320,305,1375,333"/>
+</map>

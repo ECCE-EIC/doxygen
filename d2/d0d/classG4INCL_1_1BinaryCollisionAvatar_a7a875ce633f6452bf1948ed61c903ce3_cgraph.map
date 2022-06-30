@@ -1,0 +1,51 @@
+<map id="G4INCL::BinaryCollisionAvatar::postInteraction" name="G4INCL::BinaryCollisionAvatar::postInteraction">
+<area shape="rect" id="node2" href="$db/d29/classG4INCL_1_1Book.html#a3e603625d5cb1015542d8307b13447c4" title="G4INCL::Book::getAccepted\lCollisions" alt="" coords="306,5,513,49"/>
+<area shape="rect" id="node3" href="$d5/dd3/classG4INCL_1_1Store.html#aad69fa0b425c84bf5a97962767ab7dfb" title="G4INCL::Store::getBook" alt="" coords="919,297,1100,325"/>
+<area shape="rect" id="node4" href="$db/d29/classG4INCL_1_1Book.html#a891013459ebbb677772523b12f2741f0" title="G4INCL::Book::getCurrentTime" alt="" coords="295,125,523,153"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="291,177,528,205"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#ad50e39ae1ce0c4301b4f882249ca032f" title="Number of Kaon inside de nucleus." alt="" coords="301,229,517,273"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#a5575330878a28b978dc2b40df39cc6f9" title="G4INCL::Particle::getPosition" alt="" coords="903,703,1116,731"/>
+<area shape="rect" id="node8" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="909,408,1109,436"/>
+<area shape="rect" id="node9" href="$da/d83/classG4INCL_1_1FinalState.html#a08073ee0392f04091a7562bdaa9476bb" title="G4INCL::FinalState\l::getValidity" alt="" coords="336,400,483,444"/>
+<area shape="rect" id="node10" href="$db/d29/classG4INCL_1_1Book.html#a599e5fb113c543e56379e2748149e5fc" title="G4INCL::Book::incrementAccepted\lCollisions" alt="" coords="283,468,536,512"/>
+<area shape="rect" id="node11" href="$db/d29/classG4INCL_1_1Book.html#aa93b95e97f84f9b71787e129fcc31fa1" title="G4INCL::Book::incrementBlocked\lCollisions" alt="" coords="287,536,531,580"/>
+<area shape="rect" id="node12" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="1504,847,1704,875"/>
+<area shape="rect" id="node13" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ac8a019a080acc89c5c2ac6dbb339a750" title="G4INCL::InteractionAvatar\l::postInteraction" alt="" coords="311,931,508,975"/>
+<area shape="rect" id="node45" href="$db/d29/classG4INCL_1_1Book.html#ac8eb46633b3ac4a73f0b11b78b591863" title="G4INCL::Book::setFirstCollision\lIsElastic" alt="" coords="295,999,523,1043"/>
+<area shape="rect" id="node46" href="$db/d29/classG4INCL_1_1Book.html#a2629f7a421b07fb9a5d8d6bf788010c1" title="G4INCL::Book::setFirstCollision\lSpectatorMomentum" alt="" coords="295,1067,523,1111"/>
+<area shape="rect" id="node47" href="$db/d29/classG4INCL_1_1Book.html#aa1727590181a2c60d38805e08f88a76a" title="G4INCL::Book::setFirstCollision\lSpectatorPosition" alt="" coords="295,1135,523,1179"/>
+<area shape="rect" id="node48" href="$db/d29/classG4INCL_1_1Book.html#a791abb56b221bfe2fa25246439a65fca" title="G4INCL::Book::setFirstCollisionTime" alt="" coords="279,1203,540,1231"/>
+<area shape="rect" id="node49" href="$db/d29/classG4INCL_1_1Book.html#a27c1ff94fefde75b1e073a2a80e376fd" title="G4INCL::Book::setFirstCollisionXSec" alt="" coords="279,1255,540,1283"/>
+<area shape="rect" id="node50" href="$dd/d83/classG4INCL_1_1Particle.html#a20fb40d47dabf436bfcd3ea56641805f" title="G4INCL::Particle::setNumber\lOfKaon" alt="" coords="303,1307,516,1351"/>
+<area shape="rect" id="node14" href="$da/d83/classG4INCL_1_1FinalState.html#a460441508120adeca7e469c60aae1a5b" title="G4INCL::FinalState\l::print" alt="" coords="647,1291,794,1335"/>
+<area shape="rect" id="node15" href="$da/d83/classG4INCL_1_1FinalState.html#aa1f6f1e3424edb1ce648c15a218435e4" title="G4INCL::FinalState\l::getModifiedParticles" alt="" coords="637,1359,804,1403"/>
+<area shape="rect" id="node16" href="$da/d83/classG4INCL_1_1FinalState.html#a815681a7fc806b49a119926b466a2603" title="G4INCL::FinalState\l::getCreatedParticles" alt="" coords="639,1427,802,1471"/>
+<area shape="rect" id="node17" href="$da/d83/classG4INCL_1_1FinalState.html#ac12aefc649b4fc81228dc6209ef3ce49" title="G4INCL::FinalState\l::getDestroyedParticles" alt="" coords="631,1495,810,1539"/>
+<area shape="rect" id="node18" href="$de/dd1/classG4INCL_1_1ParticleList.html#a9dab79a004684e7b1fa90eafd6837d1b" title="G4INCL::ParticleList\l::boost" alt="" coords="644,1563,797,1607"/>
+<area shape="rect" id="node19" href="$d7/db0/classG4INCL_1_1Nucleus.html#a43c35b08fb380b14df18ad209bb4a59c" title="Get the maximum allowed radius for a given particle." alt="" coords="901,1071,1117,1115"/>
+<area shape="rect" id="node27" href="$da/d83/classG4INCL_1_1FinalState.html#abc48869015e33502abf6c614d5d4110d" title="G4INCL::FinalState\l::addOutgoingParticle" alt="" coords="637,1631,805,1675"/>
+<area shape="rect" id="node28" href="$da/d83/classG4INCL_1_1FinalState.html#a918340b26ae6e97567647cda596ca4c3" title="G4INCL::FinalState\l::setTotalEnergyBeforeInteraction" alt="" coords="597,1699,844,1743"/>
+<area shape="rect" id="node29" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#a6d1151348ef6128ccc9916d17e0991d5" title="Enforce energy conservation." alt="" coords="612,400,829,444"/>
+<area shape="rect" id="node30" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#afa4358e8056971b3d2e978f70487aaed" title="Restore the state of both particles." alt="" coords="622,1819,819,1863"/>
+<area shape="rect" id="node31" href="$da/d83/classG4INCL_1_1FinalState.html#aeb089246f3bae289b50f6a5065207061" title="G4INCL::FinalState\l::reset" alt="" coords="647,1887,794,1931"/>
+<area shape="rect" id="node32" href="$da/d83/classG4INCL_1_1FinalState.html#ab093db6eb47eed86a278aa2e3e47e437" title="G4INCL::FinalState\l::makeNoEnergyConservation" alt="" coords="610,1955,831,1999"/>
+<area shape="rect" id="node33" href="$d5/d11/namespaceG4INCL_1_1Random.html#a1daf33818e2038303f3a5695a479bd61" title="G4INCL::Random::getSeeds" alt="" coords="617,571,825,599"/>
+<area shape="rect" id="node34" href="$dd/d7e/namespaceG4INCL_1_1Pauli.html#a128d20e98b47a41009f8196e1a0cb814" title="Check Pauli blocking." alt="" coords="629,623,813,651"/>
+<area shape="rect" id="node35" href="$da/d83/classG4INCL_1_1FinalState.html#a81e361e83e3bfc0e10e8829026c1b093" title="G4INCL::FinalState\l::makePauliBlocked" alt="" coords="645,675,797,719"/>
+<area shape="rect" id="node36" href="$dd/d7e/namespaceG4INCL_1_1Pauli.html#a1abca5b46870512f5a4ff8ed3b32b260" title="Check CDPP blocking." alt="" coords="611,743,831,771"/>
+<area shape="rect" id="node37" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af302fc5dd04411a0739ce56a0775228c" title="G4INCL::InteractionAvatar\l::bringParticleInside" alt="" coords="622,931,819,975"/>
+<area shape="rect" id="node38" href="$de/dd1/classG4INCL_1_1ParticleList.html#a3c3731540c42c238cc37d5684b82891c" title="G4INCL::ParticleList\l::getParticleListBiasVector" alt="" coords="622,795,819,839"/>
+<area shape="rect" id="node39" href="$dd/d83/classG4INCL_1_1Particle.html#a52195c210856cd286850194eb91bd241" title="G4INCL::Particle::FillINCLBias\lVector" alt="" coords="613,863,829,907"/>
+<area shape="rect" id="node40" href="$d5/dd3/classG4INCL_1_1Store.html#ab96728e4416b8e1c0859f6757450a32b" title="G4INCL::Store::getConfig" alt="" coords="626,999,815,1027"/>
+<area shape="rect" id="node41" href="$da/d4f/classG4INCL_1_1Config.html#ae5b8e6496f0529fb336846cdb1417b40" title="Get back&#45;to&#45;spectator." alt="" coords="620,1051,821,1095"/>
+<area shape="rect" id="node42" href="$d7/db0/classG4INCL_1_1Nucleus.html#a887b702eef33e24d4960977450d2f27d" title="Get the transmission barrier." alt="" coords="595,1119,847,1163"/>
+<area shape="rect" id="node43" href="$db/d29/classG4INCL_1_1Book.html#a00a74b8a6590f548b0047eaa943053e9" title="G4INCL::Book::decrementCascading" alt="" coords="588,1187,853,1215"/>
+<area shape="rect" id="node44" href="$db/d29/classG4INCL_1_1Book.html#ad466670dcf3f9f50f7440b5903c970a3" title="G4INCL::Book::incrementCascading" alt="" coords="591,1239,851,1267"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="1209,1275,1413,1303"/>
+<area shape="rect" id="node21" href="$dd/d83/classG4INCL_1_1Particle.html#ab764f7f80979539dc7ad95556f31671d" title="Is this a Lambda?" alt="" coords="1209,899,1412,927"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#a616be21abf18318f60dba4833f8caa20" title="Is it a resonance?" alt="" coords="1199,951,1422,979"/>
+<area shape="rect" id="node23" href="$dd/d83/classG4INCL_1_1Particle.html#a4f769eabec20136ed087435132b3abe2" title="Return the reflection momentum." alt="" coords="1197,1003,1424,1047"/>
+<area shape="rect" id="node24" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a079107f4cfa22326214bbd3ad53d3762" title="Return the Fermi momentum for a particle." alt="" coords="1165,1071,1456,1115"/>
+<area shape="rect" id="node25" href="$d7/db0/classG4INCL_1_1Nucleus.html#a80055cc5d8cb317edec8679c4cc86645" title="Getter for theUniverseRadius." alt="" coords="1199,1139,1423,1183"/>
+<area shape="rect" id="node26" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#a1c8997fd8baa73bb95a039c774bafe96" title="Get the maximum allowed radius for a given momentum." alt="" coords="1219,1207,1402,1251"/>
+</map>

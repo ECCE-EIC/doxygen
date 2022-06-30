@@ -1,0 +1,27 @@
+var classG4INCL_1_1ParticleSampler =
+[
+    [ "ParticleSamplerMethod", "d4/d0c/classG4INCL_1_1ParticleSampler.html#abd9423b53f5c4968a92be562f47b20ac", null ],
+    [ "ParticleSampler", "d4/d0c/classG4INCL_1_1ParticleSampler.html#af45030b5b732418fc14dde21597c80b9", null ],
+    [ "~ParticleSampler", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a01b539ef6c91937491cbe3f5bae046a4", null ],
+    [ "getDensity", "d4/d0c/classG4INCL_1_1ParticleSampler.html#ac807ef7f16158659db750b44c31f763f", null ],
+    [ "getPotential", "d4/d0c/classG4INCL_1_1ParticleSampler.html#ae3f345d906b3c0d68f6b6a20ca360288", null ],
+    [ "getRPCorrelationCoefficient", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a958393052dc8993a15c96d67a31070bd", null ],
+    [ "sampleOneParticleWithFuzzyRPCorrelation", "d4/d0c/classG4INCL_1_1ParticleSampler.html#aca46376cfd760fe3fb068e2780735560", null ],
+    [ "sampleOneParticleWithoutRPCorrelation", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a16048c085a776f8ff0e8bf976c7b36c3", null ],
+    [ "sampleOneParticleWithRPCorrelation", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a807ef02b2d9a3ba05ffdeb8f01db7560", null ],
+    [ "sampleParticles", "d4/d0c/classG4INCL_1_1ParticleSampler.html#add96dbbe464a5432c9ac65876ea5b1ed", null ],
+    [ "sampleParticlesIntoList", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a2faf807c0948f1d5719fccb7298e4f81", null ],
+    [ "setDensity", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a625688b81175c9d245dcc22cf6fa6c57", null ],
+    [ "setPotential", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a0086f69c41b791439a3bbe5e9912c66f", null ],
+    [ "setRPCorrelationCoefficient", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a9a57034a30b0fbc5b6a598ab25f0046c", null ],
+    [ "updateSampleOneParticleMethods", "d4/d0c/classG4INCL_1_1ParticleSampler.html#af23dda8fb528b65f547290c96193c557", null ],
+    [ "rpCorrelationCoefficient", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a1b2943be9718778cb550adc627dc659a", null ],
+    [ "sampleOneNeutron", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a0cca416bf7617c7842e04dccafd39770", null ],
+    [ "sampleOneProton", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a12b4d10bf9da1e48dbf4f2e8b67c5199", null ],
+    [ "theA", "d4/d0c/classG4INCL_1_1ParticleSampler.html#a0bb3f966543f44fb21155056f549bae5", null ],
+    [ "theDensity", "d4/d0c/classG4INCL_1_1ParticleSampler.html#accdf18c889786b9057ff062034726cc4", null ],
+    [ "thePCDFTable", "d4/d0c/classG4INCL_1_1ParticleSampler.html#ad7805e6b0e877e933069c36a7a3fb80d", null ],
+    [ "thePotential", "d4/d0c/classG4INCL_1_1ParticleSampler.html#ae4dcdd761f0a2f7cea147d247b63657f", null ],
+    [ "theRCDFTable", "d4/d0c/classG4INCL_1_1ParticleSampler.html#ad10a9c479dfb42ae4991f6b9ff892da8", null ],
+    [ "theZ", "d4/d0c/classG4INCL_1_1ParticleSampler.html#aee523b7267c4cbfd1932e7a33635f914", null ]
+];

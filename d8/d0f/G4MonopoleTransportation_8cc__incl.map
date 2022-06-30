@@ -1,0 +1,40 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/exoticphysics/monopole/src/G4MonopoleTransportation.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/exoticphysics/monopole/src/G4MonopoleTransportation.cc">
+<area shape="rect" id="node2" href="$dd/d62/G4MonopoleTransportation_8hh.html" title="Definition of the G4MonopoleTransportation class." alt="" coords="1963,129,2189,157"/>
+<area shape="rect" id="node20" href="$d3/d97/G4SafetyHelper_8hh.html" title="G4SafetyHelper.hh" alt="" coords="2607,281,2755,309"/>
+<area shape="rect" id="node26" href="$dd/d0a/G4ProductionCutsTable_8hh.html" title="G4ProductionCutsTable.hh" alt="" coords="845,357,1043,385"/>
+<area shape="rect" id="node30" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="513,281,660,309"/>
+<area shape="rect" id="node35" href="$d4/dd7/G4ChordFinder_8hh.html" title="G4ChordFinder.hh" alt="" coords="3501,433,3643,461"/>
+<area shape="rect" id="node40" href="$d6/d36/G4FieldManagerStore_8hh.html" title="G4FieldManagerStore.hh" alt="" coords="1127,357,1315,385"/>
+<area shape="rect" id="node41" href="$d4/de1/G4Monopole_8hh.html" title="Definition of the G4Monopole class." alt="" coords="3153,129,3281,157"/>
+<area shape="rect" id="node43" href="$db/d67/G4TransportationProcessType_8hh.html" title="G4TransportationProcessType.hh" alt="" coords="3610,129,3851,157"/>
+<area shape="rect" id="node44" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="3318,129,3479,157"/>
+<area shape="rect" id="node45" href="$da/de4/G4RunManager_8hh.html" title="G4RunManager.hh" alt="" coords="2901,129,3046,157"/>
+<area shape="rect" id="node3" href="$d0/d85/G4VProcess_8hh.html" title="G4VProcess.hh" alt="" coords="1470,205,1591,233"/>
+<area shape="rect" id="node12" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="2459,357,2551,385"/>
+<area shape="rect" id="node14" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="2338,357,2435,385"/>
+<area shape="rect" id="node17" href="$d3/d88/G4FieldManager_8hh.html" title="G4FieldManager.hh" alt="" coords="1725,433,1875,461"/>
+<area shape="rect" id="node18" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="2575,357,2702,385"/>
+<area shape="rect" id="node19" href="$d1/d2e/G4TransportationManager_8hh.html" title="G4TransportationManager.hh" alt="" coords="2437,205,2654,233"/>
+<area shape="rect" id="node21" href="$dc/dd7/G4PropagatorInField_8hh.html" title="G4PropagatorInField.hh" alt="" coords="23,357,201,385"/>
+<area shape="rect" id="node22" href="$db/dfa/G4ParticleChangeForTransport_8hh.html" title="G4ParticleChangeForTransport.hh" alt="" coords="2001,433,2249,461"/>
+<area shape="rect" id="node23" href="$dd/d90/G4MonopoleFieldSetup_8hh.html" title="Definition of the G4MonopoleFieldSetup class." alt="" coords="1615,205,1814,233"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2241,509,2332,537"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1634,585,1715,613"/>
+<area shape="rect" id="node9" href="$d1/d4b/G4PhysicsTable_8hh.html" title="G4PhysicsTable.hh" alt="" coords="1284,433,1431,461"/>
+<area shape="rect" id="node11" href="$d6/d6a/G4VParticleChange_8hh.html" title="G4VParticleChange.hh" alt="" coords="2087,281,2259,309"/>
+<area shape="rect" id="node16" href="$d6/d64/G4ForceCondition_8hh.html" title="G4ForceCondition.hh" alt="" coords="1520,281,1683,309"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1951,661,2051,689"/>
+<area shape="rect" id="node13" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="2615,433,2756,461"/>
+<area shape="rect" id="node27" href="$dd/dff/G4MaterialCutsCouple_8hh.html" title="G4MaterialCutsCouple.hh" alt="" coords="1455,433,1649,461"/>
+<area shape="rect" id="node28" href="$d1/d2f/G4MCCIndexConversionTable_8hh.html" title="G4MCCIndexConversionTable.hh" alt="" coords="615,433,855,461"/>
+<area shape="rect" id="node29" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="327,433,435,461"/>
+<area shape="rect" id="node31" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="460,433,591,461"/>
+<area shape="rect" id="node32" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="930,433,1107,461"/>
+<area shape="rect" id="node33" href="$dc/dcc/G4ParticleTableIterator_8hh.html" title="G4ParticleTableIterator.hh" alt="" coords="299,357,493,385"/>
+<area shape="rect" id="node36" href="$d1/dc3/G4VIntegrationDriver_8hh.html" title="G4VIntegrationDriver.hh" alt="" coords="3213,509,3398,537"/>
+<area shape="rect" id="node37" href="$de/d95/G4MagIntegratorStepper_8hh.html" title="G4MagIntegratorStepper.hh" alt="" coords="3263,585,3473,613"/>
+<area shape="rect" id="node42" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="3313,205,3535,233"/>
+<area shape="rect" id="node46" href="$dc/d47/G4RunManagerKernel_8hh.html" title="G4RunManagerKernel.hh" alt="" coords="2948,205,3137,233"/>
+<area shape="rect" id="node47" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="2831,281,2990,309"/>
+<area shape="rect" id="node48" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="3077,281,3177,309"/>
+</map>

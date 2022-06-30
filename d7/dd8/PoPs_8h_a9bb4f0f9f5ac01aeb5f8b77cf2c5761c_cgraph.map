@@ -1,0 +1,25 @@
+<map id="PoPs_hasNucleus" name="PoPs_hasNucleus">
+<area shape="rect" id="node2" href="$d7/dd8/PoPs_8h.html#af1390644c536191cc891eadcce1e1e41" title="PoPs_hasNucleus_atIndex" alt="" coords="191,59,385,87"/>
+<area shape="rect" id="node3" href="$d7/dd8/PoPs_8h.html#a0da54a5ce5539a0cc498b0ff74f277f9" title="PoPs_particleIndex_smr" alt="" coords="198,111,378,139"/>
+<area shape="rect" id="node4" href="$d7/dd8/PoPs_8h.html#a3aef1809d0aeaedfb5e4d9c6415f7ea4" title="PoPs_particleIndex" alt="" coords="436,84,583,112"/>
+<area shape="rect" id="node7" href="$dd/dc6/statusMessageReporting_8h.html#ab9107a54c38a02ac168fc8e3dcc5c7e7" title="smr_setReportError" alt="" coords="433,136,585,164"/>
+<area shape="rect" id="node5" href="$d1/dd1/PoPs_8cc.html#a532d5f9db7d194c5e4f1caf8cd527811" title="PoPs_sortedParticleIndex" alt="" coords="635,32,823,60"/>
+<area shape="rect" id="node6" href="$d1/dd1/PoPs_8cc.html#a78b37698646664281f2feb75e45ac8b8" title="PoPs_particleProperIndex" alt="" coords="633,84,824,112"/>
+<area shape="rect" id="node8" href="$d0/dbc/statusMessageReporting_8cc.html#abbec9c6f3f970b5f2f106a21b9e15798" title="smr_setReport" alt="" coords="669,136,789,164"/>
+<area shape="rect" id="node9" href="$d0/dbc/statusMessageReporting_8cc.html#ab4c23514cee60c351bc314abf621a2cd" title="smr_reportNew" alt="" coords="921,5,1045,33"/>
+<area shape="rect" id="node11" href="$d0/dbc/statusMessageReporting_8cc.html#a00fac1febe5df8c748838e7243cfdc8b" title="smr_setAllocationFailure" alt="" coords="890,57,1075,85"/>
+<area shape="rect" id="node12" href="$dd/dc6/statusMessageReporting_8h.html#aa4a70675f4512577d6cd329acd3533a5" title="smr_firstReport" alt="" coords="1152,57,1277,85"/>
+<area shape="rect" id="node13" href="$dd/dc6/statusMessageReporting_8h.html#ac7ab397f49753960a6280c00a0696f53" title="smr_release" alt="" coords="931,161,1034,189"/>
+<area shape="rect" id="node18" href="$dd/dc6/statusMessageReporting_8h.html#aa23b4edefb853119da6a7dd19ca21216" title="smr_vallocateFormatMessage" alt="" coords="872,213,1093,241"/>
+<area shape="rect" id="node24" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="963,265,1003,293"/>
+<area shape="rect" id="node10" href="$d0/dbc/statusMessageReporting_8cc.html#ac37bf76488a1f4c41105bceff94c1049" title="smr_reportInitialize" alt="" coords="1369,161,1519,189"/>
+<area shape="rect" id="node14" href="$dd/dc6/statusMessageReporting_8h.html#addc16616d7627c03ef979aae25340697" title="smr_nextReport" alt="" coords="1150,109,1279,137"/>
+<area shape="rect" id="node15" href="$d0/dbc/statusMessageReporting_8cc.html#a33706ebe0bdeaacc0f4a31002fe35c93" title="smr_reportRelease" alt="" coords="1141,213,1288,241"/>
+<area shape="rect" id="node16" href="$dd/dc6/statusMessageReporting_8h.html#a23c74a6eff07826813358d99f43e1121" title="smr_freeMemory" alt="" coords="1377,213,1511,241"/>
+<area shape="rect" id="node17" href="$dd/dc6/statusMessageReporting_8h.html#a13816518050ca7e8a8e333ddbea9e960" title="smr_initialize" alt="" coords="1159,161,1270,189"/>
+<area shape="rect" id="node19" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1173,329,1256,357"/>
+<area shape="rect" id="node20" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1336,265,1552,309"/>
+<area shape="rect" id="node21" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1338,333,1550,377"/>
+<area shape="rect" id="node22" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1339,401,1549,445"/>
+<area shape="rect" id="node23" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1600,401,1768,445"/>
+</map>

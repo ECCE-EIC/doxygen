@@ -1,0 +1,32 @@
+<map id="G4EmDNAPhysics_stationary_option6::ConstructParticle" name="G4EmDNAPhysics_stationary_option6::ConstructParticle">
+<area shape="rect" id="node2" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="559,236,719,264"/>
+<area shape="rect" id="node17" href="$d0/d54/classG4Gamma.html#a4ee5f7b61812afb37f48357148c13f75" title="G4Gamma::Gamma" alt="" coords="796,288,952,316"/>
+<area shape="rect" id="node19" href="$d4/d78/classG4GenericIon.html#a3d1cfbae0b390866df6410872881d0ca" title="G4GenericIon::GenericIon\lDefinition" alt="" coords="278,459,474,503"/>
+<area shape="rect" id="node23" href="$dd/d86/classG4DNAGenericIonsManager.html#aeb195b45713e97a9fd2866348ab66605" title="G4DNAGenericIonsManager\l::GetIon" alt="" coords="271,527,481,571"/>
+<area shape="rect" id="node24" href="$dd/d86/classG4DNAGenericIonsManager.html#aa2c4199bc05fccf76348e1e520327d80" title="G4DNAGenericIonsManager\l::Instance" alt="" coords="271,391,481,435"/>
+<area shape="rect" id="node28" href="$d3/d12/classG4Positron.html#aacc1c0848707302d19c881ffccb0ebab" title="G4Positron::Positron" alt="" coords="297,184,455,212"/>
+<area shape="rect" id="node30" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="571,340,707,368"/>
+<area shape="rect" id="node3" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="1009,236,1179,264"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1245,356,1457,384"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1269,152,1433,196"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1247,288,1455,332"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="1251,220,1450,264"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1513,304,1757,332"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1523,356,1747,384"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1828,261,2011,289"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1866,313,1973,341"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1535,133,1736,177"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1831,125,2007,169"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1831,193,2007,237"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1842,5,1997,49"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1805,73,2033,101"/>
+<area shape="rect" id="node18" href="$d0/d54/classG4Gamma.html#af48944ead345899927a66f64a1cb6b32" title="G4Gamma::Definition" alt="" coords="1010,288,1178,316"/>
+<area shape="rect" id="node20" href="$d4/d78/classG4GenericIon.html#a09a232545874038c6f7b5e92aa4c8ab8" title="G4GenericIon::Definition" alt="" coords="1000,444,1188,472"/>
+<area shape="rect" id="node21" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="1289,408,1413,436"/>
+<area shape="rect" id="node22" href="$d8/dd3/classG4ParticleTable.html#aaf9d10fc04506d47b91b658bf3b3df51" title="G4ParticleTable::SetGenericIon" alt="" coords="1236,460,1465,488"/>
+<area shape="rect" id="node25" href="$dd/d86/classG4DNAGenericIonsManager.html#aa5065cd49587bb58aa99b931b4842957" title="G4DNAGenericIonsManager\l::G4DNAGenericIonsManager" alt="" coords="529,392,748,436"/>
+<area shape="rect" id="node26" href="$dc/d9e/classG4Alpha.html#aa1650aa28172e900e599389e6ab8eaf9" title="G4Alpha::Alpha" alt="" coords="811,396,937,424"/>
+<area shape="rect" id="node27" href="$dc/d9e/classG4Alpha.html#a6775b51f1bda0a28a4c36910a447b3c7" title="G4Alpha::Definition" alt="" coords="1017,392,1171,420"/>
+<area shape="rect" id="node29" href="$d3/d12/classG4Positron.html#aeb7530a6ec5e82b7805cc036852f4b8f" title="G4Positron::Definition" alt="" coords="1009,184,1179,212"/>
+<area shape="rect" id="node31" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="1015,340,1173,368"/>
+</map>

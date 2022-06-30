@@ -1,0 +1,41 @@
+<map id="G4VEmProcess::G4VEmProcess" name="G4VEmProcess::G4VEmProcess">
+<area shape="rect" id="node2" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="322,96,482,124"/>
+<area shape="rect" id="node17" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="370,200,434,228"/>
+<area shape="rect" id="node23" href="$d0/d54/classG4Gamma.html#a4ee5f7b61812afb37f48357148c13f75" title="G4Gamma::Gamma" alt="" coords="324,44,480,72"/>
+<area shape="rect" id="node25" href="$d3/d1d/classG4LossTableBuilder.html#a731e90509123f9b969190d06dcc50ea9" title="G4LossTableBuilder\l::GetCoupleIndexes" alt="" coords="325,252,479,296"/>
+<area shape="rect" id="node26" href="$d3/d1d/classG4LossTableBuilder.html#a2db5e2c03ca693f05f620c1713a21905" title="G4LossTableBuilder\l::GetDensityFactors" alt="" coords="325,320,479,364"/>
+<area shape="rect" id="node27" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="573,427,797,455"/>
+<area shape="rect" id="node28" href="$d9/d78/classG4LossTableManager.html#a50e0a595d4bb72d3c0f39b3d441b84b0" title="G4LossTableManager\l::GetTableBuilder" alt="" coords="319,508,485,552"/>
+<area shape="rect" id="node29" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="299,576,505,604"/>
+<area shape="rect" id="node30" href="$d9/d78/classG4LossTableManager.html#a2f26d6edfd1d62ac3a714ac9f6bd6b9c" title="G4LossTableManager\l::Instance" alt="" coords="319,628,485,672"/>
+<area shape="rect" id="node36" href="$d3/d12/classG4Positron.html#aacc1c0848707302d19c881ffccb0ebab" title="G4Positron::Positron" alt="" coords="323,148,481,176"/>
+<area shape="rect" id="node38" href="$d9/d78/classG4LossTableManager.html#a9d3c93c9c53666fc5ef6fb0f6526d95e" title="G4LossTableManager\l::Register" alt="" coords="319,388,485,432"/>
+<area shape="rect" id="node39" href="$d6/d6c/classG4VParticleChange.html#a59864e926b0b76ec8d000b3d40e23296" title="G4VParticleChange::\lSetSecondaryWeightByProcess" alt="" coords="287,696,517,740"/>
+<area shape="rect" id="node40" href="$d2/d84/classG4VProcess.html#a213fcf29a813d7f29d0f2f2fb653c791" title="G4VProcess::SetVerboseLevel" alt="" coords="291,764,513,792"/>
+<area shape="rect" id="node3" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="600,96,771,124"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="853,88,1065,116"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="877,20,1041,64"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="855,140,1063,184"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="860,208,1059,252"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1113,36,1357,64"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1428,85,1611,113"/>
+<area shape="rect" id="node8" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1123,140,1347,168"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1466,5,1573,33"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1135,196,1336,240"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1442,257,1597,301"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1431,325,1607,369"/>
+<area shape="rect" id="node14" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1431,137,1607,181"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1405,205,1633,233"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="589,200,781,228"/>
+<area shape="rect" id="node19" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="589,252,781,280"/>
+<area shape="rect" id="node20" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="565,304,805,332"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="865,341,1053,369"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="865,289,1053,317"/>
+<area shape="rect" id="node24" href="$d0/d54/classG4Gamma.html#af48944ead345899927a66f64a1cb6b32" title="G4Gamma::Definition" alt="" coords="601,44,769,72"/>
+<area shape="rect" id="node31" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="592,628,779,672"/>
+<area shape="rect" id="node32" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="901,584,1017,612"/>
+<area shape="rect" id="node33" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="903,636,1016,664"/>
+<area shape="rect" id="node34" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="869,688,1050,716"/>
+<area shape="rect" id="node35" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1142,680,1329,724"/>
+<area shape="rect" id="node37" href="$d3/d12/classG4Positron.html#aeb7530a6ec5e82b7805cc036852f4b8f" title="G4Positron::Definition" alt="" coords="601,148,770,176"/>
+</map>

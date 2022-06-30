@@ -1,0 +1,37 @@
+<map id="G4ParticleHPArbitaryTab::Init" name="G4ParticleHPArbitaryTab::Init">
+<area shape="rect" id="node2" href="$dc/df1/classG4ParticleHPVector.html#a5fb74169899e6ca86136232372099fa1" title="G4ParticleHPVector\l::GetEnergy" alt="" coords="256,241,408,285"/>
+<area shape="rect" id="node4" href="$dc/df1/classG4ParticleHPVector.html#a6fc15c55773ab98939ba26e1718c5d9c" title="G4ParticleHPVector\l::GetVectorLength" alt="" coords="500,307,652,351"/>
+<area shape="rect" id="node5" href="$dc/d8c/classG4InterpolationManager.html#a30e6357a468d61bf0dcc90bfaa99d738" title="G4InterpolationManager\l::Init" alt="" coords="239,435,425,479"/>
+<area shape="rect" id="node7" href="$dc/df1/classG4ParticleHPVector.html#ab9d823027a0049581114369e89469e85" title="G4ParticleHPVector\l::Init" alt="" coords="256,169,408,213"/>
+<area shape="rect" id="node14" href="$dc/df1/classG4ParticleHPVector.html#a3d20ea3422e1c66b5695df49ffce89c8" title="G4ParticleHPVector\l::IntegrateAndNormalise" alt="" coords="239,367,425,411"/>
+<area shape="rect" id="node36" href="$dc/df1/classG4ParticleHPVector.html#a787451ace8e814080ddf52721ac5abe8" title="G4ParticleHPVector\l::SetLabel" alt="" coords="256,503,408,547"/>
+<area shape="rect" id="node3" href="$d7/d30/classG4ParticleHPDataPoint.html#a1a80eaaa6c7d429dad5fc2b72a9c9fd4" title="G4ParticleHPDataPoint\l::GetX" alt="" coords="489,239,663,283"/>
+<area shape="rect" id="node6" href="$dc/d8c/classG4InterpolationManager.html#a137a5dff93fdc46089cd4057b47b5676" title="G4InterpolationManager\l::MakeScheme" alt="" coords="483,631,669,675"/>
+<area shape="rect" id="node8" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a99ec8bdeeed620746dce4790b2bb51a4" title="G4INCL::CrossSections\l::total" alt="" coords="489,171,663,215"/>
+<area shape="rect" id="node9" href="$dc/df1/classG4ParticleHPVector.html#a26a020e11050f63c18364bccf4085928" title="G4ParticleHPVector\l::SetData" alt="" coords="500,103,652,147"/>
+<area shape="rect" id="node12" href="$d3/dae/classG4ParticleHPHash.html#a130e71a12e1eddfcb62aef6b49559755" title="G4ParticleHPHash::SetData" alt="" coords="473,51,679,79"/>
+<area shape="rect" id="node10" href="$dc/df1/classG4ParticleHPVector.html#a624945edee0b3f882c42c4e3d5251e38" title="G4ParticleHPVector\l::Check" alt="" coords="761,141,913,185"/>
+<area shape="rect" id="node11" href="$d7/d30/classG4ParticleHPDataPoint.html#aba9392893ce9d2da647a5f0e97d4a442" title="G4ParticleHPDataPoint\l::SetData" alt="" coords="749,73,924,117"/>
+<area shape="rect" id="node13" href="$d3/dae/classG4ParticleHPHash.html#a82ba518a0eb5c14ce00dd568cd4cdbb7" title="G4ParticleHPHash::G4Particle\lHPHash" alt="" coords="727,5,947,49"/>
+<area shape="rect" id="node15" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="521,511,631,539"/>
+<area shape="rect" id="node17" href="$dc/d8c/classG4InterpolationManager.html#abc4817885d22ee49f792ee8b7ea3c1e9" title="G4InterpolationManager\l::GetScheme" alt="" coords="483,563,669,607"/>
+<area shape="rect" id="node18" href="$d7/d30/classG4ParticleHPDataPoint.html#a98ec935410c526f7ce9e1f8bdf887cac" title="G4ParticleHPDataPoint\l::GetY" alt="" coords="489,375,663,419"/>
+<area shape="rect" id="node19" href="$d8/dd6/classG4ParticleHPInterpolator.html#ac01d427b70b65c5c5c8157aee7d9cd72" title="G4ParticleHPInterpolator\l::GetBinIntegral" alt="" coords="482,443,670,487"/>
+<area shape="rect" id="node16" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="749,555,925,583"/>
+<area shape="rect" id="node20" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1393,347,1457,375"/>
+<area shape="rect" id="node26" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1185,503,1251,531"/>
+<area shape="rect" id="node30" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="758,451,915,479"/>
+<area shape="rect" id="node31" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="780,399,893,427"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1592,295,1784,323"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1592,347,1784,375"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1568,399,1808,427"/>
+<area shape="rect" id="node24" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1856,373,2044,401"/>
+<area shape="rect" id="node25" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1856,425,2044,453"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1343,528,1508,556"/>
+<area shape="rect" id="node29" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1331,476,1520,504"/>
+<area shape="rect" id="node28" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1594,528,1782,556"/>
+<area shape="rect" id="node32" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="995,451,1105,479"/>
+<area shape="rect" id="node34" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="997,399,1103,427"/>
+<area shape="rect" id="node33" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1199,451,1237,479"/>
+<area shape="rect" id="node35" href="$de/d0f/classG4Pow.html#ac13480ec4002760d19472b52e517933b" title="G4Pow::logBase" alt="" coords="1153,399,1283,427"/>
+</map>

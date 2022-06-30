@@ -1,0 +1,39 @@
+<map id="G4LowEnergyRayleigh::PostStepDoIt" name="G4LowEnergyRayleigh::PostStepDoIt">
+<area shape="rect" id="node2" href="$d7/d74/classG4RDVEMDataSet.html#a7739b9a1c7d80dec7b20a8c676de8275" title="G4RDVEMDataSet::FindValue" alt="" coords="506,5,723,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="506,521,723,549"/>
+<area shape="rect" id="node4" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="536,573,693,617"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="234,905,427,949"/>
+<area shape="rect" id="node6" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="523,641,706,685"/>
+<area shape="rect" id="node7" href="$d2/d06/classG4ParticleChange.html#ac0e464b1e58e7180b645b4ff9516281a" title="G4ParticleChange::Initialize" alt="" coords="227,853,435,881"/>
+<area shape="rect" id="node18" href="$da/dea/classG4VDiscreteProcess.html#a9998931d55d5ba52d396c9738232e3f5" title="G4VDiscreteProcess\l::PostStepDoIt" alt="" coords="253,973,409,1017"/>
+<area shape="rect" id="node20" href="$d2/d06/classG4ParticleChange.html#a992921ff016c9aa43036fff57dba5ee9" title="G4ParticleChange::Propose\lEnergy" alt="" coords="229,1041,433,1085"/>
+<area shape="rect" id="node21" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="226,1109,435,1153"/>
+<area shape="rect" id="node22" href="$d2/d06/classG4ParticleChange.html#aa388946fcae03222d8787c306f6f7e33" title="G4ParticleChange::Propose\lMomentumDirection" alt="" coords="229,1177,433,1221"/>
+<area shape="rect" id="node23" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="251,1245,411,1289"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="251,1385,411,1429"/>
+<area shape="rect" id="node28" href="$dc/d2b/classG4RDVCrossSectionHandler.html#ae2eee66428f949dbaa836185aa0da53f" title="G4RDVCrossSectionHandler\l::SelectRandomAtom" alt="" coords="225,248,436,292"/>
+<area shape="rect" id="node38" href="$d6/d6c/classG4VParticleChange.html#aa9b4c936d28ceb89e31052f6dbd996c8" title="G4VParticleChange::\lSetNumberOfSecondaries" alt="" coords="233,1453,429,1497"/>
+<area shape="rect" id="node8" href="$d6/d6c/classG4VParticleChange.html#a87dc2247a22d7c2ac0422efa03bbae75" title="G4VParticleChange::\lInitialize" alt="" coords="535,1205,695,1249"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="533,1273,696,1301"/>
+<area shape="rect" id="node10" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="536,709,693,753"/>
+<area shape="rect" id="node11" href="$d7/d5c/classG4DynamicParticle.html#a40ba834a495be7dac050257449e20211" title="G4DynamicParticle::\lGetProperTime" alt="" coords="536,777,693,821"/>
+<area shape="rect" id="node12" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="536,845,693,889"/>
+<area shape="rect" id="node13" href="$d7/d5c/classG4DynamicParticle.html#a25422607b7822f675f845a9d2f7abd39" title="G4DynamicParticle::\lGetCharge" alt="" coords="536,913,693,957"/>
+<area shape="rect" id="node14" href="$d7/d5c/classG4DynamicParticle.html#a3b96233fcb3d586d7bf8b60718faeb00" title="G4DynamicParticle::\lGetMagneticMoment" alt="" coords="533,981,696,1025"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="534,1049,695,1077"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a70077e82fa447fe7695784ddf733a647" title="G4Track::GetLocalTime" alt="" coords="526,1101,703,1129"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="522,1153,707,1181"/>
+<area shape="rect" id="node19" href="$d2/d84/classG4VProcess.html#a3876f68314f809d4031ec395653040ab" title="G4VProcess::ClearNumberOf\lInteractionLengthLeft" alt="" coords="507,1325,723,1369"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="530,1393,699,1421"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="530,1445,699,1473"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="531,1497,699,1525"/>
+<area shape="rect" id="node29" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="576,401,653,429"/>
+<area shape="rect" id="node30" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="529,453,701,497"/>
+<area shape="rect" id="node31" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="484,57,745,85"/>
+<area shape="rect" id="node32" href="$d5/de4/classG4Material.html#a419c5aced8395f8ae4a4f3544dfd1c6f" title="G4Material::GetZ" alt="" coords="546,109,683,137"/>
+<area shape="rect" id="node34" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="501,161,729,189"/>
+<area shape="rect" id="node35" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="529,213,701,257"/>
+<area shape="rect" id="node36" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="537,281,692,325"/>
+<area shape="rect" id="node37" href="$d7/d74/classG4RDVEMDataSet.html#a1702581a84fd58259027d1a3184b5d95" title="G4RDVEMDataSet::GetComponent" alt="" coords="487,349,743,377"/>
+<area shape="rect" id="node33" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="793,109,900,137"/>
+</map>

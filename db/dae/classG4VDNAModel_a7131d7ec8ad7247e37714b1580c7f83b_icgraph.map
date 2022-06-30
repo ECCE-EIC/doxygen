@@ -1,0 +1,6 @@
+<map id="G4VDNAModel::ReadAndSaveCSFile" name="G4VDNAModel::ReadAndSaveCSFile">
+<area shape="rect" id="node2" href="$db/dae/classG4VDNAModel.html#ae8c79bf61680e8b0d6201b522a6560b1" title="LoadCrossSectionData Method to loop on all the registered materials in the model and load the corresp..." alt="" coords="276,81,556,109"/>
+<area shape="rect" id="node3" href="$da/dd5/classG4DNAPTBExcitationModel.html#a1a3d24b47e366cdc0dc5f79b93343404" title="Initialise Set the materials for which the model can be used and defined the energy limits..." alt="" coords="604,5,807,49"/>
+<area shape="rect" id="node4" href="$df/d41/classG4DNAPTBElasticModel.html#ac63a140c551e181d59d7f953ed90f07c" title="Initialise Mandatory method for every model class. The material/particle for which the model can be u..." alt="" coords="615,73,795,117"/>
+<area shape="rect" id="node5" href="$dc/d67/classG4DNAPTBIonisationModel.html#af225d314cee2d42a09f480d5ac93f19a" title="Initialise Method called once at the beginning of the simulation. It is used to setup the list of the..." alt="" coords="605,141,806,185"/>
+</map>

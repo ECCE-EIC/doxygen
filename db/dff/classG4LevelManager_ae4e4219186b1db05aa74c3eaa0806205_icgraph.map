@@ -1,0 +1,12 @@
+<map id="G4LevelManager::NearestLevelEnergy" name="G4LevelManager::NearestLevelEnergy">
+<area shape="rect" id="node2" href="$d0/dfa/classG4Radioactivation.html#a74c7e92e68178b8a283851002fadde1f" title="G4Radioactivation::\lCalculateChainsFromParent" alt="" coords="289,73,495,117"/>
+<area shape="rect" id="node6" href="$df/d5e/classG4RadioactiveDecay.html#ab2df89151fb5f31f8e617f8bce1bef77" title="G4RadioactiveDecay\l::CalculateChainsFromParent" alt="" coords="284,141,500,185"/>
+<area shape="rect" id="node10" href="$d0/dfe/classG4PhotonEvaporation.html#a02ad1a4246b6aa6bb931368b3f5db6c0" title="G4PhotonEvaporation\l::GetFinalLevelEnergy" alt="" coords="307,209,477,253"/>
+<area shape="rect" id="node11" href="$d8/dd6/classG4NuclearLevelData.html#a18c436e4c94b1331736d7f2311b1a1a3" title="G4NuclearLevelData\l::GetLevelEnergy" alt="" coords="313,277,471,321"/>
+<area shape="rect" id="node3" href="$d0/dfa/classG4Radioactivation.html#a5f3f52eb546d59390dd2e633ebc1918f" title="G4Radioactivation::\lDecayIt" alt="" coords="553,73,706,117"/>
+<area shape="rect" id="node4" href="$d0/dfa/classG4Radioactivation.html#a5e992a9701e77174b5815b47b8aea8a4" title="G4Radioactivation::\lAtRestDoIt" alt="" coords="763,5,917,49"/>
+<area shape="rect" id="node5" href="$d0/dfa/classG4Radioactivation.html#a9346a1112a2666c53aa9cf34646494ff" title="G4Radioactivation::\lPostStepDoIt" alt="" coords="763,73,917,117"/>
+<area shape="rect" id="node7" href="$df/d5e/classG4RadioactiveDecay.html#a99665f00c3be293c00a1e94108faf7fb" title="G4RadioactiveDecay\l::DecayIt" alt="" coords="548,141,711,185"/>
+<area shape="rect" id="node8" href="$df/d5e/classG4RadioactiveDecay.html#a0fb4257aca98bf87d751a0021dcf4639" title="G4RadioactiveDecay\l::AtRestDoIt" alt="" coords="759,141,921,185"/>
+<area shape="rect" id="node9" href="$df/d5e/classG4RadioactiveDecay.html#aff9187bc33e0500c36b77d5fe7ffeb95" title="G4RadioactiveDecay\l::PostStepDoIt" alt="" coords="759,209,921,253"/>
+</map>

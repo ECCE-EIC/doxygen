@@ -1,0 +1,16 @@
+<map id="G4AdjointCSManager::DefineCurrentParticle" name="G4AdjointCSManager::DefineCurrentParticle">
+<area shape="rect" id="node2" href="$d8/d73/classG4AdjointCSManager.html#a0f7813ba0a95bcb2c9bb57484b2add56" title="G4AdjointCSManager\l::BuildTotalSigmaTables" alt="" coords="228,39,409,83"/>
+<area shape="rect" id="node5" href="$d8/d73/classG4AdjointCSManager.html#a9298cad479dd13b45945e7dc56debbe8" title="G4AdjointCSManager\l::GetEminForTotalCS" alt="" coords="236,107,401,151"/>
+<area shape="rect" id="node6" href="$d8/d73/classG4AdjointCSManager.html#a319938ea8101246a447bb3018c889c28" title="G4AdjointCSManager\l::GetMaxAdjTotalCS" alt="" coords="236,175,401,219"/>
+<area shape="rect" id="node7" href="$d8/d73/classG4AdjointCSManager.html#adbbaf628fd03f3393e860bc6f3b94d6b" title="G4AdjointCSManager\l::GetMaxFwdTotalCS" alt="" coords="236,243,401,287"/>
+<area shape="rect" id="node8" href="$d8/d73/classG4AdjointCSManager.html#aaf62748e74e5b0196c017187d97647de" title="G4AdjointCSManager\l::GetTotalAdjointCS" alt="" coords="236,379,401,423"/>
+<area shape="rect" id="node15" href="$d8/d73/classG4AdjointCSManager.html#a3f6798952d15bb2a7d82c0a5cfb9fcb2" title="G4AdjointCSManager\l::GetTotalForwardCS" alt="" coords="236,311,401,355"/>
+<area shape="rect" id="node3" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#accef02a2e128b38a2f25a5b06f8af88d" title="G4AdjointForcedInteraction\lForGamma::BuildPhysicsTable" alt="" coords="503,5,727,49"/>
+<area shape="rect" id="node4" href="$da/d14/classG4VAdjointReverseReaction.html#aa34e0abea37e6e6139ebc621e07b4dbe" title="G4VAdjointReverseReaction\l::BuildPhysicsTable" alt="" coords="511,73,719,117"/>
+<area shape="rect" id="node9" href="$d8/d73/classG4AdjointCSManager.html#a3ca5a4b8b1cdc31df192644869c748f8" title="G4AdjointCSManager\l::GetCrossSectionCorrection" alt="" coords="509,243,720,287"/>
+<area shape="rect" id="node11" href="$d8/d73/classG4AdjointCSManager.html#a777682ee8cfdc092213ac7cf062dda5e" title="G4AdjointCSManager\l::GetContinuousWeightCorrection" alt="" coords="491,311,738,355"/>
+<area shape="rect" id="node13" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#ab63fcf25d2b2f52c5f1331af50dab5f7" title="G4AdjointForcedInteraction\lForGamma::AlongStepDoIt" alt="" coords="512,379,717,423"/>
+<area shape="rect" id="node14" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#a89c4d6a98502144c777ee66a83aaeb77" title="G4AdjointForcedInteraction\lForGamma::PostStepGetPhysicalInteraction\lLength" alt="" coords="457,447,772,507"/>
+<area shape="rect" id="node10" href="$da/d14/classG4VAdjointReverseReaction.html#a7553c08ab216f11c3506461090fc3a52" title="G4VAdjointReverseReaction\l::GetMeanFreePath" alt="" coords="820,243,1028,287"/>
+<area shape="rect" id="node12" href="$db/dca/classG4AdjointAlongStepWeightCorrection.html#ac30500fe187798fff02695e2f8ac4926" title="G4AdjointAlongStepWeight\lCorrection::AlongStepDoIt" alt="" coords="821,311,1027,355"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G4ParticleChangeForGamma::GetProposedKineticEnergy" name="G4ParticleChangeForGamma::GetProposedKineticEnergy">
+<area shape="rect" id="node2" href="$db/d69/classG4EmBiasingManager.html#ae92d60af3a113a491b4654ab5805b0b1" title="G4EmBiasingManager\l::ApplyDirectionalSplitting" alt="" coords="269,48,467,92"/>
+<area shape="rect" id="node4" href="$db/d69/classG4EmBiasingManager.html#a5ab0c670a8b56eed4fc184ed4f01e40e" title="G4EmBiasingManager\l::ApplySecondaryBiasing" alt="" coords="273,159,463,203"/>
+<area shape="rect" id="node8" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="515,277,733,305"/>
+<area shape="rect" id="node3" href="$db/d69/classG4EmBiasingManager.html#a6ec265328f35360d08719a7201cf06f6" title="G4EmBiasingManager\l::ApplySecondaryBiasing" alt="" coords="529,5,719,49"/>
+<area shape="rect" id="node5" href="$dc/d88/classG4eplusAnnihilation.html#adae19cc1e541200a99c458dd715f83a8" title="G4eplusAnnihilation\l::AtRestDoIt" alt="" coords="545,73,703,117"/>
+<area shape="rect" id="node6" href="$da/d80/classG4VEnergyLossProcess.html#ac091040884a0a2c2d77d517cd4cff084" title="G4VEnergyLossProcess\l::FillSecondariesAlongStep" alt="" coords="523,141,725,185"/>
+<area shape="rect" id="node11" href="$da/d80/classG4VEnergyLossProcess.html#afd83c7b4ebe650589101841e43fcdc6a" title="G4VEnergyLossProcess\l::PostStepDoIt" alt="" coords="535,209,713,253"/>
+<area shape="rect" id="node7" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="792,141,969,185"/>
+<area shape="rect" id="node9" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="781,269,980,313"/>
+<area shape="rect" id="node10" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="1028,269,1227,313"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4Material::AddMaterial" name="G4Material::AddMaterial">
+<area shape="rect" id="node2" href="$d5/d40/classPHG4TTLDetector.html#a4071abf01a09d23a002a8cba3bb75964" title="PHG4TTLDetector::BuildBarrelTTL" alt="" coords="248,5,496,33"/>
+<area shape="rect" id="node4" href="$d2/dfb/classG4tgbMaterialMixtureByVolume.html#a93f1ac06fe8db4d903b1981f048f7294" title="G4tgbMaterialMixtureByVolume\l::BuildG4Material" alt="" coords="254,57,490,101"/>
+<area shape="rect" id="node5" href="$dd/dfb/classG4tgbMaterialMixtureByWeight.html#a6c81cd93cf3ede3e0d038ae761bceb52" title="G4tgbMaterialMixtureByWeight\l::BuildG4Material" alt="" coords="255,125,489,169"/>
+<area shape="rect" id="node6" href="$d2/d28/classPHG4CylinderStripDetector.html#a27127095538641a8a9ae66ff8ea1eb8b" title="PHG4CylinderStripDetector\l::BuildMaterials" alt="" coords="269,193,475,237"/>
+<area shape="rect" id="node8" href="$d8/d97/classDetectorALICE06.html#aa17a5e7721120bfd8b86b8707131c10c" title="DetectorALICE06::Construct" alt="" coords="267,261,477,289"/>
+<area shape="rect" id="node9" href="$d3/d4d/classPHG4TRDDetector.html#a30f38944faf5527fcae8652af3ff240a" title="construct TRD" alt="" coords="253,313,491,341"/>
+<area shape="rect" id="node10" href="$dd/d2d/classPHG4ECAPToFDetector.html#a80e457c0e22307d0cb848bd47dd4e9f8" title="PHG4ECAPToFDetector\l::ConstructMe" alt="" coords="285,365,459,409"/>
+<area shape="rect" id="node11" href="$de/d81/classPHG4TpcDetector.html#a04b64d779a490cfccf3be7f449de7cca" title="PHG4TpcDetector::CreateComposite\lMaterial" alt="" coords="239,433,505,477"/>
+<area shape="rect" id="node14" href="$dd/d5a/classPHG4TpcEndCapDetector.html#a03bdcececfd76d93687b9ac0ac3185e5" title="PHG4TpcEndCapDetector\l::CreateCompositeMaterial" alt="" coords="271,501,473,545"/>
+<area shape="rect" id="node16" href="$d1/d49/classWLSMaterials.html#a3ab0530608aebff84d9dfcae5e691662" title="WLSMaterials::CreateMaterials" alt="" coords="258,569,486,597"/>
+<area shape="rect" id="node18" href="$d1/d59/classXrayFluoNistMaterials.html#a1a99b5139aef764389134235e3b6bdd2" title="XrayFluoNistMaterials\l::CreateMaterials" alt="" coords="288,621,456,665"/>
+<area shape="rect" id="node20" href="$dc/d5b/classDetectorConstruction.html#a5c3bcd347659ea1931b858bc128c54a2" title="DetectorConstruction\l::DefineMaterials" alt="" coords="289,689,455,733"/>
+<area shape="rect" id="node22" href="$db/dd1/classF02DetectorConstruction.html#a10f492ab503a4aded4e74695c955e399" title="F02DetectorConstruction\l::DefineMaterials" alt="" coords="277,757,467,801"/>
+<area shape="rect" id="node24" href="$d5/d47/classF01DetectorConstruction.html#a72b690f0ec1da3254dd3a75d90750222" title="F01DetectorConstruction\l::DefineMaterials" alt="" coords="277,825,467,869"/>
+<area shape="rect" id="node26" href="$d0/d78/classPHG4Reco.html#a90115a5a7726db54ec46f7fa341e0e5c" title="PHG4Reco::DefineMaterials" alt="" coords="269,893,475,921"/>
+<area shape="rect" id="node28" href="$df/d6b/classF03DetectorConstruction.html#a752299543367c2ea8d6691a890b3ac22" title="F03DetectorConstruction\l::DefineMaterials" alt="" coords="277,945,467,989"/>
+<area shape="rect" id="node30" href="$d5/dd3/classExN03DetectorConstruction.html#ad468f5881da650721ba3d28212948a69" title="ExN03DetectorConstruction\l::DefineMaterials" alt="" coords="267,1013,477,1057"/>
+<area shape="rect" id="node32" href="$d3/d1a/classPurgMagDetectorConstruction.html#ae259373c0eecd6f73e29e8ba7fc422ba" title="PurgMagDetectorConstruction\l::DefineMaterials" alt="" coords="260,1081,484,1125"/>
+<area shape="rect" id="node34" href="$d3/d69/classGammaRayTelDetectorConstruction.html#aba57bebc29ee8c60b52338146cbe4a02" title="GammaRayTelDetectorConstruction\l::DefineMaterials" alt="" coords="241,1149,503,1193"/>
+<area shape="rect" id="node36" href="$df/d6a/classEicFRichDetector.html#ab4f6802bb44ec0ea16bf05c4523015bd" title="EicFRichDetector::element\l_material" alt="" coords="271,1217,473,1261"/>
+<area shape="rect" id="node38" href="$de/d9d/pymodG4materials_8cc.html#abdd52733e8a763eef636722112065ac7" title="export_G4Material" alt="" coords="299,1285,445,1313"/>
+<area shape="rect" id="node40" href="$de/ddb/classFCALMaterialConsultant.html#aba1f4e849c1f40c465b04a2d800e3981" title="FCALMaterialConsultant\l::FCALMaterialConsultant" alt="" coords="276,1337,468,1381"/>
+<area shape="rect" id="node42" href="$d4/dd9/classPHG4LFHcalDetector.html#a3d8bf5b55b45c58c7ef08bef7c5b9e50" title="PHG4LFHcalDetector\l::GetCoatingMaterial" alt="" coords="291,1405,453,1449"/>
+<area shape="rect" id="node43" href="$d8/d23/classPHG4ForwardEcalDetector.html#aaeefbd6c2284208a070bc60fc5de805a" title="PHG4ForwardEcalDetector\l::GetCoatingMaterial" alt="" coords="272,1473,472,1517"/>
+<area shape="rect" id="node45" href="$d2/da3/classMaterials.html#a08202f18b4871eaf5a0d83ba5bf9a3b3" title="Materials::Initialise" alt="" coords="298,1541,446,1569"/>
+<area shape="rect" id="node47" href="$d3/d05/classEICG4LumiDetector.html#a3f56aa34b97db016d8a6a4bffab4e0b9" title="EICG4LumiDetector::\lMakeTower" alt="" coords="291,1593,453,1637"/>
+<area shape="rect" id="node49" href="$db/d87/classG4GDMLReadMaterials.html#a80f006ed643da3569094e72132a3bc87" title="G4GDMLReadMaterials\l::MixtureRead" alt="" coords="284,1661,460,1705"/>
+<area shape="rect" id="node50" href="$d5/dc6/classTrentoPassiveProtonBeamLine.html#ac563ca9c7e4eb3cb8110b1e7777e56ec" title="TrentoPassiveProtonBeamLine\l::SetDefaultDimensions" alt="" coords="259,1729,485,1773"/>
+<area shape="rect" id="node3" href="$d5/d40/classPHG4TTLDetector.html#aa40bfffeca5e778a9655ff2f46584bf8" title="construct" alt="" coords="567,5,801,33"/>
+<area shape="rect" id="node7" href="$d2/d28/classPHG4CylinderStripDetector.html#ad48f7eed9e51fdf1b53b6963f6a040e8" title="construct" alt="" coords="581,193,787,237"/>
+<area shape="rect" id="node12" href="$de/d81/classPHG4TpcDetector.html#af9c9617ea42660ed2318106b1da9cd43" title="PHG4TpcDetector::Construct\lTpcGasVolume" alt="" coords="576,433,792,477"/>
+<area shape="rect" id="node13" href="$de/d81/classPHG4TpcDetector.html#add249db10a97cac64b40c13c5ecbb7a6" title="construct" alt="" coords="863,441,1097,469"/>
+<area shape="rect" id="node15" href="$dd/d5a/classPHG4TpcEndCapDetector.html#aec875ecce8ec727af4f9f58edbd89bc0" title="PHG4TpcEndCapDetector\l::ConstructEndCapAssembly" alt="" coords="577,501,791,545"/>
+<area shape="rect" id="node17" href="$d1/d49/classWLSMaterials.html#ae7d93c0e91abf366bfba8c06ac5d2edc" title="WLSMaterials::WLSMaterials" alt="" coords="577,569,791,597"/>
+<area shape="rect" id="node19" href="$d1/d59/classXrayFluoNistMaterials.html#ab0a8e7065693e2b5d8702be1f99c7b25" title="XrayFluoNistMaterials\l::XrayFluoNistMaterials" alt="" coords="595,621,773,665"/>
+<area shape="rect" id="node21" href="$dc/d5b/classDetectorConstruction.html#a1533c4308baddd0b2dcdf40f61dea1ef" title="DetectorConstruction\l::DetectorConstruction" alt="" coords="597,689,771,733"/>
+<area shape="rect" id="node23" href="$db/dd1/classF02DetectorConstruction.html#af29d8dafb552e8bcd621213633233a72" title="F02DetectorConstruction\l::F02DetectorConstruction" alt="" coords="585,757,783,801"/>
+<area shape="rect" id="node25" href="$d5/d47/classF01DetectorConstruction.html#ae8acb9f7545b7dba3ad155ec1925caa7" title="F01DetectorConstruction\l::F01DetectorConstruction" alt="" coords="585,825,783,869"/>
+<area shape="rect" id="node27" href="$d0/d78/classPHG4Reco.html#a7b10a263dd7671587b574526da6b2d7d" title="full initialization" alt="" coords="623,893,745,921"/>
+<area shape="rect" id="node29" href="$df/d6b/classF03DetectorConstruction.html#ab21d97d019eb44f5672a51583c2dc539" title="F03DetectorConstruction\l::F03DetectorConstruction" alt="" coords="585,945,783,989"/>
+<area shape="rect" id="node31" href="$d5/dd3/classExN03DetectorConstruction.html#ace49e1a7dfff616456819fcb7da07b7f" title="ExN03DetectorConstruction\l::ExN03DetectorConstruction" alt="" coords="575,1013,793,1057"/>
+<area shape="rect" id="node33" href="$d3/d1a/classPurgMagDetectorConstruction.html#aa2e8fd68898a4e88bbf21996e2a0f344" title="PurgMagDetectorConstruction\l::Construct" alt="" coords="572,1081,796,1125"/>
+<area shape="rect" id="node35" href="$d3/d69/classGammaRayTelDetectorConstruction.html#aaa973f69ead82a92eec1bf6e0969657c" title="GammaRayTelDetectorConstruction\l::Construct" alt="" coords="553,1149,815,1193"/>
+<area shape="rect" id="node37" href="$df/d6a/classEicFRichDetector.html#a69655fcd90975bb4809d47725f4feba3" title="EicFRichDetector::addDetector\lSection" alt="" coords="569,1217,799,1261"/>
+<area shape="rect" id="node39" href="$de/d9d/pymodG4materials_8cc.html#a8a1782f1cb0b7b0c9a810bf6c99477b8" title="BOOST_PYTHON_MODULE" alt="" coords="587,1285,781,1313"/>
+<area shape="rect" id="node41" href="$de/ddb/classFCALMaterialConsultant.html#a9e4d6e19dc7b49ec4536c7eea68d2a8e" title="FCALMaterialConsultant\l::GetInstance" alt="" coords="592,1337,776,1381"/>
+<area shape="rect" id="node44" href="$d8/d23/classPHG4ForwardEcalDetector.html#a6cc111d6a9972cad82ed720d4f834f47" title="PHG4ForwardEcalDetector\l::ConstructTower" alt="" coords="584,1473,784,1517"/>
+<area shape="rect" id="node46" href="$d2/da3/classMaterials.html#a2dfa37c118bd29053598f9ae6b53f810" title="Materials::Materials" alt="" coords="607,1541,761,1569"/>
+<area shape="rect" id="node48" href="$d3/d05/classEICG4LumiDetector.html#ae406c03580da44b1cbecc2045cf8bc2d" title="EICG4LumiDetector::\lAddCAL" alt="" coords="603,1593,765,1637"/>
+</map>

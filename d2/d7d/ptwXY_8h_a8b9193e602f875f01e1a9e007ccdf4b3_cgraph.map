@@ -1,0 +1,39 @@
+<map id="ptwXY_createFromFunction2" name="ptwXY_createFromFunction2">
+<area shape="rect" id="node2" href="$d2/d7d/ptwXY_8h.html#a40b95caf711027512a84ccefb51342f8" title="ptwXY_createFromFunction" alt="" coords="265,472,468,500"/>
+<area shape="rect" id="node3" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="548,284,687,312"/>
+<area shape="rect" id="node4" href="$dd/dc3/ptwXY__misc_8cc.html#ac7b606170384489c45f05c7b50bf7f23" title="ptwXY_createFromFunction\lBisect" alt="" coords="516,336,719,380"/>
+<area shape="rect" id="node16" href="$d2/d7d/ptwXY_8h.html#a641cb9a81a7169c94045d3fb3c31978a" title="ptwXY_setValueAtX_override\lIfClose" alt="" coords="768,379,981,423"/>
+<area shape="rect" id="node27" href="$dd/dc3/ptwXY__misc_8cc.html#a7631e0ea4a617c55072af58238cec1dd" title="ptwXY_createFromFunction\lZeroCrossing" alt="" coords="516,404,719,448"/>
+<area shape="rect" id="node28" href="$d2/d7d/ptwXY_8h.html#a4e2144be01132d37a1117e23388c293c" title="ptwXY_free" alt="" coords="827,953,923,981"/>
+<area shape="rect" id="node31" href="$d2/d7d/ptwXY_8h.html#a26fbf7beea8dc3f758d52c95f0e6c6b8" title="ptwXY_new" alt="" coords="568,772,667,800"/>
+<area shape="rect" id="node38" href="$d2/d7d/ptwXY_8h.html#a45754f6b580c2a9857919428fdc2cb62" title="ptwXY_simpleCoalescePoints" alt="" coords="767,523,983,551"/>
+<area shape="rect" id="node5" href="$d2/d7d/ptwXY_8h.html#ae6abf41110d9d1b5c50ffd926344e9ee" title="ptwXY_interpolatePoint" alt="" coords="785,188,964,216"/>
+<area shape="rect" id="node6" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1097,84,1161,112"/>
+<area shape="rect" id="node12" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1096,188,1163,216"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1300,5,1492,33"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1300,57,1492,85"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1276,109,1516,137"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1583,136,1771,164"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1583,84,1771,112"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1313,213,1479,241"/>
+<area shape="rect" id="node15" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1301,161,1491,189"/>
+<area shape="rect" id="node14" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1583,213,1771,241"/>
+<area shape="rect" id="node17" href="$d2/d7d/ptwXY_8h.html#a5b7bec83d87c62cf9c522e2b7f5bfc8e" title="ptwXY_getNonOverflowLength" alt="" coords="1564,368,1789,396"/>
+<area shape="rect" id="node18" href="$d2/d7d/ptwXY_8h.html#a9b34cd7c28efa3e9d6c11c43bce54395" title="ptwXY_getPointsAroundX\l_closeIsEqual" alt="" coords="1034,353,1225,397"/>
+<area shape="rect" id="node23" href="$d2/d7d/ptwXY_8h.html#a550600ef46036ede8fce5a5fae0d9d5b" title="ptwXY_coalescePoints" alt="" coords="1311,524,1481,552"/>
+<area shape="rect" id="node19" href="$d2/d7d/ptwXY_8h.html#afcc2b5db05c068617d5958eacfe6b0d6" title="ptwXY_getXMinAndFrom" alt="" coords="1303,420,1489,448"/>
+<area shape="rect" id="node21" href="$d2/d7d/ptwXY_8h.html#acdef5020b70bd453aba3ce9535df106c" title="ptwXY_getXMaxAndFrom" alt="" coords="1302,368,1490,396"/>
+<area shape="rect" id="node22" href="$d7/db3/ptwXY__core_8cc.html#af7b3e6497914d3e67ea5c056d6236469" title="ptwXY_initialOverflowPoint" alt="" coords="1295,472,1497,500"/>
+<area shape="rect" id="node20" href="$d2/db9/nf__utilities_8h.html#ad7d09a3a8eef2c0abf7d407315feaa8a" title="nfu_getNAN" alt="" coords="1626,420,1727,448"/>
+<area shape="rect" id="node24" href="$d2/d7d/ptwXY_8h.html#a3ffc6169358b35ac6f46aaf1594e4a3d" title="ptwXY_reallocatePoints" alt="" coords="1588,639,1765,667"/>
+<area shape="rect" id="node25" href="$d2/db9/nf__utilities_8h.html#a30e8c255242666faf25ce737faa08aa1" title="nfu_realloc" alt="" coords="1837,639,1932,667"/>
+<area shape="rect" id="node26" href="$d8/deb/comparison__ascii_8C.html#abdedbca3600eb6c52e42ed70d25d71aa" title="printf" alt="" coords="1980,851,2039,879"/>
+<area shape="rect" id="node29" href="$d2/d7d/ptwXY_8h.html#adcf19c96e1df2c0d7ef36268871d43ab" title="ptwXY_release" alt="" coords="1070,953,1189,981"/>
+<area shape="rect" id="node30" href="$d2/db9/nf__utilities_8h.html#ada4b5b5229ccf0a4e9dfed13efeed72d" title="nfu_free" alt="" coords="1358,928,1434,956"/>
+<area shape="rect" id="node32" href="$d2/db9/nf__utilities_8h.html#a3c3b25dcd747e63c96d357e07a9b503a" title="nfu_calloc" alt="" coords="1840,851,1929,879"/>
+<area shape="rect" id="node33" href="$d2/d7d/ptwXY_8h.html#aff801ef2f772289c2e577ed1acfd0353" title="ptwXY_setup" alt="" coords="821,720,929,748"/>
+<area shape="rect" id="node34" href="$d2/d7d/ptwXY_8h.html#a3f454ba7fba76a69c3adcee6bfb7fce7" title="ptwXY_setUserFlag" alt="" coords="1055,695,1204,723"/>
+<area shape="rect" id="node35" href="$d2/d7d/ptwXY_8h.html#ade2e8fea3b00426ad7745d3f8a216c55" title="ptwXY_setBiSectionMax" alt="" coords="1039,747,1220,775"/>
+<area shape="rect" id="node36" href="$d2/d7d/ptwXY_8h.html#a0f5879c569742a3a941d6761a4fd37f6" title="ptwXY_setAccuracy" alt="" coords="1053,799,1205,827"/>
+<area shape="rect" id="node37" href="$d2/d7d/ptwXY_8h.html#a21d8e7de3ccab559e72b1f34210bfd83" title="ptwXY_reallocateOverflow\lPoints" alt="" coords="1031,575,1228,619"/>
+</map>

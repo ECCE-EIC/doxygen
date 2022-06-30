@@ -1,0 +1,28 @@
+var classHadrontherapyInteractionParameters =
+[
+    [ "HadrontherapyInteractionParameters", "d4/d54/classHadrontherapyInteractionParameters.html#a138add259742467e0f61ec85a924d7aa", null ],
+    [ "~HadrontherapyInteractionParameters", "d4/d54/classHadrontherapyInteractionParameters.html#adb5c8f1de64ac4a26f7cbed108b9fa5e", null ],
+    [ "BeamOn", "d4/d54/classHadrontherapyInteractionParameters.html#aeaf4c0c3cce6056539381c89cf87dc92", null ],
+    [ "GetNistMaterial", "d4/d54/classHadrontherapyInteractionParameters.html#a0f33d065b06220987f19eeef0cb11192", null ],
+    [ "GetStopping", "d4/d54/classHadrontherapyInteractionParameters.html#a3d589623e4da13a1b93e08acc6262f32", null ],
+    [ "GetStoppingTable", "d4/d54/classHadrontherapyInteractionParameters.html#a8ceab53090d32ea4f027b798f321043c", null ],
+    [ "ListOfNistMaterials", "d4/d54/classHadrontherapyInteractionParameters.html#ad1102a9fd7509f4f871874beead7ad16", null ],
+    [ "ParseArg", "d4/d54/classHadrontherapyInteractionParameters.html#aaf7059b08f9c61e96d69f110ba5b0326", null ],
+    [ "beamFlag", "d4/d54/classHadrontherapyInteractionParameters.html#acd06e45c052f3a18622e02447195dc05", null ],
+    [ "data", "d4/d54/classHadrontherapyInteractionParameters.html#a6e2a913d82d34018c6941d47be2e99bf", null ],
+    [ "dedxtot", "d4/d54/classHadrontherapyInteractionParameters.html#a91d5c8f421021e17ac68be50fad7a353", null ],
+    [ "density", "d4/d54/classHadrontherapyInteractionParameters.html#ae6218bd138a17ec1d0a34a2cdfd499a9", null ],
+    [ "energy", "d4/d54/classHadrontherapyInteractionParameters.html#a6303b6a0464e0c5ef030660e8e279d8f", null ],
+    [ "filename", "d4/d54/classHadrontherapyInteractionParameters.html#ae05ee4706d6923c384d3671c73507405", null ],
+    [ "kinEmax", "d4/d54/classHadrontherapyInteractionParameters.html#adfb7f5c899dfb87c393f9307d11499a3", null ],
+    [ "kinEmin", "d4/d54/classHadrontherapyInteractionParameters.html#a98f205e240275d3fdfae049abd604660", null ],
+    [ "massDedx", "d4/d54/classHadrontherapyInteractionParameters.html#a909e694941aa4697c01912a7eb0f4279", null ],
+    [ "material", "d4/d54/classHadrontherapyInteractionParameters.html#a5432803d473f187c7cc2126e8a5815a7", null ],
+    [ "nistEle", "d4/d54/classHadrontherapyInteractionParameters.html#ab0589a0a9a345960d8a25bfeb1d3d65b", null ],
+    [ "nistMat", "d4/d54/classHadrontherapyInteractionParameters.html#acc8d2dad60dc238117896db4d5914df8", null ],
+    [ "npoints", "d4/d54/classHadrontherapyInteractionParameters.html#a400ded5f9c87c1cc1228dc0f9270198e", null ],
+    [ "outfile", "d4/d54/classHadrontherapyInteractionParameters.html#a4f2fd837fdd425fd3751cc1c92ce506a", null ],
+    [ "particle", "d4/d54/classHadrontherapyInteractionParameters.html#af9d0abc2e815d08f6cf155dee6a312bf", null ],
+    [ "Pmaterial", "d4/d54/classHadrontherapyInteractionParameters.html#ab194a2e2eb4dd119604e372400ea4852", null ],
+    [ "pMessenger", "d4/d54/classHadrontherapyInteractionParameters.html#a1584523ab422e8172a2092a79c314130", null ]
+];

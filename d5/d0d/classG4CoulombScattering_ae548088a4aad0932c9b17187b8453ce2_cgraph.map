@@ -1,0 +1,25 @@
+<map id="G4CoulombScattering::InitialiseProcess" name="G4CoulombScattering::InitialiseProcess">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#a5b1b315b02dd87ebdadd447fd8dea9e4" title="G4VEmProcess::AddEmModel" alt="" coords="238,31,458,59"/>
+<area shape="rect" id="node6" href="$d0/dfb/classG4VEmProcess.html#aaad5c7689934ea4abd0edcaae783452a" title="G4VEmProcess::EmModel" alt="" coords="251,83,445,111"/>
+<area shape="rect" id="node7" href="$dc/d54/classG4EmParameters.html#a8f9cdd3842712fcc5e7cbeaf4043eca5" title="G4EmParameters::FactorFor\lAngleLimit" alt="" coords="243,135,453,179"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="271,203,425,247"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#aa0faf146fb655e885ca2ac249bafda83" title="G4ParticleDefinition\l::GetParticleType" alt="" coords="271,271,425,315"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="271,339,425,383"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="231,407,465,435"/>
+<area shape="rect" id="node12" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="245,459,451,487"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="233,511,463,539"/>
+<area shape="rect" id="node14" href="$dc/d54/classG4EmParameters.html#a67fb789cf4d122524cc8122b648c9fea" title="G4EmParameters::MaxKinEnergy" alt="" coords="225,563,471,591"/>
+<area shape="rect" id="node15" href="$dc/d54/classG4EmParameters.html#a1caef9134899c9b2936c4c095ed029d9" title="G4EmParameters::MinKinEnergy" alt="" coords="227,615,469,643"/>
+<area shape="rect" id="node16" href="$dc/d54/classG4EmParameters.html#ab7004e803b0e7f91b93380c4cad8823b" title="G4EmParameters::MscTheta\lLimit" alt="" coords="242,667,454,711"/>
+<area shape="rect" id="node17" href="$d0/dfb/classG4VEmProcess.html#a3b68af1df66da707cf85c85408a4c8ef" title="G4VEmProcess::SetBuildTableFlag" alt="" coords="223,735,473,763"/>
+<area shape="rect" id="node18" href="$d0/dfb/classG4VEmProcess.html#a65ecb15476092305a4680112085c268b" title="G4VEmProcess::SetEmModel" alt="" coords="240,787,456,815"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="237,839,459,883"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="239,907,457,951"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#a11bd41aeeffb15bf0ee737df6b2a7ea5" title="G4VEmModel::SetPolarAngle\lLimit" alt="" coords="240,975,456,1019"/>
+<area shape="rect" id="node22" href="$d0/dfb/classG4VEmProcess.html#ab76dfb21bbb14f9ada126a7581d6398f" title="G4VEmProcess::SetStartFrom\lNullFlag" alt="" coords="239,1043,457,1087"/>
+<area shape="rect" id="node23" href="$d2/d84/classG4VProcess.html#a213fcf29a813d7f29d0f2f2fb653c791" title="G4VProcess::SetVerboseLevel" alt="" coords="237,1111,459,1139"/>
+<area shape="rect" id="node24" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="320,1163,376,1191"/>
+<area shape="rect" id="node3" href="$dd/de5/classG4EmModelManager.html#a07a87cc0684d520becd4ab68472eded0" title="G4EmModelManager::AddEmModel" alt="" coords="521,5,780,33"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="529,57,773,85"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a8a0058208f810612a43b141f61242a98" title="G4VEmModel::DefineForRegion" alt="" coords="828,5,1060,33"/>
+</map>

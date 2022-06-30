@@ -1,0 +1,25 @@
+var classG4LivermoreGammaConversionModelRC =
+[
+    [ "G4LivermoreGammaConversionModelRC", "d0/db9/classG4LivermoreGammaConversionModelRC.html#af8073c1d00caa00eb20071e93c72b558", null ],
+    [ "~G4LivermoreGammaConversionModelRC", "d0/db9/classG4LivermoreGammaConversionModelRC.html#ac6919cc0c1e924a93217a2381934c268", null ],
+    [ "G4LivermoreGammaConversionModelRC", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a5d8bcc6f1f01e26c5d29c6833b4132b8", null ],
+    [ "ComputeCrossSectionPerAtom", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a93d951b92fa243bc8396c2d335b8e99e", null ],
+    [ "Dilog", "d0/db9/classG4LivermoreGammaConversionModelRC.html#ac1458d9b81b604fe4cd52a6989c31bee", null ],
+    [ "fbeta", "d0/db9/classG4LivermoreGammaConversionModelRC.html#ac7f57fcf9495f758a94d804e7b1ca9ee", null ],
+    [ "Initialise", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a1e4981e49b5a011311933cf00152e17d", null ],
+    [ "InitialiseForElement", "d0/db9/classG4LivermoreGammaConversionModelRC.html#ab4446e538b2a98bc722e1b1679523da9", null ],
+    [ "InitialiseLocal", "d0/db9/classG4LivermoreGammaConversionModelRC.html#ad1b336b6598db93cdce75aafeef4001d", null ],
+    [ "MinPrimaryEnergy", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a9d5c7c0a185683de466b11635556400e", null ],
+    [ "operator=", "d0/db9/classG4LivermoreGammaConversionModelRC.html#ae425e6f5e2179c7e72970a465ec1aba3", null ],
+    [ "ReadData", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a7182db2cb65e316634ea53862f1b87a6", null ],
+    [ "SampleSecondaries", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a095b5e6ea6c39ee69ee421c1f7936bf2", null ],
+    [ "ScreenFunction1", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a45d1428b193e171c68e1807cd5818a27", null ],
+    [ "ScreenFunction2", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a0cfd0945610b6e9f20adc8c695e662eb", null ],
+    [ "data", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a0dc042cbf92aafb7841b1c235825b8d0", null ],
+    [ "fParticleChange", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a06bc7c74fe52eba00430b9c23c0d027f", null ],
+    [ "isInitialised", "d0/db9/classG4LivermoreGammaConversionModelRC.html#aad602c48dec05da35b264cb5d4f89233", null ],
+    [ "lowEnergyLimit", "d0/db9/classG4LivermoreGammaConversionModelRC.html#af36e83d323a63889a9761cdf7411a373", null ],
+    [ "maxZ", "d0/db9/classG4LivermoreGammaConversionModelRC.html#affb2e0e1f66c6d01e3bc667c2b531ec7", null ],
+    [ "smallEnergy", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a2a94d7414071f312444a3124cdf497b6", null ],
+    [ "verboseLevel", "d0/db9/classG4LivermoreGammaConversionModelRC.html#a38ca0f22138267bc4d576a74d7f67fc8", null ]
+];

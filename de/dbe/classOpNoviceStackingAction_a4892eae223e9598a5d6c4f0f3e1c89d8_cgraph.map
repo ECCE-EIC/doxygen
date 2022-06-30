@@ -1,0 +1,20 @@
+<map id="OpNoviceStackingAction::ClassifyNewTrack" name="OpNoviceStackingAction::ClassifyNewTrack">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#a2c8d2111396ecf361264de9888fca358" title="G4Track::GetCreatorProcess" alt="" coords="247,5,457,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="265,57,439,85"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="269,109,435,137"/>
+<area shape="rect" id="node5" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="240,161,464,189"/>
+<area shape="rect" id="node6" href="$d9/d8f/classG4OpticalPhoton.html#aeb0ed88b098ae013f33cb7da36281183" title="G4OpticalPhoton::Optical\lPhotonDefinition" alt="" coords="256,213,448,257"/>
+<area shape="rect" id="node7" href="$d9/d8f/classG4OpticalPhoton.html#ad5f9dee90e3534015eb1904836b08edd" title="G4OpticalPhoton::Definition" alt="" coords="512,221,721,249"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="769,221,981,249"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="793,132,957,176"/>
+<area shape="rect" id="node14" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="771,299,979,343"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1029,169,1273,197"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1344,217,1527,245"/>
+<area shape="rect" id="node12" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1039,273,1263,301"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1382,141,1489,169"/>
+<area shape="rect" id="node15" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1051,329,1252,373"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1358,269,1513,313"/>
+<area shape="rect" id="node17" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1347,337,1523,381"/>
+<area shape="rect" id="node18" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1347,405,1523,449"/>
+<area shape="rect" id="node19" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1321,473,1549,501"/>
+</map>

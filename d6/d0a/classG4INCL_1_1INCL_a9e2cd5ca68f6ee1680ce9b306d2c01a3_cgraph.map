@@ -1,0 +1,51 @@
+<map id="G4INCL::INCL::makeCompoundNucleus" name="G4INCL::INCL::makeCompoundNucleus">
+<area shape="rect" id="node2" href="$d5/dd3/classG4INCL_1_1Store.html#adb02d0b1ead8cdfb44862e58f813f6c4" title="Add one ParticleEntry avatar." alt="" coords="306,92,506,136"/>
+<area shape="rect" id="node6" href="$d7/db0/classG4INCL_1_1Nucleus.html#a614d4c123c0f697c91dc7d088d56eeae" title="G4INCL::Nucleus::applyFinal\lState" alt="" coords="301,363,511,407"/>
+<area shape="rect" id="node7" href="$da/d83/classG4INCL_1_1FinalState.html#a08073ee0392f04091a7562bdaa9476bb" title="G4INCL::FinalState\l::getValidity" alt="" coords="623,193,769,237"/>
+<area shape="rect" id="node15" href="$d0/d7f/classG4INCL_1_1Cluster.html#a2f25af692bc76144d5e71e9780fe2567" title="G4INCL::Cluster::getParticles" alt="" coords="589,569,803,597"/>
+<area shape="rect" id="node16" href="$d5/dd3/classG4INCL_1_1Store.html#a9cdfa70cef400b00fa17c8c841d94a2b" title="Clear the incoming list." alt="" coords="296,483,516,511"/>
+<area shape="rect" id="node17" href="$d5/dd3/classG4INCL_1_1Store.html#a5f9610b5b6c892b37eb7c56de906c3ed" title="G4INCL::Store::clearOutgoing" alt="" coords="296,535,516,563"/>
+<area shape="rect" id="node18" href="$d7/db0/classG4INCL_1_1Nucleus.html#a1c62156a79917226697f2b6130da3298" title="Force the phase&#45;space decay of the Nucleus." alt="" coords="305,587,507,615"/>
+<area shape="rect" id="node19" href="$d7/db0/classG4INCL_1_1Nucleus.html#ac3df3527091471e22f1d83d53158bc14" title="Force the decay of unstable outgoing clusters." alt="" coords="283,639,529,683"/>
+<area shape="rect" id="node20" href="$d7/db0/classG4INCL_1_1Nucleus.html#af982baf8c2967ec4bb12d728c1c5c6b5" title="Force the decay of outgoing deltas." alt="" coords="283,707,529,751"/>
+<area shape="rect" id="node21" href="$dd/d90/classG4INCL_1_1IAvatar.html#a749786403742a4a6f07fbcdb0270bfc7" title="G4INCL::IAvatar::getFinal\lState" alt="" coords="601,827,791,871"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="577,920,815,948"/>
+<area shape="rect" id="node23" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="578,775,814,803"/>
+<area shape="rect" id="node24" href="$d7/db0/classG4INCL_1_1Nucleus.html#a88bf848e220605619d88a079cefc1692" title="Force the decay of outgoing PionResonances (eta/omega)." alt="" coords="283,827,529,871"/>
+<area shape="rect" id="node25" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5020a863b24169ea2bcdfb3caef20de9" title="Force emission of all Kaon inside the nucleus." alt="" coords="283,1048,529,1076"/>
+<area shape="rect" id="node26" href="$dd/d83/classG4INCL_1_1Particle.html#ac6ece0a46852fc251f788f5dd88e47e4" title="G4INCL::Particle::setEnergy" alt="" coords="593,1048,799,1076"/>
+<area shape="rect" id="node27" href="$d7/db0/classG4INCL_1_1Nucleus.html#a194bb6f2e56053abcd3978457e84f684" title="G4INCL::Nucleus::fillEventInfo" alt="" coords="295,1203,517,1231"/>
+<area shape="rect" id="node28" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="596,1101,796,1129"/>
+<area shape="rect" id="node29" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aad44e9a918044f87556a035e3a6ca66c" title="G4INCL::ThreeVector\l::getX" alt="" coords="615,1156,777,1200"/>
+<area shape="rect" id="node30" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa04968b68a812fe73671ca10d140299b" title="G4INCL::ThreeVector\l::getY" alt="" coords="615,1228,777,1272"/>
+<area shape="rect" id="node31" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a94e3c281f8034bbab51bbad7a0f4a0ee" title="G4INCL::ThreeVector\l::getZ" alt="" coords="615,1297,777,1341"/>
+<area shape="rect" id="node32" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2d839f0367ad2cf99d948bf32640222a" title="Finalise the projectile remnant." alt="" coords="311,1459,501,1503"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#a38a68965ab7ec38fafaa1e7c6a050f79" title="G4INCL::Particle::setMass" alt="" coords="599,1385,793,1413"/>
+<area shape="rect" id="node34" href="$d0/d7f/classG4INCL_1_1Cluster.html#a294590444b838704c55a87f69055c036" title="Set the excitation energy of the cluster." alt="" coords="585,1448,807,1492"/>
+<area shape="rect" id="node35" href="$d0/d7f/classG4INCL_1_1Cluster.html#a415abb2239dc2d59db1516bfda29d34c" title="Set the spin of the nucleus." alt="" coords="603,1516,789,1544"/>
+<area shape="rect" id="node36" href="$d5/d11/namespaceG4INCL_1_1Random.html#a8d47822eaec629ea4000c13e0f9e2b4e" title="G4INCL::Random::getAdapter" alt="" coords="295,1579,517,1607"/>
+<area shape="rect" id="node37" href="$d0/d7f/classG4INCL_1_1Cluster.html#a47b2d551fd1804fce50db915d39d0c9a" title="Get the total angular momentum (orbital + spin)" alt="" coords="300,1631,512,1675"/>
+<area shape="rect" id="node38" href="$d7/d66/classG4INCL_1_1IPropagationModel.html#a4a7a8eb01d553f597986d2017925afad" title="G4INCL::IPropagationModel\l::getCurrentTime" alt="" coords="303,1699,509,1743"/>
+<area shape="rect" id="node39" href="$da/d4f/classG4INCL_1_1Config.html#ada42039e717084d0dab9d266a8dce000" title="Get the decay time threshold time." alt="" coords="307,1767,505,1811"/>
+<area shape="rect" id="node40" href="$d0/dd4/namespaceG4INCL_1_1IntersectionFactory.html#a7de5ff0aefaa01317f35d5b4e8992ce3" title="Compute the first intersection of a straight particle trajectory with a sphere." alt="" coords="285,1835,527,1879"/>
+<area shape="rect" id="node41" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="302,1903,510,1931"/>
+<area shape="rect" id="node42" href="$d7/db0/classG4INCL_1_1Nucleus.html#ab1ddc7d0be9403c2d8b367f8096604a3" title="Get the incoming angular&#45;momentum vector." alt="" coords="293,1955,519,1999"/>
+<area shape="rect" id="node43" href="$d7/db0/classG4INCL_1_1Nucleus.html#a07ae731e12e51d3cb01191131e56524e" title="Get the incoming momentum vector." alt="" coords="293,2023,519,2067"/>
+<area shape="rect" id="node44" href="$d7/db0/classG4INCL_1_1Nucleus.html#a83a07031f63cb1a616fd539ec89b565a" title="Get the projectile remnant." alt="" coords="293,2091,519,2135"/>
+<area shape="rect" id="node45" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5e8bedb6215a26504b3adbb1a3ff5755" title="Is it a nucleus&#45;nucleus collision?" alt="" coords="302,2159,510,2203"/>
+<area shape="rect" id="node46" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="325,2227,487,2271"/>
+<area shape="rect" id="node47" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#af62f37ad32ab81c185cf2c02b7492b31" title="Reset the projectile remnant to the state at the beginning of the cascade." alt="" coords="305,2295,507,2339"/>
+<area shape="rect" id="node48" href="$d0/d7f/classG4INCL_1_1Cluster.html#a9c5c2240bcf771f0d232204e4e129282" title="Set the mass number of the cluster." alt="" coords="323,2363,489,2391"/>
+<area shape="rect" id="node49" href="$d0/d7f/classG4INCL_1_1Cluster.html#a2cab1863738c7596d6b55878ad4aaec2" title="Set the strangess number of the cluster." alt="" coords="323,2415,489,2443"/>
+<area shape="rect" id="node50" href="$d0/d7f/classG4INCL_1_1Cluster.html#ae9ea12759b0fdb3e9d96e7ffa7c3a22e" title="Set the charge number of the cluster." alt="" coords="323,2467,489,2495"/>
+<area shape="rect" id="node3" href="$dd/d90/classG4INCL_1_1IAvatar.html#a45d9d0aaa9926c02ee678fa60def8db1" title="G4INCL::IAvatar::getParticles" alt="" coords="589,5,803,33"/>
+<area shape="rect" id="node4" href="$d5/dd3/classG4INCL_1_1Store.html#a4802aead9384bfd86e78eb34a508ce9a" title="G4INCL::Store::addIncoming\lParticle" alt="" coords="590,57,802,101"/>
+<area shape="rect" id="node5" href="$d5/dd3/classG4INCL_1_1Store.html#ae338b2f2dcaaf1d582bc102dffa2ddd1" title="Connect an avatar to a particle." alt="" coords="585,125,807,169"/>
+<area shape="rect" id="node8" href="$da/d83/classG4INCL_1_1FinalState.html#a815681a7fc806b49a119926b466a2603" title="G4INCL::FinalState\l::getCreatedParticles" alt="" coords="615,707,777,751"/>
+<area shape="rect" id="node9" href="$d5/dd3/classG4INCL_1_1Store.html#a669515f693b3b017a847b6c765e710f6" title="G4INCL::Store::add" alt="" coords="621,517,771,545"/>
+<area shape="rect" id="node10" href="$da/d83/classG4INCL_1_1FinalState.html#ac12aefc649b4fc81228dc6209ef3ce49" title="G4INCL::FinalState\l::getDestroyedParticles" alt="" coords="607,261,785,305"/>
+<area shape="rect" id="node11" href="$d5/dd3/classG4INCL_1_1Store.html#a71b5ed298421984043e0da0833a58359" title="G4INCL::Store::particleHas\lBeenDestroyed" alt="" coords="595,381,797,425"/>
+<area shape="rect" id="node12" href="$d5/dd3/classG4INCL_1_1Store.html#a88e26560ddd822daf835cbf980644f99" title="Notify the Store about a particle update." alt="" coords="863,352,1064,396"/>
+<area shape="rect" id="node13" href="$da/d83/classG4INCL_1_1FinalState.html#aa1f6f1e3424edb1ce648c15a218435e4" title="G4INCL::FinalState\l::getModifiedParticles" alt="" coords="613,639,779,683"/>
+<area shape="rect" id="node14" href="$da/d83/classG4INCL_1_1FinalState.html#ad51c843756c7de65b6b5803230775ea3" title="G4INCL::FinalState\l::getOutgoingParticles" alt="" coords="610,449,782,493"/>
+</map>

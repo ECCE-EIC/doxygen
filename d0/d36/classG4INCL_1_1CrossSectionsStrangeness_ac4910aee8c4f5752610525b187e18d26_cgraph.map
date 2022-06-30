@@ -1,0 +1,42 @@
+<map id="G4INCL::CrossSectionsStrangeness::elastic" name="G4INCL::CrossSectionsStrangeness::elastic">
+<area shape="rect" id="node2" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a5069f6c6dd47af2b7d489b3553ec00ed" title="Elastic particle&#45;particle cross section." alt="" coords="338,369,545,413"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="631,141,815,169"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="1131,611,1335,639"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#a750bf1c385c14c592f77dfc82929279a" title="Is this a pion?" alt="" coords="891,5,1068,33"/>
+<area shape="rect" id="node30" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a18dfa71d172374820ad824bed6edc195" title="Cross sections for mesonic resonance absorption on nucleon &#45; elastic Channel." alt="" coords="317,1033,566,1077"/>
+<area shape="rect" id="node32" href="$dd/d83/classG4INCL_1_1Particle.html#af4d272d3fcb48faf9ee0dac5cc78ea8e" title="Is this an eta?" alt="" coords="638,937,809,965"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#a00ec5c5cfa142aef10955a632b46b0eb" title="Is this an antiKaon?" alt="" coords="619,1144,828,1172"/>
+<area shape="rect" id="node34" href="$dd/d83/classG4INCL_1_1Particle.html#aecbb86928b5d352be87e31e4f43b498b" title="Is this an Hyperon?" alt="" coords="620,1623,827,1651"/>
+<area shape="rect" id="node37" href="$dd/d83/classG4INCL_1_1Particle.html#a7733f7088e755ad007337b0f4eb0db74" title="Is this a Kaon?" alt="" coords="632,1400,815,1428"/>
+<area shape="rect" id="node38" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a2bfe7e5bdc0dae207cf21d401489ace0" title="G4INCL::CrossSectionsStrangeness\l::NKbelastic" alt="" coords="312,1180,571,1224"/>
+<area shape="rect" id="node39" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a7af7642bacf0261326a9125c50332940" title="G4INCL::CrossSectionsStrangeness\l::NKelastic" alt="" coords="312,1267,571,1311"/>
+<area shape="rect" id="node40" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#ad972bbdce1824a487ff56e7dc9bd0d13" title="elastic scattering for Nucleon&#45;Strange Particles cross sections" alt="" coords="312,1495,571,1539"/>
+<area shape="rect" id="node6" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#aa2be8a0dc8d4d1c5491d4763fcb505c0" title="Internal implementation of the NN elastic cross section." alt="" coords="620,425,827,469"/>
+<area shape="rect" id="node17" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a8f5b058256f88c834333fa67993c7dc9" title="G4INCL::CrossSectionsMulti\lPions::piNIne" alt="" coords="620,679,827,723"/>
+<area shape="rect" id="node22" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a44ccf351d5c37c44618b979f474a55c5" title="Cross section for Delta production &#45; piN Channel." alt="" coords="620,313,827,357"/>
+<area shape="rect" id="node24" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a38c12a2c26950efb266540070de67f3b" title="G4INCL::CrossSectionsMulti\lPions::piNTot" alt="" coords="620,245,827,289"/>
+<area shape="rect" id="node7" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aaca2446bb48ddb4f8392c31c54db8f5b" title="Get the isospin of a particle." alt="" coords="897,365,1061,409"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="883,313,1075,341"/>
+<area shape="rect" id="node9" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="1141,955,1325,999"/>
+<area shape="rect" id="node11" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="1386,425,1574,469"/>
+<area shape="rect" id="node16" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a3897cb8c2099194fcdb38c84e1bb4c40" title="Internal implementation of the NN elastic cross section with fixed isospin." alt="" coords="876,789,1083,833"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="1383,963,1577,991"/>
+<area shape="rect" id="node12" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="1625,425,1809,469"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1872,377,2080,405"/>
+<area shape="rect" id="node15" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="1636,493,1799,537"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1857,433,2095,461"/>
+<area shape="rect" id="node18" href="$db/d32/namespaceG4InuclParticleNames.html#aab3a6382cc17b00ae41fc3618393b7b7" title="G4InuclParticleNames\l::nucleon" alt="" coords="1148,1188,1317,1232"/>
+<area shape="rect" id="node19" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a995428815da3b2cca5187c4f7230f5f8" title="G4INCL::CrossSectionsMulti\lPions::piMinuspIne" alt="" coords="876,925,1083,969"/>
+<area shape="rect" id="node20" href="$db/d32/namespaceG4InuclParticleNames.html#a9a178129b9632f6c41b08c465e6992f1" title="G4InuclParticleNames\l::pion" alt="" coords="1148,857,1317,901"/>
+<area shape="rect" id="node21" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a81f7302ad9e1ff62a958ca89b22346ec" title="G4INCL::CrossSectionsMulti\lPions::piPluspIne" alt="" coords="876,857,1083,901"/>
+<area shape="rect" id="node23" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a874b82c4e5e033b4fdce70758f770e5e" title="G4INCL::KinematicsUtils\l::totalEnergyInCM" alt="" coords="887,245,1071,289"/>
+<area shape="rect" id="node25" href="$dd/d83/classG4INCL_1_1Particle.html#a7b8ff5b6d05059e45730c1ce83d6a862" title="G4INCL::Particle::print" alt="" coords="894,125,1065,153"/>
+<area shape="rect" id="node28" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#ad3ae7b7c0bdc764c1e5fe6c9a092d0b4" title="Internal function for pion cross sections." alt="" coords="876,57,1083,101"/>
+<area shape="rect" id="node29" href="$d5/da6/classG4INCL_1_1CrossSectionsMultiPions.html#a1e3d08ff40479de69073a018673c5878" title="Internal function for pion cross sections." alt="" coords="876,177,1083,221"/>
+<area shape="rect" id="node26" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a8ca754711723a486ef5f4beac603500a" title="Get the native INCL name of the particle." alt="" coords="1151,84,1315,128"/>
+<area shape="rect" id="node27" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a30af3810cc634b9407049a08cd639e75" title="G4INCL::ThreeVector\l::print" alt="" coords="1151,152,1314,196"/>
+<area shape="rect" id="node31" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="631,989,816,1017"/>
+<area shape="rect" id="node35" href="$dd/d83/classG4INCL_1_1Particle.html#ab764f7f80979539dc7ad95556f31671d" title="Is this a Lambda?" alt="" coords="878,1596,1081,1624"/>
+<area shape="rect" id="node36" href="$dd/d83/classG4INCL_1_1Particle.html#a6e0fb026e21f70fd6a7203b1014f3837" title="Is this a Sigma?" alt="" coords="884,1648,1075,1676"/>
+<area shape="rect" id="node41" href="$db/d32/namespaceG4InuclParticleNames.html#a693ca0b2f74c6e0d75f0bce47c525e05" title="G4InuclParticleNames\l::hyperon" alt="" coords="639,1555,808,1599"/>
+</map>

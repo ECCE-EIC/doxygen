@@ -1,0 +1,23 @@
+<map id="G4HadProjectile::Initialise" name="G4HadProjectile::Initialise">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="248,241,465,269"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="275,293,438,321"/>
+<area shape="rect" id="node4" href="$da/d11/classG4HadProjectile.html#af7c814b4c9a084c3dcdff84115199624" title="G4HadProjectile::Initialise\lLocal" alt="" coords="259,345,454,389"/>
+<area shape="rect" id="node5" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="547,5,704,49"/>
+<area shape="rect" id="node6" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="534,73,717,117"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="548,141,703,185"/>
+<area shape="rect" id="node8" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="547,209,704,253"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#a6a2f12f20a7938ac1677677696d71a57" title="G4DynamicParticle::\lGet4Momentum" alt="" coords="547,277,704,321"/>
+<area shape="rect" id="node10" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#a8cef0ab48a1d54c19f6445329fe966e1" title="CLHEP::HepLorentzRotation\l::rotateZ" alt="" coords="522,413,729,457"/>
+<area shape="rect" id="node17" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#ae5a4ec2a5d079ccca896e7d71a52fffc" title="CLHEP::HepLorentzVector::phi" alt="" coords="514,481,737,509"/>
+<area shape="rect" id="node18" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#a6bb2951435c7735bd817752d54dfe179" title="CLHEP::HepLorentzRotation\l::rotateY" alt="" coords="522,345,729,389"/>
+<area shape="rect" id="node20" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#afac07379c4bf6003befadb2158eb2206" title="CLHEP::HepLorentzVector\l::theta" alt="" coords="528,533,723,577"/>
+<area shape="rect" id="node21" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#a8d5791aba953b45eb1779e3c4a7a8cca" title="CLHEP::HepLorentzRotation\l::inverse" alt="" coords="522,601,729,645"/>
+<area shape="rect" id="node22" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a78d2152637be53ba770453507b374b02" title="CLHEP::HepLorentzVector::set" alt="" coords="513,669,737,697"/>
+<area shape="rect" id="node11" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#a9995040c7a269d516dfaa96d22701b8a" title="CLHEP::HepLorentzRotation\l::row1" alt="" coords="787,380,994,424"/>
+<area shape="rect" id="node12" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#ac16bd49002e3b5698957cb66aec38382" title="CLHEP::HepLorentzRotation\l::row2" alt="" coords="787,552,994,596"/>
+<area shape="rect" id="node13" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a7accb6710e359a0604df1d119897c429" title="CLHEP::HepLorentzVector::x" alt="" coords="785,448,996,476"/>
+<area shape="rect" id="node14" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a566eaa8184d633b794c069a992054435" title="CLHEP::HepLorentzVector::y" alt="" coords="785,500,996,528"/>
+<area shape="rect" id="node15" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a1df65728ae62f00bf0a9b6991ae4f042" title="CLHEP::HepLorentzVector::z" alt="" coords="786,276,995,304"/>
+<area shape="rect" id="node16" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a26d2f326469362cf94bc37bb44ed86b6" title="CLHEP::HepLorentzVector::t" alt="" coords="787,328,995,356"/>
+<area shape="rect" id="node19" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#af1026a80b70dccb79a8772c54ee0cabe" title="CLHEP::HepLorentzRotation\l::row3" alt="" coords="787,208,994,252"/>
+</map>

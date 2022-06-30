@@ -1,0 +1,36 @@
+<map id="G4VAnalysisManager::OpenFile" name="G4VAnalysisManager::OpenFile">
+<area shape="rect" id="node2" href="$df/db9/classGammaRayTelAnalysis.html#a5a6774ec2c62f32a5eb0a2c5890ead2c" title="GammaRayTelAnalysis\l::BeginOfRun" alt="" coords="264,5,439,49"/>
+<area shape="rect" id="node4" href="$d5/dac/classLXeRunAction.html#a8ad19ee2466246deacec4c7153e9bef8" title="LXeRunAction::BeginOfRun\lAction" alt="" coords="250,73,453,117"/>
+<area shape="rect" id="node5" href="$d6/d3b/classFCALRunAction.html#a2ca0d3a4882ad0d387e4ce042cbce703" title="FCALRunAction::BeginOfRun\lAction" alt="" coords="245,141,457,185"/>
+<area shape="rect" id="node6" href="$d8/d87/classUltraRunAction.html#aa257ec6b7b6d526d09de4fa6c9ea4a8e" title="UltraRunAction::BeginOfRun\lAction" alt="" coords="246,209,457,253"/>
+<area shape="rect" id="node7" href="$d6/d05/classCCalRunAction.html#a0254ffd3aeaeebf8249a464d68fb376b" title="CCalRunAction::Book" alt="" coords="269,277,433,305"/>
+<area shape="rect" id="node9" href="$df/d86/classAnalysisManager.html#a14bc6a776f30c0f0a5021b4867fd7f99" title="AnalysisManager::book" alt="" coords="261,329,441,357"/>
+<area shape="rect" id="node10" href="$d2/db1/classG4HumanPhantomAnalysisManager.html#a247f1fd291dc30c42e634dc54314a784" title="G4HumanPhantomAnalysisManager\l::book" alt="" coords="219,381,484,425"/>
+<area shape="rect" id="node11" href="$d7/d08/classXrayFluoAnalysisManager.html#aa17d6eb9eb3c113d2d3057c6e9ad1e50" title="XrayFluoAnalysisManager\l::book" alt="" coords="253,449,449,493"/>
+<area shape="rect" id="node13" href="$df/d60/classXrayTelAnalysis.html#a86d625d2bc62b628b0c843c54f96ab28" title="XrayTelAnalysis::book" alt="" coords="267,517,436,545"/>
+<area shape="rect" id="node15" href="$d4/d05/classHisto.html#ab9a792d132366278c0be9f6695918c85" title="Histo::Book" alt="" coords="302,569,401,597"/>
+<area shape="rect" id="node16" href="$d8/def/classPurgMagRunAction.html#a9d03e99a510b558834607ca3f02dff20" title="PurgMagRunAction::Book" alt="" coords="255,621,447,649"/>
+<area shape="rect" id="node18" href="$d7/df6/classRunAction.html#ac71825c8e0575e00cb8bfa5c9cb6867e" title="RunAction::Book" alt="" coords="285,673,418,701"/>
+<area shape="rect" id="node19" href="$de/d11/classDMXRunAction.html#a2412fcfd54fc00714064743a00d070e2" title="DMXRunAction::Book" alt="" coords="269,725,433,753"/>
+<area shape="rect" id="node21" href="$d3/dc6/classRMC01AnalysisManager.html#a1ebcea8d2209fb0daeab7e012402a682" title="RMC01AnalysisManager\l::Book" alt="" coords="259,777,444,821"/>
+<area shape="rect" id="node24" href="$d7/df6/classRunAction.html#ad31e8f4b4cbaeeb320b3db1ab65c9f5a" title="RunAction::CreateHistogram" alt="" coords="245,845,458,873"/>
+<area shape="rect" id="node27" href="$d7/df6/classRunAction.html#aef306a531bfcf8226ace7107e4eaa489" title="RunAction::CreateNtuple" alt="" coords="258,897,445,925"/>
+<area shape="rect" id="node28" href="$d7/dae/classAnalysis.html#af9d817f209eef3e96b5b79f05d45a3ea" title="Analysis::OpenFile" alt="" coords="278,949,425,977"/>
+<area shape="rect" id="node29" href="$de/db2/classRun.html#a6622052348735f6a679a11608060186a" title="Run::Run" alt="" coords="311,1001,392,1029"/>
+<area shape="rect" id="node30" href="$db/daa/classPar02Output.html#a883b4fcd41719289c9fd97ff2492a07d" title="Par02Output::StartAnalysis" alt="" coords="249,1053,453,1081"/>
+<area shape="rect" id="node32" href="$dc/d6d/classHadrontherapyLet.html#a877e3e91cd8f7c0574810cd0cbb9475d" title="HadrontherapyLet::StoreLet\lAscii" alt="" coords="247,1105,456,1149"/>
+<area shape="rect" id="node33" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#af31fa3b4d4a032574b8d2b1fc1cf4711" title="G4PhysChemIO::G4Analysis\l::WriteInto" alt="" coords="246,1173,457,1217"/>
+<area shape="rect" id="node34" href="$db/d4a/classScoreSpecies.html#ae9ef020c78efa9544cec5bd4d57e0ac1" title="ScoreSpecies::WriteWithAnalysis\lManager" alt="" coords="230,1241,473,1285"/>
+<area shape="rect" id="node3" href="$dc/dde/classGammaRayTelRunAction.html#a84e2ca92f9818fdc8694a35dce6b1c94" title="GammaRayTelRunAction\l::BeginOfRunAction" alt="" coords="553,5,740,49"/>
+<area shape="rect" id="node8" href="$d6/d05/classCCalRunAction.html#a85e0143773545847e4aa9c3361fb4f75" title="CCalRunAction::BeginOfRun\lAction" alt="" coords="542,269,751,313"/>
+<area shape="rect" id="node12" href="$d9/d1f/classXrayFluoRunAction.html#ab7e3d17c925333a1c522c8a79febd7d9" title="XrayFluoRunAction::\lBeginOfRunAction" alt="" coords="568,445,725,489"/>
+<area shape="rect" id="node14" href="$de/dc3/classXrayTelRunAction.html#a340b2b055f21ca3585ffe6d3983a6aab" title="XrayTelRunAction::BeginOf\lRunAction" alt="" coords="545,513,748,557"/>
+<area shape="rect" id="node17" href="$d8/def/classPurgMagRunAction.html#a7e2da5d0bbc2adc3cd9543ad04e6caac" title="PurgMagRunAction::BeginOf\lRunAction" alt="" coords="541,613,753,657"/>
+<area shape="rect" id="node20" href="$de/d11/classDMXRunAction.html#abc2c266355c8222deefbc92b76f51363" title="DMXRunAction::BeginOfRun\lAction" alt="" coords="542,709,751,753"/>
+<area shape="rect" id="node22" href="$d3/dc6/classRMC01AnalysisManager.html#a7abd2a1d4f3e711666fba3f7bf7cb60c" title="RMC01AnalysisManager\l::BeginOfRun" alt="" coords="554,777,739,821"/>
+<area shape="rect" id="node23" href="$d1/db6/classRMC01RunAction.html#abcc4d56ce8b9c37f7d949ffa0aee2988" title="RMC01RunAction::BeginOfRun\lAction" alt="" coords="809,777,1035,821"/>
+<area shape="rect" id="node25" href="$d7/df6/classRunAction.html#aca71b36db3aac405b8f8ab552da7981e" title="RunAction::BeginMaster" alt="" coords="555,845,739,873"/>
+<area shape="rect" id="node26" href="$d7/df6/classRunAction.html#abfa8d33061c661644f05a8259d17b1b4" title="RunAction::BeginWorker" alt="" coords="554,897,739,925"/>
+<area shape="rect" id="node31" href="$d1/d4d/classPar02RunAction.html#a62f296010ee6c94463523332f61575e6" title="Par02RunAction::BeginOfRun\lAction" alt="" coords="539,1045,755,1089"/>
+<area shape="rect" id="node35" href="$db/d4a/classScoreSpecies.html#aef0e2beef0f1cfa39ea61155f50e1161" title="ScoreSpecies::OutputAndClear" alt="" coords="532,1249,761,1277"/>
+</map>

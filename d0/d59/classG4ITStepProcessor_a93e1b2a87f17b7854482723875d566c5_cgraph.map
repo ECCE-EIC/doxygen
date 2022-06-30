@@ -1,0 +1,34 @@
+<map id="G4ITStepProcessor::ExtractILData" name="G4ITStepProcessor::ExtractILData">
+<area shape="rect" id="node2" href="$d0/d59/classG4ITStepProcessor.html#a27d6a98a90acb7b34a403671b76b5f1c" title="G4ITStepProcessor::\lCleanProcessor" alt="" coords="226,305,382,349"/>
+<area shape="rect" id="node3" href="$d0/d1d/classG4ITTrackingManager.html#a9db19ac12ed97171ea6823a64bf6bd0a" title="G4ITTrackingManager\l::EndTracking" alt="" coords="219,373,389,417"/>
+<area shape="rect" id="node24" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="721,613,907,641"/>
+<area shape="rect" id="node26" href="$d0/d59/classG4ITStepProcessor.html#ad883ba11ca2610958419fff7e06251ef" title="G4ITStepProcessor::\lGetInteractionTime" alt="" coords="226,583,382,627"/>
+<area shape="rect" id="node27" href="$dd/da5/G4ITStepProcessor_8cc.html#a09498e736928a1ce3bc0f57ff05c1837" title="IsInf" alt="" coords="279,651,329,679"/>
+<area shape="rect" id="node28" href="$d7/d8b/classG4ITLeadingTracks.html#a3cb186e1f6f31e18d78834ad8b2514e7" title="G4ITLeadingTracks::Push" alt="" coords="209,703,399,731"/>
+<area shape="rect" id="node29" href="$d7/d8b/classG4ITLeadingTracks.html#a9c176f423044ff37b16d391236cac727" title="G4ITLeadingTracks::\lReset" alt="" coords="226,755,382,799"/>
+<area shape="rect" id="node4" href="$d4/d3b/classG4ITTrackingInteractivity.html#ad94142553d54d3f59f3b10d24d624389" title="G4ITTrackingInteractivity\l::EndTracking" alt="" coords="456,177,645,221"/>
+<area shape="rect" id="node5" href="$d4/d3b/classG4ITTrackingInteractivity.html#ad617844b302c2e301f3ed0271a3bfbd3" title="G4ITTrackingInteractivity\l::GetSteppingVerbose" alt="" coords="456,245,645,289"/>
+<area shape="rect" id="node6" href="$da/df0/classG4VITSteppingVerbose.html#a6ceaf91b250a23bc27488e9ec7ef5e0e" title="G4VITSteppingVerbose\l::TrackingEnded" alt="" coords="462,313,639,357"/>
+<area shape="rect" id="node17" href="$d6/dfd/classG4ITTrackHolder.html#ac598219e7fe623f5c0b7ec924bf0d806" title="G4ITTrackHolder::Instance" alt="" coords="451,381,650,409"/>
+<area shape="rect" id="node21" href="$d6/dfd/classG4ITTrackHolder.html#a42512a767e0a1dfa558582671ba3de96" title="G4ITTrackHolder::PushToKill" alt="" coords="447,479,655,507"/>
+<area shape="rect" id="node7" href="$da/df0/classG4VITSteppingVerbose.html#ae516a8076f2d9088e91f4d06e85dbeb1" title="G4VITSteppingVerbose\l::TrackBanner" alt="" coords="725,185,903,229"/>
+<area shape="rect" id="node8" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1019,81,1101,109"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="973,133,1147,161"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="983,185,1137,229"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="981,253,1139,281"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="977,305,1143,333"/>
+<area shape="rect" id="node9" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1195,5,1411,49"/>
+<area shape="rect" id="node10" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1197,73,1409,117"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1197,141,1408,185"/>
+<area shape="rect" id="node12" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1459,141,1627,185"/>
+<area shape="rect" id="node18" href="$d6/dfd/classG4ITTrackHolder.html#a12b9715f8e34be747afc24f616516512" title="G4ITTrackHolder::G4ITTrack\lHolder" alt="" coords="710,253,918,297"/>
+<area shape="rect" id="node19" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="703,321,925,349"/>
+<area shape="rect" id="node20" href="$d7/d23/namespaceG4Threading.html#a758c2bb8cc25d5961ccff43546c368f5" title="G4Threading::IsMultithreaded\lApplication" alt="" coords="703,373,925,417"/>
+<area shape="rect" id="node22" href="$d4/df2/classG4FastList.html#a05e98503ee2c6007c095f7e82db3f12e" title="G4FastList\&lt; G4Track\l \&gt;::Pop" alt="" coords="733,441,895,485"/>
+<area shape="rect" id="node23" href="$d4/df2/classG4FastList.html#af0158a1e852427a581c354d168e5abd6" title="G4FastList::push_back" alt="" coords="728,509,900,537"/>
+<area shape="rect" id="node25" href="$d1/d33/classG4Track.html#a0a9a76ea090ffed99910bb848b113380" title="G4Track::SetTrackStatus" alt="" coords="721,561,907,589"/>
+<area shape="rect" id="node30" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="521,711,580,739"/>
+<area shape="rect" id="node32" href="$d3/d7e/classG4IT.html#ac74cab7f6c97318b4a580e11e7f96b47" title="G4IT::GetTrackingInfo" alt="" coords="468,763,633,791"/>
+<area shape="rect" id="node33" href="$d9/d0a/classG4TrackingInformation.html#adbaa9ff630be2bda287a2bbb7433081c" title="G4TrackingInformation\l::SetLeadingStep" alt="" coords="463,815,638,859"/>
+<area shape="rect" id="node31" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="705,711,923,739"/>
+</map>

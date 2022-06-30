@@ -1,0 +1,18 @@
+<map id="G4INCL::CrossSectionsStrangeness::NpiToSK" name="G4INCL::CrossSectionsStrangeness::NpiToSK">
+<area shape="rect" id="node2" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aaca2446bb48ddb4f8392c31c54db8f5b" title="Get the isospin of a particle." alt="" coords="359,5,523,49"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="619,164,811,192"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#a750bf1c385c14c592f77dfc82929279a" title="Is this a pion?" alt="" coords="353,125,530,153"/>
+<area shape="rect" id="node5" href="$db/d32/namespaceG4InuclParticleNames.html#aab3a6382cc17b00ae41fc3618393b7b7" title="G4InuclParticleNames\l::nucleon" alt="" coords="357,177,526,221"/>
+<area shape="rect" id="node6" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#ad584bffdd119bbce183fe9dac8a4406c" title="G4INCL::CrossSectionsStrangeness\l::p_pimToSmKp" alt="" coords="312,313,571,357"/>
+<area shape="rect" id="node14" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a1f818c5dd4a926ccb591bfd5e184cdb8" title="G4INCL::CrossSectionsStrangeness\l::p_pimToSzKz" alt="" coords="312,245,571,289"/>
+<area shape="rect" id="node15" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a9b5e8cecb38f3a4360b3deab0756da63" title="G4INCL::CrossSectionsStrangeness\l::p_pipToSpKp" alt="" coords="312,381,571,425"/>
+<area shape="rect" id="node16" href="$d0/d36/classG4INCL_1_1CrossSectionsStrangeness.html#a836596350bab232599e8bdd0921721dd" title="G4INCL::CrossSectionsStrangeness\l::p_pizToSzKp" alt="" coords="312,449,571,493"/>
+<area shape="rect" id="node17" href="$db/d32/namespaceG4InuclParticleNames.html#a9a178129b9632f6c41b08c465e6992f1" title="G4InuclParticleNames\l::pion" alt="" coords="357,517,526,561"/>
+<area shape="rect" id="node7" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="623,347,807,391"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="859,324,1053,352"/>
+<area shape="rect" id="node9" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="862,376,1050,420"/>
+<area shape="rect" id="node10" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="1101,376,1285,420"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1348,328,1556,356"/>
+<area shape="rect" id="node13" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="1112,444,1275,488"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1333,384,1571,412"/>
+</map>

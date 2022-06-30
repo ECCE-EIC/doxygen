@@ -1,0 +1,26 @@
+<map id="G4INCL::EtaNToPiNChannel::fillFinalState" name="G4INCL::EtaNToPiNChannel::fillFinalState">
+<area shape="rect" id="node2" href="$da/d83/classG4INCL_1_1FinalState.html#a27332a731cfb4c89c3ee229ba21c99e3" title="G4INCL::FinalState\l::addModifiedParticle" alt="" coords="293,5,455,49"/>
+<area shape="rect" id="node3" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="281,73,467,101"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1100,221,1308,249"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="555,228,749,256"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="278,228,470,256"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="272,280,476,308"/>
+<area shape="rect" id="node8" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="282,332,466,376"/>
+<area shape="rect" id="node13" href="$db/d32/namespaceG4InuclParticleNames.html#aab3a6382cc17b00ae41fc3618393b7b7" title="G4InuclParticleNames\l::nucleon" alt="" coords="289,400,459,444"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#ac6ece0a46852fc251f788f5dd88e47e4" title="G4INCL::Particle::setEnergy" alt="" coords="271,468,477,496"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="256,520,492,548"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#aca534164eea2b6e5a39ce0e335ef30b0" title="G4INCL::Particle::setType" alt="" coords="279,572,469,600"/>
+<area shape="rect" id="node25" href="$d5/d11/namespaceG4INCL_1_1Random.html#aad2134de367e586ed59d4ebc233f65ae" title="G4INCL::Random::shoot" alt="" coords="283,624,465,652"/>
+<area shape="rect" id="node9" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="558,307,746,351"/>
+<area shape="rect" id="node10" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="833,273,1017,317"/>
+<area shape="rect" id="node12" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="843,341,1006,385"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1085,281,1323,309"/>
+<area shape="rect" id="node17" href="$dd/d83/classG4INCL_1_1Particle.html#a616be21abf18318f60dba4833f8caa20" title="Is it a resonance?" alt="" coords="541,545,763,573"/>
+<area shape="rect" id="node19" href="$dd/d83/classG4INCL_1_1Particle.html#a967bc3671f8d7082e5b1f0f07c71e720" title="Set the mass of the Particle to its table mass." alt="" coords="540,597,764,625"/>
+<area shape="rect" id="node18" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="833,545,1017,573"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#a38a68965ab7ec38fafaa1e7c6a050f79" title="G4INCL::Particle::setMass" alt="" coords="828,597,1021,625"/>
+<area shape="rect" id="node21" href="$dd/d83/classG4INCL_1_1Particle.html#aa127348f0d36f847e9670ac4088680b3" title="Get the INCL particle mass." alt="" coords="812,649,1037,677"/>
+<area shape="rect" id="node22" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="1122,641,1286,685"/>
+<area shape="rect" id="node23" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1371,649,1481,677"/>
+<area shape="rect" id="node24" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1529,649,1705,677"/>
+</map>

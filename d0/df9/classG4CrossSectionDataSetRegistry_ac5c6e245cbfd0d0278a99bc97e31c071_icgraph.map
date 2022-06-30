@@ -1,0 +1,24 @@
+<map id="G4CrossSectionDataSetRegistry::Instance" name="G4CrossSectionDataSetRegistry::Instance">
+<area shape="rect" id="node2" href="$df/dca/classG4INCLXXNeutronBuilder.html#a003f9ad8af2f654bad1dc51d72dd9afe" title="G4INCLXXNeutronBuilder\l::Build" alt="" coords="329,5,521,49"/>
+<area shape="rect" id="node3" href="$d4/d5a/classLBE.html#adb1b57c0685ab2bc43a9a9d40e7b84d8" title="LBE::ConstructHad" alt="" coords="352,73,499,101"/>
+<area shape="rect" id="node5" href="$db/dd5/classG4NeutronCrossSectionXS.html#a900dad807c7414ffc1b3b46e2821c0f5" title="G4NeutronCrossSectionXS\l::ConstructProcess" alt="" coords="325,125,525,169"/>
+<area shape="rect" id="node6" href="$d8/d34/classGammaRayTelHadronPhysics.html#aa4a70f146dcf73142cf139780968c656" title="GammaRayTelHadronPhysics\l::ConstructProcess" alt="" coords="317,193,534,237"/>
+<area shape="rect" id="node7" href="$d3/d2b/classG4HadronPhysicsFTFQGSP__BERT.html#a55417c94612c5d24e2cdca99fec16173" title="G4HadronPhysicsFTFQGSP\l_BERT::CreateModels" alt="" coords="325,261,526,305"/>
+<area shape="rect" id="node9" href="$d0/dcf/classG4AntiNuclElastic.html#a9ffc8a4a5b435fcafbcbd099c72649a7" title="G4AntiNuclElastic::\lG4AntiNuclElastic" alt="" coords="351,329,500,373"/>
+<area shape="rect" id="node10" href="$d9/d0a/classG4ChipsComponentXS.html#a296a14b66e0958b950e012d2c41b267d" title="G4ChipsComponentXS\l::G4ChipsComponentXS" alt="" coords="334,397,517,441"/>
+<area shape="rect" id="node11" href="$d3/d1a/classG4ChipsElasticModel.html#a41050cf11a0c8e19cd92eff525008b64" title="G4ChipsElasticModel\l::G4ChipsElasticModel" alt="" coords="340,465,511,509"/>
+<area shape="rect" id="node12" href="$d7/d33/classG4ChipsKaonZeroElasticXS.html#ac42b40df1c1dd6a333a77d8bfdb99446" title="G4ChipsKaonZeroElasticXS\l::G4ChipsKaonZeroElasticXS" alt="" coords="319,533,532,577"/>
+<area shape="rect" id="node13" href="$d6/da5/classG4ChipsKaonZeroInelasticXS.html#aabdb31da9cdc882df6f93b84a96bc6b9" title="G4ChipsKaonZeroInelastic\lXS::G4ChipsKaonZeroInelasticXS" alt="" coords="303,601,547,645"/>
+<area shape="rect" id="node14" href="$d8/d6b/classG4ElectroVDNuclearModel.html#add4706c5741bef5789c6b86838c58bfc" title="G4ElectroVDNuclearModel\l::G4ElectroVDNuclearModel" alt="" coords="321,669,529,713"/>
+<area shape="rect" id="node15" href="$de/d77/classG4FTFPAntiBarionBuilder.html#afe2378f3e585789d23155707a01954c9" title="G4FTFPAntiBarionBuilder\l::G4FTFPAntiBarionBuilder" alt="" coords="325,737,525,781"/>
+<area shape="rect" id="node16" href="$dc/d81/classG4FTFParameters.html#a4fa6a228834ce98b6e999a9b037d487d" title="G4FTFParameters::G4FTFParameters" alt="" coords="291,805,560,833"/>
+<area shape="rect" id="node17" href="$d5/da9/classG4MuonVDNuclearModel.html#afefc81f5738a1d6ef350899fd904f040" title="G4MuonVDNuclearModel\l::G4MuonVDNuclearModel" alt="" coords="326,857,525,901"/>
+<area shape="rect" id="node18" href="$d4/d51/classG4QMDReaction.html#a577f3e50e676a3f2c3f7162b7484893e" title="G4QMDReaction::G4QMDReaction" alt="" coords="300,925,551,953"/>
+<area shape="rect" id="node19" href="$d8/ddb/classG4QuasiElRatios.html#a81f4214840e95ded52feaea96d3f0335" title="G4QuasiElRatios::G4Quasi\lElRatios" alt="" coords="326,977,525,1021"/>
+<area shape="rect" id="node20" href="$d1/d62/classG4VComponentCrossSection.html#ac5f6b1174fadf14fb5bb9c84fdd3cb07" title="G4VComponentCrossSection\l::G4VComponentCrossSection" alt="" coords="313,1045,537,1089"/>
+<area shape="rect" id="node21" href="$da/d21/classG4VCrossSectionDataSet.html#a02d1aca79f778225cfd1907211c366e6" title="G4VCrossSectionDataSet\l::G4VCrossSectionDataSet" alt="" coords="325,1113,526,1157"/>
+<area shape="rect" id="node22" href="$d8/d6e/classG4VHadronPhysics.html#aad18e747f38aff6ab1811660029cba1a" title="G4VHadronPhysics::InelasticXS" alt="" coords="309,1181,541,1209"/>
+<area shape="rect" id="node4" href="$d4/d5a/classLBE.html#a2b7ddc3feee5cc7a33c8247abe662836" title="LBE::ConstructProcess" alt="" coords="623,73,795,101"/>
+<area shape="rect" id="node8" href="$d3/d2b/classG4HadronPhysicsFTFQGSP__BERT.html#a2ab54e472f8197096d0f22e51b8afa26" title="G4HadronPhysicsFTFQGSP\l_BERT::ConstructProcess" alt="" coords="608,261,809,305"/>
+<area shape="rect" id="node23" href="$d7/de0/classG4HadronInelasticQBBC.html#a99002456fb656da9ec669b9c99813f28" title="G4HadronInelasticQBBC\l::ConstructProcess" alt="" coords="617,1173,801,1217"/>
+</map>

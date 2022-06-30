@@ -1,0 +1,12 @@
+<map id="G4VReadOutGeometry::CheckROVolume" name="G4VReadOutGeometry::CheckROVolume">
+<area shape="rect" id="node2" href="$d1/d83/classG4SensitiveVolumeList.html#a616b6efd6c08311033dc6790eec7572a" title="G4SensitiveVolumeList\l::CheckLV" alt="" coords="237,5,414,49"/>
+<area shape="rect" id="node3" href="$d1/d83/classG4SensitiveVolumeList.html#a007adae3e72b21df2293c11f77e68a20" title="G4SensitiveVolumeList\l::CheckPV" alt="" coords="237,73,414,117"/>
+<area shape="rect" id="node4" href="$d5/d11/classG4VReadOutGeometry.html#ab44f7983da5da5daa2f8de0748aec586" title="G4VReadOutGeometry\l::FindROTouchable" alt="" coords="237,193,413,237"/>
+<area shape="rect" id="node6" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="481,51,672,79"/>
+<area shape="rect" id="node10" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="495,359,659,403"/>
+<area shape="rect" id="node11" href="$df/d47/classG4StepPoint.html#ac562791462aede5cfa51be7793cae137" title="G4StepPoint::GetPhysical\lVolume" alt="" coords="229,313,421,357"/>
+<area shape="rect" id="node5" href="$d9/d53/classG4Navigator.html#aa43a21e86cbb36fb1940b9291c4cfcf1" title="G4Navigator::LocateGlobal\lPointAndUpdateTouchable" alt="" coords="475,103,678,147"/>
+<area shape="rect" id="node7" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="481,171,672,199"/>
+<area shape="rect" id="node8" href="$df/d47/classG4StepPoint.html#a6bb1e7841c0b9ae2ea16a78fac7d77ad" title="G4StepPoint::GetMomentum\lDirection" alt="" coords="469,223,684,267"/>
+<area shape="rect" id="node9" href="$d2/dc3/classG4TouchableHistory.html#acb2a2615b5d70d448a3b0ed427e501e0" title="G4TouchableHistory\l::GetVolume" alt="" coords="498,291,655,335"/>
+</map>

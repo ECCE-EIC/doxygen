@@ -1,0 +1,21 @@
+<map id="B02ImportanceDetectorConstruction::CreateImportanceStore" name="B02ImportanceDetectorConstruction::CreateImportanceStore">
+<area shape="rect" id="node2" href="$d7/de9/classG4IStore.html#a3dcc700122b752224ab0f6f31d291ab6" title="G4IStore::AddImportanceGeometryCell" alt="" coords="321,147,605,175"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1025,235,1132,263"/>
+<area shape="rect" id="node9" href="$da/dca/classG4GeometryCell.html#a43775fef88fd4e3d7f519717cd13fa78" title="G4GeometryCell::GetPhysical\lVolume" alt="" coords="677,199,897,243"/>
+<area shape="rect" id="node11" href="$df/dc2/classB02ImportanceDetectorConstruction.html#a45630ee325bec837ffa119f1d4f0695b" title="B02ImportanceDetectorConstruction\l::GetGeometryCell" alt="" coords="329,371,597,415"/>
+<area shape="rect" id="node14" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="997,343,1161,387"/>
+<area shape="rect" id="node15" href="$d7/de9/classG4IStore.html#a86aacebc9d722389155a37dad9dcdbd2" title="G4IStore::GetInstance" alt="" coords="378,491,549,519"/>
+<area shape="rect" id="node17" href="$d6/dfb/classG4VUserParallelWorld.html#a8ac282c468ed3253785dc50aad287efe" title="G4VUserParallelWorld\l::GetName" alt="" coords="379,543,547,587"/>
+<area shape="rect" id="node18" href="$da/dca/classG4GeometryCell.html#a56ac7ddbc48fcb801124a447208fddfb" title="G4GeometryCell::GetReplica\lNumber" alt="" coords="356,611,571,655"/>
+<area shape="rect" id="node19" href="$df/dc2/classB02ImportanceDetectorConstruction.html#ac27537c7a85ddb8bb8db2cf82d819559" title="B02ImportanceDetectorConstruction\l::GetWorldVolumeAddress" alt="" coords="329,679,597,723"/>
+<area shape="rect" id="node20" href="$d3/df0/classB02PVolumeStore.html#adec0c84720b03de41d41ff4563c60132" title="B02PVolumeStore::Size" alt="" coords="374,747,553,775"/>
+<area shape="rect" id="node3" href="$d7/de9/classG4IStore.html#a4733ed5c7df422837edc4f2bbadf423f" title="G4IStore::Error" alt="" coords="726,95,849,123"/>
+<area shape="rect" id="node5" href="$d7/de9/classG4IStore.html#aa37f29a999d0a1a76926261d282de607" title="G4IStore::IsInWorld" alt="" coords="712,43,863,71"/>
+<area shape="rect" id="node10" href="$d7/de9/classG4IStore.html#a27b7d8f2e73393c4066f4576e26b8962" title="G4IStore::SetInternalIterator" alt="" coords="681,147,894,175"/>
+<area shape="rect" id="node6" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="997,5,1161,49"/>
+<area shape="rect" id="node7" href="$da/dc4/classG4LogicalVolume.html#a50d9f88bc1f66befaa5873089ff012dd" title="G4LogicalVolume::IsAncestor" alt="" coords="969,73,1188,101"/>
+<area shape="rect" id="node8" href="$da/dc4/classG4LogicalVolume.html#aa0aad210f8b2fb17120a8de3fad2ffd7" title="G4LogicalVolume::IsDaughter" alt="" coords="1236,73,1459,101"/>
+<area shape="rect" id="node12" href="$df/dc2/classB02ImportanceDetectorConstruction.html#a5cac6990197ce0706db71a2b46c8b648" title="B02ImportanceDetectorConstruction\l::GetCellName" alt="" coords="653,371,921,415"/>
+<area shape="rect" id="node13" href="$d3/df0/classB02PVolumeStore.html#a9011f99d57869bba8006ce1d5ecca8d7" title="B02PVolumeStore::GetPVolume" alt="" coords="671,319,904,347"/>
+<area shape="rect" id="node16" href="$d7/de9/classG4IStore.html#aeea3f74a498fc2eba845d2b654080a77" title="G4IStore::G4IStore" alt="" coords="714,491,861,519"/>
+</map>

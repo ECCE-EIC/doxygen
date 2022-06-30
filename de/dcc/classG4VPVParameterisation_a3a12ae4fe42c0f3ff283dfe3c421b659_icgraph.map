@@ -1,0 +1,51 @@
+<map id="G4VPVParameterisation::ComputeMaterial" name="G4VPVParameterisation::ComputeMaterial">
+<area shape="rect" id="node2" href="$de/d7b/classG4tgbGeometryDumper.html#a9312bb74b948d6b760e78f366a68c5dc" title="G4tgbGeometryDumper\l::DumpPVParameterised" alt="" coords="247,117,433,161"/>
+<area shape="rect" id="node5" href="$da/dc4/classG4LogicalVolume.html#a074e6095b87605c454c7b29cd2744333" title="G4LogicalVolume::GetMass" alt="" coords="237,321,443,349"/>
+<area shape="rect" id="node16" href="$dd/dff/classG4ParameterisedNavigation.html#a37ae3ba558564af934ce3895d566f839" title="G4ParameterisedNavigation\l::LevelLocate" alt="" coords="235,1677,445,1721"/>
+<area shape="rect" id="node44" href="$d1/d35/classG4Region.html#a28e00b1f232dcc15a3ac1679a86e0f08" title="G4Region::ScanVolumeTree" alt="" coords="236,612,444,640"/>
+<area shape="rect" id="node3" href="$de/d7b/classG4tgbGeometryDumper.html#a710a628dc50008e820c7665e8ebd5165" title="G4tgbGeometryDumper\l::DumpPhysVol" alt="" coords="513,5,699,49"/>
+<area shape="rect" id="node4" href="$de/d7b/classG4tgbGeometryDumper.html#a3776e8200bee5cc32f330e76c83dcb8b" title="G4tgbGeometryDumper\l::DumpGeometry" alt="" coords="803,5,988,49"/>
+<area shape="rect" id="node6" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#aed852e1cd37df4b6683b1b188551cad0" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="506,73,706,117"/>
+<area shape="rect" id="node8" href="$da/d2c/classB1RunAction.html#a1a1677665a9f18e9fd9ea4283f622bf5" title="B1RunAction::EndOfRunAction" alt="" coords="493,141,719,169"/>
+<area shape="rect" id="node9" href="$d3/dba/classB1ConRunAction.html#ad568c7374a6944869e6f8d4243bec14e" title="B1ConRunAction::EndOfRun\lAction" alt="" coords="501,193,711,237"/>
+<area shape="rect" id="node10" href="$df/d79/pymodG4geometry_8cc.html#a8f50c55525220dee9fdc54c521f1539e" title="export_G4LogicalVolume" alt="" coords="512,261,700,289"/>
+<area shape="rect" id="node12" href="$dc/d5b/classDetectorConstruction.html#a5f26c6f8d77ec6d56436a0a5c974922e" title="DetectorConstruction\l::GetAbsorMass" alt="" coords="523,313,689,357"/>
+<area shape="rect" id="node13" href="$dc/d5b/classDetectorConstruction.html#a3fb9c08fd4480f11c4bb2e5ba2e41581" title="DetectorConstruction\l::GetCytoMass" alt="" coords="523,381,689,425"/>
+<area shape="rect" id="node14" href="$dc/d5b/classDetectorConstruction.html#a71ce6fbfdd066b4bc80cc11b7853d522" title="DetectorConstruction\l::GetNuclMass" alt="" coords="523,449,689,493"/>
+<area shape="rect" id="node15" href="$db/d85/classG4ASCIITreeSceneHandler.html#ac85ae01b8bd667cb6f0911ea346a8629" title="G4ASCIITreeSceneHandler\l::RequestPrimitives" alt="" coords="507,517,705,561"/>
+<area shape="rect" id="node7" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a5d52892d52c8020e2e81e981b47a1220" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="769,73,1022,117"/>
+<area shape="rect" id="node11" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="1107,488,1302,516"/>
+<area shape="rect" id="node17" href="$d9/d53/classG4Navigator.html#aa08b20a0c32fdcd4d8e92adb38ac7db0" title="G4Navigator::LocateGlobal\lPointAndSetup" alt="" coords="505,1384,707,1428"/>
+<area shape="rect" id="node37" href="$dd/dc9/classG4ITNavigator1.html#a1876470d398c11e9eaf7fc9886bca0e1" title="G4ITNavigator1::LocateGlobal\lPointAndSetup" alt="" coords="494,2005,718,2049"/>
+<area shape="rect" id="node40" href="$d2/d29/classG4ITNavigator2.html#a239e7da17bb79bbbc80ea61306574940" title="G4ITNavigator2::LocateGlobal\lPointAndSetup" alt="" coords="494,2155,718,2199"/>
+<area shape="rect" id="node18" href="$d7/d08/classXrayFluoAnalysisManager.html#a0943b2f7b2d717bad3d1822ff0ad1599" title="XrayFluoAnalysisManager\l::analyseStepping" alt="" coords="797,833,993,877"/>
+<area shape="rect" id="node19" href="$dc/d93/classG4AdjointPrimaryGenerator.html#ae9ff517a36accc8bc435505d20ac2bbd" title="G4AdjointPrimaryGenerator\l::ComputeAccumulatedDepthVector\lAlongBackRay" alt="" coords="1072,912,1337,972"/>
+<area shape="rect" id="node20" href="$d9/d53/classG4Navigator.html#a9a78e5db374334d93ca5af69c029ee0b" title="G4Navigator::ComputeStep" alt="" coords="791,953,999,981"/>
+<area shape="rect" id="node21" href="$d0/d37/classF04ElementField.html#aac77bfff9743d3ea0c0b20b426d305f2" title="the actual implementation constructs the F04ElementField" alt="" coords="791,1005,999,1033"/>
+<area shape="rect" id="node22" href="$d2/dbf/classG4TheRayTracer.html#a6842cd59306115fb21dd79ebb5c2265b" title="G4TheRayTracer::CreateBitMap" alt="" coords="779,1057,1011,1085"/>
+<area shape="rect" id="node23" href="$df/d78/classG4VFieldModel.html#ac1de9cb75da970cb698ce9beb85b3199" title="G4VFieldModel::DescribeYourselfTo" alt="" coords="767,1109,1024,1137"/>
+<area shape="rect" id="node24" href="$da/d44/classG4EventManager.html#aa9b657900a128fa1fe848ceb188c2c20" title="G4EventManager::DoProcessing" alt="" coords="777,1161,1014,1189"/>
+<area shape="rect" id="node25" href="$d2/dc8/classG4MaterialScanner.html#a9b9141c56b72d7c8a66022549fd54647" title="G4MaterialScanner::\lDoScan" alt="" coords="816,1213,975,1257"/>
+<area shape="rect" id="node26" href="$d6/da9/classG4TrajectoryDrawByOriginVolume.html#a43990ced2ea2227632466fba6ea36ace" title="G4TrajectoryDrawByOrigin\lVolume::Draw" alt="" coords="795,1281,995,1325"/>
+<area shape="rect" id="node27" href="$d5/d0a/classG4TrajectoryOriginVolumeFilter.html#ab4bc2ab8df90f96560ffafbb72b8cba5" title="G4TrajectoryOriginVolume\lFilter::Evaluate" alt="" coords="796,1349,995,1393"/>
+<area shape="rect" id="node28" href="$dd/d3d/classF04PrimaryGeneratorAction.html#a1a8af408d3e911a3087a9dc9c5ae9dfe" title="F04PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="791,1417,999,1461"/>
+<area shape="rect" id="node29" href="$d1/d32/classG4VIntersectionLocator.html#a7cfe34c414baa521b7b8f019f3e2494f" title="G4VIntersectionLocator\l::GetLocalSurfaceNormal" alt="" coords="801,1485,990,1529"/>
+<area shape="rect" id="node30" href="$d1/d58/classDMXParticleSource.html#a745d679ec0f080b1be87b3e7a0857332" title="DMXParticleSource::\lIsSourceConfined" alt="" coords="817,1553,973,1597"/>
+<area shape="rect" id="node31" href="$dd/d43/classG4SPSPosDistribution.html#aabb451050ec5c516bfc01aa890596e36" title="G4SPSPosDistribution\l::IsSourceConfined" alt="" coords="812,1621,979,1665"/>
+<area shape="rect" id="node32" href="$d3/db4/classG4SafetyHelper.html#aa28ae97723be029257ef2f0a210a7b90" title="G4SafetyHelper::Locate" alt="" coords="805,1689,986,1717"/>
+<area shape="rect" id="node33" href="$d1/d32/classG4VIntersectionLocator.html#aa5ce64eca7078593746f2daad7c3e951" title="G4VIntersectionLocator\l::LocateGlobalPointWithinVolume\lAndCheck" alt="" coords="773,1741,1018,1801"/>
+<area shape="rect" id="node34" href="$d9/d53/classG4Navigator.html#ac2b2ad6a4b4e2a03206753e28262d73f" title="G4Navigator::ResetHierarchy\lAndLocate" alt="" coords="786,1877,1005,1921"/>
+<area shape="rect" id="node35" href="$d0/dd0/classG4SteppingManager.html#a8dbc4f33ec55cb47761bdf0a15349f42" title="G4SteppingManager::\lSetInitialStep" alt="" coords="1121,1847,1289,1891"/>
+<area shape="rect" id="node36" href="$d7/d3e/classG4GeometryMessenger.html#ad8879ec6e2e1a6a9ea99bab1b8b17b78" title="G4GeometryMessenger\l::ResetNavigator" alt="" coords="805,1945,986,1989"/>
+<area shape="rect" id="node38" href="$dd/dc9/classG4ITNavigator1.html#aafb29b16b6722d59482cf85d5a378c9c" title="G4ITNavigator1::ComputeStep" alt="" coords="781,2013,1009,2041"/>
+<area shape="rect" id="node39" href="$dd/dc9/classG4ITNavigator1.html#a472b7919e3e5da1ab87f8ed74686ee4d" title="G4ITNavigator1::ResetHierarchy\lAndLocate" alt="" coords="776,2065,1015,2109"/>
+<area shape="rect" id="node41" href="$d2/d29/classG4ITNavigator2.html#a77992c835d1523c57262a5611b765209" title="G4ITNavigator2::ComputeStep" alt="" coords="781,2133,1009,2161"/>
+<area shape="rect" id="node42" href="$d2/d29/classG4ITNavigator2.html#a26d408a14962fe191fe7fa43bbe6ca34" title="G4ITNavigator2::NewNavigator\lStateAndLocate" alt="" coords="779,2185,1011,2229"/>
+<area shape="rect" id="node43" href="$d2/d29/classG4ITNavigator2.html#a752e3128b9160d924fb6312b778117ad" title="G4ITNavigator2::ResetHierarchy\lAndLocate" alt="" coords="776,2253,1015,2297"/>
+<area shape="rect" id="node45" href="$d1/d35/classG4Region.html#af5d9f9a97572416f37de9bdf3d4cefa0" title="G4Region::AddRootLogical\lVolume" alt="" coords="506,689,706,733"/>
+<area shape="rect" id="node49" href="$df/d79/pymodG4geometry_8cc.html#a3fce79c9252066a2a5f4135b788e144c" title="export_G4Region" alt="" coords="827,577,964,605"/>
+<area shape="rect" id="node50" href="$d1/d35/classG4Region.html#a7a4e64ebec24da0855897187c51ef062" title="G4Region::UpdateMaterialList" alt="" coords="494,637,718,665"/>
+<area shape="rect" id="node46" href="$d7/d5f/classExTGRCRegionCutsMgr.html#a767c99a306d52f96c9957b7edf6042a3" title="ExTGRCRegionCutsMgr\l::BuildRegions" alt="" coords="807,629,984,673"/>
+<area shape="rect" id="node47" href="$de/d51/classG4RunManagerKernel.html#a080ae67e1e8ae62380d839b0978b7cf4" title="G4RunManagerKernel\l::CheckRegions" alt="" coords="811,697,979,741"/>
+<area shape="rect" id="node48" href="$d3/d20/classPar01ParallelWorldForPion.html#aea18b6cf05920a81ba5cf634054c07d7" title="Par01ParallelWorldForPion\l::Construct" alt="" coords="797,765,994,809"/>
+</map>

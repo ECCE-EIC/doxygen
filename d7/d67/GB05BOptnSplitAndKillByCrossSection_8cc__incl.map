@@ -1,0 +1,42 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB05/src/GB05BOptnSplitAndKillByCrossSection.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB05/src/GB05BOptnSplitAndKillByCrossSection.cc">
+<area shape="rect" id="node2" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="3513,153,3630,181"/>
+<area shape="rect" id="node39" href="$d8/d7d/GB05BOptnSplitAndKillByCrossSection_8hh.html" title="Definition of the GB05BOptnSplitAndKillByCrossSection class." alt="" coords="4790,145,5022,189"/>
+<area shape="rect" id="node3" href="$d5/dea/Randomize_8h.html" title="CLHEP/Random/Randomize.h" alt="" coords="2143,237,2360,265"/>
+<area shape="rect" id="node16" href="$db/df5/RandFlat_8h.html" title="CLHEP/Random/RandFlat.h" alt="" coords="4139,397,4340,425"/>
+<area shape="rect" id="node20" href="$dd/d8b/RandExponential_8h.html" title="CLHEP/Random/RandExponential.h" alt="" coords="260,313,517,341"/>
+<area shape="rect" id="node23" href="$d4/d47/RandBit_8h.html" title="CLHEP/Random/RandBit.h" alt="" coords="4303,313,4498,341"/>
+<area shape="rect" id="node25" href="$dd/df9/RandGamma_8h.html" title="CLHEP/Random/RandGamma.h" alt="" coords="5,313,236,341"/>
+<area shape="rect" id="node28" href="$d9/db8/RandGaussQ_8h.html" title="CLHEP/Random/RandGaussQ.h" alt="" coords="3457,313,3686,341"/>
+<area shape="rect" id="node31" href="$db/db0/RandGeneral_8h.html" title="CLHEP/Random/RandGeneral.h" alt="" coords="541,313,772,341"/>
+<area shape="rect" id="node35" href="$dd/d36/RandPoissonQ_8h.html" title="CLHEP/Random/RandPoissonQ.h" alt="" coords="3989,313,4228,341"/>
+<area shape="rect" id="node4" href="$d9/d51/DualRand_8h.html" title="CLHEP/Random/DualRand.h" alt="" coords="999,313,1207,341"/>
+<area shape="rect" id="node5" href="$d2/d36/JamesRandom_8h.html" title="CLHEP/Random/JamesRandom.h" alt="" coords="1232,313,1471,341"/>
+<area shape="rect" id="node6" href="$df/d0b/MixMaxRng_8h.html" title="CLHEP/Random/MixMaxRng.h" alt="" coords="1495,313,1715,341"/>
+<area shape="rect" id="node7" href="$d2/deb/MTwistEngine_8h.html" title="CLHEP/Random/MTwistEngine.h" alt="" coords="1739,313,1972,341"/>
+<area shape="rect" id="node8" href="$dd/d54/RanecuEngine_8h.html" title="CLHEP/Random/RanecuEngine.h" alt="" coords="1996,313,2235,341"/>
+<area shape="rect" id="node9" href="$d4/d5f/RanluxEngine_8h.html" title="CLHEP/Random/RanluxEngine.h" alt="" coords="2259,313,2494,341"/>
+<area shape="rect" id="node10" href="$d9/dff/Ranlux64Engine_8h.html" title="CLHEP/Random/Ranlux64Engine.h" alt="" coords="2519,313,2771,341"/>
+<area shape="rect" id="node11" href="$d8/da4/RanshiEngine_8h.html" title="CLHEP/Random/RanshiEngine.h" alt="" coords="2795,313,3030,341"/>
+<area shape="rect" id="node12" href="$d1/dd9/RandBinomial_8h.html" title="CLHEP/Random/RandBinomial.h" alt="" coords="1880,397,2116,425"/>
+<area shape="rect" id="node15" href="$d9/d3e/RandBreitWigner_8h.html" title="CLHEP/Random/RandBreitWigner.h" alt="" coords="3711,313,3965,341"/>
+<area shape="rect" id="node19" href="$d8/d6f/RandChiSquare_8h.html" title="CLHEP/Random/RandChiSquare.h" alt="" coords="1560,397,1807,425"/>
+<area shape="rect" id="node22" href="$db/dcf/RandExpZiggurat_8h.html" title="CLHEP/Random/RandExpZiggurat.h" alt="" coords="2599,397,2859,425"/>
+<area shape="rect" id="node27" href="$de/dfd/RandGauss_8h.html" title="CLHEP/Random/RandGauss.h" alt="" coords="2987,397,3206,425"/>
+<area shape="rect" id="node30" href="$de/db6/RandGaussZiggurat_8h.html" title="CLHEP/Random/RandGaussZiggurat.h" alt="" coords="3156,313,3432,341"/>
+<area shape="rect" id="node34" href="$d6/d6f/RandLandau_8h.html" title="CLHEP/Random/RandLandau.h" alt="" coords="2141,397,2367,425"/>
+<area shape="rect" id="node38" href="$df/d17/RandStudentT_8h.html" title="CLHEP/Random/RandStudentT.h" alt="" coords="1300,397,1536,425"/>
+<area shape="rect" id="node13" href="$dd/d6d/Random_8h.html" title="CLHEP/Random/Random.h" alt="" coords="2144,489,2343,517"/>
+<area shape="rect" id="node14" href="$dc/d18/memory_8h.html" title="CLHEP/Utility/memory.h" alt="" coords="1919,489,2099,517"/>
+<area shape="rect" id="node17" href="$d8/d7a/thread__local_8h.html" title="CLHEP/Utility/thread\l_local.h" alt="" coords="3165,481,3322,525"/>
+<area shape="rect" id="node36" href="$da/d51/RandPoisson_8h.html" title="CLHEP/Random/RandPoisson.h" alt="" coords="3596,397,3824,425"/>
+<area shape="rect" id="node40" href="$d8/d3a/G4VBiasingOperation_8hh.html" title="G4VBiasingOperation.hh" alt="" coords="5212,237,5400,265"/>
+<area shape="rect" id="node45" href="$d9/de6/G4ParticleChange_8hh.html" title="G4ParticleChange.hh" alt="" coords="4825,237,4987,265"/>
+<area shape="rect" id="node41" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="4871,573,4962,601"/>
+<area shape="rect" id="node43" href="$d6/d64/G4ForceCondition_8hh.html" title="G4ForceCondition.hh" alt="" coords="5285,313,5447,341"/>
+<area shape="rect" id="node44" href="$de/d2e/G4GPILSelection_8hh.html" title="G4GPILSelection.hh" alt="" coords="5472,313,5625,341"/>
+<area shape="rect" id="node42" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="4764,649,4845,677"/>
+<area shape="rect" id="node46" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="4846,489,4987,517"/>
+<area shape="rect" id="node47" href="$d6/d6a/G4VParticleChange_8hh.html" title="G4VParticleChange.hh" alt="" coords="4645,313,4817,341"/>
+<area shape="rect" id="node48" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="4979,397,5071,425"/>
+<area shape="rect" id="node49" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="4771,397,4868,425"/>
+</map>

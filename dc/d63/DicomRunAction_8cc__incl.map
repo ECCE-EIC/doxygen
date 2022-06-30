@@ -1,0 +1,39 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/DICOM/src/DicomRunAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/DICOM/src/DicomRunAction.cc">
+<area shape="rect" id="node2" href="$d7/dd1/DicomRunAction_8hh.html" title="Definition of the DicomRunAction class." alt="" coords="43,433,197,461"/>
+<area shape="rect" id="node19" href="$d2/d0c/DicomRun_8hh.html" title="Definition of the DicomRun class." alt="" coords="630,205,741,233"/>
+<area shape="rect" id="node32" href="$d6/da9/G4THitsMap_8hh.html" title="G4THitsMap.hh" alt="" coords="350,357,474,385"/>
+<area shape="rect" id="node37" href="$d5/dba/G4UnitsTable_8hh.html" title="G4UnitsTable.hh" alt="" coords="875,433,1005,461"/>
+<area shape="rect" id="node39" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="389,129,550,157"/>
+<area shape="rect" id="node41" href="$da/de4/G4RunManager_8hh.html" title="G4RunManager.hh" alt="" coords="2071,129,2217,157"/>
+<area shape="rect" id="node4" href="$d2/d75/G4UserRunAction_8hh.html" title="G4UserRunAction.hh" alt="" coords="43,585,203,613"/>
+<area shape="rect" id="node9" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1533,585,1624,613"/>
+<area shape="rect" id="node5" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1317,889,1417,917"/>
+<area shape="rect" id="node8" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1244,965,1303,993"/>
+<area shape="rect" id="node10" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1563,813,1645,841"/>
+<area shape="rect" id="node13" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1719,813,1820,841"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1405,661,1515,689"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1641,737,1769,765"/>
+<area shape="rect" id="node16" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1642,661,1819,689"/>
+<area shape="rect" id="node20" href="$dd/d4a/G4Run_8hh.html" title="G4Run.hh" alt="" coords="661,433,749,461"/>
+<area shape="rect" id="node21" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="1182,281,1282,309"/>
+<area shape="rect" id="node22" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="1030,433,1122,461"/>
+<area shape="rect" id="node23" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="1287,509,1407,537"/>
+<area shape="rect" id="node24" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="1485,433,1641,461"/>
+<area shape="rect" id="node28" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="1146,433,1307,461"/>
+<area shape="rect" id="node29" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="1397,357,1590,385"/>
+<area shape="rect" id="node31" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="867,357,1085,385"/>
+<area shape="rect" id="node25" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="1692,509,1833,537"/>
+<area shape="rect" id="node26" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="1969,813,2178,841"/>
+<area shape="rect" id="node30" href="$d1/d39/G4VTrajectory_8hh.html" title="G4VTrajectory.hh" alt="" coords="1817,433,1953,461"/>
+<area shape="rect" id="node33" href="$de/d60/source_2digits__hits_2hits_2include_2G4THitsCollection_8hh.html" title="G4THitsCollection.hh" alt="" coords="475,433,637,461"/>
+<area shape="rect" id="node34" href="$d8/d83/source_2digits__hits_2hits_2include_2G4VHitsCollection_8hh.html" title="G4VHitsCollection.hh" alt="" coords="514,509,678,537"/>
+<area shape="rect" id="node40" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="384,205,605,233"/>
+<area shape="rect" id="node42" href="$dc/d47/G4RunManagerKernel_8hh.html" title="G4RunManagerKernel.hh" alt="" coords="1917,205,2107,233"/>
+<area shape="rect" id="node43" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="1998,281,2157,309"/>
+<area shape="rect" id="node44" href="$d3/d40/evmandefs_8hh.html" title="evmandefs.hh" alt="" coords="2129,433,2247,461"/>
+<area shape="rect" id="node45" href="$df/dae/G4StackManager_8hh.html" title="G4StackManager.hh" alt="" coords="2241,357,2397,385"/>
+<area shape="rect" id="node46" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="2322,433,2419,461"/>
+<area shape="rect" id="node47" href="$d8/dcd/G4TrackStatus_8hh.html" title="G4TrackStatus.hh" alt="" coords="2381,509,2521,537"/>
+<area shape="rect" id="node48" href="$d8/d5c/G4PrimaryTransformer_8hh.html" title="G4PrimaryTransformer.hh" alt="" coords="1909,509,2102,537"/>
+<area shape="rect" id="node49" href="$d7/de7/G4TrackingManager_8hh.html" title="G4TrackingManager.hh" alt="" coords="1989,357,2165,385"/>
+</map>

@@ -1,0 +1,27 @@
+var pyG4EmCalculator_8cc =
+[
+    [ "BOOST_PYTHON_MEMBER_FUNCTION_OVERLOADS", "d7/da1/pyG4EmCalculator_8cc.html#a258541b98bd3f9b45839fa6f993c2373", null ],
+    [ "export_G4EmCalculator", "d7/da1/pyG4EmCalculator_8cc.html#acf840d4a242b4ce72a700f18e8fcca47", null ],
+    [ "ComputeCrossSectionPerAtom", "d7/da1/pyG4EmCalculator_8cc.html#a8e7cbd9903c9ee9b4c76aa9322d804fd", null ],
+    [ "f1_ComputeElectronicDEDX", "d7/da1/pyG4EmCalculator_8cc.html#a21dd55e9a4cf3d2609e60a55675495bf", null ],
+    [ "f1_ComputeEnergyCutFromRangeCut", "d7/da1/pyG4EmCalculator_8cc.html#af357c7a0cdf0e0f05235a29fd2a3b51c", null ],
+    [ "f1_ComputeMeanFreePath", "d7/da1/pyG4EmCalculator_8cc.html#a5d2bd048cb58a8934ba17a5172e6c722", null ],
+    [ "f1_ComputeNuclearDEDX", "d7/da1/pyG4EmCalculator_8cc.html#a12de2912efe66f395c18fdc42aee4370", null ],
+    [ "f1_GetCrossSectionPerVolume", "d7/da1/pyG4EmCalculator_8cc.html#aaef3108bdd0194b481f37b3a2c9611c7", null ],
+    [ "f1_GetDEDX", "d7/da1/pyG4EmCalculator_8cc.html#aac98fa9235f6e0a9a2118e90047ed4de", null ],
+    [ "f1_GetKinEnergy", "d7/da1/pyG4EmCalculator_8cc.html#a114ead2bb3840b39ea553205a6175926", null ],
+    [ "f1_GetRange", "d7/da1/pyG4EmCalculator_8cc.html#aea04c01336dcb9e280dd10a54794810c", null ],
+    [ "f2_ComputeCrossSectionPerAtom", "d7/da1/pyG4EmCalculator_8cc.html#ab2b61e64b1f7622e2bf6eff7d10ead87", null ],
+    [ "f2_ComputeCrossSectionPerVolume", "d7/da1/pyG4EmCalculator_8cc.html#a7071908c559f480e6ab40ff7b78557d2", null ],
+    [ "f2_ComputeDEDX", "d7/da1/pyG4EmCalculator_8cc.html#a6a6c698d4192bda2281afbc46b6d8ca3", null ],
+    [ "f2_ComputeElectronicDEDX", "d7/da1/pyG4EmCalculator_8cc.html#a6bf628f2bdaea534a32e31913efcb56b", null ],
+    [ "f2_ComputeEnergyCutFromRangeCut", "d7/da1/pyG4EmCalculator_8cc.html#abccae2f1b40ca15db032f45d95be7cc6", null ],
+    [ "f2_ComputeMeanFreePath", "d7/da1/pyG4EmCalculator_8cc.html#a87300ccdca1f8eb3ec8e988da12ffc2d", null ],
+    [ "f2_ComputeNuclearDEDX", "d7/da1/pyG4EmCalculator_8cc.html#ad0c8894feddb20e5408056ca4d3a7243", null ],
+    [ "f2_ComputeTotalDEDX", "d7/da1/pyG4EmCalculator_8cc.html#a2ffed9752ea1da05df701c9c86454211", null ],
+    [ "f2_GetCrossSectionPerVolume", "d7/da1/pyG4EmCalculator_8cc.html#a9342fccbd5a5ab3eb50eb92022998a51", null ],
+    [ "f2_GetDEDX", "d7/da1/pyG4EmCalculator_8cc.html#a389a6b9289ee4bbc71423ca276944a19", null ],
+    [ "f2_GetKinEnergy", "d7/da1/pyG4EmCalculator_8cc.html#aa9cc16e8538cbaf66f5615326dd50676", null ],
+    [ "f2_GetMeanFreePath", "d7/da1/pyG4EmCalculator_8cc.html#ac48302265ed5a1b661ff20d1b6f305e7", null ],
+    [ "f2_GetRange", "d7/da1/pyG4EmCalculator_8cc.html#ad9130cef6a37e281303fc3c7491ed5f2", null ]
+];

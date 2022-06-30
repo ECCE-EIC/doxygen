@@ -1,0 +1,51 @@
+<map id="G4SpinDecayPhysics::ConstructProcess" name="G4SpinDecayPhysics::ConstructProcess">
+<area shape="rect" id="node2" href="$d5/d2e/classG4ProcessManager.html#acda2c817a8aa46e78aad4c06c3bb0db7" title="G4ProcessManager::AddProcess" alt="" coords="216,916,452,944"/>
+<area shape="rect" id="node17" href="$d9/df9/classG4ProcessTable.html#a1a78147481faf7206954867e1cff271c" title="G4ProcessTable::GetProcess\lTable" alt="" coords="524,1253,735,1297"/>
+<area shape="rect" id="node29" href="$dc/d21/namespaceG4INCL_1_1ClusterDecay.html#a0ca6931ef2e54d65d6addd4871d8f956" title="Carries out a cluster decay." alt="" coords="249,1461,419,1505"/>
+<area shape="rect" id="node36" href="$d9/df9/classG4ProcessTable.html#a306907016df3ce4fd515c3e56bce974a" title="G4ProcessTable::FindProcess" alt="" coords="227,1529,441,1557"/>
+<area shape="rect" id="node37" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="251,1581,417,1625"/>
+<area shape="rect" id="node38" href="$d6/df9/classG4MuonMinus.html#a39a42dd49b5a21a11db1d3b157fdb3ba" title="G4MuonMinus::MuonMinus" alt="" coords="233,1649,435,1677"/>
+<area shape="rect" id="node40" href="$de/db6/classG4MuonPlus.html#a1bc08b42778e136fb3e39881f1113c20" title="G4MuonPlus::MuonPlus" alt="" coords="245,1701,423,1729"/>
+<area shape="rect" id="node42" href="$d8/d83/classG4PionMinus.html#a393ba02f45f33284c8f508ebc9b14b95" title="G4PionMinus::PionMinus" alt="" coords="241,1753,427,1781"/>
+<area shape="rect" id="node44" href="$d0/dc2/classG4PionPlus.html#a8b9d03d0c6b25435078da1674723892b" title="G4PionPlus::PionPlus" alt="" coords="253,1805,415,1833"/>
+<area shape="rect" id="node46" href="$d5/d2e/classG4ProcessManager.html#ac326fbb0bc88c019d89e4330e3e4ed8a" title="G4ProcessManager::Remove\lProcess" alt="" coords="227,1857,441,1901"/>
+<area shape="rect" id="node48" href="$d5/d2e/classG4ProcessManager.html#a069c7a1e9ba77acc33dc8d6abf61a00f" title="G4ProcessManager::SetProcess\lOrdering" alt="" coords="218,272,450,316"/>
+<area shape="rect" id="node3" href="$d5/d2e/classG4ProcessManager.html#a8fd90f36c1d6423b7d18251d6d14087f" title="G4ProcessManager::CheckOrdering\lParameters" alt="" coords="500,598,759,642"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1184,786,1291,814"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1160,497,1315,541"/>
+<area shape="rect" id="node7" href="$d5/d2e/classG4ProcessManager.html#a5e69e9cc5cddd558ab18dc9e0d6690b2" title="G4ProcessManager::GetVerbose\lLevel" alt="" coords="1119,288,1356,332"/>
+<area shape="rect" id="node8" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="827,838,1051,866"/>
+<area shape="rect" id="node12" href="$d5/d2e/classG4ProcessManager.html#a2b70fa79321e8f8c52d4221591774210" title="G4ProcessManager::Create\lGPILvectors" alt="" coords="527,392,731,436"/>
+<area shape="rect" id="node14" href="$d5/da4/classG4ProcessVector.html#ae68aec78f92079adc46d6aefeb0b690d" title="G4ProcessVector::entries" alt="" coords="844,270,1033,298"/>
+<area shape="rect" id="node15" href="$d5/da4/classG4ProcessVector.html#a56d4dbb97f46bdded536c9c77c166c12" title="G4ProcessVector::insert" alt="" coords="847,734,1030,762"/>
+<area shape="rect" id="node16" href="$d5/d2e/classG4ProcessManager.html#ab0a08dbaa94f8ec8302af4be231eda08" title="G4ProcessManager::FindInsert\lPosition" alt="" coords="516,272,743,316"/>
+<area shape="rect" id="node19" href="$d9/df9/classG4ProcessTable.html#a41026737bd128d6cc6e94c64b16e457d" title="G4ProcessTable::Insert" alt="" coords="542,1045,717,1073"/>
+<area shape="rect" id="node24" href="$d5/d2e/classG4ProcessManager.html#ad20cb3297f6dabcc63ca4788f2abc6c7" title="G4ProcessManager::InsertAt" alt="" coords="523,220,735,248"/>
+<area shape="rect" id="node26" href="$d2/d84/classG4VProcess.html#a6bb9ef6fdb83d344b56491caf2a299f0" title="G4VProcess::IsApplicable" alt="" coords="534,941,725,969"/>
+<area shape="rect" id="node27" href="$d5/da4/classG4ProcessVector.html#afc07acfa06cff82265740b1c70e9c40d" title="G4ProcessVector::removeLast" alt="" coords="518,993,741,1021"/>
+<area shape="rect" id="node28" href="$d2/d84/classG4VProcess.html#ada1cb51048b954eb907176b91430bd7f" title="G4VProcess::SetProcessManager" alt="" coords="508,1097,751,1125"/>
+<area shape="rect" id="node5" href="$d5/d2e/classG4ProcessManager.html#a9db1b6102a20e5d6a1889d82ee11f0b0" title="G4ProcessManager::GetAttribute" alt="" coords="817,426,1060,454"/>
+<area shape="rect" id="node9" href="$d2/d84/classG4VProcess.html#a207d1f765ee9b61a32e3648dfe73fea8" title="G4VProcess::isAlongStepDo\lItIsEnabled" alt="" coords="835,598,1043,642"/>
+<area shape="rect" id="node10" href="$d2/d84/classG4VProcess.html#a9061839d0b8a25c31bd33372a98084a2" title="G4VProcess::isAtRestDoIt\lIsEnabled" alt="" coords="843,666,1035,710"/>
+<area shape="rect" id="node11" href="$d2/d84/classG4VProcess.html#aeab2ed7368e3c714c0e11a8bba46f61f" title="G4VProcess::isPostStepDo\lItIsEnabled" alt="" coords="840,530,1037,574"/>
+<area shape="rect" id="node13" href="$d5/da4/classG4ProcessVector.html#acded2cd71fe71de210a801eff8abb151" title="G4ProcessVector::clear" alt="" coords="850,322,1027,350"/>
+<area shape="rect" id="node18" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="845,1253,1032,1297"/>
+<area shape="rect" id="node20" href="$dc/d6a/classG4ProcTblElement.html#a4f8801d956f32675f042d0769d81eab3" title="G4ProcTblElement::Contains" alt="" coords="831,993,1046,1021"/>
+<area shape="rect" id="node21" href="$d5/d2e/classG4ProcessManager.html#ae58dcd90515e8073d911118b70ae0898" title="G4ProcessManager::GetParticleType" alt="" coords="807,1045,1071,1073"/>
+<area shape="rect" id="node22" href="$dc/d6a/classG4ProcTblElement.html#aceb234f69bf2c8c140373417a29a7ae3" title="G4ProcTblElement::GetProcess" alt="" coords="824,1097,1053,1125"/>
+<area shape="rect" id="node23" href="$dc/d6a/classG4ProcTblElement.html#ab737be51b41cfece4173495a1f865ce6" title="G4ProcTblElement::Insert" alt="" coords="841,1149,1036,1177"/>
+<area shape="rect" id="node25" href="$d5/da4/classG4ProcessVector.html#a3558a9ec6d273524cd5fdcdb267606ea" title="G4ProcessVector::insertAt" alt="" coords="841,218,1037,246"/>
+<area shape="rect" id="node30" href="$dd/d83/classG4INCL_1_1Particle.html#a99dc3f45354376683c05ea1fa5fc8dd5" title="Get the vector list of biased vertices on the particle path." alt="" coords="535,1321,724,1365"/>
+<area shape="rect" id="node31" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="544,1389,715,1417"/>
+<area shape="rect" id="node32" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="544,1441,715,1469"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#aca534164eea2b6e5a39ce0e335ef30b0" title="G4INCL::Particle::setType" alt="" coords="535,1493,724,1521"/>
+<area shape="rect" id="node34" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="545,1545,714,1573"/>
+<area shape="rect" id="node35" href="$dd/d83/classG4INCL_1_1Particle.html#aec44f38874873af8ed41bb1460724196" title="Set the mass of the Particle to its real mass." alt="" coords="518,1597,741,1625"/>
+<area shape="rect" id="node39" href="$d6/df9/classG4MuonMinus.html#ab38fc0e565c34fa67b5f8b0db68be739" title="G4MuonMinus::Definition" alt="" coords="533,1649,725,1677"/>
+<area shape="rect" id="node41" href="$de/db6/classG4MuonPlus.html#a7231ece29e9df51388c7d8d2add29fd8" title="G4MuonPlus::Definition" alt="" coords="540,1701,719,1729"/>
+<area shape="rect" id="node43" href="$d8/d83/classG4PionMinus.html#aeb880456d39effd51a89a831d874c16c" title="G4PionMinus::Definition" alt="" coords="538,1753,721,1781"/>
+<area shape="rect" id="node45" href="$d0/dc2/classG4PionPlus.html#a5cfffef14b8502c5a679b10ff926734f" title="G4PionPlus::Definition" alt="" coords="544,1805,715,1833"/>
+<area shape="rect" id="node47" href="$d5/d2e/classG4ProcessManager.html#a86fa6d1da65aaf05282760ddee51c37d" title="G4ProcessManager::GetProcess\lIndex" alt="" coords="512,1857,747,1901"/>
+<area shape="rect" id="node49" href="$d5/d2e/classG4ProcessManager.html#aa0f4183c424e118bccd8f23d255e389e" title="G4ProcessManager::GetProcess\lVectorId" alt="" coords="512,48,747,92"/>
+<area shape="rect" id="node50" href="$d5/d2e/classG4ProcessManager.html#af677449203ee4de11a372477b3c65998" title="G4ProcessManager::RemoveAt" alt="" coords="515,168,744,196"/>
+</map>

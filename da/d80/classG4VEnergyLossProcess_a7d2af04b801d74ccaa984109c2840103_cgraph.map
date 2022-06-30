@@ -1,0 +1,18 @@
+<map id="G4VEnergyLossProcess::CrossSectionPerVolume" name="G4VEnergyLossProcess::CrossSectionPerVolume">
+<area shape="rect" id="node2" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="567,5,721,49"/>
+<area shape="rect" id="node3" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="250,193,458,237"/>
+<area shape="rect" id="node9" href="$da/d80/classG4VEnergyLossProcess.html#abfc0f724a5e8ccd023a9fa690a7089a0" title="G4VEnergyLossProcess\l::DefineMaterial" alt="" coords="555,485,733,529"/>
+<area shape="rect" id="node12" href="$da/d80/classG4VEnergyLossProcess.html#a15a41be24f7f73c4c04b4224abc7054e" title="G4VEnergyLossProcess\l::GetLambdaForScaledEnergy" alt="" coords="243,485,465,529"/>
+<area shape="rect" id="node13" href="$da/d80/classG4VEnergyLossProcess.html#a323ca376896b95ea82b246197dd03290" title="G4VEnergyLossProcess\l::SelectModel" alt="" coords="265,365,443,409"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="534,193,754,237"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="551,261,737,289"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="513,313,775,341"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="529,73,759,117"/>
+<area shape="rect" id="node8" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="526,141,762,169"/>
+<area shape="rect" id="node10" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="848,451,1020,495"/>
+<area shape="rect" id="node11" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="848,519,1020,563"/>
+<area shape="rect" id="node14" href="$dd/de5/classG4EmModelManager.html#a9965149654139effd46726e430259eea" title="G4EmModelManager::Select\lModel" alt="" coords="537,365,751,409"/>
+<area shape="rect" id="node16" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="524,433,764,461"/>
+<area shape="rect" id="node15" href="$db/d1d/classG4RegionModels.html#aeaf4199cf301551c74389e9fd4208733" title="G4RegionModels::SelectIndex" alt="" coords="823,347,1045,375"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="826,399,1042,427"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="G4GPSModel::DescribeYourselfTo" name="G4GPSModel::DescribeYourselfTo">
+<area shape="rect" id="node2" href="$da/d36/classG4VGraphicsScene.html#a473c96b0100e6d3e9fc5fa2e5195fdcb" title="G4VGraphicsScene::AddPrimitive" alt="" coords="307,5,553,33"/>
+<area shape="rect" id="node3" href="$da/d36/classG4VGraphicsScene.html#aa54570808adb918c7702cb35b9108e26" title="G4VGraphicsScene::AddSolid" alt="" coords="321,57,539,85"/>
+<area shape="rect" id="node4" href="$da/d36/classG4VGraphicsScene.html#a425358c163e068656f022edb9f42f5cf" title="G4VGraphicsScene::BeginPrimitives" alt="" coords="297,109,563,137"/>
+<area shape="rect" id="node5" href="$da/d36/classG4VGraphicsScene.html#aa7366c0cca87995f08b1be04dc436225" title="G4VGraphicsScene::EndPrimitives" alt="" coords="304,161,556,189"/>
+<area shape="rect" id="node6" href="$dd/d43/classG4SPSPosDistribution.html#ab835799bf925b5042332ce62bf01a517" title="G4SPSPosDistribution\l::GetCentreCoords" alt="" coords="347,213,513,257"/>
+<area shape="rect" id="node7" href="$d6/d54/classG4GeneralParticleSourceData.html#a1f198c844b9d81d4f78a2b82d61ecd14" title="G4GeneralParticleSourceData\l::GetCurrentSource" alt="" coords="319,281,541,325"/>
+<area shape="rect" id="node8" href="$dd/d43/classG4SPSPosDistribution.html#a7625db941d0cbbe47d2e3c64d9828495" title="G4SPSPosDistribution\l::GetHalfX" alt="" coords="347,349,513,393"/>
+<area shape="rect" id="node9" href="$dd/d43/classG4SPSPosDistribution.html#a2c7e1917e317402cb9c1076d50770e04" title="G4SPSPosDistribution\l::GetHalfY" alt="" coords="347,417,513,461"/>
+<area shape="rect" id="node10" href="$dd/d43/classG4SPSPosDistribution.html#aae50434f8fff720ab480122b550ee57f" title="G4SPSPosDistribution\l::GetHalfZ" alt="" coords="347,485,513,529"/>
+<area shape="rect" id="node11" href="$d5/dd3/classG4GeometryTolerance.html#af64e4b5b8b0c0f6962603865e93a9f30" title="G4GeometryTolerance\l::GetInstance" alt="" coords="344,553,516,597"/>
+<area shape="rect" id="node15" href="$dd/d43/classG4SPSPosDistribution.html#abaeac14cd6ad3f0909cc511d665552a0" title="G4SPSPosDistribution\l::GetParAlpha" alt="" coords="347,621,513,665"/>
+<area shape="rect" id="node16" href="$dd/d43/classG4SPSPosDistribution.html#a7cfadfafedbce9d4f12233655b928530" title="G4SPSPosDistribution\l::GetParPhi" alt="" coords="347,689,513,733"/>
+<area shape="rect" id="node17" href="$dd/d43/classG4SPSPosDistribution.html#ac4b589481abbfe24956d85cd7aa87d0f" title="G4SPSPosDistribution\l::GetParTheta" alt="" coords="347,757,513,801"/>
+<area shape="rect" id="node18" href="$dd/d43/classG4SPSPosDistribution.html#a13b8660968b672062281f8a2019cc75c" title="G4SPSPosDistribution\l::GetPosDisShape" alt="" coords="347,825,513,869"/>
+<area shape="rect" id="node19" href="$d9/d88/classG4SingleParticleSource.html#a33425f2cf820ba58a4a01f4467091304" title="G4SingleParticleSource\l::GetPosDist" alt="" coords="341,893,519,937"/>
+<area shape="rect" id="node20" href="$dd/d43/classG4SPSPosDistribution.html#a6a82c1e0c2d31b5297c91021bb6c7aab" title="G4SPSPosDistribution\l::GetPosDisType" alt="" coords="347,961,513,1005"/>
+<area shape="rect" id="node21" href="$dd/d43/classG4SPSPosDistribution.html#a043e069aea122475ea945dd21fbc6fdd" title="G4SPSPosDistribution\l::GetRadius" alt="" coords="347,1029,513,1073"/>
+<area shape="rect" id="node22" href="$dd/d43/classG4SPSPosDistribution.html#a3c553587935ff094e4363d852807cc11" title="G4SPSPosDistribution\l::GetRadius0" alt="" coords="347,1097,513,1141"/>
+<area shape="rect" id="node23" href="$dd/d43/classG4SPSPosDistribution.html#a0d372eb2fda81ceb1abfc2ecb7854469" title="G4SPSPosDistribution\l::GetRotx" alt="" coords="347,1165,513,1209"/>
+<area shape="rect" id="node24" href="$dd/d43/classG4SPSPosDistribution.html#a4a65517e966c541b51cc9d29eae183eb" title="G4SPSPosDistribution\l::GetRoty" alt="" coords="347,1233,513,1277"/>
+<area shape="rect" id="node25" href="$dd/d43/classG4SPSPosDistribution.html#a35e4c3f78995a5e1e3214a6b4bc8b5f6" title="G4SPSPosDistribution\l::GetRotz" alt="" coords="347,1301,513,1345"/>
+<area shape="rect" id="node26" href="$d6/d54/classG4GeneralParticleSourceData.html#a565c92dc817a83633de6f9da869fcb6d" title="G4GeneralParticleSourceData\l::GetSourceVectorSize" alt="" coords="319,1369,541,1413"/>
+<area shape="rect" id="node27" href="$d5/dd3/classG4GeometryTolerance.html#a7fc4b12f5342e092a1b4652f3133ab42" title="G4GeometryTolerance\l::GetSurfaceTolerance" alt="" coords="344,1437,516,1481"/>
+<area shape="rect" id="node28" href="$d6/d54/classG4GeneralParticleSourceData.html#aec967fe03601398e36bbf5b16c047dba" title="G4GeneralParticleSourceData\l::Instance" alt="" coords="319,1505,541,1549"/>
+<area shape="rect" id="node29" href="$da/d36/classG4VGraphicsScene.html#a4648bd26e65d889558e5d8e4c1644afe" title="G4VGraphicsScene::PostAdd\lSolid" alt="" coords="323,1573,537,1617"/>
+<area shape="rect" id="node30" href="$da/d36/classG4VGraphicsScene.html#aecdffe55b4bc148c6e8cb6140b5e0fc1" title="G4VGraphicsScene::PreAdd\lSolid" alt="" coords="327,1641,533,1685"/>
+<area shape="rect" id="node31" href="$dc/df1/classG4VisAttributes.html#a2a37373fb043df4effbaf918fa5002ee" title="G4VisAttributes::SetColour" alt="" coords="329,1709,531,1737"/>
+<area shape="rect" id="node32" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="333,1761,527,1805"/>
+<area shape="rect" id="node33" href="$da/d97/classG4VMarker.html#aa1686857d00cf4aab98d95f0a566abb3" title="G4VMarker::SetPosition" alt="" coords="341,1829,519,1857"/>
+<area shape="rect" id="node34" href="$da/d97/classG4VMarker.html#ade22d3f546a9af3f2c054c1f3d3b1dec" title="G4VMarker::SetScreenDiameter" alt="" coords="311,1881,549,1909"/>
+<area shape="rect" id="node35" href="$d8/dda/classG4Visible.html#a16b219694f07fee10478738dc3263236" title="G4Visible::SetVisAttributes" alt="" coords="329,1933,531,1961"/>
+<area shape="rect" id="node12" href="$d5/dd3/classG4GeometryTolerance.html#ab48f017ac932f3aeed61f7a2f9d1160d" title="G4GeometryTolerance\l::G4GeometryTolerance" alt="" coords="611,524,792,568"/>
+<area shape="rect" id="node13" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="611,592,792,620"/>
+<area shape="rect" id="node14" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="840,584,1027,628"/>
+</map>

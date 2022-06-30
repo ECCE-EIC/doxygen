@@ -1,0 +1,30 @@
+<map id="G4LogicalVolume::SetFieldManager" name="G4LogicalVolume::SetFieldManager">
+<area shape="rect" id="node2" href="$da/dc4/classG4LogicalVolume.html#a265618bbe56a14d9f9fa82b26c8deb75" title="G4LogicalVolume::AddDaughter" alt="" coords="253,245,491,273"/>
+<area shape="rect" id="node6" href="$df/d79/pymodG4geometry_8cc.html#a8f50c55525220dee9fdc54c521f1539e" title="export_G4LogicalVolume" alt="" coords="568,5,756,33"/>
+<area shape="rect" id="node13" href="$d6/df8/classG4VUserDetectorConstruction.html#ad05aba10b90f5caa961693a2a10c4839" title="G4VUserDetectorConstruction\l::CloneF" alt="" coords="260,319,484,363"/>
+<area shape="rect" id="node14" href="$df/d74/classPHG4OuterHcalDetector.html#a9f55e777e35248cd06ac0f94bc59b03a" title="PHG4OuterHcalDetector\l::ConstructHcalScintillator\lAssembly" alt="" coords="273,387,471,447"/>
+<area shape="rect" id="node15" href="$df/d74/classPHG4OuterHcalDetector.html#a7791a8bc9629b00efcd33f59f134e27a" title="PHG4OuterHcalDetector\l::ConstructOuterHcal" alt="" coords="569,485,755,529"/>
+<area shape="rect" id="node17" href="$d7/d68/classB5DetectorConstruction.html#a6b3e7b0d486ab002b43bc8c251564f56" title="B5DetectorConstruction\l::ConstructSDandField" alt="" coords="281,523,463,567"/>
+<area shape="rect" id="node18" href="$df/d6b/classF03DetectorConstruction.html#a90479f18660afbc6b0ecf9e5f466dca4" title="F03DetectorConstruction\l::ConstructSDandField" alt="" coords="277,591,467,635"/>
+<area shape="rect" id="node19" href="$da/dc4/classG4LogicalVolume.html#af9a8872c817a07ada5d08015d5a3e405" title="G4LogicalVolume::G4Logical\lVolume" alt="" coords="265,659,479,703"/>
+<area shape="rect" id="node20" href="$da/dc4/classG4LogicalVolume.html#ab944634e2e1eedfddd6855e74169b76d" title="G4LogicalVolume::Initialise\lWorker" alt="" coords="270,727,474,771"/>
+<area shape="rect" id="node25" href="$dd/d14/classG4WorkerThread.html#a6d3c23031827d571c330dd1b3ddcadfc" title="G4WorkerThread::UpdateGeometry\lAndPhysicsVectorFromMaster" alt="" coords="1311,781,1572,825"/>
+<area shape="rect" id="node29" href="$df/d95/classBeamLineMagnetDetector.html#a779743977fe9f5749678a32f6d21068d" title="Optional PostConstruction call after all geometry is constructed." alt="" coords="273,847,471,891"/>
+<area shape="rect" id="node3" href="$d6/d94/classG4ReplicatedSlice.html#a442147b654d5613caa1b31bdc26816af" title="G4ReplicatedSlice::\lCheckAndSetParameters" alt="" coords="568,349,756,393"/>
+<area shape="rect" id="node5" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="581,57,743,101"/>
+<area shape="rect" id="node8" href="$df/d63/classG4PVDivision.html#ae734670679b95fadf21074330905df41" title="G4PVDivision::G4PVDivision" alt="" coords="557,125,767,153"/>
+<area shape="rect" id="node9" href="$de/ded/classG4PVParameterised.html#a35fc71379f3cc461a7124bf2a3055866" title="G4PVParameterised::\lG4PVParameterised" alt="" coords="580,177,744,221"/>
+<area shape="rect" id="node10" href="$dd/d4f/classG4PVPlacement.html#a92c2be2ba466b89af8b79164f2c47696" title="G4PVPlacement::G4PVPlacement" alt="" coords="539,245,785,273"/>
+<area shape="rect" id="node11" href="$de/d93/classG4PVReplica.html#a369ab51b4338fb331dcc6c13a5a83df9" title="G4PVReplica::G4PVReplica" alt="" coords="562,297,762,325"/>
+<area shape="rect" id="node12" href="$dd/d2d/classG4VExternalPhysicalVolume.html#ab6486c683f5e070fc7b661d25bc8c010" title="G4VExternalPhysicalVolume\l::G4VExternalPhysicalVolume" alt="" coords="552,417,772,461"/>
+<area shape="rect" id="node4" href="$d6/d94/classG4ReplicatedSlice.html#aaebb12c090f4c7776ee71642d60d9d9d" title="G4ReplicatedSlice::\lG4ReplicatedSlice" alt="" coords="857,349,1009,393"/>
+<area shape="rect" id="node7" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="836,5,1031,33"/>
+<area shape="rect" id="node16" href="$df/d74/classPHG4OuterHcalDetector.html#ae159c3d2a294c687f9c0f4af6dbce281" title="construct" alt="" coords="841,485,1026,529"/>
+<area shape="rect" id="node21" href="$d6/d0e/classG4GeometryWorkspace.html#abdedf9314570446c175e282d36212182" title="G4GeometryWorkspace\l::CloneParameterisedSolids" alt="" coords="559,676,765,720"/>
+<area shape="rect" id="node22" href="$d6/d0e/classG4GeometryWorkspace.html#a557d8f37758884ff36131edddc6a3923" title="G4GeometryWorkspace\l::InitialisePhysicalVolumes" alt="" coords="833,697,1033,741"/>
+<area shape="rect" id="node28" href="$d6/d0e/classG4GeometryWorkspace.html#aa841a19cd8257e0a23516d1b7aa3399a" title="G4GeometryWorkspace\l::CloneReplicaSolid" alt="" coords="571,608,753,652"/>
+<area shape="rect" id="node23" href="$d6/d0e/classG4GeometryWorkspace.html#aa5dacb909c877c9687a9474cab142da2" title="G4GeometryWorkspace\l::InitialiseWorkspace" alt="" coords="1081,703,1263,747"/>
+<area shape="rect" id="node24" href="$d6/d0e/classG4GeometryWorkspace.html#a75771771494836c6c823bed5bad527ea" title="G4GeometryWorkspace\l::G4GeometryWorkspace" alt="" coords="1346,703,1537,747"/>
+<area shape="rect" id="node26" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="1620,781,1795,825"/>
+<area shape="rect" id="node27" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="1843,781,2031,825"/>
+</map>

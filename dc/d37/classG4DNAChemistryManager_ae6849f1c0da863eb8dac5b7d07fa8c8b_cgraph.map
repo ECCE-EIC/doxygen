@@ -1,0 +1,21 @@
+<map id="G4DNAChemistryManager::Notify" name="G4DNAChemistryManager::Notify">
+<area shape="rect" id="node2" href="$dc/d37/classG4DNAChemistryManager.html#a7acfd3485b343f5ce2b4a431a452107a" title="G4DNAChemistryManager\l::Clear" alt="" coords="259,141,458,185"/>
+<area shape="rect" id="node8" href="$dc/d37/classG4DNAChemistryManager.html#a2efe118eb7ab9e118e62c96b7143ade0" title="G4DNAChemistryManager\l::InitializeThreadSharedData" alt="" coords="252,321,465,365"/>
+<area shape="rect" id="node3" href="$db/d48/classG4VMoleculeCounter.html#a3f443799c8e3c7ead097441dc8479425" title="G4VMoleculeCounter\l::DeleteInstance" alt="" coords="546,5,710,49"/>
+<area shape="rect" id="node4" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a658840960b86daefea02fedf40f8f7ed" title="G4DNAMolecularReactionTable\l::DeleteInstance" alt="" coords="513,73,743,117"/>
+<area shape="rect" id="node5" href="$dc/da7/classG4MolecularConfiguration.html#a62a0ab98fcc0126edb6a0521648e7f5d" title="G4MolecularConfiguration\l::DeleteManager" alt="" coords="529,141,727,185"/>
+<area shape="rect" id="node7" href="$dc/d37/classG4DNAChemistryManager.html#aa98657b8dfdbc8fe1041ffc5e7f43538" title="G4DNAChemistryManager\l::Deregister" alt="" coords="529,209,727,253"/>
+<area shape="rect" id="node6" href="$d7/d27/classG4TemplateAutoLock.html#a1fc2695a8c9b5527f9f3c62b32a2c172" title="G4TemplateAutoLock\l::unlock" alt="" coords="844,141,1009,185"/>
+<area shape="rect" id="node9" href="$d7/d11/classG4MoleculeTable.html#a1dd83f28ba35f1c4e5c4e193bdf92756" title="G4MoleculeTable::Finalize" alt="" coords="531,277,725,305"/>
+<area shape="rect" id="node10" href="$d7/d11/classG4MoleculeTable.html#ad8ae0fc76226ca6c73493f80ed7fe114" title="G4MoleculeTable::Instance" alt="" coords="527,329,729,357"/>
+<area shape="rect" id="node12" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="517,381,739,409"/>
+<area shape="rect" id="node13" href="$d7/d11/classG4MoleculeTable.html#a9906c1bac5f7de4d2d48a782d5a38991" title="G4MoleculeTable::Prepare\lMolecularConfiguration" alt="" coords="530,433,726,477"/>
+<area shape="rect" id="node11" href="$d7/d11/classG4MoleculeTable.html#ac2b92ec375af865b8fd40efd9c96a898" title="G4MoleculeTable::G4Molecule\lTable" alt="" coords="815,321,1039,365"/>
+<area shape="rect" id="node14" href="$dc/da7/classG4MolecularConfiguration.html#ab6e6e1cf0016d2661d3437afd0afe2d5" title="G4MolecularConfiguration\l::GetOrCreateMolecularConfiguration" alt="" coords="791,433,1063,477"/>
+<area shape="rect" id="node15" href="$dd/d58/classG4MoleculeDefinition.html#ad1c498032c8bb678783169105b60c1dd" title="G4MoleculeDefinition\l::GetGroundStateElectronOccupancy" alt="" coords="1111,273,1381,317"/>
+<area shape="rect" id="node16" href="$dc/da7/classG4MolecularConfiguration.html#ad875e136b91e7efc5842efadc4f86895" title="G4MolecularConfiguration\l::GetMolecularConfiguration" alt="" coords="1141,365,1351,409"/>
+<area shape="rect" id="node17" href="$dc/da7/classG4MolecularConfiguration.html#a23951316248683e793d63d0163a9cfbb" title="G4MolecularConfiguration\l::SetUserID" alt="" coords="1147,433,1345,477"/>
+<area shape="rect" id="node18" href="$dd/d58/classG4MoleculeDefinition.html#a364858caf2d6fbedf6dae02b25176ecf" title="G4MoleculeDefinition\l::GetName" alt="" coords="1163,501,1329,545"/>
+<area shape="rect" id="node20" href="$dd/d58/classG4MoleculeDefinition.html#a37ff630d903c2010701b11d777e2f1eb" title="G4MoleculeDefinition\l::GetCharge" alt="" coords="1163,569,1329,613"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1429,501,1584,545"/>
+</map>

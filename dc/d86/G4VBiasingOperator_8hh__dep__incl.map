@@ -1,0 +1,38 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/biasing/management/include/G4VBiasingOperator.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/biasing/management/include/G4VBiasingOperator.hh">
+<area shape="rect" id="node2" href="$d2/d6d/GB01BOptrChangeCrossSection_8hh.html" title="Definition of the GB01BOptrChangeCrossSection class." alt="" coords="275,137,591,213"/>
+<area shape="rect" id="node5" href="$d0/db3/GB01BOptrMultiParticleChangeCrossSection_8hh.html" title="Definition of the GB01BOptrMultiParticleChangeCrossSection class." alt="" coords="615,129,853,221"/>
+<area shape="rect" id="node7" href="$d9/deb/GB02BOptrMultiParticleForceCollision_8hh.html" title="Definition of the GB02BOptrMultiParticleForceCollision class." alt="" coords="4212,129,4451,221"/>
+<area shape="rect" id="node10" href="$d4/df0/GB03BOptrGeometryBasedBiasing_8hh.html" title="Definition of the GB03BOptrGeometryBasedBiasing class." alt="" coords="1167,129,1432,221"/>
+<area shape="rect" id="node13" href="$df/dbc/GB04BOptrBremSplitting_8hh.html" title="Definition of the GB04BOptrBremSplitting class." alt="" coords="1734,137,2003,213"/>
+<area shape="rect" id="node16" href="$d0/d6a/GB05BOptrSplitAndKillByCrossSection_8hh.html" title="Definition of the GB05BOptrSplitAndKillByCrossSection class." alt="" coords="2299,129,2532,221"/>
+<area shape="rect" id="node19" href="$dd/da9/GB06BOptrSplitAndKillByImportance_8hh.html" title="Definition of the GB06BOptrSplitAndKillByImportance class." alt="" coords="2921,129,3155,221"/>
+<area shape="rect" id="node22" href="$d4/df3/GB07BOptrLeadingParticle_8hh.html" title="Definition of the GB07BOptrLeadingParticle class." alt="" coords="3440,137,3721,213"/>
+<area shape="rect" id="node25" href="$df/dec/BiasingOperator_8hh.html" title="Definition of the BiasingOperator class." alt="" coords="3746,137,3957,213"/>
+<area shape="rect" id="node28" href="$d1/d63/G4BOptrForceCollision_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/biasing/generic\l/include/G4BOptrForceCollision.hh" alt="" coords="4475,137,4729,213"/>
+<area shape="rect" id="node31" href="$dc/dc0/G4BiasingProcessInterface_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/biasing/generic\l/src/G4BiasingProcessInterface.cc" alt="" coords="4753,137,5003,213"/>
+<area shape="rect" id="node32" href="$d2/d2c/G4VBiasingOperator_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/biasing/management\l/src/G4VBiasingOperator.cc" alt="" coords="5027,137,5271,213"/>
+<area shape="rect" id="node33" href="$da/d8e/G4ChannelingOptrChangeCrossSection_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/solidstate\l/channeling/include/G4Channeling\lOptrChangeCrossSection.hh" alt="" coords="5295,129,5551,221"/>
+<area shape="rect" id="node36" href="$d6/dd3/G4ChannelingOptrMultiParticleChangeCrossSection_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/solidstate\l/channeling/include/G4Channeling\lOptrMultiParticleChangeCrossSection.hh" alt="" coords="5575,129,5869,221"/>
+<area shape="rect" id="node3" href="$d2/d63/GB01BOptrChangeCrossSection_8cc.html" title="Implementation of the GB01BOptrChangeCrossSection class." alt="" coords="5,277,289,353"/>
+<area shape="rect" id="node4" href="$d5/d7e/GB01BOptrMultiParticleChangeCrossSection_8cc.html" title="Implementation of the GB01BOptrMultiParticleChangeCrossSection class." alt="" coords="313,269,574,361"/>
+<area shape="rect" id="node6" href="$d9/d3f/GB01DetectorConstruction_8cc.html" title="Implementation of the GB01DetectorConstruction class." alt="" coords="598,277,849,353"/>
+<area shape="rect" id="node8" href="$d6/dc6/GB02BOptrMultiParticleForceCollision_8cc.html" title="Implementation of the GB02BOptrMultiParticleForceCollision class." alt="" coords="4483,269,4729,361"/>
+<area shape="rect" id="node9" href="$da/da2/GB02DetectorConstruction_8cc.html" title="Implementation of the GB02DetectorConstruction class." alt="" coords="4209,277,4459,353"/>
+<area shape="rect" id="node11" href="$d3/d93/GB03BOptrGeometryBasedBiasing_8cc.html" title="Implementation of the GB03BOptrGeometryBasedBiasing class." alt="" coords="1147,277,1451,353"/>
+<area shape="rect" id="node12" href="$db/dd9/GB03DetectorConstruction_8cc.html" title="Implementation of the GB03DetectorConstruction class." alt="" coords="873,277,1123,353"/>
+<area shape="rect" id="node14" href="$d8/de1/GB04BOptrBremSplitting_8cc.html" title="Implementation of the GB04BOptrBremSplitting class." alt="" coords="1750,277,1987,353"/>
+<area shape="rect" id="node15" href="$d2/dbd/GB04DetectorConstruction_8cc.html" title="Implementation of the GB04DetectorConstruction class." alt="" coords="1475,277,1726,353"/>
+<area shape="rect" id="node17" href="$db/ddd/GB05BOptrSplitAndKillByCrossSection_8cc.html" title="Implementation of the GB05BOptrSplitAndKillByCrossSection class." alt="" coords="2286,269,2545,361"/>
+<area shape="rect" id="node18" href="$d3/de9/GB05DetectorConstruction_8cc.html" title="Implementation of the GB05DetectorConstruction class." alt="" coords="2011,277,2262,353"/>
+<area shape="rect" id="node20" href="$d6/d92/GB06BOptrSplitAndKillByImportance_8cc.html" title="Implementation of the GB06BOptrSplitAndKillByImportance class." alt="" coords="2569,277,2886,353"/>
+<area shape="rect" id="node21" href="$de/dcb/GB06ParallelWorldForSlices_8cc.html" title="Implementation of the GB06ParallelWorldForSlices class." alt="" coords="2910,277,3166,353"/>
+<area shape="rect" id="node23" href="$d7/d3c/GB07BOptrLeadingParticle_8cc.html" title="Implementation of the GB07BOptrLeadingParticle class." alt="" coords="3191,277,3440,353"/>
+<area shape="rect" id="node24" href="$d4/d83/GB07DetectorConstruction_8cc.html" title="Implementation of the GB07DetectorConstruction class." alt="" coords="3465,277,3715,353"/>
+<area shape="rect" id="node26" href="$dc/db3/BiasingOperator_8cc.html" title="Implementation of the BiasingOperator class." alt="" coords="3739,277,3947,353"/>
+<area shape="rect" id="node27" href="$da/ddd/examples_2extended_2hadronic_2Hadr08_2src_2DetectorConstruction_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/extended/hadronic/Hadr08\l/src/DetectorConstruction.cc" alt="" coords="3971,277,4185,353"/>
+<area shape="rect" id="node29" href="$d0/df7/G4BOptrForceCollision_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/biasing/generic\l/src/G4BOptrForceCollision.cc" alt="" coords="4753,277,4974,353"/>
+<area shape="rect" id="node30" href="$d5/d2b/G4BOptrForceCollisionTrackData_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/biasing/generic\l/src/G4BOptrForceCollisionTrackData.cc" alt="" coords="4998,277,5286,353"/>
+<area shape="rect" id="node34" href="$dd/d4e/G4ChannelingOptrChangeCrossSection_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/solidstate\l/channeling/src/G4Channeling\lOptrChangeCrossSection.cc" alt="" coords="5310,269,5537,361"/>
+<area shape="rect" id="node35" href="$d0/db0/G4ChannelingOptrMultiParticleChangeCrossSection_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/solidstate\l/channeling/src/G4Channeling\lOptrMultiParticleChangeCrossSection.cc" alt="" coords="5561,269,5851,361"/>
+<area shape="rect" id="node37" href="$d4/d95/examples_2extended_2exoticphysics_2channeling_2src_2DetectorConstruction_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/extended/exoticphysics\l/channeling/src/DetectorConstruction.cc" alt="" coords="5875,277,6169,353"/>
+</map>

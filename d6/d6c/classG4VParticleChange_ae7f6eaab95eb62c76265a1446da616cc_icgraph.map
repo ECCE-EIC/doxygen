@@ -1,0 +1,12 @@
+<map id="G4VParticleChange::InitializeSecondaries" name="G4VParticleChange::InitializeSecondaries">
+<area shape="rect" id="node2" href="$dd/dc0/classG4ParticleChangeForLoss.html#a41cf0da25bd09308ef959cd75c36c596" title="G4ParticleChangeForLoss\l::InitializeForAlongStep" alt="" coords="226,73,419,117"/>
+<area shape="rect" id="node5" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0d95ec02f8cc182d7dd18e64b1e687de" title="G4ParticleChangeForGamma\l::InitializeForPostStep" alt="" coords="215,201,431,245"/>
+<area shape="rect" id="node10" href="$dd/dc0/classG4ParticleChangeForLoss.html#a02d565dd301eb31f49342910247a0e2e" title="G4ParticleChangeForLoss\l::InitializeForPostStep" alt="" coords="226,291,419,335"/>
+<area shape="rect" id="node3" href="$d8/d35/classG4NuclearStopping.html#ac6edf51d2d73428309ceeb4b2752927a" title="G4NuclearStopping::\lAlongStepDoIt" alt="" coords="507,5,669,49"/>
+<area shape="rect" id="node4" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="499,73,677,117"/>
+<area shape="rect" id="node6" href="$dc/d88/classG4eplusAnnihilation.html#adae19cc1e541200a99c458dd715f83a8" title="G4eplusAnnihilation\l::AtRestDoIt" alt="" coords="509,141,667,185"/>
+<area shape="rect" id="node7" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="992,232,1191,276"/>
+<area shape="rect" id="node8" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="479,261,697,289"/>
+<area shape="rect" id="node9" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="745,261,944,305"/>
+<area shape="rect" id="node11" href="$da/d80/classG4VEnergyLossProcess.html#afd83c7b4ebe650589101841e43fcdc6a" title="G4VEnergyLossProcess\l::PostStepDoIt" alt="" coords="499,313,677,357"/>
+</map>

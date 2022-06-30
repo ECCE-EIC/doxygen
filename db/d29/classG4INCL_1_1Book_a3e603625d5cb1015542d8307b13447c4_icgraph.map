@@ -1,0 +1,29 @@
+<map id="G4INCL::Book::getAcceptedCollisions" name="G4INCL::Book::getAcceptedCollisions">
+<area shape="rect" id="node2" href="$d7/db0/classG4INCL_1_1Nucleus.html#a194bb6f2e56053abcd3978457e84f684" title="G4INCL::Nucleus::fillEventInfo" alt="" coords="287,73,510,101"/>
+<area shape="rect" id="node6" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="260,261,537,305"/>
+<area shape="rect" id="node15" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a70ad321a32fd3b9f3ef76d0f54691a25" title="G4INCL::BinaryCollisionAvatar\l::getChannel" alt="" coords="286,125,511,169"/>
+<area shape="rect" id="node16" href="$d7/dec/classG4INCL_1_1PauliStrictStandard.html#afe425f755b8e0173c4a45d8229ff45e8" title="G4INCL::PauliStrictStandard\l::isBlocked" alt="" coords="295,193,503,237"/>
+<area shape="rect" id="node17" href="$d7/db0/classG4INCL_1_1Nucleus.html#a0af2a8745f9259f52a241255e40a64c1" title="Is the event transparent?" alt="" coords="302,5,495,49"/>
+<area shape="rect" id="node18" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a7a875ce633f6452bf1948ed61c903ce3" title="G4INCL::BinaryCollisionAvatar\l::postInteraction" alt="" coords="1156,375,1381,419"/>
+<area shape="rect" id="node19" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ae6430f84a2a5f3a5780957b818ac7b3e" title="true if the given avatar should use local energy" alt="" coords="300,473,497,517"/>
+<area shape="rect" id="node3" href="$d6/d0a/classG4INCL_1_1INCL.html#a9e2cd5ca68f6ee1680ce9b306d2c01a3" title="Make a compound nucleus." alt="" coords="597,65,827,109"/>
+<area shape="rect" id="node4" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="895,73,1100,101"/>
+<area shape="rect" id="node5" href="$d6/d0a/classG4INCL_1_1INCL.html#a7db10f7a8cd5c5173448a48cc7a3cab7" title="G4INCL::INCL::processEvent" alt="" coords="1163,73,1374,101"/>
+<area shape="rect" id="node7" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="601,193,823,237"/>
+<area shape="rect" id="node12" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="585,261,839,305"/>
+<area shape="rect" id="node8" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a797718f0232dc35b3a5c325da15a81f6" title="(Re)Generate all possible avatars." alt="" coords="887,193,1108,237"/>
+<area shape="rect" id="node9" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#abd1c8a055a0c106754b21f0393e20a58" title="G4INCL::StandardPropagation\lModel::shootComposite" alt="" coords="1158,125,1379,169"/>
+<area shape="rect" id="node11" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="1158,193,1379,237"/>
+<area shape="rect" id="node10" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a7b190dd2a4c2a53d04ec6b9b0841c0f7" title="G4INCL::StandardPropagation\lModel::shoot" alt="" coords="1429,160,1651,204"/>
+<area shape="rect" id="node13" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a612af7900a1f5c727af8ab1b3910eafa" title="G4INCL::StandardPropagation\lModel::updateAvatars" alt="" coords="887,261,1108,305"/>
+<area shape="rect" id="node14" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a137dff7f40f49603b311b9b219eeda35" title="G4INCL::StandardPropagation\lModel::propagate" alt="" coords="1158,261,1379,305"/>
+<area shape="rect" id="node20" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#a6d1151348ef6128ccc9916d17e0991d5" title="Enforce energy conservation." alt="" coords="603,549,821,593"/>
+<area shape="rect" id="node23" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af59776dad28c0c7f17415dd5b6e9e2c8" title="Apply local&#45;energy transformation, if appropriate." alt="" coords="608,617,816,661"/>
+<area shape="rect" id="node27" href="$de/d20/classG4INCL_1_1InteractionAvatar_1_1ViolationEMomentumFunctor.html#a6b880223a021c60fddbeb01f4cdaa023" title="Scale the momenta of the modified and created particles." alt="" coords="599,381,825,441"/>
+<area shape="rect" id="node28" href="$dd/dfe/classG4INCL_1_1InteractionAvatar_1_1ViolationEEnergyFunctor.html#a2f9284a89e8fb9fd4fae79072e0709d1" title="Set the energy of the particle." alt="" coords="613,465,811,525"/>
+<area shape="rect" id="node21" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#a87418f6177e792cb84b66b8075c2b9da" title="G4INCL::DecayAvatar\l::postInteraction" alt="" coords="1185,504,1352,548"/>
+<area shape="rect" id="node22" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ac8a019a080acc89c5c2ac6dbb339a750" title="G4INCL::InteractionAvatar\l::postInteraction" alt="" coords="899,489,1096,533"/>
+<area shape="rect" id="node24" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="899,617,1096,661"/>
+<area shape="rect" id="node25" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#adbdf2218ffff261051eaaa09026bb583" title="G4INCL::DecayAvatar\l::preInteraction" alt="" coords="1185,601,1352,645"/>
+<area shape="rect" id="node26" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="1156,669,1381,713"/>
+</map>

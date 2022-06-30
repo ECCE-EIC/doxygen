@@ -1,0 +1,26 @@
+var classG4WeightWindowStore =
+[
+    [ "G4WeightWindowStore", "dd/d33/classG4WeightWindowStore.html#abda725855de262dfaf6ca383d84647b5", null ],
+    [ "G4WeightWindowStore", "dd/d33/classG4WeightWindowStore.html#a5a0f1b1d8c94440e8518d783ea76a1fd", null ],
+    [ "~G4WeightWindowStore", "dd/d33/classG4WeightWindowStore.html#ada909b35c0ba18103cdf57b3d33d8f47", null ],
+    [ "AddLowerWeights", "dd/d33/classG4WeightWindowStore.html#a21c74ac56f4208db52771d700c433656", null ],
+    [ "AddUpperEboundLowerWeightPairs", "dd/d33/classG4WeightWindowStore.html#afa00498699d5814cc70517f853f60c6e", null ],
+    [ "Clear", "dd/d33/classG4WeightWindowStore.html#ae7830ceeb7fec1df75e5360daa7a8340", null ],
+    [ "Error", "dd/d33/classG4WeightWindowStore.html#ab4dab53692efe35fd374f74c0181f861", null ],
+    [ "GetInstance", "dd/d33/classG4WeightWindowStore.html#a9acbbeead4f7182ed7fcfbaa31bf5d5e", null ],
+    [ "GetInstance", "dd/d33/classG4WeightWindowStore.html#a6a5d0349cb8114c8af9dc0e594f9c566", null ],
+    [ "GetLowerWeight", "dd/d33/classG4WeightWindowStore.html#a2efe40653af4103130369ffa2a3abb75", null ],
+    [ "GetParallelWorldVolumePointer", "dd/d33/classG4WeightWindowStore.html#aba2fb8b8c431d22370b6367c4ae546df", null ],
+    [ "GetWorldVolume", "dd/d33/classG4WeightWindowStore.html#ab8847d705b4143cd7cfcf4721960a0b2", null ],
+    [ "IsInWorld", "dd/d33/classG4WeightWindowStore.html#a7b8e902c1492d4f3c05ce8a136350803", null ],
+    [ "IsKnown", "dd/d33/classG4WeightWindowStore.html#afeb5774dbfc86d272b8d84b84af05884", null ],
+    [ "SetGeneralUpperEnergyBounds", "dd/d33/classG4WeightWindowStore.html#a62d6294f532c4e37e1cd99bde37e01c7", null ],
+    [ "SetInternalIterator", "dd/d33/classG4WeightWindowStore.html#a87da67b90034fa8143f9d8ce02e4012d", null ],
+    [ "SetParallelWorldVolume", "dd/d33/classG4WeightWindowStore.html#a4913fb2dc771cb25742eb19325d67f3d", null ],
+    [ "SetWorldVolume", "dd/d33/classG4WeightWindowStore.html#a716b96e814e33287a8bdfd4132ebd6db", null ],
+    [ "fCellToUpEnBoundLoWePairsMap", "dd/d33/classG4WeightWindowStore.html#a209b170c757dde8a86329b036d5b064a", null ],
+    [ "fCurrentIterator", "dd/d33/classG4WeightWindowStore.html#a89f20123ad817ae89c3ec01a5fc03fc3", null ],
+    [ "fGeneralUpperEnergyBounds", "dd/d33/classG4WeightWindowStore.html#a4f36baf305d89d38d17ad19440ae4598", null ],
+    [ "fInstance", "dd/d33/classG4WeightWindowStore.html#a91bd7e5d22cd2816558a09ffbe0018b4", null ],
+    [ "fWorldVolume", "dd/d33/classG4WeightWindowStore.html#a9ec6062c3b34dfbfafe7d418c804ba90", null ]
+];

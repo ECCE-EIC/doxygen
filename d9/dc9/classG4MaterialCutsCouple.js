@@ -1,0 +1,25 @@
+var classG4MaterialCutsCouple =
+[
+    [ "G4MaterialCutsCouple", "d9/dc9/classG4MaterialCutsCouple.html#a7ebbc6d7cc232d66ec5d7b38ff57378b", null ],
+    [ "G4MaterialCutsCouple", "d9/dc9/classG4MaterialCutsCouple.html#a6d4c7d9d6febfc7f1db418e22008329c", null ],
+    [ "G4MaterialCutsCouple", "d9/dc9/classG4MaterialCutsCouple.html#a28f9c9493e848d690140eedca1988ce7", null ],
+    [ "~G4MaterialCutsCouple", "d9/dc9/classG4MaterialCutsCouple.html#a44e99282e83572ac3c2c4dd80a2ab085", null ],
+    [ "GetIndex", "d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431", null ],
+    [ "GetMaterial", "d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56", null ],
+    [ "GetProductionCuts", "d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8", null ],
+    [ "IsRecalcNeeded", "d9/dc9/classG4MaterialCutsCouple.html#af304525e758bfb0a071f771f5343f281", null ],
+    [ "IsUsed", "d9/dc9/classG4MaterialCutsCouple.html#a25120fa130f3ce41a1a1c06e14e55076", null ],
+    [ "operator!=", "d9/dc9/classG4MaterialCutsCouple.html#a5fc3380bc5532aaeb39781b30e15173c", null ],
+    [ "operator=", "d9/dc9/classG4MaterialCutsCouple.html#a3371e9b683e803d64ba4ff78f64f5a37", null ],
+    [ "operator==", "d9/dc9/classG4MaterialCutsCouple.html#accd90b238b629efbb00c42cbd8d83a8e", null ],
+    [ "PhysicsTableUpdated", "d9/dc9/classG4MaterialCutsCouple.html#a110ccdef1b2cc58bc9e79300f9336ea1", null ],
+    [ "SetIndex", "d9/dc9/classG4MaterialCutsCouple.html#a2225ac4ab1b44311bd580b92f46efbe3", null ],
+    [ "SetMaterial", "d9/dc9/classG4MaterialCutsCouple.html#ace117c586a2753282cd2867ca17c75bc", null ],
+    [ "SetProductionCuts", "d9/dc9/classG4MaterialCutsCouple.html#a2754e01e484adf36eba640057ccea7b4", null ],
+    [ "SetUseFlag", "d9/dc9/classG4MaterialCutsCouple.html#a5314d9b7aae390402bff4a7f4e207b7a", null ],
+    [ "fCuts", "d9/dc9/classG4MaterialCutsCouple.html#a358325a9241c78d9907eab44879231f5", null ],
+    [ "fMaterial", "d9/dc9/classG4MaterialCutsCouple.html#a8c24616b2ea31dacd48d593253c17f9e", null ],
+    [ "indexNumber", "d9/dc9/classG4MaterialCutsCouple.html#a73dc70b6bd5391135619d9a3be0e3572", null ],
+    [ "isMaterialModified", "d9/dc9/classG4MaterialCutsCouple.html#a28ced027e35108184a97b45e2037518b", null ],
+    [ "isUsedInGeometry", "d9/dc9/classG4MaterialCutsCouple.html#af9b6b252280cf318e34b10380e982ffe", null ]
+];

@@ -1,0 +1,51 @@
+<map id="G4Track::GetCreatorProcess" name="G4Track::GetCreatorProcess">
+<area shape="rect" id="node2" href="$d7/d08/classXrayFluoAnalysisManager.html#a0943b2f7b2d717bad3d1822ff0ad1599" title="XrayFluoAnalysisManager\l::analyseStepping" alt="" coords="295,5,491,49"/>
+<area shape="rect" id="node4" href="$d7/d34/classG4EicDircStackingAction.html#a0d30ffa3822f1e80c2296e2e5fbf31b3" title="stacking action. This gets called by the stacking action when a new track is generated" alt="" coords="299,73,486,117"/>
+<area shape="rect" id="node5" href="$d7/d54/classLXeStackingAction.html#a760111f9558a97dd7a8f40f1a8f02188" title="LXeStackingAction::\lClassifyNewTrack" alt="" coords="315,141,470,185"/>
+<area shape="rect" id="node6" href="$de/dbe/classOpNoviceStackingAction.html#a4892eae223e9598a5d6c4f0f3e1c89d8" title="OpNoviceStackingAction\l::ClassifyNewTrack" alt="" coords="299,209,486,253"/>
+<area shape="rect" id="node7" href="$d2/dc5/classG4StackChecker.html#a363dc0ecd4ea556ba25470651eb25ff0" title="G4StackChecker::Classify\lNewTrack" alt="" coords="296,277,489,321"/>
+<area shape="rect" id="node8" href="$d4/d9a/classCCaloSD.html#afa2151221ca85da2034eba8df21a5589" title="CCaloSD::createNewHit" alt="" coords="303,345,483,373"/>
+<area shape="rect" id="node10" href="$da/dda/classG4ExceptionHandler.html#a3180168492e32d3096770ee93634e0e4" title="G4ExceptionHandler\l::DumpTrackInfo" alt="" coords="312,397,473,441"/>
+<area shape="rect" id="node12" href="$d3/d25/pymodG4track_8cc.html#a596da643eecda64f251efa6e9da489d7" title="export_G4Track" alt="" coords="329,465,456,493"/>
+<area shape="rect" id="node14" href="$dd/d1b/classG4RichTrajectory.html#a8f78eeb907119fc028c9389abab93da6" title="G4RichTrajectory::G4Rich\lTrajectory" alt="" coords="297,517,489,561"/>
+<area shape="rect" id="node15" href="$d0/dd0/classG4SteppingManager.html#a5b10ca0aeb0d703e9fe5ee37bf64a5e5" title="G4SteppingManager::\lInvokeAlongStepDoItProcs" alt="" coords="293,585,492,629"/>
+<area shape="rect" id="node23" href="$d0/dd0/classG4SteppingManager.html#af6989a27878155ca55469248dafdfb35" title="G4SteppingManager::\lInvokeAtRestDoItProcs" alt="" coords="307,653,479,697"/>
+<area shape="rect" id="node24" href="$d0/dd0/classG4SteppingManager.html#abfcc7e42d1d39f0644f4c2a87251e777" title="G4SteppingManager::\lInvokePSDIP" alt="" coords="309,721,477,765"/>
+<area shape="rect" id="node26" href="$d9/d1d/classLXeTrackingAction.html#a46cde2af76ac77bc6fb63c7317f29b66" title="LXeTrackingAction::\lPostUserTrackingAction" alt="" coords="303,789,482,833"/>
+<area shape="rect" id="node27" href="$d8/df7/classCexmcTrackingAction.html#a1e3b5be505329221c14e3f05207f80a3" title="CexmcTrackingAction\l::PreUserTrackingAction" alt="" coords="303,857,483,901"/>
+<area shape="rect" id="node28" href="$dd/d3f/classSTCyclotronSensitiveTarget.html#a6a4331f54c005c3376d217e5e9298281" title="STCyclotronSensitiveTarget\l::ProcessHits" alt="" coords="290,925,495,969"/>
+<area shape="rect" id="node29" href="$d1/d93/classG4StackManager.html#aa0c4a1068b643aa3304cad7554809650" title="G4StackManager::PushOneTrack" alt="" coords="820,900,1061,928"/>
+<area shape="rect" id="node32" href="$d4/dcd/classHistoManager.html#ad55989c76ce74ddd4753237bf659498f" title="HistoManager::ScoreNewTrack" alt="" coords="279,1045,506,1073"/>
+<area shape="rect" id="node33" href="$d3/d62/classEICG4dRICHSteppingAction.html#a7538eca48c11b6690e3cc4cc1f676638" title="stepping action" alt="" coords="290,1097,495,1141"/>
+<area shape="rect" id="node34" href="$da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a925607fe783017e6dc0d77317666eb52" title="stepping action" alt="" coords="263,1165,523,1209"/>
+<area shape="rect" id="node35" href="$da/d58/classG4SteppingVerbose.html#ae1da98b33e6ccd4a0a1b306b7f8915c3" title="G4SteppingVerbose::\lVerboseTrack" alt="" coords="311,1471,475,1515"/>
+<area shape="rect" id="node3" href="$d2/d12/classXrayFluoSteppingAction.html#aaecf2319a206c8ace8adce64dea5cfce" title="XrayFluoSteppingAction\l::UserSteppingAction" alt="" coords="580,5,763,49"/>
+<area shape="rect" id="node9" href="$d4/d9a/classCCaloSD.html#a1ebbb2a8fe9b9828b9bc2df3cb71cf34" title="CCaloSD::ProcessHits" alt="" coords="589,345,754,373"/>
+<area shape="rect" id="node11" href="$da/dda/classG4ExceptionHandler.html#abf407f52dde1e6bb6e467863084d3b09" title="G4ExceptionHandler\l::Notify" alt="" coords="591,397,752,441"/>
+<area shape="rect" id="node13" href="$d3/d25/pymodG4track_8cc.html#a37a59382e63c64e6f6bbcafad4aa7b55" title="BOOST_PYTHON_MODULE" alt="" coords="574,465,769,493"/>
+<area shape="rect" id="node16" href="$d0/dd0/classG4SteppingManager.html#a36cd94a9ce7a22568e78d0cd21c2d082" title="G4SteppingManager::\lStepping" alt="" coords="857,685,1025,729"/>
+<area shape="rect" id="node17" href="$d7/de8/classG4ErrorPropagator.html#ab12283985ad650af4b65ab9500c79c08" title="G4ErrorPropagator::\lMakeOneStep" alt="" coords="1145,685,1300,729"/>
+<area shape="rect" id="node20" href="$dd/d71/classG4TrackingManager.html#a978b9d1ce2cc1279445b71891f35d6bc" title="G4TrackingManager::\lProcessOneTrack" alt="" coords="1141,761,1305,805"/>
+<area shape="rect" id="node18" href="$d7/de8/classG4ErrorPropagator.html#a49889dad1ec230c8c161792892c1f6b3" title="G4ErrorPropagator::\lMakeSteps" alt="" coords="1425,676,1580,720"/>
+<area shape="rect" id="node19" href="$d7/de8/classG4ErrorPropagator.html#a5e25ebdd7ad89c111a4a3cfadc313478" title="G4ErrorPropagator::\lPropagateOneStep" alt="" coords="1425,744,1580,788"/>
+<area shape="rect" id="node21" href="$da/d44/classG4EventManager.html#aa9b657900a128fa1fe848ceb188c2c20" title="G4EventManager::DoProcessing" alt="" coords="1384,844,1621,872"/>
+<area shape="rect" id="node22" href="$da/d44/classG4EventManager.html#acfa3338268ec4403e5b9126c7a39bf8d" title="G4EventManager::ProcessOne\lEvent" alt="" coords="1669,836,1895,880"/>
+<area shape="rect" id="node25" href="$d0/dd0/classG4SteppingManager.html#a037d15d65dee1b38c807bfe7b797334f" title="G4SteppingManager::\lInvokePostStepDoItProcs" alt="" coords="577,717,765,761"/>
+<area shape="rect" id="node30" href="$da/d44/classG4EventManager.html#ac24f7e367d6fe17f8a021c6c5a3b6465" title="G4EventManager::StackTracks" alt="" coords="1109,900,1336,928"/>
+<area shape="rect" id="node31" href="$da/d44/classG4EventManager.html#ad62722cf2906fa7246bf05577941aac9" title="G4EventManager::ProcessOne\lEvent" alt="" coords="1390,896,1615,940"/>
+<area shape="rect" id="node36" href="$d4/d9a/classF04SteppingVerbose.html#ad4d317fced4f9fd7a4e7c223bb320776" title="F04SteppingVerbose\l::StepInfo" alt="" coords="591,1045,752,1089"/>
+<area shape="rect" id="node37" href="$d3/d34/classExN04SteppingVerbose.html#aa4731ccbd1a364e72e4147bfbe5a5430" title="ExN04SteppingVerbose\l::StepInfo" alt="" coords="581,1113,761,1157"/>
+<area shape="rect" id="node38" href="$df/d69/classSteppingVerbose.html#a42a2021f6dad5df79355eb77873c73d9" title="SteppingVerbose::StepInfo" alt="" coords="571,1181,772,1209"/>
+<area shape="rect" id="node39" href="$dc/d2b/classeRositaSteppingVerbose.html#a639b817e64aebebf64564ca9aa1709fb" title="eRositaSteppingVerbose\l::StepInfo" alt="" coords="579,1233,764,1277"/>
+<area shape="rect" id="node40" href="$db/d18/classFCALSteppingVerbose.html#afa93b456a335410f657e47091e8ffbc5" title="FCALSteppingVerbose\l::StepInfo" alt="" coords="587,1301,756,1345"/>
+<area shape="rect" id="node41" href="$d2/d6e/classXrayFluoSteppingVerbose.html#a08aec80c6bae6290390a28b70d5eff13" title="XrayFluoSteppingVerbose\l::StepInfo" alt="" coords="574,1369,769,1413"/>
+<area shape="rect" id="node42" href="$da/da1/classPurgMagSteppingVerbose.html#ae685564844633fa37692b453998a085e" title="PurgMagSteppingVerbose\l::StepInfo" alt="" coords="574,1437,769,1481"/>
+<area shape="rect" id="node43" href="$d1/d59/classExN02SteppingVerbose.html#a36a54bf5ccb4373735ed1123f67b4e76" title="ExN02SteppingVerbose\l::StepInfo" alt="" coords="581,1505,761,1549"/>
+<area shape="rect" id="node44" href="$d1/da5/classRE05SteppingVerbose.html#a86c1c5bbdbce515943d8deb57d182d10" title="RE05SteppingVerbose\l::StepInfo" alt="" coords="586,1573,757,1617"/>
+<area shape="rect" id="node45" href="$d0/d75/classExP01SteppingVerbose.html#a981b9320c2e651b845e53ba3adf0b794" title="ExP01SteppingVerbose\l::StepInfo" alt="" coords="582,1641,761,1685"/>
+<area shape="rect" id="node46" href="$dc/d70/classF05SteppingVerbose.html#ac238b4289ca9057d7a44643a9124c3e9" title="F05SteppingVerbose\l::StepInfo" alt="" coords="591,1709,752,1753"/>
+<area shape="rect" id="node47" href="$da/d58/classG4SteppingVerbose.html#ad2a352db2994220ad63fb1839fadd0d7" title="G4SteppingVerbose::\lStepInfo" alt="" coords="589,1777,753,1821"/>
+<area shape="rect" id="node48" href="$db/d05/classF03SteppingVerbose.html#abf5d95c6c3e7004424fbcc92cbfc9913" title="F03SteppingVerbose\l::StepInfo" alt="" coords="591,1845,752,1889"/>
+<area shape="rect" id="node49" href="$db/d8c/classF02SteppingVerbose.html#a4355f7f91ce3839c6741477f9f0689d7" title="F02SteppingVerbose\l::StepInfo" alt="" coords="591,1913,752,1957"/>
+<area shape="rect" id="node50" href="$da/dfc/classF01SteppingVerbose.html#acba03769df15b4a92cdc00384643d5a0" title="F01SteppingVerbose\l::StepInfo" alt="" coords="591,1981,752,2025"/>
+</map>

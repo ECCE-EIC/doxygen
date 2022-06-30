@@ -1,0 +1,25 @@
+var classG4HadronPhysicsFTFP__BERT =
+[
+    [ "G4HadronPhysicsFTFP_BERT", "da/df3/classG4HadronPhysicsFTFP__BERT.html#af16a808b9b345ab293fa43a376fb63f1", null ],
+    [ "G4HadronPhysicsFTFP_BERT", "da/df3/classG4HadronPhysicsFTFP__BERT.html#ad617d9425f9fbc03a81759a1392367c9", null ],
+    [ "~G4HadronPhysicsFTFP_BERT", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a81ec25dfbddd2150f4719532d1d134e6", null ],
+    [ "ConstructParticle", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a1f83006317e95f1cdec7417f4c2bd8f6", null ],
+    [ "ConstructProcess", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a1f114fffab4a2533659f1f986a4d262a", null ],
+    [ "CreateModels", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a64ab62b50f6c30ff8951a411aeadeb90", null ],
+    [ "DumpBanner", "da/df3/classG4HadronPhysicsFTFP__BERT.html#affa87bf2275548bce4ff92051a481eb8", null ],
+    [ "ExtraConfiguration", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a8557e7d52e4abf94709127b064fc9cc9", null ],
+    [ "Kaon", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a305441d001224ad0c251f0d6afb9a2c7", null ],
+    [ "Neutron", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a2579028d2ae44454b43bbec0ac55d07c", null ],
+    [ "Others", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a9865c5bf56401d814ecd9d4b6c717083", null ],
+    [ "Pion", "da/df3/classG4HadronPhysicsFTFP__BERT.html#ac548af6c6f87ce11d2cba298ffe30c06", null ],
+    [ "Proton", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a06a4331ef951e908df92c6ffa0b4c146", null ],
+    [ "maxBERT_kaon", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a5bbdc9ebb195715b26ce8b493d07133f", null ],
+    [ "maxBERT_neutron", "da/df3/classG4HadronPhysicsFTFP__BERT.html#ad37eb94a32d8f163b479a8766b1733d0", null ],
+    [ "maxBERT_pion", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a2c17d608c47ceb86618c187a696fe64d", null ],
+    [ "maxBERT_proton", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a0dbe27fd21a052660f50cf6cefde2667", null ],
+    [ "minFTFP_kaon", "da/df3/classG4HadronPhysicsFTFP__BERT.html#abbdb2d6138d3d3db9dd7a8f5f357575b", null ],
+    [ "minFTFP_neutron", "da/df3/classG4HadronPhysicsFTFP__BERT.html#af5bff98d33317ac1934acef54f21deda", null ],
+    [ "minFTFP_pion", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a283a70cd69bf125566bbf96dad060dbd", null ],
+    [ "minFTFP_proton", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a25283ddfe159433fbce96b4ac1e15ecc", null ],
+    [ "QuasiElastic", "da/df3/classG4HadronPhysicsFTFP__BERT.html#a607fd8ea8794e87a8a9245715c8f3aa1", null ]
+];

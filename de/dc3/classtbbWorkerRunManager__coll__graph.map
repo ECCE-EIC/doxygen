@@ -1,0 +1,47 @@
+<map id="tbbWorkerRunManager" name="tbbWorkerRunManager">
+<area shape="rect" id="node2" href="$d3/db3/classG4WorkerRunManager.html" title="G4WorkerRunManager" alt="" coords="181,1275,356,1303"/>
+<area shape="rect" id="node3" href="$d4/daa/classG4RunManager.html" title="G4RunManager" alt="" coords="2689,1125,2816,1153"/>
+<area shape="rect" id="node25" href="$d7/dcf/classG4RunMessenger.html" title="G4RunMessenger" alt="" coords="1128,1275,1268,1303"/>
+<area shape="rect" id="node4" href="$d5/de2/classG4Event.html" title="G4Event" alt="" coords="1729,711,1809,739"/>
+<area shape="rect" id="node32" href="$da/d44/classG4EventManager.html" title="G4EventManager" alt="" coords="3882,827,4021,855"/>
+<area shape="rect" id="node5" href="$d7/db4/classG4HCofThisEvent.html" title="G4HCofThisEvent" alt="" coords="1444,577,1584,605"/>
+<area shape="rect" id="node6" href="$d2/dcc/classG4TrajectoryContainer.html" title="G4TrajectoryContainer" alt="" coords="2527,577,2701,605"/>
+<area shape="rect" id="node7" href="$de/dbd/classG4PrimaryVertex.html" title="G4PrimaryVertex" alt="" coords="1181,577,1317,605"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="1982,83,2062,111"/>
+<area shape="rect" id="node17" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="3205,283,3359,311"/>
+<area shape="rect" id="node20" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="3351,175,3490,203"/>
+<area shape="rect" id="node26" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="361,1125,491,1153"/>
+<area shape="rect" id="node28" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="869,827,991,855"/>
+<area shape="rect" id="node30" href="$d2/dc8/classG4MaterialScanner.html" title="G4MaterialScanner" alt="" coords="4619,1125,4771,1153"/>
+<area shape="rect" id="node38" href="$d5/d8b/classG4VUserPhysicsList.html" title="G4VUserPhysicsList" alt="" coords="2363,283,2518,311"/>
+<area shape="rect" id="node41" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="2034,175,2159,203"/>
+<area shape="rect" id="node42" href="$d2/d10/classG4Run.html" title="G4Run" alt="" coords="1919,943,1986,971"/>
+<area shape="rect" id="node47" href="$de/d51/classG4RunManagerKernel.html" title="G4RunManagerKernel" alt="" coords="2386,943,2554,971"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="1977,5,2067,33"/>
+<area shape="rect" id="node10" href="$dc/dc6/classG4VUserEventInformation.html" title="G4VUserEventInformation" alt="" coords="1659,577,1857,605"/>
+<area shape="rect" id="node11" href="$dd/dcb/classG4DCofThisEvent.html" title="G4DCofThisEvent" alt="" coords="1881,577,2021,605"/>
+<area shape="rect" id="node12" href="$dd/d05/classG4UserRunAction.html" title="G4UserRunAction" alt="" coords="2841,943,2979,971"/>
+<area shape="rect" id="node13" href="$d4/d9f/classG4UserTrackingAction.html" title="G4UserTrackingAction" alt="" coords="3764,711,3933,739"/>
+<area shape="rect" id="node14" href="$dd/d71/classG4TrackingManager.html" title="G4TrackingManager" alt="" coords="3783,577,3941,605"/>
+<area shape="rect" id="node15" href="$d0/dd0/classG4SteppingManager.html" title="G4SteppingManager" alt="" coords="3873,417,4035,445"/>
+<area shape="rect" id="node16" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="4141,711,4314,739"/>
+<area shape="rect" id="node18" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="3237,175,3327,203"/>
+<area shape="rect" id="node19" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="3918,83,4086,111"/>
+<area shape="rect" id="node21" href="$d1/df4/classG4UserWorkerThreadInitialization.html" title="G4UserWorkerThreadInitialization" alt="" coords="2063,943,2311,971"/>
+<area shape="rect" id="node22" href="$d3/d78/classG4DCtable.html" title="G4DCtable" alt="" coords="1423,827,1517,855"/>
+<area shape="rect" id="node27" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="395,943,510,971"/>
+<area shape="rect" id="node29" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="567,1005,749,1033"/>
+<area shape="rect" id="node34" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="755,1005,918,1033"/>
+<area shape="rect" id="node35" href="$d8/d06/classG4UIcmdWithABool.html" title="G4UIcmdWithABool" alt="" coords="925,1005,1079,1033"/>
+<area shape="rect" id="node36" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="1085,1005,1292,1033"/>
+<area shape="rect" id="node31" href="$de/d75/classG4UserEventAction.html" title="G4UserEventAction" alt="" coords="4230,943,4382,971"/>
+<area shape="rect" id="node33" href="$d9/d8c/classG4UserStackingAction.html" title="G4UserStackingAction" alt="" coords="4559,711,4730,739"/>
+<area shape="rect" id="node37" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html" title="G4VUserPrimaryGeneratorAction" alt="" coords="3003,943,3246,971"/>
+<area shape="rect" id="node39" href="$d5/dda/classG4ProductionCutsTable.html" title="G4ProductionCutsTable" alt="" coords="2312,175,2489,203"/>
+<area shape="rect" id="node40" href="$de/de6/classG4VUPLSplitter.html" title="G4VUPLSplitter\&lt; T \&gt;" alt="" coords="2705,175,2867,203"/>
+<area shape="rect" id="node44" href="$da/d4f/classG4Timer.html" title="G4Timer" alt="" coords="3270,943,3350,971"/>
+<area shape="rect" id="node45" href="$d9/de6/classG4UserWorkerInitialization.html" title="G4UserWorkerInitialization" alt="" coords="3375,943,3576,971"/>
+<area shape="rect" id="node46" href="$d0/d77/classG4VUserActionInitialization.html" title="G4VUserActionInitialization" alt="" coords="3601,943,3806,971"/>
+<area shape="rect" id="node48" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="3982,943,4206,971"/>
+<area shape="rect" id="node49" href="$dd/d14/classG4WorkerThread.html" title="G4WorkerThread" alt="" coords="201,1125,336,1153"/>
+</map>

@@ -1,0 +1,25 @@
+var classG4DensityEffectCalculator =
+[
+    [ "G4DensityEffectCalculator", "d7/d18/classG4DensityEffectCalculator.html#a4d70cd262de99815f05027ba351523b0", null ],
+    [ "~G4DensityEffectCalculator", "d7/d18/classG4DensityEffectCalculator.html#aaaed5bdbf073631a0b1c644f8128d619", null ],
+    [ "ComputeDensityCorrection", "d7/d18/classG4DensityEffectCalculator.html#aadf8042164d73f3d133e844c739ec46e", null ],
+    [ "DEll", "d7/d18/classG4DensityEffectCalculator.html#a29f18b8fc600f5df319464f23ae703aa", null ],
+    [ "DeltaOnceSolved", "d7/d18/classG4DensityEffectCalculator.html#a848a4a6bdd819239ee86298153f8e4a9", null ],
+    [ "DFRho", "d7/d18/classG4DensityEffectCalculator.html#a1f1c4ef33e9d5871608fe3f444287f40", null ],
+    [ "Ell", "d7/d18/classG4DensityEffectCalculator.html#a1e9f7ca0e4fffb6fcc8093eace102296", null ],
+    [ "FermiDeltaCalculation", "d7/d18/classG4DensityEffectCalculator.html#ae45b695942d99ed72f83b2ae67aeb4af", null ],
+    [ "FRho", "d7/d18/classG4DensityEffectCalculator.html#a497b34523a80c211fade60c8df425702", null ],
+    [ "Newton", "d7/d18/classG4DensityEffectCalculator.html#a7825c87a99a6bfd6fb901a3691d5c912", null ],
+    [ "fConductivity", "d7/d18/classG4DensityEffectCalculator.html#a344b82b002b4bb3c5d83f178b2800f36", null ],
+    [ "fMaterial", "d7/d18/classG4DensityEffectCalculator.html#a7246b7b4c4825bee84991d8a647d3966", null ],
+    [ "fVerbose", "d7/d18/classG4DensityEffectCalculator.html#aff6ec99a8b1f4292f70e280cf3d19f1c", null ],
+    [ "fWarnings", "d7/d18/classG4DensityEffectCalculator.html#a189f35ccff8eb23a497ea75e8ac82ba8", null ],
+    [ "levE", "d7/d18/classG4DensityEffectCalculator.html#a5c7f6ea422b92f112dff83d57908ee4a", null ],
+    [ "meanexcite", "d7/d18/classG4DensityEffectCalculator.html#a46cefe60bf7c0a464cb3fded9d36d9bd", null ],
+    [ "nlev", "d7/d18/classG4DensityEffectCalculator.html#a77245a33b3386916f090794a805664f1", null ],
+    [ "plasmaE", "d7/d18/classG4DensityEffectCalculator.html#a75241301e6dba4e84e74823093208ba9", null ],
+    [ "sternEbar", "d7/d18/classG4DensityEffectCalculator.html#a16e05dced0a067d8ffd32c4ac051ce5e", null ],
+    [ "sternf", "d7/d18/classG4DensityEffectCalculator.html#af7f23059c890011801a073d1e0ff0c18", null ],
+    [ "sternl", "d7/d18/classG4DensityEffectCalculator.html#a6f49300e089facb012b9866ad4442f5a", null ],
+    [ "sternx", "d7/d18/classG4DensityEffectCalculator.html#a7a52f96d1d28db12f70eb10103fc744c", null ]
+];

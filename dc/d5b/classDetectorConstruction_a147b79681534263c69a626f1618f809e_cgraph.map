@@ -1,0 +1,51 @@
+<map id="DetectorConstruction::DefineVolumes" name="DetectorConstruction::DefineVolumes">
+<area shape="rect" id="node2" href="$dc/d5b/classDetectorConstruction.html#ac2b9a6bb111a1ed8241753e8874b990c" title="DetectorConstruction\l::AtomisticView" alt="" coords="249,627,414,671"/>
+<area shape="rect" id="node16" href="$dc/d5b/classDetectorConstruction.html#aba06182b0c1d713bcb5a3e72be0d58b7" title="DetectorConstruction\l::BarycenterView" alt="" coords="249,1039,414,1083"/>
+<area shape="rect" id="node20" href="$d9/dbb/classG4PhysicalVolumeStore.html#ab7e87147f9c8009f0d73d7ba1ebdc32d" title="G4PhysicalVolumeStore\l::Clean" alt="" coords="241,1367,422,1411"/>
+<area shape="rect" id="node22" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="529,1307,711,1351"/>
+<area shape="rect" id="node25" href="$d9/df2/classG4LogicalVolumeStore.html#a93a55f5972b0f33711948cdd69020adb" title="G4LogicalVolumeStore\l::Clean" alt="" coords="245,1435,418,1479"/>
+<area shape="rect" id="node26" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="533,1547,707,1591"/>
+<area shape="rect" id="node27" href="$de/dbf/classG4SolidStore.html#a24729b865694552352a381890983aa4f" title="G4SolidStore::Clean" alt="" coords="253,1503,409,1531"/>
+<area shape="rect" id="node28" href="$de/dbf/classG4SolidStore.html#aaf69d823b84f4bde79aa9a8ca66a8708" title="G4SolidStore::GetInstance" alt="" coords="520,1615,720,1643"/>
+<area shape="rect" id="node29" href="$d0/d66/classPDBlib.html#a647be20ce6410237cb778ad46128df89" title="Compute number of nucleotide per strand." alt="" coords="219,220,444,264"/>
+<area shape="rect" id="node30" href="$d0/d66/classPDBlib.html#ac4d03d1f6131b54f1035506b1c9cabc4" title="Compute nucleotide barycenter from memory." alt="" coords="227,305,435,349"/>
+<area shape="rect" id="node35" href="$dc/d5b/classDetectorConstruction.html#a2d88bc1a46d1d816ba63c0b488964ff4" title="DetectorConstruction\l::ConstructMaterials" alt="" coords="249,1664,414,1708"/>
+<area shape="rect" id="node39" href="$dc/d5b/classDetectorConstruction.html#ab07aa7cce0b67683a2278ffe983f1704" title="DetectorConstruction\l::ConstructWorld" alt="" coords="249,1195,414,1239"/>
+<area shape="rect" id="node41" href="$dc/d5b/classDetectorConstruction.html#a31c3cc8328fb45d93ea1da2b5ac74a49" title="DetectorConstruction\l::DrawBoundingVolume" alt="" coords="241,927,421,971"/>
+<area shape="rect" id="node43" href="$dd/db4/classG4GeometryManager.html#a5c41547b9865845a0187c72a42321089" title="G4GeometryManager::\lGetInstance" alt="" coords="244,1800,419,1844"/>
+<area shape="rect" id="node45" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="249,1732,413,1776"/>
+<area shape="rect" id="node46" href="$d0/d66/classPDBlib.html#ae25de9df2c38573f3aed79d5f7cae4ed" title="Load PDB file into memory." alt="" coords="278,1951,385,1979"/>
+<area shape="rect" id="node49" href="$dd/db4/classG4GeometryManager.html#ad350964ba8c59a77a5875e80d1896751" title="G4GeometryManager::\lOpenGeometry" alt="" coords="244,1868,419,1912"/>
+<area shape="rect" id="node50" href="$dc/d5b/classDetectorConstruction.html#a037932ce947897f187e98f790eacc6cf" title="DetectorConstruction\l::ResiduesView" alt="" coords="249,807,414,851"/>
+<area shape="rect" id="node3" href="$dc/d5b/classDetectorConstruction.html#a6da9f903158be41a5b3136eec6546be3" title="DetectorConstruction\l::CheckMaterials" alt="" coords="537,807,703,851"/>
+<area shape="rect" id="node5" href="$db/d4c/classMolecule.html#aa755c1967f76c515e3b4ba49ef2e464a" title="Get the first Residue." alt="" coords="548,219,692,247"/>
+<area shape="rect" id="node6" href="$dc/d81/classResidue.html#a0c78d4155a268c294bf5f1ecd2c21b79" title="Get the first atom." alt="" coords="551,427,689,455"/>
+<area shape="rect" id="node7" href="$dc/d81/classResidue.html#a9b46a2961baeb59391030eae37db2803" title="Get the next residue." alt="" coords="550,271,690,299"/>
+<area shape="rect" id="node8" href="$db/d4c/classMolecule.html#acb6fb063b24023b608fd4586b65a852a" title="information about molecule (not implemented)" alt="" coords="796,479,943,507"/>
+<area shape="rect" id="node9" href="$d2/dce/classAtom.html#ab820a047d3f03a3f684e91373a37b847" title="Returns the next Atom." alt="" coords="559,479,681,507"/>
+<area shape="rect" id="node10" href="$da/daf/classG4Colour.html#a7f8dc4aa69c70615485e98040f2eade7" title="G4Colour::Gray" alt="" coords="557,995,683,1023"/>
+<area shape="rect" id="node11" href="$da/daf/classG4Colour.html#a2cf813d742bd725df20b5b68dc2312f9" title="G4Colour::Red" alt="" coords="561,687,679,715"/>
+<area shape="rect" id="node12" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="523,739,717,783"/>
+<area shape="rect" id="node13" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="492,875,748,903"/>
+<area shape="rect" id="node14" href="$da/daf/classG4Colour.html#a0ac679400aca9e2610d97a37d70cf8d4" title="G4Colour::White" alt="" coords="554,531,686,559"/>
+<area shape="rect" id="node15" href="$da/daf/classG4Colour.html#a1b61cc49e0b2e5c6f48abb5527b853eb" title="G4Colour::Yellow" alt="" coords="553,635,687,663"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="816,1255,923,1283"/>
+<area shape="rect" id="node17" href="$d6/dbc/classBarycenter.html#a26b4cc1835ee55ca04fcf74f0f74cd50" title="Get the next Barycenter." alt="" coords="540,1047,700,1075"/>
+<area shape="rect" id="node18" href="$d6/dbc/classBarycenter.html#a4393d2a23a2fc732de1e26825a50c8e1" title="Get the distance between the farther atom and nucleotide barycenter." alt="" coords="533,1151,707,1179"/>
+<area shape="rect" id="node19" href="$da/daf/classG4Colour.html#a6daf573f88ea7d82cbb6a2527f0481c7" title="G4Colour::Magenta" alt="" coords="545,1099,695,1127"/>
+<area shape="rect" id="node21" href="$dd/db4/classG4GeometryManager.html#a54ff2823b95451d4873bd2db619385f2" title="G4GeometryManager::\lIsGeometryClosed" alt="" coords="533,1427,707,1471"/>
+<area shape="rect" id="node23" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="597,1495,643,1523"/>
+<area shape="rect" id="node24" href="$dd/dd0/classG4VNotifier.html#ac5da3624026e0a44f319b58913a3dc55" title="G4VNotifier::NotifyDeRegistration" alt="" coords="497,1375,743,1403"/>
+<area shape="rect" id="node31" href="$d6/dbc/classBarycenter.html#a4441e368b3d66b7f1b42f305de2cf39c" title="Set the next Barycenter." alt="" coords="541,63,699,91"/>
+<area shape="rect" id="node32" href="$d0/d66/classPDBlib.html#a71d0e611630ba4b93cbcf5a32a106e48" title="return distance between two 3D points" alt="" coords="511,115,729,143"/>
+<area shape="rect" id="node33" href="$d6/dbc/classBarycenter.html#afd8d5c5fd51e5ced07e38fe5dfefe039" title="Set the distance between atom i and nucleotide barycenter." alt="" coords="527,167,713,195"/>
+<area shape="rect" id="node34" href="$d6/dbc/classBarycenter.html#aa9380695786b5afda093444f1af9c204" title="Set the distance between the farther atom and nucleotide barycenter." alt="" coords="534,323,706,351"/>
+<area shape="rect" id="node36" href="$d2/d00/classG4NistManager.html#abb3a53647400f8477dfe1cae931c3e72" title="G4NistManager::FindOrBuild\lMaterial" alt="" coords="514,1667,726,1711"/>
+<area shape="rect" id="node37" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="529,1735,711,1763"/>
+<area shape="rect" id="node38" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="524,1787,716,1815"/>
+<area shape="rect" id="node40" href="$dc/df1/classG4VisAttributes.html#a2c633b86c23dd2b32229db126885efd6" title="G4VisAttributes::SetVisibility" alt="" coords="513,1203,727,1231"/>
+<area shape="rect" id="node42" href="$d0/d66/classPDBlib.html#aa894c3919a46681968fde25859ee22d1" title="Compute the corresponding bounding volume parameters." alt="" coords="495,927,745,971"/>
+<area shape="rect" id="node44" href="$dd/db4/classG4GeometryManager.html#a6bf756f9b4d430135b63cbc268463840" title="G4GeometryManager::\lG4GeometryManager" alt="" coords="533,1839,707,1883"/>
+<area shape="rect" id="node47" href="$d9/dc8/compareRootFiles_8hpp.html#a02a57c4ed46933f15daa5144f7946b08" title="compare" alt="" coords="580,2011,660,2039"/>
+<area shape="rect" id="node48" href="$d2/dce/classAtom.html#a1fefb11404cd1b9cc743108d4153eb56" title="Set the next atom." alt="" coords="559,1959,681,1987"/>
+</map>

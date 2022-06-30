@@ -1,0 +1,51 @@
+<map id="G4DNABrownianTransportation::ComputeStep" name="G4DNABrownianTransportation::ComputeStep">
+<area shape="rect" id="node2" href="$d6/de0/G4DNABrownianTransportation_8cc.html#aa71b0e862f16aa69b4af283f1bb8ec84" title="Erfc" alt="" coords="396,667,444,695"/>
+<area shape="rect" id="node26" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="367,719,473,747"/>
+<area shape="rect" id="node27" href="$d9/d66/classG4Molecule.html#a749e3dfa3cb3e10263595614f3c65b99" title="G4Molecule::GetDiffusion\lCoefficient" alt="" coords="323,771,517,815"/>
+<area shape="rect" id="node29" href="$df/d47/classG4StepPoint.html#a9fda15b094b851c9fd8cda6311cecf0c" title="G4StepPoint::GetGlobalTime" alt="" coords="313,839,527,867"/>
+<area shape="rect" id="node30" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="689,1281,747,1309"/>
+<area shape="rect" id="node32" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="339,943,501,971"/>
+<area shape="rect" id="node33" href="$d8/d41/G4Molecule_8hh.html#a75a27630387017f1e6bce5a322b6be12" title="GetMolecule" alt="" coords="367,1463,473,1491"/>
+<area shape="rect" id="node34" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="297,1047,543,1075"/>
+<area shape="rect" id="node35" href="$d9/d66/classG4Molecule.html#af42666e07f5f1e12f08879099e580eb6" title="G4Molecule::GetName" alt="" coords="333,995,507,1023"/>
+<area shape="rect" id="node37" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="339,1151,501,1179"/>
+<area shape="rect" id="node38" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="321,1203,519,1231"/>
+<area shape="rect" id="node39" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="325,1255,515,1283"/>
+<area shape="rect" id="node40" href="$df/d47/classG4StepPoint.html#ae862ee9800c284dfc2a4ce4544544f40" title="G4StepPoint::GetProcessDefinedStep" alt="" coords="284,1307,556,1335"/>
+<area shape="rect" id="node41" href="$d5/de4/classG4Material.html#a9c66e8742ee9e8491a269df8bef35687" title="G4Material::GetTemperature" alt="" coords="313,1359,527,1387"/>
+<area shape="rect" id="node42" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="341,1411,499,1439"/>
+<area shape="rect" id="node43" href="$d6/de0/G4DNABrownianTransportation_8cc.html#aa8f2c1314155471e8df1db389a2e8f38" title="InvErfc" alt="" coords="684,872,752,900"/>
+<area shape="rect" id="node44" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="325,1515,515,1543"/>
+<area shape="rect" id="node45" href="$de/dd1/molecule_8C.html#a6f232d6cd8cfd22ba220d3b0da0a97e7" title="molecule" alt="" coords="379,1567,461,1595"/>
+<area shape="rect" id="node47" href="$d9/d54/classG4VITProcess.html#a374dbacd3203e16a21139e40161c9907" title="G4VITProcess::ProposesTimeStep" alt="" coords="297,1619,543,1647"/>
+<area shape="rect" id="node48" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="341,1671,499,1715"/>
+<area shape="rect" id="node3" href="$d0/db3/classCLHEP_1_1HepStat.html#ac208884ff52d32bc4b75e65a0fa12bcc" title="CLHEP::HepStat::erf" alt="" coords="639,692,797,720"/>
+<area shape="rect" id="node4" href="$d0/db3/classCLHEP_1_1HepStat.html#ab5e59f0424281cb5bcd007c1df7ea1f8" title="CLHEP::HepStat::erfQ" alt="" coords="905,765,1072,793"/>
+<area shape="rect" id="node6" href="$d3/dd5/jewel-2_82_80_8f.html#a0efaad7418b8140e4ff5262e997218b7" title="deriv" alt="" coords="961,396,1017,424"/>
+<area shape="rect" id="node23" href="$d0/db3/classCLHEP_1_1HepStat.html#afc3da4cc1b83608466719fcb9daf52cc" title="CLHEP::HepStat::inverseErf" alt="" coords="885,836,1092,864"/>
+<area shape="rect" id="node5" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1208,784,1319,812"/>
+<area shape="rect" id="node7" href="$d3/dd5/jewel-2_82_80_8f.html#a861c6a640ff0e9cf7304375200c3d5e0" title="alphas" alt="" coords="1230,265,1297,293"/>
+<area shape="rect" id="node8" href="$db/dbb/xmlrole_8cc.html#a62f133652f0a0ae574e6e2fa4110268d" title="common" alt="" coords="1504,473,1584,501"/>
+<area shape="rect" id="node9" href="$d0/d6b/compress_8c.html#aef315743418d760a360e1be293d27cd1" title="compress" alt="" coords="1501,327,1587,355"/>
+<area shape="rect" id="node10" href="$d0/d83/classActsFatras_1_1LandauDistribution.html#a692e73569c82329696eadc0fe9ff5bdf" title="Return the currently configured distribution parameters." alt="" coords="1429,388,1659,432"/>
+<area shape="rect" id="node11" href="$de/db8/classc2__factory.html#ad6c29a455b386c1971e6614f6962f3da" title="make a *new object" alt="" coords="1482,732,1606,760"/>
+<area shape="rect" id="node12" href="$d3/dd5/jewel-2_82_80_8f.html#a3e5d5aa7f6baedf76c30babb8b2bddea" title="getinspliti" alt="" coords="1219,317,1307,345"/>
+<area shape="rect" id="node13" href="$d3/dd5/jewel-2_82_80_8f.html#a0bb10c0b7bce1e8a6fc25b780eed0d21" title="getinsudafast" alt="" coords="1206,473,1321,501"/>
+<area shape="rect" id="node14" href="$d3/dd5/jewel-2_82_80_8f.html#aad07aa8c3547a760677325af47876f82" title="getspliti" alt="" coords="1226,525,1301,553"/>
+<area shape="rect" id="node16" href="$de/db8/classc2__factory.html#a5b189f66ec65267f3812cdc45ccf072d" title="make a *new object" alt="" coords="1481,628,1607,656"/>
+<area shape="rect" id="node17" href="$d2/d18/medium-simple_8f.html#af7130b760c1a9f29060b92669e6d12ef" title="medderiv" alt="" coords="1221,680,1306,708"/>
+<area shape="rect" id="node18" href="$d3/dd5/jewel-2_82_80_8f.html#af89efb4bec96c21255b038d832d901ab" title="pgg" alt="" coords="1240,5,1287,33"/>
+<area shape="rect" id="node19" href="$d3/dd5/jewel-2_82_80_8f.html#a2f22a9d97d31c50411de66c72eec9530" title="pgq" alt="" coords="1240,57,1287,85"/>
+<area shape="rect" id="node20" href="$d3/dd5/jewel-2_82_80_8f.html#a9c971fc07a1a6587c5ec282bcbfd1d1a" title="pqg" alt="" coords="1240,109,1287,137"/>
+<area shape="rect" id="node21" href="$d3/dd5/jewel-2_82_80_8f.html#a5c4972205992c66a4d4f520bf2322bae" title="pqq" alt="" coords="1240,161,1287,189"/>
+<area shape="rect" id="node22" href="$d3/dd5/jewel-2_82_80_8f.html#a6348b7eb6b53f7651b114766f802ce0a" title="scatprimfunc" alt="" coords="1209,421,1318,449"/>
+<area shape="rect" id="node15" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="1524,680,1564,708"/>
+<area shape="rect" id="node24" href="$d0/db3/classCLHEP_1_1HepStat.html#a553683e891ae73a20a54049760f5256d" title="CLHEP::HepStat::flatToGaussian" alt="" coords="1145,836,1381,864"/>
+<area shape="rect" id="node25" href="$da/d0a/CylinderKalman_8cpp.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="1519,836,1569,864"/>
+<area shape="rect" id="node28" href="$dc/da7/classG4MolecularConfiguration.html#a94323f188e3f20b1c23a0a0e5b52ad00" title="G4MolecularConfiguration\l::GetDiffusionCoefficient" alt="" coords="619,771,817,815"/>
+<area shape="rect" id="node31" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="880,1281,1097,1309"/>
+<area shape="rect" id="node36" href="$dc/da7/classG4MolecularConfiguration.html#ac0ea10e9cfcd951bf21dbf2bb28dee5f" title="G4MolecularConfiguration\l::GetName" alt="" coords="619,987,817,1031"/>
+<area shape="rect" id="node46" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="679,1567,757,1595"/>
+<area shape="rect" id="node49" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="604,1652,832,1680"/>
+<area shape="rect" id="node50" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="896,1677,1081,1705"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="F02DetectorConstruction::ConstructCalorimeter" name="F02DetectorConstruction::ConstructCalorimeter">
+<area shape="rect" id="node2" href="$d9/dbb/classG4PhysicalVolumeStore.html#ab7e87147f9c8009f0d73d7ba1ebdc32d" title="G4PhysicalVolumeStore\l::Clean" alt="" coords="254,109,435,153"/>
+<area shape="rect" id="node4" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="527,5,709,49"/>
+<area shape="rect" id="node7" href="$d9/df2/classG4LogicalVolumeStore.html#a93a55f5972b0f33711948cdd69020adb" title="G4LogicalVolumeStore\l::Clean" alt="" coords="258,177,431,221"/>
+<area shape="rect" id="node8" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="806,341,979,385"/>
+<area shape="rect" id="node9" href="$de/dbf/classG4SolidStore.html#a24729b865694552352a381890983aa4f" title="G4SolidStore::Clean" alt="" coords="267,245,423,273"/>
+<area shape="rect" id="node10" href="$de/dbf/classG4SolidStore.html#aaf69d823b84f4bde79aa9a8ca66a8708" title="G4SolidStore::GetInstance" alt="" coords="518,297,718,325"/>
+<area shape="rect" id="node11" href="$db/dd1/classF02DetectorConstruction.html#af4731e28b365a5df6b2b45723701d63e" title="F02DetectorConstruction\l::ComputeCalorParameters" alt="" coords="243,400,447,444"/>
+<area shape="rect" id="node12" href="$dd/db4/classG4GeometryManager.html#a5c41547b9865845a0187c72a42321089" title="G4GeometryManager::\lGetInstance" alt="" coords="257,468,432,512"/>
+<area shape="rect" id="node14" href="$dd/db4/classG4GeometryManager.html#ad350964ba8c59a77a5875e80d1896751" title="G4GeometryManager::\lOpenGeometry" alt="" coords="257,536,432,580"/>
+<area shape="rect" id="node18" href="$db/dd1/classF02DetectorConstruction.html#a63616d87892e73f36834c54aebff2038" title="F02DetectorConstruction\l::PrintCalorParameters" alt="" coords="250,604,439,648"/>
+<area shape="rect" id="node3" href="$dd/db4/classG4GeometryManager.html#a54ff2823b95451d4873bd2db619385f2" title="G4GeometryManager::\lIsGeometryClosed" alt="" coords="531,73,705,117"/>
+<area shape="rect" id="node5" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="595,141,641,169"/>
+<area shape="rect" id="node6" href="$dd/dd0/classG4VNotifier.html#ac5da3624026e0a44f319b58913a3dc55" title="G4VNotifier::NotifyDeRegistration" alt="" coords="495,193,741,221"/>
+<area shape="rect" id="node13" href="$dd/db4/classG4GeometryManager.html#a6bf756f9b4d430135b63cbc268463840" title="G4GeometryManager::\lG4GeometryManager" alt="" coords="531,468,705,512"/>
+<area shape="rect" id="node15" href="$dd/db4/classG4GeometryManager.html#a3c7fb456c6f6ebd93ab679e5df3ccf08" title="G4GeometryManager::\lDeleteOptimisations" alt="" coords="531,536,705,580"/>
+<area shape="rect" id="node16" href="$da/dc4/classG4LogicalVolume.html#af30f36410cdabc34abca4fd166e246e0" title="G4LogicalVolume::GetVoxel\lHeader" alt="" coords="789,569,996,613"/>
+<area shape="rect" id="node17" href="$da/dc4/classG4LogicalVolume.html#a3413981edd2a8760180ad68013458320" title="G4LogicalVolume::SetVoxel\lHeader" alt="" coords="790,501,995,545"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="534,612,702,640"/>
+</map>

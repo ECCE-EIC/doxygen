@@ -1,0 +1,30 @@
+<map id="GB06ParallelWorldForSlices::Construct" name="GB06ParallelWorldForSlices::Construct">
+<area shape="rect" id="node2" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="509,5,682,49"/>
+<area shape="rect" id="node3" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="505,381,686,425"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="775,705,939,749"/>
+<area shape="rect" id="node5" href="$d1/d28/classG4VPhysicalVolume.html#a8b719c8cd11b4288bea134a5c2afcb34" title="G4VPhysicalVolume::\lGetObjectTranslation" alt="" coords="269,756,433,800"/>
+<area shape="rect" id="node6" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="755,773,959,801"/>
+<area shape="rect" id="node7" href="$d9/df2/classG4LogicalVolumeStore.html#a0e77b1ad778eb286695edf4567174e65" title="G4LogicalVolumeStore\l::GetVolume" alt="" coords="264,161,437,205"/>
+<area shape="rect" id="node14" href="$d9/dbb/classG4PhysicalVolumeStore.html#ac82d899011f0535cdfb71cbac30e4a86" title="G4PhysicalVolumeStore\l::GetVolume" alt="" coords="260,352,441,396"/>
+<area shape="rect" id="node15" href="$d6/dfb/classG4VUserParallelWorld.html#a304248e8ea13f78c16014bae37d4a3fe" title="G4VUserParallelWorld\l::GetWorld" alt="" coords="267,551,435,595"/>
+<area shape="rect" id="node27" href="$d0/d5a/classG4Box.html#a57ecdd3fd3a32274edfcf848330fc4a2" title="G4Box::GetXHalfLength" alt="" coords="260,824,441,852"/>
+<area shape="rect" id="node28" href="$d0/d5a/classG4Box.html#ab06d81091f3c8c77cc14ac4170b6767d" title="G4Box::GetYHalfLength" alt="" coords="261,876,441,904"/>
+<area shape="rect" id="node29" href="$d0/d5a/classG4Box.html#af6adc9bd51a72f46255f122ccc25c5f9" title="G4Box::GetZHalfLength" alt="" coords="260,928,441,956"/>
+<area shape="rect" id="node8" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1074,300,1181,328"/>
+<area shape="rect" id="node9" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="554,201,637,229"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="749,193,965,237"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="751,261,963,305"/>
+<area shape="rect" id="node12" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="752,125,963,169"/>
+<area shape="rect" id="node13" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1043,125,1211,169"/>
+<area shape="rect" id="node16" href="$d1/dd0/classG4TransportationManager.html#a369df2f38a9075e93f53c7286565073f" title="G4TransportationManager\l::GetParallelWorld" alt="" coords="496,585,695,629"/>
+<area shape="rect" id="node21" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="489,517,701,561"/>
+<area shape="rect" id="node26" href="$d1/d28/classG4VPhysicalVolume.html#afedf6cbc7bd4e6a0334215f55f64a54e" title="G4VPhysicalVolume::\lSetName" alt="" coords="513,449,677,493"/>
+<area shape="rect" id="node17" href="$d1/dd0/classG4TransportationManager.html#a6939093ee6b1270721ce60875664722a" title="G4TransportationManager\l::GetNavigatorForTracking" alt="" coords="758,449,957,493"/>
+<area shape="rect" id="node18" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1013,573,1241,601"/>
+<area shape="rect" id="node19" href="$d1/dd0/classG4TransportationManager.html#a734db4234c816e7f8e4bc7101a32617f" title="G4TransportationManager\l::IsWorldExisting" alt="" coords="758,517,957,561"/>
+<area shape="rect" id="node20" href="$d1/dd0/classG4TransportationManager.html#a19f24e512c6f479b9f8f7ee5653f736b" title="G4TransportationManager\l::RegisterWorld" alt="" coords="758,585,957,629"/>
+<area shape="rect" id="node22" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="754,381,961,425"/>
+<area shape="rect" id="node23" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1042,420,1213,448"/>
+<area shape="rect" id="node24" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1051,472,1204,500"/>
+<area shape="rect" id="node25" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1030,352,1225,396"/>
+</map>

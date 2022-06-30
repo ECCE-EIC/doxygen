@@ -1,0 +1,46 @@
+<map id="G4INCL::Nucleus::decayOutgoingPionResonances" name="G4INCL::Nucleus::decayOutgoingPionResonances">
+<area shape="rect" id="node2" href="$d5/dd3/classG4INCL_1_1Store.html#a4782bd2e74e85dd8eae6a184cc70f441" title="add the particle to the outgoing particle list." alt="" coords="303,5,530,33"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#a8c2f1e65aebb3c8fe07f0b01d637af6f" title="Recompute the energy to match the momentum." alt="" coords="326,57,507,101"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#acfa99b24e8281198b39de56d77c12121" title="G4INCL::Particle::boost" alt="" coords="328,125,505,153"/>
+<area shape="rect" id="node7" href="$dc/d21/namespaceG4INCL_1_1ClusterDecay.html#a0ca6931ef2e54d65d6addd4871d8f956" title="Carries out a cluster decay." alt="" coords="331,432,502,476"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a99dc3f45354376683c05ea1fa5fc8dd5" title="Get the vector list of biased vertices on the particle path." alt="" coords="607,333,796,377"/>
+<area shape="rect" id="node24" href="$da/d83/classG4INCL_1_1FinalState.html#a815681a7fc806b49a119926b466a2603" title="G4INCL::FinalState\l::getCreatedParticles" alt="" coords="335,604,498,648"/>
+<area shape="rect" id="node25" href="$dd/d90/classG4INCL_1_1IAvatar.html#a749786403742a4a6f07fbcdb0270bfc7" title="G4INCL::IAvatar::getFinal\lState" alt="" coords="322,672,511,716"/>
+<area shape="rect" id="node32" href="$da/d83/classG4INCL_1_1FinalState.html#aa1f6f1e3424edb1ce648c15a218435e4" title="G4INCL::FinalState\l::getModifiedParticles" alt="" coords="333,740,500,784"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="583,177,820,205"/>
+<area shape="rect" id="node34" href="$d5/dd3/classG4INCL_1_1Store.html#aad5dde18c393a7dc64c941abc51bf12f" title="G4INCL::Store::getOutgoing\lParticles" alt="" coords="313,808,521,852"/>
+<area shape="rect" id="node35" href="$dd/d83/classG4INCL_1_1Particle.html#a2902e76b7e4fec816cbd8473424e0339" title="Get the tabulated particle mass." alt="" coords="587,713,816,741"/>
+<area shape="rect" id="node36" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#af0baf38cbc848d3fc19181deff3f57f9" title="Get particle width (in s)" alt="" coords="335,876,499,920"/>
+<area shape="rect" id="node37" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="317,944,517,972"/>
+<area shape="rect" id="node38" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acc0f81fccd1735f59b9dbf8a4471e564" title="gives the momentum in the CM frame of two particles." alt="" coords="325,229,509,273"/>
+<area shape="rect" id="node41" href="$dd/d83/classG4INCL_1_1Particle.html#a175c4128f1a3b89043dcc8d92735f7b3" title="Set the vector list of biased vertices on the particle path." alt="" coords="323,996,511,1040"/>
+<area shape="rect" id="node44" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="299,1064,535,1092"/>
+<area shape="rect" id="node45" href="$dd/d83/classG4INCL_1_1Particle.html#ad428024329a54d52119a0c0c22535728" title="Set the mass of the Particle to its table mass." alt="" coords="303,500,531,528"/>
+<area shape="rect" id="node4" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="620,57,783,101"/>
+<area shape="rect" id="node6" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa30743ac6a72bc2943cdce1f49665281" title="G4INCL::ThreeVector::dot" alt="" coords="605,125,798,153"/>
+<area shape="rect" id="node9" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="616,557,787,585"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="616,609,787,637"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#aca534164eea2b6e5a39ce0e335ef30b0" title="G4INCL::Particle::setType" alt="" coords="607,401,796,429"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="617,505,786,533"/>
+<area shape="rect" id="node21" href="$dd/d83/classG4INCL_1_1Particle.html#aec44f38874873af8ed41bb1460724196" title="Set the mass of the Particle to its real mass." alt="" coords="590,453,813,481"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#a616be21abf18318f60dba4833f8caa20" title="Is it a resonance?" alt="" coords="875,348,1098,376"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#a967bc3671f8d7082e5b1f0f07c71e720" title="Set the mass of the Particle to its table mass." alt="" coords="875,401,1099,429"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="1174,348,1358,376"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#a38a68965ab7ec38fafaa1e7c6a050f79" title="G4INCL::Particle::setMass" alt="" coords="1169,520,1363,548"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#aa127348f0d36f847e9670ac4088680b3" title="Get the INCL particle mass." alt="" coords="1153,400,1379,428"/>
+<area shape="rect" id="node17" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="1427,392,1591,436"/>
+<area shape="rect" id="node18" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1639,400,1749,428"/>
+<area shape="rect" id="node19" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1797,400,1973,428"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#aaf0b49b7880022c5aed3b124953c5d09" title="Get the real particle mass." alt="" coords="875,457,1099,485"/>
+<area shape="rect" id="node23" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a5ae4fc428bab8509c8dcb6cbf39a79e3" title="Get particle mass (in MeV/c^2)" alt="" coords="1184,452,1348,496"/>
+<area shape="rect" id="node26" href="$dd/d90/classG4INCL_1_1IAvatar.html#a1ddcbeece788c2bbf8601c722bb2e0e3" title="G4INCL::IAvatar::fillFinal\lState" alt="" coords="609,788,793,832"/>
+<area shape="rect" id="node27" href="$d5/d11/namespaceG4INCL_1_1Random.html#a1daf33818e2038303f3a5695a479bd61" title="G4INCL::Random::getSeeds" alt="" coords="883,713,1091,741"/>
+<area shape="rect" id="node28" href="$dd/d90/classG4INCL_1_1IAvatar.html#a62c0a8aff07ff88669d4e8dd238e3cb4" title="G4INCL::IAvatar::preInteraction" alt="" coords="871,765,1102,793"/>
+<area shape="rect" id="node29" href="$dd/d90/classG4INCL_1_1IAvatar.html#a38d18033d814bf22dbeeb0b090109b08" title="G4INCL::IAvatar::getChannel" alt="" coords="880,817,1093,845"/>
+<area shape="rect" id="node30" href="$d1/da7/classG4INCL_1_1IChannel.html#af95b48da9779675ffc597b6dec6c55cb" title="G4INCL::IChannel::fillFinal\lState" alt="" coords="889,869,1085,913"/>
+<area shape="rect" id="node31" href="$dd/d90/classG4INCL_1_1IAvatar.html#a340b29aa3bf82e4a636b7518ac83fa5c" title="G4INCL::IAvatar::postInteraction" alt="" coords="868,937,1105,965"/>
+<area shape="rect" id="node39" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="604,229,799,257"/>
+<area shape="rect" id="node40" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="597,281,805,309"/>
+<area shape="rect" id="node42" href="$dd/d83/classG4INCL_1_1Particle.html#a59e4f4f6198be7aa44db812d5f13828b" title="Set the particle bias." alt="" coords="583,973,820,1001"/>
+<area shape="rect" id="node43" href="$dd/d83/classG4INCL_1_1Particle.html#aef2e2a64a8f8d1a64932d2729a110278" title="G4INCL::Particle::getBias\lFromVector" alt="" coords="607,1025,796,1069"/>
+</map>

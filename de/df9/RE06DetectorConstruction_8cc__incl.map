@@ -1,0 +1,46 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/runAndEvent/RE06/src/RE06DetectorConstruction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/runAndEvent/RE06/src/RE06DetectorConstruction.cc">
+<area shape="rect" id="node2" href="$dd/d84/RE06DetectorConstruction_8hh.html" title="Definition of the RE06DetectorConstruction class." alt="" coords="2803,205,3024,233"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1381,433,1462,461"/>
+<area shape="rect" id="node9" href="$da/de4/G4RunManager_8hh.html" title="G4RunManager.hh" alt="" coords="3121,129,3266,157"/>
+<area shape="rect" id="node14" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="1089,129,1205,157"/>
+<area shape="rect" id="node24" href="$d1/d8f/G4Box_8hh.html" title="G4Box.hh" alt="" coords="4121,129,4207,157"/>
+<area shape="rect" id="node29" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="1969,205,2129,233"/>
+<area shape="rect" id="node32" href="$d7/da4/G4PVPlacement_8hh.html" title="G4PVPlacement.hh" alt="" coords="3795,129,3944,157"/>
+<area shape="rect" id="node33" href="$da/ded/G4PVReplica_8hh.html" title="G4PVReplica.hh" alt="" coords="3968,129,4096,157"/>
+<area shape="rect" id="node34" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="49,205,197,233"/>
+<area shape="rect" id="node35" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="144,281,248,309"/>
+<area shape="rect" id="node36" href="$d3/d4b/G4SDManager_8hh.html" title="G4SDManager.hh" alt="" coords="2640,205,2779,233"/>
+<area shape="rect" id="node37" href="$d1/d3d/G4VSDFilter_8hh.html" title="G4VSDFilter.hh" alt="" coords="2443,281,2565,309"/>
+<area shape="rect" id="node38" href="$d0/d8a/G4MultiFunctionalDetector_8hh.html" title="G4MultiFunctionalDetector.hh" alt="" coords="1555,281,1776,309"/>
+<area shape="rect" id="node39" href="$d6/d1d/G4VPrimitiveScorer_8hh.html" title="G4VPrimitiveScorer.hh" alt="" coords="2206,205,2378,233"/>
+<area shape="rect" id="node40" href="$d4/db0/G4PSEnergyDeposit_8hh.html" title="G4PSEnergyDeposit.hh" alt="" coords="2185,129,2362,157"/>
+<area shape="rect" id="node41" href="$d3/d73/G4PSNofSecondary_8hh.html" title="G4PSNofSecondary.hh" alt="" coords="2387,129,2557,157"/>
+<area shape="rect" id="node42" href="$da/d4b/G4PSTrackLength_8hh.html" title="G4PSTrackLength.hh" alt="" coords="2581,129,2741,157"/>
+<area shape="rect" id="node43" href="$d1/d97/G4PSNofStep_8hh.html" title="G4PSNofStep.hh" alt="" coords="1731,129,1863,157"/>
+<area shape="rect" id="node44" href="$d9/d93/G4PSMinKinEAtGeneration_8hh.html" title="G4PSMinKinEAtGeneration.hh" alt="" coords="1888,129,2109,157"/>
+<area shape="rect" id="node45" href="$d4/db3/G4SDParticleFilter_8hh.html" title="G4SDParticleFilter.hh" alt="" coords="2403,205,2565,233"/>
+<area shape="rect" id="node46" href="$de/d26/RE06DetectorMessenger_8hh.html" title="Definition of the RE06DetectorMessenger class." alt="" coords="3472,281,3680,309"/>
+<area shape="rect" id="node47" href="$d1/dee/RE06PrimaryGeneratorAction_8hh.html" title="Definition of the RE06PrimaryGeneratorAction class." alt="" coords="3341,129,3581,157"/>
+<area shape="rect" id="node48" href="$d9/d14/RE06ParallelWorld_8hh.html" title="Definition of the RE06ParallelWorld class." alt="" coords="3605,129,3771,157"/>
+<area shape="rect" id="node49" href="$d4/d2b/G4PhysicalConstants_8hh.html" title="G4PhysicalConstants.hh" alt="" coords="1311,129,1495,157"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="4231,129,4393,157"/>
+<area shape="rect" id="node3" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="2640,281,2885,309"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2409,357,2500,385"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2050,509,2150,537"/>
+<area shape="rect" id="node10" href="$dc/d47/G4RunManagerKernel_8hh.html" title="G4RunManagerKernel.hh" alt="" coords="3149,205,3339,233"/>
+<area shape="rect" id="node11" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="3238,281,3397,309"/>
+<area shape="rect" id="node12" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="3011,281,3111,309"/>
+<area shape="rect" id="node16" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="803,281,1045,309"/>
+<area shape="rect" id="node17" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="1363,281,1480,309"/>
+<area shape="rect" id="node18" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="1069,281,1288,309"/>
+<area shape="rect" id="node19" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="1733,205,1894,233"/>
+<area shape="rect" id="node20" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1984,281,2115,309"/>
+<area shape="rect" id="node21" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="702,205,845,233"/>
+<area shape="rect" id="node22" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="1235,205,1394,233"/>
+<area shape="rect" id="node23" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="424,281,576,309"/>
+<area shape="rect" id="node25" href="$d9/dbc/G4GeomTypes_8hh.html" title="G4GeomTypes.hh" alt="" coords="4225,205,4365,233"/>
+<area shape="rect" id="node26" href="$d8/df5/G4CSGSolid_8hh.html" title="G4CSGSolid.hh" alt="" coords="4389,205,4512,233"/>
+<area shape="rect" id="node27" href="$d7/dab/G4Polyhedron_8hh.html" title="G4Polyhedron.hh" alt="" coords="4006,281,4143,309"/>
+<area shape="rect" id="node30" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="1851,281,1959,309"/>
+<area shape="rect" id="node31" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="3805,281,3981,309"/>
+</map>

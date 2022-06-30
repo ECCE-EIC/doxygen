@@ -1,0 +1,27 @@
+var classG4GeomTools =
+[
+    [ "CheckSnip", "d4/d35/classG4GeomTools.html#aa390cc613ec7a65a092f029f481f602e", null ],
+    [ "ClosestPointOnSegment", "d4/d35/classG4GeomTools.html#acb001d81cd38c630493f424421621777", null ],
+    [ "ClosestPointOnTriangle", "d4/d35/classG4GeomTools.html#a96624622573cf5db90f00467858a96c8", null ],
+    [ "comp_ellint_2", "d4/d35/classG4GeomTools.html#a361709dc21c90cd03d33adeacf450b8b", null ],
+    [ "DiskExtent", "d4/d35/classG4GeomTools.html#a371d75d13d7e0b5271a8c38d02e4d0c4", null ],
+    [ "DiskExtent", "d4/d35/classG4GeomTools.html#a4d586212da474ec727bfddc641d99696", null ],
+    [ "DistancePointSegment", "d4/d35/classG4GeomTools.html#a874b0f330b91d4539c414e9358804eb3", null ],
+    [ "EllipsePerimeter", "d4/d35/classG4GeomTools.html#ab2256842104665ee52f482518cf1a6c8", null ],
+    [ "EllipticConeLateralArea", "d4/d35/classG4GeomTools.html#a60995b9e1ff0dac0e5ee28e9f8da44c3", null ],
+    [ "IsConvex", "d4/d35/classG4GeomTools.html#acff01f5ef9fa4a0bcad77a8e401b5d85", null ],
+    [ "PointInPolygon", "d4/d35/classG4GeomTools.html#a0efb783596d6f306fa0d5ce90d3b485f", null ],
+    [ "PointInTriangle", "d4/d35/classG4GeomTools.html#a334e0b0261839c984bc54f58e22881aa", null ],
+    [ "PointInTriangle", "d4/d35/classG4GeomTools.html#a4e8de29193abd784b9305c2ddb22b677", null ],
+    [ "PolygonArea", "d4/d35/classG4GeomTools.html#aba291b8ffa8ac61720172c13dea36248", null ],
+    [ "PolygonAreaNormal", "d4/d35/classG4GeomTools.html#af0ce1a5bcff5cf051ae1c7e7ef8f2aca", null ],
+    [ "QuadArea", "d4/d35/classG4GeomTools.html#aa506d2cda70f7ae932e801a04c127f9e", null ],
+    [ "QuadAreaNormal", "d4/d35/classG4GeomTools.html#a0f8509faaa53f51002453b69a15bf83b", null ],
+    [ "RemoveRedundantVertices", "d4/d35/classG4GeomTools.html#a974d2e3beca4be5b2f28d80085936da4", null ],
+    [ "SphereExtent", "d4/d35/classG4GeomTools.html#a1eb360a4242b115423fdeb58690a8bd1", null ],
+    [ "TriangleArea", "d4/d35/classG4GeomTools.html#a9d4229cc5c06dacc23f8c398e6e5f017", null ],
+    [ "TriangleArea", "d4/d35/classG4GeomTools.html#aacbd017eff39d875683cd248e6de5b0c", null ],
+    [ "TriangleAreaNormal", "d4/d35/classG4GeomTools.html#af946fc0a8c6908dfd025e5782702c79a", null ],
+    [ "TriangulatePolygon", "d4/d35/classG4GeomTools.html#a4ba1fb7a4c53cdff7352f4ae957839ae", null ],
+    [ "TriangulatePolygon", "d4/d35/classG4GeomTools.html#abe5f1a526f376aa90d70b80590c80672", null ]
+];

@@ -1,0 +1,26 @@
+<map id="G4ComponentGGHadronNucleusXsc::GetHadronNucleonXscNS" name="G4ComponentGGHadronNucleusXsc::GetHadronNucleonXscNS">
+<area shape="rect" id="node2" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="306,207,463,251"/>
+<area shape="rect" id="node3" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="306,275,463,319"/>
+<area shape="rect" id="node4" href="$d8/d11/classG4HadronNucleonXsc.html#ada586cdf16615e04e03b275dc8c18970" title="G4HadronNucleonXsc\l::HadronNucleonXscNS" alt="" coords="296,343,473,387"/>
+<area shape="rect" id="node5" href="$d8/d11/classG4HadronNucleonXsc.html#ad1907fb209262062b0c2b991eeeef4b5" title="G4HadronNucleonXsc\l::HadronNucleonXscPDG" alt="" coords="547,256,733,300"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1081,126,1236,170"/>
+<area shape="rect" id="node7" href="$d8/d11/classG4HadronNucleonXsc.html#a71755ef86684a45cddf5f4cc05039001" title="G4HadronNucleonXsc\l::CalcMandelstamS" alt="" coords="815,35,983,79"/>
+<area shape="rect" id="node8" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="867,427,931,455"/>
+<area shape="rect" id="node14" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="865,479,932,507"/>
+<area shape="rect" id="node18" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="1081,255,1236,299"/>
+<area shape="rect" id="node20" href="$de/d0f/classG4Pow.html#a4c49b51d1c8cab85591ee899190d073f" title="G4Pow::powN" alt="" coords="583,591,697,619"/>
+<area shape="rect" id="node23" href="$da/d31/classG4NuclearRadii.html#a41203d3941108839d827c4006fca9dca" title="G4NuclearRadii::CoulombFactor" alt="" coords="521,376,759,404"/>
+<area shape="rect" id="node19" href="$d8/d11/classG4HadronNucleonXsc.html#a0d96932e752b7d57510c9ca3dd89271f" title="G4HadronNucleonXsc\l::CoulombBarrier" alt="" coords="815,155,983,199"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1063,323,1255,351"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1063,375,1255,403"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1039,427,1279,455"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1327,375,1515,403"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1327,427,1515,455"/>
+<area shape="rect" id="node15" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1076,479,1241,507"/>
+<area shape="rect" id="node17" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1064,531,1253,559"/>
+<area shape="rect" id="node16" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1327,479,1515,507"/>
+<area shape="rect" id="node21" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1103,651,1214,679"/>
+<area shape="rect" id="node22" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1333,651,1509,679"/>
+<area shape="rect" id="node24" href="$da/d31/classG4NuclearRadii.html#af981ecf54eedbc08a59b3c66b0593b64" title="G4NuclearRadii::Particle\lRadius" alt="" coords="807,583,991,627"/>
+<area shape="rect" id="node25" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1081,583,1236,627"/>
+</map>

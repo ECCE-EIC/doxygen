@@ -1,0 +1,26 @@
+var classG4FissionParameters =
+[
+    [ "G4FissionParameters", "d9/df6/classG4FissionParameters.html#a52e6bc67569a331f17f197d2e423b439", null ],
+    [ "~G4FissionParameters", "d9/df6/classG4FissionParameters.html#aa0b52cc1260ebd6030afe29f1d821a81", null ],
+    [ "G4FissionParameters", "d9/df6/classG4FissionParameters.html#a6261f7d14357c0eaf75a9c27764f9643", null ],
+    [ "DefineParameters", "d9/df6/classG4FissionParameters.html#a7bb15054a0c1f8ccb62d34796841a781", null ],
+    [ "GetA1", "d9/df6/classG4FissionParameters.html#a2b4cde51b36a3ff2d0eeb4b978f4391d", null ],
+    [ "GetA2", "d9/df6/classG4FissionParameters.html#adf79afa607a1afb4bab3188dc9d9512e", null ],
+    [ "GetAs", "d9/df6/classG4FissionParameters.html#a10a599444d7b50795e82c665cdba46d5", null ],
+    [ "GetSigma1", "d9/df6/classG4FissionParameters.html#ac5e72ce49e45bab3d78801515426b70a", null ],
+    [ "GetSigma2", "d9/df6/classG4FissionParameters.html#a5f599fc8ea4ca29956e42a710ca48c0b", null ],
+    [ "GetSigmaS", "d9/df6/classG4FissionParameters.html#adfb75cd45aeaf78fe00a097e60190381", null ],
+    [ "GetW", "d9/df6/classG4FissionParameters.html#a9571dcb991a4470f8e2a77516751f7eb", null ],
+    [ "LocalExp", "d9/df6/classG4FissionParameters.html#a1778ae874ebe931d500f4ef76e2af21a", null ],
+    [ "operator!=", "d9/df6/classG4FissionParameters.html#a6f0da09b75d092bd51ed04e29d072c77", null ],
+    [ "operator=", "d9/df6/classG4FissionParameters.html#a85ae6480182d518f17460674c4d39532", null ],
+    [ "operator==", "d9/df6/classG4FissionParameters.html#a1d6db1c21ab198da836267e6e2636cea", null ],
+    [ "A1", "d9/df6/classG4FissionParameters.html#a5c4eb45398c047a62915c2e02d3ef9b6", null ],
+    [ "A2", "d9/df6/classG4FissionParameters.html#a3c8fd3eca8d797f3ab0144674b53592a", null ],
+    [ "A3", "d9/df6/classG4FissionParameters.html#a25f10c1b21aca19388874cd959cff2ca", null ],
+    [ "As", "d9/df6/classG4FissionParameters.html#a2de810e79f8c5aa4a35a57bb24477e33", null ],
+    [ "Sigma1", "d9/df6/classG4FissionParameters.html#aafffe113d2f8ee24d6961e2be9dc8d74", null ],
+    [ "Sigma2", "d9/df6/classG4FissionParameters.html#a6c225d13af7d9bf93647682defe8437a", null ],
+    [ "SigmaS", "d9/df6/classG4FissionParameters.html#a10f69f763c14d58b13f8f1afc07b4d73", null ],
+    [ "w", "d9/df6/classG4FissionParameters.html#a173a4914a8714c511caeadc71bae91bc", null ]
+];

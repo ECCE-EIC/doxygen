@@ -1,0 +1,25 @@
+<map id="G4INCL::Store::add" name="G4INCL::Store::add">
+<area shape="rect" id="node2" href="$d7/db0/classG4INCL_1_1Nucleus.html#a614d4c123c0f697c91dc7d088d56eeae" title="G4INCL::Nucleus::applyFinal\lState" alt="" coords="779,151,989,195"/>
+<area shape="rect" id="node9" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad588c68e87ec1d6bf8fcdfd127b9f5df" title="G4INCL::Nucleus::initialize\lParticles" alt="" coords="214,5,413,49"/>
+<area shape="rect" id="node12" href="$d5/dd3/classG4INCL_1_1Store.html#ab11780f6ce0e96c9a42aa1a4c07b007f" title="G4INCL::Store::loadParticles" alt="" coords="208,141,419,169"/>
+<area shape="rect" id="node13" href="$d5/dd3/classG4INCL_1_1Store.html#a7eb4409542c8db809bb6886e0869748d" title="Move a particle from incoming to inside." alt="" coords="213,73,414,117"/>
+<area shape="rect" id="node15" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a4944f2d692d6f826da9f50b00a2c7fc3" title="G4INCL::StandardPropagation\lModel::registerAvatar" alt="" coords="203,335,424,379"/>
+<area shape="rect" id="node3" href="$d6/d0a/classG4INCL_1_1INCL.html#acde1be31793296d7a8cb8a67cc577c40" title="The actual cascade loop." alt="" coords="1347,65,1522,93"/>
+<area shape="rect" id="node5" href="$d7/db0/classG4INCL_1_1Nucleus.html#a298541884fc27de276e6429a211b36fc" title="Force the decay of deltas inside the nucleus." alt="" coords="1045,184,1269,228"/>
+<area shape="rect" id="node7" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad04c5fdb4f44d66bd818728cf07c26e3" title="Force the transformation of strange particles into a Lambda;." alt="" coords="1045,252,1269,296"/>
+<area shape="rect" id="node8" href="$d6/d0a/classG4INCL_1_1INCL.html#a9e2cd5ca68f6ee1680ce9b306d2c01a3" title="Make a compound nucleus." alt="" coords="1043,116,1272,160"/>
+<area shape="rect" id="node4" href="$d6/d0a/classG4INCL_1_1INCL.html#a7db10f7a8cd5c5173448a48cc7a3cab7" title="G4INCL::INCL::processEvent" alt="" coords="1597,65,1808,93"/>
+<area shape="rect" id="node6" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="1332,159,1537,187"/>
+<area shape="rect" id="node10" href="$d6/d0a/classG4INCL_1_1INCL.html#a2fc478a97d486d1a5dfb16c62d0ee00d" title="G4INCL::INCL::initialize\lTarget" alt="" coords="796,5,972,49"/>
+<area shape="rect" id="node11" href="$d6/d0a/classG4INCL_1_1INCL.html#a22c4c885bc3bea582cfddaa29c4507fc" title="G4INCL::INCL::prepareReaction" alt="" coords="1320,13,1549,41"/>
+<area shape="rect" id="node14" href="$d7/db0/classG4INCL_1_1Nucleus.html#a718ef4fb3d95aad593610385e95cb513" title="Insert a new particle (e.g. a projectile) in the nucleus." alt="" coords="483,111,714,139"/>
+<area shape="rect" id="node16" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a797718f0232dc35b3a5c325da15a81f6" title="(Re)Generate all possible avatars." alt="" coords="773,425,995,469"/>
+<area shape="rect" id="node20" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="488,485,709,529"/>
+<area shape="rect" id="node21" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ad4f6f8b9956a6de6ed7681d10fa95188" title="Generate decays for particles that can decay." alt="" coords="488,365,709,409"/>
+<area shape="rect" id="node23" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="472,245,725,289"/>
+<area shape="rect" id="node24" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a612af7900a1f5c727af8ab1b3910eafa" title="G4INCL::StandardPropagation\lModel::updateAvatars" alt="" coords="773,305,995,349"/>
+<area shape="rect" id="node17" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#abd1c8a055a0c106754b21f0393e20a58" title="G4INCL::StandardPropagation\lModel::shootComposite" alt="" coords="1047,484,1268,528"/>
+<area shape="rect" id="node19" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="1047,416,1268,460"/>
+<area shape="rect" id="node18" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a7b190dd2a4c2a53d04ec6b9b0841c0f7" title="G4INCL::StandardPropagation\lModel::shoot" alt="" coords="1324,449,1545,493"/>
+<area shape="rect" id="node22" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a137dff7f40f49603b311b9b219eeda35" title="G4INCL::StandardPropagation\lModel::propagate" alt="" coords="1047,329,1268,373"/>
+</map>

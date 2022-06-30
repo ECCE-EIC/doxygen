@@ -1,0 +1,28 @@
+var classLXeRun =
+[
+    [ "LXeRun", "dd/d6f/classLXeRun.html#adc91c781c198a7f6861100fd4b883309", null ],
+    [ "~LXeRun", "dd/d6f/classLXeRun.html#ab436ae3a776715ae90c886a36ab09cbc", null ],
+    [ "EndOfRun", "dd/d6f/classLXeRun.html#abfafab5719e416946987800f67d2e4e5", null ],
+    [ "IncAbsorption", "dd/d6f/classLXeRun.html#a8f853f3a21dce93f87d6c6bf4767758c", null ],
+    [ "IncBoundaryAbsorption", "dd/d6f/classLXeRun.html#ab046acd1bccba005cc476a9e7831ed18", null ],
+    [ "IncEDep", "dd/d6f/classLXeRun.html#a6c4d172880c884e4d9a84c5df50d7f82", null ],
+    [ "IncHitCount", "dd/d6f/classLXeRun.html#a90b7a07a607db11e202e862de946224c", null ],
+    [ "IncHitsAboveThreshold", "dd/d6f/classLXeRun.html#a218531f350f274a45a17b4842d373064", null ],
+    [ "IncPhotonCount_Ceren", "dd/d6f/classLXeRun.html#a0e9fe5fb7e31791daeaa73f11e2df1f4", null ],
+    [ "IncPhotonCount_Scint", "dd/d6f/classLXeRun.html#a563387a13df539cb0ab37d9d0172a90e", null ],
+    [ "Merge", "dd/d6f/classLXeRun.html#aa8eeeb43012ad78c466bd0c0dce50252", null ],
+    [ "fAbsorptionCount", "dd/d6f/classLXeRun.html#a5de9a6222a0f15707e07e3602b93c81c", null ],
+    [ "fAbsorptionCount2", "dd/d6f/classLXeRun.html#a4124ecabff4bf705860950e8d80223ba", null ],
+    [ "fBoundaryAbsorptionCount", "dd/d6f/classLXeRun.html#a645bc5f0afced10b9568fac3da1c9abd", null ],
+    [ "fBoundaryAbsorptionCount2", "dd/d6f/classLXeRun.html#a22935ec4e73eae351f7ea8e91a1f1fab", null ],
+    [ "fHitCount", "dd/d6f/classLXeRun.html#af336943e20952fd68219495ad31bc7e8", null ],
+    [ "fHitCount2", "dd/d6f/classLXeRun.html#ac9daf8487c584b52eab53dbb6be886f9", null ],
+    [ "fPhotonCount_Ceren", "dd/d6f/classLXeRun.html#a33bff67b6a5b528a6e9fc6904fdab71f", null ],
+    [ "fPhotonCount_Ceren2", "dd/d6f/classLXeRun.html#a79635a8be7f3c0173c05e19515c81d3f", null ],
+    [ "fPhotonCount_Scint", "dd/d6f/classLXeRun.html#a95e2ef8cc3cd0936872586482047bdac", null ],
+    [ "fPhotonCount_Scint2", "dd/d6f/classLXeRun.html#aed882fbd3b580cc9bd439d1b870c5f13", null ],
+    [ "fPMTsAboveThreshold", "dd/d6f/classLXeRun.html#ab8e65c760ea2271515f3e3af0828ce24", null ],
+    [ "fPMTsAboveThreshold2", "dd/d6f/classLXeRun.html#a0430a575f244dbe572fb8490d650a664", null ],
+    [ "fTotE", "dd/d6f/classLXeRun.html#a2e287e0247e5a2c28e38726c0284c54b", null ],
+    [ "fTotE2", "dd/d6f/classLXeRun.html#ac6a53171fe97140764e8c8a21721fa0f", null ]
+];

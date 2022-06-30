@@ -1,0 +1,30 @@
+<map id="GammaRayTelDigitizer::Digitize" name="GammaRayTelDigitizer::Digitize">
+<area shape="rect" id="node2" href="$dd/ddb/classG4TDigiCollection.html#aa2197257a2f63b0b53e30b873227f755" title="G4TDigiCollection::\lentries" alt="" coords="287,5,438,49"/>
+<area shape="rect" id="node4" href="$d5/d58/classG4THitsCollection.html#a1a6ce9c7c9c1cb45c96e7551e28c5b63" title="G4THitsCollection::\lentries" alt="" coords="287,73,438,117"/>
+<area shape="rect" id="node5" href="$d1/d3f/classG4DigiManager.html#a145e7bbe1ef82a3cf8a66400255c6065" title="G4DigiManager::GetDigiCollectionID" alt="" coords="544,460,811,488"/>
+<area shape="rect" id="node9" href="$d1/d3f/classG4DigiManager.html#a69eb6cec88234d3e54db7ff3334409bf" title="G4DigiManager::GetDMpointer" alt="" coords="248,209,477,237"/>
+<area shape="rect" id="node14" href="$d1/d3f/classG4DigiManager.html#a23609d8435bb1464c2c033d48b92d773" title="G4DigiManager::GetHitsCollection" alt="" coords="237,261,489,289"/>
+<area shape="rect" id="node19" href="$d1/d3f/classG4DigiManager.html#a5449f1c8bb69cea76296b5bdf4f19a49" title="G4DigiManager::GetHitsCollectionID" alt="" coords="229,313,496,341"/>
+<area shape="rect" id="node22" href="$dd/ddb/classG4TDigiCollection.html#a9c7c54bf3305ea17da2ece75e8e7cb50" title="G4TDigiCollection::\linsert" alt="" coords="287,141,438,185"/>
+<area shape="rect" id="node23" href="$d4/d65/classGammaRayTelDigi.html#a11705bb5e24daebc3d8dd1a0d45517c4" title="GammaRayTelDigi::SetDigiType" alt="" coords="246,417,479,445"/>
+<area shape="rect" id="node24" href="$d4/d65/classGammaRayTelDigi.html#a5bb7be73cb8a48f098b4c69db3793af7" title="GammaRayTelDigi::SetEnergy" alt="" coords="251,469,475,497"/>
+<area shape="rect" id="node25" href="$d4/d65/classGammaRayTelDigi.html#afb20cc1be56e094ae8965e7b4840f228" title="GammaRayTelDigi::SetPlane\lNumber" alt="" coords="256,521,469,565"/>
+<area shape="rect" id="node26" href="$d4/d65/classGammaRayTelDigi.html#a58cb4c87c908def73485a592fa84a849" title="GammaRayTelDigi::SetPlaneType" alt="" coords="241,589,485,617"/>
+<area shape="rect" id="node27" href="$d4/d65/classGammaRayTelDigi.html#a497e63405d0d4abef9cd808914ce50cf" title="GammaRayTelDigi::SetStrip\lNumber" alt="" coords="259,641,467,685"/>
+<area shape="rect" id="node28" href="$db/d5c/classG4VDigitizerModule.html#af7aa2750c3c2860355b2273e93e0d2e5" title="G4VDigitizerModule\l::StoreDigiCollection" alt="" coords="283,709,442,753"/>
+<area shape="rect" id="node3" href="$df/d5d/G4TDigiCollection_8hh.html#ad15fb9c4f59a26b3fcfb46a6c5e61188" title="aDCAllocator_G4MT_TLS_" alt="" coords="581,31,774,59"/>
+<area shape="rect" id="node6" href="$d3/d78/classG4DCtable.html#a820eb8e3df6e60400b4810df093e6c35" title="G4DCtable::GetCollectionID" alt="" coords="877,460,1085,488"/>
+<area shape="rect" id="node7" href="$d5/d72/classG4String.html#acf651813ef2b99ae348f378717100d6c" title="G4String::index" alt="" coords="1200,408,1327,436"/>
+<area shape="rect" id="node8" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="1243,460,1283,488"/>
+<area shape="rect" id="node10" href="$d1/d3f/classG4DigiManager.html#a09274505ebe67551f39b5d9331323678" title="G4DigiManager::G4DigiManager" alt="" coords="557,116,798,144"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="859,91,1103,119"/>
+<area shape="rect" id="node12" href="$d9/d6b/classG4SDManager.html#a08beb9db9dbec2cae46d06717f6369f7" title="G4SDManager::GetSDMpointer" alt="" coords="865,143,1096,171"/>
+<area shape="rect" id="node13" href="$d9/d6b/classG4SDManager.html#a56303fb2a382670fba72f15beff2834c" title="G4SDManager::G4SDManager" alt="" coords="1151,143,1376,171"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#ad169a9d8a8e67bc76716fcb09185247d" title="G4RunManager::GetCurrent\lEvent" alt="" coords="573,236,782,280"/>
+<area shape="rect" id="node16" href="$d7/db4/classG4HCofThisEvent.html#a3c69c3568faa219a214e3d892325f992" title="G4HCofThisEvent::GetHC" alt="" coords="581,304,773,332"/>
+<area shape="rect" id="node17" href="$d5/de2/classG4Event.html#af216440baba19b50643a7c38dafd0af7" title="G4Event::GetHCofThisEvent" alt="" coords="571,356,783,384"/>
+<area shape="rect" id="node18" href="$d4/daa/classG4RunManager.html#ab3144e7a4cfa84a59f02dc19dc2dcc47" title="G4RunManager::GetPrevious\lEvent" alt="" coords="569,168,785,212"/>
+<area shape="rect" id="node20" href="$d9/d6b/classG4SDManager.html#a9b1b726ac4340092a45f16aea25b241e" title="G4SDManager::GetCollectionID" alt="" coords="561,408,793,436"/>
+<area shape="rect" id="node21" href="$de/dd7/classG4HCtable.html#abb4b13f5c296512f00406935f619435c" title="G4HCtable::GetCollectionID" alt="" coords="877,408,1085,436"/>
+<area shape="rect" id="node29" href="$d5/d1f/classG4VDigiCollection.html#a697da56e0e82bbaefe612cf4d62b29ff" title="G4VDigiCollection::\lGetName" alt="" coords="601,709,753,753"/>
+</map>

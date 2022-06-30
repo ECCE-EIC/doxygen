@@ -1,0 +1,29 @@
+<map id="G4BlinePrimaryGeneratorAction::GeneratePrimaries" name="G4BlinePrimaryGeneratorAction::GeneratePrimaries">
+<area shape="rect" id="node2" href="$d5/de2/classG4Event.html#aabf700be265d0bc4d4f9f273f061145d" title="G4Event::AddPrimaryVertex" alt="" coords="306,335,515,363"/>
+<area shape="rect" id="node4" href="$d9/d2f/classG4ChargedGeantino.html#ad7f083e414eb6ec28702b0170622a7f8" title="G4ChargedGeantino::\lChargedGeantino" alt="" coords="327,387,495,431"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1441,404,1547,432"/>
+<area shape="rect" id="node18" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html#a584d15b5975fbbd992ae7b3ce8edd5f1" title="G4VUserPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="289,507,532,551"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="333,575,488,619"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="333,643,488,687"/>
+<area shape="rect" id="node21" href="$de/dbd/classG4PrimaryVertex.html#aca29e2296724f357f3d95575189bd85d" title="G4PrimaryVertex::GetPosition" alt="" coords="300,711,521,739"/>
+<area shape="rect" id="node22" href="$d5/de2/classG4Event.html#ac9a0e25053307cc271ff3fd1d1bb36fc" title="G4Event::GetPrimaryVertex" alt="" coords="307,763,515,791"/>
+<area shape="rect" id="node24" href="$de/dbd/classG4PrimaryVertex.html#ad5281b54c52efbe4d7cfbf1303a6635e" title="G4PrimaryVertex::GetT0" alt="" coords="318,815,503,843"/>
+<area shape="rect" id="node25" href="$df/d7e/classG4PrimaryParticle.html#a2c742ead33c25cd673e069fe99dd57d1" title="G4PrimaryParticle::\lSetCharge" alt="" coords="335,867,486,911"/>
+<area shape="rect" id="node26" href="$df/d7e/classG4PrimaryParticle.html#a9a1323191192c663fffe38cbefa315b1" title="G4PrimaryParticle::\lSetMass" alt="" coords="335,935,486,979"/>
+<area shape="rect" id="node27" href="$de/dbd/classG4PrimaryVertex.html#ab3554dca89ed5a3ad41fac6d16a71796" title="G4PrimaryVertex::SetPrimary" alt="" coords="301,1003,520,1031"/>
+<area shape="rect" id="node3" href="$de/dbd/classG4PrimaryVertex.html#a2ecd1d312d0f77ab258341007472e53c" title="G4PrimaryVertex::SetNext" alt="" coords="581,335,779,363"/>
+<area shape="rect" id="node5" href="$d9/d2f/classG4ChargedGeantino.html#a1df3f1edea242b48cdf764527bf3f3d3" title="G4ChargedGeantino::\lDefinition" alt="" coords="596,387,764,431"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="830,215,1038,259"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="828,317,1040,345"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="852,387,1016,431"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1109,155,1311,199"/>
+<area shape="rect" id="node8" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1406,5,1582,49"/>
+<area shape="rect" id="node9" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1406,73,1582,117"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1403,261,1585,289"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1417,141,1571,185"/>
+<area shape="rect" id="node12" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1380,209,1608,237"/>
+<area shape="rect" id="node14" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1088,300,1332,328"/>
+<area shape="rect" id="node16" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1098,352,1322,380"/>
+<area shape="rect" id="node23" href="$de/dbd/classG4PrimaryVertex.html#aef92aa1b596ca8e814b5b6a8ed384e61" title="G4PrimaryVertex::GetNext" alt="" coords="580,763,780,791"/>
+<area shape="rect" id="node28" href="$df/d7e/classG4PrimaryParticle.html#a5cc6ce76c958eaaccd8621cbf5328d69" title="G4PrimaryParticle::\lSetNext" alt="" coords="605,995,755,1039"/>
+</map>

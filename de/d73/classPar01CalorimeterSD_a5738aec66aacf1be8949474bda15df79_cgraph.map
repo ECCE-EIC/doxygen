@@ -1,0 +1,17 @@
+<map id="Par01CalorimeterSD::ProcessHits" name="Par01CalorimeterSD::ProcessHits">
+<area shape="rect" id="node2" href="$d2/dc3/classG4TouchableHistory.html#a853c5c496ede67492d60f31994de8aa6" title="G4TouchableHistory\l::GetHistory" alt="" coords="251,5,409,49"/>
+<area shape="rect" id="node3" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="248,73,412,117"/>
+<area shape="rect" id="node4" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="235,141,425,169"/>
+<area shape="rect" id="node5" href="$d2/dc3/classG4TouchableHistory.html#ab97cf7b1d463e3196033b69df2743d05" title="G4TouchableHistory\l::GetReplicaNumber" alt="" coords="251,193,409,237"/>
+<area shape="rect" id="node6" href="$d4/d3b/classG4NavigationHistory.html#a12a9af2f032b9e66e6a8660dbbe06093" title="G4NavigationHistory\l::GetTopTransform" alt="" coords="249,261,411,305"/>
+<area shape="rect" id="node7" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="212,329,448,357"/>
+<area shape="rect" id="node8" href="$df/d47/classG4StepPoint.html#a3d7badd0a7dc69f55770230a5e891183" title="G4StepPoint::GetTouchable" alt="" coords="227,381,433,409"/>
+<area shape="rect" id="node9" href="$d2/dc3/classG4TouchableHistory.html#acb2a2615b5d70d448a3b0ed427e501e0" title="G4TouchableHistory\l::GetVolume" alt="" coords="251,433,409,477"/>
+<area shape="rect" id="node10" href="$d5/d58/classG4THitsCollection.html#ab5314c7da12c8553099ff67b4f300896" title="G4THitsCollection::\linsert" alt="" coords="255,501,405,545"/>
+<area shape="rect" id="node11" href="$d8/d1e/classG4AffineTransform.html#a5d49117c310ee6b5bc48c3cd30bf955b" title="G4AffineTransform::\lInvert" alt="" coords="253,569,407,613"/>
+<area shape="rect" id="node12" href="$d8/d1e/classG4AffineTransform.html#a4a9f29767469c89c87204edcbef1d61c" title="G4AffineTransform::\lNetRotation" alt="" coords="253,637,407,681"/>
+<area shape="rect" id="node13" href="$d8/d1e/classG4AffineTransform.html#a4c72b75be5d9311d143739f2820b3f49" title="G4AffineTransform::\lNetTranslation" alt="" coords="253,705,407,749"/>
+<area shape="rect" id="node14" href="$df/d31/classPar01CalorimeterHit.html#a1810fa9d2b1912315f1b91f919a31b1c" title="Par01CalorimeterHit\l::SetEdep" alt="" coords="251,773,409,817"/>
+<area shape="rect" id="node15" href="$df/d31/classPar01CalorimeterHit.html#a7d6df1c03507f9c42ff6b53781aeb6e2" title="Par01CalorimeterHit\l::SetPos" alt="" coords="251,841,409,885"/>
+<area shape="rect" id="node16" href="$df/d31/classPar01CalorimeterHit.html#a6ee6227df2a80e56f3e6a2eb404ecd65" title="Par01CalorimeterHit\l::SetRot" alt="" coords="251,909,409,953"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="MCTruthTrackingAction::PostUserTrackingAction" name="MCTruthTrackingAction::PostUserTrackingAction">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="531,5,705,33"/>
+<area shape="rect" id="node3" href="$de/da9/classMCTruthTrackInformation.html#a45c4975d6a79570c5c21dde7b3831b59" title="MCTruthTrackInformation\l::GetDirectParent" alt="" coords="254,261,443,305"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="256,329,441,357"/>
+<area shape="rect" id="node5" href="$d1/d4c/classMCTruthManager.html#ada2caaef0cb0373ad3864e44e08ba289" title="MCTruthManager::GetInstance" alt="" coords="505,57,731,85"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a70077e82fa447fe7695784ddf733a647" title="G4Track::GetLocalTime" alt="" coords="260,381,437,409"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="266,433,431,461"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="541,333,695,377"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="268,485,429,513"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="269,537,428,565"/>
+<area shape="rect" id="node12" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="240,589,457,617"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a71a4e2f138cbdde4b8184c484e7eef6a" title="G4Track::GetVertexPosition" alt="" coords="247,641,451,669"/>
+<area shape="rect" id="node14" href="$dd/d71/classG4TrackingManager.html#a6ae440ee376093726c52c72c857b050a" title="G4TrackingManager::\lGimmeSecondaries" alt="" coords="267,693,431,737"/>
+<area shape="rect" id="node17" href="$de/da9/classMCTruthTrackInformation.html#a63b1b7ab9cd6541bfc491de2d38a56ae" title="MCTruthTrackInformation\l::SetDirectParent" alt="" coords="254,761,443,805"/>
+<area shape="rect" id="node18" href="$d1/d33/classG4Track.html#afba811b282154fd0d612a5e147316568" title="G4Track::SetParentID" alt="" coords="267,829,431,857"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#a113a9bc567dfae1dc307c1e848f1cfdf" title="G4Track::SetUserInformation" alt="" coords="241,881,456,909"/>
+<area shape="rect" id="node20" href="$dc/df9/classMCTruthTrackingAction.html#a53fcdcd849327075299febceffdfa665" title="MCTruthTrackingAction\l::TrackToBeStored" alt="" coords="261,141,436,185"/>
+<area shape="rect" id="node6" href="$d1/d4c/classMCTruthManager.html#aeb80ff8111602bf70da2e6ab4cac41c5" title="MCTruthManager::MCTruthManager" alt="" coords="779,57,1037,85"/>
+<area shape="rect" id="node15" href="$d0/dd0/classG4SteppingManager.html#a0eecb7b1a0cac9ab79f556a697e502a1" title="G4SteppingManager::\lGetfSecondary" alt="" coords="534,693,702,737"/>
+<area shape="rect" id="node16" href="$d9/d7a/classG4Step.html#ab12b7428022893758b194afcb9fec4a4" title="G4Step::GetfSecondary" alt="" coords="817,701,999,729"/>
+<area shape="rect" id="node21" href="$d1/d4c/classMCTruthManager.html#a2c3923ba8ea93c5d1ff7358bdf6c45fa" title="MCTruthManager::GetConfig" alt="" coords="513,109,723,137"/>
+<area shape="rect" id="node22" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#af7bc7b339695350b833e78b55270db0d" title="CLHEP::HepLorentzVector::e" alt="" coords="513,161,723,189"/>
+<area shape="rect" id="node23" href="$da/d54/classMCTruthConfig.html#a88df4dc4f43eaa696e68ecc6245dec63" title="MCTruthConfig::GetMinE" alt="" coords="525,213,711,241"/>
+<area shape="rect" id="node24" href="$da/d54/classMCTruthConfig.html#a8fb70a458725f71e86c0623cc0c44050" title="MCTruthConfig::GetParticle\lTypes" alt="" coords="517,265,719,309"/>
+</map>

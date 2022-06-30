@@ -1,0 +1,26 @@
+var classG4JpegCoder =
+[
+    [ "G4JpegCoder", "dc/d4c/classG4JpegCoder.html#aac5f5ac8890018417fbc758ca74e3f3f", null ],
+    [ "~G4JpegCoder", "dc/d4c/classG4JpegCoder.html#ab9e87787af1151b1f615b96443e58bf8", null ],
+    [ "CodeHuffman", "dc/d4c/classG4JpegCoder.html#a2c09487ddaf822051555bd8ba3cb50fb", null ],
+    [ "CodeMCU", "dc/d4c/classG4JpegCoder.html#a5cc7baaf7545b572c9024ded994938d5", null ],
+    [ "DoCoding", "dc/d4c/classG4JpegCoder.html#a6107bb55668d633c6bb6b5ac14b8ce77", null ],
+    [ "ForwardDCT", "dc/d4c/classG4JpegCoder.html#a663b087f00013a2d5bc885f7b8695c66", null ],
+    [ "GetJpegData", "dc/d4c/classG4JpegCoder.html#a4b3f28bd2ee7254a8043eaaee8dbc6bf", null ],
+    [ "makeYCC", "dc/d4c/classG4JpegCoder.html#a40cbf9b757e0954c829799bf03f96ab6", null ],
+    [ "Quantization", "dc/d4c/classG4JpegCoder.html#af6544323bcddf5b17b2b56f0e7c49ef3", null ],
+    [ "SetJpegProperty", "dc/d4c/classG4JpegCoder.html#a7cfbe8ebb6dc755c57bbc046bcc8afd3", null ],
+    [ "WriteEOI", "dc/d4c/classG4JpegCoder.html#a8952e9955963e79d3ceb777ca8cd81bd", null ],
+    [ "WriteHeader", "dc/d4c/classG4JpegCoder.html#a6af764b1dde413f677d07aa78ad4f73f", null ],
+    [ "mCbBlock", "dc/d4c/classG4JpegCoder.html#ad514387f4c02e2840d9535fb7df8e7cf", null ],
+    [ "mCosT", "dc/d4c/classG4JpegCoder.html#a3fb444026be179bc58eb66254d5917de", null ],
+    [ "mCrBlock", "dc/d4c/classG4JpegCoder.html#ac63c5f3f0287b9e037d202e35639ce59", null ],
+    [ "mDCTData", "dc/d4c/classG4JpegCoder.html#a5bb896bb80f3a7fa4571023af81aa871", null ],
+    [ "mNumHUnits", "dc/d4c/classG4JpegCoder.html#af3eec4860de6f8be6d32322a8ce086f3", null ],
+    [ "mNumVUnits", "dc/d4c/classG4JpegCoder.html#ae66cc5bfd83650cda3e6380b7d643d44", null ],
+    [ "mOBSP", "dc/d4c/classG4JpegCoder.html#a1e4958450fe9dc40062b1dee3757e11f", null ],
+    [ "mPreDC", "dc/d4c/classG4JpegCoder.html#ae6facf88fc6682f6a75f30b9bf2f51c6", null ],
+    [ "mProperty", "dc/d4c/classG4JpegCoder.html#aeaeef39f95056d7b7fc62e3e9e6a3a37", null ],
+    [ "mRgb", "dc/d4c/classG4JpegCoder.html#ab477282932d90f9b8516e05761e538b3", null ],
+    [ "mYBlock", "dc/d4c/classG4JpegCoder.html#afb1559829b5bace98106f3d0a5d22965", null ]
+];

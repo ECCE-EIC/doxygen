@@ -1,0 +1,46 @@
+<map id="G4Element::GetN" name="G4Element::GetN">
+<area shape="rect" id="node2" href="$d8/d73/classG4AdjointCSManager.html#acb85b4d7950fec21643f6f5c6c6f8bff" title="G4AdjointCSManager\l::BuildCrossSectionMatrices" alt="" coords="214,73,423,117"/>
+<area shape="rect" id="node5" href="$d3/dc0/classG4Nucleus.html#a2f070739bcbc2b32b212422c8433cf41" title="G4Nucleus::ChooseParameters" alt="" coords="203,141,434,169"/>
+<area shape="rect" id="node7" href="$de/dc4/classG4EmCalculator.html#af256113c91a7730a4f19bde54653174d" title="G4EmCalculator::ComputeCross\lSectionPerAtom" alt="" coords="200,193,437,237"/>
+<area shape="rect" id="node8" href="$d3/dc1/classG4VEmModel.html#a356a5e3c7ac361f25873a5e6d429e7c6" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="209,261,429,305"/>
+<area shape="rect" id="node9" href="$d7/def/classG4ICRU49NuclearStoppingModel.html#aed737f3fc2b432187532249e5b5abbb1" title="G4ICRU49NuclearStoppingModel\l::ComputeDEDXPerVolume" alt="" coords="197,329,440,373"/>
+<area shape="rect" id="node10" href="$d6/d69/classG4IonisParamMat.html#a3802b5295aa663ad6bfc1895eb4c4477" title="G4IonisParamMat::Compute\lIonParameters" alt="" coords="213,397,424,441"/>
+<area shape="rect" id="node12" href="$de/d9d/pymodG4materials_8cc.html#ac6aa78714a5133bea269b8faf066245d" title="export_G4Element" alt="" coords="245,465,393,493"/>
+<area shape="rect" id="node14" href="$d1/dfe/classG4ParticleHPFissionData.html#a17d9c8cc18dee547875388da1138cada" title="G4ParticleHPFissionData\l::GetCrossSection" alt="" coords="226,517,411,561"/>
+<area shape="rect" id="node16" href="$d7/d94/classG4ParticleHPCaptureData.html#a64fe4fa8dab4c1142c1948163d8ae026" title="G4ParticleHPCaptureData\l::GetCrossSection" alt="" coords="222,585,415,629"/>
+<area shape="rect" id="node18" href="$d9/de3/classG4ParticleHPElasticData.html#aeea5336955c561d9b5f8e0ff0f9a9358" title="G4ParticleHPElasticData\l::GetCrossSection" alt="" coords="227,653,411,697"/>
+<area shape="rect" id="node20" href="$d8/d88/classG4ParticleHPInelasticData.html#ab5247f0c8aeef9ceebec964e50d22950" title="G4ParticleHPInelasticData\l::GetCrossSection" alt="" coords="221,721,417,765"/>
+<area shape="rect" id="node22" href="$d1/d62/classG4VComponentCrossSection.html#aeb2933f301d6d14d8d9d376df977cd36" title="G4VComponentCrossSection\l::GetElasticElementCrossSection" alt="" coords="198,789,439,833"/>
+<area shape="rect" id="node24" href="$d9/df3/classG4ChargeExchangeProcess.html#a71e0334a87e1b0fc5effe9b38efa4939" title="G4ChargeExchangeProcess\l::GetElementCrossSection" alt="" coords="215,857,422,901"/>
+<area shape="rect" id="node25" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#a3b6afc707246114049bcdd785d0ab29a" title="G4ComponentGGHadronNucleus\lXsc::GetHadronNucleonXsc" alt="" coords="197,925,440,969"/>
+<area shape="rect" id="node26" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#a218e15d4f5632b0088ddbf4e211ade64" title="G4ComponentGGHadronNucleus\lXsc::GetHadronNucleonXscNS" alt="" coords="197,993,440,1037"/>
+<area shape="rect" id="node27" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#a12c90c3f33bd32a1d6a02aa435016669" title="G4ComponentGGHadronNucleus\lXsc::GetHadronNucleonXscPDG" alt="" coords="197,1061,440,1105"/>
+<area shape="rect" id="node28" href="$d6/d40/classG4ComponentGGHadronNucleusXsc.html#ac945929fcd492c9da79661713d9253b1" title="G4ComponentGGHadronNucleus\lXsc::GetHNinelasticXsc" alt="" coords="197,1129,440,1173"/>
+<area shape="rect" id="node29" href="$d1/d62/classG4VComponentCrossSection.html#a7f2346570dd0be975c1e07791641b0af" title="G4VComponentCrossSection\l::GetInelasticElementCrossSection" alt="" coords="192,1197,445,1241"/>
+<area shape="rect" id="node31" href="$d3/d5d/classG4QAOLowEnergyLoss.html#a0987f0e0f94676eb4127316140adca89" title="G4QAOLowEnergyLoss\l::GetOscillatorEnergy" alt="" coords="232,1265,405,1309"/>
+<area shape="rect" id="node35" href="$d0/df8/classG4ParticleHPThermalBoost.html#a48cf0f6a970921a5564d10ce9fd0cd86" title="G4ParticleHPThermalBoost\l::GetThermalEnergy" alt="" coords="217,1333,420,1377"/>
+<area shape="rect" id="node43" href="$d1/d62/classG4VComponentCrossSection.html#a5c39de15b97901b11351b332dde0b0ba" title="G4VComponentCrossSection\l::GetTotalElementCrossSection" alt="" coords="205,1401,433,1445"/>
+<area shape="rect" id="node44" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#ae9570fdd39c65e151153a194ad2da10e" title="G4ScreenedCoulombCrossSection\l::SelectRandomUnweightedTarget" alt="" coords="193,1533,444,1577"/>
+<area shape="rect" id="node3" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#accef02a2e128b38a2f25a5b06f8af88d" title="G4AdjointForcedInteraction\lForGamma::BuildPhysicsTable" alt="" coords="493,5,717,49"/>
+<area shape="rect" id="node4" href="$da/d14/classG4VAdjointReverseReaction.html#aa34e0abea37e6e6139ebc621e07b4dbe" title="G4VAdjointReverseReaction\l::BuildPhysicsTable" alt="" coords="501,73,709,117"/>
+<area shape="rect" id="node6" href="$d3/dc0/classG4Nucleus.html#a614fdc4961e6e769023920b1f7b5edc9" title="G4Nucleus::G4Nucleus" alt="" coords="517,141,693,169"/>
+<area shape="rect" id="node11" href="$d6/d69/classG4IonisParamMat.html#a9af814ac9ccdd4f7e7ab2cbb21c4599a" title="G4IonisParamMat::G4Ionis\lParamMat" alt="" coords="505,397,705,441"/>
+<area shape="rect" id="node13" href="$de/d9d/pymodG4materials_8cc.html#a8a1782f1cb0b7b0c9a810bf6c99477b8" title="BOOST_PYTHON_MODULE" alt="" coords="508,465,703,493"/>
+<area shape="rect" id="node15" href="$d1/dfe/classG4ParticleHPFissionData.html#a9f56e2bf5ba788f7b31e4ebb47e4c81c" title="G4ParticleHPFissionData\l::GetIsoCrossSection" alt="" coords="513,517,698,561"/>
+<area shape="rect" id="node17" href="$d7/d94/classG4ParticleHPCaptureData.html#a0bd9a05b31f4c762bc58a471b134c80e" title="G4ParticleHPCaptureData\l::GetIsoCrossSection" alt="" coords="509,585,702,629"/>
+<area shape="rect" id="node19" href="$d9/de3/classG4ParticleHPElasticData.html#a45231c84ad3c5864b44f3fa8c9642c96" title="G4ParticleHPElasticData\l::GetIsoCrossSection" alt="" coords="513,653,697,697"/>
+<area shape="rect" id="node21" href="$d8/d88/classG4ParticleHPInelasticData.html#a5ce4dc514cfcff50cca9fd85c629ba55" title="G4ParticleHPInelasticData\l::GetIsoCrossSection" alt="" coords="507,721,703,765"/>
+<area shape="rect" id="node23" href="$d6/ddd/classG4CrossSectionElastic.html#afeefc5a867ec9ad524fe795188dd9aed" title="G4CrossSectionElastic\l::GetElementCrossSection" alt="" coords="507,789,704,833"/>
+<area shape="rect" id="node30" href="$d1/da8/classG4CrossSectionInelastic.html#a8eb4d629cfad65bf3c3e413146f25f72" title="G4CrossSectionInelastic\l::GetElementCrossSection" alt="" coords="507,1047,704,1091"/>
+<area shape="rect" id="node32" href="$d3/d5d/classG4QAOLowEnergyLoss.html#a090c8b39a2bd81924636042e90c6d432" title="G4QAOLowEnergyLoss\l::GetShellEnergy" alt="" coords="519,1115,692,1159"/>
+<area shape="rect" id="node33" href="$d3/d5d/classG4QAOLowEnergyLoss.html#a68fda2663f9e9b018f20057812c13248" title="G4QAOLowEnergyLoss\l::EnergyLoss" alt="" coords="773,1115,946,1159"/>
+<area shape="rect" id="node34" href="$d3/d5d/classG4QAOLowEnergyLoss.html#a01a43bcf02b1307a79e70f74e385471c" title="G4QAOLowEnergyLoss\l::TheValue" alt="" coords="1001,1115,1175,1159"/>
+<area shape="rect" id="node36" href="$da/dd1/classG4FissLib.html#a0ba4b4ce81699836b8c1857f603350f6" title="G4FissLib::ApplyYourself" alt="" coords="766,1231,953,1259"/>
+<area shape="rect" id="node37" href="$db/d3c/classG4ParticleHPCapture.html#ad993c73e66faf65c7d31158a309e2d82" title="G4ParticleHPCapture\l::ApplyYourself" alt="" coords="525,1235,686,1279"/>
+<area shape="rect" id="node38" href="$da/de9/classG4ParticleHPChannel.html#a4450d77b275244cff289ff9abe3daf58" title="G4ParticleHPChannel\l::ApplyYourself" alt="" coords="523,1303,687,1347"/>
+<area shape="rect" id="node39" href="$df/da7/classG4ParticleHPChannelList.html#a582280e45b7fb7f435bd55adb119b880" title="G4ParticleHPChannelList\l::ApplyYourself" alt="" coords="765,1332,953,1376"/>
+<area shape="rect" id="node40" href="$d1/d0d/classG4ParticleHPElastic.html#acccc70f060b85b68ef4f75ce57742fb2" title="G4ParticleHPElastic\l::ApplyYourself" alt="" coords="529,1423,681,1467"/>
+<area shape="rect" id="node41" href="$d5/dbc/classG4ParticleHPFission.html#a14b1348b930adc6befaf9f505ef47108" title="G4ParticleHPFission\l::ApplyYourself" alt="" coords="529,1491,682,1535"/>
+<area shape="rect" id="node42" href="$df/d75/classG4ParticleHPInelastic.html#a7c550631e52cec8839bdff7680e73b97" title="G4ParticleHPInelastic\l::ApplyYourself" alt="" coords="523,1559,687,1603"/>
+<area shape="rect" id="node45" href="$d6/db3/classG4ScreenedNuclearRecoil.html#ac0a4836566dc1c2a6a904962b642c427" title="used internally by Geant4 machinery" alt="" coords="507,1627,703,1671"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4Colour::Black" name="G4Colour::Black">
+<area shape="rect" id="node2" href="$d8/dc5/classPHG4BarrelEcalDisplayAction.html#ae5bfba24f36cf4fa8d37b296ff059ac5" title="ApplyDisplayAction method." alt="" coords="192,57,411,101"/>
+<area shape="rect" id="node3" href="$d6/d9e/classPHG4CrystalCalorimeterDisplayAction.html#a9d19d9c5a6ba06912514c0dbb784fef7" title="ApplyDisplayAction method." alt="" coords="184,125,419,169"/>
+<area shape="rect" id="node4" href="$de/d3a/classPHG4ForwardEcalDisplayAction.html#aeb9f32ed50cf6bbd7aadec41265a6a34" title="ApplyDisplayAction method." alt="" coords="185,193,418,237"/>
+<area shape="rect" id="node5" href="$d2/d25/classPHG4LFHcalDisplayAction.html#a94449957efd36a3de0a93a5c10e682b7" title="ApplyDisplayAction method." alt="" coords="204,261,399,305"/>
+<area shape="rect" id="node6" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="201,329,401,373"/>
+<area shape="rect" id="node8" href="$dd/d2d/classPHG4ECAPToFDetector.html#a80e457c0e22307d0cb848bd47dd4e9f8" title="PHG4ECAPToFDetector\l::ConstructMe" alt="" coords="214,397,389,441"/>
+<area shape="rect" id="node9" href="$d2/d28/classPHG4CylinderStripDetector.html#ad48f7eed9e51fdf1b53b6963f6a040e8" title="construct" alt="" coords="199,465,404,509"/>
+<area shape="rect" id="node10" href="$dc/dd2/classCML2WorldConstruction.html#ae318d1472185adeff8250554f92ac18b" title="CML2WorldConstruction\l::create" alt="" coords="210,533,393,577"/>
+<area shape="rect" id="node12" href="$da/daf/classG4Colour.html#a2a2846127f7e86bf0e2cc9567b3cfb04" title="G4Colour::InitialiseColourMap" alt="" coords="190,615,413,643"/>
+<area shape="rect" id="node38" href="$df/d02/classPHG4Utils.html#a1a7cdb2daef50974eb7306274407b086" title="PHG4Utils::SetColour" alt="" coords="219,1100,383,1128"/>
+<area shape="rect" id="node7" href="$d9/d5c/classPHG4MicromegasDetector.html#a645e1aa98c237126c8e53b9e3f028262" title="construct" alt="" coords="487,277,687,321"/>
+<area shape="rect" id="node11" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="559,345,614,373"/>
+<area shape="rect" id="node13" href="$da/daf/classG4Colour.html#a14e4878457ae45abef1faef02cc523d4" title="G4Colour::GetColour" alt="" coords="506,397,667,425"/>
+<area shape="rect" id="node27" href="$da/daf/classG4Colour.html#a67028bc00257f4e6f4235cfea1f1b3fd" title="G4Colour::GetMap" alt="" coords="514,640,659,668"/>
+<area shape="rect" id="node31" href="$d0/d0d/classG4VisManager.html#a3a150d4561c18ae60787e84f84ff09e2" title="G4VisManager::Initialise\lG4ColourMap" alt="" coords="494,692,679,736"/>
+<area shape="rect" id="node14" href="$d5/d22/classCexmcScenePrimitivesMessenger.html#a20375a63c6368cb5eb061b32ff10ce68" title="CexmcScenePrimitivesMessenger\l::SetNewValue" alt="" coords="755,5,1004,49"/>
+<area shape="rect" id="node15" href="$d7/dc2/classG4ViewParameters.html#afcdf689729f6cf801c696a828eb0f60a" title="G4ViewParameters::Camera\lAndLightingCommands" alt="" coords="774,73,985,117"/>
+<area shape="rect" id="node16" href="$d8/d2c/classG4VVisCommand.html#a4cc91d9b043499499997238d17591107" title="G4VVisCommand::ConvertTo\lColour" alt="" coords="771,141,987,185"/>
+<area shape="rect" id="node20" href="$d0/d87/classG4ModelCmdApplyStringColour.html#a77867d39a92712528eaf01300b46f2b2" title="G4ModelCmdApplyStringColour\l::SetNewValue" alt="" coords="761,209,997,253"/>
+<area shape="rect" id="node21" href="$d2/da3/classG4ModelCmdApplyColour.html#afad8024ada7ce69d14b2de88a35c072c" title="G4ModelCmdApplyColour\l::SetNewValue" alt="" coords="782,277,977,321"/>
+<area shape="rect" id="node22" href="$dd/d82/classG4ModelColourMap.html#a756260d7b5b8ffcf192040ff9f83039f" title="G4ModelColourMap::Set" alt="" coords="787,345,972,373"/>
+<area shape="rect" id="node23" href="$d4/d76/classG4AxesModel.html#a30495d8a58daee51409ee4c688d00600" title="G4AxesModel::G4AxesModel" alt="" coords="772,397,987,425"/>
+<area shape="rect" id="node24" href="$d5/d7b/classG4TrajectoryDrawByEncounteredVolume.html#a7143f3be5c4fbba5e7e4efd7fc22e00d" title="G4TrajectoryDrawByEncountered\lVolume::SetDefault" alt="" coords="757,449,1001,493"/>
+<area shape="rect" id="node25" href="$d6/da9/classG4TrajectoryDrawByOriginVolume.html#ab1a705ab1a089ac3fce98d05601efea2" title="G4TrajectoryDrawByOrigin\lVolume::SetDefault" alt="" coords="779,517,979,561"/>
+<area shape="rect" id="node26" href="$d1/dc7/classG4TrajectoryDrawByParticleID.html#ae1d24426c9624ffe076654c84099342f" title="G4TrajectoryDrawByParticle\lID::SetDefault" alt="" coords="775,585,984,629"/>
+<area shape="rect" id="node17" href="$d0/d77/classG4VisCommandSceneAddGPS.html#afadc21206b06729028a7b9603f66fd5e" title="G4VisCommandSceneAddGPS\l::SetNewValue" alt="" coords="1052,73,1277,117"/>
+<area shape="rect" id="node18" href="$dd/dd3/classG4VisCommandSetColour.html#a2705abc7853f9f70ca893f14af788ff0" title="G4VisCommandSetColour\l::SetNewValue" alt="" coords="1067,141,1263,185"/>
+<area shape="rect" id="node19" href="$d1/d9f/classG4VisCommandSetTextColour.html#ad2887ef17c732e9573a2de6e876efca0" title="G4VisCommandSetTextColour\l::SetNewValue" alt="" coords="1053,209,1277,253"/>
+<area shape="rect" id="node28" href="$d6/d3f/G4Colour_8cc.html#a022869a870620b8f3911f788d3d9efda" title="operator\&lt;\&lt;" alt="" coords="829,653,930,681"/>
+<area shape="rect" id="node29" href="$d0/d0d/classG4VisManager.html#a7b9527fc52cda3f42b47fc8f1c179642" title="G4VisManager::PrintAvailable\lColours" alt="" coords="769,705,989,749"/>
+<area shape="rect" id="node30" href="$d1/dfe/classG4VisCommandList.html#a827cf1e898cda54f487b43070952529a" title="G4VisCommandList::SetNew\lValue" alt="" coords="1058,689,1271,733"/>
+<area shape="rect" id="node32" href="$d0/d0d/classG4VisManager.html#aa10af3843183468ad190bec7f7f0ce3b" title="G4VisManager::Initialise" alt="" coords="787,788,972,816"/>
+<area shape="rect" id="node33" href="$dd/d66/perspective_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1137,757,1192,785"/>
+<area shape="rect" id="node34" href="$d0/d0d/classG4VisManager.html#a2649dfaf15ee90643d241032a7b67b70" title="G4VisManager::CreateScene\lHandler" alt="" coords="1058,809,1271,853"/>
+<area shape="rect" id="node35" href="$d0/d0d/classG4VisManager.html#a1a312f64b0e3f545c9ad016dea551650" title="G4VisManager::IsValidView" alt="" coords="1063,877,1267,905"/>
+<area shape="rect" id="node36" href="$d0/d0d/classG4VisManager.html#acaf20917822dea1e8237c7fd3234bb90" title="G4VisManager::Enable" alt="" coords="1339,851,1514,879"/>
+<area shape="rect" id="node37" href="$d0/d0d/classG4VisManager.html#aee7613dd02ea3fc04b62e20b674ee3ab" title="G4VisManager::BeginDraw" alt="" coords="1325,903,1528,931"/>
+<area shape="rect" id="node39" href="$de/ddc/classPHG4BeamlineMagnetDetector.html#a248f2983c53a1213681f7835b9379e6b" title="construct" alt="" coords="471,760,703,804"/>
+<area shape="rect" id="node40" href="$d7/dae/classPHG4BlockDisplayAction.html#af7297b2098f5dd6171bc1bf377b650f4" title="ApplyDisplayAction method." alt="" coords="493,828,680,872"/>
+<area shape="rect" id="node41" href="$dc/de2/classPHG4ConeDisplayAction.html#a96a697fc2e17c16585ae6c2c3f658c4a" title="ApplyDisplayAction method." alt="" coords="494,896,679,940"/>
+<area shape="rect" id="node42" href="$d0/d7b/classPHG4CylinderDisplayAction.html#a12f46d067c31ef2c8b4063e359d631d7" title="ApplyDisplayAction method." alt="" coords="483,964,690,1008"/>
+<area shape="rect" id="node43" href="$df/d0d/classPHG4GDMLDetector.html#a27c12c35ba1162847852500362c36697" title="PHG4GDMLDetector::SetDisplay\lProperty" alt="" coords="468,1032,705,1076"/>
+<area shape="rect" id="node44" href="$de/d1f/classPHG4HcalDetector.html#abd45714fd88b0f9d2abc92fba6c95e13" title="construct" alt="" coords="467,1100,707,1128"/>
+<area shape="rect" id="node45" href="$d6/d84/classPHG4SectorDisplayAction.html#ae7d67132b69778a4baa9b8e284ca4a16" title="ApplyDisplayAction method." alt="" coords="490,1152,683,1196"/>
+<area shape="rect" id="node46" href="$d4/d9b/classPHG4SpacalDisplayAction.html#aa0b01021ef5f18e17936aa204fdf61f8" title="ApplyDisplayAction method." alt="" coords="489,1220,685,1264"/>
+<area shape="rect" id="node47" href="$d4/d05/classPHG4MvtxDisplayAction.html#a9ff47460dad49c26e413a93d1170271e" title="ApplyDisplayAction method." alt="" coords="495,1288,678,1332"/>
+<area shape="rect" id="node48" href="$d7/d13/classPHG4TpcEndCapDisplayAction.html#a19a72b7ea46c94f2c491e2d9bb50e729" title="ApplyDisplayAction method." alt="" coords="473,1356,700,1400"/>
+<area shape="rect" id="node49" href="$d0/df4/classG4EicDircDisplayAction.html#ae1a5b4c6d556d912b3d36141b5d457a1" title="ApplyDisplayAction method." alt="" coords="497,1424,676,1468"/>
+<area shape="rect" id="node50" href="$da/dc7/classPHG4TTLDisplayAction.html#a517499f490bc51abefb82deb1e40b0f3" title="ApplyDisplayAction method." alt="" coords="499,1492,674,1536"/>
+</map>

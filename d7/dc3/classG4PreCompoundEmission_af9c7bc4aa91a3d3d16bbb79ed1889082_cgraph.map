@@ -1,0 +1,43 @@
+<map id="G4PreCompoundEmission::AngularDistribution" name="G4PreCompoundEmission::AngularDistribution">
+<area shape="rect" id="node2" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="642,57,709,85"/>
+<area shape="rect" id="node6" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="643,161,707,189"/>
+<area shape="rect" id="node12" href="$df/d5d/classG4Fragment.html#af1209ab905b48c4fac6c006cd2199c70" title="G4Fragment::GetA_asInt" alt="" coords="286,213,474,241"/>
+<area shape="rect" id="node13" href="$d6/df3/classG4VPreCompoundFragment.html#aefaea131822860892e8ea546969ccf43" title="G4VPreCompoundFragment\l::GetBindingEnergy" alt="" coords="275,265,485,309"/>
+<area shape="rect" id="node14" href="$df/d5d/classG4Fragment.html#a955c932293c02b54b5de570150f6baab" title="G4Fragment::GetExcitation\lEnergy" alt="" coords="278,333,482,377"/>
+<area shape="rect" id="node15" href="$d8/dd6/classG4NuclearLevelData.html#a10495b69be1343a236f86d834deecc59" title="G4NuclearLevelData\l::GetLevelDensity" alt="" coords="301,401,459,445"/>
+<area shape="rect" id="node28" href="$df/d5d/classG4Fragment.html#ad3ee6013d2ecd4a6c7901f67c2d1ee80" title="G4Fragment::GetMomentum" alt="" coords="273,469,487,497"/>
+<area shape="rect" id="node29" href="$d6/df3/classG4VPreCompoundFragment.html#ac0713c1937bde19bd0ad405ae2c0187e" title="G4VPreCompoundFragment\l::GetNuclearMass" alt="" coords="275,521,485,565"/>
+<area shape="rect" id="node30" href="$df/d5d/classG4Fragment.html#a7d2c54816f0f24e390af296f806d788f" title="G4Fragment::GetNumberOfExcitons" alt="" coords="248,589,512,617"/>
+<area shape="rect" id="node31" href="$df/d5d/classG4Fragment.html#a05dd98d2d33c8485e577b849cec5517d" title="G4Fragment::GetNumberOfHoles" alt="" coords="257,641,503,669"/>
+<area shape="rect" id="node32" href="$df/d5d/classG4Fragment.html#ac362a36eaf0fd867cb3736a45a8b3837" title="G4Fragment::GetNumberOfParticles" alt="" coords="248,693,512,721"/>
+<area shape="rect" id="node33" href="$df/d5d/classG4Fragment.html#a5a707b5c62397f90a097700964f9d9a4" title="G4Fragment::GetZ_asInt" alt="" coords="286,745,474,773"/>
+<area shape="rect" id="node34" href="$d7/dc3/classG4PreCompoundEmission.html#aaddaad0ba6b40c0a62ee1efa35089756" title="G4PreCompoundEmission::rho" alt="" coords="267,109,493,137"/>
+<area shape="rect" id="node36" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="300,797,460,841"/>
+<area shape="rect" id="node40" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="289,865,471,893"/>
+<area shape="rect" id="node41" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="286,917,474,945"/>
+<area shape="rect" id="node42" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a609a46bf7d9e939b077bbf539090fdcd" title="CLHEP::HepLorentzVector\l::vect" alt="" coords="283,969,477,1013"/>
+<area shape="rect" id="node3" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="876,5,1041,33"/>
+<area shape="rect" id="node5" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="864,57,1053,85"/>
+<area shape="rect" id="node4" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1147,5,1335,33"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="863,109,1055,137"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="863,161,1055,189"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="839,213,1079,241"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1147,187,1335,215"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1147,239,1335,267"/>
+<area shape="rect" id="node16" href="$d1/d89/classG4DeexPrecoParameters.html#a63cdbaa7201a0626cf38f754434a3c92" title="G4DeexPrecoParameters\l::GetLevelDensity" alt="" coords="581,265,770,309"/>
+<area shape="rect" id="node17" href="$d1/d89/classG4DeexPrecoParameters.html#ae79a77fcb5da2decd29ae658602c9d2d" title="G4DeexPrecoParameters\l::GetLevelDensityFlag" alt="" coords="581,333,770,377"/>
+<area shape="rect" id="node18" href="$d8/dd6/classG4NuclearLevelData.html#aaa757c26457b575f789aa8ffcc633cb7" title="G4NuclearLevelData\l::GetLevelManager" alt="" coords="596,401,755,445"/>
+<area shape="rect" id="node26" href="$db/dff/classG4LevelManager.html#a0fecec5b013772efd5eb6de15d9dfa3b" title="G4LevelManager::LevelDensity" alt="" coords="560,469,791,497"/>
+<area shape="rect" id="node27" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="625,521,726,549"/>
+<area shape="rect" id="node19" href="$d6/d60/classG4LevelReader.html#a93c79ac333e79662d02a75be87f2290f" title="G4LevelReader::CreateLevel\lManager" alt="" coords="853,401,1065,445"/>
+<area shape="rect" id="node20" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1497,381,1536,409"/>
+<area shape="rect" id="node21" href="$d6/d60/classG4LevelReader.html#a5bb154ffce96f1cdaf4444ebbb79ab85" title="G4LevelReader::LevelManager" alt="" coords="1127,465,1355,493"/>
+<area shape="rect" id="node22" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1463,433,1570,461"/>
+<area shape="rect" id="node23" href="$d6/d60/classG4LevelReader.html#a73c6e35bbd7fd7416a49d73f37156dac" title="G4LevelReader::Normalized\lICCProbability" alt="" coords="1413,485,1621,529"/>
+<area shape="rect" id="node24" href="$d6/d60/classG4LevelReader.html#aa2c3aad26caefc43f916ef550bb15dc5" title="G4LevelReader::ReadDataItem" alt="" coords="1403,553,1631,581"/>
+<area shape="rect" id="node25" href="$d1/d89/classG4DeexPrecoParameters.html#af3e0d92696663d703070a9c61b9294b1" title="G4DeexPrecoParameters\l::StoreICLevelData" alt="" coords="1422,605,1611,649"/>
+<area shape="rect" id="node35" href="$de/d0f/classG4Pow.html#adc464a1ab0e925e6a191691b4816a599" title="G4Pow::logfactorial" alt="" coords="599,109,751,137"/>
+<area shape="rect" id="node37" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="591,753,760,781"/>
+<area shape="rect" id="node38" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="591,805,760,833"/>
+<area shape="rect" id="node39" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="591,857,759,885"/>
+</map>

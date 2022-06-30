@@ -1,0 +1,26 @@
+<map id="G4KL3DecayChannel::DecayIt" name="G4KL3DecayChannel::DecayIt">
+<area shape="rect" id="node2" href="$df/d2d/classG4VDecayChannel.html#a85875979b9de4ddbf1243cee1e66832d" title="G4VDecayChannel::CheckAnd\lFillDaughters" alt="" coords="233,309,457,353"/>
+<area shape="rect" id="node5" href="$df/d2d/classG4VDecayChannel.html#a1c515b1f4f1f9e5aafe3d0e10cb5b643" title="G4VDecayChannel::CheckAnd\lFillParent" alt="" coords="812,61,1036,105"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1385,481,1539,525"/>
+<area shape="rect" id="node17" href="$df/d2d/classG4VDecayChannel.html#afb4448af9fd7398eb5653dc027ca8cea" title="G4VDecayChannel::GetVerbose\lLevel" alt="" coords="807,625,1041,669"/>
+<area shape="rect" id="node18" href="$da/d71/classG4KL3DecayChannel.html#ab46b4561987044fc70a7a589235a03f1" title="G4KL3DecayChannel::\lDalitzDensity" alt="" coords="550,592,722,636"/>
+<area shape="rect" id="node19" href="$da/d2d/classG4DecayProducts.html#a104799a3a48eb1e292c9b2815afdb153" title="G4DecayProducts::DumpInfo" alt="" coords="237,732,453,760"/>
+<area shape="rect" id="node21" href="$da/d71/classG4KL3DecayChannel.html#a22f61e8470cccdc8e2be9bf073fc7932" title="G4KL3DecayChannel::\lPhaseSpace" alt="" coords="550,660,722,704"/>
+<area shape="rect" id="node22" href="$da/d2d/classG4DecayProducts.html#a94e173a033189b1e0f0d40eb8e3d42aa" title="G4DecayProducts::PushProducts" alt="" coords="225,836,465,864"/>
+<area shape="rect" id="node23" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="250,888,441,916"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="250,940,441,968"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="250,992,441,1020"/>
+<area shape="rect" id="node3" href="$d7/d27/classG4TemplateAutoLock.html#a1fc2695a8c9b5527f9f3c62b32a2c172" title="G4TemplateAutoLock\l::unlock" alt="" coords="1116,5,1281,49"/>
+<area shape="rect" id="node4" href="$df/d2d/classG4VDecayChannel.html#af71647687242e3cd1ccb8bf62c3ffb3f" title="G4VDecayChannel::FillDaughters" alt="" coords="513,317,759,345"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1908,129,2015,157"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1356,129,1568,157"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="847,369,1001,413"/>
+<area shape="rect" id="node14" href="$df/d2d/classG4VDecayChannel.html#a421cc0d80ef26be722e4040f73bcf5e1" title="G4VDecayChannel::SetBR" alt="" coords="825,437,1023,465"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#aa657e9202ac24d15ea0b48491037b02f" title="G4ParticleDefinition\l::GetPDGWidth" alt="" coords="847,181,1001,225"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#aa0faf146fb655e885ca2ac249bafda83" title="G4ParticleDefinition\l::GetParticleType" alt="" coords="847,249,1001,293"/>
+<area shape="rect" id="node6" href="$df/d2d/classG4VDecayChannel.html#a58f654382302cd3c1c6894bd5a8c8565" title="G4VDecayChannel::FillParent" alt="" coords="1089,77,1308,105"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1616,129,1860,157"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1626,181,1850,209"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1647,233,1829,261"/>
+<area shape="rect" id="node20" href="$d7/d5c/classG4DynamicParticle.html#a156a5de1774b99eb97d87e73ce32e15a" title="G4DynamicParticle::\lDumpInfo" alt="" coords="557,728,715,772"/>
+</map>

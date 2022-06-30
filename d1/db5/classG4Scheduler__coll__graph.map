@@ -1,0 +1,40 @@
+<map id="G4Scheduler" name="G4Scheduler">
+<area shape="rect" id="node42" href="$d1/db4/classG4SchedulerMessenger.html" title="G4SchedulerMessenger" alt="" coords="3364,1961,3547,1989"/>
+<area shape="rect" id="node2" href="$d0/ddb/classG4VScheduler.html" title="G4VScheduler" alt="" coords="2564,1717,2683,1745"/>
+<area shape="rect" id="node3" href="$d4/d54/classG4VStateDependent.html" title="G4VStateDependent" alt="" coords="2543,1769,2704,1797"/>
+<area shape="rect" id="node4" href="$d0/d1d/classG4ITTrackingManager.html" title="G4ITTrackingManager" alt="" coords="2105,1574,2275,1602"/>
+<area shape="rect" id="node16" href="$d0/d59/classG4ITStepProcessor.html" title="G4ITStepProcessor" alt="" coords="2549,1205,2698,1233"/>
+<area shape="rect" id="node46" href="$d4/d21/classG4ITModelProcessor.html" title="G4ITModelProcessor" alt="" coords="2544,441,2703,469"/>
+<area shape="rect" id="node5" href="$d4/d3b/classG4ITTrackingInteractivity.html" title="G4ITTrackingInteractivity" alt="" coords="1549,1574,1739,1602"/>
+<area shape="rect" id="node6" href="$da/df0/classG4VITSteppingVerbose.html" title="G4VITSteppingVerbose" alt="" coords="1093,1535,1270,1563"/>
+<area shape="rect" id="node7" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="721,1847,852,1875"/>
+<area shape="rect" id="node8" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="367,1946,481,1974"/>
+<area shape="rect" id="node11" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="388,1086,460,1114"/>
+<area shape="rect" id="node27" href="$d7/d8b/classG4ITLeadingTracks.html" title="G4ITLeadingTracks" alt="" coords="523,745,671,773"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="749,959,825,987"/>
+<area shape="rect" id="node21" href="$db/d48/classG4FastListNode.html" title="G4FastListNode\&lt; G4Track \&gt;" alt="" coords="1076,907,1287,935"/>
+<area shape="rect" id="node25" href="$d3/d7e/classG4IT.html" title="G4IT" alt="" coords="1617,1025,1671,1053"/>
+<area shape="rect" id="node12" href="$df/d47/classG4StepPoint.html" title="G4StepPoint" alt="" coords="47,1675,153,1703"/>
+<area shape="rect" id="node13" href="$da/df8/classG4ITStepProcessorState.html" title="G4ITStepProcessorState" alt="" coords="695,1682,879,1710"/>
+<area shape="rect" id="node14" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="696,1917,877,1945"/>
+<area shape="rect" id="node15" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="709,1247,864,1275"/>
+<area shape="rect" id="node17" href="$d6/dfd/classG4ITTrackHolder.html" title="G4ITTrackHolder" alt="" coords="2123,601,2257,629"/>
+<area shape="rect" id="node18" href="$d0/d12/classG4VITTrackHolder.html" title="G4VITTrackHolder" alt="" coords="1573,461,1715,489"/>
+<area shape="rect" id="node19" href="$d4/df2/classG4FastList.html" title="G4FastList\&lt; G4Track \&gt;" alt="" coords="1557,851,1731,879"/>
+<area shape="rect" id="node20" href="$db/d48/classG4FastListNode.html" title="G4FastListNode\&lt; G4FastList\l\&lt; G4Track \&gt; \&gt;" alt="" coords="2084,890,2296,934"/>
+<area shape="rect" id="node22" href="$d6/d52/classG4ManyFastLists.html" title="G4ManyFastLists\&lt; G4Track \&gt;" alt="" coords="1535,513,1753,541"/>
+<area shape="rect" id="node26" href="$d9/d0a/classG4TrackingInformation.html" title="G4TrackingInformation" alt="" coords="1094,1075,1269,1103"/>
+<area shape="rect" id="node28" href="$d9/d54/classG4VITProcess.html" title="G4VITProcess" alt="" coords="43,1546,157,1574"/>
+<area shape="rect" id="node30" href="$df/d6e/classG4ITTransportation.html" title="G4ITTransportation" alt="" coords="349,1386,499,1414"/>
+<area shape="rect" id="node29" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="711,1311,862,1339"/>
+<area shape="rect" id="node31" href="$dc/d59/structProcessGeneralInfo.html" title="ProcessGeneralInfo" alt="" coords="711,1386,862,1414"/>
+<area shape="rect" id="node33" href="$d6/dcb/classG4ITModelHandler.html" title="G4ITModelHandler" alt="" coords="2116,149,2264,177"/>
+<area shape="rect" id="node35" href="$d5/df0/classG4ITModelManager.html" title="G4ITModelManager" alt="" coords="1105,110,1258,138"/>
+<area shape="rect" id="node37" href="$dc/d90/classG4ITGun.html" title="G4ITGun" alt="" coords="2583,25,2663,53"/>
+<area shape="rect" id="node38" href="$de/d58/classG4UserTimeStepAction.html" title="G4UserTimeStepAction" alt="" coords="2535,77,2712,105"/>
+<area shape="rect" id="node39" href="$dd/dbb/classG4ITReactionSet.html" title="G4ITReactionSet" alt="" coords="2123,241,2257,269"/>
+<area shape="rect" id="node43" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html" title="G4UIcmdWithADoubleAndUnit" alt="" coords="2933,2041,3160,2069"/>
+<area shape="rect" id="node44" href="$d8/d06/classG4UIcmdWithABool.html" title="G4UIcmdWithABool" alt="" coords="2970,2093,3123,2121"/>
+<area shape="rect" id="node45" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="2943,2169,3150,2197"/>
+<area shape="rect" id="node49" href="$de/d83/classG4VITStepModel.html" title="G4VITStepModel" alt="" coords="1577,303,1711,331"/>
+</map>

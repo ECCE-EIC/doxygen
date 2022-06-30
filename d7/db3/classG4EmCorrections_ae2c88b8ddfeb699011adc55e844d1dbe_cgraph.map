@@ -1,0 +1,24 @@
+<map id="G4EmCorrections::G4EmCorrections" name="G4EmCorrections::G4EmCorrections">
+<area shape="rect" id="node2" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="347,120,505,148"/>
+<area shape="rect" id="node3" href="$d8/dd3/classG4ParticleTable.html#a56e8ae902c7fd223310a13dadd6c577d" title="G4ParticleTable::GetIonTable" alt="" coords="319,172,533,200"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="322,224,530,268"/>
+<area shape="rect" id="node11" href="$d7/db3/classG4EmCorrections.html#acaa66e68da581b05e500bdb2ea56cbff" title="G4EmCorrections::Initialise" alt="" coords="324,321,528,349"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="591,164,793,208"/>
+<area shape="rect" id="node6" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="883,5,1059,49"/>
+<area shape="rect" id="node7" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="883,73,1059,117"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="879,141,1062,169"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="893,193,1048,237"/>
+<area shape="rect" id="node10" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="857,261,1085,289"/>
+<area shape="rect" id="node12" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="581,261,803,289"/>
+<area shape="rect" id="node13" href="$d9/d66/classG4LPhysicsFreeVector.html#aacfb58b14d1abe4203e3595baf20e936" title="G4LPhysicsFreeVector\l::PutValues" alt="" coords="607,313,777,357"/>
+<area shape="rect" id="node17" href="$d7/d2c/classG4PhysicsVector.html#aba40887d022724e54654532e8bfef1cc" title="G4PhysicsVector::SetSpline" alt="" coords="589,381,795,409"/>
+<area shape="rect" id="node18" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="660,433,724,461"/>
+<area shape="rect" id="node14" href="$d4/dc2/classG4PhysicsFreeVector.html#a81714f2a435774457cbca7f421188309" title="G4PhysicsFreeVector\l::PutValue" alt="" coords="889,313,1052,357"/>
+<area shape="rect" id="node15" href="$d7/d2c/classG4PhysicsVector.html#a3ab62fa83db33d15a7e85748b03f2d78" title="G4PhysicsVector::PrintPut\lValueError" alt="" coords="1139,313,1333,357"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1381,321,1488,349"/>
+<area shape="rect" id="node19" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="875,381,1067,409"/>
+<area shape="rect" id="node20" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="875,433,1067,461"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="851,485,1091,513"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1142,459,1330,487"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1142,511,1330,539"/>
+</map>

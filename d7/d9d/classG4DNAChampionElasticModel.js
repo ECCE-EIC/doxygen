@@ -1,0 +1,28 @@
+var classG4DNAChampionElasticModel =
+[
+    [ "TriDimensionMap", "d7/d9d/classG4DNAChampionElasticModel.html#a9f789682444a25d2b4503854db917567", null ],
+    [ "VecMap", "d7/d9d/classG4DNAChampionElasticModel.html#a71b0a1e3bdb2c9560b9b821bd7fa79bf", null ],
+    [ "G4DNAChampionElasticModel", "d7/d9d/classG4DNAChampionElasticModel.html#a95166003b0a0e1ab5b1b2b67d2215e67", null ],
+    [ "~G4DNAChampionElasticModel", "d7/d9d/classG4DNAChampionElasticModel.html#a92a242f1d12e2d970808727bad54c5d9", null ],
+    [ "G4DNAChampionElasticModel", "d7/d9d/classG4DNAChampionElasticModel.html#a3427d996999abbd900b10383e1be4ace", null ],
+    [ "CrossSectionPerVolume", "d7/d9d/classG4DNAChampionElasticModel.html#a3b428164cc9a41ddb5689c2f3828a155", null ],
+    [ "GetKillBelowThreshold", "d7/d9d/classG4DNAChampionElasticModel.html#a3d9d3c7aed89623c53d3818a122cc16c", null ],
+    [ "Initialise", "d7/d9d/classG4DNAChampionElasticModel.html#a46afc3bad384ec2dc21755fc8e36c5c0", null ],
+    [ "LinLinInterpolate", "d7/d9d/classG4DNAChampionElasticModel.html#a6949f6ca5d85ca102245edb8000daeb7", null ],
+    [ "LinLogInterpolate", "d7/d9d/classG4DNAChampionElasticModel.html#a647ee48413f222151de02b4d5a51efd3", null ],
+    [ "LogLogInterpolate", "d7/d9d/classG4DNAChampionElasticModel.html#a73998d8aeb187dfdf1c50a822292d180", null ],
+    [ "operator=", "d7/d9d/classG4DNAChampionElasticModel.html#a8b25dae3c97ea691dc917f3931bb07a3", null ],
+    [ "QuadInterpolator", "d7/d9d/classG4DNAChampionElasticModel.html#ae37dff03e7548afea90383cc71249633", null ],
+    [ "RandomizeCosTheta", "d7/d9d/classG4DNAChampionElasticModel.html#ae50d77fcfff6c949acc0a72fc439a10a", null ],
+    [ "SampleSecondaries", "d7/d9d/classG4DNAChampionElasticModel.html#a407218b6673e4e6df18cfb6b5734b517", null ],
+    [ "SetKillBelowThreshold", "d7/d9d/classG4DNAChampionElasticModel.html#a26d538d26ae362ea597769f58fb1e273", null ],
+    [ "Theta", "d7/d9d/classG4DNAChampionElasticModel.html#a272ab03aef58dd3d4a1944bf27c6fb1a", null ],
+    [ "eDiffCrossSectionData", "d7/d9d/classG4DNAChampionElasticModel.html#a328615e95a7bff631ee9cfc8b2eb8d4a", null ],
+    [ "eTdummyVec", "d7/d9d/classG4DNAChampionElasticModel.html#a32bebd9b2ec69962d4f23c62bc13cc79", null ],
+    [ "eVecm", "d7/d9d/classG4DNAChampionElasticModel.html#ad04efc930b9190b6b5aaf652c6a3211d", null ],
+    [ "fParticleChangeForGamma", "d7/d9d/classG4DNAChampionElasticModel.html#ad38cf9b9a5c5b417b821fed40ca52e31", null ],
+    [ "fpData", "d7/d9d/classG4DNAChampionElasticModel.html#aee94f578b3c193498d6c583bba69949c", null ],
+    [ "fpMolWaterDensity", "d7/d9d/classG4DNAChampionElasticModel.html#acd59f0bd7ae9e9af6749f251fa6fb211", null ],
+    [ "isInitialised", "d7/d9d/classG4DNAChampionElasticModel.html#ae973dc52105bf3198fce29ce08dec8e7", null ],
+    [ "verboseLevel", "d7/d9d/classG4DNAChampionElasticModel.html#a62a8803f2a116333be322580aef8bac6", null ]
+];

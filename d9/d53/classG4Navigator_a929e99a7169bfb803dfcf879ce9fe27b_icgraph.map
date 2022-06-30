@@ -1,0 +1,51 @@
+<map id="G4Navigator::Clone" name="G4Navigator::Clone">
+<area shape="rect" id="node2" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="207,1488,413,1532"/>
+<area shape="rect" id="node50" href="$d1/d32/classG4VIntersectionLocator.html#a3868feb47ee7638a27664ce85380b647" title="G4VIntersectionLocator\l::G4VIntersectionLocator" alt="" coords="215,1556,405,1600"/>
+<area shape="rect" id="node3" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="461,1488,673,1532"/>
+<area shape="rect" id="node4" href="$d8/d1e/classPHG4OuterHcalField.html#af89f6b751ebde1d2713a6c558fd24480" title="PHG4OuterHcalField\l::GetFieldValue" alt="" coords="775,5,933,49"/>
+<area shape="rect" id="node5" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a03f0a2b7a371616bee75f13243d9a4a3" title="PHG4OuterHcalSteppingAction\l::FieldChecker" alt="" coords="739,73,969,117"/>
+<area shape="rect" id="node6" href="$d4/d2e/classG4TBMagneticFieldSetup.html#a0c0283b70cfe56722463755a240697a1" title="G4TBMagneticFieldSetup\l::GetGlobalFieldManager" alt="" coords="759,141,949,185"/>
+<area shape="rect" id="node7" href="$dc/d5b/classDetectorConstruction.html#acae2389a76f4cbe3195b4d00cc66dd55" title="DetectorConstruction\l::SetMaxStepLength" alt="" coords="771,209,937,253"/>
+<area shape="rect" id="node8" href="$dc/d5b/classDetectorConstruction.html#a63ab08aef61c63c09b59019e4d586d60" title="DetectorConstruction\l::SetMagField" alt="" coords="771,277,937,321"/>
+<area shape="rect" id="node9" href="$df/d79/pymodG4geometry_8cc.html#a4f6d9d8e60baa6ff65931fd945b05c5c" title="export_G4TransportationManager" alt="" coords="730,345,978,373"/>
+<area shape="rect" id="node10" href="$d5/dd3/classExN03DetectorConstruction.html#a9e49045a93afcc3c52f5339c01316af3" title="ExN03DetectorConstruction\l::SetMagField" alt="" coords="749,397,959,441"/>
+<area shape="rect" id="node11" href="$de/d03/classCCalDetectorConstruction.html#a8b6bebc7e4a806aab4e4da8efe9cd818" title="CCalDetectorConstruction\l::Construct" alt="" coords="756,465,952,509"/>
+<area shape="rect" id="node12" href="$d3/d1a/classPurgMagDetectorConstruction.html#a0d57da7fff50c982f3477a478760f499" title="PurgMagDetectorConstruction\l::ConstructSDandField" alt="" coords="742,533,966,577"/>
+<area shape="rect" id="node13" href="$d1/d58/classDMXParticleSource.html#a74f32a2c8b2ea41cd4d1852d1421ceba" title="DMXParticleSource::\lDMXParticleSource" alt="" coords="776,601,932,645"/>
+<area shape="rect" id="node14" href="$da/dd8/classDMXStackingAction.html#a0b472c1800d1e97ec71fb96692deeee8" title="DMXStackingAction::\lDMXStackingAction" alt="" coords="773,669,935,713"/>
+<area shape="rect" id="node15" href="$dd/d77/classExErrorMagneticField.html#a8e565a398c991a2e4887ae2183970100" title="ExErrorMagneticField\l::GetGlobalFieldManager" alt="" coords="759,737,949,781"/>
+<area shape="rect" id="node16" href="$da/d50/classExN04DetectorConstruction.html#a138659b6ab1b2c11a9e6df0f2345a094" title="ExN04DetectorConstruction\l::Construct" alt="" coords="749,805,959,849"/>
+<area shape="rect" id="node17" href="$dc/dea/classHepMCG4Interface.html#aa6506443875a8f04967dc28f0941bedf" title="HepMCG4Interface::CheckVertex\lInsideWorld" alt="" coords="733,873,975,917"/>
+<area shape="rect" id="node18" href="$d2/d87/classH02DetectorConstruction.html#ae0c9eca5ddfd712562efe68bb53d3a2e" title="H02DetectorConstruction\l::Construct" alt="" coords="758,941,950,985"/>
+<area shape="rect" id="node19" href="$d5/dac/classG4MonopoleFieldSetup.html#a9df5fa52c0048d4ed6da23ae45f234c4" title="G4MonopoleFieldSetup\l::GetGlobalFieldManager" alt="" coords="759,1009,949,1053"/>
+<area shape="rect" id="node20" href="$d2/d49/classG4MonopoleTransportation.html#ab80bddaf999144c1dee4c9ee1cdabfdd" title="G4MonopoleTransportation\l::G4MonopoleTransportation" alt="" coords="748,1077,960,1121"/>
+<area shape="rect" id="node21" href="$d7/dfb/classExUCNDetectorConstruction.html#a3e0dd407637979f70d430afdaf03da60" title="ExUCNDetectorConstruction\l::ConstructSDandField" alt="" coords="749,1145,959,1189"/>
+<area shape="rect" id="node22" href="$d6/dfa/classG4BlineTracer.html#a101e07bb8610d82a5fb2b3b0fea44cf7" title="G4BlineTracer::ComputeBlines" alt="" coords="1035,1244,1261,1272"/>
+<area shape="rect" id="node23" href="$d6/dfa/classG4BlineTracer.html#a4477ec49a927a4c2ed16a2535643452d" title="G4BlineTracer::ResetChord\lFinders" alt="" coords="753,1265,955,1309"/>
+<area shape="rect" id="node24" href="$db/d6c/classF01FieldSetup.html#a9ef5de492a979520a10828f4f6fb2de6" title="F01FieldSetup::InitialiseAll" alt="" coords="755,1333,953,1361"/>
+<area shape="rect" id="node25" href="$db/d6c/classF01FieldSetup.html#a68930f2b8c31d8a0100227c46423b723" title="F01FieldSetup::GetGlobal\lFieldManager" alt="" coords="757,1385,951,1429"/>
+<area shape="rect" id="node26" href="$d0/d75/classF02ElectricFieldSetup.html#a8391eb94d9b2b70cf1099bc712c3062b" title="F02ElectricFieldSetup\l::GetGlobalFieldManager" alt="" coords="759,1453,949,1497"/>
+<area shape="rect" id="node27" href="$d9/d21/classF03FieldSetup.html#aa33cddf28a13032f8e606df54f4373df" title="F03FieldSetup::GetGlobal\lFieldManager" alt="" coords="757,1521,951,1565"/>
+<area shape="rect" id="node28" href="$d0/d37/classF04ElementField.html#aac77bfff9743d3ea0c0b20b426d305f2" title="the actual implementation constructs the F04ElementField" alt="" coords="750,1589,958,1617"/>
+<area shape="rect" id="node29" href="$df/de8/classF04GlobalField.html#a1998b67aa9a08c635ea3453041455c22" title="constructs all field tracking objects" alt="" coords="1050,1663,1246,1707"/>
+<area shape="rect" id="node30" href="$df/de8/classF04GlobalField.html#ae52e755184085331dee8ec62be08500c" title="Get the global field manager." alt="" coords="755,1693,953,1737"/>
+<area shape="rect" id="node31" href="$dd/d3d/classF04PrimaryGeneratorAction.html#a1a8af408d3e911a3087a9dc9c5ae9dfe" title="F04PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="750,1761,958,1805"/>
+<area shape="rect" id="node32" href="$d7/d31/classF05DetectorConstruction.html#aca447fec8292695bf25a88a880e264d1" title="F05DetectorConstruction\l::ConstructSDandField" alt="" coords="759,1829,949,1873"/>
+<area shape="rect" id="node33" href="$df/dc1/classF06DetectorConstruction.html#abe62e126a19f57a23727808c1837056e" title="F06DetectorConstruction\l::ConstructSDandField" alt="" coords="759,1897,949,1941"/>
+<area shape="rect" id="node34" href="$dc/d3f/classExN02MagneticField.html#a015730b9947b68fcdf49bd3c7937da3d" title="ExN02MagneticField\l::GetGlobalFieldManager" alt="" coords="759,1965,949,2009"/>
+<area shape="rect" id="node35" href="$d5/d13/classPar01EMShowerModel.html#ad2dc2f404e5663e6c1005ba9ab59baa6" title="Par01EMShowerModel\l::FillFakeStep" alt="" coords="769,2033,939,2077"/>
+<area shape="rect" id="node36" href="$d3/d67/classPar01PionShowerModel.html#a1c8d98eeb515001f7e58114f676e160b" title="Par01PionShowerModel\l::FillFakeStep" alt="" coords="765,2101,943,2145"/>
+<area shape="rect" id="node37" href="$d4/dde/load__gdml_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="827,2169,881,2197"/>
+<area shape="rect" id="node38" href="$d4/dd8/classExP01MagneticField.html#ac5e694eb985ec80c92d419c9475bdf4f" title="ExP01MagneticField\l::GetGlobalFieldManager" alt="" coords="759,2221,949,2265"/>
+<area shape="rect" id="node39" href="$dc/d99/classRE01DetectorConstruction.html#ac5bb5ff54cc7a25c2db3ba02b3393bb3" title="RE01DetectorConstruction\l::ConstructSDandField" alt="" coords="754,2289,954,2333"/>
+<area shape="rect" id="node40" href="$d2/d0a/classRE05DetectorConstruction.html#a310a7e0cbd04efacca294bf37ebd0129" title="RE05DetectorConstruction\l::ConstructSDandField" alt="" coords="754,2357,954,2401"/>
+<area shape="rect" id="node41" href="$de/d15/classG4ErrorFreeTrajState.html#a9cd80cbe18b812e160b6e03ca7c9c1b0" title="G4ErrorFreeTrajState\l::G4ErrorFreeTrajState" alt="" coords="769,2425,939,2469"/>
+<area shape="rect" id="node42" href="$de/d15/classG4ErrorFreeTrajState.html#aba94476e89b755f16d94b639b6b95be5" title="G4ErrorFreeTrajState\l::PropagateError" alt="" coords="773,2493,935,2537"/>
+<area shape="rect" id="node43" href="$d1/d20/classG4ErrorMagFieldLimitProcess.html#afb3dc36e959a35bfa77c44a205d59fd4" title="G4ErrorMagFieldLimitProcess\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="733,2561,975,2621"/>
+<area shape="rect" id="node44" href="$dd/d88/classG4ErrorPropagatorManager.html#a37caf9a0063a7d08ddddf97373aca164" title="G4ErrorPropagatorManager\l::StartNavigator" alt="" coords="751,2645,957,2689"/>
+<area shape="rect" id="node45" href="$dd/d88/classG4ErrorPropagatorManager.html#ac15bf24dbd29b84235f6a161f3be1bc4" title="G4ErrorPropagatorManager\l::InitFieldForBackwards" alt="" coords="751,2713,957,2757"/>
+<area shape="rect" id="node46" href="$d8/db0/classG4ErrorRunManagerHelper.html#a60f689763bbd61042c9d5482a9680f68" title="G4ErrorRunManagerHelper\l::InitializeGeometry" alt="" coords="752,2781,956,2825"/>
+<area shape="rect" id="node47" href="$d8/d3c/classG4ErrorSurfaceTrajState.html#a16ee1fc3318b012e3b9ddf02377da6d8" title="G4ErrorSurfaceTrajState\l::BuildErrorMatrix" alt="" coords="762,2849,946,2893"/>
+<area shape="rect" id="node48" href="$dc/d93/classG4AdjointPrimaryGenerator.html#ae9ff517a36accc8bc435505d20ac2bbd" title="G4AdjointPrimaryGenerator\l::ComputeAccumulatedDepthVector\lAlongBackRay" alt="" coords="721,2917,987,2977"/>
+<area shape="rect" id="node49" href="$da/d44/classG4EventManager.html#aa9b657900a128fa1fe848ceb188c2c20" title="G4EventManager::DoProcessing" alt="" coords="735,3001,973,3029"/>
+</map>

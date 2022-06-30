@@ -1,0 +1,25 @@
+var classG4NavigationLogger =
+[
+    [ "G4NavigationLogger", "db/dd0/classG4NavigationLogger.html#a3bfdfa6a28d732608abbcec8bb8c2d8a", null ],
+    [ "~G4NavigationLogger", "db/dd0/classG4NavigationLogger.html#ac18c04526753f6adfc72a90f3dd4d1bc", null ],
+    [ "AlongComputeStepLog", "db/dd0/classG4NavigationLogger.html#adc4340dd39ad988d7b07661ca298415a", null ],
+    [ "CheckAndReportBadNormal", "db/dd0/classG4NavigationLogger.html#ae360b032f5de8a93ea32d42af8cefb2f", null ],
+    [ "CheckAndReportBadNormal", "db/dd0/classG4NavigationLogger.html#a30a59c8b56651074e19f325c3c6c59cf", null ],
+    [ "CheckDaughterEntryPoint", "db/dd0/classG4NavigationLogger.html#a8db55afdd1ce1fe99ba994da5e1ad05b", null ],
+    [ "ComputeSafetyLog", "db/dd0/classG4NavigationLogger.html#ab8dd3ec7cbf10269146e8f08eb952944", null ],
+    [ "GetMinTriggerDistance", "db/dd0/classG4NavigationLogger.html#a25f4b9646d9ea1c51cf3426cb80450dc", null ],
+    [ "GetReportSoftWarnings", "db/dd0/classG4NavigationLogger.html#a3d1dac567c8ef8f0827fd7b41daf5444", null ],
+    [ "GetVerboseLevel", "db/dd0/classG4NavigationLogger.html#a4b8045c282219cf01583b0e1832a9201", null ],
+    [ "PostComputeStepLog", "db/dd0/classG4NavigationLogger.html#ab6ece726715585498228ff301d6ab9d3", null ],
+    [ "PreComputeStepLog", "db/dd0/classG4NavigationLogger.html#a9da6b62716a207abdce4926fd51d275f", null ],
+    [ "PrintDaughterLog", "db/dd0/classG4NavigationLogger.html#a79382a3c0418b4fc763f0f764a2dfd3e", null ],
+    [ "ReportOutsideMother", "db/dd0/classG4NavigationLogger.html#a563cfc1481e537f9ce31f973e341c9dd", null ],
+    [ "ReportVolumeAndIntersection", "db/dd0/classG4NavigationLogger.html#a7865e6268e0ea83244e1dbc48ce23a17", null ],
+    [ "SetMinTriggerDistance", "db/dd0/classG4NavigationLogger.html#af81153c94d12d5a5051c963a68fedb94", null ],
+    [ "SetReportSoftWarnings", "db/dd0/classG4NavigationLogger.html#a8df7c05c40cb10352cf2a864fa14eded", null ],
+    [ "SetVerboseLevel", "db/dd0/classG4NavigationLogger.html#a032c1d1c4d5ec831c5aee9a24ef1eb61", null ],
+    [ "fId", "db/dd0/classG4NavigationLogger.html#a3689a534305c46ed00f3ac2f254fe651", null ],
+    [ "fMinTriggerDistance", "db/dd0/classG4NavigationLogger.html#a3b4e46fefc04b635b113084766da4949", null ],
+    [ "fReportSoftWarnings", "db/dd0/classG4NavigationLogger.html#a56b0960004023306ca6e778762319fd9", null ],
+    [ "fVerbose", "db/dd0/classG4NavigationLogger.html#ae884813e134a425a2745f5f288d9134f", null ]
+];

@@ -1,0 +1,48 @@
+<map id="DMXSteppingAction" name="DMXSteppingAction">
+<area shape="rect" id="node50" href="$dd/d76/classDMXSteppingActionMessenger.html" title="DMXSteppingActionMessenger" alt="" coords="3931,2208,4161,2236"/>
+<area shape="rect" id="node2" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="2646,1636,2819,1664"/>
+<area shape="rect" id="node3" href="$d0/dd0/classG4SteppingManager.html" title="G4SteppingManager" alt="" coords="1955,1542,2116,1570"/>
+<area shape="rect" id="node31" href="$da/d01/classG4VSteppingVerbose.html" title="G4VSteppingVerbose" alt="" coords="1088,1768,1252,1796"/>
+<area shape="rect" id="node34" href="$da/d44/classG4EventManager.html" title="G4EventManager" alt="" coords="3137,1768,3275,1796"/>
+<area shape="rect" id="node16" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="1606,1446,1678,1474"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="1649,706,1725,734"/>
+<area shape="rect" id="node14" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="681,914,822,942"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="872,514,967,542"/>
+<area shape="rect" id="node18" href="$df/d47/classG4StepPoint.html" title="G4StepPoint" alt="" coords="1231,1246,1336,1274"/>
+<area shape="rect" id="node28" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="727,826,899,854"/>
+<area shape="rect" id="node7" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="3062,176,3142,204"/>
+<area shape="rect" id="node10" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="686,1038,787,1066"/>
+<area shape="rect" id="node19" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="2307,396,2478,424"/>
+<area shape="rect" id="node20" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="2569,278,2672,306"/>
+<area shape="rect" id="node21" href="$d5/d11/classG4VReadOutGeometry.html" title="G4VReadOutGeometry" alt="" coords="2595,1038,2771,1066"/>
+<area shape="rect" id="node22" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="2891,706,3046,734"/>
+<area shape="rect" id="node25" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="2506,514,2645,542"/>
+<area shape="rect" id="node32" href="$d9/ddc/classDMXEventAction.html" title="DMXEventAction" alt="" coords="3617,2024,3749,2052"/>
+<area shape="rect" id="node36" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="4451,1446,4582,1474"/>
+<area shape="rect" id="node38" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="4251,1542,4372,1570"/>
+<area shape="rect" id="node42" href="$de/d11/classDMXRunAction.html" title="DMXRunAction" alt="" coords="3794,1868,3914,1896"/>
+<area shape="rect" id="node47" href="$d1/d58/classDMXParticleSource.html" title="DMXParticleSource" alt="" coords="2797,1038,2945,1066"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="3057,99,3147,127"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="3031,5,3173,49"/>
+<area shape="rect" id="node11" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="505,914,657,942"/>
+<area shape="rect" id="node12" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="484,706,619,734"/>
+<area shape="rect" id="node13" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="189,706,340,734"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="1976,514,2129,542"/>
+<area shape="rect" id="node26" href="$d9/d53/classG4Navigator.html" title="G4Navigator" alt="" coords="2458,914,2565,942"/>
+<area shape="rect" id="node23" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="3007,514,3096,542"/>
+<area shape="rect" id="node24" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="2685,396,2853,424"/>
+<area shape="rect" id="node27" href="$df/d6f/classG4CollectionNameVector.html" title="G4CollectionNameVector" alt="" coords="2140,278,2331,306"/>
+<area shape="rect" id="node29" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="1426,506,1639,550"/>
+<area shape="rect" id="node35" href="$df/d52/classDMXEventActionMessenger.html" title="DMXEventActionMessenger" alt="" coords="4260,1768,4467,1796"/>
+<area shape="rect" id="node33" href="$de/d75/classG4UserEventAction.html" title="G4UserEventAction" alt="" coords="3241,1868,3393,1896"/>
+<area shape="rect" id="node44" href="$d2/d16/classDMXRunActionMessenger.html" title="DMXRunActionMessenger" alt="" coords="3934,1768,4129,1796"/>
+<area shape="rect" id="node37" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="4558,1636,4673,1664"/>
+<area shape="rect" id="node39" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="4174,1636,4355,1664"/>
+<area shape="rect" id="node40" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="3987,1636,4150,1664"/>
+<area shape="rect" id="node41" href="$d8/d06/classG4UIcmdWithABool.html" title="G4UIcmdWithABool" alt="" coords="4380,1636,4533,1664"/>
+<area shape="rect" id="node43" href="$dd/d05/classG4UserRunAction.html" title="G4UserRunAction" alt="" coords="3721,1768,3859,1796"/>
+<area shape="rect" id="node45" href="$d0/d83/classDMXPrimaryGeneratorAction.html" title="DMXPrimaryGeneratorAction" alt="" coords="3376,1246,3591,1274"/>
+<area shape="rect" id="node46" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html" title="G4VUserPrimaryGeneratorAction" alt="" coords="3375,1038,3618,1066"/>
+<area shape="rect" id="node48" title="STL class." alt="" coords="3524,1868,3635,1896"/>
+<area shape="rect" id="node49" title="STL class." alt="" coords="3492,1760,3645,1804"/>
+</map>

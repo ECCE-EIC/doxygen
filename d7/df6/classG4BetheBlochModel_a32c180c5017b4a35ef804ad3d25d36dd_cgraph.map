@@ -1,0 +1,27 @@
+<map id="G4BetheBlochModel::Initialise" name="G4BetheBlochModel::Initialise">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#a24cb4beb9a3f415e2825d36bc739ddeb" title="G4VEmModel::GetAngularDistribution" alt="" coords="230,5,506,33"/>
+<area shape="rect" id="node3" href="$d2/d00/classG4NistManager.html#a0c2f9f5a2f9cbe2261e28961acbc3792" title="G4NistManager::GetICRU90\lStoppingData" alt="" coords="264,57,472,101"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#affb65122301d60e0c5c3140022408c19" title="G4VEmModel::GetParticleChange\lForLoss" alt="" coords="245,125,491,169"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="895,164,1050,208"/>
+<area shape="rect" id="node7" href="$d9/d2c/classG4ICRU90StoppingData.html#abefae004487b88e5b2bc5eeb9be2e04b" title="G4ICRU90StoppingData\l::Initialise" alt="" coords="277,339,459,383"/>
+<area shape="rect" id="node11" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="265,407,471,435"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a2a897478564632b78b66947fdb8fa5b4" title="G4VEmModel::IsMaster" alt="" coords="279,459,457,487"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#aa8bea20dbb86b0d0c9dcfc693b6833df" title="G4VEmModel::SetAngularDistribution" alt="" coords="231,511,505,539"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#aa41b184ca487617663d66daec796c6c5" title="G4VEmModel::SetDeexcitationFlag" alt="" coords="240,563,496,591"/>
+<area shape="rect" id="node15" href="$d7/df6/classG4BetheBlochModel.html#a79ec15a054b6d52acdb200c166f2277c" title="G4BetheBlochModel::\lSetGenericIon" alt="" coords="285,615,451,659"/>
+<area shape="rect" id="node17" href="$d7/df6/classG4BetheBlochModel.html#a7a18869509f5dd654e9db8dedf9cd014" title="G4BetheBlochModel::\lSetParticle" alt="" coords="285,271,451,315"/>
+<area shape="rect" id="node26" href="$d3/dc1/classG4VEmModel.html#ad7f21216af619cda480ae8a022df4a2f" title="G4VEmModel::UseAngularGeneratorFlag" alt="" coords="220,683,516,711"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="572,133,816,161"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a367ef71701dd787b47c15c2a0c3167d7" title="G4Material::GetNumberOfMaterials" alt="" coords="564,428,824,456"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="585,480,803,508"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="610,532,778,560"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="617,615,771,659"/>
+<area shape="rect" id="node18" href="$d5/d38/classG4ParticleDefinition.html#a48ebd992c974d96c776e3d6e41ca8ff5" title="G4ParticleDefinition\l::GetBaryonNumber" alt="" coords="615,360,773,404"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="895,232,1050,276"/>
+<area shape="rect" id="node20" href="$d7/df6/classG4BetheBlochModel.html#aba79ce0cc6ecb73cc27c5ad8d4c81739" title="G4BetheBlochModel::\lSetupParameters" alt="" coords="611,292,777,336"/>
+<area shape="rect" id="node21" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="895,352,1050,396"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#aae0eeabb077d52fa68ad6ad955714724" title="G4ParticleDefinition\l::GetPDGMagneticMoment" alt="" coords="872,420,1073,464"/>
+<area shape="rect" id="node23" href="$d5/d38/classG4ParticleDefinition.html#a49690d1676e108396dfc28c6cc4e3470" title="G4ParticleDefinition\l::GetLeptonNumber" alt="" coords="895,488,1050,532"/>
+<area shape="rect" id="node24" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="939,556,1007,584"/>
+<area shape="rect" id="node25" href="$d2/d00/classG4NistManager.html#aa1c650a74efe270870f383f4fa9b1a24" title="G4NistManager::GetA27" alt="" coords="881,300,1065,328"/>
+</map>

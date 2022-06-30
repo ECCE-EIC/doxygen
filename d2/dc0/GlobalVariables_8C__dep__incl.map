@@ -1,0 +1,51 @@
+<map id="macros/blob/master/common/GlobalVariables.C" name="macros/blob/master/common/GlobalVariables.C">
+<area shape="rect" id="node2" href="$d5/d9d/Fun4All__photonDispersion_8C.html" title="analysis/blob/master\l/dRICH/dispersion/macros\l/Fun4All_photonDispersion.C" alt="" coords="11,313,227,373"/>
+<area shape="rect" id="node3" href="$df/dea/G4__Disk_8C.html" title="analysis/blob/master\l/dRICH/dispersion/macros\l/G4_Disk.C" alt="" coords="7785,97,7981,157"/>
+<area shape="rect" id="node4" href="$d2/d41/G4Setup_8C.html" title="analysis/blob/master\l/dRICH/dispersion/macros\l/G4Setup.C" alt="" coords="4300,205,4496,265"/>
+<area shape="rect" id="node5" href="$db/dcd/Fun4All__ReadDST__eIDML_8C.html" title="analysis/blob/master\l/eIDML/macro/Fun4All\l_ReadDST_eIDML.C" alt="" coords="157,205,327,265"/>
+<area shape="rect" id="node6" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="330,105,511,149"/>
+<area shape="rect" id="node7" href="$de/dd6/G4__AllSilicon_8C.html" title="macros/blob/master\l/common/G4_AllSilicon.C" alt="" coords="535,105,727,149"/>
+<area shape="rect" id="node8" href="$d3/de3/G4__B0ECAL_8C.html" title="macros/blob/master\l/common/G4_B0ECAL.C" alt="" coords="752,105,935,149"/>
+<area shape="rect" id="node9" href="$dc/d6c/G4__B0Tracking__EIC_8C.html" title="macros/blob/master\l/common/G4_B0Tracking_EIC.C" alt="" coords="959,105,1192,149"/>
+<area shape="rect" id="node10" href="$d8/d04/G4__Barrel__EIC_8C.html" title="macros/blob/master\l/common/G4_Barrel_EIC.C" alt="" coords="1216,105,1415,149"/>
+<area shape="rect" id="node11" href="$d1/d40/G4__BECAL_8C.html" title="macros/blob/master\l/common/G4_BECAL.C" alt="" coords="1439,105,1613,149"/>
+<area shape="rect" id="node12" href="$d4/dcd/G4__BlackHole_8C.html" title="macros/blob/master\l/common/G4_BlackHole.C" alt="" coords="1637,105,1834,149"/>
+<area shape="rect" id="node13" href="$dd/d6b/G4__BMMG_8C.html" title="macros/blob/master\l/common/G4_BMMG.C" alt="" coords="1858,105,2031,149"/>
+<area shape="rect" id="node14" href="$dc/df8/G4__BToF_8C.html" title="macros/blob/master\l/common/G4_BToF.C" alt="" coords="2056,105,2215,149"/>
+<area shape="rect" id="node15" href="$db/dbf/G4__BWD_8C.html" title="macros/blob/master\l/common/G4_BWD.C" alt="" coords="2239,105,2402,149"/>
+<area shape="rect" id="node16" href="$d2/d85/G4__CEmc__Albedo_8C.html" title="macros/blob/master\l/common/G4_CEmc_Albedo.C" alt="" coords="2426,105,2647,149"/>
+<area shape="rect" id="node17" href="$d8/d4c/G4__CEmc__EIC_8C.html" title="macros/blob/master\l/common/G4_CEmc_EIC.C" alt="" coords="2671,105,2869,149"/>
+<area shape="rect" id="node18" href="$d7/ddc/G4__CEmc__Spacal_8C.html" title="macros/blob/master\l/common/G4_CEmc_Spacal.C" alt="" coords="2893,105,3113,149"/>
+<area shape="rect" id="node19" href="$d8/d50/G4__DIRC_8C.html" title="Setup the gas DIRC detector full sim." alt="" coords="3138,105,3301,149"/>
+<area shape="rect" id="node20" href="$d3/d09/G4__DRCALO_8C.html" title="macros/blob/master\l/common/G4_DRCALO.C" alt="" coords="3325,105,3509,149"/>
+<area shape="rect" id="node21" href="$da/d69/G4__dRICH_8C.html" title="macros/blob/master\l/common/G4_dRICH.C" alt="" coords="3533,105,3703,149"/>
+<area shape="rect" id="node22" href="$d0/d9a/G4__DSTReader__EICDetector_8C.html" title="macros/blob/master\l/common/G4_DSTReader\l_EICDetector.C" alt="" coords="3727,97,3919,157"/>
+<area shape="rect" id="node23" href="$d1/d38/G4__EEMC_8C.html" title="macros/blob/master\l/common/G4_EEMC.C" alt="" coords="3943,105,4111,149"/>
+<area shape="rect" id="node24" href="$d3/d45/G4__EEMC__hybrid_8C.html" title="macros/blob/master\l/common/G4_EEMC_hybrid.C" alt="" coords="4135,105,4354,149"/>
+<area shape="rect" id="node25" href="$da/d5a/G4__EHCAL_8C.html" title="macros/blob/master\l/common/G4_EHCAL.C" alt="" coords="4379,105,4553,149"/>
+<area shape="rect" id="node26" href="$df/d3f/G4__EToF_8C.html" title="macros/blob/master\l/common/G4_EToF.C" alt="" coords="4577,105,4736,149"/>
+<area shape="rect" id="node27" href="$d5/dcb/G4__FEMC_8C.html" title="macros/blob/master\l/common/G4_FEMC.C" alt="" coords="4760,105,4927,149"/>
+<area shape="rect" id="node28" href="$dd/dc8/G4__FEMC__EIC_8C.html" title="macros/blob/master\l/common/G4_FEMC_EIC.C" alt="" coords="4951,105,5147,149"/>
+<area shape="rect" id="node29" href="$d8/dc2/G4__FHCAL_8C.html" title="macros/blob/master\l/common/G4_FHCAL.C" alt="" coords="5171,105,5345,149"/>
+<area shape="rect" id="node30" href="$d1/db0/G4__FST__EIC_8C.html" title="macros/blob/master\l/common/G4_FST_EIC.C" alt="" coords="5369,105,5552,149"/>
+<area shape="rect" id="node31" href="$de/d55/G4__GEM__EIC_8C.html" title="macros/blob/master\l/common/G4_GEM_EIC.C" alt="" coords="5577,105,5766,149"/>
+<area shape="rect" id="node32" href="$dc/dda/G4__HcalIn__ref_8C.html" title="macros/blob/master\l/common/G4_HcalIn_ref.C" alt="" coords="5791,105,5987,149"/>
+<area shape="rect" id="node33" href="$d8/d93/G4__HcalOut__ref_8C.html" title="macros/blob/master\l/common/G4_HcalOut_ref.C" alt="" coords="6011,105,6219,149"/>
+<area shape="rect" id="node34" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html" title="macros/blob/master\l/common/G4_hFarBwdBeamLine_\lEIC.C" alt="" coords="6244,97,6493,157"/>
+<area shape="rect" id="node35" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html" title="macros/blob/master\l/common/G4_hFarFwdBeamLine_\lEIC.C" alt="" coords="6517,97,6764,157"/>
+<area shape="rect" id="node36" href="$d0/dc3/G4__HToF_8C.html" title="macros/blob/master\l/common/G4_HToF.C" alt="" coords="6787,105,6947,149"/>
+<area shape="rect" id="node37" href="$dc/d7e/G4__Input_8C.html" title="macros/blob/master\l/common/G4_Input.C" alt="" coords="39,105,205,149"/>
+<area shape="rect" id="node38" href="$d5/d1a/G4__Jets_8C.html" title="macros/blob/master\l/common/G4_Jets.C" alt="" coords="7177,105,7334,149"/>
+<area shape="rect" id="node39" href="$d6/dec/G4__KFParticle_8C.html" title="macros/blob/master\l/common/G4_KFParticle.C" alt="" coords="7359,105,7555,149"/>
+<area shape="rect" id="node40" href="$d9/d3c/G4__LFHCAL_8C.html" title="macros/blob/master\l/common/G4_LFHCAL.C" alt="" coords="7579,105,7761,149"/>
+<area shape="rect" id="node41" href="$da/d17/G4__Magnet_8C.html" title="macros/blob/master\l/common/G4_Magnet.C" alt="" coords="6972,105,7152,149"/>
+<area shape="rect" id="node42" href="$d7/d4d/G4__Micromegas_8C.html" title="macros/blob/master\l/common/G4_Micromegas.C" alt="" coords="8005,105,8217,149"/>
+<area shape="rect" id="node43" href="$de/d8a/G4__mRICH_8C.html" title="Aerogel mRICH for EIC detector." alt="" coords="8242,105,8418,149"/>
+<area shape="rect" id="node44" href="$d9/d7a/G4__mRwell__EIC_8C.html" title="macros/blob/master\l/common/G4_mRwell_EIC.C" alt="" coords="8442,105,8650,149"/>
+<area shape="rect" id="node45" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="macros/blob/master\l/common/G4_Mvtx_EIC.C" alt="" coords="8675,105,8865,149"/>
+<area shape="rect" id="node46" href="$d6/d6b/G4__ParticleFlow_8C.html" title="macros/blob/master\l/common/G4_ParticleFlow.C" alt="" coords="8889,105,9099,149"/>
+<area shape="rect" id="node47" href="$d1/df9/G4__Pipe_8C.html" title="macros/blob/master\l/common/G4_Pipe.C" alt="" coords="9123,105,9281,149"/>
+<area shape="rect" id="node48" href="$d6/d0a/G4__Piston_8C.html" title="macros/blob/master\l/common/G4_Piston.C" alt="" coords="9175,213,9346,257"/>
+<area shape="rect" id="node49" href="$d3/df0/G4__Pipe__EIC_8C.html" title="macros/blob/master\l/common/G4_Pipe_EIC.C" alt="" coords="9357,105,9543,149"/>
+<area shape="rect" id="node50" href="$d1/d56/G4__PlugDoor_8C.html" title="macros/blob/master\l/common/G4_PlugDoor.C" alt="" coords="9568,105,9759,149"/>
+</map>

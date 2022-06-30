@@ -1,0 +1,29 @@
+<map id="G4INCL::NDeltaToNSKChannel::fillFinalState" name="G4INCL::NDeltaToNSKChannel::fillFinalState">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1392,359,1503,387"/>
+<area shape="rect" id="node4" href="$da/d83/classG4INCL_1_1FinalState.html#acffd3ddd77c8050dfcdc50880066ef51" title="G4INCL::FinalState\l::addCreatedParticle" alt="" coords="312,72,471,116"/>
+<area shape="rect" id="node5" href="$da/d83/classG4INCL_1_1FinalState.html#a27332a731cfb4c89c3ee229ba21c99e3" title="G4INCL::FinalState\l::addModifiedParticle" alt="" coords="310,140,473,184"/>
+<area shape="rect" id="node6" href="$d0/d79/namespaceG4INCL_1_1PhaseSpaceGenerator.html#a954943d477d01ed8e4e18d580a2288dd" title="Generate a biased event in the CM system." alt="" coords="276,208,507,252"/>
+<area shape="rect" id="node9" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aaca2446bb48ddb4f8392c31c54db8f5b" title="Get the isospin of a particle." alt="" coords="309,276,473,320"/>
+<area shape="rect" id="node10" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a51b20ed040ae5494f3790c239ff3f4ee" title="Get the type of kaon." alt="" coords="309,344,473,388"/>
+<area shape="rect" id="node11" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aae853986a577b9e0ece8c75c0cc7968d" title="Get the type of nucleon." alt="" coords="309,412,473,456"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#a5575330878a28b978dc2b40df39cc6f9" title="G4INCL::Particle::getPosition" alt="" coords="285,480,498,508"/>
+<area shape="rect" id="node13" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a6085266d667a79192255e40e7616da57" title="Get the type of sigma." alt="" coords="309,532,473,576"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="295,600,487,628"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#a616be21abf18318f60dba4833f8caa20" title="Is it a resonance?" alt="" coords="559,652,781,680"/>
+<area shape="rect" id="node17" href="$dd/d83/classG4INCL_1_1Particle.html#aca534164eea2b6e5a39ce0e335ef30b0" title="G4INCL::Particle::setType" alt="" coords="297,704,486,732"/>
+<area shape="rect" id="node22" href="$d5/d11/namespaceG4INCL_1_1Random.html#aad2134de367e586ed59d4ebc233f65ae" title="G4INCL::Random::shoot" alt="" coords="300,756,483,784"/>
+<area shape="rect" id="node23" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a874b82c4e5e033b4fdce70758f770e5e" title="G4INCL::KinematicsUtils\l::totalEnergyInCM" alt="" coords="299,808,483,852"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1551,359,1727,387"/>
+<area shape="rect" id="node7" href="$d0/d79/namespaceG4INCL_1_1PhaseSpaceGenerator.html#af1af944711d8ca14abe6b33569d7382e" title="Generate an event in the CM system." alt="" coords="555,179,785,223"/>
+<area shape="rect" id="node8" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="570,247,770,275"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="854,600,1038,628"/>
+<area shape="rect" id="node18" href="$dd/d83/classG4INCL_1_1Particle.html#a967bc3671f8d7082e5b1f0f07c71e720" title="Set the mass of the Particle to its table mass." alt="" coords="558,704,782,732"/>
+<area shape="rect" id="node19" href="$dd/d83/classG4INCL_1_1Particle.html#a38a68965ab7ec38fafaa1e7c6a050f79" title="G4INCL::Particle::setMass" alt="" coords="849,652,1043,680"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#aa127348f0d36f847e9670ac4088680b3" title="Get the INCL particle mass." alt="" coords="833,704,1059,732"/>
+<area shape="rect" id="node21" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="1143,692,1307,736"/>
+<area shape="rect" id="node24" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="576,808,764,852"/>
+<area shape="rect" id="node25" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="854,808,1038,852"/>
+<area shape="rect" id="node26" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1121,760,1329,788"/>
+<area shape="rect" id="node28" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="865,876,1027,920"/>
+<area shape="rect" id="node27" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1107,816,1344,844"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="export_G4Track" name="export_G4Track">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#a2c8d2111396ecf361264de9888fca358" title="G4Track::GetCreatorProcess" alt="" coords="198,5,407,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#aa92998a8c1964dea7898488959b8cf30" title="G4Track::GetCurrentStepNumber" alt="" coords="181,57,425,85"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="216,109,389,137"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="194,161,411,189"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="210,213,395,241"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="201,265,404,293"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a70077e82fa447fe7695784ddf733a647" title="G4Track::GetLocalTime" alt="" coords="214,317,391,345"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a97736ad4b94ac8b2335d79463bdc1e78" title="G4Track::GetLogicalVolume\lAtVertex" alt="" coords="199,369,406,413"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="221,437,384,465"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#aa83f323d30aa6b3e8ae80745dba7ecf1" title="G4Track::GetMomentum" alt="" coords="210,489,395,517"/>
+<area shape="rect" id="node12" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="180,541,425,569"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="220,593,385,621"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#af7468c92f19244330c121315306813ce" title="G4Track::GetPolarization" alt="" coords="209,645,396,673"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="222,697,383,725"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#afb7ef91e381ab5e648d9b5c6e7ea10f0" title="G4Track::GetProperTime" alt="" coords="210,749,395,777"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a520f19a10e8debe92844f368b162fc87" title="G4Track::GetStep" alt="" coords="233,801,373,829"/>
+<area shape="rect" id="node18" href="$d1/d33/classG4Track.html#a7dd5a8f9f5cb8c5312275397c639ec6f" title="G4Track::GetStepLength" alt="" coords="210,853,395,881"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#ada2129758dd945e5987b57466536b045" title="G4Track::GetTotalEnergy" alt="" coords="209,905,397,933"/>
+<area shape="rect" id="node20" href="$d1/d33/classG4Track.html#aa0120d297baf91e5b284c5b538b7ca3a" title="G4Track::GetTouchable" alt="" coords="214,957,391,985"/>
+<area shape="rect" id="node21" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="223,1009,382,1037"/>
+<area shape="rect" id="node22" href="$d1/d33/classG4Track.html#a04506540e721cde8fc36fac67a78e4e7" title="G4Track::GetTrackLength" alt="" coords="208,1061,397,1089"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="209,1113,396,1141"/>
+<area shape="rect" id="node24" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="221,1165,384,1193"/>
+<area shape="rect" id="node25" href="$d1/d33/classG4Track.html#a7eb175f0f1b876081811adf946c89a52" title="G4Track::GetVertexKinetic\lEnergy" alt="" coords="204,1217,401,1261"/>
+<area shape="rect" id="node26" href="$d1/d33/classG4Track.html#a24b31d8bbe916d620c8ca514b2c3ec8b" title="G4Track::GetVertexMomentum\lDirection" alt="" coords="189,1285,417,1329"/>
+<area shape="rect" id="node27" href="$d1/d33/classG4Track.html#a71a4e2f138cbdde4b8184c484e7eef6a" title="G4Track::GetVertexPosition" alt="" coords="201,1353,405,1381"/>
+<area shape="rect" id="node28" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="223,1405,382,1433"/>
+<area shape="rect" id="node29" href="$d1/d33/classG4Track.html#a6e84c2976c0e3eae3786d5fd8c7277f8" title="G4Track::GetWeight" alt="" coords="224,1457,381,1485"/>
+<area shape="rect" id="node30" href="$d1/d33/classG4Track.html#a434f95f72912a95dced8a81614ab9d7e" title="G4Track::SetWeight" alt="" coords="225,1509,380,1537"/>
+</map>

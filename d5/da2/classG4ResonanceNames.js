@@ -1,0 +1,25 @@
+var classG4ResonanceNames =
+[
+    [ "G4ResonanceNames", "d5/da2/classG4ResonanceNames.html#a85c5be76e6c17ee3622ee4c9e8fa055a", null ],
+    [ "~G4ResonanceNames", "d5/da2/classG4ResonanceNames.html#a1aad345cd9ac9a95ae48b4b9b30696bb", null ],
+    [ "G4ResonanceNames", "d5/da2/classG4ResonanceNames.html#ab65d8cd51d79ccf209544b2d28f48a52", null ],
+    [ "DeltaNames", "d5/da2/classG4ResonanceNames.html#aded1c5c50ea2e5437db1425044564329", null ],
+    [ "DeltastarNames", "d5/da2/classG4ResonanceNames.html#af4661fc4088a31c23884d18a1324d3e3", null ],
+    [ "LambdaNames", "d5/da2/classG4ResonanceNames.html#a64f43367134f58fcbd1c8596ba9b0c98", null ],
+    [ "MinMass", "d5/da2/classG4ResonanceNames.html#a28fab44720d3c7d0efd13d5db266e454", null ],
+    [ "NstarNames", "d5/da2/classG4ResonanceNames.html#a55c6c996047e4bae905c0eb22e5d6d29", null ],
+    [ "operator!=", "d5/da2/classG4ResonanceNames.html#a0d714621c710a9fb93d16d37b4958d25", null ],
+    [ "operator=", "d5/da2/classG4ResonanceNames.html#a82926e80c3fc8ab020a573f10d9768d6", null ],
+    [ "operator==", "d5/da2/classG4ResonanceNames.html#a16aa408a6a6bbf1db0730b67f04dd9ba", null ],
+    [ "ShortName", "d5/da2/classG4ResonanceNames.html#ab5b7ec539de61f11796d753cca68469a", null ],
+    [ "SigmaNames", "d5/da2/classG4ResonanceNames.html#acce2241a5de8531eec4e31202dbc1c82", null ],
+    [ "XiNames", "d5/da2/classG4ResonanceNames.html#a5a9e84ecdd76171cc81dcc740a106da2", null ],
+    [ "lowResMap", "d5/da2/classG4ResonanceNames.html#a962d2bfeb889d6fc55dca4e0f9706089", null ],
+    [ "nameDelta", "d5/da2/classG4ResonanceNames.html#afce76a11fc26d24be60b52aaa85cba4c", null ],
+    [ "nameDeltastar", "d5/da2/classG4ResonanceNames.html#a78c05509f57092f5d48058e8fb25bab1", null ],
+    [ "nameLambda", "d5/da2/classG4ResonanceNames.html#a1a24d58618fe3b665a95224221bc6815", null ],
+    [ "nameNstar", "d5/da2/classG4ResonanceNames.html#aa2a22248dc310e29fbb3c50700c7d38b", null ],
+    [ "nameSigma", "d5/da2/classG4ResonanceNames.html#a4e4a9e0dcebd676503d191bb3e0325a9", null ],
+    [ "nameXi", "d5/da2/classG4ResonanceNames.html#a1d2e7af117032388196cda2557d52275", null ],
+    [ "shortMap", "d5/da2/classG4ResonanceNames.html#a8c62e6a78c994d5adba2f66ffb162a26", null ]
+];

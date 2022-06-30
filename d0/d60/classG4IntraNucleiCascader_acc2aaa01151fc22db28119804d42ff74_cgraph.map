@@ -1,0 +1,27 @@
+<map id="G4IntraNucleiCascader::copySecondaries" name="G4IntraNucleiCascader::copySecondaries">
+<area shape="rect" id="node2" href="$db/d1e/classG4CollisionOutput.html#a289c7b43ca0455c875d4a632618e2261" title="G4CollisionOutput::\lnumberOfOutgoingNuclei" alt="" coords="771,5,965,49"/>
+<area shape="rect" id="node3" href="$db/d1e/classG4CollisionOutput.html#aeca5f606626835e44969bc73dff6409d" title="G4CollisionOutput::\lnumberOfOutgoingParticles" alt="" coords="763,73,973,117"/>
+<area shape="rect" id="node4" href="$d0/d60/classG4IntraNucleiCascader.html#adf0839a8b90577a9a24f25666512f738" title="G4IntraNucleiCascader\l::processSecondary" alt="" coords="231,492,408,536"/>
+<area shape="rect" id="node5" href="$d4/db0/classG4KineticTrack.html#acc5d8e5e4811e74d04edd7d7ddc0bc04" title="G4KineticTrack::GetDefinition" alt="" coords="758,193,978,221"/>
+<area shape="rect" id="node6" href="$d2/d5e/classG4InuclElementaryParticle.html#a55558cc132e9a845d9e90b25e96b0be5" title="G4InuclElementaryParticle\l::type" alt="" coords="478,157,678,201"/>
+<area shape="rect" id="node9" href="$d0/d60/classG4IntraNucleiCascader.html#a1c582ac5293407c1517abc8b690d8a2d" title="G4IntraNucleiCascader\l::releaseSecondary" alt="" coords="489,381,667,425"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="791,569,945,613"/>
+<area shape="rect" id="node13" href="$d4/db0/classG4KineticTrack.html#ac6cc233c230ba805ae6aded75697929b" title="G4KineticTrack::Get4Momentum" alt="" coords="748,637,988,665"/>
+<area shape="rect" id="node17" href="$d2/d5e/classG4InuclElementaryParticle.html#a5083366c774e32dc7f9ed64678978be6" title="G4InuclElementaryParticle\l::fill" alt="" coords="768,713,968,757"/>
+<area shape="rect" id="node18" href="$dc/d6e/classG4CascadParticle.html#ab3f790f75a99a854a6d2781c2577747e" title="G4CascadParticle::getParticle" alt="" coords="468,603,688,631"/>
+<area shape="rect" id="node19" href="$dc/d6e/classG4CascadParticle.html#a7e8e41b72b4de966bbcbe2ac05226d0b" title="G4CascadParticle::setGeneration" alt="" coords="456,655,700,683"/>
+<area shape="rect" id="node20" href="$dc/d6e/classG4CascadParticle.html#abee80afee8fe1d09319f1979610a8312" title="G4CascadParticle::setMoving\lInsideNuclei" alt="" coords="469,707,687,751"/>
+<area shape="rect" id="node21" href="$dc/d6e/classG4CascadParticle.html#ad8af6e02e3da4328bfaffba526a0d03f" title="G4CascadParticle::initializePath" alt="" coords="461,775,695,803"/>
+<area shape="rect" id="node22" href="$d4/db0/classG4KineticTrack.html#a17972121ab50fd314649122fa483950d" title="G4KineticTrack::GetPosition" alt="" coords="475,827,681,855"/>
+<area shape="rect" id="node23" href="$dc/d6e/classG4CascadParticle.html#a9f3e10c0047ae666f89f16ff739f8e40" title="G4CascadParticle::update\lPosition" alt="" coords="480,879,676,923"/>
+<area shape="rect" id="node25" href="$dc/d6e/classG4CascadParticle.html#a5fcf35877b217a856bba87c4f6011c93" title="G4CascadParticle::updateZone" alt="" coords="463,225,693,253"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="483,277,673,305"/>
+<area shape="rect" id="node7" href="$d9/da2/classG4InuclParticle.html#aac20622e2f870e56638bdf04392c4eec" title="G4InuclParticle::getDefinition" alt="" coords="759,141,977,169"/>
+<area shape="rect" id="node8" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="1036,133,1193,177"/>
+<area shape="rect" id="node11" href="$db/d1e/classG4CollisionOutput.html#acd9dc8528beff3651e1cd9829968ad88" title="G4CollisionOutput::\lgetOutgoingNuclei" alt="" coords="792,449,944,493"/>
+<area shape="rect" id="node12" href="$d6/dbd/classG4InuclNuclei.html#aee41306ec1e2bfa4fb0dc91ca63c4016" title="G4InuclNuclei::fill" alt="" coords="798,517,938,545"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af6c9bdf842d9fff4f4a0c0622b366be4" title="G4ParticleDefinition\l::GetAtomicMass" alt="" coords="791,245,945,289"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a0f10c50f4f54b66eb46f0ad8c6f913ed" title="G4ParticleDefinition\l::GetAtomicNumber" alt="" coords="790,313,946,357"/>
+<area shape="rect" id="node16" href="$db/d1e/classG4CollisionOutput.html#ab3c499c7b9a5330978a3e067583e4b8b" title="G4CollisionOutput::\lgetOutgoingParticles" alt="" coords="787,381,949,425"/>
+<area shape="rect" id="node24" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="845,887,891,915"/>
+</map>

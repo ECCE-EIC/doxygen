@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/eventgenerator/HepMC/HepMCEx01/include/ExN04TrackerSD.hh" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/eventgenerator/HepMC/HepMCEx01/include/ExN04TrackerSD.hh">
+<area shape="rect" id="node2" href="$d4/de7/G4VSensitiveDetector_8hh.html" title="G4VSensitiveDetector.hh" alt="" coords="1895,145,2085,173"/>
+<area shape="rect" id="node49" href="$d3/d14/eventgenerator_2HepMC_2HepMCEx01_2include_2ExN04TrackerHit_8hh.html" title="Definition of the ExN04TrackerHit class." alt="" coords="2886,373,3041,401"/>
+<area shape="rect" id="node3" href="$d3/d38/G4VHit_8hh.html" title="G4VHit.hh" alt="" coords="2737,449,2827,477"/>
+<area shape="rect" id="node16" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="1276,297,1368,325"/>
+<area shape="rect" id="node42" href="$d4/d95/G4VReadOutGeometry_8hh.html" title="G4VReadOutGeometry.hh" alt="" coords="1959,221,2154,249"/>
+<area shape="rect" id="node44" href="$dd/d71/G4TouchableHistory_8hh.html" title="G4TouchableHistory.hh" alt="" coords="2181,373,2357,401"/>
+<area shape="rect" id="node47" href="$d7/deb/G4CollectionNameVector_8hh.html" title="G4CollectionNameVector.hh" alt="" coords="1811,449,2020,477"/>
+<area shape="rect" id="node48" href="$d1/d3d/G4VSDFilter_8hh.html" title="G4VSDFilter.hh" alt="" coords="1585,297,1707,325"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1686,753,1777,781"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1860,981,1941,1009"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2071,1057,2171,1085"/>
+<area shape="rect" id="node9" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1573,981,1674,1009"/>
+<area shape="rect" id="node10" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1871,829,1981,857"/>
+<area shape="rect" id="node11" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1649,905,1777,933"/>
+<area shape="rect" id="node12" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1507,829,1684,857"/>
+<area shape="rect" id="node19" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="1285,677,1426,705"/>
+<area shape="rect" id="node21" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="1918,525,2094,553"/>
+<area shape="rect" id="node28" href="$d2/d9e/G4StepPoint_8hh.html" title="G4StepPoint.hh" alt="" coords="1042,373,1167,401"/>
+<area shape="rect" id="node35" href="$d1/d2e/G4StepStatus_8hh.html" title="G4StepStatus.hh" alt="" coords="392,449,527,477"/>
+<area shape="rect" id="node39" href="$d1/d5a/G4TrackVector_8hh.html" title="G4TrackVector.hh" alt="" coords="1681,373,1819,401"/>
+<area shape="rect" id="node20" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="5,753,215,781"/>
+<area shape="rect" id="node23" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="2259,601,2369,629"/>
+<area shape="rect" id="node24" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="1393,601,1553,629"/>
+<area shape="rect" id="node25" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="2393,601,2542,629"/>
+<area shape="rect" id="node26" href="$d9/ddb/geomwdefs_8hh.html" title="geomwdefs.hh" alt="" coords="2718,677,2838,705"/>
+<area shape="rect" id="node29" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="797,449,1039,477"/>
+<area shape="rect" id="node30" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="2917,525,3037,553"/>
+<area shape="rect" id="node34" href="$d3/dab/G4SteppingControl_8hh.html" title="G4SteppingControl.hh" alt="" coords="602,449,773,477"/>
+<area shape="rect" id="node36" href="$dd/d1b/G4TouchableHandle_8hh.html" title="G4TouchableHandle.hh" alt="" coords="1115,449,1292,477"/>
+<area shape="rect" id="node38" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="2146,449,2306,477"/>
+<area shape="rect" id="node33" href="$dd/d53/G4AllocatorPool_8hh.html" title="G4AllocatorPool.hh" alt="" coords="2902,601,3051,629"/>
+<area shape="rect" id="node37" href="$d7/d16/G4VTouchable_8hh.html" title="G4VTouchable.hh" alt="" coords="1403,525,1542,553"/>
+<area shape="rect" id="node43" href="$db/d49/G4SensitiveVolumeList_8hh.html" title="G4SensitiveVolumeList.hh" alt="" coords="1959,373,2157,401"/>
+<area shape="rect" id="node45" href="$d2/d57/G4NavigationHistory_8hh.html" title="G4NavigationHistory.hh" alt="" coords="2331,449,2511,477"/>
+</map>

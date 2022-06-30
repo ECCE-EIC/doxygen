@@ -1,0 +1,16 @@
+<map id="G4ePolarizedIonisation::ComputeAsymmetry" name="G4ePolarizedIonisation::ComputeAsymmetry">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#aa5195d8e5275f48279af12f61077f3f8" title="G4VEmModel::CrossSection" alt="" coords="243,197,451,225"/>
+<area shape="rect" id="node14" href="$d9/df1/classG4PolarizedMollerBhabhaModel.html#a1ac0079ee965c545b94a42f061775e5e" title="G4PolarizedMollerBhabhaModel\l::SetBeamPolarization" alt="" coords="229,249,464,293"/>
+<area shape="rect" id="node15" href="$d9/df1/classG4PolarizedMollerBhabhaModel.html#ae754d2e32df9e1d25615402d22ffef47" title="G4PolarizedMollerBhabhaModel\l::SetTargetPolarization" alt="" coords="229,317,464,361"/>
+<area shape="rect" id="node3" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="512,104,752,132"/>
+<area shape="rect" id="node7" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="528,313,736,357"/>
+<area shape="rect" id="node4" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="845,5,1017,49"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="823,73,1039,101"/>
+<area shape="rect" id="node6" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="845,125,1017,169"/>
+<area shape="rect" id="node8" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="813,193,1049,221"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="853,245,1008,289"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="816,313,1045,357"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="800,381,1061,409"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="821,433,1041,477"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="838,501,1023,529"/>
+</map>

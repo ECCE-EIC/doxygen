@@ -1,0 +1,51 @@
+<map id="G4INCL::INCL::INCL" name="G4INCL::INCL::INCL">
+<area shape="rect" id="node2" href="$d1/da4/classG4INCL_1_1CascadeAction.html#ab9ae3ee226c862781bb3d0a8b31b966c" title="G4INCL::CascadeAction\l::beforeRunAction" alt="" coords="256,40,435,84"/>
+<area shape="rect" id="node5" href="$da/d4f/classG4INCL_1_1Config.html#aaad9d684ecddcfd1bb566b3d838a7fdc" title="Get the bias." alt="" coords="254,108,437,136"/>
+<area shape="rect" id="node6" href="$da/d4f/classG4INCL_1_1Config.html#a83afe6855ff14c768135592b7c57bd3e" title="Get the cascade&#45;action type." alt="" coords="239,160,451,204"/>
+<area shape="rect" id="node7" href="$da/d4f/classG4INCL_1_1Config.html#ae938b23a0e445a285a09576b476ff42e" title="G4INCL::Config::getCutNN" alt="" coords="247,228,444,256"/>
+<area shape="rect" id="node8" href="$da/d4f/classG4INCL_1_1Config.html#a704064ea86e65b930a230677efcf60ee" title="Get the de&#45;excitation string." alt="" coords="225,280,465,324"/>
+<area shape="rect" id="node9" href="$da/d4f/classG4INCL_1_1Config.html#a72ceb6f76b0dd2e06917f3819997d614" title="Get the hadronization time." alt="" coords="204,348,487,376"/>
+<area shape="rect" id="node10" href="$da/d4f/classG4INCL_1_1Config.html#acdab071fcdd015ccd81d7966a387053f" title="G4INCL::Config::getImpact\lParameter" alt="" coords="245,400,446,444"/>
+<area shape="rect" id="node11" href="$da/d4f/classG4INCL_1_1Config.html#aa8e342fd5c87f2ad68a79ad67680e915" title="Get the type of local energy for N&#45;N avatars." alt="" coords="251,468,440,512"/>
+<area shape="rect" id="node12" href="$da/d4f/classG4INCL_1_1Config.html#a4a05c06e7d9f819f6bdd4cb7924f6ca1" title="Get the type of local energy for pi&#45;N and decay avatars." alt="" coords="251,536,440,580"/>
+<area shape="rect" id="node13" href="$da/d4f/classG4INCL_1_1Config.html#ac2f3a701f1c1c1f162ae1e8f37a852d0" title="Get the projectile kinetic energy." alt="" coords="237,604,453,648"/>
+<area shape="rect" id="node14" href="$da/d4f/classG4INCL_1_1Config.html#ae65987c156bfa96bbff81b13e448634d" title="Get the projectile species." alt="" coords="237,672,453,716"/>
+<area shape="rect" id="node15" href="$da/d4f/classG4INCL_1_1Config.html#aef5b6c98b0dca1a511099d65dab6c4b6" title="Get the target mass number." alt="" coords="243,740,448,768"/>
+<area shape="rect" id="node16" href="$da/d4f/classG4INCL_1_1Config.html#a0704c0f2f044f45ef8e585f5216d6338" title="Get the target charge number." alt="" coords="243,792,448,820"/>
+<area shape="rect" id="node17" href="$da/d4f/classG4INCL_1_1Config.html#a085822c84d31313870e1c3759343d17f" title="Get the INCL version string." alt="" coords="243,844,447,888"/>
+<area shape="rect" id="node20" href="$d6/db4/namespaceG4INCL_1_1Clustering.html#a8f9cb79fe94f9855decdbdfdcadaeaff" title="Initialize the clustering model based on the Config object." alt="" coords="591,656,739,700"/>
+<area shape="rect" id="node23" href="$d0/d79/namespaceG4INCL_1_1PhaseSpaceGenerator.html#a19ea22dc69d1f296b02abf61c433c573" title="G4INCL::PhaseSpaceGenerator\l::initialize" alt="" coords="230,912,461,956"/>
+<area shape="rect" id="node26" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a29d0052d5cccba68ccb1e0426c865221" title="Initialize the particle table." alt="" coords="263,1032,427,1076"/>
+<area shape="rect" id="node44" href="$dd/d7e/namespaceG4INCL_1_1Pauli.html#a120994f205825a4c3f6117b60cbfd587" title="Initialise blockers according to a Config object." alt="" coords="257,1100,434,1128"/>
+<area shape="rect" id="node45" href="$d2/d8b/namespaceG4INCL_1_1CoulombDistortion.html#a22a80303d37345758a66db1d15aca6ad" title="Initialize the Coulomb&#45;distortion algorithm." alt="" coords="243,1152,448,1196"/>
+<area shape="rect" id="node46" href="$d5/d11/namespaceG4INCL_1_1Random.html#afcd54b43388880193f24ffe731786c7e" title="Initialize generator according to a Config object." alt="" coords="245,1220,446,1248"/>
+<area shape="rect" id="node47" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#abdca658262502d921ea2301aacecab85" title="G4INCL::CrossSections\l::initialize" alt="" coords="258,1272,433,1316"/>
+<area shape="rect" id="node48" href="$d8/dcb/namespaceG4INCL_1_1Logger.html#abb04441c6cd383ab06e8a09801ac1ad2" title="G4INCL::Logger::initVerbosity\lLevelFromEnvvar" alt="" coords="235,1340,455,1384"/>
+<area shape="rect" id="node49" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a18aed6b6963c7d046901425dd113365b" title="Set the bias." alt="" coords="233,1408,458,1452"/>
+<area shape="rect" id="node50" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a741c775dc6a55392043ce7b8edc3c9b7" title="G4INCL::BinaryCollisionAvatar\l::setCutNN" alt="" coords="233,1476,458,1520"/>
+<area shape="rect" id="node3" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a3dda6afdc4555533af67d9d37357fdd8" title="G4INCL::CascadeAction\l::beforeRunDefaultAction" alt="" coords="570,5,761,49"/>
+<area shape="rect" id="node4" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a83209dc7690fb4f7649c23af736c438a" title="G4INCL::CascadeAction\l::beforeRunUserAction" alt="" coords="576,73,755,117"/>
+<area shape="rect" id="node18" href="$da/d4f/classG4INCL_1_1Config.html#a244f80433e5f6175d0f3ffa7e883b4bd" title="Get the INCL version ID." alt="" coords="556,416,775,444"/>
+<area shape="rect" id="node19" href="$da/d4f/classG4INCL_1_1Config.html#afad45d36582cffce7a1fdbd618fd7894" title="Get the INCL version hash." alt="" coords="546,468,785,496"/>
+<area shape="rect" id="node21" href="$da/d4f/classG4INCL_1_1Config.html#ae2209276704dd21348a53029e251c3f0" title="Get the clustering algorithm." alt="" coords="857,672,1059,716"/>
+<area shape="rect" id="node22" href="$d6/db4/namespaceG4INCL_1_1Clustering.html#adfa09c44423e8b91416b7d69a322df63" title="Set the clustering model." alt="" coords="878,604,1038,648"/>
+<area shape="rect" id="node24" href="$da/d4f/classG4INCL_1_1Config.html#a03a2f8f14cd822548a76eb4c8c6eb12a" title="Get the phase&#45;space&#45;generator type." alt="" coords="568,520,763,564"/>
+<area shape="rect" id="node25" href="$d0/d79/namespaceG4INCL_1_1PhaseSpaceGenerator.html#a49677f8d5539d16edd9a89638ed3c552" title="G4INCL::PhaseSpaceGenerator\l::setPhaseSpaceGenerator" alt="" coords="550,588,781,632"/>
+<area shape="rect" id="node27" href="$da/d4f/classG4INCL_1_1Config.html#a5c7f266a0a0e9713cc2ef7a222be1273" title="Whether to use real masses." alt="" coords="561,1168,769,1212"/>
+<area shape="rect" id="node28" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a5ae4fc428bab8509c8dcb6cbf39a79e3" title="Get particle mass (in MeV/c^2)" alt="" coords="583,1236,747,1280"/>
+<area shape="rect" id="node29" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="583,1304,747,1348"/>
+<area shape="rect" id="node30" href="$da/d4f/classG4INCL_1_1Config.html#ade723ededf4c9557b13f1779036eb58c" title="G4INCL::Config::getINCLXXData\lFilePath" alt="" coords="548,1372,783,1416"/>
+<area shape="rect" id="node31" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="561,1440,769,1484"/>
+<area shape="rect" id="node32" href="$d8/dd3/classG4ParticleTable.html#a56e8ae902c7fd223310a13dadd6c577d" title="G4ParticleTable::GetIonTable" alt="" coords="558,1508,773,1536"/>
+<area shape="rect" id="node33" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="559,1560,771,1588"/>
+<area shape="rect" id="node34" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="588,1612,743,1656"/>
+<area shape="rect" id="node35" href="$d1/dde/namespaceG4INCL_1_1HFB.html#a35f4c4cb62de3859ce456a7cab57252c" title="G4INCL::HFB::initialize" alt="" coords="579,1680,751,1708"/>
+<area shape="rect" id="node36" href="$da/d4f/classG4INCL_1_1Config.html#a59f1849473128663e8659c2f2098b9de" title="Get the separation&#45;energy type." alt="" coords="551,1732,779,1776"/>
+<area shape="rect" id="node37" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a79d1854e709534a7335bc248aae8223b" title="Return INCL&#39;s default separation energy." alt="" coords="856,769,1060,813"/>
+<area shape="rect" id="node38" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a3f75100d3f6838457d856050c4ec1a20" title="Return the real separation energy." alt="" coords="857,845,1059,889"/>
+<area shape="rect" id="node39" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aecc15e81d1dc55c496d53d648e9b30c8" title="Return the real separation energy only for light nuclei." alt="" coords="553,776,777,836"/>
+<area shape="rect" id="node40" href="$da/d4f/classG4INCL_1_1Config.html#ab5d601b4c7ba47f563ea77c2bca6e99d" title="Get the Fermi&#45;momentum type." alt="" coords="569,912,761,956"/>
+<area shape="rect" id="node41" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a80184accca6bb5968c7254d9694113cd" title="Return the constant value of the Fermi momentum." alt="" coords="844,1036,1072,1080"/>
+<area shape="rect" id="node42" href="$da/d4f/classG4INCL_1_1Config.html#a9c8ffc23b6e432c35026e6be77d342cd" title="Get the Fermi momentum." alt="" coords="569,1032,761,1076"/>
+<area shape="rect" id="node43" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#ac870ac60f77f4101eedd01fdf29f5a4f" title="Return the constant value of the Fermi momentum &#45; special for light." alt="" coords="535,1100,796,1144"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="G4LDMBremModel::SampleSecondaries" name="G4LDMBremModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$d6/d5d/classG4LDMBremModel.html#a93169dd17a5d87c94ef0a2cd0fd0d6b4" title="G4LDMBremModel::ComputeDMicroscopic\lCrossSection" alt="" coords="343,183,648,227"/>
+<area shape="rect" id="node3" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1431,57,1495,85"/>
+<area shape="rect" id="node17" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1429,260,1496,288"/>
+<area shape="rect" id="node21" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="417,385,574,429"/>
+<area shape="rect" id="node22" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="404,453,587,497"/>
+<area shape="rect" id="node23" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="426,521,565,549"/>
+<area shape="rect" id="node24" href="$d6/dfd/EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="467,573,523,601"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="415,625,575,669"/>
+<area shape="rect" id="node29" href="$d3/dc1/classG4VEmModel.html#a7ee40bb5b254b7f72261d929ca497e48" title="G4VEmModel::SelectRandomAtom" alt="" coords="368,693,623,721"/>
+<area shape="rect" id="node34" href="$dd/dc0/classG4ParticleChangeForLoss.html#a6fbdb90e6a6bbdafc52888288760182e" title="G4ParticleChangeForLoss\l::SetProposedKineticEnergy" alt="" coords="391,745,599,789"/>
+<area shape="rect" id="node35" href="$dd/dc0/classG4ParticleChangeForLoss.html#abf9c7d43c5194e5ec62cfa955e5de2e8" title="G4ParticleChangeForLoss\l::SetProposedMomentumDirection" alt="" coords="369,813,621,857"/>
+<area shape="rect" id="node36" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="467,881,523,909"/>
+<area shape="rect" id="node37" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="401,933,589,961"/>
+<area shape="rect" id="node9" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="782,281,850,309"/>
+<area shape="rect" id="node10" href="$d2/d00/classG4NistManager.html#aa1c650a74efe270870f383f4fa9b1a24" title="G4NistManager::GetA27" alt="" coords="724,109,908,137"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="739,213,893,257"/>
+<area shape="rect" id="node12" href="$d2/d00/classG4NistManager.html#aeb46189f2eb6eeafeac0de40802419ac" title="G4NistManager::GetZ13" alt="" coords="724,161,908,189"/>
+<area shape="rect" id="node4" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1568,109,1760,137"/>
+<area shape="rect" id="node5" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1568,5,1760,33"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1544,57,1784,85"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1832,84,2020,112"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1832,32,2020,60"/>
+<area shape="rect" id="node13" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="1041,161,1143,189"/>
+<area shape="rect" id="node14" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1295,161,1334,189"/>
+<area shape="rect" id="node15" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="1250,213,1379,241"/>
+<area shape="rect" id="node16" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="1248,109,1381,137"/>
+<area shape="rect" id="node18" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1581,285,1747,313"/>
+<area shape="rect" id="node20" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1569,233,1759,261"/>
+<area shape="rect" id="node19" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1832,285,2020,313"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="731,537,901,565"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="731,589,901,617"/>
+<area shape="rect" id="node28" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="732,641,900,669"/>
+<area shape="rect" id="node30" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="696,693,936,721"/>
+<area shape="rect" id="node33" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1006,749,1178,793"/>
+<area shape="rect" id="node31" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1006,681,1178,725"/>
+<area shape="rect" id="node32" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="984,629,1200,657"/>
+</map>

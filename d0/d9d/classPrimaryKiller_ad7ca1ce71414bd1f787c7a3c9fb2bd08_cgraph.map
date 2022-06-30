@@ -1,0 +1,25 @@
+<map id="PrimaryKiller::ProcessHits" name="PrimaryKiller::ProcessHits">
+<area shape="rect" id="node2" href="$d4/daa/classG4RunManager.html#a5a1ec8b251139c185940349cce962920" title="G4RunManager::AbortEvent" alt="" coords="263,212,474,240"/>
+<area shape="rect" id="node16" href="$da/d44/classG4EventManager.html#a23aa0ecc2de39e6fc2e504735a784408" title="G4EventManager::GetConst\lCurrentEvent" alt="" coords="263,264,474,308"/>
+<area shape="rect" id="node17" href="$d5/de2/classG4Event.html#a80ec6d7d8f290a22d78acbbef9955790" title="G4Event::GetEventID" alt="" coords="286,332,451,360"/>
+<area shape="rect" id="node18" href="$da/d44/classG4EventManager.html#aacf5223cc2c7b5a1b1fc699eed9b0ff2" title="G4EventManager::GetEvent\lManager" alt="" coords="263,384,474,428"/>
+<area shape="rect" id="node19" href="$df/d47/classG4StepPoint.html#a7463d186dd17798616e411b770040ead" title="G4StepPoint::GetKineticEnergy" alt="" coords="253,452,485,480"/>
+<area shape="rect" id="node20" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="270,504,467,532"/>
+<area shape="rect" id="node21" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="273,556,464,584"/>
+<area shape="rect" id="node22" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="247,608,491,636"/>
+<area shape="rect" id="node23" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="299,660,439,688"/>
+<area shape="rect" id="node24" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="289,712,448,740"/>
+<area shape="rect" id="node3" href="$da/d44/classG4EventManager.html#a72c4cb963466f84b805b2c0a56ba4d2c" title="G4EventManager::AbortCurrent\lEvent" alt="" coords="539,103,773,147"/>
+<area shape="rect" id="node11" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="547,171,765,215"/>
+<area shape="rect" id="node12" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="555,239,757,283"/>
+<area shape="rect" id="node15" href="$d5/de2/classG4Event.html#aa07d1a55cc240c5eccc65656668465d4" title="G4Event::SetEventAborted" alt="" coords="555,307,757,335"/>
+<area shape="rect" id="node4" href="$d1/d93/classG4StackManager.html#a5ee965d4fab8e714c8a758519a31494a" title="G4StackManager::clear" alt="" coords="861,81,1041,109"/>
+<area shape="rect" id="node9" href="$dd/d71/classG4TrackingManager.html#adc1a7e6b4d5ce0127ecce68d76f75632" title="G4TrackingManager::\lEventAborted" alt="" coords="869,133,1033,177"/>
+<area shape="rect" id="node5" href="$d1/d93/classG4StackManager.html#a833b0bf1a8a92b1360e59fba61960b06" title="G4StackManager::ClearUrgent\lStack" alt="" coords="1130,5,1357,49"/>
+<area shape="rect" id="node8" href="$d1/d93/classG4StackManager.html#af84516e55b6c5819ddde1f6311726a0e" title="G4StackManager::ClearWaiting\lStack" alt="" coords="1128,73,1359,117"/>
+<area shape="rect" id="node6" href="$df/dd3/classG4TrackStack.html#a25935ffde741c820dfdc133471e3ab25" title="G4TrackStack::clearAndDestroy" alt="" coords="1407,48,1641,76"/>
+<area shape="rect" id="node7" href="$d8/deb/comparison__ascii_8C.html#a8802af9a869c2efe00b067a8fabb31b5" title="clear" alt="" coords="1689,48,1745,76"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a0a9a76ea090ffed99910bb848b113380" title="G4Track::SetTrackStatus" alt="" coords="1151,141,1336,169"/>
+<area shape="rect" id="node13" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="821,247,1080,275"/>
+<area shape="rect" id="node14" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1173,247,1314,275"/>
+</map>

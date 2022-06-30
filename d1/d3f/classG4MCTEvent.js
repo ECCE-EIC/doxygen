@@ -1,0 +1,28 @@
+var classG4MCTEvent =
+[
+    [ "genprimary_const_iterator", "d1/d3f/classG4MCTEvent.html#aa16fa7c25db4c6eb9afadd50de54e6a1", null ],
+    [ "simprimary_const_iterator", "d1/d3f/classG4MCTEvent.html#aa08c8e3dc591f705045e371fadf2fce2", null ],
+    [ "G4MCTEvent", "d1/d3f/classG4MCTEvent.html#ab53db248edb350a90d21d226e94e679b", null ],
+    [ "~G4MCTEvent", "d1/d3f/classG4MCTEvent.html#a81b5ab31da8efb6b4c6ddc440a6570e7", null ],
+    [ "G4MCTEvent", "d1/d3f/classG4MCTEvent.html#a8d89482c047645afaa19f14ae2de5eb0", null ],
+    [ "AddPrimaryPair", "d1/d3f/classG4MCTEvent.html#a66255eabb061e9eaf6298a38b145f6c5", null ],
+    [ "ClearEvent", "d1/d3f/classG4MCTEvent.html#af41f22e6d8ad40f93643c635d100ec3b", null ],
+    [ "genprimaries_begin", "d1/d3f/classG4MCTEvent.html#a76ec06194d76fda969bedae1d775a3c2", null ],
+    [ "genprimaries_end", "d1/d3f/classG4MCTEvent.html#a344cc33095a49a1b6c9ca7d62a4f8bd5", null ],
+    [ "GetEventNumber", "d1/d3f/classG4MCTEvent.html#a7c3088ec9a49b2b8219ebf7a1fce4577", null ],
+    [ "GetGenEvent", "d1/d3f/classG4MCTEvent.html#a39756fa0827e61526cf93828ee5d1ad2", null ],
+    [ "GetGenParticle", "d1/d3f/classG4MCTEvent.html#ad04e58b5cd538b4dc8bd9a2ed530db46", null ],
+    [ "GetNofPrimaries", "d1/d3f/classG4MCTEvent.html#adba1b0c9aa77c2a5d9056553d5e33877", null ],
+    [ "GetSimEvent", "d1/d3f/classG4MCTEvent.html#a018099d0b12eab1c8bd34ba3112a6282", null ],
+    [ "GetSimParticle", "d1/d3f/classG4MCTEvent.html#adca8a35f45c0f1a9d528385181d32f14", null ],
+    [ "operator=", "d1/d3f/classG4MCTEvent.html#a8f2dcf306602347962ab4f41236818f9", null ],
+    [ "Print", "d1/d3f/classG4MCTEvent.html#a0900f9b686f0e19154c761a1c5b29a6f", null ],
+    [ "SetEventNumber", "d1/d3f/classG4MCTEvent.html#a0cd7d2dd2ebfb249b986dcbdf8c7e69d", null ],
+    [ "simprimaries_begin", "d1/d3f/classG4MCTEvent.html#a535380a5ace71b0a98a803471b81b2f5", null ],
+    [ "simprimaries_end", "d1/d3f/classG4MCTEvent.html#a0673ca71fa664156987643de7cf546c1", null ],
+    [ "eventNumber", "d1/d3f/classG4MCTEvent.html#a6831d4de031079b8fdf4f0603cf47b7a", null ],
+    [ "gen2simParticleMap", "d1/d3f/classG4MCTEvent.html#a9798fc4ebe56d21da5c7e6673bc35267", null ],
+    [ "genEvent", "d1/d3f/classG4MCTEvent.html#a17a19bb1ac99dd964941d2b8024cfa8f", null ],
+    [ "sim2genParticleMap", "d1/d3f/classG4MCTEvent.html#a8e11fc0079b8dd84da15896f98a14d04", null ],
+    [ "simEvent", "d1/d3f/classG4MCTEvent.html#aa813f7224793229d971f87760a2ad9ef", null ]
+];

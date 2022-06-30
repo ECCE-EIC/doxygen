@@ -1,0 +1,26 @@
+var classG4ElectronIonPair =
+[
+    [ "G4ElectronIonPair", "d2/d2a/classG4ElectronIonPair.html#a8e0cde76b6b4ece8d370694edf71f9d0", null ],
+    [ "~G4ElectronIonPair", "d2/d2a/classG4ElectronIonPair.html#a2e6aa339bbcd266832bc4e604138224d", null ],
+    [ "G4ElectronIonPair", "d2/d2a/classG4ElectronIonPair.html#a1b2b4445f3a711386250c3402c4724ec", null ],
+    [ "DumpG4MeanEnergyPerIonPair", "d2/d2a/classG4ElectronIonPair.html#a8056deeed9c32003ab66f74b6e09577d", null ],
+    [ "DumpMeanEnergyPerIonPair", "d2/d2a/classG4ElectronIonPair.html#a95051149d5b7c63ff4401672c8f2a5d4", null ],
+    [ "FindG4MeanEnergyPerIonPair", "d2/d2a/classG4ElectronIonPair.html#a7f64087d13b3f6dc401ff5a476aa0ed1", null ],
+    [ "FindMeanEnergyPerIonPair", "d2/d2a/classG4ElectronIonPair.html#abd372e7f50c364854563f7b023c78710", null ],
+    [ "Initialise", "d2/d2a/classG4ElectronIonPair.html#a4167fb16181e1ffdca3fd5b66eb5b0da", null ],
+    [ "MeanNumberOfIonsAlongStep", "d2/d2a/classG4ElectronIonPair.html#a545aa54a34796442058eb7bf643b929a", null ],
+    [ "MeanNumberOfIonsAlongStep", "d2/d2a/classG4ElectronIonPair.html#a87336e9aa4ce537ec93d41e611c92a9b", null ],
+    [ "operator=", "d2/d2a/classG4ElectronIonPair.html#af3bb7395d74911c5568bea20ac368264", null ],
+    [ "ResidualeChargePostStep", "d2/d2a/classG4ElectronIonPair.html#a4de972b1bf39c9d8c59e5186c274c148", null ],
+    [ "ResidualeChargePostStep", "d2/d2a/classG4ElectronIonPair.html#a6daace4ee2bf6633679c39467fca26ae", null ],
+    [ "SampleIonsAlongStep", "d2/d2a/classG4ElectronIonPair.html#af50fd4f35ac283794f72b9b137ae1fdc", null ],
+    [ "SampleNumberOfIonsAlongStep", "d2/d2a/classG4ElectronIonPair.html#a15c0d128bb1162d4badc95b8ba4639bd", null ],
+    [ "SetVerbose", "d2/d2a/classG4ElectronIonPair.html#a52fe6bfd64a4e96a7186b11759801342", null ],
+    [ "curMaterial", "d2/d2a/classG4ElectronIonPair.html#a0177b88402d097a02860f29a876a7013", null ],
+    [ "curMeanEnergy", "d2/d2a/classG4ElectronIonPair.html#af5e9c5a9a9f4efd569c7af1367b60ffb", null ],
+    [ "g4MatData", "d2/d2a/classG4ElectronIonPair.html#a9b9281b831fd4ac204e1beb0351d0768", null ],
+    [ "g4MatNames", "d2/d2a/classG4ElectronIonPair.html#a0924402c8def7275a04f1fd9ffc56c97", null ],
+    [ "invFanoFactor", "d2/d2a/classG4ElectronIonPair.html#a829f39d96fac3e006d75a57ef659afed", null ],
+    [ "nMaterials", "d2/d2a/classG4ElectronIonPair.html#a18ca76e0cc7d97ff349f2eb5b5254f9f", null ],
+    [ "verbose", "d2/d2a/classG4ElectronIonPair.html#abdeedcedc187a069a656eca57e3183c7", null ]
+];

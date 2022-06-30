@@ -1,0 +1,51 @@
+<map id="PHG4DetectorSubsystem::OverlapCheck" name="PHG4DetectorSubsystem::OverlapCheck">
+<area shape="rect" id="node2" href="$de/dd6/G4__AllSilicon_8C.html#a8fb332b6d50ac62c7a7c6c45c8c213c0" title="AllSiliconSetup" alt="" coords="281,5,405,33"/>
+<area shape="rect" id="node3" href="$d8/d04/G4__Barrel__EIC_8C.html#a5c00158e306db90afea0f2232e5026a3" title="Barrel" alt="" coords="562,167,623,195"/>
+<area shape="rect" id="node5" href="$d1/d40/G4__BECAL_8C.html#a7c543173864df397450620abfddde1d5" title="BECALSetup" alt="" coords="540,225,645,253"/>
+<area shape="rect" id="node6" href="$d4/dcd/G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="299,315,387,343"/>
+<area shape="rect" id="node8" href="$dd/d6b/G4__BMMG_8C.html#adc20c046d934a809ae3b107c89860396" title="BMMGSetup" alt="" coords="541,289,645,317"/>
+<area shape="rect" id="node9" href="$dc/df8/G4__BToF_8C.html#a35ee936dff6b2506c6818dc1937859a2" title="Build_G4_BTof" alt="" coords="285,419,402,447"/>
+<area shape="rect" id="node11" href="$d9/d7a/G4__mRwell__EIC_8C.html#abfa92aeb6827b529146797ca3b25ba00" title="Build_G4_RWell_Bare" alt="" coords="262,627,425,655"/>
+<area shape="rect" id="node13" href="$d9/d7a/G4__mRwell__EIC_8C.html#ab389de06bb7d6a0f1d8a9d703435835e" title="Build_G4_RWell_Sup01" alt="" coords="256,679,431,707"/>
+<area shape="rect" id="node14" href="$d8/d4c/G4__CEmc__EIC_8C.html#ac778c2f88602e04311ada5c27fcb1e46" title="CEmc" alt="" coords="313,575,373,603"/>
+<area shape="rect" id="node16" href="$d7/ddc/G4__CEmc__Spacal_8C.html#aa767c00f7d7124fb60c23ad54eac116b" title="EMCal setup macro &#45; 1D azimuthal projective SPACAL." alt="" coords="245,471,441,499"/>
+<area shape="rect" id="node17" href="$d7/ddc/G4__CEmc__Spacal_8C.html#a18dd86bd5a536014cab38fcd3e87a829" title="2D full projective SPACAL" alt="" coords="245,523,441,551"/>
+<area shape="rect" id="node18" href="$d8/d50/G4__DIRC_8C.html#a0158029ebaf6692344d07ef2f82460ce" title="DIRCSetup" alt="" coords="546,735,639,763"/>
+<area shape="rect" id="node19" href="$df/dea/G4__Disk_8C.html#a45366f0bd3bb3087f6900467b558b48c" title="Disk" alt="" coords="318,367,369,395"/>
+<area shape="rect" id="node20" href="$d3/d09/G4__DRCALO_8C.html#ae18d2f7eb8eeb3b85f99c0dd642860a4" title="DRCALOSetup" alt="" coords="535,787,651,815"/>
+<area shape="rect" id="node21" href="$d3/d45/G4__EEMC__hybrid_8C.html#a0f5fe03c955a98baef5ce508183a8901" title="EEMCHSetup" alt="" coords="538,839,647,867"/>
+<area shape="rect" id="node22" href="$d1/d38/G4__EEMC_8C.html#aa4757fd444fcd8b2dde7590e5bffc722" title="EEMCSetup" alt="" coords="543,891,642,919"/>
+<area shape="rect" id="node23" href="$da/d5a/G4__EHCAL_8C.html#a4485f0bcefe4b615654d45f4a9f90481" title="EHCALSetup" alt="" coords="540,943,645,971"/>
+<area shape="rect" id="node24" href="$df/d3f/G4__EToF_8C.html#ab57db5a660a2ec557b09c9408fb649c4" title="ETOFSetup" alt="" coords="545,995,641,1023"/>
+<area shape="rect" id="node25" href="$d5/dcb/G4__FEMC_8C.html#a46bf470cecae66db11fccb5925a48429" title="FEMCSetup" alt="" coords="543,1047,642,1075"/>
+<area shape="rect" id="node26" href="$d8/dc2/G4__FHCAL_8C.html#a34230ae56a9f95821aadf0d2a720df66" title="FHCALSetup" alt="" coords="540,1099,645,1127"/>
+<area shape="rect" id="node27" href="$d5/d21/Fun4All__G4__dRICHImport_8C.html#a3a58b6c3d01066a007bf8f28289d1946" title="Fun4All_G4_dRICHImport" alt="" coords="248,1036,439,1064"/>
+<area shape="rect" id="node28" href="$dc/dda/G4__HcalIn__ref_8C.html#a1a52eb3e2a8e75ec336b82be8ceef4d9" title="HCalInner" alt="" coords="548,1151,637,1179"/>
+<area shape="rect" id="node29" href="$d8/d93/G4__HcalOut__ref_8C.html#a1b10b3900f22c0f15ac8d49e06ceefb3" title="HCalOuter" alt="" coords="547,1204,639,1232"/>
+<area shape="rect" id="node30" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html#ac57735664d8806de91047dd7137ab13b" title="hFarBwdDefineMagnets" alt="" coords="502,1257,683,1285"/>
+<area shape="rect" id="node31" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a39cd0476d2b201f033894c397e9b0aae" title="hFarFwdDefineDetectorsIP6" alt="" coords="489,1312,696,1340"/>
+<area shape="rect" id="node32" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a18f9f4fd47d8482c56c1ba1b3f9dfad7" title="hFarFwdDefineDetectorsIP8" alt="" coords="489,1371,696,1399"/>
+<area shape="rect" id="node33" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#accfd44a3ea15bfe78995fc1aff2d9dbc" title="hFarFwdDefineMagnets" alt="" coords="503,1436,682,1464"/>
+<area shape="rect" id="node34" href="$d0/dc3/G4__HToF_8C.html#a9210d5813aa95593d1fdbb78f412f3fc" title="HTOFSetup" alt="" coords="544,1491,641,1519"/>
+<area shape="rect" id="node35" href="$d9/d3c/G4__LFHCAL_8C.html#a668c384e30a331740fd29d7bc7db2e11" title="LFHCALSetup" alt="" coords="537,1557,649,1585"/>
+<area shape="rect" id="node36" href="$da/d17/G4__Magnet_8C.html#a83e97495646b8e137d52e66d486d9273" title="Magnet" alt="" coords="556,1640,629,1668"/>
+<area shape="rect" id="node37" href="$db/dd2/G4__TTL__EIC_8C.html#ad7d20212fc885a9728dbba215a8e6206" title="make_barrel_layer" alt="" coords="270,1545,417,1573"/>
+<area shape="rect" id="node38" href="$db/dd2/G4__TTL__EIC_8C.html#a2356e0ebd4d13f3063a134ce89a0ccc5" title="make_barrel_layer_basic" alt="" coords="250,1597,437,1625"/>
+<area shape="rect" id="node39" href="$db/dd2/G4__TTL__EIC_8C.html#abd4fa299e9a68c0a61c1431c475af1a5" title="make_barrel_layer_LYSO\l_basic" alt="" coords="251,1649,436,1693"/>
+<area shape="rect" id="node40" href="$db/dd2/G4__TTL__EIC_8C.html#aba1f8d7582d68f0e53dc9800a406cb63" title="make_forward_station" alt="" coords="259,1717,428,1745"/>
+<area shape="rect" id="node41" href="$d1/db0/G4__FST__EIC_8C.html#aa4c91de5ab3347b50307a4861343cc12" title="make_supportCyl" alt="" coords="275,1769,412,1797"/>
+<area shape="rect" id="node42" href="$de/d8a/G4__mRICH_8C.html#afe15c46bafe5f0a5c14319020f0741e4" title="mRICHSetup" alt="" coords="290,1976,397,2004"/>
+<area shape="rect" id="node43" href="$d1/df9/G4__Pipe_8C.html#a08cd22872149ee9d15a5b068c6aad7b4" title="Pipe" alt="" coords="319,2028,368,2056"/>
+<area shape="rect" id="node44" href="$d6/d0a/G4__Piston_8C.html#abe88c27b98100db847d10073e6fa17ca" title="Piston" alt="" coords="313,1924,374,1952"/>
+<area shape="rect" id="node45" href="$d1/d56/G4__PlugDoor_8C.html#aa59bf2cdaabcdb80a472f7a8e1adc8fe" title="PlugDoor" alt="" coords="301,2236,385,2264"/>
+<area shape="rect" id="node46" href="$da/d69/G4__dRICH_8C.html#a1e01d006392f23f7fadc944177d97720" title="Fast geometry model for dRICH." alt="" coords="297,57,390,85"/>
+<area shape="rect" id="node47" href="$d3/d50/G4__TPC__EIC_8C.html#a83488fb5063bb9961327e7d645a25d84" title="TPC end cap, wagon wheel, electronics." alt="" coords="287,2080,399,2108"/>
+<area shape="rect" id="node48" href="$d2/da4/G4__TrackingSupport_8C.html#af90375d66c6ab66ea233050c2fa1e64e" title="TrackingServiceCone" alt="" coords="261,2132,425,2160"/>
+<area shape="rect" id="node49" href="$d2/da4/G4__TrackingSupport_8C.html#a7d16932f3e8af86575e5a9c267b440f2" title="TrackingServiceCylinder" alt="" coords="251,2184,436,2212"/>
+<area shape="rect" id="node50" href="$de/d34/G4__TRD_8C.html#a3df839e3ef6622ab3fc2093eb3ffc7d1" title="TRDSetup" alt="" coords="298,109,389,137"/>
+<area shape="rect" id="node4" href="$d3/dad/macros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="744,1021,824,1049"/>
+<area shape="rect" id="node7" href="$d2/d41/G4Setup_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="553,365,633,393"/>
+<area shape="rect" id="node10" href="$dc/df8/G4__BToF_8C.html#a6822216ef86762fc3f14691d8fd47129" title="BToFSetup" alt="" coords="547,467,639,495"/>
+<area shape="rect" id="node12" href="$d9/d7a/G4__mRwell__EIC_8C.html#a9c56a2589606f9fd84710967bdcba988" title="type selects the RWell material" alt="" coords="543,683,642,711"/>
+<area shape="rect" id="node15" href="$d5/d9f/Fun4All__G4__Momentum__Projection__Calorimeters_8C.html#a5f9b4c65bb2070aedfd707dfc2d2cace" title="Fun4All_G4_Momentum\l_Projection_Calorimeters" alt="" coords="498,563,687,607"/>
+</map>

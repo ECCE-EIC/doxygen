@@ -1,0 +1,40 @@
+<map id="G4EmExtraPhysics" name="G4EmExtraPhysics">
+<area shape="rect" id="node50" href="$d7/d90/classG4EmMessenger.html" title="G4EmMessenger" alt="" coords="7081,2014,7217,2042"/>
+<area shape="rect" id="node2" href="$d1/d2f/classG4VPhysicsConstructor.html" title="G4VPhysicsConstructor" alt="" coords="6285,2027,6463,2055"/>
+<area shape="rect" id="node3" href="$de/de6/classG4VUPLSplitter.html" title="G4VUPLSplitter\&lt; T \&gt;" alt="" coords="5913,2002,6076,2030"/>
+<area shape="rect" id="node4" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="336,982,416,1010"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="5932,499,6057,527"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="3211,606,3365,634"/>
+<area shape="rect" id="node12" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="1354,1106,1485,1134"/>
+<area shape="rect" id="node14" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="1738,1554,1859,1582"/>
+<area shape="rect" id="node18" href="$d9/d78/classG4UIparameter.html" title="G4UIparameter" alt="" coords="948,1381,1075,1409"/>
+<area shape="rect" id="node19" href="$d3/df5/structG4UItokenNum_1_1yystype.html" title="G4UItokenNum::yystype" alt="" coords="532,1414,717,1442"/>
+<area shape="rect" id="node22" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="3237,787,3339,815"/>
+<area shape="rect" id="node30" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="5651,237,5747,265"/>
+<area shape="rect" id="node32" href="$dc/de0/classG4VIsotopeTable.html" title="G4VIsotopeTable" alt="" coords="4791,409,4925,437"/>
+<area shape="rect" id="node47" href="$df/d2d/classG4VDecayChannel.html" title="G4VDecayChannel" alt="" coords="6301,745,6447,773"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="197,982,287,1010"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="5,974,148,1018"/>
+<area shape="rect" id="node11" href="$d9/d8c/classG4ProcessManagerMessenger.html" title="G4ProcessManagerMessenger" alt="" coords="2351,799,2576,827"/>
+<area shape="rect" id="node42" href="$db/d05/classG4ParticleMessenger.html" title="G4ParticleMessenger" alt="" coords="7499,1294,7663,1322"/>
+<area shape="rect" id="node45" href="$d7/d07/classG4ParticlePropertyMessenger.html" title="G4ParticlePropertyMessenger" alt="" coords="7039,1294,7260,1322"/>
+<area shape="rect" id="node46" href="$d7/d75/classG4DecayTableMessenger.html" title="G4DecayTableMessenger" alt="" coords="6637,1143,6829,1171"/>
+<area shape="rect" id="node29" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="4053,299,4229,343"/>
+<area shape="rect" id="node10" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="2819,618,2971,646"/>
+<area shape="rect" id="node28" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="3583,922,3700,950"/>
+<area shape="rect" id="node33" href="$d9/d30/classG4NuclideTableMessenger.html" title="G4NuclideTableMessenger" alt="" coords="5599,994,5799,1022"/>
+<area shape="rect" id="node13" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="2052,1333,2167,1361"/>
+<area shape="rect" id="node21" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="2019,1561,2200,1589"/>
+<area shape="rect" id="node34" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html" title="G4UIcmdWithADoubleAndUnit" alt="" coords="5141,1211,5368,1239"/>
+<area shape="rect" id="node43" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="6652,2155,6815,2183"/>
+<area shape="rect" id="node44" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="6271,1499,6477,1527"/>
+<area shape="rect" id="node48" href="$df/d21/classG4UIcmdWithADouble.html" title="G4UIcmdWithADouble" alt="" coords="6289,1654,6459,1682"/>
+<area shape="rect" id="node49" href="$d8/d06/classG4UIcmdWithABool.html" title="G4UIcmdWithABool" alt="" coords="6657,1858,6810,1886"/>
+<area shape="rect" id="node23" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="2819,838,2970,866"/>
+<area shape="rect" id="node24" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="2042,635,2177,663"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="1733,626,1865,654"/>
+<area shape="rect" id="node40" title="STL class." alt="" coords="1713,205,1884,233"/>
+<area shape="rect" id="node27" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="2829,670,2961,698"/>
+<area shape="rect" id="node37" href="$d2/d12/classG4IsotopeProperty.html" title="G4IsotopeProperty" alt="" coords="3883,922,4029,950"/>
+<area shape="rect" id="node31" href="$d7/d24/classG4NuclideTable.html" title="G4NuclideTable" alt="" coords="5191,875,5318,903"/>
+</map>

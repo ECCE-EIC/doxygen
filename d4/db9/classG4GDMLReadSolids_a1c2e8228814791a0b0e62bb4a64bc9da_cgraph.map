@@ -1,0 +1,34 @@
+<map id="G4GDMLReadSolids::PropertyRead" name="G4GDMLReadSolids::PropertyRead">
+<area shape="rect" id="node2" href="$da/dbc/classG4MaterialPropertiesTable.html#a90faebcc28346b755f1973d6ffce8fa9" title="G4MaterialPropertiesTable\l::AddConstProperty" alt="" coords="321,16,519,60"/>
+<area shape="rect" id="node3" href="$da/dbc/classG4MaterialPropertiesTable.html#af8f630001ea7d2f78f339ac0d730bac2" title="G4MaterialPropertiesTable\l::AddProperty" alt="" coords="321,245,519,289"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1473,383,1579,411"/>
+<area shape="rect" id="node13" href="$dc/d99/classG4PhysicsOrderedFreeVector.html#a27c29e664f582dd93ee469bd001c9f7f" title="G4PhysicsOrderedFreeVector\l::InsertValues" alt="" coords="879,185,1096,229"/>
+<area shape="rect" id="node14" href="$d3/d87/classG4GDMLRead.html#a4f33bb18e428b5fa143e57a135f32ffd" title="G4GDMLRead::GenerateName" alt="" coords="307,657,533,685"/>
+<area shape="rect" id="node26" href="$d7/dc6/classG4GDMLMatrix.html#a9c40b5fc0c641098c10481d5558f4710" title="G4GDMLMatrix::Get" alt="" coords="1186,408,1342,436"/>
+<area shape="rect" id="node27" href="$d7/dc6/classG4GDMLMatrix.html#a48ff684cc7a3a4f7835310ecb02fe5af" title="G4GDMLMatrix::GetCols" alt="" coords="328,365,512,393"/>
+<area shape="rect" id="node28" href="$d4/d86/classG4OpticalSurface.html#aa98992ba3b3c7b0b0f6785749b92fbdd" title="G4OpticalSurface::GetMaterial\lPropertiesTable" alt="" coords="307,417,533,461"/>
+<area shape="rect" id="node29" href="$db/d76/classG4GDMLReadDefine.html#a9caed886dccc8dff72c5723045f156be" title="G4GDMLReadDefine::GetMatrix" alt="" coords="589,83,823,111"/>
+<area shape="rect" id="node30" href="$d7/dc6/classG4GDMLMatrix.html#afe87ced2f9fa246599e6db7258194583" title="G4GDMLMatrix::GetRows" alt="" coords="325,537,515,565"/>
+<area shape="rect" id="node31" href="$d4/d86/classG4OpticalSurface.html#a112d555d8e6ddf9e74bb7d9a2250d6ea" title="G4OpticalSurface::SetMaterial\lPropertiesTable" alt="" coords="307,589,533,633"/>
+<area shape="rect" id="node32" href="$d3/d87/classG4GDMLRead.html#ac228c6f962eae21f0c22a4eff347500c" title="G4GDMLRead::Strip" alt="" coords="629,476,783,504"/>
+<area shape="rect" id="node33" href="$d3/d87/classG4GDMLRead.html#a9b2efd7a7ccf95a10d2158b75e096cec" title="G4GDMLRead::Transcode" alt="" coords="324,709,516,737"/>
+<area shape="rect" id="node4" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="607,325,805,369"/>
+<area shape="rect" id="node6" href="$da/dbc/classG4MaterialPropertiesTable.html#a086f7d7eb71abeb9270dc37028d3d8b8" title="G4MaterialPropertiesTable\l::CalculateGROUPVEL" alt="" coords="607,245,805,289"/>
+<area shape="rect" id="node7" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="955,253,1019,281"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1168,201,1360,229"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1168,253,1360,281"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1144,31,1384,59"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1432,5,1620,33"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1432,57,1620,85"/>
+<area shape="rect" id="node15" href="$d8/d36/classG4GDMLEvaluator.html#aefc0596132eb5819bdaeeab4943cf85f" title="G4GDMLEvaluator::SolveBrackets" alt="" coords="581,644,831,672"/>
+<area shape="rect" id="node24" href="$d3/d87/classG4GDMLRead.html#aea1e72e21c14f318200c90bf34bed5a3" title="G4GDMLRead::StripName" alt="" coords="609,555,803,583"/>
+<area shape="rect" id="node16" href="$d5/d72/classG4String.html#aa95cfd24fc070ec0b60a686ca6017abc" title="G4String::append" alt="" coords="917,689,1057,717"/>
+<area shape="rect" id="node17" href="$d8/deb/comparison__ascii_8C.html#af0142003ab45f38c281006149c483d2a" title="close" alt="" coords="959,637,1015,665"/>
+<area shape="rect" id="node18" href="$d8/d36/classG4GDMLEvaluator.html#a8c587b757b0f111b7f520cf440a6c7fd" title="G4GDMLEvaluator::Evaluate\lInteger" alt="" coords="881,569,1093,613"/>
+<area shape="rect" id="node19" href="$d8/d36/classG4GDMLEvaluator.html#a1aa95c2d2123fa93d0f95960490e2305" title="G4GDMLEvaluator::Evaluate" alt="" coords="1158,620,1370,648"/>
+<area shape="rect" id="node20" href="$d5/df7/classHepTool_1_1Evaluator.html#a7dc9b53ee92056ac4b3b34302c91c865" title="HepTool::Evaluator\l::evaluate" alt="" coords="1451,544,1601,588"/>
+<area shape="rect" id="node21" href="$d5/df7/classHepTool_1_1Evaluator.html#a71d40eedb07fbf64deb7991f3aaa43ef" title="HepTool::Evaluator\l::print_error" alt="" coords="1451,612,1601,656"/>
+<area shape="rect" id="node23" href="$d5/df7/classHepTool_1_1Evaluator.html#ae7260e78df579a539d083e038ae62100" title="HepTool::Evaluator\l::status" alt="" coords="1451,680,1601,724"/>
+<area shape="rect" id="node22" href="$d5/df7/classHepTool_1_1Evaluator.html#a45e1f0240b875e851e8c455503df7df9" title="HepTool::Evaluator\l::error_name" alt="" coords="1668,612,1817,656"/>
+<area shape="rect" id="node25" href="$d5/d72/classG4String.html#afb274c4b23618f6ac01f89880e5069b9" title="G4String::remove" alt="" coords="917,465,1058,493"/>
+</map>

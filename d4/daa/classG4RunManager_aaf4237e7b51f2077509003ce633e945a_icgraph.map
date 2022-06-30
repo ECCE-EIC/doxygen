@@ -1,0 +1,35 @@
+<map id="G4RunManager::GetUserDetectorConstruction" name="G4RunManager::GetUserDetectorConstruction">
+<area shape="rect" id="node2" href="$d5/de8/classPurgMagActionInitializer.html#a1d4ade4f2a445492ff4dc3993ffe17a1" title="PurgMagActionInitializer\l::Build" alt="" coords="355,5,540,49"/>
+<area shape="rect" id="node3" href="$d4/db0/classXrayFluoActionInitializer.html#a7fd3b020d90c4f9a23dc2148c3a6eaef" title="XrayFluoActionInitializer\l::Build" alt="" coords="355,73,540,117"/>
+<area shape="rect" id="node4" href="$db/d54/classCexmcEnergyDepositDigitizer.html#a49d0de7887945ecbd722e98143ee7849" title="CexmcEnergyDepositDigitizer\l::CexmcEnergyDepositDigitizer" alt="" coords="331,141,563,185"/>
+<area shape="rect" id="node5" href="$d6/d47/classCexmcReconstructor.html#af1a9838219cde706134a82c3f4e463ce" title="CexmcReconstructor\l::CexmcReconstructor" alt="" coords="362,209,533,253"/>
+<area shape="rect" id="node6" href="$de/d6c/classCexmcSteppingAction.html#ad24a202c611699453a5ae503478c2041" title="CexmcSteppingAction\l::CexmcSteppingAction" alt="" coords="358,277,537,321"/>
+<area shape="rect" id="node7" href="$d8/df7/classCexmcTrackingAction.html#a0f140492cf7a01f2f5d0361bfbf41225" title="CexmcTrackingAction\l::CexmcTrackingAction" alt="" coords="360,345,535,389"/>
+<area shape="rect" id="node8" href="$d7/d12/classCexmcTrackPointsDigitizer.html#af54d478281c61bc018a002870e564e8a" title="CexmcTrackPointsDigitizer\l::CexmcTrackPointsDigitizer" alt="" coords="343,413,552,457"/>
+<area shape="rect" id="node9" href="$da/d2c/classB1RunAction.html#a1a1677665a9f18e9fd9ea4283f622bf5" title="B1RunAction::EndOfRunAction" alt="" coords="335,481,560,509"/>
+<area shape="rect" id="node10" href="$d3/dba/classB1ConRunAction.html#ad568c7374a6944869e6f8d4243bec14e" title="B1ConRunAction::EndOfRun\lAction" alt="" coords="343,533,552,577"/>
+<area shape="rect" id="node11" href="$d9/d5c/classB01RunAction.html#ae76ca6909ca4328dc061c43618eb3545" title="B01RunAction::EndOfRunAction" alt="" coords="330,601,565,629"/>
+<area shape="rect" id="node12" href="$d2/d64/classB02RunAction.html#ab3d32ba7084dbbdcd1fc629a48e87449" title="B02RunAction::EndOfRunAction" alt="" coords="330,653,565,681"/>
+<area shape="rect" id="node13" href="$d7/d2c/classB03RunAction.html#a84289649f14e40ddc5e038f21dabc348" title="B03RunAction::EndOfRunAction" alt="" coords="330,705,565,733"/>
+<area shape="rect" id="node14" href="$d9/df0/classRE02RunAction.html#aee259465dc676654bc9c1773f6d76e8f" title="RE02RunAction::EndOfRunAction" alt="" coords="326,757,569,785"/>
+<area shape="rect" id="node15" href="$da/df9/classtbbTask.html#ac48835b07dd4ff768b9b78c449f4c6e8" title="tbbTask::execute" alt="" coords="380,809,515,837"/>
+<area shape="rect" id="node16" href="$dd/d36/pymodG4run_8cc.html#a40df4755f58bb0bd961be91b7372bd01" title="export_G4RunManager" alt="" coords="359,861,536,889"/>
+<area shape="rect" id="node18" href="$d2/d49/classG4MonopoleTransportation.html#ab80bddaf999144c1dee4c9ee1cdabfdd" title="G4MonopoleTransportation\l::G4MonopoleTransportation" alt="" coords="341,913,553,957"/>
+<area shape="rect" id="node19" href="$df/db9/classGammaRayTelAnalysis.html#a132cc3c7ce375c62593d012a121616ee" title="GammaRayTelAnalysis\l::GammaRayTelAnalysis" alt="" coords="355,981,539,1025"/>
+<area shape="rect" id="node25" href="$d8/d01/classGammaRayTelAnticoincidenceSD.html#ad7022c75b33a6d63016942daf767dfa1" title="GammaRayTelAnticoincidence\lSD::GammaRayTelAnticoincidenceSD" alt="" coords="311,1049,584,1093"/>
+<area shape="rect" id="node26" href="$dc/d21/classGammaRayTelCalorimeterSD.html#a3b525e5389b8fc4a12d8edba7f451283" title="GammaRayTelCalorimeterSD\l::GammaRayTelCalorimeterSD" alt="" coords="335,1117,560,1161"/>
+<area shape="rect" id="node27" href="$dd/de2/classGammaRayTelPrimaryGeneratorAction.html#a43bf3b88aa13267340015ddb04204dfc" title="GammaRayTelPrimaryGenerator\lAction::GammaRayTelPrimaryGenerator\lAction" alt="" coords="301,1185,593,1245"/>
+<area shape="rect" id="node28" href="$d9/d0a/classGammaRayTelTrackerSD.html#a550e27c1f60feb00133a865f2972992e" title="GammaRayTelTrackerSD\l::GammaRayTelTrackerSD" alt="" coords="350,1269,545,1313"/>
+<area shape="rect" id="node29" href="$d0/dd1/classMyPrimaryGeneratorActionFromFile.html#ae5c7864f0e1b64cf29a71a55094313d0" title="MyPrimaryGeneratorAction\lFromFile::MyPrimaryGenerator\lActionFromFile" alt="" coords="334,1337,561,1397"/>
+<area shape="rect" id="node30" href="$d7/df6/classRunAction.html#ae3528a24ac44883ebc4670c1c82cff6d" title="RunAction::RunAction" alt="" coords="364,1421,531,1449"/>
+<area shape="rect" id="node31" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="353,1473,541,1517"/>
+<area shape="rect" id="node32" href="$db/df7/classHadrontherapyDetectorConstruction.html#a1a59dea0a6ce7b6f77a8bd16c6f08e77" title="HadrontherapyDetectorConstruction\l::UpdateGeometry" alt="" coords="314,1541,581,1585"/>
+<area shape="rect" id="node34" href="$d1/df0/classB1SteppingAction.html#a5ae4a9a3bf6b7d468215020690ae50d7" title="B1SteppingAction::UserStepping\lAction" alt="" coords="327,1609,568,1653"/>
+<area shape="rect" id="node17" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="682,861,877,889"/>
+<area shape="rect" id="node20" href="$df/db9/classGammaRayTelAnalysis.html#a2dff10d1afd10e89fef6ebf003db05a3" title="GammaRayTelAnalysis\l::getInstance" alt="" coords="692,981,867,1025"/>
+<area shape="rect" id="node21" href="$dc/da7/GammaRayTel_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1037,895,1092,923"/>
+<area shape="rect" id="node22" href="$d1/d5b/classGammaRayTelEventAction.html#a20d9479bb169f60267d94ecdfd914ba4" title="GammaRayTelEventAction\l::EndOfEventAction" alt="" coords="965,947,1164,991"/>
+<area shape="rect" id="node23" href="$dc/dde/classGammaRayTelRunAction.html#a84e2ca92f9818fdc8694a35dce6b1c94" title="GammaRayTelRunAction\l::BeginOfRunAction" alt="" coords="971,1015,1158,1059"/>
+<area shape="rect" id="node24" href="$dc/dde/classGammaRayTelRunAction.html#ac3e006cfc3840a9094807326b4c491ce" title="GammaRayTelRunAction\l::EndOfRunAction" alt="" coords="971,1083,1158,1127"/>
+<area shape="rect" id="node33" href="$db/df7/classHadrontherapyDetectorConstruction.html#aad7e8923e69986c17ebbf1376d480980" title="HadrontherapyDetectorConstruction\l::HadrontherapyDetectorConstruction" alt="" coords="641,1541,917,1585"/>
+</map>

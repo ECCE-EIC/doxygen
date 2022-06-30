@@ -1,0 +1,26 @@
+<map id="G4LowEnergyPolarizedCompton::BuildPhysicsTable" name="G4LowEnergyPolarizedCompton::BuildPhysicsTable">
+<area shape="rect" id="node2" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a40f3cc1c7ee2da2b2ebb3151cededa17" title="G4RDVCrossSectionHandler\l::BuildMeanFreePathForMaterials" alt="" coords="289,787,532,831"/>
+<area shape="rect" id="node12" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a69a3064bc1e9ee96066abbda136c5b00" title="G4RDVCrossSectionHandler\l::Clear" alt="" coords="305,309,516,353"/>
+<area shape="rect" id="node22" href="$d5/de5/classG4RDShellData.html#afa12123fc64fa0f3396b15521853087b" title="G4RDShellData::LoadData" alt="" coords="312,421,509,449"/>
+<area shape="rect" id="node24" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a890d6a5ca77d1890587fe84d625d5d4c" title="G4RDVCrossSectionHandler\l::LoadData" alt="" coords="305,473,516,517"/>
+<area shape="rect" id="node3" href="$dc/d2b/classG4RDVCrossSectionHandler.html#ad8a61e5dba0537536f0f1f06f535ed6d" title="G4RDVCrossSectionHandler\l::BuildCrossSectionsForMaterials" alt="" coords="588,885,829,929"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="963,421,1069,449"/>
+<area shape="rect" id="node5" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a6b79e3ff4b3ab69714857c8a27612f6d" title="G4RDVCrossSectionHandler\l::CreateInterpolation" alt="" coords="603,697,814,741"/>
+<area shape="rect" id="node6" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="613,817,804,861"/>
+<area shape="rect" id="node7" href="$d5/dda/classG4ProductionCutsTable.html#a7b0040d3ae75f54e2df3ef0e8dc81cc0" title="G4ProductionCutsTable\l::GetTableSize" alt="" coords="620,953,797,997"/>
+<area shape="rect" id="node8" href="$d7/d74/classG4RDVEMDataSet.html#aafec51eba4acec7e9fafa47d08e894c0" title="G4RDVEMDataSet::NumberOf\lComponents" alt="" coords="597,1021,820,1065"/>
+<area shape="rect" id="node9" href="$d7/d74/classG4RDVEMDataSet.html#a1702581a84fd58259027d1a3184b5d95" title="G4RDVEMDataSet::GetComponent" alt="" coords="581,1089,837,1117"/>
+<area shape="rect" id="node10" href="$d7/d74/classG4RDVEMDataSet.html#a7739b9a1c7d80dec7b20a8c676de8275" title="G4RDVEMDataSet::FindValue" alt="" coords="600,593,817,621"/>
+<area shape="rect" id="node11" href="$d7/d74/classG4RDVEMDataSet.html#a1a14b2173a67820e3523d42023c4d801" title="G4RDVEMDataSet::AddComponent" alt="" coords="580,645,837,673"/>
+<area shape="rect" id="node13" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="993,369,1039,397"/>
+<area shape="rect" id="node14" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a7801040cf82b35bb03ec73f96a4153d5" title="G4RDVCrossSectionHandler\l::ActiveElements" alt="" coords="603,205,814,249"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="907,161,1125,189"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#a367ef71701dd787b47c15c2a0c3167d7" title="G4Material::GetNumberOfMaterials" alt="" coords="886,213,1146,241"/>
+<area shape="rect" id="node17" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="977,265,1055,293"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="902,317,1130,345"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="885,5,1147,33"/>
+<area shape="rect" id="node20" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="947,57,1085,85"/>
+<area shape="rect" id="node21" href="$de/d4e/classG4DataVector.html#af21c3a04df8fe64b502f1d48d8b47866" title="G4DataVector::contains" alt="" coords="925,109,1107,137"/>
+<area shape="rect" id="node23" href="$d5/de5/classG4RDShellData.html#a5230c0f20ddade3bc142bbc40bbd8bb7" title="G4RDShellData::ShellIdVector" alt="" coords="597,369,821,397"/>
+<area shape="rect" id="node25" href="$d6/df2/classG4RDVDataSetAlgorithm.html#af8ff43b3f73842b4b0b8eeeca723abe8" title="G4RDVDataSetAlgorithm\l::Clone" alt="" coords="614,473,803,517"/>
+</map>

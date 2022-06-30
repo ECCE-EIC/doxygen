@@ -1,0 +1,20 @@
+<map id="G4ErrorMagFieldLimitProcess::PostStepGetPhysicalInteractionLength" name="G4ErrorMagFieldLimitProcess::PostStepGetPhysicalInteractionLength">
+<area shape="rect" id="node2" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="326,5,486,49"/>
+<area shape="rect" id="node3" href="$dc/d5a/classG4FieldManager.html#a71d03f0660d835e8f7d7f99246fa5ddd" title="G4FieldManager::GetDetector\lField" alt="" coords="295,73,517,117"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="307,141,505,185"/>
+<area shape="rect" id="node5" href="$d6/d64/classG4Field.html#a8af787d2ecf139cb1f630ea7a28e63f8" title="G4Field::GetFieldValue" alt="" coords="319,209,493,237"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#aa83f323d30aa6b3e8ae80745dba7ecf1" title="G4Track::GetMomentum" alt="" coords="313,261,499,289"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="325,313,487,341"/>
+<area shape="rect" id="node8" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="300,365,512,409"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="311,433,501,461"/>
+<area shape="rect" id="node16" href="$da/d6d/classG4ErrorPropagatorData.html#a23a52d87e64acb6a6614951606c37877" title="G4ErrorPropagatorData\l::verbose" alt="" coords="317,485,495,529"/>
+<area shape="rect" id="node17" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="321,553,491,581"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="321,605,491,633"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="322,657,490,685"/>
+<area shape="rect" id="node9" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="565,365,772,409"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="881,253,987,281"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="837,305,1031,349"/>
+<area shape="rect" id="node12" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="857,373,1011,401"/>
+<area shape="rect" id="node13" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="849,425,1019,453"/>
+<area shape="rect" id="node14" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="820,477,1048,505"/>
+</map>

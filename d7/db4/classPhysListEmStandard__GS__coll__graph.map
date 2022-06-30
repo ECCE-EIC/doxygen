@@ -1,0 +1,45 @@
+<map id="PhysListEmStandard_GS" name="PhysListEmStandard_GS">
+<area shape="rect" id="node2" href="$d1/d2f/classG4VPhysicsConstructor.html" title="G4VPhysicsConstructor" alt="" coords="3097,95,3275,123"/>
+<area shape="rect" id="node3" href="$de/de6/classG4VUPLSplitter.html" title="G4VUPLSplitter\&lt; T \&gt;" alt="" coords="2615,110,2778,138"/>
+<area shape="rect" id="node30" href="$dc/d2e/classG4VModularPhysicsList.html" title="G4VModularPhysicsList" alt="" coords="3097,158,3275,186"/>
+<area shape="rect" id="node4" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="216,1134,296,1162"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="756,786,881,814"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="1082,833,1237,861"/>
+<area shape="rect" id="node10" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="445,866,541,894"/>
+<area shape="rect" id="node11" href="$dc/d5b/classDetectorConstruction.html" title="Simple detector construction with a box volume placed in a world." alt="" coords="3516,2846,3681,2874"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="2649,934,2744,962"/>
+<area shape="rect" id="node20" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="2619,1475,2774,1503"/>
+<area shape="rect" id="node21" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="2169,1361,2307,1389"/>
+<area shape="rect" id="node22" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="1865,1227,1948,1255"/>
+<area shape="rect" id="node23" href="$d9/d11/classG4UserLimits.html" title="G4UserLimits" alt="" coords="1475,1479,1587,1507"/>
+<area shape="rect" id="node24" href="$d1/d35/classG4Region.html" title="G4Region" alt="" coords="1863,1526,1950,1554"/>
+<area shape="rect" id="node35" href="$d1/d92/classG4GenericMessenger.html" title="This class is generic messenger." alt="" coords="565,1787,732,1815"/>
+<area shape="rect" id="node46" href="$dd/d2b/classNeuronLoadDataFile.html" title="NeuronLoadDataFile" alt="" coords="3107,281,3265,309"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="5,1134,95,1162"/>
+<area shape="rect" id="node29" href="$db/d4c/classMolecule.html" title="Molecule Class." alt="" coords="330,1861,411,1889"/>
+<area shape="rect" id="node9" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="1819,653,1995,697"/>
+<area shape="rect" id="node25" href="$d4/d1f/classG4ProductionCuts.html" title="G4ProductionCuts" alt="" coords="1459,1029,1602,1057"/>
+<area shape="rect" id="node44" href="$db/de6/classDetectorConstructionMessenger.html" title="DetectorConstructionMessenger" alt="" coords="3892,2882,4132,2910"/>
+<area shape="rect" id="node50" href="$d6/d1f/classDetectorMessenger.html" title="DetectorMessenger" alt="" coords="3935,2810,4089,2838"/>
+<area shape="rect" id="node12" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="3074,2846,3298,2874"/>
+<area shape="rect" id="node13" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4MonopoleField\lSetup * \&gt;" alt="" coords="3079,3842,3293,3886"/>
+<area shape="rect" id="node14" href="$de/d19/classCellParameterisation.html" title="CellParameterisation" alt="" coords="3105,734,3267,762"/>
+<area shape="rect" id="node31" href="$de/d4a/structRadiatorDescription.html" title="RadiatorDescription" alt="" coords="3109,1113,3263,1141"/>
+<area shape="rect" id="node16" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="2139,538,2337,566"/>
+<area shape="rect" id="node41" href="$d4/d86/classG4OpticalSurface.html" title="G4OpticalSurface" alt="" coords="2878,469,3018,497"/>
+<area shape="rect" id="node17" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="1843,761,1970,789"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="2620,631,2773,659"/>
+<area shape="rect" id="node19" href="$dd/d4f/classG4PVPlacement.html" title="G4PVPlacement" alt="" coords="3121,1577,3251,1605"/>
+<area shape="rect" id="node27" href="$df/d86/classAnalysisManager.html" title="AnalysisManager" alt="" coords="3117,3950,3255,3978"/>
+<area shape="rect" id="node28" href="$d6/dd1/classTabulatedField3D.html" title="TabulatedField3D" alt="" coords="3117,4002,3255,4030"/>
+<area shape="rect" id="node32" href="$d7/d1a/classTargetSD.html" title="TargetSD" alt="" coords="3144,4054,3228,4082"/>
+<area shape="rect" id="node33" href="$d0/d66/classPDBlib.html" title="PDBlib Class." alt="" coords="3153,4106,3219,4134"/>
+<area shape="rect" id="node37" href="$d6/dbc/classBarycenter.html" title="Molecule Class." alt="" coords="3138,4250,3234,4278"/>
+<area shape="rect" id="node38" href="$d0/d5a/classG4Box.html" title="G4Box" alt="" coords="3153,4395,3219,4423"/>
+<area shape="rect" id="node40" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4GlobalMagField\lMessenger * \&gt;" alt="" coords="3076,4499,3296,4543"/>
+<area shape="rect" id="node42" href="$de/d0d/classG4Cons.html" title="G4Cons" alt="" coords="3149,4598,3223,4626"/>
+<area shape="rect" id="node45" href="$d0/d28/classG4Tubs.html" title="G4Tubs" alt="" coords="3150,4809,3222,4837"/>
+<area shape="rect" id="node47" href="$d5/d05/classG4UniformMagField.html" title="G4UniformMagField" alt="" coords="2620,4890,2773,4918"/>
+<area shape="rect" id="node48" href="$d9/d64/classG4GlobalMagFieldMessenger.html" title="G4GlobalMagFieldMessenger" alt="" coords="3077,4861,3295,4889"/>
+<area shape="rect" id="node49" href="$d3/db4/classEMField.html" title="EMField" alt="" coords="3150,449,3222,477"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="B02ImportanceDetectorConstruction::CreateWeightWindowStore" name="B02ImportanceDetectorConstruction::CreateWeightWindowStore">
+<area shape="rect" id="node2" href="$dd/d33/classG4WeightWindowStore.html#a21c74ac56f4208db52771d700c433656" title="G4WeightWindowStore\l::AddLowerWeights" alt="" coords="367,104,544,148"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1010,240,1117,268"/>
+<area shape="rect" id="node10" href="$da/dca/classG4GeometryCell.html#a43775fef88fd4e3d7f519717cd13fa78" title="G4GeometryCell::GetPhysical\lVolume" alt="" coords="953,36,1173,80"/>
+<area shape="rect" id="node12" href="$df/dc2/classB02ImportanceDetectorConstruction.html#a45630ee325bec837ffa119f1d4f0695b" title="B02ImportanceDetectorConstruction\l::GetGeometryCell" alt="" coords="321,317,589,361"/>
+<area shape="rect" id="node15" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="981,377,1145,421"/>
+<area shape="rect" id="node16" href="$dd/d33/classG4WeightWindowStore.html#a9acbbeead4f7182ed7fcfbaa31bf5d5e" title="G4WeightWindowStore\l::GetInstance" alt="" coords="367,641,544,685"/>
+<area shape="rect" id="node18" href="$d6/dfb/classG4VUserParallelWorld.html#a8ac282c468ed3253785dc50aad287efe" title="G4VUserParallelWorld\l::GetName" alt="" coords="371,437,539,481"/>
+<area shape="rect" id="node19" href="$da/dca/classG4GeometryCell.html#a56ac7ddbc48fcb801124a447208fddfb" title="G4GeometryCell::GetReplica\lNumber" alt="" coords="348,505,563,549"/>
+<area shape="rect" id="node20" href="$df/dc2/classB02ImportanceDetectorConstruction.html#ac27537c7a85ddb8bb8db2cf82d819559" title="B02ImportanceDetectorConstruction\l::GetWorldVolumeAddress" alt="" coords="321,573,589,617"/>
+<area shape="rect" id="node21" href="$dd/d33/classG4WeightWindowStore.html#a62d6294f532c4e37e1cd99bde37e01c7" title="G4WeightWindowStore\l::SetGeneralUpperEnergyBounds" alt="" coords="333,172,578,216"/>
+<area shape="rect" id="node22" href="$d3/df0/classB02PVolumeStore.html#adec0c84720b03de41d41ff4563c60132" title="B02PVolumeStore::Size" alt="" coords="366,709,545,737"/>
+<area shape="rect" id="node3" href="$dd/d33/classG4WeightWindowStore.html#ab4dab53692efe35fd374f74c0181f861" title="G4WeightWindowStore\l::Error" alt="" coords="683,172,860,216"/>
+<area shape="rect" id="node5" href="$dd/d33/classG4WeightWindowStore.html#afeb5774dbfc86d272b8d84b84af05884" title="G4WeightWindowStore\l::IsKnown" alt="" coords="683,104,860,148"/>
+<area shape="rect" id="node6" href="$dd/d33/classG4WeightWindowStore.html#a7b8e902c1492d4f3c05ce8a136350803" title="G4WeightWindowStore\l::IsInWorld" alt="" coords="975,172,1152,216"/>
+<area shape="rect" id="node11" href="$dd/d33/classG4WeightWindowStore.html#a87da67b90034fa8143f9d8ce02e4012d" title="G4WeightWindowStore\l::SetInternalIterator" alt="" coords="975,104,1152,148"/>
+<area shape="rect" id="node7" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="1249,142,1413,186"/>
+<area shape="rect" id="node8" href="$da/dc4/classG4LogicalVolume.html#a50d9f88bc1f66befaa5873089ff012dd" title="G4LogicalVolume::IsAncestor" alt="" coords="1221,210,1440,238"/>
+<area shape="rect" id="node9" href="$da/dc4/classG4LogicalVolume.html#aa0aad210f8b2fb17120a8de3fad2ffd7" title="G4LogicalVolume::IsDaughter" alt="" coords="1488,210,1711,238"/>
+<area shape="rect" id="node13" href="$df/dc2/classB02ImportanceDetectorConstruction.html#a5cac6990197ce0706db71a2b46c8b648" title="B02ImportanceDetectorConstruction\l::GetCellName" alt="" coords="637,292,905,336"/>
+<area shape="rect" id="node14" href="$d3/df0/classB02PVolumeStore.html#a9011f99d57869bba8006ce1d5ecca8d7" title="B02PVolumeStore::GetPVolume" alt="" coords="655,360,888,388"/>
+<area shape="rect" id="node17" href="$dd/d33/classG4WeightWindowStore.html#abda725855de262dfaf6ca383d84647b5" title="G4WeightWindowStore\l::G4WeightWindowStore" alt="" coords="679,641,864,685"/>
+</map>

@@ -1,0 +1,26 @@
+var classG4ParameterisationPolyhedraZ =
+[
+    [ "G4ParameterisationPolyhedraZ", "de/d28/classG4ParameterisationPolyhedraZ.html#a890e754fb25fe262e54c77d1448b7e7c", null ],
+    [ "~G4ParameterisationPolyhedraZ", "de/d28/classG4ParameterisationPolyhedraZ.html#a1292e6c4d28571b699b9c01ed703aa63", null ],
+    [ "CheckParametersValidity", "de/d28/classG4ParameterisationPolyhedraZ.html#a9d4868ceb61ec5f73f5227f793bbfe8a", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a58b2ad0315157acf1caee47f823fc872", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a43946f41bca6e4df28199586a430eb13", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a181106fc1a08c5c33d2dded6ffe30e5a", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#ab2b16c6d4fec36c2f88d9b8d0d0f2f32", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a7de953c6b5a9722831d9f55b55f70659", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a0b647459b0193a7a579cd848ec23cb0c", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#ad673f5851319d7a6e26234c1b73c0fe1", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a6322e64901d08df4ed18b481e92ab645", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#ad9e0598e079e51ba208856e2f177e3b7", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#a07eabe6e2b89fc1e6fd03d25b0072b3f", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#af0bf883ab4756669d800894a644b4e4c", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#ad7e17ec82f03c10010cbaeca4268754c", null ],
+    [ "ComputeDimensions", "de/d28/classG4ParameterisationPolyhedraZ.html#ae6b405b24e9d9fa61ae5fb009974a0af", null ],
+    [ "ComputeTransformation", "de/d28/classG4ParameterisationPolyhedraZ.html#a7f08f93eea2142a348ea81af17a57887", null ],
+    [ "GetMaxParameter", "de/d28/classG4ParameterisationPolyhedraZ.html#a5daa0a0278c56636d8595dd2c88e508e", null ],
+    [ "GetR", "de/d28/classG4ParameterisationPolyhedraZ.html#a49fcfdc0072c008fd8aa48266f3ffe51", null ],
+    [ "GetRmax", "de/d28/classG4ParameterisationPolyhedraZ.html#a2d18fe9793bfa18df9f5eb417c78a603", null ],
+    [ "GetRmin", "de/d28/classG4ParameterisationPolyhedraZ.html#a6bdc1be1136bc221b73a99dcde38e05d", null ],
+    [ "fNSegment", "de/d28/classG4ParameterisationPolyhedraZ.html#a17a28db15ce4bfdc82bbe52e6653d5ad", null ],
+    [ "fOrigParamMother", "de/d28/classG4ParameterisationPolyhedraZ.html#a09070bc612e9aead7546342d93685cb6", null ]
+];

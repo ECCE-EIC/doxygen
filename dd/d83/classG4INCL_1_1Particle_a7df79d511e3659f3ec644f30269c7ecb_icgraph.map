@@ -1,0 +1,14 @@
+<map id="G4INCL::Particle::isTargetSpectator" name="G4INCL::Particle::isTargetSpectator">
+<area shape="rect" id="node2" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a9d5f3f47c52970013230d078fac915fa" title="G4INCL::SurfaceAvatar\l::getChannel" alt="" coords="273,12,449,56"/>
+<area shape="rect" id="node4" href="$d7/db0/classG4INCL_1_1Nucleus.html#a718ef4fb3d95aad593610385e95cb513" title="Insert a new particle (e.g. a projectile) in the nucleus." alt="" coords="245,84,476,112"/>
+<area shape="rect" id="node12" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a4af8050dfdf606df23bcd772a88bdcc0" title="G4INCL::SurfaceAvatar\l::postInteraction" alt="" coords="273,136,449,180"/>
+<area shape="rect" id="node13" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="248,204,473,248"/>
+<area shape="rect" id="node3" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#aea1ea953eb9853ef38624e58fcaa0278" title="G4INCL::SurfaceAvatar\l::fillFinalState" alt="" coords="541,10,717,54"/>
+<area shape="rect" id="node5" href="$d7/db0/classG4INCL_1_1Nucleus.html#a614d4c123c0f697c91dc7d088d56eeae" title="G4INCL::Nucleus::applyFinal\lState" alt="" coords="524,78,735,122"/>
+<area shape="rect" id="node6" href="$d6/d0a/classG4INCL_1_1INCL.html#acde1be31793296d7a8cb8a67cc577c40" title="The actual cascade loop." alt="" coords="1075,12,1250,40"/>
+<area shape="rect" id="node8" href="$d7/db0/classG4INCL_1_1Nucleus.html#a298541884fc27de276e6429a211b36fc" title="Force the decay of deltas inside the nucleus." alt="" coords="785,43,1009,87"/>
+<area shape="rect" id="node10" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad04c5fdb4f44d66bd818728cf07c26e3" title="Force the transformation of strange particles into a Lambda;." alt="" coords="785,111,1009,155"/>
+<area shape="rect" id="node11" href="$d6/d0a/classG4INCL_1_1INCL.html#a9e2cd5ca68f6ee1680ce9b306d2c01a3" title="Make a compound nucleus." alt="" coords="783,179,1012,223"/>
+<area shape="rect" id="node7" href="$d6/d0a/classG4INCL_1_1INCL.html#a7db10f7a8cd5c5173448a48cc7a3cab7" title="G4INCL::INCL::processEvent" alt="" coords="1313,60,1524,88"/>
+<area shape="rect" id="node9" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="1060,86,1265,114"/>
+</map>

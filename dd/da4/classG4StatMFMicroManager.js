@@ -1,0 +1,25 @@
+var classG4StatMFMicroManager =
+[
+    [ "DeleteFragment", "d7/df1/structG4StatMFMicroManager_1_1DeleteFragment.html", "d7/df1/structG4StatMFMicroManager_1_1DeleteFragment" ],
+    [ "G4StatMFMicroManager", "dd/da4/classG4StatMFMicroManager.html#a04e78502a33ca439bf8b732311dde4a8", null ],
+    [ "~G4StatMFMicroManager", "dd/da4/classG4StatMFMicroManager.html#a60aad5e5b24ffdff8eeaeaac91656c35", null ],
+    [ "G4StatMFMicroManager", "dd/da4/classG4StatMFMicroManager.html#ae35c36b9705e186dfb9284534f7c7c8d", null ],
+    [ "G4StatMFMicroManager", "dd/da4/classG4StatMFMicroManager.html#aff8e1914e0ce0392e7a29420f0960588", null ],
+    [ "ChooseChannel", "dd/da4/classG4StatMFMicroManager.html#ac0607089acc9a795853d3cc3df36d916", null ],
+    [ "GetMeanEntropy", "dd/da4/classG4StatMFMicroManager.html#af747818ec201d695450222df47ccc921", null ],
+    [ "GetMeanMultiplicity", "dd/da4/classG4StatMFMicroManager.html#a8b001af76031f975a098d856a1f41aa7", null ],
+    [ "GetMeanTemperature", "dd/da4/classG4StatMFMicroManager.html#a9da3d1c8f862f00fb26c540d84bb86a8", null ],
+    [ "GetProbability", "dd/da4/classG4StatMFMicroManager.html#a1402c4a4d4f0057df5f701cedb843c40", null ],
+    [ "Initialize", "dd/da4/classG4StatMFMicroManager.html#af668bf807b0da6b2c7dc44c82321d567", null ],
+    [ "MakePartition", "dd/da4/classG4StatMFMicroManager.html#aab59c46f5e3fff2c586ca1d7f807010f", null ],
+    [ "Normalize", "dd/da4/classG4StatMFMicroManager.html#a9d10aee5fba73123724bd16f7c88a0cc", null ],
+    [ "operator!=", "dd/da4/classG4StatMFMicroManager.html#abd70a3ea2e96f9e4ab5edf44c247cf6c", null ],
+    [ "operator=", "dd/da4/classG4StatMFMicroManager.html#af5c25f7245608caad0c678913fea5efd", null ],
+    [ "operator==", "dd/da4/classG4StatMFMicroManager.html#aa520e829a30b2ee7a78bdf61cc23e9f8", null ],
+    [ "_MeanEntropy", "dd/da4/classG4StatMFMicroManager.html#a5fc08c8a2a2ed880c8a7315d6c7da722", null ],
+    [ "_MeanMultiplicity", "dd/da4/classG4StatMFMicroManager.html#ab27b7bf1998a13a9582785145c2f9567", null ],
+    [ "_MeanTemperature", "dd/da4/classG4StatMFMicroManager.html#ac626cb05689d5083cae78f918758b1cd", null ],
+    [ "_Normalization", "dd/da4/classG4StatMFMicroManager.html#abb221e3d6e3d849a64e39d90616b9261", null ],
+    [ "_Partition", "dd/da4/classG4StatMFMicroManager.html#a7e69dad4f79a891a0424cc628a6a84a9", null ],
+    [ "_WW", "dd/da4/classG4StatMFMicroManager.html#a6a5f6f0e46ccfdf17031ba7189ecfad7", null ]
+];

@@ -1,0 +1,45 @@
+<map id="StackingAction" name="StackingAction">
+<area shape="rect" id="node48" href="$d1/ddf/classStackingMessenger.html" title="StackingMessenger" alt="" coords="3699,6369,3852,6397"/>
+<area shape="rect" id="node2" href="$d9/d8c/classG4UserStackingAction.html" title="G4UserStackingAction" alt="" coords="3000,345,3171,373"/>
+<area shape="rect" id="node3" href="$d1/d93/classG4StackManager.html" title="G4StackManager" alt="" coords="3373,51,3510,79"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="818,3163,913,3191"/>
+<area shape="rect" id="node5" href="$d2/d52/classG4SandiaTable.html" title="G4SandiaTable" alt="" coords="1219,3295,1341,3323"/>
+<area shape="rect" id="node9" href="$d6/d69/classG4IonisParamMat.html" title="G4IonisParamMat" alt="" coords="1210,3243,1350,3271"/>
+<area shape="rect" id="node17" href="$d4/dcd/classHistoManager.html" title="HistoManager" alt="" coords="1634,3755,1750,3783"/>
+<area shape="rect" id="node33" href="$d7/df6/classRunAction.html" title="Run action class." alt="" coords="2369,3485,2459,3513"/>
+<area shape="rect" id="node36" href="$dc/d5b/classDetectorConstruction.html" title="Simple detector construction with a box volume placed in a world." alt="" coords="1609,1977,1775,2005"/>
+<area shape="rect" id="node39" href="$de/d19/classCellParameterisation.html" title="CellParameterisation" alt="" coords="1199,3041,1361,3069"/>
+<area shape="rect" id="node50" href="$de/dc4/classG4EmCalculator.html" title="G4EmCalculator" alt="" coords="1626,519,1758,547"/>
+<area shape="rect" id="node24" href="$d4/d05/classHisto.html" title="Histo" alt="" coords="1252,3861,1308,3889"/>
+<area shape="rect" id="node26" href="$de/d4e/classG4DataVector.html" title="G4DataVector" alt="" coords="1222,2604,1338,2632"/>
+<area shape="rect" id="node30" href="$da/d3b/classEventAction.html" title="Event action class." alt="" coords="3035,5381,3136,5409"/>
+<area shape="rect" id="node8" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="332,3091,531,3119"/>
+<area shape="rect" id="node10" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="31,3719,111,3747"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="354,1571,509,1599"/>
+<area shape="rect" id="node15" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="803,3563,928,3591"/>
+<area shape="rect" id="node20" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="366,6160,497,6188"/>
+<area shape="rect" id="node28" href="$d1/d2f/classG4VPhysicsConstructor.html" title="G4VPhysicsConstructor" alt="" coords="1191,3740,1369,3768"/>
+<area shape="rect" id="node34" href="$d7/d27/classPrimaryGeneratorAction.html" title="The primary generator action class with particle gun." alt="" coords="1979,2829,2163,2857"/>
+<area shape="rect" id="node42" href="$d2/daa/classPhysicsList.html" title="PhysicsList" alt="" coords="2023,4703,2119,4731"/>
+<area shape="rect" id="node45" href="$d8/def/classG4UImanager.html" title="G4UImanager" alt="" coords="593,5972,709,6000"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="365,2327,497,2355"/>
+<area shape="rect" id="node13" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="789,1547,941,1575"/>
+<area shape="rect" id="node16" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="807,1495,924,1523"/>
+<area shape="rect" id="node14" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="5,277,137,305"/>
+<area shape="rect" id="node19" href="$d9/ddd/classHistoMessenger.html" title="HistoMessenger" alt="" coords="800,5363,931,5391"/>
+<area shape="rect" id="node27" href="$d0/d04/classHistoManagerMessenger.html" title="HistoManagerMessenger" alt="" coords="1976,5589,2165,5617"/>
+<area shape="rect" id="node47" href="$d8/db9/classSteppingAction.html" title="SteppingAction" alt="" coords="2682,3180,2806,3208"/>
+<area shape="rect" id="node18" href="$dc/d2e/classG4VModularPhysicsList.html" title="G4VModularPhysicsList" alt="" coords="1191,4703,1369,4731"/>
+<area shape="rect" id="node44" href="$d9/dc4/classEventActionMessenger.html" title="EventActionMessenger" alt="" coords="3353,6160,3529,6188"/>
+<area shape="rect" id="node21" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="14,6301,129,6329"/>
+<area shape="rect" id="node22" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="341,5415,522,5443"/>
+<area shape="rect" id="node23" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="350,5819,513,5847"/>
+<area shape="rect" id="node29" href="$d9/dc0/classG4ToolsAnalysisManager.html" title="G4ToolsAnalysisManager" alt="" coords="1185,3556,1375,3584"/>
+<area shape="rect" id="node31" href="$de/d75/classG4UserEventAction.html" title="G4UserEventAction" alt="" coords="2668,5381,2820,5409"/>
+<area shape="rect" id="node32" href="$d5/dab/classClusteringAlgo.html" title="ClusteringAlgo" alt="" coords="2684,5920,2804,5948"/>
+<area shape="rect" id="node35" href="$df/d86/classAnalysisManager.html" title="AnalysisManager" alt="" coords="1211,844,1349,872"/>
+<area shape="rect" id="node37" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="1168,1977,1392,2005"/>
+<area shape="rect" id="node38" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4MonopoleField\lSetup * \&gt;" alt="" coords="1173,2881,1387,2925"/>
+<area shape="rect" id="node40" href="$dd/d4f/classG4PVPlacement.html" title="G4PVPlacement" alt="" coords="1215,948,1345,976"/>
+<area shape="rect" id="node49" href="$d8/d06/classG4UIcmdWithABool.html" title="G4UIcmdWithABool" alt="" coords="3365,6245,3518,6273"/>
+</map>

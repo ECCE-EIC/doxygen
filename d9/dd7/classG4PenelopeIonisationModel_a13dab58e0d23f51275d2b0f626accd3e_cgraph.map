@@ -1,0 +1,51 @@
+<map id="G4PenelopeIonisationModel::SampleSecondaries" name="G4PenelopeIonisationModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$df/d56/namespaceG4InuclSpecialFunctions.html#a1c1ef23e89bb129eda16aa2b1f4836a6" title="G4InuclSpecialFunctions\l::bindingEnergy" alt="" coords="291,5,478,49"/>
+<area shape="rect" id="node5" href="$dc/deb/classG4AtomicShell.html#a948866e7e733ebbfd3244f889ec87cbb" title="G4AtomicShell::BindingEnergy" alt="" coords="271,935,499,963"/>
+<area shape="rect" id="node6" href="$d2/d2c/classG4VAtomDeexcitation.html#a016085f6ccdc85ee37811f3645068634" title="G4VAtomDeexcitation\l::CheckDeexcitationActiveRegion" alt="" coords="263,987,507,1031"/>
+<area shape="rect" id="node7" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="1141,224,1312,252"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1635,653,1741,681"/>
+<area shape="rect" id="node12" href="$d0/d54/classG4Gamma.html#af48944ead345899927a66f64a1cb6b32" title="G4Gamma::Definition" alt="" coords="1143,167,1311,195"/>
+<area shape="rect" id="node13" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="893,241,1053,269"/>
+<area shape="rect" id="node14" href="$d2/d2c/classG4VAtomDeexcitation.html#a6d050fc4614801e2fc1ba9630dc02220" title="G4VAtomDeexcitation\l::GenerateParticles" alt="" coords="300,1055,469,1099"/>
+<area shape="rect" id="node17" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="306,1123,463,1167"/>
+<area shape="rect" id="node18" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="299,1191,471,1235"/>
+<area shape="rect" id="node19" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="306,1259,463,1303"/>
+<area shape="rect" id="node20" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="299,1327,471,1371"/>
+<area shape="rect" id="node21" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="293,1395,476,1439"/>
+<area shape="rect" id="node22" href="$d4/dee/classG4PenelopeOscillatorManager.html#a79992c5c184c4344e5101b50b11fb5de" title="G4PenelopeOscillatorManager\l::GetOscillatorTableIonisation" alt="" coords="567,773,793,817"/>
+<area shape="rect" id="node26" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="896,585,1051,629"/>
+<area shape="rect" id="node27" href="$d3/d9e/classG4AtomicTransitionManager.html#acdb2e932579b52634b927ef72a1a4777" title="G4AtomicTransitionManager\l::Instance" alt="" coords="278,1463,491,1507"/>
+<area shape="rect" id="node29" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="346,1531,423,1559"/>
+<area shape="rect" id="node30" href="$d3/d12/classG4Positron.html#aacc1c0848707302d19c881ffccb0ebab" title="G4Positron::Positron" alt="" coords="895,375,1052,403"/>
+<area shape="rect" id="node32" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="280,1583,489,1627"/>
+<area shape="rect" id="node33" href="$dd/dc0/classG4ParticleChangeForLoss.html#ac589c0e8bb309b38be8a9849c4cce3bf" title="G4ParticleChangeForLoss\l::ProposeMomentumDirection" alt="" coords="274,1651,495,1695"/>
+<area shape="rect" id="node37" href="$dc/d49/HelixHough__allButKappaRange__sse_8cpp.html#a665e8f3e2226dd39be9c0e4f06dd1eaf" title="return" alt="" coords="354,1719,415,1747"/>
+<area shape="rect" id="node38" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="305,1771,465,1815"/>
+<area shape="rect" id="node42" href="$d9/dd7/classG4PenelopeIonisationModel.html#a352c74649a4367e71d8dde36b76e90e6" title="G4PenelopeIonisationModel\l::SampleFinalStateElectron" alt="" coords="280,461,489,505"/>
+<area shape="rect" id="node48" href="$d9/dd7/classG4PenelopeIonisationModel.html#ac23891c47c414d416fc218bd698b1107" title="G4PenelopeIonisationModel\l::SampleFinalStatePositron" alt="" coords="280,632,489,676"/>
+<area shape="rect" id="node49" href="$dd/dc0/classG4ParticleChangeForLoss.html#a6fbdb90e6a6bbdafc52888288760182e" title="G4ParticleChangeForLoss\l::SetProposedKineticEnergy" alt="" coords="281,1839,489,1883"/>
+<area shape="rect" id="node50" href="$d3/d9e/classG4AtomicTransitionManager.html#ab47437c784d2cb63d1fd7fe1bf11473b" title="G4AtomicTransitionManager\l::Shell" alt="" coords="867,824,1080,868"/>
+<area shape="rect" id="node3" href="$d3/df1/classG4NucleiProperties.html#abba4ae207884389dc08dac9a68003d2f" title="G4NucleiProperties\l::GetBindingEnergy" alt="" coords="1150,29,1303,73"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1369,152,1577,196"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1367,220,1579,248"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1391,272,1555,316"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="1374,340,1573,384"/>
+<area shape="rect" id="node15" href="$d5/dda/classG4ProductionCutsTable.html#a1e00cbd8def126434c98c87ed80059a9" title="G4ProductionCutsTable\l::GetEnergyCutsVector" alt="" coords="591,1020,769,1064"/>
+<area shape="rect" id="node16" href="$d2/d2c/classG4VAtomDeexcitation.html#a4a889401ad53ce74b77838e69f15c5b9" title="G4VAtomDeexcitation\l::CheckAugerActiveRegion" alt="" coords="580,1088,780,1132"/>
+<area shape="rect" id="node23" href="$d4/dee/classG4PenelopeOscillatorManager.html#a2769f91b64c6a82388a6513951a8337a" title="G4PenelopeOscillatorManager\l::CheckForTablesCreated" alt="" coords="1360,645,1587,689"/>
+<area shape="rect" id="node24" href="$d4/dee/classG4PenelopeOscillatorManager.html#a70596db703f4c4b889f2dfbcba5ae0aa" title="G4PenelopeOscillatorManager\l::BuildOscillatorTable" alt="" coords="860,756,1087,800"/>
+<area shape="rect" id="node25" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1143,705,1311,733"/>
+<area shape="rect" id="node28" href="$d3/d9e/classG4AtomicTransitionManager.html#ac590733c5fded35a5a2697bf9eb66caf" title="G4AtomicTransitionManager\l::G4AtomicTransitionManager" alt="" coords="569,1463,791,1507"/>
+<area shape="rect" id="node31" href="$d3/d12/classG4Positron.html#aeb7530a6ec5e82b7805cc036852f4b8f" title="G4Positron::Definition" alt="" coords="1142,280,1311,308"/>
+<area shape="rect" id="node34" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="585,1588,775,1616"/>
+<area shape="rect" id="node35" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="585,1640,775,1668"/>
+<area shape="rect" id="node36" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="585,1692,775,1720"/>
+<area shape="rect" id="node39" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="595,1744,765,1772"/>
+<area shape="rect" id="node40" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="595,1796,765,1824"/>
+<area shape="rect" id="node41" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="596,1848,764,1876"/>
+<area shape="rect" id="node43" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="661,380,699,408"/>
+<area shape="rect" id="node44" href="$d5/d91/hadronic_2Hadr06_2plot2_8C.html#a01cd4161c39d4c1c1b10b998920288e7" title="fb" alt="" coords="661,328,699,356"/>
+<area shape="rect" id="node45" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a5254fdd1d9f2bc718660b69bfa18052e" title="G4PenelopeIonisationXSHandler\l::GetCrossSectionTableForCouple" alt="" coords="558,432,802,476"/>
+<area shape="rect" id="node46" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a19820ce31aff5b9e626ba66c551b1852" title="Returns the density coeection for the material at the given energy." alt="" coords="853,517,1093,561"/>
+<area shape="rect" id="node47" href="$df/de7/classG4PenelopeCrossSection.html#abf6d36122e52c17d170e6186b6de4289" title="Returns the hard cross section for the given shell (normalized to 1)" alt="" coords="555,552,805,596"/>
+</map>

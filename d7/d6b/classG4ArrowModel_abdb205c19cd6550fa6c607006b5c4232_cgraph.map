@@ -1,0 +1,27 @@
+<map id="G4ArrowModel::G4ArrowModel" name="G4ArrowModel::G4ArrowModel">
+<area shape="rect" id="node2" href="$de/d99/classG4Tet.html#ad435437c2d51eea5695d08b8ab6b84f0" title="G4Tet::CreatePolyhedron" alt="" coords="299,73,487,101"/>
+<area shape="rect" id="node10" href="$d0/d28/classG4Tubs.html#ab539c970a3e8b74042faf02a54e5176c" title="G4Tubs::CreatePolyhedron" alt="" coords="293,125,493,153"/>
+<area shape="rect" id="node11" href="$d5/dd3/classG4GeometryTolerance.html#af64e4b5b8b0c0f6962603865e93a9f30" title="G4GeometryTolerance\l::GetInstance" alt="" coords="307,177,479,221"/>
+<area shape="rect" id="node15" href="$d3/d94/classHepPolyhedron.html#a54787f5647faf3bb64399420c1f900e2" title="HepPolyhedron::GetNumber\lOfRotationSteps" alt="" coords="287,245,499,289"/>
+<area shape="rect" id="node16" href="$d5/dd3/classG4GeometryTolerance.html#ad7d862a41b33a1cd166812b00bb580ef" title="G4GeometryTolerance\l::GetRadialTolerance" alt="" coords="307,313,479,357"/>
+<area shape="rect" id="node17" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#adaeebd8d7c33a1d48c48e92bb437b932" title="HepGeom::BasicVector3D::phi" alt="" coords="280,381,505,409"/>
+<area shape="rect" id="node18" href="$dc/df1/classG4VisAttributes.html#a2a37373fb043df4effbaf918fa5002ee" title="G4VisAttributes::SetColour" alt="" coords="291,433,494,461"/>
+<area shape="rect" id="node19" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="295,485,490,529"/>
+<area shape="rect" id="node20" href="$d3/d94/classHepPolyhedron.html#a167c0bee415cf4e7d296d90f0899588e" title="HepPolyhedron::SetNumber\lOfRotationSteps" alt="" coords="287,553,498,597"/>
+<area shape="rect" id="node21" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="365,621,421,649"/>
+<area shape="rect" id="node22" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#a6cadf14d707d8afaeab342a00a86e42b" title="HepGeom::BasicVector3D\l::theta" alt="" coords="295,673,491,717"/>
+<area shape="rect" id="node23" href="$d3/d94/classHepPolyhedron.html#a885d9d8f789757a7485b3df548e81016" title="HepPolyhedron::Transform" alt="" coords="293,741,493,769"/>
+<area shape="rect" id="node26" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#a023764bd511eff550bed8bf4ca8e0853" title="HepGeom::BasicVector3D\l::unit" alt="" coords="295,793,491,837"/>
+<area shape="rect" id="node3" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="599,5,759,49"/>
+<area shape="rect" id="node4" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3b24b40b735f0f3fd9ff2bf60c3046d4" title="CLHEP::Hep3Vector::dot" alt="" coords="587,73,771,101"/>
+<area shape="rect" id="node5" href="$d3/d94/classHepPolyhedron.html#a8c7dc3e80900d78a1db8fe0440d88dcb" title="HepPolyhedron::createPolyhedron" alt="" coords="553,125,804,153"/>
+<area shape="rect" id="node6" href="$d3/d94/classHepPolyhedron.html#aa02ebabc67ba4cd657a02f0b0e22854f" title="HepPolyhedron::AllocateMemory" alt="" coords="852,100,1095,128"/>
+<area shape="rect" id="node7" href="$d3/d94/classHepPolyhedron.html#a3153bfcca9f1ac55cc0bdecd42676dd7" title="HepPolyhedron::SetReferences" alt="" coords="858,152,1089,180"/>
+<area shape="rect" id="node8" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1143,152,1253,180"/>
+<area shape="rect" id="node9" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1301,152,1477,180"/>
+<area shape="rect" id="node12" href="$d5/dd3/classG4GeometryTolerance.html#ab48f017ac932f3aeed61f7a2f9d1160d" title="G4GeometryTolerance\l::G4GeometryTolerance" alt="" coords="588,177,769,221"/>
+<area shape="rect" id="node13" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="588,245,769,273"/>
+<area shape="rect" id="node14" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="880,237,1067,281"/>
+<area shape="rect" id="node24" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#aaf2d750066deae48481f6091b8872575" title="HepGeom::BasicVector3D\l::cross" alt="" coords="581,703,777,747"/>
+<area shape="rect" id="node25" href="$d3/d94/classHepPolyhedron.html#a1603b7b6ea3e83774b7ef206a4f33f5f" title="HepPolyhedron::InvertFacets" alt="" coords="571,771,786,799"/>
+</map>

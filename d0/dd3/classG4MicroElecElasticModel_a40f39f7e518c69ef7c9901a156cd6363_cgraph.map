@@ -1,0 +1,33 @@
+<map id="G4MicroElecElasticModel::SampleSecondaries" name="G4MicroElecElasticModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="273,5,433,49"/>
+<area shape="rect" id="node3" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="275,73,432,117"/>
+<area shape="rect" id="node4" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="262,141,445,185"/>
+<area shape="rect" id="node5" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aaeefd99d2e17b87ddd10554614c7a290" title="CLHEP::Hep3Vector::\lorthogonal" alt="" coords="273,209,433,253"/>
+<area shape="rect" id="node6" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="249,277,458,321"/>
+<area shape="rect" id="node7" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc" title="G4ParticleChangeForGamma\l::ProposeMomentumDirection" alt="" coords="243,345,464,389"/>
+<area shape="rect" id="node11" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="273,413,433,457"/>
+<area shape="rect" id="node12" href="$d0/dd3/classG4MicroElecElasticModel.html#a5b6a2a0e92d3889b144e9cb49417d3d9" title="G4MicroElecElasticModel\l::RandomizeCosTheta" alt="" coords="259,481,448,525"/>
+<area shape="rect" id="node30" href="$dc/d49/HelixHough__allButKappaRange__sse_8cpp.html#a665e8f3e2226dd39be9c0e4f06dd1eaf" title="return" alt="" coords="323,549,384,577"/>
+<area shape="rect" id="node31" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852" title="G4ParticleChangeForGamma\l::SetProposedKineticEnergy" alt="" coords="245,601,461,645"/>
+<area shape="rect" id="node32" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="259,669,447,697"/>
+<area shape="rect" id="node8" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="512,287,703,315"/>
+<area shape="rect" id="node9" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="512,339,703,367"/>
+<area shape="rect" id="node10" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="512,391,703,419"/>
+<area shape="rect" id="node13" href="$d3/d96/classG4Electron.html#a981418d4d6fdb59a467c7070c691e53b" title="G4Electron::ElectronDefinition" alt="" coords="751,475,976,503"/>
+<area shape="rect" id="node28" href="$d0/dd3/classG4MicroElecElasticModel.html#a7e949805a14503cf48c10e712b88ca73" title="G4MicroElecElasticModel\l::Theta" alt="" coords="513,495,702,539"/>
+<area shape="rect" id="node29" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="835,531,891,559"/>
+<area shape="rect" id="node14" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="1024,475,1195,503"/>
+<area shape="rect" id="node15" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1243,444,1455,472"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1543,324,1707,368"/>
+<area shape="rect" id="node21" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1245,496,1453,540"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="1249,564,1448,608"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1503,444,1747,472"/>
+<area shape="rect" id="node18" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1513,392,1737,420"/>
+<area shape="rect" id="node19" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1817,480,2000,508"/>
+<area shape="rect" id="node17" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1855,380,1962,408"/>
+<area shape="rect" id="node22" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1524,563,1725,607"/>
+<area shape="rect" id="node23" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1821,652,1997,696"/>
+<area shape="rect" id="node24" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1821,720,1997,764"/>
+<area shape="rect" id="node25" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1831,532,1986,576"/>
+<area shape="rect" id="node26" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1795,600,2023,628"/>
+</map>

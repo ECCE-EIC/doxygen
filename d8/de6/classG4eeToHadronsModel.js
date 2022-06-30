@@ -1,0 +1,28 @@
+var classG4eeToHadronsModel =
+[
+    [ "G4eeToHadronsModel", "d8/de6/classG4eeToHadronsModel.html#a9c2572d4fd40e2be7d1b64b3c644534a", null ],
+    [ "~G4eeToHadronsModel", "d8/de6/classG4eeToHadronsModel.html#af391686c5a6a2eea53903443275b2c43", null ],
+    [ "G4eeToHadronsModel", "d8/de6/classG4eeToHadronsModel.html#acc361c1526ec591a48ca16041a1ef369", null ],
+    [ "ComputeCMCrossSectionPerElectron", "d8/de6/classG4eeToHadronsModel.html#a857e9a823a44909e4ad7847c8a0a254c", null ],
+    [ "ComputeCrossSectionPerAtom", "d8/de6/classG4eeToHadronsModel.html#a60a1fe08a4c14e783159248e75ebb8b6", null ],
+    [ "ComputeCrossSectionPerElectron", "d8/de6/classG4eeToHadronsModel.html#a3205e1a3ac4270176d985d91986bd215", null ],
+    [ "CrossSectionPerVolume", "d8/de6/classG4eeToHadronsModel.html#a6305c0c07fcc354ed985cbb0207de92b", null ],
+    [ "GenerateCMPhoton", "d8/de6/classG4eeToHadronsModel.html#a586b270eace97a1f7987d0315cfe5b9e", null ],
+    [ "Initialise", "d8/de6/classG4eeToHadronsModel.html#a1fc4ef9dfa2000cc82d20a3fdef1a2e3", null ],
+    [ "operator=", "d8/de6/classG4eeToHadronsModel.html#a6f195c3ad8f9a756bbdd33abc0db4a13", null ],
+    [ "PeakEnergy", "d8/de6/classG4eeToHadronsModel.html#abbc36f13b9a8a17e5b3487ddf51a32a5", null ],
+    [ "SampleSecondaries", "d8/de6/classG4eeToHadronsModel.html#a45d9e8b34c79d4f8535ac1823c352212", null ],
+    [ "crossBornPerElectron", "d8/de6/classG4eeToHadronsModel.html#ac5b28fb62291df7e64cf4e0217cade09", null ],
+    [ "crossPerElectron", "d8/de6/classG4eeToHadronsModel.html#a980d9019fa8387f38a5d2cb415b482e0", null ],
+    [ "emax", "d8/de6/classG4eeToHadronsModel.html#aa77cfd85f4886013cd0b03bf10b8641b", null ],
+    [ "emin", "d8/de6/classG4eeToHadronsModel.html#a5c2d3b75ef72ca3f459a289ecf2f4b92", null ],
+    [ "epeak", "d8/de6/classG4eeToHadronsModel.html#aafe75c71231c0a49693c74f8f559475a", null ],
+    [ "highKinEnergy", "d8/de6/classG4eeToHadronsModel.html#a2f4a2bb667b9c4112cc6d7360fb1ea8c", null ],
+    [ "isInitialised", "d8/de6/classG4eeToHadronsModel.html#a6dc6fc177faa8bdd862b7dc872023e4a", null ],
+    [ "lowKinEnergy", "d8/de6/classG4eeToHadronsModel.html#a6dba1b2dd1aa2711fc88f4d14085b409", null ],
+    [ "model", "d8/de6/classG4eeToHadronsModel.html#a1d935a3d5e2919ec2ebe051494034b9d", null ],
+    [ "nbins", "d8/de6/classG4eeToHadronsModel.html#a8617126863bc55807309a1e8aa25c3ba", null ],
+    [ "peakKinEnergy", "d8/de6/classG4eeToHadronsModel.html#a0a5d551b0bcfd1f8905e0c415ee383df", null ],
+    [ "theGamma", "d8/de6/classG4eeToHadronsModel.html#a5124c70b34af0ec903ba936a7c3a27a8", null ],
+    [ "verbose", "d8/de6/classG4eeToHadronsModel.html#a2e9c453df5deca1daf139a78d1c6fe0b", null ]
+];

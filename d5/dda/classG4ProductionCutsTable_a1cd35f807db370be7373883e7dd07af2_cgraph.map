@@ -1,0 +1,32 @@
+<map id="G4ProductionCutsTable::RetrieveCutsTable" name="G4ProductionCutsTable::RetrieveCutsTable">
+<area shape="rect" id="node2" href="$d5/dda/classG4ProductionCutsTable.html#ac7b8a42b8a4380d94d57ea36f1e4d573" title="G4ProductionCutsTable\l::CheckForRetrieveCutsTable" alt="" coords="231,796,444,840"/>
+<area shape="rect" id="node28" href="$d5/dda/classG4ProductionCutsTable.html#a0937ccd5f5d812eebc7995383728ccf3" title="G4ProductionCutsTable\l::RetrieveCutsInfo" alt="" coords="249,960,426,1004"/>
+<area shape="rect" id="node3" href="$d5/dda/classG4ProductionCutsTable.html#ae4acd930ea31263512ecc3ad966144e4" title="G4ProductionCutsTable\l::CheckMaterialCutsCoupleInfo" alt="" coords="492,425,721,469"/>
+<area shape="rect" id="node25" href="$d5/dda/classG4ProductionCutsTable.html#a6427190901a41a0aee722054b1baec7b" title="G4ProductionCutsTable\l::CheckMaterialInfo" alt="" coords="518,796,695,840"/>
+<area shape="rect" id="node4" href="$d2/d1a/ExGflash1DetectorConstruction_8cc.html#af088d84d1d5ed2a60d58e76b9db0ff70" title="fRegion" alt="" coords="869,321,941,349"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1160,767,1267,795"/>
+<area shape="rect" id="node6" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="819,425,991,469"/>
+<area shape="rect" id="node7" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1127,264,1299,308"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1129,715,1297,743"/>
+<area shape="rect" id="node9" href="$d4/d1f/classG4ProductionCuts.html#a7fdc01761d45649460a87e63df2adfb5" title="G4ProductionCuts::GetProductionCut" alt="" coords="769,545,1040,573"/>
+<area shape="rect" id="node10" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="1127,460,1299,504"/>
+<area shape="rect" id="node11" href="$db/d69/classG4RegionStore.html#acef4d472a500f195f17d2c9d83e6f276" title="G4RegionStore::GetRegion" alt="" coords="804,597,1005,625"/>
+<area shape="rect" id="node18" href="$d5/dda/classG4ProductionCutsTable.html#a3952248887d6649470f29deb2f3b6b98" title="G4ProductionCutsTable\l::IsCoupleUsedInTheRegion" alt="" coords="802,49,1007,93"/>
+<area shape="rect" id="node22" href="$d9/dc9/classG4MaterialCutsCouple.html#a25120fa130f3ce41a1a1c06e14e55076" title="G4MaterialCutsCouple\l::IsUsed" alt="" coords="819,117,991,161"/>
+<area shape="rect" id="node23" href="$d3/d5c/classG4MCCIndexConversionTable.html#a9595f25e8c14b4757425fc9634477f4b" title="G4MCCIndexConversionTable\l::Reset" alt="" coords="795,185,1014,229"/>
+<area shape="rect" id="node24" href="$d3/d5c/classG4MCCIndexConversionTable.html#a077ff34de0e078c46548b5551a9deebb" title="G4MCCIndexConversionTable\l::SetNewIndex" alt="" coords="795,253,1014,297"/>
+<area shape="rect" id="node12" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="1107,572,1319,600"/>
+<area shape="rect" id="node13" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1172,624,1255,652"/>
+<area shape="rect" id="node14" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1387,548,1603,592"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1389,616,1601,660"/>
+<area shape="rect" id="node16" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1389,684,1600,728"/>
+<area shape="rect" id="node17" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1651,684,1819,728"/>
+<area shape="rect" id="node19" href="$d1/d35/classG4Region.html#a17aa3f14df1e8fcafb0b91ca25359d2a" title="G4Region::GetMaterialIterator" alt="" coords="1101,5,1326,33"/>
+<area shape="rect" id="node20" href="$d1/d35/classG4Region.html#af4fb54713c75dee01cede9be2ff7570f" title="G4Region::GetNumberOfMaterials" alt="" coords="1088,57,1339,85"/>
+<area shape="rect" id="node21" href="$d1/d35/classG4Region.html#a02ad89e648445e18962263e7d6347530" title="G4Region::GetProductionCuts" alt="" coords="1103,109,1324,137"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="815,856,995,884"/>
+<area shape="rect" id="node27" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="813,752,996,780"/>
+<area shape="rect" id="node29" href="$d3/d5c/classG4MCCIndexConversionTable.html#a5994dc11377f79ed4ba455d70593cadc" title="G4MCCIndexConversionTable\l::GetIndex" alt="" coords="497,1096,716,1140"/>
+<area shape="rect" id="node30" href="$d3/d5c/classG4MCCIndexConversionTable.html#aa4b2ff4495f3abee9ac9365ee1510c9b" title="G4MCCIndexConversionTable\l::IsUsed" alt="" coords="497,960,716,1004"/>
+<area shape="rect" id="node31" href="$d3/d5c/classG4MCCIndexConversionTable.html#ad2c79893073430018e6291702e3f6671" title="G4MCCIndexConversionTable\l::size" alt="" coords="497,1028,716,1072"/>
+</map>

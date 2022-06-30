@@ -1,0 +1,34 @@
+<map id="G4CrossSectionDataStore::GetCrossSection" name="G4CrossSectionDataStore::GetCrossSection">
+<area shape="rect" id="node2" href="$de/da5/classG4CrossSectionDataStore.html#a7720a7b922a245af6af0bda6d0d026f7" title="G4CrossSectionDataStore\l::ComputeCrossSection" alt="" coords="273,261,467,305"/>
+<area shape="rect" id="node11" href="$d8/da8/classG4HadElementSelector.html#a26c5d96b5bac70c53112a54d13f8f6e5" title="G4HadElementSelector\l::G4HadElementSelector" alt="" coords="275,329,465,373"/>
+<area shape="rect" id="node12" href="$de/da5/classG4CrossSectionDataStore.html#af1fedd7cb251f9348ea9f4e601e4d2e1" title="G4CrossSectionDataStore\l::GetCrossSection" alt="" coords="273,397,467,441"/>
+<area shape="rect" id="node13" href="$d9/df3/classG4ChargeExchangeProcess.html#a71e0334a87e1b0fc5effe9b38efa4939" title="G4ChargeExchangeProcess\l::GetElementCrossSection" alt="" coords="267,465,473,509"/>
+<area shape="rect" id="node14" href="$de/dc6/classG4HadronicProcess.html#a3467a1b75a32dc42b2b7dba6cc517b53" title="G4HadronicProcess::\lGetElementCrossSection" alt="" coords="276,749,464,793"/>
+<area shape="rect" id="node30" href="$d8/d11/structG4FastPathHadronicCrossSection_1_1fastPathEntry.html#a6eb6c0f913f67560a6428356e31b2271" title="G4FastPathHadronicCrossSection\l::fastPathEntry::Initialize" alt="" coords="248,100,492,144"/>
+<area shape="rect" id="node3" href="$dd/d59/classG4GammaGeneralProcess.html#a4474a28ad49b0e36cc173c865a26f16c" title="G4GammaGeneralProcess\l::BuildPhysicsTable" alt="" coords="1166,297,1365,341"/>
+<area shape="rect" id="node4" href="$d2/dd8/classG4NeutrinoElectronProcess.html#a06c0c981d90f1d8eaeebc6f899e54824" title="G4NeutrinoElectronProcess\l::GetMeanFreePath" alt="" coords="565,125,771,169"/>
+<area shape="rect" id="node5" href="$d1/d29/classG4MuNeutrinoNucleusProcess.html#a2e6d4d96f81e791669bf7d37e8831b80" title="G4MuNeutrinoNucleusProcess\l::GetMeanFreePath" alt="" coords="556,193,780,237"/>
+<area shape="rect" id="node6" href="$de/dc6/classG4HadronicProcess.html#a227bb576d982d433bed7f58a09f5932b" title="G4HadronicProcess::\lGetMeanFreePath" alt="" coords="588,261,748,305"/>
+<area shape="rect" id="node7" href="$d7/d6b/classG4HadronXSDataTable.html#a09a53285b992bdecab0079f02598db64" title="G4HadronXSDataTable\l::Initialise" alt="" coords="581,329,755,373"/>
+<area shape="rect" id="node8" href="$de/dc6/classG4HadronicProcess.html#a078f53fdc259fb5d5821b46c1b5683b3" title="G4HadronicProcess::\lPostStepDoIt" alt="" coords="588,397,748,441"/>
+<area shape="rect" id="node10" href="$dd/d59/classG4GammaGeneralProcess.html#a109631ecff68b05eb743ced15d3029a4" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="878,201,1077,245"/>
+<area shape="rect" id="node9" href="$d2/d90/classBiasingOperation.html#a938ee9aa8198466e50a891f7e1ac6ae3" title="BiasingOperation::ApplyFinal\lStateBiasing" alt="" coords="869,397,1085,441"/>
+<area shape="rect" id="node15" href="$de/dc6/classG4HadronicProcess.html#a8f1d730203a13e11c5dd63de044ea98b" title="G4HadronicProcess::\lGetMicroscopicCrossSection" alt="" coords="563,613,773,657"/>
+<area shape="rect" id="node16" href="$da/d41/classG4HadronicProcessStore.html#aabdb12380f0dfd4cdba0acce6d7913f8" title="G4HadronicProcessStore\l::GetElasticCrossSectionPerAtom" alt="" coords="547,681,789,725"/>
+<area shape="rect" id="node22" href="$da/d41/classG4HadronicProcessStore.html#a4e36cb82a2d4699549fbbe0f9e962a4b" title="G4HadronicProcessStore\l::GetInelasticCrossSectionPerAtom" alt="" coords="541,749,795,793"/>
+<area shape="rect" id="node24" href="$da/d41/classG4HadronicProcessStore.html#a0860bf278bfc2cbaf318bc5f46b5e978" title="G4HadronicProcessStore\l::GetCaptureCrossSectionPerAtom" alt="" coords="542,993,794,1037"/>
+<area shape="rect" id="node26" href="$da/d41/classG4HadronicProcessStore.html#a876248017bb9152268b981e4a7552dc9" title="G4HadronicProcessStore\l::GetFissionCrossSectionPerAtom" alt="" coords="546,821,790,865"/>
+<area shape="rect" id="node28" href="$da/d41/classG4HadronicProcessStore.html#a8e4c15f60fc8b170f9185dd425dbb30e" title="G4HadronicProcessStore\l::GetChargeExchangeCrossSection\lPerAtom" alt="" coords="540,896,796,956"/>
+<area shape="rect" id="node17" href="$d4/dcd/classHistoManager.html#addd83e635220505e2123d6ddfc34f764" title="HistoManager::EndOfRun" alt="" coords="1170,687,1361,715"/>
+<area shape="rect" id="node18" href="$da/d41/classG4HadronicProcessStore.html#abc19c4cf0196e7c6201298fe909e0888" title="G4HadronicProcessStore\l::GetCrossSectionPerAtom" alt="" coords="878,891,1077,935"/>
+<area shape="rect" id="node20" href="$da/d41/classG4HadronicProcessStore.html#a9cc7a69f2d0702f1194b5ab7bb8d2d03" title="G4HadronicProcessStore\l::GetElasticCrossSectionPerVolume" alt="" coords="849,619,1106,663"/>
+<area shape="rect" id="node19" href="$de/db2/classRun.html#a6d0b1b25d7f01a7133e0e3b6a11ecaff" title="Run::EndOfRun" alt="" coords="1420,867,1543,895"/>
+<area shape="rect" id="node21" href="$da/d41/classG4HadronicProcessStore.html#a1adf9a60fac48a081a7296d500470d71" title="G4HadronicProcessStore\l::GetCrossSectionPerVolume" alt="" coords="1159,827,1372,871"/>
+<area shape="rect" id="node23" href="$da/d41/classG4HadronicProcessStore.html#a66f90869ff21111bc765d39b95512614" title="G4HadronicProcessStore\l::GetInelasticCrossSectionPer\lVolume" alt="" coords="867,739,1087,799"/>
+<area shape="rect" id="node25" href="$da/d41/classG4HadronicProcessStore.html#a2a74f53b54664e32fd82d2d787fd02ee" title="G4HadronicProcessStore\l::GetCaptureCrossSectionPerVolume" alt="" coords="844,1145,1111,1189"/>
+<area shape="rect" id="node27" href="$da/d41/classG4HadronicProcessStore.html#af9fd895e29b98eaeee85931e8bc3798b" title="G4HadronicProcessStore\l::GetFissionCrossSectionPerVolume" alt="" coords="848,823,1107,867"/>
+<area shape="rect" id="node29" href="$da/d41/classG4HadronicProcessStore.html#a3235353a5ee7c0a6b2a4bfb680d492ce" title="G4HadronicProcessStore\l::GetChargeExchangeCrossSection\lPerVolume" alt="" coords="849,1061,1105,1121"/>
+<area shape="rect" id="node31" href="$de/da5/classG4CrossSectionDataStore.html#a35adfe26c5cd9b02384ebc36f09db9b6" title="G4CrossSectionDataStore\l::BuildPhysicsTable" alt="" coords="571,5,765,49"/>
+<area shape="rect" id="node32" href="$de/dc6/classG4HadronicProcess.html#a6775817e5b74c841ab8adf3315b7aab6" title="G4HadronicProcess::\lBuildPhysicsTable" alt="" coords="897,69,1057,113"/>
+<area shape="rect" id="node33" href="$d9/df3/classG4ChargeExchangeProcess.html#ac6d01c69b607850f35317b802405f48c" title="G4ChargeExchangeProcess\l::BuildPhysicsTable" alt="" coords="1162,69,1369,113"/>
+</map>

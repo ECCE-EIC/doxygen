@@ -1,0 +1,24 @@
+<map id="G4MultiUnion::CreatePolyhedron" name="G4MultiUnion::CreatePolyhedron">
+<area shape="rect" id="node2" href="$dc/d2c/classHepPolyhedronProcessor.html#a33be61c4364734023a7e27fd6349a82e" title="HepPolyhedronProcessor\l::execute" alt="" coords="324,71,513,115"/>
+<area shape="rect" id="node3" href="$d9/df1/classG4MultiUnion.html#ac4f7143ad77bb0f00972230c7bf1f5be" title="G4MultiUnion::GetNumberOf\lSolids" alt="" coords="311,139,527,183"/>
+<area shape="rect" id="node4" href="$d5/dfb/classG4DisplacedSolid.html#a93948567dd03bb1a4be0ddee6de8aa11" title="G4DisplacedSolid::GetPolyhedron" alt="" coords="295,207,543,235"/>
+<area shape="rect" id="node18" href="$d9/df1/classG4MultiUnion.html#a6cda7e2f434b96e9c47c91796fcd5052" title="G4MultiUnion::GetSolid" alt="" coords="329,259,508,287"/>
+<area shape="rect" id="node19" href="$d9/df1/classG4MultiUnion.html#adfba4aaacfea04a6902da22b7cf1b1a3" title="G4MultiUnion::GetTransformation" alt="" coords="295,311,542,339"/>
+<area shape="rect" id="node20" href="$de/d13/Evaluator_8cc.html#af6173c4ea88a37149d8f1dfc881ca9b4" title="operand" alt="" coords="380,363,457,391"/>
+<area shape="rect" id="node23" href="$dc/d2c/classHepPolyhedronProcessor.html#affa4eb4895fb8f8aec57641cacc0d27b" title="HepPolyhedronProcessor\l::push_back" alt="" coords="324,415,513,459"/>
+<area shape="rect" id="node5" href="$d5/dfb/classG4DisplacedSolid.html#a9984d323c1d27e4c9b86d93a20242621" title="G4DisplacedSolid::Create\lPolyhedron" alt="" coords="611,131,805,175"/>
+<area shape="rect" id="node16" href="$d3/d94/classHepPolyhedron.html#a54787f5647faf3bb64399420c1f900e2" title="HepPolyhedron::GetNumber\lOfRotationSteps" alt="" coords="602,199,814,243"/>
+<area shape="rect" id="node17" href="$df/d2b/classG4Polyhedron.html#ac4279b5abfd9c91b4b1a30e8e23bcccc" title="G4Polyhedron::GetNumberOf\lRotationStepsAtTimeOfCreation" alt="" coords="591,267,825,311"/>
+<area shape="rect" id="node6" href="$da/d34/classG4VSolid.html#a3c51f2a19556f525a0e4c2e30a4c44e4" title="G4VSolid::CreatePolyhedron" alt="" coords="876,5,1088,33"/>
+<area shape="rect" id="node7" href="$da/d34/classG4VSolid.html#ad94dde22758645569fca819a56a91454" title="G4VSolid::DumpInfo" alt="" coords="903,57,1061,85"/>
+<area shape="rect" id="node8" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="929,109,1035,137"/>
+<area shape="rect" id="node9" href="$d5/dfb/classG4DisplacedSolid.html#a71b35cc74a6d35e6026fd50f564dc9c9" title="G4DisplacedSolid::GetObject\lRotation" alt="" coords="873,161,1091,205"/>
+<area shape="rect" id="node11" href="$d5/dfb/classG4DisplacedSolid.html#afabbe0188e70c06ef66b560e523b73bd" title="G4DisplacedSolid::GetObject\lTranslation" alt="" coords="873,229,1091,273"/>
+<area shape="rect" id="node13" href="$d3/d94/classHepPolyhedron.html#a885d9d8f789757a7485b3df548e81016" title="HepPolyhedron::Transform" alt="" coords="882,305,1082,333"/>
+<area shape="rect" id="node10" href="$d8/d1e/classG4AffineTransform.html#a4a9f29767469c89c87204edcbef1d61c" title="G4AffineTransform::\lNetRotation" alt="" coords="1169,161,1323,205"/>
+<area shape="rect" id="node12" href="$d8/d1e/classG4AffineTransform.html#a4c72b75be5d9311d143739f2820b3f49" title="G4AffineTransform::\lNetTranslation" alt="" coords="1169,229,1323,273"/>
+<area shape="rect" id="node14" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#aaf2d750066deae48481f6091b8872575" title="HepGeom::BasicVector3D\l::cross" alt="" coords="1148,297,1344,341"/>
+<area shape="rect" id="node15" href="$d3/d94/classHepPolyhedron.html#a1603b7b6ea3e83774b7ef206a4f33f5f" title="HepPolyhedron::InvertFacets" alt="" coords="1139,365,1353,393"/>
+<area shape="rect" id="node21" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="685,348,731,376"/>
+<area shape="rect" id="node22" href="$de/d13/Evaluator_8cc.html#a12e7e8d58e061a20fdc409b6fc91619d" title="variable" alt="" coords="670,400,746,428"/>
+</map>

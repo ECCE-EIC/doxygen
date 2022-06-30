@@ -1,0 +1,40 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/electronScattering2/src/ElectronRun.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/electronScattering2/src/ElectronRun.cc">
+<area shape="rect" id="node2" href="$d5/d14/ElectronRun_8hh.html" title="Definition of the ElectronRun class." alt="" coords="1326,433,1450,461"/>
+<area shape="rect" id="node21" href="$d0/d8a/G4MultiFunctionalDetector_8hh.html" title="G4MultiFunctionalDetector.hh" alt="" coords="2337,205,2559,233"/>
+<area shape="rect" id="node45" href="$d3/d4b/G4SDManager_8hh.html" title="G4SDManager.hh" alt="" coords="1812,129,1951,157"/>
+<area shape="rect" id="node48" href="$d6/d1d/G4VPrimitiveScorer_8hh.html" title="G4VPrimitiveScorer.hh" alt="" coords="2423,129,2595,157"/>
+<area shape="rect" id="node49" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="4150,129,4311,157"/>
+<area shape="rect" id="node3" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="518,509,618,537"/>
+<area shape="rect" id="node16" href="$dd/d4a/G4Run_8hh.html" title="G4Run.hh" alt="" coords="1591,585,1679,613"/>
+<area shape="rect" id="node17" href="$d6/da9/G4THitsMap_8hh.html" title="G4THitsMap.hh" alt="" coords="1211,509,1335,537"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1809,889,1900,917"/>
+<area shape="rect" id="node7" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="94,661,186,689"/>
+<area shape="rect" id="node8" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="1021,661,1141,689"/>
+<area shape="rect" id="node9" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="657,585,813,613"/>
+<area shape="rect" id="node12" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="837,585,998,613"/>
+<area shape="rect" id="node14" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="94,585,287,613"/>
+<area shape="rect" id="node15" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="312,585,531,613"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2965,965,3046,993"/>
+<area shape="rect" id="node10" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="3111,813,3252,841"/>
+<area shape="rect" id="node18" href="$de/d60/source_2digits__hits_2hits_2include_2G4THitsCollection_8hh.html" title="G4THitsCollection.hh" alt="" coords="1023,585,1185,613"/>
+<area shape="rect" id="node22" href="$d4/de7/G4VSensitiveDetector_8hh.html" title="G4VSensitiveDetector.hh" alt="" coords="2219,281,2408,309"/>
+<area shape="rect" id="node23" href="$d3/d38/G4VHit_8hh.html" title="G4VHit.hh" alt="" coords="2115,509,2205,537"/>
+<area shape="rect" id="node24" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="3481,433,3573,461"/>
+<area shape="rect" id="node35" href="$d4/d95/G4VReadOutGeometry_8hh.html" title="G4VReadOutGeometry.hh" alt="" coords="2635,357,2829,385"/>
+<area shape="rect" id="node37" href="$dd/d71/G4TouchableHistory_8hh.html" title="G4TouchableHistory.hh" alt="" coords="2815,509,2991,537"/>
+<area shape="rect" id="node43" href="$d7/deb/G4CollectionNameVector_8hh.html" title="G4CollectionNameVector.hh" alt="" coords="2249,433,2458,461"/>
+<area shape="rect" id="node44" href="$d1/d3d/G4VSDFilter_8hh.html" title="G4VSDFilter.hh" alt="" coords="1798,357,1919,385"/>
+<area shape="rect" id="node28" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="3196,661,3372,689"/>
+<area shape="rect" id="node30" href="$d2/d9e/G4StepPoint_8hh.html" title="G4StepPoint.hh" alt="" coords="3531,509,3656,537"/>
+<area shape="rect" id="node31" href="$d1/d2e/G4StepStatus_8hh.html" title="G4StepStatus.hh" alt="" coords="3722,585,3857,613"/>
+<area shape="rect" id="node33" href="$d1/d5a/G4TrackVector_8hh.html" title="G4TrackVector.hh" alt="" coords="2631,509,2769,537"/>
+<area shape="rect" id="node29" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="2879,737,3039,765"/>
+<area shape="rect" id="node32" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="3196,585,3356,613"/>
+<area shape="rect" id="node36" href="$db/d49/G4SensitiveVolumeList_8hh.html" title="G4SensitiveVolumeList.hh" alt="" coords="3028,509,3225,537"/>
+<area shape="rect" id="node38" href="$d7/d16/G4VTouchable_8hh.html" title="G4VTouchable.hh" alt="" coords="2889,661,3028,689"/>
+<area shape="rect" id="node39" href="$d2/d57/G4NavigationHistory_8hh.html" title="G4NavigationHistory.hh" alt="" coords="2991,585,3171,613"/>
+<area shape="rect" id="node41" href="$d9/ddb/geomwdefs_8hh.html" title="geomwdefs.hh" alt="" coords="3052,661,3172,689"/>
+<area shape="rect" id="node46" href="$d2/d88/G4SDStructure_8hh.html" title="G4SDStructure.hh" alt="" coords="1995,205,2138,233"/>
+<area shape="rect" id="node47" href="$d2/d29/G4HCtable_8hh.html" title="G4HCtable.hh" alt="" coords="1703,585,1817,613"/>
+<area shape="rect" id="node50" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="4135,205,4356,233"/>
+</map>

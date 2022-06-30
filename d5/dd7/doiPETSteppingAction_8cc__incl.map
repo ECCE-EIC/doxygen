@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/advanced/doiPET/src/doiPETSteppingAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/advanced/doiPET/src/doiPETSteppingAction.cc">
+<area shape="rect" id="node2" href="$d1/dbe/doiPETSteppingAction_8hh.html" title="doiPETSteppingAction.hh" alt="" coords="1686,205,1877,233"/>
+<area shape="rect" id="node8" href="$d1/d30/doiPETAnalysis_8hh.html" title="doiPETAnalysis.hh" alt="" coords="515,357,658,385"/>
+<area shape="rect" id="node18" href="$de/da0/doiPETRun_8hh.html" title="doiPETRun.hh" alt="" coords="901,357,1016,385"/>
+<area shape="rect" id="node23" href="$d6/d25/doiPETEventAction_8hh.html" title="doiPETEventAction.hh" alt="" coords="1485,357,1654,385"/>
+<area shape="rect" id="node25" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="2533,281,2625,309"/>
+<area shape="rect" id="node35" href="$da/de4/G4RunManager_8hh.html" title="G4RunManager.hh" alt="" coords="1245,129,1390,157"/>
+<area shape="rect" id="node42" href="$dc/dea/G4SteppingManager_8hh.html" title="G4SteppingManager.hh" alt="" coords="3069,205,3249,233"/>
+<area shape="rect" id="node47" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="2003,129,2165,157"/>
+<area shape="rect" id="node49" href="$d4/d2b/G4PhysicalConstants_8hh.html" title="G4PhysicalConstants.hh" alt="" coords="2189,129,2373,157"/>
+<area shape="rect" id="node3" href="$dc/dd3/G4UserSteppingAction_8hh.html" title="G4UserSteppingAction.hh" alt="" coords="1805,281,2000,309"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1648,661,1739,689"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="3877,737,3958,765"/>
+<area shape="rect" id="node9" href="$d7/d82/doiPETGlobalParameters_8hh.html" title="doiPETGlobalParameters.hh" alt="" coords="152,433,360,461"/>
+<area shape="rect" id="node14" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="2057,585,2199,613"/>
+<area shape="rect" id="node19" href="$dd/d4a/G4Run_8hh.html" title="G4Run.hh" alt="" coords="1091,433,1179,461"/>
+<area shape="rect" id="node20" href="$d0/d85/G4VProcess_8hh.html" title="G4VProcess.hh" alt="" coords="3918,433,4039,461"/>
+<area shape="rect" id="node22" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="3973,509,4091,537"/>
+<area shape="rect" id="node24" href="$d3/d92/G4UserEventAction_8hh.html" title="G4UserEventAction.hh" alt="" coords="1483,433,1656,461"/>
+<area shape="rect" id="node28" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="2165,509,2341,537"/>
+<area shape="rect" id="node29" href="$d2/d9e/G4StepPoint_8hh.html" title="G4StepPoint.hh" alt="" coords="2667,357,2792,385"/>
+<area shape="rect" id="node30" href="$d1/d2e/G4StepStatus_8hh.html" title="G4StepStatus.hh" alt="" coords="3393,433,3527,461"/>
+<area shape="rect" id="node33" href="$d1/d5a/G4TrackVector_8hh.html" title="G4TrackVector.hh" alt="" coords="3603,433,3741,461"/>
+<area shape="rect" id="node31" href="$dd/d1b/G4TouchableHandle_8hh.html" title="G4TouchableHandle.hh" alt="" coords="2891,433,3069,461"/>
+<area shape="rect" id="node32" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="2656,433,2816,461"/>
+<area shape="rect" id="node36" href="$dc/d47/G4RunManagerKernel_8hh.html" title="G4RunManagerKernel.hh" alt="" coords="1421,205,1611,233"/>
+<area shape="rect" id="node37" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="1437,281,1595,309"/>
+<area shape="rect" id="node40" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="1129,585,1229,613"/>
+<area shape="rect" id="node38" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="1873,357,1970,385"/>
+<area shape="rect" id="node39" href="$d8/dcd/G4TrackStatus_8hh.html" title="G4TrackStatus.hh" alt="" coords="1985,433,2125,461"/>
+<area shape="rect" id="node43" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="2867,357,2994,385"/>
+<area shape="rect" id="node44" href="$dd/d04/G4TouchableHistoryHandle_8hh.html" title="G4TouchableHistoryHandle.hh" alt="" coords="3143,433,3369,461"/>
+<area shape="rect" id="node45" href="$dc/d5e/G4ProcessManager_8hh.html" title="G4ProcessManager.hh" alt="" coords="3971,357,4141,385"/>
+<area shape="rect" id="node46" href="$db/d40/G4VSteppingVerbose_8hh.html" title="G4VSteppingVerbose.hh" alt="" coords="3749,357,3934,385"/>
+<area shape="rect" id="node48" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="3273,205,3495,233"/>
+</map>

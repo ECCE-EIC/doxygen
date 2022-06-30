@@ -1,0 +1,16 @@
+<map id="G4InuclParticleNames::quasi_deutron" name="G4InuclParticleNames::quasi_deutron">
+<area shape="rect" id="node2" href="$d2/d5e/classG4InuclElementaryParticle.html#afa56e856abd64e93634f8be9d4fa8827" title="G4InuclElementaryParticle\l::quasi_deutron" alt="" coords="223,121,423,165"/>
+<area shape="rect" id="node3" href="$d4/ded/classG4ElementaryParticleCollider.html#a9e82e63dca4498407cdcb2d917d73d0f" title="G4ElementaryParticleCollider\l::collide" alt="" coords="471,61,691,105"/>
+<area shape="rect" id="node11" href="$d9/da6/classG4NucleiModel.html#a328aa59398dda26dafeafef5a65e65c8" title="G4NucleiModel::generateParticleFate" alt="" coords="739,125,1009,153"/>
+<area shape="rect" id="node12" href="$dc/d8b/classG4CascadeInterface.html#adc8300f34c9516a339f7b0506b0b18cb" title="G4CascadeInterface\l::makeDynamicParticle" alt="" coords="493,181,669,225"/>
+<area shape="rect" id="node4" href="$da/d7b/classG4LightTargetCollider.html#ae13ff79fa3488a07cfaab7ab02e9b1d3" title="G4LightTargetCollider\l::collide" alt="" coords="790,5,958,49"/>
+<area shape="rect" id="node10" href="$d4/d24/classG4InuclCollider.html#ab4109b3dbea48ffe64e45bab046ca4e5" title="G4InuclCollider::collide" alt="" coords="785,73,963,101"/>
+<area shape="rect" id="node5" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="1057,65,1215,109"/>
+<area shape="rect" id="node6" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1263,32,1461,76"/>
+<area shape="rect" id="node8" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1263,100,1461,144"/>
+<area shape="rect" id="node7" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="1509,32,1708,76"/>
+<area shape="rect" id="node9" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="1514,100,1703,144"/>
+<area shape="rect" id="node13" href="$dc/d8b/classG4CascadeInterface.html#a9cd8abfb43ef7e9f99d8cdd646ff8a35" title="G4CascadeInterface\l::copyOutputToHadronicResult" alt="" coords="761,177,987,221"/>
+<area shape="rect" id="node14" href="$dc/d8b/classG4CascadeInterface.html#a8784e84a6c327632c3a2483ae50a8455" title="G4CascadeInterface\l::copyOutputToReactionProducts" alt="" coords="754,245,994,289"/>
+<area shape="rect" id="node15" href="$dc/d8b/classG4CascadeInterface.html#ab8f6e4c678c2908475a4bca6dbc7bcb1" title="G4CascadeInterface\l::Propagate" alt="" coords="1057,245,1215,289"/>
+</map>

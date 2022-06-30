@@ -1,0 +1,12 @@
+<map id="G4NIELCalculator::ComputeNIEL" name="G4NIELCalculator::ComputeNIEL">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#ac9c15eda9b9b1c1f1ed99a08f1ccbf9c" title="G4VEmModel::ComputeDEDXPer\lVolume" alt="" coords="293,5,536,49"/>
+<area shape="rect" id="node3" href="$df/d47/classG4StepPoint.html#a7463d186dd17798616e411b770040ead" title="G4StepPoint::GetKineticEnergy" alt="" coords="299,73,531,101"/>
+<area shape="rect" id="node4" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="329,125,501,169"/>
+<area shape="rect" id="node5" href="$df/d47/classG4StepPoint.html#a8339d1b33f256d59e9bf3fc25b13a313" title="G4StepPoint::GetMaterial\lCutsCouple" alt="" coords="319,193,511,237"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a86961e4e580944b946cfd88b82ac5524" title="G4Track::GetParticleDefinition" alt="" coords="303,261,527,289"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="337,313,492,357"/>
+<area shape="rect" id="node8" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="316,381,513,409"/>
+<area shape="rect" id="node9" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="319,433,510,461"/>
+<area shape="rect" id="node10" href="$d9/d7a/classG4Step.html#a620ff37431d6c3c0129c06b7d3fa9f5d" title="G4Step::GetStepLength" alt="" coords="324,485,505,513"/>
+<area shape="rect" id="node11" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="345,537,485,565"/>
+</map>

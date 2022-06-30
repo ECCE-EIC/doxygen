@@ -1,0 +1,36 @@
+<map id="G4Track::CalculateVelocity" name="G4Track::CalculateVelocity">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#af52ce9434b4aaa3b8ef4625907a45b12" title="G4Track::CalculateVelocity\lForOpticalPhoton" alt="" coords="261,229,462,273"/>
+<area shape="rect" id="node15" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="283,349,440,393"/>
+<area shape="rect" id="node16" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="283,417,440,461"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a688a7ccba4422a00c95322e5b44e32bb" title="G4Track::GetMaxTOfVelocity\lTable" alt="" coords="255,485,468,529"/>
+<area shape="rect" id="node25" href="$d1/d33/classG4Track.html#a2fa6e46411f2bf23c125745fa0e744bc" title="G4Track::GetMinTOfVelocity\lTable" alt="" coords="257,553,466,597"/>
+<area shape="rect" id="node27" href="$dd/de8/classG4VelocityTable.html#a84919bce70f226f0267f260c85b516ba" title="G4VelocityTable::Value" alt="" coords="274,621,449,649"/>
+<area shape="rect" id="node35" href="$d1/d33/classG4Track.html#a1645b3e53fd6c880dd446a04e1ff612a" title="G4Track::velTable" alt="" coords="291,673,431,701"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="560,5,723,33"/>
+<area shape="rect" id="node4" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="834,105,1035,133"/>
+<area shape="rect" id="node6" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="559,109,723,153"/>
+<area shape="rect" id="node7" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="529,177,754,205"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a484f9a43cb92efc16d9421d082b91f41" title="G4Material::GetMaterialProperties\lTable" alt="" coords="516,229,767,273"/>
+<area shape="rect" id="node9" href="$da/dbc/classG4MaterialPropertiesTable.html#a302e3c2870152cdb8c4a531e3380e46a" title="G4MaterialPropertiesTable\l::GetProperty" alt="" coords="542,297,741,341"/>
+<area shape="rect" id="node11" href="$d7/d5c/classG4DynamicParticle.html#a91ba12f47c1d066a999409b3a5076a93" title="G4DynamicParticle::\lGetTotalMomentum" alt="" coords="563,365,720,409"/>
+<area shape="rect" id="node12" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="552,433,731,461"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1143,183,1250,211"/>
+<area shape="rect" id="node10" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="835,251,1034,295"/>
+<area shape="rect" id="node13" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="839,407,1030,435"/>
+<area shape="rect" id="node14" href="$d7/d2c/classG4PhysicsVector.html#a5d5c84f331f6c7d7201f48c0d00a0e81" title="G4PhysicsVector::Interpolation" alt="" coords="821,459,1049,487"/>
+<area shape="rect" id="node18" href="$dd/de8/classG4VelocityTable.html#a960c3f77f15faa1a47a9e3c327ebbc0f" title="G4VelocityTable::GetMaxTOf\lVelocityTable" alt="" coords="534,485,749,529"/>
+<area shape="rect" id="node19" href="$dd/de8/classG4VelocityTable.html#a125203c812306c071ae835f039f1efba" title="G4VelocityTable::GetVelocity\lTable" alt="" coords="827,532,1042,576"/>
+<area shape="rect" id="node20" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="1103,532,1290,576"/>
+<area shape="rect" id="node21" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1371,488,1487,516"/>
+<area shape="rect" id="node22" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1373,540,1486,568"/>
+<area shape="rect" id="node23" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1339,592,1520,620"/>
+<area shape="rect" id="node24" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1568,584,1755,628"/>
+<area shape="rect" id="node26" href="$dd/de8/classG4VelocityTable.html#abbd0cc95c19ccc2eee80547fa646d68e" title="G4VelocityTable::GetMinTOf\lVelocityTable" alt="" coords="536,553,747,597"/>
+<area shape="rect" id="node28" href="$dd/de8/classG4VelocityTable.html#adea496da1730f47c0f3a0fed41534924" title="G4VelocityTable::Interpolation" alt="" coords="529,621,753,649"/>
+<area shape="rect" id="node29" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="609,673,673,701"/>
+<area shape="rect" id="node30" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="839,621,1031,649"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="839,673,1031,701"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="815,725,1055,753"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1103,699,1291,727"/>
+<area shape="rect" id="node34" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1103,751,1291,779"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="G4GDMLRead::Read" name="G4GDMLRead::Read">
+<area shape="rect" id="node2" href="$d3/d87/classG4GDMLRead.html#ad37a3ad193bbebbbf271a3cededf040d" title="G4GDMLRead::DefineRead" alt="" coords="220,5,421,33"/>
+<area shape="rect" id="node3" href="$d3/d87/classG4GDMLRead.html#ad2d2642b712a5f227e04eb1c96d4c45f" title="G4GDMLRead::ExtensionRead" alt="" coords="209,147,432,175"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="791,133,897,161"/>
+<area shape="rect" id="node5" href="$d3/d87/classG4GDMLRead.html#a5cf8f54a31a2f2dc5dde7ae64aa4fb34" title="G4GDMLRead::MaterialsRead" alt="" coords="211,365,430,393"/>
+<area shape="rect" id="node6" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="279,417,362,445"/>
+<area shape="rect" id="node11" href="$db/dbc/chem1_8cc.html#a9f6eaea17dc10993eea94cabd7b0a896" title="parser" alt="" coords="288,469,353,497"/>
+<area shape="rect" id="node12" href="$d3/d87/classG4GDMLRead.html#a96ab82de5d1c3147f7255bae786635ad" title="G4GDMLRead::SetupRead" alt="" coords="223,521,419,549"/>
+<area shape="rect" id="node13" href="$d3/d87/classG4GDMLRead.html#a41a1b72bb71ceca6316e63e7b9c4770b" title="G4GDMLRead::SolidsRead" alt="" coords="222,573,419,601"/>
+<area shape="rect" id="node14" href="$d3/d87/classG4GDMLRead.html#ac9a0b70b8049eda6f832623c8ac02390" title="G4GDMLRead::StripNames" alt="" coords="220,939,421,967"/>
+<area shape="rect" id="node32" href="$d3/d87/classG4GDMLRead.html#adfe983b235db88947a49e29052d894e6" title="G4GDMLRead::StructureRead" alt="" coords="211,991,430,1019"/>
+<area shape="rect" id="node33" href="$d3/d87/classG4GDMLRead.html#a9b2efd7a7ccf95a10d2158b75e096cec" title="G4GDMLRead::Transcode" alt="" coords="748,263,940,291"/>
+<area shape="rect" id="node34" href="$d3/d87/classG4GDMLRead.html#a86c73aabbc83e0268115f6e7f4f8295b" title="G4GDMLRead::UserinfoRead" alt="" coords="214,236,427,264"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="482,365,698,409"/>
+<area shape="rect" id="node8" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="484,433,696,477"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="485,501,695,545"/>
+<area shape="rect" id="node10" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="760,501,928,545"/>
+<area shape="rect" id="node15" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="499,569,681,613"/>
+<area shape="rect" id="node16" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="503,637,677,681"/>
+<area shape="rect" id="node17" href="$de/dbf/classG4SolidStore.html#aaf69d823b84f4bde79aa9a8ca66a8708" title="G4SolidStore::GetInstance" alt="" coords="490,705,690,733"/>
+<area shape="rect" id="node18" href="$de/d80/classG4Element.html#a057a1bd738df9f6245f6a38701740eb0" title="G4Element::GetElementTable" alt="" coords="480,757,700,785"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="481,809,699,837"/>
+<area shape="rect" id="node20" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="512,861,668,889"/>
+<area shape="rect" id="node21" href="$d3/d87/classG4GDMLRead.html#aea1e72e21c14f318200c90bf34bed5a3" title="G4GDMLRead::StripName" alt="" coords="493,913,687,941"/>
+<area shape="rect" id="node23" href="$da/d34/classG4VSolid.html#a6add180de662b21f07e0d3f18e1bd925" title="G4VSolid::SetName" alt="" coords="513,965,667,993"/>
+<area shape="rect" id="node24" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="485,1017,695,1045"/>
+<area shape="rect" id="node25" href="$da/dc4/classG4LogicalVolume.html#a196a938d7a23d7e94a8209ea34863ba9" title="G4LogicalVolume::SetName" alt="" coords="485,1069,695,1097"/>
+<area shape="rect" id="node26" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="508,1121,672,1165"/>
+<area shape="rect" id="node27" href="$d1/d28/classG4VPhysicalVolume.html#afedf6cbc7bd4e6a0334215f55f64a54e" title="G4VPhysicalVolume::\lSetName" alt="" coords="508,1189,672,1233"/>
+<area shape="rect" id="node28" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="506,1257,674,1285"/>
+<area shape="rect" id="node29" href="$d5/de4/classG4Material.html#a0258633d401778e273ce51eb6f8202c1" title="G4Material::SetName" alt="" coords="507,1309,673,1337"/>
+<area shape="rect" id="node30" href="$de/d80/classG4Element.html#a0bcbf2b47ad07b5b806078c46112fc6a" title="G4Element::GetName" alt="" coords="505,1361,675,1389"/>
+<area shape="rect" id="node31" href="$de/d80/classG4Element.html#a4b90bae8a15f283bfd854766be5f7d4f" title="G4Element::SetName" alt="" coords="507,1413,673,1441"/>
+<area shape="rect" id="node22" href="$d5/d72/classG4String.html#afb274c4b23618f6ac01f89880e5069b9" title="G4String::remove" alt="" coords="773,913,915,941"/>
+<area shape="rect" id="node35" href="$d3/d87/classG4GDMLRead.html#a331a8a615926df5f83e4bd99272f32ec" title="G4GDMLRead::AuxiliaryRead" alt="" coords="482,211,698,239"/>
+</map>

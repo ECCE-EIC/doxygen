@@ -1,0 +1,50 @@
+<map id="G4VPVParameterisation" name="G4VPVParameterisation">
+<area shape="rect" id="node2" href="$d1/d85/classB2bChamberParameterisation.html" title="B2bChamberParameterisation" alt="" coords="248,5,472,33"/>
+<area shape="rect" id="node3" href="$d8/dca/classB5CellParameterisation.html" title="EM Calorimeter cell parameterisation." alt="" coords="271,57,449,85"/>
+<area shape="rect" id="node4" href="$de/d19/classCellParameterisation.html" title="CellParameterisation" alt="" coords="279,109,441,137"/>
+<area shape="rect" id="node5" href="$db/dfe/classChromosomeParameterisation.html" title="ChromosomeParameterisation" alt="" coords="247,161,473,189"/>
+<area shape="rect" id="node6" href="$d0/d41/classExN02ChamberParameterisation.html" title="ExN02ChamberParameterisation" alt="" coords="239,213,481,241"/>
+<area shape="rect" id="node7" href="$de/d94/classExN04CalorimeterParametrisation.html" title="ExN04CalorimeterParametrisation" alt="" coords="235,265,485,293"/>
+<area shape="rect" id="node8" href="$d3/db0/classExN04TrackerParametrisation.html" title="ExN04TrackerParametrisation" alt="" coords="250,317,470,345"/>
+<area shape="rect" id="node9" href="$db/db5/classExP01ChamberParameterisation.html" title="Chamber parameterisation for the persistency example." alt="" coords="240,369,480,397"/>
+<area shape="rect" id="node10" href="$de/d7c/classG02ChamberParameterisation.html" title="Chamber parametrisation used in the GDML read/write example." alt="" coords="247,421,473,449"/>
+<area shape="rect" id="node11" href="$dd/d82/classG4EzVoxelParameterization.html" title="G4EzVoxelParameterization" alt="" coords="257,473,463,501"/>
+<area shape="rect" id="node12" href="$dc/d7a/classG4GDMLParameterisation.html" title="G4GDMLParameterisation" alt="" coords="263,525,457,553"/>
+<area shape="rect" id="node13" href="$d6/da1/classG4PhantomParameterisation.html" title="G4PhantomParameterisation" alt="" coords="253,577,467,605"/>
+<area shape="rect" id="node16" href="$d2/d93/classG4tgbPlaceParameterisation.html" title="G4tgbPlaceParameterisation" alt="" coords="253,629,467,657"/>
+<area shape="rect" id="node20" href="$d5/ddc/classG4VDivisionParameterisation.html" title="G4VDivisionParameterisation" alt="" coords="251,681,469,709"/>
+<area shape="rect" id="node37" href="$d3/de0/classG4VNestedParameterisation.html" title="G4VNestedParameterisation" alt="" coords="254,733,466,761"/>
+<area shape="rect" id="node40" href="$de/d5e/classPHG4EtaParameterization.html" title="PHG4EtaParameterization" alt="" coords="263,785,457,813"/>
+<area shape="rect" id="node41" href="$d1/d75/classPHG4EtaPhiParameterization.html" title="PHG4EtaPhiParameterization" alt="" coords="252,837,468,865"/>
+<area shape="rect" id="node42" href="$db/d8a/classPHG4InttFPHXParameterisation.html" title="PHG4InttFPHXParameterisation" alt="" coords="245,889,475,917"/>
+<area shape="rect" id="node43" href="$d4/dbd/classRE01CalorimeterParametrisation.html" title="RE01CalorimeterParametrisation" alt="" coords="239,941,481,969"/>
+<area shape="rect" id="node44" href="$de/d42/classRE01TrackerParametrisation.html" title="RE01TrackerParametrisation" alt="" coords="255,993,465,1021"/>
+<area shape="rect" id="node45" href="$d6/d23/classRE04ParallelWorldParam.html" title="RE04ParallelWorldParam" alt="" coords="267,1045,453,1073"/>
+<area shape="rect" id="node46" href="$de/d4b/classRE05CalorimeterParametrisation.html" title="RE05CalorimeterParametrisation" alt="" coords="239,1097,481,1125"/>
+<area shape="rect" id="node47" href="$da/d7c/classRE05TrackerParametrisation.html" title="RE05TrackerParametrisation" alt="" coords="255,1149,465,1177"/>
+<area shape="rect" id="node48" href="$d8/d4c/classUltraFresnelLensParameterisation.html" title="UltraFresnelLensParameterisation" alt="" coords="236,1201,484,1229"/>
+<area shape="rect" id="node49" href="$d6/dc3/classVoxelParam.html" title="VoxelParam" alt="" coords="309,1253,411,1281"/>
+<area shape="rect" id="node14" href="$d9/d02/classDicomPhantomParameterisationColour.html" title="Class inherited from G4PhantomParameterisation to provide different." alt="" coords="557,328,796,372"/>
+<area shape="rect" id="node15" href="$d8/d74/classG4PartialPhantomParameterisation.html" title="G4PartialPhantomParameterisation" alt="" coords="548,396,805,424"/>
+<area shape="rect" id="node17" href="$da/d0a/classG4tgbPlaceParamCircle.html" title="G4tgbPlaceParamCircle" alt="" coords="587,448,766,476"/>
+<area shape="rect" id="node18" href="$da/d8d/classG4tgbPlaceParamLinear.html" title="G4tgbPlaceParamLinear" alt="" coords="585,500,769,528"/>
+<area shape="rect" id="node19" href="$dd/dfd/classG4tgbPlaceParamSquare.html" title="G4tgbPlaceParamSquare" alt="" coords="582,552,771,580"/>
+<area shape="rect" id="node21" href="$d7/deb/classG4VParameterisationBox.html" title="G4VParameterisationBox" alt="" coords="581,604,772,632"/>
+<area shape="rect" id="node25" href="$dc/daa/classG4VParameterisationCons.html" title="G4VParameterisationCons" alt="" coords="577,656,776,684"/>
+<area shape="rect" id="node29" href="$df/d8e/classG4VParameterisationPara.html" title="G4VParameterisationPara" alt="" coords="580,708,773,736"/>
+<area shape="rect" id="node33" href="$d6/d58/classG4VParameterisationPolycone.html" title="G4VParameterisationPolycone" alt="" coords="564,760,789,788"/>
+<area shape="rect" id="node34" href="$df/d57/classG4VParameterisationPolyhedra.html" title="G4VParameterisationPolyhedra" alt="" coords="561,812,792,840"/>
+<area shape="rect" id="node35" href="$d0/d63/classG4VParameterisationTrd.html" title="G4VParameterisationTrd" alt="" coords="585,864,769,892"/>
+<area shape="rect" id="node36" href="$d0/da1/classG4VParameterisationTubs.html" title="G4VParameterisationTubs" alt="" coords="579,916,775,944"/>
+<area shape="rect" id="node22" href="$de/d34/classG4ParameterisationBoxX.html" title="G4ParameterisationBoxX" alt="" coords="880,448,1071,476"/>
+<area shape="rect" id="node23" href="$df/d37/classG4ParameterisationBoxY.html" title="G4ParameterisationBoxY" alt="" coords="881,500,1070,528"/>
+<area shape="rect" id="node24" href="$d9/d1a/classG4ParameterisationBoxZ.html" title="G4ParameterisationBoxZ" alt="" coords="880,552,1071,580"/>
+<area shape="rect" id="node26" href="$d3/dce/classG4ParameterisationConsPhi.html" title="G4ParameterisationConsPhi" alt="" coords="871,604,1080,632"/>
+<area shape="rect" id="node27" href="$d5/d2c/classG4ParameterisationConsRho.html" title="G4ParameterisationConsRho" alt="" coords="868,656,1083,684"/>
+<area shape="rect" id="node28" href="$d0/d8c/classG4ParameterisationConsZ.html" title="G4ParameterisationConsZ" alt="" coords="876,708,1075,736"/>
+<area shape="rect" id="node30" href="$d4/d83/classG4ParameterisationParaX.html" title="G4ParameterisationParaX" alt="" coords="878,760,1073,788"/>
+<area shape="rect" id="node31" href="$dc/d89/classG4ParameterisationParaY.html" title="G4ParameterisationParaY" alt="" coords="878,812,1073,840"/>
+<area shape="rect" id="node32" href="$d5/db4/classG4ParameterisationParaZ.html" title="G4ParameterisationParaZ" alt="" coords="878,864,1073,892"/>
+<area shape="rect" id="node38" href="$d1/d28/classDicomNestedPhantomParameterisation.html" title="Implements a G4VNestedParameterisation." alt="" coords="533,968,820,996"/>
+<area shape="rect" id="node39" href="$dc/d61/classRE02NestedPhantomParameterisation.html" title="RE02NestedPhantomParameterisation" alt="" coords="537,1020,816,1048"/>
+</map>

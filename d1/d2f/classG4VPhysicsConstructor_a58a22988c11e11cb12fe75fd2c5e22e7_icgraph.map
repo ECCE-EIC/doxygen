@@ -1,0 +1,46 @@
+<map id="G4VPhysicsConstructor::GetPhysicsType" name="G4VPhysicsConstructor::GetPhysicsType">
+<area shape="rect" id="node2" href="$dc/d2e/classG4VModularPhysicsList.html#a749b7064b776c809d258bcb4a95e9916" title="G4VModularPhysicsList\l::RegisterPhysics" alt="" coords="232,975,411,1019"/>
+<area shape="rect" id="node39" href="$dc/d2e/classG4VModularPhysicsList.html#acd6050c16d624c777380b91f7b36b3cc" title="G4VModularPhysicsList\l::ReplacePhysics" alt="" coords="232,147,411,191"/>
+<area shape="rect" id="node3" href="$d1/d7c/classGammaRayTelPhysicsList.html#a777ab985ec6cb7959b62b87e3101af71" title="GammaRayTelPhysicsList\l::AddPackage" alt="" coords="801,143,993,187"/>
+<area shape="rect" id="node5" href="$d2/daa/classPhysicsList.html#a7a2fe86d4857abdc1177b35f16232546" title="PhysicsList::AddPackage" alt="" coords="804,453,989,481"/>
+<area shape="rect" id="node6" href="$d4/d51/classB3PhysicsList.html#af472fa101e6ec83eba2779c17acb4ab4" title="B3PhysicsList::B3PhysicsList" alt="" coords="487,619,700,647"/>
+<area shape="rect" id="node7" href="$df/d95/classEICPhysicsList.html#aa3cf19b0643130b5c5d2268e372cd38a" title="EICPhysicsList::EICPhysicsList" alt="" coords="483,671,704,699"/>
+<area shape="rect" id="node8" href="$dd/d36/pymodG4run_8cc.html#a39b274f03182d4b8914b47f94605b608" title="export_G4VModularPhysicsList" alt="" coords="479,723,708,751"/>
+<area shape="rect" id="node10" href="$d6/d83/classExUCNPhysicsList.html#a24ce4b375c56b861bbc4abe782088a31" title="ExUCNPhysicsList::ExUCNPhysicsList" alt="" coords="459,775,728,803"/>
+<area shape="rect" id="node11" href="$d0/ddf/classF04PhysicsList.html#a8dded4dafb3ee7588ebbac8004088924" title="F04PhysicsList::F04PhysicsList" alt="" coords="479,827,707,855"/>
+<area shape="rect" id="node12" href="$d0/d58/classF05PhysicsList.html#a6bda4443e9221c0d991ab6ba4ab7ba9e" title="F05PhysicsList::F05PhysicsList" alt="" coords="479,879,707,907"/>
+<area shape="rect" id="node13" href="$d4/db5/classF06PhysicsList.html#ada2f2e93c436efaf026f415585720ab5" title="F06PhysicsList::F06PhysicsList" alt="" coords="479,931,707,959"/>
+<area shape="rect" id="node14" href="$d0/ddd/classFTF__BIC.html#a9d34e24a44a9b631156e9fd583467bc3" title="FTF_BIC::FTF_BIC" alt="" coords="525,983,661,1011"/>
+<area shape="rect" id="node15" href="$d5/d8f/classFTFP__BERT.html#a433ae53caa788f9e59d2755a936190e7" title="FTFP_BERT::FTFP_BERT" alt="" coords="506,1035,681,1063"/>
+<area shape="rect" id="node16" href="$d7/d71/classFTFP__BERT__ATL.html#a21040c9eb80c52213f8841988639b174" title="FTFP_BERT_ATL::FTFP\l_BERT_ATL" alt="" coords="511,1087,676,1131"/>
+<area shape="rect" id="node17" href="$d4/dc2/classFTFP__BERT__HP.html#af1efd7107ec7f2cb2f15697a390f9c3e" title="FTFP_BERT_HP::FTFP\l_BERT_HP" alt="" coords="513,1155,673,1199"/>
+<area shape="rect" id="node18" href="$d5/dbb/classFTFP__BERT__TRV.html#adf4ab649159ccfc85a2d9cf3a40b5598" title="FTFP_BERT_TRV::FTFP\l_BERT_TRV" alt="" coords="510,1223,677,1267"/>
+<area shape="rect" id="node19" href="$dd/d75/classFTFQGSP__BERT.html#a98344352cb0b0ecee768dbcf401b2243" title="FTFQGSP_BERT::FTFQGSP_BERT" alt="" coords="476,1291,711,1319"/>
+<area shape="rect" id="node20" href="$db/dcf/classG4PhysListRegistry.html#ab777ec48e3b88f0dc3a28adfd0538dd5" title="G4PhysListRegistry\l::GetModularPhysicsList" alt="" coords="502,259,685,303"/>
+<area shape="rect" id="node25" href="$d0/d78/classPHG4Reco.html#a7b10a263dd7671587b574526da6b2d7d" title="full initialization" alt="" coords="532,1343,655,1371"/>
+<area shape="rect" id="node26" href="$dd/d22/hadrontherapy_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="566,1395,621,1423"/>
+<area shape="rect" id="node27" href="$da/da5/classNuBeam.html#a509ad6ad3674a63faf12e9a56ff84522" title="NuBeam::NuBeam" alt="" coords="521,1447,666,1475"/>
+<area shape="rect" id="node28" href="$da/dbe/classQBBC.html#afd9e3c8082cb2e458a1fcb4de853fcd9" title="QBBC::QBBC" alt="" coords="540,1499,647,1527"/>
+<area shape="rect" id="node29" href="$de/dc7/classQGS__BIC.html#ad8b7c01d3515c0f9a20b75b5509910d7" title="QGS_BIC::QGS_BIC" alt="" coords="519,1551,667,1579"/>
+<area shape="rect" id="node30" href="$d5/dab/classQGSP__BERT.html#a5633dcdfa335a15580f1da4c623fecdf" title="QGSP_BERT::QGSP_BERT" alt="" coords="499,1603,687,1631"/>
+<area shape="rect" id="node31" href="$d0/db1/classQGSP__BERT__HP.html#afa037cbf710b4962c9995880aa7ad479" title="QGSP_BERT_HP::QGSP\l_BERT_HP" alt="" coords="507,1655,679,1699"/>
+<area shape="rect" id="node32" href="$d5/d88/classQGSP__BIC.html#adf7b08bbeadfc714d19fad0ae2171952" title="QGSP_BIC::QGSP_BIC" alt="" coords="511,1723,675,1751"/>
+<area shape="rect" id="node33" href="$d2/d76/classQGSP__BIC__AllHP.html#a62eeb04c3455e6a0fcccecef849d0558" title="QGSP_BIC_AllHP::QGSP\l_BIC_AllHP" alt="" coords="505,1775,682,1819"/>
+<area shape="rect" id="node34" href="$d1/d75/classQGSP__BIC__HP.html#a1cbc8394b03f7328aabc49f111b3c7cb" title="QGSP_BIC_HP::QGSP_BIC_HP" alt="" coords="486,1843,701,1871"/>
+<area shape="rect" id="node35" href="$df/d11/classQGSP__FTFP__BERT.html#aa6de5419a03eb8044b954232cb9bff63" title="QGSP_FTFP_BERT::QGSP\l_FTFP_BERT" alt="" coords="501,327,685,371"/>
+<area shape="rect" id="node36" href="$d3/df5/classQPhysicsList.html#a9962f8c03c3d7d4d6cb86d20fc10d37f" title="QPhysicsList::QPhysicsList" alt="" coords="494,395,693,423"/>
+<area shape="rect" id="node37" href="$d7/da5/classG4PhysListFactoryMessenger.html#acffcb8e8f155fb6b00283dc08c25290a" title="G4PhysListFactoryMessenger\l::SetNewValue" alt="" coords="484,447,703,491"/>
+<area shape="rect" id="node38" href="$d3/d77/classShielding.html#acc9580b3579b066e6d84346acebd4681" title="Shielding::Shielding" alt="" coords="515,567,671,595"/>
+<area shape="rect" id="node4" href="$d1/d81/classGammaRayTelPhysicsListMessenger.html#a5c3f8237612eb40b48b070f0df381b66" title="GammaRayTelPhysicsListMessenger\l::SetNewValue" alt="" coords="1065,143,1331,187"/>
+<area shape="rect" id="node9" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="799,723,994,751"/>
+<area shape="rect" id="node21" href="$db/dcf/classG4PhysListRegistry.html#a13a44ae3d39aa3bfcdd809932479edd4" title="G4PhysListRegistry\l::GetModularPhysicsListFromEnv" alt="" coords="776,299,1017,343"/>
+<area shape="rect" id="node24" href="$dc/d6f/classg4alt_1_1G4PhysListFactory.html#ad393640a0853572ed788fa0f41ac311e" title="g4alt::G4PhysListFactory\l::GetReferencePhysList" alt="" coords="1104,233,1292,277"/>
+<area shape="rect" id="node22" href="$dc/d6f/classg4alt_1_1G4PhysListFactory.html#a91af5f7d1e55451805e8d588532b29e4" title="g4alt::G4PhysListFactory\l::ReferencePhysList" alt="" coords="1104,301,1292,345"/>
+<area shape="rect" id="node23" href="$dc/dc1/extensibleFactory_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1379,276,1433,304"/>
+<area shape="rect" id="node40" href="$df/d67/classG4PhysListFactory.html#ad393640a0853572ed788fa0f41ac311e" title="G4PhysListFactory::\lGetReferencePhysList" alt="" coords="509,35,678,79"/>
+<area shape="rect" id="node44" href="$df/ddf/channeling_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="566,103,621,131"/>
+<area shape="rect" id="node45" href="$d4/dcd/classHistoManager.html#a6a31ac56f5fcd13404fdfae70cb5a916" title="HistoManager::SetIonPhysics" alt="" coords="485,155,702,183"/>
+<area shape="rect" id="node41" href="$df/dda/gammaknife_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="869,73,924,101"/>
+<area shape="rect" id="node42" href="$df/d67/classG4PhysListFactory.html#a91af5f7d1e55451805e8d588532b29e4" title="G4PhysListFactory::\lReferencePhysList" alt="" coords="821,5,973,49"/>
+<area shape="rect" id="node43" href="$d6/d37/CompositeCalorimeter_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1171,13,1225,41"/>
+</map>

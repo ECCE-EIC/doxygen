@@ -1,0 +1,25 @@
+var classG4GeometryWorkspace =
+[
+    [ "pool_type", "d6/d0e/classG4GeometryWorkspace.html#ac26b805cc55dfff1e535fd3555eafa53", null ],
+    [ "G4GeometryWorkspace", "d6/d0e/classG4GeometryWorkspace.html#a75771771494836c6c823bed5bad527ea", null ],
+    [ "~G4GeometryWorkspace", "d6/d0e/classG4GeometryWorkspace.html#adf966d0ca5f01f18d1c1eb83820d83d1", null ],
+    [ "CloneParameterisedSolids", "d6/d0e/classG4GeometryWorkspace.html#abdedf9314570446c175e282d36212182", null ],
+    [ "CloneReplicaSolid", "d6/d0e/classG4GeometryWorkspace.html#aa841a19cd8257e0a23516d1b7aa3399a", null ],
+    [ "DestroyWorkspace", "d6/d0e/classG4GeometryWorkspace.html#aaf467004b1449b538aedd0b871b96b7d", null ],
+    [ "GetPool", "d6/d0e/classG4GeometryWorkspace.html#ac2e1e330182ff71d2a4611422335aa5f", null ],
+    [ "GetVerbose", "d6/d0e/classG4GeometryWorkspace.html#aee5199761a5673d4ed4ac8571db77dbb", null ],
+    [ "InitialisePhysicalVolumes", "d6/d0e/classG4GeometryWorkspace.html#a557d8f37758884ff36131edddc6a3923", null ],
+    [ "InitialiseWorkspace", "d6/d0e/classG4GeometryWorkspace.html#aa5dacb909c877c9687a9474cab142da2", null ],
+    [ "ReleaseWorkspace", "d6/d0e/classG4GeometryWorkspace.html#ab969f066c0286f915b0aa7e2d4243306", null ],
+    [ "SetVerbose", "d6/d0e/classG4GeometryWorkspace.html#aff4d4a91bb63b77b76ee28f05eba4356", null ],
+    [ "UseWorkspace", "d6/d0e/classG4GeometryWorkspace.html#a275ced5becb487087015cb3d06ca68b3", null ],
+    [ "fLogicalVolumeOffset", "d6/d0e/classG4GeometryWorkspace.html#a133a231850ac57407685021b836132ad", null ],
+    [ "fPhysicalVolumeOffset", "d6/d0e/classG4GeometryWorkspace.html#ab479ed31ad087c6d6ef10d33222e4bec", null ],
+    [ "fpLogicalVolumeSIM", "d6/d0e/classG4GeometryWorkspace.html#a7ee3fa8a0cd35b3dde091776af28e531", null ],
+    [ "fpPhysicalVolumeSIM", "d6/d0e/classG4GeometryWorkspace.html#a131a0924115704f49ff69f21bf94ecf0", null ],
+    [ "fpRegionSIM", "d6/d0e/classG4GeometryWorkspace.html#a709725e4d4da9fdbc49ddf2a4bde9aae", null ],
+    [ "fpReplicaSIM", "d6/d0e/classG4GeometryWorkspace.html#a4b73a2de5fc0fb9f7400bf5667333cdb", null ],
+    [ "fRegionOffset", "d6/d0e/classG4GeometryWorkspace.html#a3462d794ec94cd5f022ada3d9caa229f", null ],
+    [ "fReplicaOffset", "d6/d0e/classG4GeometryWorkspace.html#ab094227a4ca9f183df25af1ce958f1bb", null ],
+    [ "fVerbose", "d6/d0e/classG4GeometryWorkspace.html#a074778c2eb82840e91cd69fd9a89dbb4", null ]
+];

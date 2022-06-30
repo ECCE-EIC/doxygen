@@ -1,0 +1,21 @@
+<map id="G4GSMottCorrection::InitMCDataMaterial" name="G4GSMottCorrection::InitMCDataMaterial">
+<area shape="rect" id="node2" href="$d2/dc5/classG4GSMottCorrection.html#ada0943681901bce17dd3dc1fdbb3d5f0" title="G4GSMottCorrection\l::AllocateDataPerMaterial" alt="" coords="247,5,439,49"/>
+<area shape="rect" id="node3" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="309,73,376,101"/>
+<area shape="rect" id="node7" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="311,125,375,153"/>
+<area shape="rect" id="node13" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="309,177,377,205"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="253,229,433,257"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="229,281,457,309"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="260,333,425,361"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="212,385,473,413"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a040844667f1a20d3a7f2f4eda1cb5694" title="G4Material::GetTotNbOfAtoms\lPerVolume" alt="" coords="231,437,455,481"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="228,505,457,549"/>
+<area shape="rect" id="node20" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="273,573,412,601"/>
+<area shape="rect" id="node4" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="559,21,724,49"/>
+<area shape="rect" id="node6" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="547,73,736,101"/>
+<area shape="rect" id="node5" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="809,21,997,49"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="545,125,737,153"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="545,177,737,205"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="521,229,761,257"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="809,203,997,231"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="809,255,997,283"/>
+</map>

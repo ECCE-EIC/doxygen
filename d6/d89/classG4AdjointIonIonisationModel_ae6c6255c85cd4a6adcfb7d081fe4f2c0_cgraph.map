@@ -1,0 +1,30 @@
+<map id="G4AdjointIonIonisationModel::CorrectPostStepWeight" name="G4AdjointIonIonisationModel::CorrectPostStepWeight">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="279,340,499,384"/>
+<area shape="rect" id="node3" href="$d4/d78/classG4GenericIon.html#acd85e3c35ca0d21da6eaf17391463fb2" title="G4GenericIon::GenericIon" alt="" coords="291,408,487,436"/>
+<area shape="rect" id="node18" href="$d8/d73/classG4AdjointCSManager.html#aa1ef72746ae8a9140c199b93e3b56f68" title="G4AdjointCSManager\l::GetAdjointCSManager" alt="" coords="299,460,479,504"/>
+<area shape="rect" id="node24" href="$d3/dc1/classG4VEmModel.html#aba8f27e942da7bb7aa4113caa2b4e235" title="G4VEmModel::GetChargeSquare\lRatio" alt="" coords="268,528,509,572"/>
+<area shape="rect" id="node26" href="$d8/d73/classG4AdjointCSManager.html#a8d7c583958e5efe0ee56ad010370cb38" title="G4AdjointCSManager\l::GetPostStepWeightCorrection" alt="" coords="274,596,503,640"/>
+<area shape="rect" id="node27" href="$d6/d6c/classG4VParticleChange.html#ad3f58951f719661758b1128438394d5e" title="G4VParticleChange::\lProposeParentWeight" alt="" coords="306,664,471,708"/>
+<area shape="rect" id="node28" href="$d6/d6c/classG4VParticleChange.html#aabec3fd1251db7e599fe25d4fadd8161" title="G4VParticleChange::\lSetParentWeightByProcess" alt="" coords="287,732,490,776"/>
+<area shape="rect" id="node29" href="$d6/d6c/classG4VParticleChange.html#a59864e926b0b76ec8d000b3d40e23296" title="G4VParticleChange::\lSetSecondaryWeightByProcess" alt="" coords="273,800,504,844"/>
+<area shape="rect" id="node4" href="$d4/d78/classG4GenericIon.html#a09a232545874038c6f7b5e92aa4c8ab8" title="G4GenericIon::Definition" alt="" coords="557,339,745,367"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="804,180,1012,224"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="802,287,1014,315"/>
+<area shape="rect" id="node16" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="846,339,970,367"/>
+<area shape="rect" id="node17" href="$d8/dd3/classG4ParticleTable.html#aaf9d10fc04506d47b91b658bf3b3df51" title="G4ParticleTable::SetGenericIon" alt="" coords="793,391,1023,419"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1092,155,1293,199"/>
+<area shape="rect" id="node7" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1389,5,1565,49"/>
+<area shape="rect" id="node8" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1389,73,1565,117"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1385,261,1568,289"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1399,141,1554,185"/>
+<area shape="rect" id="node11" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1363,209,1591,237"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1071,313,1315,341"/>
+<area shape="rect" id="node15" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1081,365,1305,393"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1423,313,1530,341"/>
+<area shape="rect" id="node19" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="558,460,745,504"/>
+<area shape="rect" id="node20" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="850,443,966,471"/>
+<area shape="rect" id="node21" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="851,495,965,523"/>
+<area shape="rect" id="node22" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="817,547,999,575"/>
+<area shape="rect" id="node23" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1099,539,1286,583"/>
+<area shape="rect" id="node25" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="574,528,729,572"/>
+</map>

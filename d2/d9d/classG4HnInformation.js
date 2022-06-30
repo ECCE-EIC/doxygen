@@ -1,0 +1,27 @@
+var classG4HnInformation =
+[
+    [ "G4HnInformation", "d2/d9d/classG4HnInformation.html#a28953f7bec1d3b32d15726439d12755d", null ],
+    [ "G4HnInformation", "d2/d9d/classG4HnInformation.html#a1bfc6349e96e23c4cf49e87cc11a63c5", null ],
+    [ "AddDimension", "d2/d9d/classG4HnInformation.html#a1c2999e4e8e957a46b1f0b97a996da6c", null ],
+    [ "AddHnDimensionInformation", "d2/d9d/classG4HnInformation.html#a8dc89e4dc0cfcd1fd618fd880dc374cd", null ],
+    [ "fActivation", "d2/d9d/classG4HnInformation.html#a73c6e1210040877d6425ef07658bf464", null ],
+    [ "fAscii", "d2/d9d/classG4HnInformation.html#a2ed609f8c95d49ba37d2d3c6d0c5a386", null ],
+    [ "fPlotting", "d2/d9d/classG4HnInformation.html#aada1201fec62da150992f59f8291eb09", null ],
+    [ "GetActivation", "d2/d9d/classG4HnInformation.html#a27fbec5f13ae4664fd935b96fe89d00d", null ],
+    [ "GetAscii", "d2/d9d/classG4HnInformation.html#a7880b5f891098499e7d10a5abc67c528", null ],
+    [ "GetHnDimensionInformation", "d2/d9d/classG4HnInformation.html#a9a4d2b08b035e8680456420910a613f8", null ],
+    [ "GetIsLogAxis", "d2/d9d/classG4HnInformation.html#ad6eccf7aa1533c79bc69db533e7bb916", null ],
+    [ "GetName", "d2/d9d/classG4HnInformation.html#a5cd3a83dd1fb05f23f3e5694e1b9a8f6", null ],
+    [ "GetPlotting", "d2/d9d/classG4HnInformation.html#a2a88e4424c1a4dc595c241582c3fa37f", null ],
+    [ "SetActivation", "d2/d9d/classG4HnInformation.html#a9e338d005eea09182ae8ff891fa57c3b", null ],
+    [ "SetAscii", "d2/d9d/classG4HnInformation.html#a00e30d9c7db2fd12eb8642c598a811d1", null ],
+    [ "SetDimension", "d2/d9d/classG4HnInformation.html#ab73e02ce0603ffbdb6d2876b53be6d61", null ],
+    [ "SetIsLogAxis", "d2/d9d/classG4HnInformation.html#a850754633408137329a87a38022ed04e", null ],
+    [ "SetPlotting", "d2/d9d/classG4HnInformation.html#a04f1eaab88ffc3d9413b9f9d5dd21c31", null ],
+    [ "fActivation", "d2/d9d/classG4HnInformation.html#a980e7ef1aa82a3d67a361b3c152eee2d", null ],
+    [ "fAscii", "d2/d9d/classG4HnInformation.html#ad800662a0de9df66ec4b4323a4956a37", null ],
+    [ "fHnDimensionInformations", "d2/d9d/classG4HnInformation.html#adfd3eab830dc2bea7990b43ef88a825a", null ],
+    [ "fIsLogAxis", "d2/d9d/classG4HnInformation.html#a89978c6ebc37662e57c6f6225c3554ce", null ],
+    [ "fName", "d2/d9d/classG4HnInformation.html#a9f7bf8dca8ed2805d5d00394a50f3889", null ],
+    [ "fPlotting", "d2/d9d/classG4HnInformation.html#aeae377ac7b183a6ac35e52f13fc8fead", null ]
+];

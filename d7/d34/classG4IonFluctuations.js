@@ -1,0 +1,27 @@
+var classG4IonFluctuations =
+[
+    [ "G4IonFluctuations", "d7/d34/classG4IonFluctuations.html#aa3651929f02303eed89512db8811c91f", null ],
+    [ "~G4IonFluctuations", "d7/d34/classG4IonFluctuations.html#a3d6c5f1f2549c8f7f92b90b2512c83da", null ],
+    [ "G4IonFluctuations", "d7/d34/classG4IonFluctuations.html#a370e801d825ba043a33868ad01ec44a9", null ],
+    [ "Dispersion", "d7/d34/classG4IonFluctuations.html#aa1d366367ef6a86d987f082dab0bb5b1", null ],
+    [ "Factor", "d7/d34/classG4IonFluctuations.html#a7c83eaf8247bf132a6af42b0aacf89c3", null ],
+    [ "InitialiseMe", "d7/d34/classG4IonFluctuations.html#ae53dc4c3e91bced6192a24351cd4f630", null ],
+    [ "operator=", "d7/d34/classG4IonFluctuations.html#a2bd6617f7cef7b44dbd1434adb381437", null ],
+    [ "RelativisticFactor", "d7/d34/classG4IonFluctuations.html#a1b453e34c7d69558a289929874322e3f", null ],
+    [ "SampleFluctuations", "d7/d34/classG4IonFluctuations.html#a2a94c0e80c5c43ec1c4e28529217acd9", null ],
+    [ "SetParticleAndCharge", "d7/d34/classG4IonFluctuations.html#ad0d4c1c4f34afa18547d12ef5ef2bc06", null ],
+    [ "beta2", "d7/d34/classG4IonFluctuations.html#afdb43b055d4d140139855f907d915c59", null ],
+    [ "charge", "d7/d34/classG4IonFluctuations.html#a3b98810067056b301c4e49597751076b", null ],
+    [ "chargeSquare", "d7/d34/classG4IonFluctuations.html#aaa67f59fdc6d474d3f316428fa9dbc86", null ],
+    [ "effChargeSquare", "d7/d34/classG4IonFluctuations.html#a6dabc19ec6ea1af27c1dcc72da3c24f5", null ],
+    [ "g4calc", "d7/d34/classG4IonFluctuations.html#a6b84d6e12a714b7a4594e37b707c407b", null ],
+    [ "kineticEnergy", "d7/d34/classG4IonFluctuations.html#a6646215fbb26093b22dce316a40abef0", null ],
+    [ "minFraction", "d7/d34/classG4IonFluctuations.html#abfa8a7df151c6fbf5e48c6aa50d7c3b2", null ],
+    [ "minLoss", "d7/d34/classG4IonFluctuations.html#a66456194b14b180cdc3feb18efe9a00b", null ],
+    [ "parameter", "d7/d34/classG4IonFluctuations.html#a3e5eb5ca93303d42b76730a39a57d036", null ],
+    [ "particle", "d7/d34/classG4IonFluctuations.html#a1a0043b2a5f36020519f65207124edc8", null ],
+    [ "particleMass", "d7/d34/classG4IonFluctuations.html#af772036229665dab403e62035732cdab", null ],
+    [ "theBohrBeta2", "d7/d34/classG4IonFluctuations.html#abc514a48a7bc8042ce52db0f27c21464", null ],
+    [ "uniFluct", "d7/d34/classG4IonFluctuations.html#a8aeb90bb8ed22eaa235c20dc01df91f0", null ],
+    [ "xmin", "d7/d34/classG4IonFluctuations.html#a0ea71c9d6fe8ac9808dffbf09974226d", null ]
+];

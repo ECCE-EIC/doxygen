@@ -1,0 +1,28 @@
+var classG4tgbMaterialMgr =
+[
+    [ "~G4tgbMaterialMgr", "d8/dc5/classG4tgbMaterialMgr.html#acdf3b5b59aba9cee4477f60295c6bdcd", null ],
+    [ "G4tgbMaterialMgr", "d8/dc5/classG4tgbMaterialMgr.html#ab600be811ac81a16b43dfe68ef4f92a3", null ],
+    [ "CopyElements", "d8/dc5/classG4tgbMaterialMgr.html#a99d69a0e3e008cfb83969450f65acc0d", null ],
+    [ "CopyIsotopes", "d8/dc5/classG4tgbMaterialMgr.html#a0d16080e2b720fd8f818a3c1bdbcea9a", null ],
+    [ "CopyMaterials", "d8/dc5/classG4tgbMaterialMgr.html#a4002c2ba0cd62b1254e3b400997c71f6", null ],
+    [ "FindBuiltG4Element", "d8/dc5/classG4tgbMaterialMgr.html#a1e55772916bc09bee63b3ab9674d52ac", null ],
+    [ "FindBuiltG4Isotope", "d8/dc5/classG4tgbMaterialMgr.html#af9c8b611b934530ac47e1cfdd096dca5", null ],
+    [ "FindBuiltG4Material", "d8/dc5/classG4tgbMaterialMgr.html#a7b53bfaae0c8fa7f00352a36f83bc4ac", null ],
+    [ "FindG4tgbElement", "d8/dc5/classG4tgbMaterialMgr.html#a940c2ef8657d6cb22378273538be7901", null ],
+    [ "FindG4tgbIsotope", "d8/dc5/classG4tgbMaterialMgr.html#a8933176d13ccd94a617fb6b40d3bcdad", null ],
+    [ "FindG4tgbMaterial", "d8/dc5/classG4tgbMaterialMgr.html#a0aba1821aac76b7c724a2a465bb123d8", null ],
+    [ "FindOrBuildG4Element", "d8/dc5/classG4tgbMaterialMgr.html#a6e38104de68f87456200ec184a57bd5e", null ],
+    [ "FindOrBuildG4Isotope", "d8/dc5/classG4tgbMaterialMgr.html#a490bc61963cb5b61c3dd05f851b08f76", null ],
+    [ "FindOrBuildG4Material", "d8/dc5/classG4tgbMaterialMgr.html#a8c8a22158b7fb108ecf4938a67c9e950", null ],
+    [ "GetG4ElementList", "d8/dc5/classG4tgbMaterialMgr.html#a58f4b7830ca9a13e843e1bdda194aede", null ],
+    [ "GetG4IsotopeList", "d8/dc5/classG4tgbMaterialMgr.html#a52c735850444fb059946b7eb2dbc50dc", null ],
+    [ "GetG4MaterialList", "d8/dc5/classG4tgbMaterialMgr.html#ac97f9e728fe4941a08a54d0c1534f779", null ],
+    [ "GetInstance", "d8/dc5/classG4tgbMaterialMgr.html#afe2f5410315fd3aa0695b2bcf7cb3d28", null ],
+    [ "theG4Elements", "d8/dc5/classG4tgbMaterialMgr.html#ac608073d3a8f98474452611b86f25aed", null ],
+    [ "theG4Isotopes", "d8/dc5/classG4tgbMaterialMgr.html#a1bcbaa2a42863cc10ea7c2141b027024", null ],
+    [ "theG4Materials", "d8/dc5/classG4tgbMaterialMgr.html#a73eade5c4c8ad350d7b72037383ea660", null ],
+    [ "theG4tgbElements", "d8/dc5/classG4tgbMaterialMgr.html#a7e567198c7ecafabe6eee8ff23a0d920", null ],
+    [ "theG4tgbIsotopes", "d8/dc5/classG4tgbMaterialMgr.html#ae2fe9d6e6d4513393a7a15d31e05368d", null ],
+    [ "theG4tgbMaterials", "d8/dc5/classG4tgbMaterialMgr.html#a9447e4fd30ab7f488f28165191f65d9d", null ],
+    [ "theInstance", "d8/dc5/classG4tgbMaterialMgr.html#a8bdc3f1b6fe0f071b8d1dc5f121ec70b", null ]
+];

@@ -1,0 +1,36 @@
+<map id="PoPs_getBDFLS_mass" name="PoPs_getBDFLS_mass">
+<area shape="rect" id="node2" href="$de/ddd/PoPs__data_8cc.html#a6e84105ad1f9754e6dd869b9c9e04e33" title="PoPs_particleLoadInfo" alt="" coords="220,422,388,450"/>
+<area shape="rect" id="node3" href="$de/ddd/PoPs__data_8cc.html#a4114703e7169e171e84d0f34504d6586" title="PoPs_particleCreateLoadInfo" alt="" coords="436,422,648,450"/>
+<area shape="rect" id="node4" href="$d1/d21/lPoPs_8cc.html#a53acc75cffc2e9afcb7be8b91c01283e" title="lPoPs_addParticleIfNeeded" alt="" coords="696,370,895,398"/>
+<area shape="rect" id="node34" href="$de/ddd/PoPs__data_8cc.html#a154667b3b1c6942aa889b24cd19224a4" title="PoPs_particleReadDatabase" alt="" coords="943,474,1151,502"/>
+<area shape="rect" id="node5" href="$db/d26/MCGIDI__map_8cc.html#a9493fbc33cb49bbdb22e292272b6bc5d" title="_MCGIDI_map_addEntry" alt="" coords="955,280,1139,308"/>
+<area shape="rect" id="node8" href="$db/d26/MCGIDI__map_8cc.html#a3afff5b1bd0b00c43c9a989187c269fe" title="MCGIDI_map_findAllOfTarget" alt="" coords="1732,391,1947,419"/>
+<area shape="rect" id="node14" href="$db/d26/MCGIDI__map_8cc.html#ac618c62ea574910e9b17e4808abe8f9b" title="MCGIDI_map_findTarget" alt="" coords="2768,26,2951,54"/>
+<area shape="rect" id="node18" href="$db/d26/MCGIDI__map_8cc.html#af2606162858dd4c1ae222a20614f629e" title="MCGIDI_map_initialize" alt="" coords="961,370,1132,398"/>
+<area shape="rect" id="node20" href="$da/d1d/MCGIDI__pop_8cc.html#addec24338face4fc71a5e59922462761" title="MCGIDI_POPs_addParticleIf\lNeeded" alt="" coords="945,138,1148,182"/>
+<area shape="rect" id="node6" href="$db/d26/MCGIDI__map_8cc.html#a53eed82d6aaf62367deee00280da49a3" title="_MCGIDI_map_findAllOfTarget\lViaPoPIDs2" alt="" coords="1199,302,1421,346"/>
+<area shape="rect" id="node10" href="$db/d26/MCGIDI__map_8cc.html#a102479fb4cfc6b6497eb744bf96eb404" title="MCGIDI_map_addPath" alt="" coords="1225,250,1395,278"/>
+<area shape="rect" id="node13" href="$db/d26/MCGIDI__map_8cc.html#a976e8364235d11babc5939f99c8632b3" title="MCGIDI_map_addTarget" alt="" coords="1219,198,1401,226"/>
+<area shape="rect" id="node7" href="$db/d26/MCGIDI__map_8cc.html#a8657328d6af22c98378ee17577319d08" title="MCGIDI_map_findAllOfTarget\lViaPoPIDs" alt="" coords="1469,354,1684,398"/>
+<area shape="rect" id="node9" href="$d7/dbb/classG4GIDI.html#a8cc1abd96ff3e3d249cfe670a0fa4a16" title="G4GIDI::getNamesOfAvailable\lLibraries" alt="" coords="1995,383,2219,427"/>
+<area shape="rect" id="node11" href="$db/d26/MCGIDI__map_8cc.html#a5d5c8c41f856f89944806588e7e5c96f" title="MCGIDI_map_readFile" alt="" coords="1493,250,1660,278"/>
+<area shape="rect" id="node12" href="$d6/def/classG4GIDI__map.html#a9750a65e702e882cc9a7734fafb68023" title="G4GIDI_map::G4GIDI_map" alt="" coords="1739,250,1939,278"/>
+<area shape="rect" id="node15" href="$d7/dbb/classG4GIDI.html#aea1128617a413d09d571783ea37a48ed" title="G4GIDI::dataFilename" alt="" coords="3052,26,3221,54"/>
+<area shape="rect" id="node16" href="$d0/d24/MCGIDI__target_8cc.html#a829194d1b0216594e41504b4a5071648" title="MCGIDI_target_newReadFromMap" alt="" coords="3293,40,3541,68"/>
+<area shape="rect" id="node17" href="$d0/d24/MCGIDI__target_8cc.html#a4560dca48e241a7fb5e51e49e283c8a8" title="MCGIDI_target_readFromMap" alt="" coords="3028,78,3245,106"/>
+<area shape="rect" id="node19" href="$db/d26/MCGIDI__map_8cc.html#ac58df3ff694c04bc01657c5f840e3564" title="MCGIDI_map_new" alt="" coords="1239,370,1381,398"/>
+<area shape="rect" id="node21" href="$df/da0/MCGIDI__target__heated_8cc.html#aa9825ff1b2089f5e19765e23f5fbdb2f" title="MCGIDI_target_heated\l_parseParticle" alt="" coords="1491,130,1663,174"/>
+<area shape="rect" id="node33" href="$df/da0/MCGIDI__target__heated_8cc.html#a202c1525d360fc53c577d235d1b8c0fa" title="MCGIDI_target_heated\l_parseParticleLevel" alt="" coords="1224,78,1396,122"/>
+<area shape="rect" id="node22" href="$df/da0/MCGIDI__target__heated_8cc.html#a2d37b5a7252291da3aab306526f8f27a" title="MCGIDI_target_heated\l_parsePOPs" alt="" coords="1753,130,1925,174"/>
+<area shape="rect" id="node23" href="$df/da0/MCGIDI__target__heated_8cc.html#affe7058a90aef52f8e693d6ba5db8aa5" title="MCGIDI_target_heated_read" alt="" coords="2002,138,2211,166"/>
+<area shape="rect" id="node24" href="$df/da0/MCGIDI__target__heated_8cc.html#a49ca2312307b553d1f6c92c329e924a1" title="MCGIDI_target_heated\l_newRead" alt="" coords="2267,130,2439,174"/>
+<area shape="rect" id="node25" href="$d0/d24/MCGIDI__target_8cc.html#a208fecc858d8265d3777be7d110f84c5" title="MCGIDI_target_readHeated\lTarget" alt="" coords="2487,130,2691,174"/>
+<area shape="rect" id="node26" href="$d0/d24/MCGIDI__target_8cc.html#ad84900f08012646e62d5fb6b529c6bf0" title="MCGIDI_target_getHeatedTarget\lAtIndex_ReadIfNeeded" alt="" coords="2740,190,2979,234"/>
+<area shape="rect" id="node27" href="$d0/d24/MCGIDI__target_8cc.html#aceade9a3c57ad1b495684ce80626d3d1" title="MCGIDI_target_read" alt="" coords="2782,138,2937,166"/>
+<area shape="rect" id="node32" href="$d6/d19/classG4GIDI__target.html#a39033a3f6c4c47077398a69a08d3fc16" title="G4GIDI_target::readTemperature" alt="" coords="2739,86,2980,114"/>
+<area shape="rect" id="node28" href="$d0/d24/MCGIDI__target_8cc.html#aaafb33a4730d63f1a901e27b04186c45" title="MCGIDI_target_newRead" alt="" coords="3043,198,3230,226"/>
+<area shape="rect" id="node31" href="$d0/d24/MCGIDI__target_8cc.html#aa4199e5c62d5cadb67be229a06a9e34c" title="MCGIDI_target_readFromMap\lViaPoPIDs" alt="" coords="3028,130,3245,174"/>
+<area shape="rect" id="node29" href="$d6/d19/classG4GIDI__target.html#ad9abda532ded0d6729329d77b63e8016" title="G4GIDI_target::init" alt="" coords="3343,227,3491,255"/>
+<area shape="rect" id="node30" href="$d0/d24/MCGIDI__target_8cc.html#a4a5295fc164f2a595e31633df6421077" title="MCGIDI_target_newReadFrom\lMapViaPoPIDs" alt="" coords="3307,159,3527,203"/>
+<area shape="rect" id="node35" href="$d1/dd1/PoPs_8cc.html#a7379b8a1da3545e819acc1c3a642531e" title="PoPs_readDatabase" alt="" coords="1233,474,1387,502"/>
+</map>

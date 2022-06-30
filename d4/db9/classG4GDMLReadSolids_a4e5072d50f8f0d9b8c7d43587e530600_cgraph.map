@@ -1,0 +1,29 @@
+<map id="G4GDMLReadSolids::PolyhedraRead" name="G4GDMLReadSolids::PolyhedraRead">
+<area shape="rect" id="node2" href="$d8/d36/classG4GDMLEvaluator.html#a1aa95c2d2123fa93d0f95960490e2305" title="G4GDMLEvaluator::Evaluate" alt="" coords="609,324,821,352"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1484,519,1591,547"/>
+<area shape="rect" id="node10" href="$d8/d36/classG4GDMLEvaluator.html#a8c587b757b0f111b7f520cf440a6c7fd" title="G4GDMLEvaluator::Evaluate\lInteger" alt="" coords="1167,400,1379,444"/>
+<area shape="rect" id="node12" href="$d3/d87/classG4GDMLRead.html#a4f33bb18e428b5fa143e57a135f32ffd" title="G4GDMLRead::GenerateName" alt="" coords="327,109,552,137"/>
+<area shape="rect" id="node15" href="$dd/db6/classG4UnitDefinition.html#ab312cecd9b92e02f18c9c473a7110c6d" title="G4UnitDefinition::GetCategory" alt="" coords="325,684,553,712"/>
+<area shape="rect" id="node26" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="329,812,549,840"/>
+<area shape="rect" id="node27" href="$d3/d87/classG4GDMLRead.html#a9b2efd7a7ccf95a10d2158b75e096cec" title="G4GDMLRead::Transcode" alt="" coords="619,467,811,495"/>
+<area shape="rect" id="node28" href="$d4/db9/classG4GDMLReadSolids.html#acdfefceeb7ea843026366e076d78d587" title="G4GDMLReadSolids::ZplaneRead" alt="" coords="317,415,561,443"/>
+<area shape="rect" id="node3" href="$d5/df7/classHepTool_1_1Evaluator.html#a7dc9b53ee92056ac4b3b34302c91c865" title="HepTool::Evaluator\l::evaluate" alt="" coords="919,281,1069,325"/>
+<area shape="rect" id="node5" href="$d5/df7/classHepTool_1_1Evaluator.html#a71d40eedb07fbf64deb7991f3aaa43ef" title="HepTool::Evaluator\l::print_error" alt="" coords="919,213,1069,257"/>
+<area shape="rect" id="node7" href="$d8/d36/classG4GDMLEvaluator.html#aefc0596132eb5819bdaeeab4943cf85f" title="G4GDMLEvaluator::SolveBrackets" alt="" coords="869,109,1119,137"/>
+<area shape="rect" id="node11" href="$d5/df7/classHepTool_1_1Evaluator.html#ae7260e78df579a539d083e038ae62100" title="HepTool::Evaluator\l::status" alt="" coords="919,349,1069,393"/>
+<area shape="rect" id="node6" href="$d5/df7/classHepTool_1_1Evaluator.html#a45e1f0240b875e851e8c455503df7df9" title="HepTool::Evaluator\l::error_name" alt="" coords="1198,213,1347,257"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html#aa95cfd24fc070ec0b60a686ca6017abc" title="G4String::append" alt="" coords="1203,109,1343,137"/>
+<area shape="rect" id="node9" href="$d8/deb/comparison__ascii_8C.html#af0142003ab45f38c281006149c483d2a" title="close" alt="" coords="1245,5,1301,33"/>
+<area shape="rect" id="node13" href="$d3/d87/classG4GDMLRead.html#aea1e72e21c14f318200c90bf34bed5a3" title="G4GDMLRead::StripName" alt="" coords="618,57,813,85"/>
+<area shape="rect" id="node14" href="$d5/d72/classG4String.html#afb274c4b23618f6ac01f89880e5069b9" title="G4String::remove" alt="" coords="923,57,1065,85"/>
+<area shape="rect" id="node16" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="615,928,816,972"/>
+<area shape="rect" id="node21" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="674,748,757,776"/>
+<area shape="rect" id="node17" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="888,928,1100,972"/>
+<area shape="rect" id="node19" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1427,992,1648,1020"/>
+<area shape="rect" id="node18" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1177,928,1368,972"/>
+<area shape="rect" id="node20" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1434,936,1641,964"/>
+<area shape="rect" id="node22" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="886,808,1102,852"/>
+<area shape="rect" id="node23" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="888,672,1100,716"/>
+<area shape="rect" id="node24" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="889,740,1099,784"/>
+<area shape="rect" id="node25" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1189,740,1357,784"/>
+</map>

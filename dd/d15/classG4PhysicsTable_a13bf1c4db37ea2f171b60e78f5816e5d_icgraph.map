@@ -1,0 +1,45 @@
+<map id="G4PhysicsTable::push_back" name="G4PhysicsTable::push_back">
+<area shape="rect" id="node2" href="$df/d90/classG4UPiNuclearCrossSection.html#a3f1b3d6da725ff893578842aaa37d7da" title="G4UPiNuclearCrossSection\l::AddDataSet" alt="" coords="275,39,475,83"/>
+<area shape="rect" id="node7" href="$d1/dfe/classG4ParticleHPFissionData.html#aaab2d5d0ab8fcb7e4b15ae5498b72ca3" title="G4ParticleHPFissionData\l::BuildPhysicsTable" alt="" coords="283,107,468,151"/>
+<area shape="rect" id="node8" href="$d7/d94/classG4ParticleHPCaptureData.html#abab76c773c7954ab78f2c987167a75b0" title="G4ParticleHPCaptureData\l::BuildPhysicsTable" alt="" coords="279,175,472,219"/>
+<area shape="rect" id="node9" href="$d9/de3/classG4ParticleHPElasticData.html#a445b0bc4d1b2ab34f1e8fb69489ea539" title="G4ParticleHPElasticData\l::BuildPhysicsTable" alt="" coords="283,243,467,287"/>
+<area shape="rect" id="node10" href="$d8/d88/classG4ParticleHPInelasticData.html#ad9ef801edc3ffec254fa8b3027793843" title="G4ParticleHPInelasticData\l::BuildPhysicsTable" alt="" coords="277,311,473,355"/>
+<area shape="rect" id="node11" href="$d5/dbf/classG4PenelopeBremsstrahlungFS.html#a1395c445382eac449995d5f1dea01bef" title="G4PenelopeBremsstrahlung\lFS::BuildScaledXSTable" alt="" coords="552,436,761,480"/>
+<area shape="rect" id="node16" href="$df/de7/classG4PenelopeCrossSection.html#afd1855b3f08dfd82098245c7db7d9855" title="G4PenelopeCrossSection\l::G4PenelopeCrossSection" alt="" coords="276,447,475,491"/>
+<area shape="rect" id="node17" href="$d5/dbf/classG4PenelopeBremsstrahlungFS.html#ab73a323d12422ece3377f42f3e8ae250" title="G4PenelopeBremsstrahlung\lFS::InitializeEnergySampling" alt="" coords="269,379,482,423"/>
+<area shape="rect" id="node18" href="$dc/dd9/classG4TablesForExtrapolator.html#acf357251aa44df7e5a1c9db930d3a5b7" title="G4TablesForExtrapolator\l::PrepareTable" alt="" coords="281,635,469,679"/>
+<area shape="rect" id="node38" href="$d6/dca/classG4PenelopeBremsstrahlungAngular.html#ae6e938b740f6b7c46d3cad87a1d21797" title="Reserved for Master Model." alt="" coords="271,567,480,611"/>
+<area shape="rect" id="node40" href="$d9/d44/classG4PenelopePhotoElectricModel.html#ab354cbfe21817aa8532ef5eb2c790365" title="G4PenelopePhotoElectricModel\l::ReadDataFile" alt="" coords="260,740,491,784"/>
+<area shape="rect" id="node3" href="$df/d90/classG4UPiNuclearCrossSection.html#a9e6f711fb6a02441d64e3fac9a3cf1cb" title="G4UPiNuclearCrossSection\l::LoadData" alt="" coords="557,39,757,83"/>
+<area shape="rect" id="node4" href="$df/d90/classG4UPiNuclearCrossSection.html#a52067568bb6e882498c8c87af89d57ac" title="G4UPiNuclearCrossSection\l::BuildPhysicsTable" alt="" coords="842,39,1042,83"/>
+<area shape="rect" id="node5" href="$db/db4/classG4BGGPionElasticXS.html#ad2f0a7232603f6f76d7d3b3a65df889e" title="G4BGGPionElasticXS\l::BuildPhysicsTable" alt="" coords="1150,73,1311,117"/>
+<area shape="rect" id="node6" href="$d1/d91/classG4BGGPionInelasticXS.html#a1005f2cc2e17ddd215f16d1ccbbe5dd2" title="G4BGGPionInelasticXS\l::BuildPhysicsTable" alt="" coords="1144,5,1317,49"/>
+<area shape="rect" id="node12" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a0ab3d221804d82d89ec102b7bf0e64c9" title="G4PenelopeBremsstrahlung\lModel::GetCrossSectionTableFor\lCouple" alt="" coords="823,420,1061,480"/>
+<area shape="rect" id="node15" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a40d8e53025f9d339592cf40796a6d496" title="G4PenelopeBremsstrahlung\lModel::Initialise" alt="" coords="837,504,1047,548"/>
+<area shape="rect" id="node13" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a32c722ecbb7f08fd61bfcde191a3e15f" title="G4PenelopeBremsstrahlung\lModel::ComputeDEDXPerVolume" alt="" coords="1109,463,1352,507"/>
+<area shape="rect" id="node14" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a1942d4a7fdf74c77f2ad1359cb8a3328" title="G4PenelopeBremsstrahlung\lModel::CrossSectionPerVolume" alt="" coords="1116,395,1345,439"/>
+<area shape="rect" id="node19" href="$dc/dd9/classG4TablesForExtrapolator.html#a174966c4aab7851aec39cf223c04c49e" title="G4TablesForExtrapolator\l::Initialisation" alt="" coords="563,635,751,679"/>
+<area shape="rect" id="node20" href="$da/de2/classG4EnergyLossForExtrapolator.html#aa13b7b10633a6d8c33436d3073c5703a" title="G4EnergyLossForExtrapolator\l::BuildTables" alt="" coords="831,572,1053,616"/>
+<area shape="rect" id="node37" href="$dc/dd9/classG4TablesForExtrapolator.html#a88db07b686cd332a9f712ed4a45d95c8" title="G4TablesForExtrapolator\l::G4TablesForExtrapolator" alt="" coords="843,640,1041,684"/>
+<area shape="rect" id="node21" href="$da/de2/classG4EnergyLossForExtrapolator.html#a2469d740bba25f47a141a65707316dad" title="G4EnergyLossForExtrapolator\l::Initialisation" alt="" coords="1119,572,1342,616"/>
+<area shape="rect" id="node22" href="$da/de2/classG4EnergyLossForExtrapolator.html#ad14ca9754b75248c0d312cdb43720dae" title="G4EnergyLossForExtrapolator\l::EnergyAfterStep" alt="" coords="2483,352,2705,396"/>
+<area shape="rect" id="node26" href="$da/de2/classG4EnergyLossForExtrapolator.html#a696617cc14056b31669918a1f7db6b41" title="G4EnergyLossForExtrapolator\l::EnergyBeforeStep" alt="" coords="2483,521,2705,565"/>
+<area shape="rect" id="node28" href="$da/de2/classG4EnergyLossForExtrapolator.html#a6fb85ecb8a42ff1180824cc76a26cb0f" title="G4EnergyLossForExtrapolator\l::SetupKinematics" alt="" coords="1400,492,1623,536"/>
+<area shape="rect" id="node34" href="$da/de2/classG4EnergyLossForExtrapolator.html#a0159186159b590367a48d4b85ec692e0" title="G4EnergyLossForExtrapolator\l::TrueStepLength" alt="" coords="2212,581,2435,625"/>
+<area shape="rect" id="node23" href="$d9/d11/classG4ErrorEnergyLoss.html#a6cd08338c876907863c78a7f830a3537" title="G4ErrorEnergyLoss::\lAlongStepDoIt" alt="" coords="2785,453,2944,497"/>
+<area shape="rect" id="node24" href="$da/de2/classG4EnergyLossForExtrapolator.html#a9225030167b6d3784adfb14d2b5515c7" title="G4EnergyLossForExtrapolator\l::EnergyAfterStep" alt="" coords="2753,317,2976,361"/>
+<area shape="rect" id="node25" href="$d9/d11/classG4ErrorEnergyLoss.html#a50c6b03ec237ac098af4855402483115" title="G4ErrorEnergyLoss::\lGetContinuousStepLimit" alt="" coords="2771,385,2958,429"/>
+<area shape="rect" id="node27" href="$da/de2/classG4EnergyLossForExtrapolator.html#a7c8d34b3555e1710916257ef649112aa" title="G4EnergyLossForExtrapolator\l::EnergyBeforeStep" alt="" coords="2753,521,2976,565"/>
+<area shape="rect" id="node29" href="$da/de2/classG4EnergyLossForExtrapolator.html#aa5117e9038b4b8035cbe8867ae22fa21" title="G4EnergyLossForExtrapolator\l::AverageScatteringAngle" alt="" coords="1671,461,1893,505"/>
+<area shape="rect" id="node32" href="$da/de2/classG4EnergyLossForExtrapolator.html#a10c4ae346f7dbd49b65c971f824c1522" title="G4EnergyLossForExtrapolator\l::EnergyDispersion" alt="" coords="2212,453,2435,497"/>
+<area shape="rect" id="node30" href="$da/de2/classG4EnergyLossForExtrapolator.html#a15587285d4f3df572c868e8c49b26a01" title="G4EnergyLossForExtrapolator\l::AverageScatteringAngle" alt="" coords="1941,393,2164,437"/>
+<area shape="rect" id="node31" href="$da/de2/classG4EnergyLossForExtrapolator.html#acd6e6295b395b59336c36ac92419c00f" title="G4EnergyLossForExtrapolator\l::ComputeTrueStep" alt="" coords="1941,461,2164,505"/>
+<area shape="rect" id="node33" href="$da/de2/classG4EnergyLossForExtrapolator.html#ae3e9f7e6d77d6e168ececda93f01b9b8" title="G4EnergyLossForExtrapolator\l::EnergyDispersion" alt="" coords="2483,453,2705,497"/>
+<area shape="rect" id="node35" href="$da/d76/classG4EnergySplitter.html#ab21723d5a691168fffee8d7dc66539b9" title="G4EnergySplitter::SplitEnergy\lInVolumes" alt="" coords="2483,589,2705,633"/>
+<area shape="rect" id="node36" href="$dd/d79/classG4ScoreSplittingProcess.html#a360c639b35f911e9708a32b88a8e4aee" title="G4ScoreSplittingProcess\l::PostStepDoIt" alt="" coords="2772,589,2957,633"/>
+<area shape="rect" id="node39" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#ae92798134dd6fcdfeeb591bd33337ac4" title="G4PenelopeBremsstrahlung\lModel::InitialiseLocal" alt="" coords="552,567,761,611"/>
+<area shape="rect" id="node41" href="$d9/d44/classG4PenelopePhotoElectricModel.html#a77558c6c461149fc07dd4c622172dff8" title="G4PenelopePhotoElectricModel\l::ComputeCrossSectionPerAtom" alt="" coords="539,843,775,887"/>
+<area shape="rect" id="node42" href="$d9/d44/classG4PenelopePhotoElectricModel.html#a9ad6711442d636b462d1647d7bcfbc9d" title="G4PenelopePhotoElectricModel\l::GetNumberOfShellXS" alt="" coords="541,707,772,751"/>
+<area shape="rect" id="node44" href="$d9/d44/classG4PenelopePhotoElectricModel.html#a07a395e317fef0056e7209fcb4b23723" title="G4PenelopePhotoElectricModel\l::Initialise" alt="" coords="541,775,772,819"/>
+<area shape="rect" id="node43" href="$d9/d44/classG4PenelopePhotoElectricModel.html#a7aa69ac6c8669a6df1330992cb83a221" title="G4PenelopePhotoElectricModel\l::GetShellCrossSection" alt="" coords="827,708,1057,752"/>
+</map>

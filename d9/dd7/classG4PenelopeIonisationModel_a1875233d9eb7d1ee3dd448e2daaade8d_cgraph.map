@@ -1,0 +1,51 @@
+<map id="G4PenelopeIonisationModel::ComputeDEDXPerVolume" name="G4PenelopeIonisationModel::ComputeDEDXPerVolume">
+<area shape="rect" id="node2" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a4faf9b67f14aa576e1a1a6c57db8b8fc" title="This can be inkoved only by the master." alt="" coords="265,582,505,626"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1797,350,1904,378"/>
+<area shape="rect" id="node4" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="615,52,769,96"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1767,1557,1935,1585"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a040844667f1a20d3a7f2f4eda1cb5694" title="G4Material::GetTotNbOfAtoms\lPerVolume" alt="" coords="1465,1489,1689,1533"/>
+<area shape="rect" id="node47" href="$d4/dee/classG4PenelopeOscillatorManager.html#a25d1ca6ee0502ff11e78bf792de06f51" title="Returns the total number of atoms per molecule." alt="" coords="887,1420,1114,1464"/>
+<area shape="rect" id="node48" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a5254fdd1d9f2bc718660b69bfa18052e" title="G4PenelopeIonisationXSHandler\l::GetCrossSectionTableForCouple" alt="" coords="263,112,507,156"/>
+<area shape="rect" id="node49" href="$df/de7/classG4PenelopeCrossSection.html#ab3fad12a5424de089ba7577f625292f7" title="Returns the total stopping power due to soft collisions." alt="" coords="597,1102,787,1146"/>
+<area shape="rect" id="node50" href="$d7/d27/classG4TemplateAutoLock.html#a1fc2695a8c9b5527f9f3c62b32a2c172" title="G4TemplateAutoLock\l::unlock" alt="" coords="302,1846,467,1890"/>
+<area shape="rect" id="node6" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="612,172,772,200"/>
+<area shape="rect" id="node8" href="$d3/d12/classG4Positron.html#aacc1c0848707302d19c881ffccb0ebab" title="G4Positron::Positron" alt="" coords="613,120,771,148"/>
+<area shape="rect" id="node10" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#ac6a47313fd4eb3a9b2c4349bf5ce953f" title="G4PenelopeIonisationXSHandler\l::BuildDeltaTable" alt="" coords="572,718,812,762"/>
+<area shape="rect" id="node11" href="$d4/dee/classG4PenelopeOscillatorManager.html#a79992c5c184c4344e5101b50b11fb5de" title="G4PenelopeOscillatorManager\l::GetOscillatorTableIonisation" alt="" coords="887,770,1114,814"/>
+<area shape="rect" id="node32" href="$d7/d2c/classG4PhysicsVector.html#a2f8f9e7e7d2d6ca8b5f8daae9380afca" title="G4PhysicsVector::GetVector\lLength" alt="" coords="896,1042,1105,1086"/>
+<area shape="rect" id="node33" href="$d7/d2c/classG4PhysicsVector.html#a665e74899c6067c0f1cf4500c93e542f" title="G4PhysicsVector::GetLowEdge\lEnergy" alt="" coords="887,446,1114,490"/>
+<area shape="rect" id="node35" href="$dd/d93/classG4PenelopeOscillator.html#ae5059fd2ed2a941a5af7b172d9cd0c23" title="G4PenelopeOscillator\l::GetOscillatorStrength" alt="" coords="913,974,1089,1018"/>
+<area shape="rect" id="node37" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a19820ce31aff5b9e626ba66c551b1852" title="Returns the density coeection for the material at the given energy." alt="" coords="572,1188,812,1232"/>
+<area shape="rect" id="node40" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#af56b4f603d767cd043a996a3412ea1a4" title="G4PenelopeIonisationXSHandler\l::ComputeShellCrossSectionsElectron" alt="" coords="555,650,829,694"/>
+<area shape="rect" id="node43" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a7c0582f103481f2d654cec8e58737371" title="G4PenelopeIonisationXSHandler\l::ComputeShellCrossSectionsPositron" alt="" coords="555,582,829,626"/>
+<area shape="rect" id="node44" href="$df/de7/classG4PenelopeCrossSection.html#a0412213ceaeb9d0319db0713386057b1" title="G4PenelopeCrossSection\l::AddShellCrossSectionPoint" alt="" coords="587,326,797,370"/>
+<area shape="rect" id="node45" href="$df/de7/classG4PenelopeCrossSection.html#adfa2a3bbd7eff8e819ed9d58bf9c005a" title="G4PenelopeCrossSection\l::AddCrossSectionPoint" alt="" coords="597,394,787,438"/>
+<area shape="rect" id="node46" href="$df/de7/classG4PenelopeCrossSection.html#ac9ab4d7c88e7609f9b9e49e8721a02e1" title="G4PenelopeCrossSection\l::NormalizeShellCrossSections" alt="" coords="579,462,805,506"/>
+<area shape="rect" id="node7" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="915,172,1086,200"/>
+<area shape="rect" id="node9" href="$d3/d12/classG4Positron.html#aeb7530a6ec5e82b7805cc036852f4b8f" title="G4Positron::Definition" alt="" coords="916,120,1085,148"/>
+<area shape="rect" id="node30" href="$d4/dee/classG4PenelopeOscillatorManager.html#a7f00921d051cc49f338e982938107893" title="Returns the squared plasma energy." alt="" coords="887,838,1114,882"/>
+<area shape="rect" id="node31" href="$d4/dee/classG4PenelopeOscillatorManager.html#a8d7994bca9c7faaebbc96efc8473b785" title="G4PenelopeOscillatorManager\l::GetTotalZ" alt="" coords="887,906,1114,950"/>
+<area shape="rect" id="node34" href="$dd/d93/classG4PenelopeOscillator.html#a172f2b9a20ad47b9150833eb97768c2a" title="G4PenelopeOscillator\l::GetResonanceEnergy" alt="" coords="913,650,1089,694"/>
+<area shape="rect" id="node36" href="$d4/dc2/classG4PhysicsFreeVector.html#a81714f2a435774457cbca7f421188309" title="G4PhysicsFreeVector\l::PutValue" alt="" coords="919,326,1082,370"/>
+<area shape="rect" id="node12" href="$d4/dee/classG4PenelopeOscillatorManager.html#a2769f91b64c6a82388a6513951a8337a" title="G4PenelopeOscillatorManager\l::CheckForTablesCreated" alt="" coords="1172,802,1399,846"/>
+<area shape="rect" id="node14" href="$d4/dee/classG4PenelopeOscillatorManager.html#a70596db703f4c4b889f2dfbcba5ae0aa" title="G4PenelopeOscillatorManager\l::BuildOscillatorTable" alt="" coords="1172,1029,1399,1073"/>
+<area shape="rect" id="node13" href="$d4/dee/classG4PenelopeOscillatorManager.html#ad10fa83dc9cad762843f0ce520fc6dc0" title="G4PenelopeOscillatorManager\l::ReadElementData" alt="" coords="1464,428,1691,472"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1447,770,1708,798"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="1463,822,1691,850"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="1465,874,1690,902"/>
+<area shape="rect" id="node19" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1544,548,1611,576"/>
+<area shape="rect" id="node22" href="$dd/d93/classG4PenelopeOscillator.html#ab5e43f93e761817406730f6db4e90b65" title="G4PenelopeOscillator\l::SetOscillatorStrength" alt="" coords="1491,926,1664,970"/>
+<area shape="rect" id="node23" href="$dd/d93/classG4PenelopeOscillator.html#a1cf122a2fcbf87677108fddd357b857a" title="G4PenelopeOscillator\l::SetIonisationEnergy" alt="" coords="1494,994,1661,1038"/>
+<area shape="rect" id="node24" href="$dd/d93/classG4PenelopeOscillator.html#abef778e33c35bf01562d0fb7b96f7825" title="G4PenelopeOscillator\l::SetHartreeFactor" alt="" coords="1494,1062,1661,1106"/>
+<area shape="rect" id="node25" href="$dd/d93/classG4PenelopeOscillator.html#ab29b5a03126c4decb44f80c64756cc0c" title="G4PenelopeOscillator\l::SetParentZ" alt="" coords="1494,1130,1661,1174"/>
+<area shape="rect" id="node26" href="$dd/d93/classG4PenelopeOscillator.html#a35c3d8c4ae366d2e84d6bf1e0d2883e0" title="G4PenelopeOscillator\l::SetShellFlag" alt="" coords="1494,1198,1661,1242"/>
+<area shape="rect" id="node27" href="$dd/d93/classG4PenelopeOscillator.html#aad4e88cd80bc5a8a63a6b9aa75bbaed8" title="G4PenelopeOscillator\l::SetParentShellID" alt="" coords="1494,1266,1661,1310"/>
+<area shape="rect" id="node28" href="$d0/d12/namespaceg4zmq.html#ac0a320baaea2957915124839b1e2be53" title="g4zmq.exit" alt="" coords="1529,1334,1626,1362"/>
+<area shape="rect" id="node29" href="$d4/dee/classG4PenelopeOscillatorManager.html#aa55645a9e77df4aa54838dea23625c9b" title="G4PenelopeOscillatorManager\l::Dump" alt="" coords="1464,702,1691,746"/>
+<area shape="rect" id="node20" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1768,573,1933,601"/>
+<area shape="rect" id="node21" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1756,521,1945,549"/>
+<area shape="rect" id="node38" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="911,1213,1090,1241"/>
+<area shape="rect" id="node39" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="1190,1540,1381,1568"/>
+<area shape="rect" id="node41" href="$dd/d93/classG4PenelopeOscillator.html#a0d5cb94d482bfebaab31e919cfdbe846" title="G4PenelopeOscillator\l::GetIonisationEnergy" alt="" coords="917,514,1085,558"/>
+<area shape="rect" id="node42" href="$dd/d93/classG4PenelopeOscillator.html#a9f6c04d49a9698c302b7e6d5df7fb4e2" title="G4PenelopeOscillator\l::GetCutoffRecoilResonantEnergy" alt="" coords="877,582,1124,626"/>
+</map>

@@ -1,0 +1,28 @@
+var classG4ITMultiNavigator =
+[
+    [ "G4ITMultiNavigator", "db/d5f/classG4ITMultiNavigator.html#a8661ae83dcf1f53a736781fac8d9e2f0", null ],
+    [ "~G4ITMultiNavigator", "db/d5f/classG4ITMultiNavigator.html#a8c63bb3d868d4939d4407b3fcfc07b66", null ],
+    [ "CheckMassWorld", "db/d5f/classG4ITMultiNavigator.html#a5d8c7a0218fb18d8c217b821063bd0d6", null ],
+    [ "ComputeSafety", "db/d5f/classG4ITMultiNavigator.html#ae1a94470596be1c9035a4a26fe6fc6bc", null ],
+    [ "ComputeStep", "db/d5f/classG4ITMultiNavigator.html#a2ea3547dbdbac3a5b349aae45f4211b8", null ],
+    [ "CreateTouchableHistoryHandle", "db/d5f/classG4ITMultiNavigator.html#aec32aa194a43d0bde7f6a4b70ecbe312", null ],
+    [ "GetGlobalExitNormal", "db/d5f/classG4ITMultiNavigator.html#a6ca42c2614dc2aa4066dfacb7ed67cab", null ],
+    [ "GetLocalExitNormal", "db/d5f/classG4ITMultiNavigator.html#a909c8fca7d798adada97c44d92aa3d37", null ],
+    [ "GetLocalExitNormalAndCheck", "db/d5f/classG4ITMultiNavigator.html#a89ffcef2fd676b7d8dc24be69de338c6", null ],
+    [ "GetNavigator", "db/d5f/classG4ITMultiNavigator.html#a01ae6cc9f873fe8f08de3a3f36ec5ebd", null ],
+    [ "LocateGlobalPointAndSetup", "db/d5f/classG4ITMultiNavigator.html#a74b8050ec849394901920d477ec970b5", null ],
+    [ "LocateGlobalPointWithinVolume", "db/d5f/classG4ITMultiNavigator.html#a812fad3232e6cb49e8ceb4b215bf66b9", null ],
+    [ "ObtainFinalStep", "db/d5f/classG4ITMultiNavigator.html#ade57854e1c169d475a62d9d442aaeaf1", null ],
+    [ "PrepareNavigators", "db/d5f/classG4ITMultiNavigator.html#a138961d6c24148da8f79b2e9eae952b9", null ],
+    [ "PrepareNewTrack", "db/d5f/classG4ITMultiNavigator.html#a6697004141c012a83b0d379ef22cfd72", null ],
+    [ "PrintLimited", "db/d5f/classG4ITMultiNavigator.html#af04dcf0c209ee1fbee8c1a36b94edb23", null ],
+    [ "ResetHierarchyAndLocate", "db/d5f/classG4ITMultiNavigator.html#a69c482995fa5e7202918d8ed8bf46a0a", null ],
+    [ "ResetState", "db/d5f/classG4ITMultiNavigator.html#a4fe70236c2421da0bed2f7a52b58def9", null ],
+    [ "SetupHierarchy", "db/d5f/classG4ITMultiNavigator.html#a090a0721938a9c2a2881f5ee255e747f", null ],
+    [ "WhichLimited", "db/d5f/classG4ITMultiNavigator.html#a3ad9b4697ad79d869b69771683177e82", null ],
+    [ "operator<<", "db/d5f/classG4ITMultiNavigator.html#a01d875a56fe7a996a970e982aa14346b", null ],
+    [ "fLastMassWorld", "db/d5f/classG4ITMultiNavigator.html#a7ad4745e29a456f3387e4cd6f727b57d", null ],
+    [ "fNoActiveNavigators", "db/d5f/classG4ITMultiNavigator.html#acb83a8e0b8d1967efe16f28436130917", null ],
+    [ "fpNavigator", "db/d5f/classG4ITMultiNavigator.html#ad26b2620db972e0163725f0c9b2b3438", null ],
+    [ "pTransportManager", "db/d5f/classG4ITMultiNavigator.html#aae1e3c8eb4cecee30434bc13a2ffcc11", null ]
+];

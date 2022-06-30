@@ -1,0 +1,42 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/exoticphysics/monopole/src/G4MonopolePhysics.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/exoticphysics/monopole/src/G4MonopolePhysics.cc">
+<area shape="rect" id="node2" href="$d5/d91/G4MonopolePhysics_8hh.html" title="Definition of the G4MonopolePhysics class." alt="" coords="1801,129,1979,157"/>
+<area shape="rect" id="node7" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1217,481,1395,509"/>
+<area shape="rect" id="node13" href="$dd/d7b/G4PhysicsListHelper_8hh.html" title="G4PhysicsListHelper.hh" alt="" coords="1538,289,1717,317"/>
+<area shape="rect" id="node14" href="$d4/d57/G4MonopolePhysicsMessenger_8hh.html" title="Definition of the G4MonopolePhysicsMessenger class." alt="" coords="309,481,559,509"/>
+<area shape="rect" id="node16" href="$d4/de1/G4Monopole_8hh.html" title="Definition of the G4Monopole class." alt="" coords="575,373,703,401"/>
+<area shape="rect" id="node17" href="$dc/d5e/G4ProcessManager_8hh.html" title="G4ProcessManager.hh" alt="" coords="1173,373,1343,401"/>
+<area shape="rect" id="node19" href="$d5/dd6/G4ProcessVector_8hh.html" title="G4ProcessVector.hh" alt="" coords="1470,481,1625,509"/>
+<area shape="rect" id="node22" href="$db/db8/G4StepLimiter_8hh.html" title="G4StepLimiter.hh" alt="" coords="2599,373,2738,401"/>
+<area shape="rect" id="node23" href="$df/d75/G4Transportation_8hh.html" title="G4Transportation.hh" alt="" coords="3603,373,3761,401"/>
+<area shape="rect" id="node35" href="$dd/d62/G4MonopoleTransportation_8hh.html" title="Definition of the G4MonopoleTransportation class." alt="" coords="4204,373,4429,401"/>
+<area shape="rect" id="node38" href="$d6/d8e/G4hMultipleScattering_8hh.html" title="G4hMultipleScattering.hh" alt="" coords="4371,205,4564,233"/>
+<area shape="rect" id="node40" href="$d7/ddd/G4mplIonisation_8hh.html" title="G4mplIonisation.hh" alt="" coords="2216,289,2369,317"/>
+<area shape="rect" id="node44" href="$de/dc2/G4mplIonisationWithDeltaModel_8hh.html" title="G4mplIonisationWithDelta\lModel.hh" alt="" coords="925,281,1122,325"/>
+<area shape="rect" id="node45" href="$d1/d9d/G4hhIonisation_8hh.html" title="G4hhIonisation.hh" alt="" coords="1147,289,1292,317"/>
+<area shape="rect" id="node46" href="$d0/db9/G4hIonisation_8hh.html" title="G4hIonisation.hh" alt="" coords="2025,289,2161,317"/>
+<area shape="rect" id="node49" href="$dc/ddf/G4BuilderType_8hh.html" title="G4BuilderType.hh" alt="" coords="3873,129,4013,157"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="5,205,167,233"/>
+<area shape="rect" id="node3" href="$d5/dbe/G4VPhysicsConstructor_8hh.html" title="G4VPhysicsConstructor.hh" alt="" coords="1791,205,1989,233"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2042,665,2133,693"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1971,741,2052,769"/>
+<area shape="rect" id="node6" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="1570,373,1717,401"/>
+<area shape="rect" id="node9" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="225,589,467,617"/>
+<area shape="rect" id="node11" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="1425,589,1576,617"/>
+<area shape="rect" id="node10" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="174,665,395,693"/>
+<area shape="rect" id="node15" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="542,589,691,617"/>
+<area shape="rect" id="node18" href="$d0/d85/G4VProcess_8hh.html" title="G4VProcess.hh" alt="" coords="2531,481,2652,509"/>
+<area shape="rect" id="node24" href="$d3/d88/G4FieldManager_8hh.html" title="G4FieldManager.hh" alt="" coords="3104,589,3255,617"/>
+<area shape="rect" id="node25" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="3765,589,3892,617"/>
+<area shape="rect" id="node26" href="$d1/d2e/G4TransportationManager_8hh.html" title="G4TransportationManager.hh" alt="" coords="3720,481,3937,509"/>
+<area shape="rect" id="node27" href="$dc/dd7/G4PropagatorInField_8hh.html" title="G4PropagatorInField.hh" alt="" coords="3466,481,3645,509"/>
+<area shape="rect" id="node28" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="3961,481,4059,509"/>
+<area shape="rect" id="node29" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="5005,481,5097,509"/>
+<area shape="rect" id="node30" href="$db/dfa/G4ParticleChangeForTransport_8hh.html" title="G4ParticleChangeForTransport.hh" alt="" coords="3971,589,4219,617"/>
+<area shape="rect" id="node36" href="$dd/d90/G4MonopoleFieldSetup_8hh.html" title="Definition of the G4MonopoleFieldSetup class." alt="" coords="4480,481,4679,509"/>
+<area shape="rect" id="node39" href="$d3/d4f/G4VMultipleScattering_8hh.html" title="G4VMultipleScattering.hh" alt="" coords="4739,373,4934,401"/>
+<area shape="rect" id="node41" href="$d7/d4d/G4VEnergyLossProcess_8hh.html" title="G4VEnergyLossProcess.hh" alt="" coords="2225,373,2424,401"/>
+<area shape="rect" id="node42" href="$d0/d59/G4VEmModel_8hh.html" title="G4VEmModel.hh" alt="" coords="1015,373,1149,401"/>
+<area shape="rect" id="node43" href="$d0/d82/G4VEmFluctuationModel_8hh.html" title="G4VEmFluctuationModel.hh" alt="" coords="633,481,843,509"/>
+<area shape="rect" id="node47" href="$d6/d69/G4Electron_8hh.html" title="G4Electron.hh" alt="" coords="1842,373,1959,401"/>
+<area shape="rect" id="node48" href="$d9/d5f/G4Positron_8hh.html" title="G4Positron.hh" alt="" coords="2035,373,2151,401"/>
+</map>

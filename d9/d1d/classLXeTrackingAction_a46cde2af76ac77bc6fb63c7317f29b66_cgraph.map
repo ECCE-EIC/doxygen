@@ -1,0 +1,26 @@
+<map id="LXeTrackingAction::PostUserTrackingAction" name="LXeTrackingAction::PostUserTrackingAction">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#a2c8d2111396ecf361264de9888fca358" title="G4Track::GetCreatorProcess" alt="" coords="249,5,459,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="267,57,441,85"/>
+<area shape="rect" id="node4" href="$d5/d4b/classLXeUserTrackInformation.html#a4ab7902475f6f0ff6fe03749fd783ae3" title="LXeUserTrackInformation\l::GetForceDrawTrajectory" alt="" coords="258,109,450,153"/>
+<area shape="rect" id="node5" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="242,177,466,205"/>
+<area shape="rect" id="node6" href="$da/d38/classLXeDetectorConstruction.html#a299450cb4c4d18b7f17f73e178171c52" title="LXeDetectorConstruction\l::GetSphereOn" alt="" coords="259,229,449,273"/>
+<area shape="rect" id="node7" href="$d5/d4b/classLXeUserTrackInformation.html#a90a0eeedd7b630306c1d906e13c0a180" title="LXeUserTrackInformation\l::GetTrackStatus" alt="" coords="259,297,449,341"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="245,365,463,393"/>
+<area shape="rect" id="node9" href="$dd/d71/classG4TrackingManager.html#abacd05e134163ee8527b92b23a7dae56" title="G4TrackingManager::\lGimmeTrajectory" alt="" coords="272,417,436,461"/>
+<area shape="rect" id="node10" href="$d9/d8f/classG4OpticalPhoton.html#aeb0ed88b098ae013f33cb7da36281183" title="G4OpticalPhoton::Optical\lPhotonDefinition" alt="" coords="258,485,450,529"/>
+<area shape="rect" id="node24" href="$d5/da8/classLXeTrajectory.html#a63852e49dc18b98e5b9a6d1e7d101f69" title="LXeTrajectory::SetDrawTrajectory" alt="" coords="232,553,476,581"/>
+<area shape="rect" id="node25" href="$d5/da8/classLXeTrajectory.html#acd8a4e72ff848bd17f3a0fb099e14a39" title="LXeTrajectory::WLS" alt="" coords="279,605,429,633"/>
+<area shape="rect" id="node11" href="$d9/d8f/classG4OpticalPhoton.html#ad5f9dee90e3534015eb1904836b08edd" title="G4OpticalPhoton::Definition" alt="" coords="524,493,733,521"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="781,493,993,521"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="805,404,969,448"/>
+<area shape="rect" id="node18" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="783,571,991,615"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1041,441,1285,469"/>
+<area shape="rect" id="node15" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1356,489,1539,517"/>
+<area shape="rect" id="node16" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1051,545,1275,573"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1394,413,1501,441"/>
+<area shape="rect" id="node19" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1063,601,1264,645"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1370,541,1525,585"/>
+<area shape="rect" id="node21" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1359,609,1535,653"/>
+<area shape="rect" id="node22" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1359,677,1535,721"/>
+<area shape="rect" id="node23" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1333,745,1561,773"/>
+</map>

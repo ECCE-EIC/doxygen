@@ -1,0 +1,35 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB06/src/GB06ParallelWorldForSlices.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB06/src/GB06ParallelWorldForSlices.cc">
+<area shape="rect" id="node2" href="$d4/d72/GB06ParallelWorldForSlices_8hh.html" title="Definition of the GB06ParallelWorldForSlices class." alt="" coords="384,129,612,157"/>
+<area shape="rect" id="node10" href="$d1/d8f/G4Box_8hh.html" title="G4Box.hh" alt="" coords="303,205,389,233"/>
+<area shape="rect" id="node17" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="754,433,895,461"/>
+<area shape="rect" id="node25" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="1531,205,1691,233"/>
+<area shape="rect" id="node42" href="$d7/dde/G4LogicalVolumeStore_8hh.html" title="G4LogicalVolumeStore.hh" alt="" coords="1746,129,1941,157"/>
+<area shape="rect" id="node44" href="$d7/da4/G4PVPlacement_8hh.html" title="G4PVPlacement.hh" alt="" coords="514,205,663,233"/>
+<area shape="rect" id="node45" href="$da/ded/G4PVReplica_8hh.html" title="G4PVReplica.hh" alt="" coords="1367,205,1495,233"/>
+<area shape="rect" id="node46" href="$d4/d21/G4PhysicalVolumeStore_8hh.html" title="G4PhysicalVolumeStore.hh" alt="" coords="1519,129,1722,157"/>
+<area shape="rect" id="node47" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="2205,129,2367,157"/>
+<area shape="rect" id="node49" href="$dd/da9/GB06BOptrSplitAndKillByImportance_8hh.html" title="Definition of the GB06BOptrSplitAndKillByImportance class." alt="" coords="1945,205,2235,233"/>
+<area shape="rect" id="node3" href="$db/d0b/G4VUserParallelWorld_8hh.html" title="G4VUserParallelWorld.hh" alt="" coords="439,509,629,537"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="630,585,721,613"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1265,661,1365,689"/>
+<area shape="rect" id="node9" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1193,737,1251,765"/>
+<area shape="rect" id="node11" href="$d9/dbc/G4GeomTypes_8hh.html" title="G4GeomTypes.hh" alt="" coords="32,281,172,309"/>
+<area shape="rect" id="node13" href="$d8/df5/G4CSGSolid_8hh.html" title="G4CSGSolid.hh" alt="" coords="541,281,663,309"/>
+<area shape="rect" id="node20" href="$d7/dab/G4Polyhedron_8hh.html" title="G4Polyhedron.hh" alt="" coords="277,357,415,385"/>
+<area shape="rect" id="node14" href="$dc/de7/G4VSolid_8hh.html" title="G4VSolid.hh" alt="" coords="826,357,930,385"/>
+<area shape="rect" id="node16" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="570,433,679,461"/>
+<area shape="rect" id="node18" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="856,509,1065,537"/>
+<area shape="rect" id="node21" href="$d1/dba/HepPolyhedron_8h.html" title="HepPolyhedron.h" alt="" coords="229,433,365,461"/>
+<area shape="rect" id="node23" href="$d3/d27/G4Visible_8hh.html" title="G4Visible.hh" alt="" coords="85,509,191,537"/>
+<area shape="rect" id="node22" href="$d3/dd7/G4Transform3D_8hh.html" title="G4Transform3D.hh" alt="" coords="216,509,364,537"/>
+<area shape="rect" id="node26" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="1303,281,1411,309"/>
+<area shape="rect" id="node28" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="1493,357,1642,385"/>
+<area shape="rect" id="node31" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1699,509,1830,537"/>
+<area shape="rect" id="node38" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="1082,281,1258,309"/>
+<area shape="rect" id="node29" href="$d9/ddb/geomwdefs_8hh.html" title="geomwdefs.hh" alt="" coords="1403,509,1523,537"/>
+<area shape="rect" id="node30" href="$d8/d7b/G4AutoLock_8hh.html" title="G4AutoLock.hh" alt="" coords="1599,433,1722,461"/>
+<area shape="rect" id="node39" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="591,357,751,385"/>
+<area shape="rect" id="node43" href="$d3/dc4/G4VStoreNotifier_8hh.html" title="G4VStoreNotifier.hh" alt="" coords="1766,205,1921,233"/>
+<area shape="rect" id="node48" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="2310,205,2531,233"/>
+<area shape="rect" id="node50" href="$d0/d56/G4VBiasingOperator_8hh.html" title="G4VBiasingOperator.hh" alt="" coords="2057,281,2235,309"/>
+</map>

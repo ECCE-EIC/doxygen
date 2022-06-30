@@ -1,0 +1,22 @@
+<map id="Par02RunAction::BeginOfRunAction" name="Par02RunAction::BeginOfRunAction">
+<area shape="rect" id="node2" href="$db/daa/classPar02Output.html#a0441df63ea6a0e3b0ca6c626b98ea1d7" title="Par02Output::CreateHistograms" alt="" coords="269,372,507,400"/>
+<area shape="rect" id="node12" href="$d2/d10/classG4Run.html#aae09a248c0a5efb3db47b2f419625ff9" title="G4Run::GetRunID" alt="" coords="318,424,458,452"/>
+<area shape="rect" id="node13" href="$db/daa/classPar02Output.html#affa0a658be4f4df30f4c630f89140de0" title="Par02Output::Instance" alt="" coords="302,488,474,516"/>
+<area shape="rect" id="node15" href="$db/daa/classPar02Output.html#a883b4fcd41719289c9fd97ff2492a07d" title="Par02Output::StartAnalysis" alt="" coords="286,172,490,200"/>
+<area shape="rect" id="node3" href="$d8/d9b/classG4VAnalysisManager.html#a2e9965df4de74bca253a3126ce609bc7" title="G4VAnalysisManager\l::CreateH1" alt="" coords="591,397,757,441"/>
+<area shape="rect" id="node9" href="$d9/dc0/classG4ToolsAnalysisManager.html#a629081b912115346cca665f41e274c74" title="G4ToolsAnalysisManager\l::Instance" alt="" coords="579,261,769,305"/>
+<area shape="rect" id="node10" href="$d8/d9b/classG4VAnalysisManager.html#aaa84ba0678711a41dbd19926882a1af6" title="G4VAnalysisManager\l::SetH1XAxisTitle" alt="" coords="591,329,757,373"/>
+<area shape="rect" id="node11" href="$d8/d9b/classG4VAnalysisManager.html#af1c782700458ae0af073126363b2e8f1" title="G4VAnalysisManager\l::SetH1YAxisTitle" alt="" coords="591,465,757,509"/>
+<area shape="rect" id="node4" href="$d4/dcd/namespaceG4Analysis.html#a20b2b7df678c6f8231937b87b2166940" title="G4Analysis::CheckMinMax" alt="" coords="841,327,1040,355"/>
+<area shape="rect" id="node7" href="$d4/dcd/namespaceG4Analysis.html#aec5eb095e912526541925c83f1efaa72" title="G4Analysis::CheckName" alt="" coords="1097,379,1284,407"/>
+<area shape="rect" id="node8" href="$d4/dcd/namespaceG4Analysis.html#a7d6cc7ca372b13b33b1cc4d4fcef6515" title="G4Analysis::CheckNbins" alt="" coords="1098,431,1283,459"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1341,327,1448,355"/>
+<area shape="rect" id="node6" href="$d4/dcd/namespaceG4Analysis.html#a0b926bbdd3d26c2a12786e50f9501aea" title="G4Analysis::GetBinScheme" alt="" coords="1088,327,1293,355"/>
+<area shape="rect" id="node14" href="$db/daa/classPar02Output.html#aeceb4da82a4481a8bd8e97b1372dfebd" title="A default, protected constructor (due to singleton pattern)." alt="" coords="573,533,775,561"/>
+<area shape="rect" id="node16" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="555,141,793,169"/>
+<area shape="rect" id="node17" href="$d8/d9b/classG4VAnalysisManager.html#a70bc2844c95579a2bc0a0bcebf004e7d" title="G4VAnalysisManager\l::OpenFile" alt="" coords="591,73,757,117"/>
+<area shape="rect" id="node19" href="$d8/d9b/classG4VAnalysisManager.html#ad603e24f4f1b8433d0773d4f46371559" title="G4VAnalysisManager\l::SetFileName" alt="" coords="591,193,757,237"/>
+<area shape="rect" id="node20" href="$d8/d9b/classG4VAnalysisManager.html#aba42497f736d972ba217ec025a727ad6" title="G4VAnalysisManager\l::SetVerboseLevel" alt="" coords="591,5,757,49"/>
+<area shape="rect" id="node18" href="$d8/d9b/classG4VAnalysisManager.html#a5d1f6d3c406f0d736a89a804e79c5b8a" title="G4VAnalysisManager\l::OpenFileImpl" alt="" coords="858,73,1023,117"/>
+<area shape="rect" id="node21" href="$df/db3/classG4AnalysisManagerState.html#a270cfc3176df08ac514ce51d5ef75740" title="G4AnalysisManagerState\l::SetVerboseLevel" alt="" coords="845,5,1036,49"/>
+</map>

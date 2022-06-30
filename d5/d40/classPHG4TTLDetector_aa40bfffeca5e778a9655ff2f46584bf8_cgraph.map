@@ -1,0 +1,51 @@
+<map id="PHG4TTLDetector::ConstructMe" name="PHG4TTLDetector::ConstructMe">
+<area shape="rect" id="node2" href="$d5/d40/classPHG4TTLDetector.html#a4071abf01a09d23a002a8cba3bb75964" title="PHG4TTLDetector::BuildBarrelTTL" alt="" coords="295,684,543,712"/>
+<area shape="rect" id="node47" href="$d5/d40/classPHG4TTLDetector.html#adf282a7af97f1e97b53ae8dcb46b402b" title="PHG4TTLDetector::BuildForwardTTL" alt="" coords="288,924,551,952"/>
+<area shape="rect" id="node50" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="333,1197,505,1241"/>
+<area shape="rect" id="node3" href="$d5/de4/classG4Material.html#a6787765bd3b0ef535161b887e7462417" title="G4Material::AddElement" alt="" coords="631,385,817,413"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#ac3ecb8871e90b4e02b9da8b9009f43d3" title="G4Material::AddMaterial" alt="" coords="631,265,817,293"/>
+<area shape="rect" id="node21" href="$d8/d10/classG4AssemblyVolume.html#a8c8da32e91dd3feb99c5f2959c0ea69f" title="G4AssemblyVolume::AddPlaced\lVolume" alt="" coords="606,317,842,361"/>
+<area shape="rect" id="node22" href="$da/dc7/classPHG4TTLDisplayAction.html#ac510a4d0cb648b93ae7321f2849fe269" title="PHG4TTLDisplayAction\l::AddVolume" alt="" coords="637,984,811,1028"/>
+<area shape="rect" id="node23" href="$d2/d00/classG4NistManager.html#abb3a53647400f8477dfe1cae931c3e72" title="G4NistManager::FindOrBuild\lMaterial" alt="" coords="922,541,1134,585"/>
+<area shape="rect" id="node27" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="624,1240,824,1284"/>
+<area shape="rect" id="node30" href="$d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be" title="PHG4Detector::GetDetector\lMaterial" alt="" coords="619,608,829,652"/>
+<area shape="rect" id="node32" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="932,609,1124,637"/>
+<area shape="rect" id="node33" href="$de/d80/classG4Element.html#ae8df827b509589202d09d546fda96a95" title="G4Element::GetElement" alt="" coords="631,744,817,772"/>
+<area shape="rect" id="node35" href="$d8/d10/classG4AssemblyVolume.html#a1c9929a4dfade86131b8ba8557e60061" title="G4AssemblyVolume::MakeImprint" alt="" coords="599,145,849,173"/>
+<area shape="rect" id="node36" href="$d5/d40/classPHG4TTLDetector.html#aecd9cf411b391a71851dbf367788e71c" title="PHG4TTLDetector::Register\lLogicalVolume" alt="" coords="621,916,827,960"/>
+<area shape="rect" id="node38" href="$d5/d40/classPHG4TTLDetector.html#a12f737f9b176ec238fd9c76fc5241913" title="PHG4TTLDetector::Register\lPhysicalVolume" alt="" coords="621,1172,827,1216"/>
+<area shape="rect" id="node41" href="$dd/d65/classCLHEP_1_1HepRotation.html#aade1964498bb450b9d90a40977837e67" title="CLHEP::HepRotation\l::rotateX" alt="" coords="645,1052,803,1096"/>
+<area shape="rect" id="node42" href="$dd/d65/classCLHEP_1_1HepRotation.html#ad3bd2245c819d7d0062c5ad0a49d6fbe" title="CLHEP::HepRotation\l::rotateY" alt="" coords="645,197,803,241"/>
+<area shape="rect" id="node43" href="$dd/d65/classCLHEP_1_1HepRotation.html#ac60c2a08a88c544733d840a166dcb7a8" title="CLHEP::HepRotation\l::rotateZ" alt="" coords="645,540,803,584"/>
+<area shape="rect" id="node44" href="$d1/df7/classPHG4TTLSteppingAction.html#ad0928675940ee727eed8f776787b06aa" title="PHG4TTLSteppingAction\l::SetIsForwardTTL" alt="" coords="631,676,817,720"/>
+<area shape="rect" id="node45" href="$d1/df7/classPHG4TTLSteppingAction.html#a2ad7a2c6f53e480f57b02e630f51ddb6" title="PHG4TTLSteppingAction\l::SetNPhiModules" alt="" coords="631,796,817,840"/>
+<area shape="rect" id="node46" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="645,864,803,892"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#a2bbaa762349b9a4617cbc985fb0c3a08" title="G4Material::ComputeDerived\lQuantities" alt="" coords="919,421,1137,465"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1268,301,1375,329"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#ac3dead710232898aed1c79b784856028" title="G4Material::ComputeNuclear\lInterLength" alt="" coords="1212,421,1431,465"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#ac70cfa5fc8988777cd9acb1b379d6101" title="G4Material::ComputeRadiation\lLength" alt="" coords="1207,489,1436,533"/>
+<area shape="rect" id="node9" href="$d0/dbe/classG4AtomicShells.html#ae1b641e18a447a64472d179b3e07e221" title="G4AtomicShells::GetNumber\lOfFreeElectrons" alt="" coords="1213,353,1429,397"/>
+<area shape="rect" id="node6" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1550,404,1589,432"/>
+<area shape="rect" id="node7" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1536,456,1603,484"/>
+<area shape="rect" id="node12" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="973,713,1083,741"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="994,213,1062,241"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a7aba50a565ce4d53baf71d8f7a6ad212" title="G4Material::GetA" alt="" coords="959,317,1097,345"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="914,265,1142,293"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="915,5,1141,33"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1237,643,1405,671"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="897,57,1159,85"/>
+<area shape="rect" id="node20" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="989,109,1067,137"/>
+<area shape="rect" id="node13" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1233,713,1409,741"/>
+<area shape="rect" id="node24" href="$df/d8e/classG4NistMaterialBuilder.html#aa37cab6c172280b7e7f03cdf269d5436" title="G4NistMaterialBuilder\l::FindOrBuildMaterial" alt="" coords="1236,557,1407,601"/>
+<area shape="rect" id="node25" href="$df/d8e/classG4NistMaterialBuilder.html#a877f161dc07f5e08f52109221ae02e3b" title="G4NistMaterialBuilder\l::BuildNistMaterial" alt="" coords="1484,520,1655,564"/>
+<area shape="rect" id="node26" href="$df/d8e/classG4NistMaterialBuilder.html#a84be2df2dc470cbc5afd0d2a3540dac0" title="G4NistMaterialBuilder\l::FindMaterial" alt="" coords="1484,588,1655,632"/>
+<area shape="rect" id="node28" href="$d0/d12/namespaceg4zmq.html#ac0a320baaea2957915124839b1e2be53" title="g4zmq.exit" alt="" coords="979,1248,1077,1276"/>
+<area shape="rect" id="node29" href="$d8/d03/G4ecpssrBaseKxsModel_8cc.html#afca89815e8ce05521ca0a7ec9bd17385" title="print" alt="" coords="1295,1248,1348,1276"/>
+<area shape="rect" id="node31" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="937,661,1119,689"/>
+<area shape="rect" id="node34" href="$de/d80/classG4Element.html#a0bcbf2b47ad07b5b806078c46112fc6a" title="G4Element::GetName" alt="" coords="943,765,1113,793"/>
+<area shape="rect" id="node37" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="923,924,1133,952"/>
+<area shape="rect" id="node39" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="946,1176,1110,1220"/>
+<area shape="rect" id="node40" href="$dd/d4f/classG4PVPlacement.html#aee57752272cab1915adbc91e8a8cb8fb" title="G4PVPlacement::GetCopyNo" alt="" coords="921,1124,1135,1152"/>
+<area shape="rect" id="node48" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="704,1376,744,1404"/>
+<area shape="rect" id="node49" href="$d1/df7/classPHG4TTLSteppingAction.html#a8ff0ed6b1251fa95686a9f6e8d4bc725" title="PHG4TTLSteppingAction\l::SetZPositionFwd" alt="" coords="631,1308,817,1352"/>
+</map>

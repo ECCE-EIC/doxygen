@@ -1,0 +1,51 @@
+<map id="G4PhotonEvaporation::BreakUpChain" name="G4PhotonEvaporation::BreakUpChain">
+<area shape="rect" id="node2" href="$d0/dfe/classG4PhotonEvaporation.html#aa11e2d8c684ebae2c2f3798ca0976ecc" title="G4PhotonEvaporation\l::GenerateGamma" alt="" coords="271,1208,441,1252"/>
+<area shape="rect" id="node3" href="$d0/dfe/classG4PhotonEvaporation.html#a6273d6b415acf000faa57ee3df0323f1" title="G4PhotonEvaporation\l::Initialise" alt="" coords="909,311,1079,355"/>
+<area shape="rect" id="node14" href="$df/d5d/classG4Fragment.html#a955c932293c02b54b5de570150f6baab" title="G4Fragment::GetExcitation\lEnergy" alt="" coords="892,391,1096,435"/>
+<area shape="rect" id="node19" href="$df/d5d/classG4Fragment.html#a5a707b5c62397f90a097700964f9d9a4" title="G4Fragment::GetZ_asInt" alt="" coords="900,459,1088,487"/>
+<area shape="rect" id="node20" href="$df/d5d/classG4Fragment.html#af1209ab905b48c4fac6c006cd2199c70" title="G4Fragment::GetA_asInt" alt="" coords="900,923,1088,951"/>
+<area shape="rect" id="node50" href="$df/d5d/classG4Fragment.html#a4e6dc23ca1c25483c6a2939fb5c667d2" title="G4Fragment::SetNuclearPolarization" alt="" coords="223,1276,489,1304"/>
+<area shape="rect" id="node15" href="$d0/dfe/classG4PhotonEvaporation.html#a4a476738619fccf32ca09ff029036c09" title="G4PhotonEvaporation\l::InitialiseLevelManager" alt="" coords="586,711,769,755"/>
+<area shape="rect" id="node21" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="917,1071,1071,1115"/>
+<area shape="rect" id="node22" href="$df/d5d/classG4Fragment.html#abe7b189f562d2d044f4d20ab1a1673b3" title="G4Fragment::GetCreationTime" alt="" coords="563,1156,791,1184"/>
+<area shape="rect" id="node23" href="$db/dff/classG4LevelManager.html#a22d68e155c7666475dd492879b9ca578" title="G4LevelManager::NearestLevel\lIndex" alt="" coords="562,932,793,976"/>
+<area shape="rect" id="node24" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="939,975,1049,1003"/>
+<area shape="rect" id="node25" href="$db/dff/classG4LevelManager.html#a7891123d8c5b19548fcb36d473c27b97" title="G4LevelManager::NumberOf\lTransitions" alt="" coords="570,1208,785,1252"/>
+<area shape="rect" id="node26" href="$db/dff/classG4LevelManager.html#ad98c95897a5a28731d52c1a2d5e88026" title="G4LevelManager::LifeTime" alt="" coords="577,1276,778,1304"/>
+<area shape="rect" id="node27" href="$db/dff/classG4LevelManager.html#ab9b359ec0b15d18a3f2ddbf1eca76f7d" title="G4LevelManager::GetLevel" alt="" coords="576,1328,779,1356"/>
+<area shape="rect" id="node28" href="$d7/da2/classG4NucLevel.html#af3b36f9171bb5940b63f73d1aeda5f23" title="G4NucLevel::NumberOfTransitions" alt="" coords="551,1380,804,1408"/>
+<area shape="rect" id="node29" href="$db/dff/classG4LevelManager.html#aeb675bcb90f2f8c01a9333d7d5af0173" title="G4LevelManager::SpinTwo" alt="" coords="578,1000,777,1028"/>
+<area shape="rect" id="node30" href="$db/dff/classG4LevelManager.html#a0e4d5b7b0e1452cbbb3a7bef485365a1" title="G4LevelManager::Floating\lLevel" alt="" coords="579,1432,776,1476"/>
+<area shape="rect" id="node31" href="$d0/dfe/classG4PhotonEvaporation.html#a57c5d0b1785c88f559393d6cb0bdf0e4" title="G4PhotonEvaporation\l::GetEmissionProbability" alt="" coords="584,643,771,687"/>
+<area shape="rect" id="node36" href="$db/dff/classG4LevelManager.html#a227bf84a450689f24cc9ff732250b9d3" title="G4LevelManager::LevelEnergy" alt="" coords="564,1500,791,1528"/>
+<area shape="rect" id="node37" href="$df/d5d/classG4Fragment.html#a0a35f9bd3e31fb31c60393ff4ba40733" title="G4Fragment::SetFloatingLevel\lNumber" alt="" coords="565,1552,790,1596"/>
+<area shape="rect" id="node38" href="$d7/da2/classG4NucLevel.html#a8f75e3d8adae661e47db0f108422ab5e" title="G4NucLevel::SampleGammaTransition" alt="" coords="537,1620,817,1648"/>
+<area shape="rect" id="node39" href="$d7/da2/classG4NucLevel.html#a86e1dcb1715b47aeae118cc76b3a3026" title="G4NucLevel::GammaProbability" alt="" coords="559,1672,795,1700"/>
+<area shape="rect" id="node40" href="$d7/da2/classG4NucLevel.html#a79e1d62e0aac17316ee15a6dd8264fcd" title="G4NucLevel::SampleShell" alt="" coords="580,1724,775,1752"/>
+<area shape="rect" id="node41" href="$d7/da2/classG4NucLevel.html#a27271e599e236ab2fa81720fd645e206" title="G4NucLevel::Multipolarity\lRatio" alt="" coords="579,1776,775,1820"/>
+<area shape="rect" id="node42" href="$d7/da2/classG4NucLevel.html#a6a0378727d6a6eaadde5047156adf38f" title="G4NucLevel::TransitionType" alt="" coords="573,1844,781,1872"/>
+<area shape="rect" id="node43" href="$d7/da2/classG4NucLevel.html#a6092cafcd11f05420a89dd6215813c53" title="G4NucLevel::FinalExcitation\lIndex" alt="" coords="573,1896,782,1940"/>
+<area shape="rect" id="node44" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="645,1964,709,1992"/>
+<area shape="rect" id="node46" href="$df/d18/classG4GammaTransition.html#ae8a2c2f4ef8e7f8259b1f8abdd66df2d" title="G4GammaTransition::\lSampleTransition" alt="" coords="593,523,761,567"/>
+<area shape="rect" id="node47" href="$df/d5d/classG4Fragment.html#a6e10431e949f75e1bcd88e7620a9e92c" title="G4Fragment::SetCreationTime" alt="" coords="564,1104,791,1132"/>
+<area shape="rect" id="node48" href="$df/d5d/classG4Fragment.html#aed96a92fda93f6427ee1ae126988d7be" title="G4Fragment::SetSpin" alt="" coords="595,2016,760,2044"/>
+<area shape="rect" id="node49" href="$d6/ddf/classG4NuclearPolarization.html#a44525d7cff2ef431356c9b69ea22678f" title="G4NuclearPolarization\l::SetExcitationEnergy" alt="" coords="592,2068,763,2112"/>
+<area shape="rect" id="node4" href="$d8/dd6/classG4NuclearLevelData.html#a1be5028951e2d00a3eefb0ae9471bd4e" title="G4NuclearLevelData\l::GetParameters" alt="" coords="1197,5,1355,49"/>
+<area shape="rect" id="node5" href="$d1/d89/classG4DeexPrecoParameters.html#aa2c7f986a2f4d00c680f4fb6f94da9b2" title="G4DeexPrecoParameters\l::GetMinExcitation" alt="" coords="1181,73,1371,117"/>
+<area shape="rect" id="node6" href="$d1/d89/classG4DeexPrecoParameters.html#a7cb1d5eac3d34c86e43bbf60e60594de" title="G4DeexPrecoParameters\l::GetMaxLifeTime" alt="" coords="1181,141,1371,185"/>
+<area shape="rect" id="node7" href="$d1/d89/classG4DeexPrecoParameters.html#a4f4be4e3721c50d20d610c9975d0b732" title="G4DeexPrecoParameters\l::CorrelatedGamma" alt="" coords="1181,209,1371,253"/>
+<area shape="rect" id="node8" href="$d1/d89/classG4DeexPrecoParameters.html#adb88aede69f60fccf99ebe1121bfcad6" title="G4DeexPrecoParameters\l::GetInternalConversionFlag" alt="" coords="1171,277,1381,321"/>
+<area shape="rect" id="node9" href="$d1/d89/classG4DeexPrecoParameters.html#aedf5f606c6f805086a9fe8f7e0b7fca4" title="G4DeexPrecoParameters\l::GetVerbose" alt="" coords="1181,345,1371,389"/>
+<area shape="rect" id="node10" href="$df/d18/classG4GammaTransition.html#a25f523dae9b128f8cb4229450b7eb1cf" title="G4GammaTransition::\lSetPolarizationFlag" alt="" coords="1192,413,1360,457"/>
+<area shape="rect" id="node11" href="$df/d18/classG4GammaTransition.html#a645689e8bab9b774a4f24f79e0ed12eb" title="G4GammaTransition::\lSetTwoJMAX" alt="" coords="1192,481,1360,525"/>
+<area shape="rect" id="node12" href="$d1/d89/classG4DeexPrecoParameters.html#a8d6384fb5a2d7d7025d4490229a7b821" title="G4DeexPrecoParameters\l::GetTwoJMAX" alt="" coords="1181,549,1371,593"/>
+<area shape="rect" id="node13" href="$df/d18/classG4GammaTransition.html#ac44b920538129acc683252a2e7d64238" title="G4GammaTransition::\lSetVerbose" alt="" coords="1192,617,1360,661"/>
+<area shape="rect" id="node16" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="975,751,1013,779"/>
+<area shape="rect" id="node17" href="$d8/dd6/classG4NuclearLevelData.html#aaa757c26457b575f789aa8ffcc633cb7" title="G4NuclearLevelData\l::GetLevelManager" alt="" coords="1197,729,1355,773"/>
+<area shape="rect" id="node18" href="$db/dff/classG4LevelManager.html#a8efcf650082e0dd1b14d5b7b14c7db58" title="G4LevelManager::MaxLevel\lEnergy" alt="" coords="891,855,1097,899"/>
+<area shape="rect" id="node32" href="$df/d5d/classG4Fragment.html#a7ea64d8c1c7c362b10eca1d0df7d23c9" title="G4Fragment::ComputeGround\lStateMass" alt="" coords="881,631,1107,675"/>
+<area shape="rect" id="node33" href="$df/d5d/classG4Fragment.html#a33aa5fe6180d1d40bde2f03ef7836b2d" title="G4Fragment::GetGroundStateMass" alt="" coords="865,511,1123,539"/>
+<area shape="rect" id="node34" href="$d8/dd6/classG4NuclearLevelData.html#a10495b69be1343a236f86d834deecc59" title="G4NuclearLevelData\l::GetLevelDensity" alt="" coords="915,563,1073,607"/>
+<area shape="rect" id="node35" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="961,699,1027,727"/>
+<area shape="rect" id="node45" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="898,1964,1090,1992"/>
+</map>

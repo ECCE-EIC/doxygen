@@ -1,0 +1,29 @@
+<map id="G4RunManagerKernel::DumpRegion" name="G4RunManagerKernel::DumpRegion">
+<area shape="rect" id="node2" href="$de/d51/classG4RunManagerKernel.html#ab01e59d9e4a8046f6d9bdeb171709f43" title="G4RunManagerKernel\l::DumpRegion" alt="" coords="273,168,441,212"/>
+<area shape="rect" id="node3" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="789,185,1001,213"/>
+<area shape="rect" id="node11" href="$d1/d35/classG4Region.html#a5fe67a8a33513429ef5234ae0808c4e4" title="G4Region::GetFastSimulation\lManager" alt="" coords="247,288,466,332"/>
+<area shape="rect" id="node12" href="$d1/d35/classG4Region.html#a17aa3f14df1e8fcafb0b91ca25359d2a" title="G4Region::GetMaterialIterator" alt="" coords="244,356,469,384"/>
+<area shape="rect" id="node13" href="$d1/d35/classG4Region.html#a5e646e799ed5b44988e30ee5cd2fa582" title="G4Region::GetName" alt="" coords="277,408,437,436"/>
+<area shape="rect" id="node14" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="275,460,439,504"/>
+<area shape="rect" id="node15" href="$d1/d35/classG4Region.html#af4fb54713c75dee01cede9be2ff7570f" title="G4Region::GetNumberOfMaterials" alt="" coords="231,528,482,556"/>
+<area shape="rect" id="node16" href="$d1/d35/classG4Region.html#abc8bfdcf1b410824aab7048f4ddc511a" title="G4Region::GetNumberOfRoot\lVolumes" alt="" coords="247,580,467,624"/>
+<area shape="rect" id="node17" href="$d4/d1f/classG4ProductionCuts.html#a7fdc01761d45649460a87e63df2adfb5" title="G4ProductionCuts::GetProductionCut" alt="" coords="221,648,492,676"/>
+<area shape="rect" id="node18" href="$d1/d35/classG4Region.html#a02ad89e648445e18962263e7d6347530" title="G4Region::GetProductionCuts" alt="" coords="246,700,467,728"/>
+<area shape="rect" id="node19" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="261,752,452,796"/>
+<area shape="rect" id="node20" href="$d1/d35/classG4Region.html#a2df631e0efdb4caee796a858b306c3af" title="G4Region::GetRegionalStepping\lAction" alt="" coords="237,820,476,864"/>
+<area shape="rect" id="node21" href="$d1/d35/classG4Region.html#a2dda2c327f5925d9281da9456c619bf4" title="G4Region::GetRootLogical\lVolumeIterator" alt="" coords="258,888,455,932"/>
+<area shape="rect" id="node22" href="$d1/d35/classG4Region.html#a19bbc7ca6a602f8e01e73f556dd05e8e" title="G4Region::GetUserInformation" alt="" coords="243,956,471,984"/>
+<area shape="rect" id="node23" href="$d1/d35/classG4Region.html#a9724442e49684222f67f2452456c411f" title="G4Region::GetUserLimits" alt="" coords="261,1008,452,1036"/>
+<area shape="rect" id="node24" href="$d1/d35/classG4Region.html#a760d9abc6bc44dc787fb7acb3a68ea96" title="G4Region::GetWorldPhysical" alt="" coords="250,1060,463,1088"/>
+<area shape="rect" id="node25" href="$d1/d35/classG4Region.html#a9c9a57832786e62489805644cd62343b" title="G4Region::IsInMassGeometry" alt="" coords="247,1112,467,1140"/>
+<area shape="rect" id="node26" href="$d1/d35/classG4Region.html#a4f8991a5f90653fb0b48b1bb5c60c5fa" title="G4Region::IsInParallelGeometry" alt="" coords="239,1164,475,1192"/>
+<area shape="rect" id="node27" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="245,1216,469,1244"/>
+<area shape="rect" id="node28" href="$d1/d35/classG4Region.html#a65c09ca4b9210433bf9f5f7261d77bf2" title="G4Region::SetProductionCuts" alt="" coords="247,1268,467,1296"/>
+<area shape="rect" id="node4" href="$db/d69/classG4RegionStore.html#acef4d472a500f195f17d2c9d83e6f276" title="G4RegionStore::GetRegion" alt="" coords="540,133,741,161"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="842,133,949,161"/>
+<area shape="rect" id="node6" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="854,81,937,109"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1049,5,1265,49"/>
+<area shape="rect" id="node8" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1051,73,1263,117"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1052,141,1263,185"/>
+<area shape="rect" id="node10" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1313,141,1481,185"/>
+</map>

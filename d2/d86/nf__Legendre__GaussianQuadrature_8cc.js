@@ -1,0 +1,26 @@
+var nf__Legendre__GaussianQuadrature_8cc =
+[
+    [ "nf_Legendre_GaussianQuadrature_degree", "da/d76/structnf__Legendre__GaussianQuadrature__degree.html", "da/d76/structnf__Legendre__GaussianQuadrature__degree" ],
+    [ "n_10", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a057ffaeda36e0d7ebe04337737eb0b72", null ],
+    [ "n_20", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a9cbc8e9d845c337ea7dafa8336d82eb5", null ],
+    [ "n_3", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a1d55ccf895c2a99670dd3daef8403d22", null ],
+    [ "n_4", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a9cc23124c0525004b7f177c6397d5e1b", null ],
+    [ "n_40", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a822ba110c60219466baca42f92b054e8", null ],
+    [ "n_5", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a02468e7ee6610cff72d9ed9b63d0184d", null ],
+    [ "nSets", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a86aa817194a7c8ed9cd20f0eb87431bb", null ],
+    [ "nf_Legendre_GaussianQuadrature", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#ae4d89e82d7f4f3110fca4e9157351866", null ],
+    [ "GaussianQuadrature_degrees", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#ad99be70addea94adc2b7f4ce4a0ae898", null ],
+    [ "sqrt_inv3", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a779bf5caa1d2281e8c2db372552d5c19", null ],
+    [ "weights_10", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a0b70324305b54ccba5f58c162c0a11c7", null ],
+    [ "weights_20", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#abc715f6ad3b63a06453392027b209944", null ],
+    [ "weights_3", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a7ae40b31ea7b4f007853f4166ae47bbf", null ],
+    [ "weights_4", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a1f1579b821e9bd8a2d031a0f679f84f4", null ],
+    [ "weights_40", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#adf094aec9c57828ac4a2b95bb83e695e", null ],
+    [ "weights_5", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a38fa9797d4b6ea6769fb0393be290806", null ],
+    [ "xis_10", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#af23b4a731e08c442c97f996744716e37", null ],
+    [ "xis_20", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a7d4a266f451a59503f4c4249306c382e", null ],
+    [ "xis_3", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a7070cd9786b8754a2d9bf8a90e6548f6", null ],
+    [ "xis_4", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a3121d839daeb1ce84c190b13a869628c", null ],
+    [ "xis_40", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a126f733b493ec7e7b92f43fd29e78b63", null ],
+    [ "xis_5", "d2/d86/nf__Legendre__GaussianQuadrature_8cc.html#a4bf78432c784b56e46853206557a41f0", null ]
+];

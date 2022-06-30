@@ -1,0 +1,22 @@
+<map id="G4RunManagerKernel::G4RunManagerKernel" name="G4RunManagerKernel::G4RunManagerKernel">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1137,260,1244,288"/>
+<area shape="rect" id="node3" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="533,88,745,116"/>
+<area shape="rect" id="node4" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="251,192,441,236"/>
+<area shape="rect" id="node5" href="$db/d69/classG4RegionStore.html#acef4d472a500f195f17d2c9d83e6f276" title="G4RegionStore::GetRegion" alt="" coords="245,140,447,168"/>
+<area shape="rect" id="node11" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="245,312,447,356"/>
+<area shape="rect" id="node14" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="245,380,447,424"/>
+<area shape="rect" id="node17" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1080,432,1301,460"/>
+<area shape="rect" id="node19" href="$d8/d21/G4FPEDetection_8hh.html#acdde1f40e2d68917d272cc63e04750ec" title="InvalidOperationDetection" alt="" coords="247,517,445,545"/>
+<area shape="rect" id="node20" href="$de/dd6/classG4StateManager.html#ad90d4deb9f4852c06142ee8499a9968b" title="G4StateManager::SetNewState" alt="" coords="231,569,461,597"/>
+<area shape="rect" id="node21" href="$d1/d35/classG4Region.html#a65c09ca4b9210433bf9f5f7261d77bf2" title="G4Region::SetProductionCuts" alt="" coords="236,621,456,649"/>
+<area shape="rect" id="node6" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="597,140,680,168"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="816,73,1032,117"/>
+<area shape="rect" id="node8" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="818,141,1030,185"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="819,5,1029,49"/>
+<area shape="rect" id="node10" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1107,5,1275,49"/>
+<area shape="rect" id="node12" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="509,312,768,340"/>
+<area shape="rect" id="node13" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="853,312,995,340"/>
+<area shape="rect" id="node15" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="533,364,745,408"/>
+<area shape="rect" id="node16" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="829,364,1019,408"/>
+<area shape="rect" id="node18" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1087,372,1294,400"/>
+</map>

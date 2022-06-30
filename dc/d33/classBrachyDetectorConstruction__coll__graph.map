@@ -1,0 +1,40 @@
+<map id="BrachyDetectorConstruction" name="BrachyDetectorConstruction">
+<area shape="rect" id="node47" href="$d5/dcb/classBrachyDetectorMessenger.html" title="BrachyDetectorMessenger" alt="" coords="3648,112,3849,140"/>
+<area shape="rect" id="node2" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="1479,96,1703,124"/>
+<area shape="rect" id="node4" href="$d6/dfb/classG4VUserParallelWorld.html" title="G4VUserParallelWorld" alt="" coords="385,96,553,124"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="144,1124,224,1152"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="1313,697,1407,725"/>
+<area shape="rect" id="node25" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="2908,1440,3063,1468"/>
+<area shape="rect" id="node29" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="2571,1084,2709,1112"/>
+<area shape="rect" id="node30" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="3663,1075,3834,1103"/>
+<area shape="rect" id="node31" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="653,1595,755,1623"/>
+<area shape="rect" id="node32" href="$d5/d11/classG4VReadOutGeometry.html" title="G4VReadOutGeometry" alt="" coords="3259,1492,3435,1520"/>
+<area shape="rect" id="node38" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="1787,996,1870,1024"/>
+<area shape="rect" id="node41" href="$d9/d11/classG4UserLimits.html" title="G4UserLimits" alt="" coords="2197,1188,2309,1216"/>
+<area shape="rect" id="node42" href="$d1/d35/classG4Region.html" title="G4Region" alt="" coords="3304,1197,3391,1225"/>
+<area shape="rect" id="node48" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="3282,57,3413,85"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="5,1124,95,1152"/>
+<area shape="rect" id="node7" href="$d7/dca/classBrachyFactory.html" title="BrachyFactory" alt="" coords="2927,811,3044,839"/>
+<area shape="rect" id="node9" href="$d2/d52/classG4SandiaTable.html" title="G4SandiaTable" alt="" coords="1767,301,1890,329"/>
+<area shape="rect" id="node19" href="$d6/d69/classG4IonisParamMat.html" title="G4IonisParamMat" alt="" coords="2183,604,2323,632"/>
+<area shape="rect" id="node20" href="$d7/d18/classG4DensityEffectCalculator.html" title="G4DensityEffectCalculator" alt="" coords="1729,643,1929,671"/>
+<area shape="rect" id="node24" href="$d8/d67/classBrachyMaterial.html" title="BrachyMaterial" alt="" coords="2391,571,2513,599"/>
+<area shape="rect" id="node36" href="$d5/db4/classG4LVData.html" title="G4LVData" alt="" coords="2210,811,2297,839"/>
+<area shape="rect" id="node37" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="1743,944,1915,972"/>
+<area shape="rect" id="node11" href="$d9/d56/classG4OrderedTable.html" title="G4OrderedTable" alt="" coords="1295,268,1425,296"/>
+<area shape="rect" id="node13" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="841,463,1040,491"/>
+<area shape="rect" id="node21" href="$d2/d38/classG4DensityEffectData.html" title="G4DensityEffectData" alt="" coords="1076,248,1239,276"/>
+<area shape="rect" id="node33" href="$df/d6f/classG4CollectionNameVector.html" title="G4CollectionNameVector" alt="" coords="1955,152,2145,180"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="875,697,1007,725"/>
+<area shape="rect" id="node26" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="2595,1447,2685,1475"/>
+<area shape="rect" id="node27" href="$dd/d65/classCLHEP_1_1HepRotation.html" title="CLHEP::HepRotation" alt="" coords="2175,1447,2332,1475"/>
+<area shape="rect" id="node28" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="2169,1292,2337,1320"/>
+<area shape="rect" id="node34" href="$d0/dcf/classG4SmartVoxelHeader.html" title="G4SmartVoxelHeader" alt="" coords="2169,1136,2337,1164"/>
+<area shape="rect" id="node45" href="$df/d71/classG4CSGSolid.html" title="G4CSGSolid" alt="" coords="2203,707,2304,735"/>
+<area shape="rect" id="node39" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="1763,1048,1895,1076"/>
+<area shape="rect" id="node40" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="2190,1019,2317,1047"/>
+<area shape="rect" id="node44" href="$d0/d5a/classG4Box.html" title="G4Box" alt="" coords="2777,701,2844,729"/>
+<area shape="rect" id="node46" href="$df/d2b/classG4Polyhedron.html" title="G4Polyhedron" alt="" coords="1771,249,1887,277"/>
+<area shape="rect" id="node49" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="2928,93,3043,121"/>
+<area shape="rect" id="node50" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="3266,5,3429,33"/>
+</map>

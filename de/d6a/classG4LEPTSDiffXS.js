@@ -1,0 +1,27 @@
+var classG4LEPTSDiffXS =
+[
+    [ "G4LEPTSDiffXS", "de/d6a/classG4LEPTSDiffXS.html#ab2d0cd55f5bc799ba49665114f533b11", null ],
+    [ "BuildCDXS", "de/d6a/classG4LEPTSDiffXS.html#a696f699e6088198d5570e4433eb0049f", null ],
+    [ "BuildCDXS", "de/d6a/classG4LEPTSDiffXS.html#a4a89cf5ef7e2669f2e331deb284e574f", null ],
+    [ "InterpolateCDXS", "de/d6a/classG4LEPTSDiffXS.html#a145ed0fcccbc34bf31b4d4ef3416491c", null ],
+    [ "IsFileFound", "de/d6a/classG4LEPTSDiffXS.html#a30437f15261a1f674293721f371f11e4", null ],
+    [ "NormalizeCDXS", "de/d6a/classG4LEPTSDiffXS.html#ac6c4c6bf252443190bdc7a9545ded812", null ],
+    [ "PrintDXS", "de/d6a/classG4LEPTSDiffXS.html#a60e8c08617d7251c86bfdd6e74aa27d7", null ],
+    [ "readDXS", "de/d6a/classG4LEPTSDiffXS.html#a6717be6c0dc8ba80ef78267d0fdd1139", null ],
+    [ "SampleAngle", "de/d6a/classG4LEPTSDiffXS.html#ae92b2d1d5512bc7e64e66d2b8145830f", null ],
+    [ "SampleAngleEthylene", "de/d6a/classG4LEPTSDiffXS.html#a071276a806ba72713a73fb5862dfd3be", null ],
+    [ "SampleAngleMT", "de/d6a/classG4LEPTSDiffXS.html#ab2183d457cd796b16a100641d0fd69f6", null ],
+    [ "bFileFound", "de/d6a/classG4LEPTSDiffXS.html#a199e5af7c31cbddb3fd94a3a0dd0e746", null ],
+    [ "CDXS", "de/d6a/classG4LEPTSDiffXS.html#a196f12a0233a95c8f05bdce5733379e2", null ],
+    [ "DXS", "de/d6a/classG4LEPTSDiffXS.html#a5c6ba9e7e77123b6f9c97f12d4e357bd", null ],
+    [ "DXSType", "de/d6a/classG4LEPTSDiffXS.html#ab583660ee16348181da966b17059a9a8", null ],
+    [ "DXSTypeName", "de/d6a/classG4LEPTSDiffXS.html#ace3a055106e68babe5298c44feba5384", null ],
+    [ "Eb", "de/d6a/classG4LEPTSDiffXS.html#af205fa74e0846b9507ded40d1c2ed0e4", null ],
+    [ "fileName", "de/d6a/classG4LEPTSDiffXS.html#add242861ee392249124e265096b11690", null ],
+    [ "ICDXS", "de/d6a/classG4LEPTSDiffXS.html#a6561264bf119e5e695cc9a37ce44aacd", null ],
+    [ "IKT", "de/d6a/classG4LEPTSDiffXS.html#a7ef7275dcda6bc721581ffceec7090a1", null ],
+    [ "INumAng", "de/d6a/classG4LEPTSDiffXS.html#a53794fd725d7a2eb98853a8803372f96", null ],
+    [ "KT", "de/d6a/classG4LEPTSDiffXS.html#ad23e232b300a3a380eca5b0c5756f725", null ],
+    [ "NumAng", "de/d6a/classG4LEPTSDiffXS.html#ab6011994f92c61556fccd9ce8e620ab9", null ],
+    [ "NumEn", "de/d6a/classG4LEPTSDiffXS.html#ab712cf0ebd94fe1f715347a8da5afec3", null ]
+];

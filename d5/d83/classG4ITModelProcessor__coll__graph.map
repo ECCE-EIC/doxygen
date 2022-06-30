@@ -1,0 +1,38 @@
+<map id="G4ITModelProcessor" name="G4ITModelProcessor">
+<area shape="rect" id="node4" href="$d5/dd8/classG4ITReactionChange.html" title="G4ITReactionChange" alt="" coords="2739,105,2901,133"/>
+<area shape="rect" id="node6" href="$de/d83/classG4VITStepModel.html" title="G4VITStepModel" alt="" coords="3261,310,3394,338"/>
+<area shape="rect" id="node7" href="$de/deb/classG4ITReactionTable.html" title="G4ITReactionTable" alt="" coords="2747,157,2893,185"/>
+<area shape="rect" id="node8" href="$da/def/structG4ITType.html" title="G4ITType" alt="" coords="2779,209,2861,237"/>
+<area shape="rect" id="node10" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="341,369,421,397"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="764,177,859,205"/>
+<area shape="rect" id="node23" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="761,525,862,553"/>
+<area shape="rect" id="node26" href="$df/de2/classG4VUserTrackInformation.html" title="G4VUserTrackInformation" alt="" coords="715,433,908,461"/>
+<area shape="rect" id="node29" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="742,577,881,605"/>
+<area shape="rect" id="node12" href="$d0/d1d/classG4ITTrackingManager.html" title="G4ITTrackingManager" alt="" coords="2991,946,3161,974"/>
+<area shape="rect" id="node13" href="$d4/d3b/classG4ITTrackingInteractivity.html" title="G4ITTrackingInteractivity" alt="" coords="2297,947,2486,975"/>
+<area shape="rect" id="node14" href="$da/df0/classG4VITSteppingVerbose.html" title="G4VITSteppingVerbose" alt="" coords="1927,913,2104,941"/>
+<area shape="rect" id="node15" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="1609,817,1681,845"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="1241,663,1317,691"/>
+<area shape="rect" id="node39" href="$db/d48/classG4FastListNode.html" title="G4FastListNode\&lt; G4Track \&gt;" alt="" coords="1540,613,1751,641"/>
+<area shape="rect" id="node18" href="$d2/d52/classG4SandiaTable.html" title="G4SandiaTable" alt="" coords="1217,29,1340,57"/>
+<area shape="rect" id="node21" href="$d6/d69/classG4IonisParamMat.html" title="G4IonisParamMat" alt="" coords="1209,130,1349,158"/>
+<area shape="rect" id="node20" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="281,162,480,190"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="5,353,137,381"/>
+<area shape="rect" id="node24" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="305,473,457,501"/>
+<area shape="rect" id="node25" href="$dc/d99/classG4PhysicsOrderedFreeVector.html" title="G4PhysicsOrderedFreeVector" alt="" coords="703,381,920,409"/>
+<area shape="rect" id="node27" href="$d7/d5c/classG4DynamicParticle.html" title="G4DynamicParticle" alt="" coords="737,726,886,754"/>
+<area shape="rect" id="node28" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="304,691,457,719"/>
+<area shape="rect" id="node30" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="705,893,918,937"/>
+<area shape="rect" id="node32" href="$d6/dcb/classG4ITModelHandler.html" title="G4ITModelHandler" alt="" coords="3673,427,3821,455"/>
+<area shape="rect" id="node34" href="$d5/df0/classG4ITModelManager.html" title="G4ITModelManager" alt="" coords="2743,449,2897,477"/>
+<area shape="rect" id="node35" href="$d6/dfd/classG4ITTrackHolder.html" title="G4ITTrackHolder" alt="" coords="3681,665,3814,693"/>
+<area shape="rect" id="node36" href="$d0/d12/classG4VITTrackHolder.html" title="G4VITTrackHolder" alt="" coords="3256,639,3399,667"/>
+<area shape="rect" id="node37" href="$d4/df2/classG4FastList.html" title="G4FastList\&lt; G4Track \&gt;" alt="" coords="1928,681,2103,709"/>
+<area shape="rect" id="node38" href="$db/d48/classG4FastListNode.html" title="G4FastListNode\&lt; G4FastList\l\&lt; G4Track \&gt; \&gt;" alt="" coords="2285,627,2497,671"/>
+<area shape="rect" id="node47" href="$d6/d0e/classPriorityList.html" title="PriorityList" alt="" coords="2553,789,2646,817"/>
+<area shape="rect" id="node43" href="$d4/df2/classG4FastList.html" title="G4FastList\&lt; G4FastList\l\&lt; G4Track \&gt; \&gt;" alt="" coords="2732,673,2908,717"/>
+<area shape="rect" id="node41" href="$d6/d52/classG4ManyFastLists.html" title="G4ManyFastLists\&lt; G4Track \&gt;" alt="" coords="3218,691,3437,719"/>
+<area shape="rect" id="node42" href="$dd/d37/classG4FastList_1_1Watcher.html" title="G4FastList\&lt; G4Track\l \&gt;::Watcher" alt="" coords="2739,605,2901,649"/>
+<area shape="rect" id="node44" title="STL class." alt="" coords="2765,553,2875,581"/>
+<area shape="rect" id="node48" href="$dd/dbb/classG4ITReactionSet.html" title="G4ITReactionSet" alt="" coords="1948,773,2083,801"/>
+</map>

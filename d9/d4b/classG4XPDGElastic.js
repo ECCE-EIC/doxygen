@@ -1,0 +1,26 @@
+var classG4XPDGElastic =
+[
+    [ "PairDoubleMap", "d9/d4b/classG4XPDGElastic.html#a61249ac8b793bf55281868869279000c", null ],
+    [ "G4XPDGElastic", "d9/d4b/classG4XPDGElastic.html#a09cc04afd80d9a2382a96b7fac1f6d41", null ],
+    [ "~G4XPDGElastic", "d9/d4b/classG4XPDGElastic.html#a2c50837deb335e4c447aa6fb0c653026", null ],
+    [ "G4XPDGElastic", "d9/d4b/classG4XPDGElastic.html#afc8f4296a0d4492732410c2839160e27", null ],
+    [ "CrossSection", "d9/d4b/classG4XPDGElastic.html#ae3c74d428452c1318d4e93c37b51b23d", null ],
+    [ "GetComponents", "d9/d4b/classG4XPDGElastic.html#a44a45b648a150943f77f3c3bad9230e4", null ],
+    [ "IsValid", "d9/d4b/classG4XPDGElastic.html#ac3b0b1230e49533ffb77917d661bdff7", null ],
+    [ "LowLimit", "d9/d4b/classG4XPDGElastic.html#a86bb08581aeb015d7ddb20b569dadfbe", null ],
+    [ "Name", "d9/d4b/classG4XPDGElastic.html#a0ff193b4afcd1088ac6b80a509ce74b5", null ],
+    [ "operator!=", "d9/d4b/classG4XPDGElastic.html#a18cff19e60a01da238a03b3436895964", null ],
+    [ "operator=", "d9/d4b/classG4XPDGElastic.html#a7ca4082bb7cb41e820a3988f6fc31992", null ],
+    [ "operator==", "d9/d4b/classG4XPDGElastic.html#a117231768dbd95d87b11943082a1b09a", null ],
+    [ "_highLimit", "d9/d4b/classG4XPDGElastic.html#a5753987ea05517856478dec3050867c8", null ],
+    [ "_lowLimit", "d9/d4b/classG4XPDGElastic.html#acc02c5a80ba063eaa0bfe19af1687ac9", null ],
+    [ "nPar", "d9/d4b/classG4XPDGElastic.html#ad2169e175a05f45685481395caf5cc22", null ],
+    [ "npbarPDGFit", "d9/d4b/classG4XPDGElastic.html#a9bcbe4c1529582d43b2ee31b8e88361b", null ],
+    [ "pKMinusPDGFit", "d9/d4b/classG4XPDGElastic.html#a0272e3a346fa610d413b5a0d9ba97fd3", null ],
+    [ "pKPlusPDGFit", "d9/d4b/classG4XPDGElastic.html#ab3f3e3d50109ce28bdd627457ff067d4", null ],
+    [ "ppbarPDGFit", "d9/d4b/classG4XPDGElastic.html#a11e008c828caa6915944e6548b77a404", null ],
+    [ "pPiMinusPDGFit", "d9/d4b/classG4XPDGElastic.html#abf3364ba5ca729c74a4bc661fcf79097", null ],
+    [ "pPiPlusPDGFit", "d9/d4b/classG4XPDGElastic.html#ad8f37ad368417e9a68ad4b0831618790", null ],
+    [ "ppPDGFit", "d9/d4b/classG4XPDGElastic.html#a5136b6d29de571bb11204ab1252a4bc7", null ],
+    [ "xMap", "d9/d4b/classG4XPDGElastic.html#a8f34f818b30f82ea490aeee635f57c9d", null ]
+];

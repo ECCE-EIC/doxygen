@@ -1,0 +1,19 @@
+<map id="G4Decay::PostStepGetPhysicalInteractionLength" name="G4Decay::PostStepGetPhysicalInteractionLength">
+<area shape="rect" id="node2" href="$d7/d5c/classG4DynamicParticle.html#a156a5de1774b99eb97d87e73ce32e15a" title="G4DynamicParticle::\lDumpInfo" alt="" coords="326,9,483,53"/>
+<area shape="rect" id="node3" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="609,5,766,49"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="579,73,796,101"/>
+<area shape="rect" id="node5" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="609,125,766,169"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#ab0ce8d7a62c3faf66df09004838c1560" title="G4Track::GetMaterial" alt="" coords="323,385,486,413"/>
+<area shape="rect" id="node7" href="$dc/deb/classG4Decay.html#a69533b2cc849ac2b1da18fb2f89c0641" title="G4Decay::GetMeanFreePath" alt="" coords="300,231,509,259"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a85a41b1ac6bc9fcbc47989b3cbe65ecb" title="G4ParticleDefinition\l::GetPDGLifeTime" alt="" coords="610,449,765,493"/>
+<area shape="rect" id="node12" href="$d7/d5c/classG4DynamicParticle.html#a91ba12f47c1d066a999409b3a5076a93" title="G4DynamicParticle::\lGetTotalMomentum" alt="" coords="609,517,766,561"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="321,437,489,465"/>
+<area shape="rect" id="node15" href="$d7/d5c/classG4DynamicParticle.html#a1f04186282b565c37ae87d647d86ab0d" title="G4DynamicParticle::\lGetPreAssignedDecayProperTime" alt="" coords="281,489,528,533"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#afb7ef91e381ab5e648d9b5c6e7ea10f0" title="G4Track::GetProperTime" alt="" coords="312,557,497,585"/>
+<area shape="rect" id="node17" href="$d2/d84/classG4VProcess.html#a4b527b40cbb63d8eeae0189001e58eb0" title="G4VProcess::SubtractNumber\lOfInteractionLengthLeft" alt="" coords="294,609,515,653"/>
+<area shape="rect" id="node8" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="609,313,766,357"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="610,381,765,425"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#ac2e3e5f93698564efb959b489099629a" title="G4ParticleDefinition\l::GetPDGStable" alt="" coords="610,193,765,237"/>
+<area shape="rect" id="node13" href="$d2/d84/classG4VProcess.html#aacb12541a23b4ad10240c295dbdc01b4" title="G4VProcess::GetVerboseLevel" alt="" coords="576,261,799,289"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="634,617,741,645"/>
+</map>

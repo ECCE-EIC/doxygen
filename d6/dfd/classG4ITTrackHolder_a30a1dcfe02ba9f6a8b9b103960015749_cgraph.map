@@ -1,0 +1,25 @@
+<map id="G4ITTrackHolder::_PushTrack" name="G4ITTrackHolder::_PushTrack">
+<area shape="rect" id="node2" href="$d6/dfd/classG4ITTrackHolder.html#a8e46b40318243f50fa8b47bb16f46c02" title="G4ITTrackHolder::AddTrackID" alt="" coords="280,5,497,33"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="335,57,442,85"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="575,109,760,137"/>
+<area shape="rect" id="node6" href="$de/dcb/classG4Scheduler.html#abf863b0b7129534f568f0a6b930b4a12" title="G4Scheduler::GetGlobalTime" alt="" coords="280,316,497,344"/>
+<area shape="rect" id="node7" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="638,161,697,189"/>
+<area shape="rect" id="node9" href="$d3/d7e/classG4IT.html#ac5a6578260b05e5acf6241640d75d9ce" title="G4IT::GetName" alt="" coords="327,368,451,396"/>
+<area shape="rect" id="node10" href="$de/dcb/classG4Scheduler.html#a3f410fb9d12cea2426758853392c1756" title="G4Scheduler::GetTimeTolerance" alt="" coords="269,420,508,448"/>
+<area shape="rect" id="node11" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="309,472,468,500"/>
+<area shape="rect" id="node12" href="$de/dcb/classG4Scheduler.html#a894c0e15931104ca11c20f3d2b6715ba" title="G4Scheduler::Instance" alt="" coords="301,524,476,552"/>
+<area shape="rect" id="node13" href="$de/dcb/classG4Scheduler.html#ae7797a46655651e0b301a12fdae178c3" title="G4Scheduler::IsRunning" alt="" coords="297,576,480,604"/>
+<area shape="rect" id="node14" href="$d6/dfd/classG4ITTrackHolder.html#ade8c5c438682a0013e8fd52b0dd92af2" title="G4ITTrackHolder::PushDelayed" alt="" coords="275,212,503,240"/>
+<area shape="rect" id="node16" href="$d6/dfd/classG4ITTrackHolder.html#a852fa37310e5a128497cbe76ac6dbabc" title="G4ITTrackHolder::PushTo" alt="" coords="295,264,482,292"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#abe610b9e6e364ffd5062a487218e32b4" title="G4Track::SetTrackID" alt="" coords="589,5,745,33"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="827,161,1044,189"/>
+<area shape="rect" id="node15" href="$d3/d7e/classG4IT.html#a317f0d14e2d6616387a61cd37526bf06" title="G4IT::GetITSubType" alt="" coords="591,213,744,241"/>
+<area shape="rect" id="node17" href="$d6/d0e/classPriorityList.html#ab64b89028b7cd1325632522ab28d6a10" title="PriorityList::PushToMainList" alt="" coords="565,265,769,293"/>
+<area shape="rect" id="node22" href="$d6/d0e/classPriorityList.html#a7e8c43b5b79e115fc5815434591d97ce" title="PriorityList::PushToList\lOfSecondaries" alt="" coords="581,369,753,413"/>
+<area shape="rect" id="node24" href="$d6/d0e/classPriorityList.html#ac5a4221d5dceba54bbfbbc7f0583947e" title="PriorityList::PushToWaitingList" alt="" coords="556,317,779,345"/>
+<area shape="rect" id="node18" href="$d6/d0e/classPriorityList.html#a617e8092f66b30b490167f17c22a4f10" title="PriorityList::NewMainList" alt="" coords="842,265,1029,293"/>
+<area shape="rect" id="node21" href="$d4/df2/classG4FastList.html#af0158a1e852427a581c354d168e5abd6" title="G4FastList::push_back" alt="" coords="849,317,1021,345"/>
+<area shape="rect" id="node19" href="$d6/d52/classG4ManyFastLists.html#a4fce5a815f15286b48ba848a56fa9784" title="G4ManyFastLists::Add" alt="" coords="1092,373,1261,401"/>
+<area shape="rect" id="node20" href="$dd/d37/classG4FastList_1_1Watcher.html#ab79be1c8feaefe5126221d05ebe1afd4" title="G4FastList::Watcher\l::Watch" alt="" coords="1099,257,1255,301"/>
+<area shape="rect" id="node23" href="$d4/df2/classG4FastList.html#ae90d68bffca4c0788d029629187eb1c0" title="G4FastList::GetListNode" alt="" coords="844,369,1027,397"/>
+</map>

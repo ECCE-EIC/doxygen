@@ -1,0 +1,28 @@
+<map id="G4Polyhedra::GetNumSide" name="G4Polyhedra::GetNumSide">
+<area shape="rect" id="node2" href="$d2/d5a/classG4Polyhedra.html#a4aca4d0596efe0d32a3f08f1f8119e11" title="G4Polyhedra::BoundingLimits" alt="" coords="280,65,501,93"/>
+<area shape="rect" id="node3" href="$d2/d5a/classG4Polyhedra.html#a8f1df9a92df7655f53e6b1e4a2ec18eb" title="G4Polyhedra::CalculateExtent" alt="" coords="575,92,799,120"/>
+<area shape="rect" id="node4" href="$d1/d78/classG4tgbVolume.html#a54dfdcc4d1e1ed8870e5298a62101c2d" title="G4tgbVolume::BuildSolidFor\lDivision" alt="" coords="285,169,497,213"/>
+<area shape="rect" id="node16" href="$df/d79/pymodG4geometry_8cc.html#a1af851d8c672cdda5516f6651e2bad57" title="export_G4Polyhedra" alt="" coords="312,237,469,265"/>
+<area shape="rect" id="node18" href="$d7/dda/classG4ParameterisationPolyhedraPhi.html#a12909bcbc5e983c63964d1e729895a14" title="G4ParameterisationPolyhedra\lPhi::G4ParameterisationPolyhedraPhi" alt="" coords="255,289,527,333"/>
+<area shape="rect" id="node19" href="$de/d7b/classG4tgbGeometryDumper.html#afc02fc6b87cfe7cd125b53b2392be207" title="G4tgbGeometryDumper\l::GetSolidParams" alt="" coords="298,357,483,401"/>
+<area shape="rect" id="node5" href="$d1/d78/classG4tgbVolume.html#a0cc2371fc97f047c9f0ac69f791fd8f7" title="G4tgbVolume::ConstructG4\lPhysVol" alt="" coords="583,169,790,213"/>
+<area shape="rect" id="node6" href="$d1/d78/classG4tgbVolume.html#a914b6aefd21c8a951b8d863b12170f61" title="G4tgbVolume::ConstructG4\lVolumes" alt="" coords="847,169,1053,213"/>
+<area shape="rect" id="node7" href="$d9/d6c/classG4tgbDetectorBuilder.html#aa7113e3f68d1d769caad5cfa89bc0244" title="G4tgbDetectorBuilder\l::ConstructDetector" alt="" coords="1119,104,1290,148"/>
+<area shape="rect" id="node15" href="$da/d27/classG4tgbDetectorConstruction.html#a7853d57e0b71d49746d04bc716d725c3" title="G4tgbDetectorConstruction\l::Construct" alt="" coords="1101,172,1308,216"/>
+<area shape="rect" id="node8" href="$db/df1/classExTGRCDetectorBuilder.html#a1ebdf86f4ee2d4d102c10e1dd5601de1" title="ExTGRCDetectorBuilder\l::ConstructDetector" alt="" coords="1403,68,1584,112"/>
+<area shape="rect" id="node10" href="$de/dd0/classG4tgbVolumeMgr.html#a93803d6bb5fccb055fae6c61d57cd701" title="G4tgbVolumeMgr::ReadAndConstruct\lDetector" alt="" coords="1356,141,1631,185"/>
+<area shape="rect" id="node9" href="$d2/df7/classExTGDetectorConstructionWithCuts.html#abf59f7df480dc283c3c0db9ff401dd01" title="ExTGDetectorConstruction\lWithCuts::Construct" alt="" coords="1679,5,1879,49"/>
+<area shape="rect" id="node11" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="1697,73,1860,117"/>
+<area shape="rect" id="node12" href="$d1/d9e/classExTGDetectorConstruction.html#ad1890aaa7d14667f91da538a415f2f6f" title="ExTGDetectorConstruction\l::Construct" alt="" coords="1679,141,1879,185"/>
+<area shape="rect" id="node13" href="$da/d45/classExTGDetectorConstructionWithCpp.html#ac70c77fdcf1806ced6b5132d801b37c5" title="ExTGDetectorConstruction\lWithCpp::Construct" alt="" coords="1679,209,1879,253"/>
+<area shape="rect" id="node14" href="$dd/d04/classExTGDetectorConstructionWithSD.html#a5c23eff76ef15a2939eb7dd855f544d1" title="ExTGDetectorConstruction\lWithSD::Construct" alt="" coords="1679,277,1879,321"/>
+<area shape="rect" id="node17" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="589,237,784,265"/>
+<area shape="rect" id="node20" href="$de/d7b/classG4tgbGeometryDumper.html#a9312bb74b948d6b760e78f366a68c5dc" title="G4tgbGeometryDumper\l::DumpPVParameterised" alt="" coords="1401,317,1586,361"/>
+<area shape="rect" id="node24" href="$de/d7b/classG4tgbGeometryDumper.html#acff4e0423a05b58a479c254339392c26" title="G4tgbGeometryDumper\l::DumpSolidParams" alt="" coords="594,411,779,455"/>
+<area shape="rect" id="node21" href="$de/d7b/classG4tgbGeometryDumper.html#a710a628dc50008e820c7665e8ebd5165" title="G4tgbGeometryDumper\l::DumpPhysVol" alt="" coords="1686,356,1871,400"/>
+<area shape="rect" id="node22" href="$de/d7b/classG4tgbGeometryDumper.html#a3776e8200bee5cc32f330e76c83dcb8b" title="G4tgbGeometryDumper\l::DumpGeometry" alt="" coords="1927,356,2112,400"/>
+<area shape="rect" id="node23" href="$db/d53/classExTGRunAction.html#a6f56565015d94fe77438f3401f02e0bd" title="ExTGRunAction::BeginOfRun\lAction" alt="" coords="2160,356,2373,400"/>
+<area shape="rect" id="node25" href="$de/d7b/classG4tgbGeometryDumper.html#aaad30eddff1d68edbc83442555d08da4" title="G4tgbGeometryDumper\l::DumpSolid" alt="" coords="857,428,1043,472"/>
+<area shape="rect" id="node26" href="$de/d7b/classG4tgbGeometryDumper.html#a162601d43fffda564dc194cc5b80062b" title="G4tgbGeometryDumper\l::DumpLogVol" alt="" coords="1112,377,1297,421"/>
+<area shape="rect" id="node27" href="$de/d7b/classG4tgbGeometryDumper.html#a76b3afcdb95afe8b989be812c62ae439" title="G4tgbGeometryDumper\l::DumpBooleanVolume" alt="" coords="1112,445,1297,489"/>
+</map>

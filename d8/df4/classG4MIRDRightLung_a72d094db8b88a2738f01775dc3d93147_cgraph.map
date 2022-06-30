@@ -1,0 +1,27 @@
+<map id="G4MIRDRightLung::Construct" name="G4MIRDRightLung::Construct">
+<area shape="rect" id="node2" href="$da/d34/classG4VSolid.html#ad79cd6032a236810a66f4c9576748b14" title="G4VSolid::GetCubicVolume" alt="" coords="298,109,502,137"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="310,161,490,189"/>
+<area shape="rect" id="node19" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="287,213,513,241"/>
+<area shape="rect" id="node20" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="318,265,482,309"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="316,333,484,361"/>
+<area shape="rect" id="node22" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="298,385,502,413"/>
+<area shape="rect" id="node23" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="361,437,439,465"/>
+<area shape="rect" id="node24" href="$dd/d65/classCLHEP_1_1HepRotation.html#ac60c2a08a88c544733d840a166dcb7a8" title="CLHEP::HepRotation\l::rotateZ" alt="" coords="321,489,479,533"/>
+<area shape="rect" id="node25" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="303,557,497,601"/>
+<area shape="rect" id="node26" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="272,625,528,653"/>
+<area shape="rect" id="node3" href="$da/d34/classG4VSolid.html#a357592589246a98729ad94c0fe9ac2ac" title="G4VSolid::EstimateCubicVolume" alt="" coords="576,109,816,137"/>
+<area shape="rect" id="node4" href="$dd/d7e/namespaceActs_1_1Test.html#a51c29a20fb018e161cb50c4c3886c981" title="Acts::Test::origin" alt="" coords="897,5,1031,33"/>
+<area shape="rect" id="node5" href="$da/d34/classG4VSolid.html#a4ed82441505459822c07079860c6c76f" title="G4VSolid::CalculateExtent" alt="" coords="864,57,1064,85"/>
+<area shape="rect" id="node6" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a52ed790cfb69e275fdf43ed0ba078867" title="epsilon" alt="" coords="929,109,999,137"/>
+<area shape="rect" id="node16" href="$d4/d14/G4QuickRand_8hh.html#a308c613707c48bab0df7deaf165da73a" title="G4QuickRand" alt="" coords="907,161,1021,189"/>
+<area shape="rect" id="node17" href="$da/d34/classG4VSolid.html#a65ec466e3542e3a700b4dc70937a2c47" title="G4VSolid::Inside" alt="" coords="898,213,1030,241"/>
+<area shape="rect" id="node7" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="1126,32,1165,60"/>
+<area shape="rect" id="node10" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#af897c249c47cdbc05d8382d8f42c08be" title="D" alt="" coords="1126,84,1165,112"/>
+<area shape="rect" id="node11" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1112,136,1179,164"/>
+<area shape="rect" id="node15" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a78a47533cb7a50cbc6a737462fe90407" title="S" alt="" coords="1126,188,1165,216"/>
+<area shape="rect" id="node8" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1302,32,1341,60"/>
+<area shape="rect" id="node9" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="1302,84,1341,112"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1239,136,1404,164"/>
+<area shape="rect" id="node14" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1227,188,1416,216"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1464,136,1652,164"/>
+</map>

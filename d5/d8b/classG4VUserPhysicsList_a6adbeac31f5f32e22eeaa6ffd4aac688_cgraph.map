@@ -1,0 +1,14 @@
+<map id="G4VUserPhysicsList::DumpCutValuesTableIfRequested" name="G4VUserPhysicsList::DumpCutValuesTableIfRequested">
+<area shape="rect" id="node2" href="$d5/dda/classG4ProductionCutsTable.html#a310a1e92d9df232b7ab18dcc1b4f98d9" title="G4ProductionCutsTable\l::DumpCouples" alt="" coords="313,176,491,220"/>
+<area shape="rect" id="node13" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="307,244,497,288"/>
+<area shape="rect" id="node3" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="595,5,767,49"/>
+<area shape="rect" id="node4" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="903,48,1075,92"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="597,244,765,272"/>
+<area shape="rect" id="node6" href="$d4/d1f/classG4ProductionCuts.html#a7fdc01761d45649460a87e63df2adfb5" title="G4ProductionCuts::GetProductionCut" alt="" coords="545,296,816,324"/>
+<area shape="rect" id="node7" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="903,116,1075,160"/>
+<area shape="rect" id="node8" href="$d5/dda/classG4ProductionCutsTable.html#a3952248887d6649470f29deb2f3b6b98" title="G4ProductionCutsTable\l::IsCoupleUsedInTheRegion" alt="" coords="578,176,783,220"/>
+<area shape="rect" id="node12" href="$d9/dc9/classG4MaterialCutsCouple.html#a25120fa130f3ce41a1a1c06e14e55076" title="G4MaterialCutsCouple\l::IsUsed" alt="" coords="595,348,767,392"/>
+<area shape="rect" id="node9" href="$d1/d35/classG4Region.html#a17aa3f14df1e8fcafb0b91ca25359d2a" title="G4Region::GetMaterialIterator" alt="" coords="877,184,1102,212"/>
+<area shape="rect" id="node10" href="$d1/d35/classG4Region.html#af4fb54713c75dee01cede9be2ff7570f" title="G4Region::GetNumberOfMaterials" alt="" coords="864,236,1115,264"/>
+<area shape="rect" id="node11" href="$d1/d35/classG4Region.html#a02ad89e648445e18962263e7d6347530" title="G4Region::GetProductionCuts" alt="" coords="879,288,1100,316"/>
+</map>

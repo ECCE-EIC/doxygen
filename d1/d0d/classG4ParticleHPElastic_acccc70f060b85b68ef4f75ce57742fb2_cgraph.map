@@ -1,0 +1,35 @@
+<map id="G4ParticleHPElastic::ApplyYourself" name="G4ParticleHPElastic::ApplyYourself">
+<area shape="rect" id="node2" href="$de/ddf/classG4ParticleHPManager.html#ad764d4514ebfc66cfa5add2fca39acf2" title="G4ParticleHPManager\l::CloseReactionWhiteBoard" alt="" coords="234,107,438,151"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="243,243,429,271"/>
+<area shape="rect" id="node11" href="$de/d80/classG4Element.html#a057a1bd738df9f6245f6a38701740eb0" title="G4Element::GetElementTable" alt="" coords="226,295,446,323"/>
+<area shape="rect" id="node12" href="$de/d80/classG4Element.html#a94eb59b38b9a39e1970420381380ee77" title="G4Element::GetIndex" alt="" coords="253,347,419,375"/>
+<area shape="rect" id="node13" href="$de/ddf/classG4ParticleHPManager.html#acc235813e5f7dedeeac826d9c8376f49" title="G4ParticleHPManager\l::GetInstance" alt="" coords="252,399,420,443"/>
+<area shape="rect" id="node14" href="$de/d80/classG4Element.html#a234032e9239515c70a4637535cbe46ed" title="G4Element::GetIsotope" alt="" coords="247,467,425,495"/>
+<area shape="rect" id="node15" href="$da/d11/classG4HadProjectile.html#adcb639abe6e543c39965c4f9b82d1e26" title="G4HadProjectile::GetMaterial" alt="" coords="227,519,445,547"/>
+<area shape="rect" id="node16" href="$d8/d66/classG4Isotope.html#ab76a4582cdd212ce4ccda3b5d373a21b" title="G4Isotope::GetN" alt="" coords="574,571,706,599"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="205,675,467,703"/>
+<area shape="rect" id="node18" href="$de/d80/classG4Element.html#a8db620c908d7ef03465ebcd094d9af1a" title="G4Element::GetNumberOfIsotopes" alt="" coords="208,727,464,755"/>
+<area shape="rect" id="node19" href="$de/ddf/classG4ParticleHPManager.html#afb47f88239092a899047f8f2c5487f3b" title="G4ParticleHPManager\l::GetReactionWhiteBoard" alt="" coords="240,39,432,83"/>
+<area shape="rect" id="node21" href="$d8/dbe/classG4ParticleHPReactionWhiteBoard.html#a20e233f55993702696291354025b2142" title="G4ParticleHPReactionWhite\lBoard::GetTargA" alt="" coords="233,779,439,823"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#a9c66e8742ee9e8491a269df8bef35687" title="G4Material::GetTemperature" alt="" coords="229,847,443,875"/>
+<area shape="rect" id="node23" href="$d0/df8/classG4ParticleHPThermalBoost.html#a48cf0f6a970921a5564d10ce9fd0cd86" title="G4ParticleHPThermalBoost\l::GetThermalEnergy" alt="" coords="235,899,437,943"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="221,967,451,1011"/>
+<area shape="rect" id="node27" href="$de/ddf/classG4ParticleHPManager.html#aef933e58dc03526c70d86be1524c8447" title="G4ParticleHPManager\l::OpenReactionWhiteBoard" alt="" coords="234,175,438,219"/>
+<area shape="rect" id="node29" href="$d3/dc0/classG4Nucleus.html#ac30f709f69a50f3ced7d54a1e4950734" title="G4Nucleus::SetIsotope" alt="" coords="249,623,423,651"/>
+<area shape="rect" id="node31" href="$d3/dc0/classG4Nucleus.html#aaf241fe2b5f97b8c060bdae257b24ea7" title="G4Nucleus::SetParameters" alt="" coords="235,1035,437,1063"/>
+<area shape="rect" id="node34" href="$dd/d4a/classG4HadFinalState.html#a3c625ad6d42b3e9533024bc0e7f355c7" title="G4HadFinalState::SetStatus\lChange" alt="" coords="231,1087,441,1131"/>
+<area shape="rect" id="node3" href="$d1/db9/classG4ParticleHPThreadLocalManager.html#a36e2834edeb31f7c3daa88d9996d2282" title="G4ParticleHPThreadLocalManager\l::GetInstance" alt="" coords="515,73,765,117"/>
+<area shape="rect" id="node9" href="$d1/db9/classG4ParticleHPThreadLocalManager.html#a3568826a75d647991248c943802ccd48" title="G4ParticleHPThreadLocalManager\l::CloseReactionWhiteBoard" alt="" coords="515,141,765,185"/>
+<area shape="rect" id="node4" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="813,73,1000,117"/>
+<area shape="rect" id="node5" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1081,29,1197,57"/>
+<area shape="rect" id="node6" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1082,81,1195,109"/>
+<area shape="rect" id="node7" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1048,133,1229,161"/>
+<area shape="rect" id="node8" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1277,125,1464,169"/>
+<area shape="rect" id="node20" href="$d1/db9/classG4ParticleHPThreadLocalManager.html#ad3fcae141d104f25e3fd8ca9d4b742a2" title="G4ParticleHPThreadLocalManager\l::GetReactionWhiteBoard" alt="" coords="515,5,765,49"/>
+<area shape="rect" id="node24" href="$de/d80/classG4Element.html#afdbaa23cf1c2da3acded8de288eab5d8" title="G4Element::GetN" alt="" coords="571,881,709,909"/>
+<area shape="rect" id="node25" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="571,933,709,961"/>
+<area shape="rect" id="node28" href="$d1/db9/classG4ParticleHPThreadLocalManager.html#a46428882b72c9669e2a814ff4fcdbc4b" title="G4ParticleHPThreadLocalManager\l::OpenReactionWhiteBoard" alt="" coords="515,209,765,253"/>
+<area shape="rect" id="node30" href="$d8/d66/classG4Isotope.html#a288db701d3b8fbd9b155ac9d3b146207" title="G4Isotope::GetZ" alt="" coords="574,623,706,651"/>
+<area shape="rect" id="node32" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="621,1023,659,1051"/>
+<area shape="rect" id="node33" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="606,1075,674,1103"/>
+</map>

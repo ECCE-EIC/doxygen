@@ -1,0 +1,17 @@
+<map id="G4StatMFParameters::GetKappaCoulomb" name="G4StatMFParameters::GetKappaCoulomb">
+<area shape="rect" id="node2" href="$de/d75/classG4StatMFMacroTemperature.html#a6f86efffe57f6c61e3665dd851e2f289" title="G4StatMFMacroTemperature\l::FragsExcitEnergy" alt="" coords="217,5,431,49"/>
+<area shape="rect" id="node8" href="$d6/dc9/classG4StatMFMicroPartition.html#a21ff49c990c5ca1a39e21ce7248829ac" title="G4StatMFMicroPartition\l::GetCoulombEnergy" alt="" coords="235,73,413,117"/>
+<area shape="rect" id="node9" href="$d6/dc9/classG4StatMFMicroPartition.html#ae7873b73861ab2fbfee268cbfcfc65d7" title="G4StatMFMicroPartition\l::GetPartitionEnergy" alt="" coords="235,141,413,185"/>
+<area shape="rect" id="node14" href="$da/d4a/classG4StatMFChannel.html#ab8ab8d19ca6075687b0e5048cfba712d" title="G4StatMFChannel::SolveEq\lOfMotion" alt="" coords="221,209,427,253"/>
+<area shape="rect" id="node3" href="$de/d75/classG4StatMFMacroTemperature.html#a24e2479d23af9ec90211e64318c4886f" title="G4StatMFMacroTemperature\l::operator()" alt="" coords="479,5,692,49"/>
+<area shape="rect" id="node4" href="$de/d75/classG4StatMFMacroTemperature.html#ae7e845ddc9649b781281088e64295bd1" title="G4StatMFMacroTemperature\l::CalcTemperature" alt="" coords="757,5,970,49"/>
+<area shape="rect" id="node5" href="$d9/df6/classG4StatMFMacroCanonical.html#a13e558a68b97e13a58ef75a7a108e245" title="G4StatMFMacroCanonical\l::CalculateTemperature" alt="" coords="1035,5,1228,49"/>
+<area shape="rect" id="node6" href="$d9/df6/classG4StatMFMacroCanonical.html#a7a522e0545c34388dea939af744298a0" title="G4StatMFMacroCanonical\l::Initialize" alt="" coords="1276,5,1469,49"/>
+<area shape="rect" id="node7" href="$d9/df6/classG4StatMFMacroCanonical.html#aa5a5eb43764c4270bc30469d3f59660e" title="G4StatMFMacroCanonical\l::G4StatMFMacroCanonical" alt="" coords="1517,5,1720,49"/>
+<area shape="rect" id="node10" href="$d6/dc9/classG4StatMFMicroPartition.html#ae13cfdebb5058a5f122b93e59fcf8c28" title="G4StatMFMicroPartition\l::CalcPartitionTemperature" alt="" coords="485,141,685,185"/>
+<area shape="rect" id="node11" href="$d6/dc9/classG4StatMFMicroPartition.html#a481441cc668b998de1f30f20bdfe8b2b" title="G4StatMFMicroPartition\l::CalcPartitionProbability" alt="" coords="770,141,957,185"/>
+<area shape="rect" id="node12" href="$dd/da4/classG4StatMFMicroManager.html#af668bf807b0da6b2c7dc44c82321d567" title="G4StatMFMicroManager\l::Initialize" alt="" coords="1040,141,1223,185"/>
+<area shape="rect" id="node13" href="$dd/da4/classG4StatMFMicroManager.html#a04e78502a33ca439bf8b732311dde4a8" title="G4StatMFMicroManager\l::G4StatMFMicroManager" alt="" coords="1277,141,1469,185"/>
+<area shape="rect" id="node15" href="$da/d4a/classG4StatMFChannel.html#ae7fa9d66515ce44d4678d93bd707b9be" title="G4StatMFChannel::Coulomb\lImpulse" alt="" coords="479,209,691,253"/>
+<area shape="rect" id="node16" href="$da/d4a/classG4StatMFChannel.html#af94ae58ac89b13aa08d0505319c5a22a" title="G4StatMFChannel::GetFragments" alt="" coords="740,217,987,245"/>
+</map>

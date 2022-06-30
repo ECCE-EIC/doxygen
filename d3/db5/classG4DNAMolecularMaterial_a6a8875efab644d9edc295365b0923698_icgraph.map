@@ -1,0 +1,27 @@
+<map id="G4DNAMolecularMaterial::InitializeNumMolPerVol" name="G4DNAMolecularMaterial::InitializeNumMolPerVol">
+<area shape="rect" id="node2" href="$d3/db5/classG4DNAMolecularMaterial.html#ab4d5267869cee2deb369228b2bcb6fcd" title="G4DNAMolecularMaterial\l::Initialize" alt="" coords="243,572,432,616"/>
+<area shape="rect" id="node3" href="$d1/dc1/classG4DNAModelInterface.html#a001b616a8423d3c7f8c69a73503a6535" title="G4DNAModelInterface\l::BuildMaterialMolPerVolTable" alt="" coords="769,141,989,185"/>
+<area shape="rect" id="node5" href="$d3/db5/classG4DNAMolecularMaterial.html#a7eb1d85812d3cf6d13b3d76ffcc772ce" title="Retrieve a table of volumetric mass densities (mass per unit volume) in the G4 unit system for chosen..." alt="" coords="497,132,686,176"/>
+<area shape="rect" id="node9" href="$d3/db5/classG4DNAMolecularMaterial.html#a97d522ebb550da101803187a75a94c87" title="Retrieve a table of molecular densities (number of molecules per unit volume) in the G4 unit system f..." alt="" coords="487,504,696,548"/>
+<area shape="rect" id="node23" href="$d7/d9d/classG4DNAChampionElasticModel.html#a46afc3bad384ec2dc21755fc8e36c5c0" title="G4DNAChampionElasticModel\l::Initialise" alt="" coords="480,572,703,616"/>
+<area shape="rect" id="node24" href="$d4/d6d/classG4DNAELSEPAElasticModel.html#a499dbf466975a3fb12115bc669c6f901" title="G4DNAELSEPAElasticModel\l::Initialise" alt="" coords="489,640,693,684"/>
+<area shape="rect" id="node25" href="$d1/dbd/classG4DNAIonElasticModel.html#a19436197ad04b64b871f9c3103a7cea3" title="G4DNAIonElasticModel\l::Initialise" alt="" coords="504,708,679,752"/>
+<area shape="rect" id="node26" href="$d3/db5/classG4DNAMolecularMaterial.html#a85d8dcf0478538cd0fae2be9dcb81b06" title="G4DNAMolecularMaterial\l::Notify" alt="" coords="497,776,686,820"/>
+<area shape="rect" id="node4" href="$d1/dc1/classG4DNAModelInterface.html#a7777d73ff00288a8598fc0da86baf9b1" title="Initialise Initialise method to call all the initialise methods of the registered models..." alt="" coords="1099,141,1270,185"/>
+<area shape="rect" id="node6" href="$db/dfe/classG4DNAElectronHoleRecombination.html#af91672c536bc59fa447dcf43b0e3b7c6" title="G4DNAElectronHoleRecombination\l::FindReactant" alt="" coords="751,73,1008,117"/>
+<area shape="rect" id="node7" href="$db/dfe/classG4DNAElectronHoleRecombination.html#a5dd563508df3b89409cb54142bb8a631" title="G4DNAElectronHoleRecombination\l::GetMeanFreePath" alt="" coords="1056,73,1313,117"/>
+<area shape="rect" id="node8" href="$db/dfe/classG4DNAElectronHoleRecombination.html#aaf95c3f88d27c4cc6e57443bd2957cba" title="G4DNAElectronHoleRecombination\l::GetMeanLifeTime" alt="" coords="1056,5,1313,49"/>
+<area shape="rect" id="node10" href="$df/da7/classG4DNASecondOrderReaction.html#ac9736f06a354de436d48502d25307d91" title="G4DNASecondOrderReaction\l::BuildPhysicsTable" alt="" coords="771,345,987,389"/>
+<area shape="rect" id="node11" href="$da/d9e/classG4DNADingfelderChargeDecreaseModel.html#a80194ed25b5e9cab6127432100424a60" title="G4DNADingfelderChargeDecrease\lModel::Initialise" alt="" coords="753,413,1005,457"/>
+<area shape="rect" id="node12" href="$d6/d53/classG4DNADummyModel.html#aecec8477769e0f0c159cb8d255402a0f" title="Initialise Each model must implement an Initialize method." alt="" coords="765,481,994,509"/>
+<area shape="rect" id="node13" href="$df/da7/classG4DNADingfelderChargeIncreaseModel.html#a880d5bf255cdef057aec82b9d42429a6" title="G4DNADingfelderChargeIncrease\lModel::Initialise" alt="" coords="757,533,1002,577"/>
+<area shape="rect" id="node14" href="$d9/d5e/classG4DNABornExcitationModel1.html#a1bb1d7be7c686ce4c6e87a155790d880" title="G4DNABornExcitationModel1\l::Initialise" alt="" coords="771,601,988,645"/>
+<area shape="rect" id="node15" href="$df/d94/classG4DNABornExcitationModel2.html#a9a9ba0dec33824c86f3bcd9678ee394a" title="G4DNABornExcitationModel2\l::Initialise" alt="" coords="771,669,988,713"/>
+<area shape="rect" id="node16" href="$d4/d3a/classG4DNAMillerGreenExcitationModel.html#aa42980e8a103f1d33d41f31b1821aefc" title="G4DNAMillerGreenExcitation\lModel::Initialise" alt="" coords="772,737,987,781"/>
+<area shape="rect" id="node17" href="$d5/d93/classG4DNARuddIonisationModel.html#aed9ba4479d71e55efe262175b3d0fd92" title="G4DNARuddIonisationModel\l::Initialise" alt="" coords="774,805,985,849"/>
+<area shape="rect" id="node18" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#adb30e0111121e1e276528bf1642e58a4" title="G4DNARuddIonisationExtended\lModel::Initialise" alt="" coords="762,873,997,917"/>
+<area shape="rect" id="node19" href="$df/d79/classG4DNAEmfietzoglouExcitationModel.html#a02d1b9a8d7d3a7d826cea68b3be2423b" title="G4DNAEmfietzoglouExcitation\lModel::Initialise" alt="" coords="767,941,992,985"/>
+<area shape="rect" id="node20" href="$d9/d81/classG4DNACPA100ElasticModel.html#a8e372c358c8bbd427c7eb8381189c2af" title="G4DNACPA100ElasticModel\l::Initialise" alt="" coords="777,1009,982,1053"/>
+<area shape="rect" id="node21" href="$db/d91/classG4DNACPA100ExcitationModel.html#a6df1600bb449513d74da0225740c1872" title="G4DNACPA100ExcitationModel\l::Initialise" alt="" coords="765,209,993,253"/>
+<area shape="rect" id="node22" href="$dc/da4/classG4DNACPA100IonisationModel.html#a2ac0a7244330824e8b7e918286f3bd55" title="G4DNACPA100IonisationModel\l::Initialise" alt="" coords="766,277,993,321"/>
+</map>

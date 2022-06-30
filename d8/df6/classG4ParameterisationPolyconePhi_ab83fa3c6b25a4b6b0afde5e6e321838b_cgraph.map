@@ -1,0 +1,51 @@
+<map id="G4ParameterisationPolyconePhi::ComputeDimensions" name="G4ParameterisationPolyconePhi::ComputeDimensions">
+<area shape="rect" id="node2" href="$da/d34/classG4VSolid.html#ad94dde22758645569fca819a56a91454" title="G4VSolid::DumpInfo" alt="" coords="322,352,481,380"/>
+<area shape="rect" id="node3" href="$d9/de5/classG4Polycone.html#addec3d4fec9884c650dfda26eb7ad571" title="G4Polycone::GetOriginalParameters" alt="" coords="269,404,533,432"/>
+<area shape="rect" id="node4" href="$d9/de5/classG4Polycone.html#ad2e240b37d15af31c2d4ef02807cd263" title="G4Polycone::Reset" alt="" coords="327,456,475,484"/>
+<area shape="rect" id="node50" href="$d9/de5/classG4Polycone.html#a87eb909022e7bcc65ea1c8e2b483554e" title="G4Polycone::SetOriginalParameters" alt="" coords="270,508,533,536"/>
+<area shape="rect" id="node5" href="$d7/de5/classG4VCSGfaceted.html#ae4c567d869e5f4e93757a77ef5706240" title="G4VCSGfaceted::DeleteStuff" alt="" coords="581,431,797,459"/>
+<area shape="rect" id="node6" href="$d9/de5/classG4Polycone.html#a6a244a1b6f8e409ad6d25a2728de2903" title="G4Polycone::Create" alt="" coords="612,483,767,511"/>
+<area shape="rect" id="node7" href="$d8/d73/classG4ReduciblePolygon.html#a6816b0438f793c7c223d7e78149b196d" title="G4ReduciblePolygon\l::Amin" alt="" coords="871,47,1031,91"/>
+<area shape="rect" id="node8" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="910,115,993,143"/>
+<area shape="rect" id="node13" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="873,167,1029,195"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="898,219,1005,247"/>
+<area shape="rect" id="node15" href="$d8/d73/classG4ReduciblePolygon.html#a80f9a4c0ad59be6057668a3446f19b64" title="G4ReduciblePolygon\l::Area" alt="" coords="871,271,1031,315"/>
+<area shape="rect" id="node16" href="$d8/d73/classG4ReduciblePolygon.html#a87dad2f3b7b11ec52f82359269a3d76f" title="G4ReduciblePolygon\l::ReverseOrder" alt="" coords="871,339,1031,383"/>
+<area shape="rect" id="node17" href="$d8/d73/classG4ReduciblePolygon.html#aaf347a9fd3ae4e80bedeaefb0d722214" title="G4ReduciblePolygon\l::RemoveDuplicateVertices" alt="" coords="850,407,1053,451"/>
+<area shape="rect" id="node19" href="$d8/d73/classG4ReduciblePolygon.html#abb13e46533e35fd15ec6740ba3e39993" title="G4ReduciblePolygon\l::RemoveRedundantVertices" alt="" coords="845,475,1057,519"/>
+<area shape="rect" id="node41" href="$d8/d73/classG4ReduciblePolygon.html#ac576bf7ad38cf63fc6e087760d2b2109" title="G4ReduciblePolygon\l::CrossesItself" alt="" coords="871,543,1031,587"/>
+<area shape="rect" id="node42" href="$d8/d73/classG4ReduciblePolygon.html#af53477955efad40eecab4babe62f5ccb" title="G4ReduciblePolygon\l::NumVertices" alt="" coords="871,611,1031,655"/>
+<area shape="rect" id="node43" href="$db/dd6/classG4ReduciblePolygonIterator.html#ab42839af6155e8c76a6a19f138521bb3" title="G4ReduciblePolygonIterator\l::Begin" alt="" coords="846,679,1057,723"/>
+<area shape="rect" id="node44" href="$db/dd6/classG4ReduciblePolygonIterator.html#a0957222d53d6aa74e184af263c90a6ff" title="G4ReduciblePolygonIterator\l::GetA" alt="" coords="846,747,1057,791"/>
+<area shape="rect" id="node45" href="$db/dd6/classG4ReduciblePolygonIterator.html#a83f43ce0c0365f6837f7292d360825d6" title="G4ReduciblePolygonIterator\l::GetB" alt="" coords="846,815,1057,859"/>
+<area shape="rect" id="node46" href="$db/dd6/classG4ReduciblePolygonIterator.html#a2cff3449e59ceca42206b2f066fc7ab5" title="G4ReduciblePolygonIterator\l::Next" alt="" coords="846,883,1057,927"/>
+<area shape="rect" id="node48" href="$d8/d73/classG4ReduciblePolygon.html#a33ca125f7ad6d08837c61b6280e566a6" title="G4ReduciblePolygon\l::BisectedBy" alt="" coords="871,951,1031,995"/>
+<area shape="rect" id="node9" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1105,5,1321,49"/>
+<area shape="rect" id="node10" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1107,73,1319,117"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1108,141,1319,185"/>
+<area shape="rect" id="node12" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1369,61,1537,105"/>
+<area shape="rect" id="node18" href="$d8/d73/classG4ReduciblePolygon.html#ad7f70a733e5dd055ae07e7988eb90488" title="G4ReduciblePolygon\l::CalculateMaxMin" alt="" coords="1133,441,1293,485"/>
+<area shape="rect" id="node20" href="$d3/d14/Main__HIJING_8f.html#a9bc57b8dbe7c3e1b9db72b918a1b6bab" title="test" alt="" coords="1189,588,1237,616"/>
+<area shape="rect" id="node21" href="$db/dbb/xmlrole_8cc.html#a62f133652f0a0ae574e6e2fa4110268d" title="common" alt="" coords="1611,177,1691,205"/>
+<area shape="rect" id="node22" href="$d8/d1a/classHiMain1.html#ab11d08211b1f20f370e2830c4f815a95" title="HiMain1::eatt" alt="" coords="1594,645,1707,673"/>
+<area shape="rect" id="node23" href="$d1/dbb/hijing_8f.html#a69776a874c5857b3bcd832c1195cb0e1" title="hijing" alt="" coords="1424,640,1483,668"/>
+<area shape="rect" id="node24" href="$db/da1/classHiParnt.html#ac653b598baeeca89d06693fdf4688f38" title="HiParnt::hint1" alt="" coords="1594,229,1707,257"/>
+<area shape="rect" id="node25" href="$db/da1/classHiParnt.html#a28a5a24ec376a6790e610d7fcc0f5b8e" title="HiParnt::hipr1" alt="" coords="1594,333,1707,361"/>
+<area shape="rect" id="node26" href="$db/da1/classHiParnt.html#a0d759f134daae3226a7744c9920bd769" title="HiParnt::ihnt2" alt="" coords="1594,385,1707,413"/>
+<area shape="rect" id="node27" href="$db/da1/classHiParnt.html#a1c6a5924524a08fe9641adc64095c0b9" title="HiParnt::ihpr2" alt="" coords="1594,437,1707,465"/>
+<area shape="rect" id="node28" href="$d8/d1a/classHiMain1.html#afbd1bddd5d5ec2aa3972f82f09def4d2" title="HiMain1::jatt" alt="" coords="1597,697,1705,725"/>
+<area shape="rect" id="node29" href="$d1/d5c/classHiMain2.html#af82d580022e08e08bb16f9fb29ab24ec" title="HiMain2::katt" alt="" coords="1595,749,1707,777"/>
+<area shape="rect" id="node30" href="$d8/d1a/classHiMain1.html#afa91501b2c79bdaf9274e067b9d97e31" title="HiMain1::n0" alt="" coords="1599,801,1702,829"/>
+<area shape="rect" id="node31" href="$d8/d1a/classHiMain1.html#a6983f49998c5c55625d475fcdad69b1a" title="HiMain1::n01" alt="" coords="1595,855,1706,883"/>
+<area shape="rect" id="node32" href="$d8/d1a/classHiMain1.html#a2c3236268e98516bd1fc24c05529513f" title="HiMain1::n10" alt="" coords="1595,909,1706,937"/>
+<area shape="rect" id="node33" href="$d8/d1a/classHiMain1.html#a1fa4008c63d269214a190a93016c7df8" title="HiMain1::n11" alt="" coords="1595,965,1706,993"/>
+<area shape="rect" id="node34" href="$d8/d1a/classHiMain1.html#a712001e6d31dc0f86de82f130bbe036b" title="HiMain1::natt" alt="" coords="1594,1027,1707,1055"/>
+<area shape="rect" id="node35" href="$d8/d1a/classHiMain1.html#a676ccaef5fa9c10e945e6d1477aeb366" title="HiMain1::np" alt="" coords="1599,1096,1702,1124"/>
+<area shape="rect" id="node36" href="$d7/deb/classRanSeed.html#ada6802aa6b0d875090ac0b87d4926455" title="RanSeed::nseed" alt="" coords="1585,281,1716,309"/>
+<area shape="rect" id="node37" href="$d8/d1a/classHiMain1.html#a2a88691655a2a18605874e4338fb4807" title="HiMain1::nt" alt="" coords="1601,541,1701,569"/>
+<area shape="rect" id="node38" href="$d1/d5c/classHiMain2.html#a182e17a45601004ee5bc5357295bedd7" title="HiMain2::patt" alt="" coords="1594,593,1707,621"/>
+<area shape="rect" id="node39" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="1593,489,1709,517"/>
+<area shape="rect" id="node40" href="$db/d44/hijset_8f.html#ac1c3db71bda2dc1a77110561ebebe89a" title="hijset" alt="" coords="1424,333,1483,361"/>
+<area shape="rect" id="node47" href="$db/dd6/classG4ReduciblePolygonIterator.html#a4c30b7fa08741efa18d17ad1164c6cb8" title="G4ReduciblePolygonIterator\l::Valid" alt="" coords="1108,883,1319,927"/>
+<area shape="rect" id="node49" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1136,951,1291,995"/>
+</map>

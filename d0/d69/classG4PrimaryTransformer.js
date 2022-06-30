@@ -1,0 +1,25 @@
+var classG4PrimaryTransformer =
+[
+    [ "G4PrimaryTransformer", "d0/d69/classG4PrimaryTransformer.html#a8e9750094324e71c5b3b9fd1162001fd", null ],
+    [ "~G4PrimaryTransformer", "d0/d69/classG4PrimaryTransformer.html#a163a8f78f85809893337e33c7e729c96", null ],
+    [ "CheckDynamicParticle", "d0/d69/classG4PrimaryTransformer.html#a2d23eddefc8f45ff0a3d433316671693", null ],
+    [ "CheckUnknown", "d0/d69/classG4PrimaryTransformer.html#ac5373cf0bea99903502743942706fd2a", null ],
+    [ "GenerateSingleTrack", "d0/d69/classG4PrimaryTransformer.html#adade46f4c7af50e5818353f8b62ba54e", null ],
+    [ "GenerateTracks", "d0/d69/classG4PrimaryTransformer.html#af61d7ff514076d4727740528c1f251f9", null ],
+    [ "GetDefinition", "d0/d69/classG4PrimaryTransformer.html#a93c442c97016ab641e60cc2aa184c1c6", null ],
+    [ "GetUnknownParticleDefined", "d0/d69/classG4PrimaryTransformer.html#a030124dc508da05d30f02a5262ec22f2", null ],
+    [ "GimmePrimaries", "d0/d69/classG4PrimaryTransformer.html#ad9781acfb1ac42139665268a4f099722", null ],
+    [ "IsGoodForTrack", "d0/d69/classG4PrimaryTransformer.html#ab78e829b9b98dd9b98694642333d1760", null ],
+    [ "SetDecayProducts", "d0/d69/classG4PrimaryTransformer.html#ace1b25be9eb4db5043ba6bc83ec19951", null ],
+    [ "SetUnknnownParticleDefined", "d0/d69/classG4PrimaryTransformer.html#a3b0f88b65b325042612d7625890c78f8", null ],
+    [ "SetVerboseLevel", "d0/d69/classG4PrimaryTransformer.html#a8bba46838c9b0bc2e9179f750dbeb1a1", null ],
+    [ "nWarn", "d0/d69/classG4PrimaryTransformer.html#a978f5f8dbedce5977a6b2a55659c8893", null ],
+    [ "opticalphoton", "d0/d69/classG4PrimaryTransformer.html#aa55df6c9112b2392645d15187e90deb1", null ],
+    [ "opticalphotonDefined", "d0/d69/classG4PrimaryTransformer.html#a6a1c40525a8ef1bc3ef895103055876c", null ],
+    [ "particleTable", "d0/d69/classG4PrimaryTransformer.html#a99a78c736a87040d30dd3439a2d2851a", null ],
+    [ "trackID", "d0/d69/classG4PrimaryTransformer.html#ae81c753b16ab76a134d0aaedd1b06617", null ],
+    [ "TV", "d0/d69/classG4PrimaryTransformer.html#a8e3d5ef300d3eddc525f4fd547e48807", null ],
+    [ "unknown", "d0/d69/classG4PrimaryTransformer.html#a9ac89308f138f5af39d3cdd20b90f2b5", null ],
+    [ "unknownParticleDefined", "d0/d69/classG4PrimaryTransformer.html#a17d95120e5a8dbc8dbf48d1dd4e6e0c1", null ],
+    [ "verboseLevel", "d0/d69/classG4PrimaryTransformer.html#ad3a3ccf12362681cb1fe8b8b67c0860b", null ]
+];

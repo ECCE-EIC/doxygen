@@ -1,0 +1,50 @@
+<map id="G4ParticleTable::CheckReadiness" name="G4ParticleTable::CheckReadiness">
+<area shape="rect" id="node2" href="$d8/dd3/classG4ParticleTable.html#afee282902af0253c1c81551647c5e8ad" title="G4ParticleTable::DumpTable" alt="" coords="298,361,509,389"/>
+<area shape="rect" id="node38" href="$d8/dd3/classG4ParticleTable.html#a7a50c20501f2f55a837eba0c8a01c3e0" title="G4ParticleTable::FindParticle" alt="" coords="297,497,509,525"/>
+<area shape="rect" id="node39" href="$d8/dd3/classG4ParticleTable.html#a90f1dd316df394718bbdbefd2fa33f7f" title="G4ParticleTable::GetParticle" alt="" coords="299,579,507,607"/>
+<area shape="rect" id="node3" href="$d8/d95/pymodG4particles_8cc.html#a534d5e18c850d58ae19e1e75810b2d44" title="export_G4ParticleTable" alt="" coords="916,457,1092,485"/>
+<area shape="rect" id="node5" href="$d9/d1c/classG4GeneralParticleSourceMessenger.html#add562b7a8b10db91ff3a7b810274bffe" title="G4GeneralParticleSourceMessenger\l::SetNewValue" alt="" coords="557,195,821,239"/>
+<area shape="rect" id="node6" href="$d0/db6/classG4ParticleGunMessenger.html#a9adbd2b38f4c79b24354002b8004f213" title="G4ParticleGunMessenger\l::SetNewValue" alt="" coords="593,263,785,307"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#a9050fdbaf716eadfb4198044d4d0c1bd" title="G4ParticleTable::Insert" alt="" coords="603,331,776,359"/>
+<area shape="rect" id="node9" href="$de/d51/classG4RunManagerKernel.html#a3bd0dc0862458a35b33fa0912bc1ba16" title="G4RunManagerKernel\l::SetPhysics" alt="" coords="605,383,773,427"/>
+<area shape="rect" id="node4" href="$d8/d95/pymodG4particles_8cc.html#a23b3fd6e154990b727bc2542e815c0fa" title="BOOST_PYTHON_MODULE" alt="" coords="1196,457,1391,485"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a2eb8ab04c5a09ec3d7a4f5ae73aff834" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="922,269,1086,313"/>
+<area shape="rect" id="node10" href="$d8/db0/classG4ErrorRunManagerHelper.html#ac3fa52e7d5805ff6b4ca87971ad3a975" title="G4ErrorRunManagerHelper\l::InitializePhysics" alt="" coords="902,337,1106,381"/>
+<area shape="rect" id="node37" href="$d4/daa/classG4RunManager.html#a7bf467d11594c2aaabda1c47e49e268e" title="G4RunManager::SetUserInitialization" alt="" coords="869,405,1139,433"/>
+<area shape="rect" id="node11" href="$dd/d88/classG4ErrorPropagatorManager.html#aa0e56394c96f87ecdd15709e9de6c8f7" title="G4ErrorPropagatorManager\l::InitGeant4e" alt="" coords="1190,337,1397,381"/>
+<area shape="rect" id="node12" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="1448,345,1525,373"/>
+<area shape="rect" id="node13" href="$d9/df8/classPHG4GDMLUtility.html#afcf39153171628039001dd7d5f34ee48" title="same as above but use default Geant functions as much as possible" alt="" coords="1613,173,1800,217"/>
+<area shape="rect" id="node15" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="1590,241,1823,269"/>
+<area shape="rect" id="node30" href="$d5/dc4/classG4GDMLParser.html#acfbec4923024be46b2d44e60d22429d4" title="G4GDMLParser::G4GDMLParser" alt="" coords="1591,293,1823,321"/>
+<area shape="rect" id="node31" href="$df/dda/gammaknife_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1679,345,1734,373"/>
+<area shape="rect" id="node32" href="$d2/d3b/classHepMCG4AsciiReaderMessenger.html#ab7cbaf09ff5ed12bb49d8be46467b37c" title="HepMCG4AsciiReaderMessenger\l::SetNewValue" alt="" coords="1586,397,1827,441"/>
+<area shape="rect" id="node33" href="$db/df7/classHadrontherapyDetectorConstruction.html#a1a59dea0a6ce7b6f77a8bd16c6f08e77" title="HadrontherapyDetectorConstruction\l::UpdateGeometry" alt="" coords="1573,465,1840,509"/>
+<area shape="rect" id="node35" href="$dc/d4b/ml2_8cc.html#a31ac0168d355ebbc2d5292645680a728" title="visio" alt="" coords="1681,533,1733,561"/>
+<area shape="rect" id="node14" href="$d0/d78/classPHG4Reco.html#a3b9a955d6f0e8960df1a6e8ac8303c93" title="PHG4Reco::Dump_G4_GDML" alt="" coords="1919,181,2133,209"/>
+<area shape="rect" id="node16" href="$d0/d78/classPHG4Reco.html#a490f5037508d384c5b60855ef0f7e227" title="PHG4Reco::Dump_GDML" alt="" coords="1932,241,2120,269"/>
+<area shape="rect" id="node17" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="2212,241,2359,269"/>
+<area shape="rect" id="node18" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="2477,99,2539,127"/>
+<area shape="rect" id="node20" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="2463,215,2553,243"/>
+<area shape="rect" id="node28" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="2407,267,2609,295"/>
+<area shape="rect" id="node29" href="$d9/d1d/matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="2469,319,2547,347"/>
+<area shape="rect" id="node19" href="$d5/d21/Fun4All__G4__dRICHImport_8C.html#a3a58b6c3d01066a007bf8f28289d1946" title="Fun4All_G4_dRICHImport" alt="" coords="2660,5,2851,33"/>
+<area shape="rect" id="node21" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html#a5028836c74f0bebec560d3ab54daa022" title="Fun4All_AnaTutorial\l_sPHENIX" alt="" coords="2679,109,2832,153"/>
+<area shape="rect" id="node22" href="$d6/d14/Fun4All__AnaTutorial__sPHENIX__Jets_8C.html#a61b352bca84476d24b0ff40991b27900" title="Fun4All_AnaTutorial\l_sPHENIX_Jets" alt="" coords="2679,177,2832,221"/>
+<area shape="rect" id="node23" href="$d2/d7e/Fun4All__G4__ECCEModular_8C.html#abfc0f0fda62657d78ec09187a1c5d74a" title="Fun4All_G4_ECCEModular" alt="" coords="2658,245,2853,273"/>
+<area shape="rect" id="node24" href="$da/d02/Fun4All__G4__EICDetector_8C.html#add9dee08cdb08b59c0b3870bb04994d9" title="Fun4All_G4_EICDetector" alt="" coords="2663,297,2848,325"/>
+<area shape="rect" id="node25" href="$d6/dda/macro_2Fun4All__G4__EICDetector__AnaTutorial_8C.html#a598434aca3dac5cdb0ca67ccc548d865" title="Fun4All_G4_EICDetector\l_AnaTutorial" alt="" coords="2663,349,2848,393"/>
+<area shape="rect" id="node26" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a4102cd3e195333de974409428a2e6dae" title="Fun4All_G4_sPHENIX" alt="" coords="2675,417,2836,445"/>
+<area shape="rect" id="node27" href="$d5/d9d/Fun4All__photonDispersion_8C.html#ac302dd70db86b0d1047fc47ebab58aef" title="Fun4All_photonDispersion" alt="" coords="2657,57,2853,85"/>
+<area shape="rect" id="node34" href="$db/df7/classHadrontherapyDetectorConstruction.html#aad7e8923e69986c17ebbf1376d480980" title="HadrontherapyDetectorConstruction\l::HadrontherapyDetectorConstruction" alt="" coords="1888,465,2164,509"/>
+<area shape="rect" id="node36" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1999,533,2053,561"/>
+<area shape="rect" id="node40" href="$d8/dd3/classG4ParticleTable.html#a414f0e8516973432f67f96196b3271ce" title="G4ParticleTable::GetParticleName" alt="" coords="565,553,813,581"/>
+<area shape="rect" id="node45" href="$d1/daa/classG4FastSimulationManager.html#a4a4784cf686c02f052900d112da757a5" title="G4FastSimulationManager\l::ListModels" alt="" coords="904,629,1104,673"/>
+<area shape="rect" id="node46" href="$de/d3b/classG4GlobalFastSimulationManager.html#a19a5718c6c368d43d60a9602fd11feee" title="G4GlobalFastSimulationManager\l::ShowSetup" alt="" coords="883,704,1125,748"/>
+<area shape="rect" id="node48" href="$de/d3b/classG4GlobalFastSimulationManager.html#a596d17b7dc82b983c72ba8b52ab67ef2" title="G4GlobalFastSimulationManager\l::DisplayRegion" alt="" coords="568,657,811,701"/>
+<area shape="rect" id="node49" href="$de/d51/classG4RunManagerKernel.html#ae312650098884f4c170419a5dc9606f1" title="G4RunManagerKernel\l::G4RunManagerKernel" alt="" coords="601,777,778,821"/>
+<area shape="rect" id="node41" href="$d3/d0e/pytestem0_8cc.html#a14ba0a360bd8882da0c84818d0c1e7c5" title="getParticleTable" alt="" coords="940,509,1068,537"/>
+<area shape="rect" id="node43" href="$d8/dd3/classG4ParticleTable.html#ab792b5270663f5a4f2a56b011ea8bdff" title="G4ParticleTable::DeleteAll\lParticles" alt="" coords="907,561,1101,605"/>
+<area shape="rect" id="node42" href="$d3/d0e/pytestem0_8cc.html#a84285da0e05ae3942dc90872109a24e8" title="BOOST_PYTHON_MODULE" alt="" coords="1196,509,1391,537"/>
+<area shape="rect" id="node44" href="$d5/d8b/classG4VUserPhysicsList.html#ad06af02d719560e8ce978c1c46da1c24" title="G4VUserPhysicsList\l::~G4VUserPhysicsList" alt="" coords="1206,561,1381,605"/>
+<area shape="rect" id="node47" href="$d3/d05/classG4FastSimulationMessenger.html#a3b5538cc03369e15fece6ee1a09d951e" title="G4FastSimulationMessenger\l::SetNewValue" alt="" coords="1187,704,1400,748"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="F01FieldSetup::CreateStepperAndChordFinder" name="F01FieldSetup::CreateStepperAndChordFinder">
+<area shape="rect" id="node2" href="$dc/d5a/classG4FieldManager.html#a7a32f93dd4eebfb185527d0896a0e2a3" title="G4FieldManager::SetChord\lFinder" alt="" coords="287,73,489,117"/>
+<area shape="rect" id="node3" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="277,141,499,185"/>
+<area shape="rect" id="node10" href="$db/d6c/classF01FieldSetup.html#afcc4c72d138b0221f86a4ee7e7a8f228" title="F01FieldSetup::SetStepper" alt="" coords="287,209,489,237"/>
+<area shape="rect" id="node4" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="563,5,759,49"/>
+<area shape="rect" id="node6" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="547,73,775,117"/>
+<area shape="rect" id="node7" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="573,141,748,185"/>
+<area shape="rect" id="node8" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="580,209,741,253"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="607,277,714,305"/>
+<area shape="rect" id="node5" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="823,5,1020,49"/>
+</map>

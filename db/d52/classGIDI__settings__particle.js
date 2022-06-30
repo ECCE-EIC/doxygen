@@ -1,0 +1,28 @@
+var classGIDI__settings__particle =
+[
+    [ "GIDI_settings_particle", "db/d52/classGIDI__settings__particle.html#ab9f733aaf7d71341d338c72b3d3e56de", null ],
+    [ "GIDI_settings_particle", "db/d52/classGIDI__settings__particle.html#a624115d162b7ce3a093e9a423461de61", null ],
+    [ "~GIDI_settings_particle", "db/d52/classGIDI__settings__particle.html#a7c9acd27c5a8ba878d39096dbf9873e4", null ],
+    [ "addFlux", "db/d52/classGIDI__settings__particle.html#a62347b24b62fdff20d15c40c7e3fc622", null ],
+    [ "getEnergyMode", "db/d52/classGIDI__settings__particle.html#a89da08beabd7352c52424b0d9ecc8946", null ],
+    [ "getFlux", "db/d52/classGIDI__settings__particle.html#aeca25f70d2974dcee3ed6fa18d1ac320", null ],
+    [ "getGroup", "db/d52/classGIDI__settings__particle.html#a7e4b3a334e86b96c0eb1d7d1851b4e2e", null ],
+    [ "getGroupIndexFromEnergy", "db/d52/classGIDI__settings__particle.html#af8c6e5d3c8050e850415c0926abed54a", null ],
+    [ "getNumberOfGroups", "db/d52/classGIDI__settings__particle.html#a06a584741ef9fc6d969e584276a17415", null ],
+    [ "getPoPId", "db/d52/classGIDI__settings__particle.html#af0b8c325e3edfd82fdcb8f99ffa13747", null ],
+    [ "getProcessedFlux", "db/d52/classGIDI__settings__particle.html#ab60a87165e6e4c1e5d97d08645ee817d", null ],
+    [ "getTransporting", "db/d52/classGIDI__settings__particle.html#a5020d8647c50eb07e9ccc5669d5a3dbf", null ],
+    [ "groupFunction", "db/d52/classGIDI__settings__particle.html#a558a402e46a6f192d64b7d2f38e498b2", null ],
+    [ "initialize", "db/d52/classGIDI__settings__particle.html#af19e861189f9ce2407684790b4f8bdc4", null ],
+    [ "isEnergyMode_continuous", "db/d52/classGIDI__settings__particle.html#a1a6899f41e2b8b3b2a66e6e1613584ea", null ],
+    [ "isEnergyMode_fixedGrid", "db/d52/classGIDI__settings__particle.html#a09bd9c1450bba85b5c6571253055b2fb", null ],
+    [ "isEnergyMode_grouped", "db/d52/classGIDI__settings__particle.html#ae59d98b99542fdb6b32e56175099fbe1", null ],
+    [ "nearestFluxToTemperature", "db/d52/classGIDI__settings__particle.html#a2e3bdb21141ac44d0805b2d3c517f030", null ],
+    [ "setGroup", "db/d52/classGIDI__settings__particle.html#ac18aeb4595aa037f855086daa37c6c6c", null ],
+    [ "mEnergyMode", "db/d52/classGIDI__settings__particle.html#a5ecb1b039137965468fa65d1bd0f08c0", null ],
+    [ "mGroup", "db/d52/classGIDI__settings__particle.html#a3f44bceeb9e4a76b7c351f203eeffedd", null ],
+    [ "mGroupX", "db/d52/classGIDI__settings__particle.html#a8f889481ec240009b33ee9f96883968f", null ],
+    [ "mPoPId", "db/d52/classGIDI__settings__particle.html#a11b11e16a25b7de1ebfd314fb8fe21df", null ],
+    [ "mProcessedFluxes", "db/d52/classGIDI__settings__particle.html#addf6de9d64ee7450f194d7838adb4578", null ],
+    [ "mTransporting", "db/d52/classGIDI__settings__particle.html#a21a0ed0327b711210c40603c96fad55f", null ]
+];

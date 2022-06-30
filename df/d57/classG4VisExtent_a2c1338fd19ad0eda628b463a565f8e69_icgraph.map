@@ -1,0 +1,37 @@
+<map id="G4VisExtent::GetExtentCentre" name="G4VisExtent::GetExtentCentre">
+<area shape="rect" id="node2" href="$d9/d52/classG4Scene.html#a122c09e2e561bf0b439b71d68820803d" title="G4Scene::CalculateExtent" alt="" coords="303,221,502,249"/>
+<area shape="rect" id="node6" href="$d8/d36/classG4VisCommandsTouchable.html#aba62ca50a585e5b7a39d42657cc144e2" title="G4VisCommandsTouchable\l::SetNewValue" alt="" coords="921,31,1127,75"/>
+<area shape="rect" id="node7" href="$d3/d7c/classG4VisCommandViewerCentreOn.html#a5481e34f67413d32ccfdc9578a5fd2e1" title="G4VisCommandViewerCentre\lOn::SetNewValue" alt="" coords="914,220,1134,264"/>
+<area shape="rect" id="node12" href="$da/d94/classG4VSceneHandler.html#a6356d20564b847538003003e39715f3c" title="G4VSceneHandler::CreateSection\lSolid" alt="" coords="279,393,527,437"/>
+<area shape="rect" id="node32" href="$df/d57/classG4VisExtent.html#a5bc04c82c7cbe8c5c1ae3e735667c449" title="G4VisExtent::GetExtentCenter" alt="" coords="289,461,516,489"/>
+<area shape="rect" id="node36" href="$d5/dba/classG4BoundingSphereScene.html#a5494db2c800517fdecbd17be52940f36" title="G4BoundingSphereScene\l::ProcessVolume" alt="" coords="305,513,500,557"/>
+<area shape="rect" id="node3" href="$d9/d52/classG4Scene.html#a1e5c5b551c33aea8cb3cac4080dd19ba" title="G4Scene::AddRunDurationModel" alt="" coords="590,101,831,129"/>
+<area shape="rect" id="node9" href="$d0/d0d/classG4VisManager.html#adca7830ce14a30d2350d3c45a0066303" title="G4VisManager::GeometryHas\lChanged" alt="" coords="600,153,821,197"/>
+<area shape="rect" id="node10" href="$d0/d0d/classG4VisManager.html#ac7428191057fe8be0846e3a4f24094a1" title="G4VisManager::NotifyHandlers" alt="" coords="597,221,825,249"/>
+<area shape="rect" id="node11" href="$dc/d98/classG4VisCommandSceneNotifyHandlers.html#a934fdd9df531571917bcd3d01dc7440f" title="G4VisCommandSceneNotifyHandlers\l::SetNewValue" alt="" coords="575,273,847,317"/>
+<area shape="rect" id="node4" href="$d9/d52/classG4Scene.html#a2e12191c42c8b6fe32fa529b8c0e8caf" title="G4Scene::AddWorldIfEmpty" alt="" coords="920,167,1128,195"/>
+<area shape="rect" id="node8" href="$df/da1/classG4VisCommandSceneAddVolume.html#af1be71f5abba2aa4c8d7b3f4b5230fa4" title="G4VisCommandSceneAddVolume\l::SetNewValue" alt="" coords="900,99,1148,143"/>
+<area shape="rect" id="node5" href="$d0/dcb/classG4RayTracerSceneHandler.html#a37870d457213a31233c26d5f4fe24ea1" title="G4RayTracerSceneHandler\l::G4RayTracerSceneHandler" alt="" coords="1201,159,1413,203"/>
+<area shape="rect" id="node13" href="$da/d94/classG4VSceneHandler.html#a30f2bc81348bb9d5e5a6a3a879cb35a4" title="G4VSceneHandler::CreateModeling\lParameters" alt="" coords="581,393,840,437"/>
+<area shape="rect" id="node14" href="$da/d94/classG4VSceneHandler.html#a80507612b09093a8a4b48d0a9edeafab" title="G4VSceneHandler::Process\lScene" alt="" coords="1205,336,1409,380"/>
+<area shape="rect" id="node28" href="$da/d94/classG4VSceneHandler.html#a245dd6b07e1d4b54ff1b23b33c94d04f" title="G4VSceneHandler::DrawEvent" alt="" coords="910,292,1138,320"/>
+<area shape="rect" id="node30" href="$da/d94/classG4VSceneHandler.html#a9f763f979fba834380c774a321510de0" title="G4VSceneHandler::DrawEnd\lOfRunModels" alt="" coords="917,396,1131,440"/>
+<area shape="rect" id="node15" href="$d3/dbf/classG4VViewer.html#a43ae07beef7bd27e04c03473d1f762e0" title="G4VViewer::ProcessView" alt="" coords="1461,344,1649,372"/>
+<area shape="rect" id="node16" href="$d4/d14/classG4DAWNFILEViewer.html#a0312bff633a1c4dd5b9f9b5a619bf30b" title="G4DAWNFILEViewer::DrawView" alt="" coords="1697,5,1929,33"/>
+<area shape="rect" id="node17" href="$df/dd1/classG4GMocrenFileViewer.html#aa0d06a737d18e940a8a36e4199e8fb3d" title="G4GMocrenFileViewer\l::DrawView" alt="" coords="1729,57,1898,101"/>
+<area shape="rect" id="node18" href="$d4/d16/classG4HepRepFileViewer.html#ae551b32cb6a8b34650c771d9af23f200" title="G4HepRepFileViewer\l::DrawView" alt="" coords="1732,125,1895,169"/>
+<area shape="rect" id="node19" href="$d5/d29/classG4HepRepViewer.html#a777bb4e736553e345e7f1b24400f128b" title="G4HepRepViewer::DrawView" alt="" coords="1706,193,1921,221"/>
+<area shape="rect" id="node20" href="$d5/dee/classG4RayTracerViewer.html#afee983c0a29f4d24b5f579eef5655384" title="G4RayTracerViewer::\lDrawView" alt="" coords="1733,245,1894,289"/>
+<area shape="rect" id="node21" href="$d2/dfc/classG4VTreeViewer.html#ac446ced2d35ad1a9977e7278948393f6" title="G4VTreeViewer::DrawView" alt="" coords="1713,313,1913,341"/>
+<area shape="rect" id="node22" href="$d4/d04/classG4VRML1FileViewer.html#ab809f8a778532e0eba2f8f340a08a2f6" title="G4VRML1FileViewer::\lDrawView" alt="" coords="1732,365,1895,409"/>
+<area shape="rect" id="node23" href="$d6/d64/classG4VRML2FileViewer.html#ad6b23b4b4e5a44fc54f90276f600bc72" title="G4VRML2FileViewer::\lDrawView" alt="" coords="1732,433,1895,477"/>
+<area shape="rect" id="node24" href="$d6/d40/classG4XXXFileViewer.html#a52a65075d09025d4ffa85a1ad681f321" title="G4XXXFileViewer::DrawView" alt="" coords="1707,501,1919,529"/>
+<area shape="rect" id="node25" href="$d5/d5e/classG4XXXSGViewer.html#a95afca9c0544f6281fe262d56485b44b" title="G4XXXSGViewer::DrawView" alt="" coords="1709,553,1917,581"/>
+<area shape="rect" id="node26" href="$d8/d9f/classG4XXXStoredViewer.html#a700bc3347912b4c34cb53761242939b2" title="G4XXXStoredViewer::\lDrawView" alt="" coords="1731,605,1896,649"/>
+<area shape="rect" id="node27" href="$d5/ddb/classG4XXXViewer.html#a655d673d9a06607431a3eabf39b3722c" title="G4XXXViewer::DrawView" alt="" coords="1719,673,1908,701"/>
+<area shape="rect" id="node29" href="$d0/d0d/classG4VisManager.html#a50c0a6650067dda61208b32b29054b0c" title="G4VisManager::EndOfEvent" alt="" coords="1203,284,1412,312"/>
+<area shape="rect" id="node31" href="$d0/d0d/classG4VisManager.html#a6271cad1e3d0d699454de99c491d3b3a" title="G4VisManager::EndOfRun" alt="" coords="1210,404,1405,432"/>
+<area shape="rect" id="node33" href="$d8/d2c/classG4VVisCommand.html#a53db84f544e3c451cd6e299dbca82a31" title="G4VVisCommand::DrawExtent" alt="" coords="597,472,825,500"/>
+<area shape="rect" id="node34" href="$d7/d9d/classG4VisCommandSceneShowExtents.html#aa3e1e6fb004f9664bc0fbe79aa3c59e0" title="G4VisCommandSceneShowExtents\l::SetNewValue" alt="" coords="895,532,1153,576"/>
+<area shape="rect" id="node35" href="$d6/d6a/classG4VisCommandSetVolumeForField.html#a57d8569a5ae0a4fcb5e180e049b6fac5" title="G4VisCommandSetVolumeFor\lField::SetNewValue" alt="" coords="912,464,1136,508"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="G4VEmProcess::SetBuildTableFlag" name="G4VEmProcess::SetBuildTableFlag">
+<area shape="rect" id="node2" href="$d0/dc7/classPhysListEmStandardSSM.html#ade8674e49e218539ab1d1271e9a8d71b" title="PhysListEmStandardSSM\l::ConstructProcess" alt="" coords="332,5,520,49"/>
+<area shape="rect" id="node3" href="$de/d96/classPhysListEmStandardSS.html#a9d07f38b9c60a9e938df347edee4f6d2" title="PhysListEmStandardSS\l::ConstructProcess" alt="" coords="337,73,515,117"/>
+<area shape="rect" id="node4" href="$d4/d82/classG4ComptonScattering.html#ae33836ea080e9bc7b6ee246a0ea27fe8" title="G4ComptonScattering\l::G4ComptonScattering" alt="" coords="336,141,516,185"/>
+<area shape="rect" id="node5" href="$d5/d0d/classG4CoulombScattering.html#a78d101ba158486ecac8e11c0e00cfcd1" title="G4CoulombScattering\l::G4CoulombScattering" alt="" coords="337,209,515,253"/>
+<area shape="rect" id="node6" href="$db/dd7/classG4eeToHadrons.html#a0a3521b75760e90add1ff7300d664849" title="G4eeToHadrons::G4eeToHadrons" alt="" coords="304,277,548,305"/>
+<area shape="rect" id="node7" href="$dc/d88/classG4eplusAnnihilation.html#a7cf961b5be250405cf908cca3ad882eb" title="G4eplusAnnihilation\l::G4eplusAnnihilation" alt="" coords="343,329,509,373"/>
+<area shape="rect" id="node8" href="$d6/d03/classG4GammaConversion.html#a979f11c091774556e515a80f4b0f324d" title="G4GammaConversion::\lG4GammaConversion" alt="" coords="337,397,515,441"/>
+<area shape="rect" id="node9" href="$dc/d5d/classG4JAEAElasticScattering.html#ad7dcdd72155cc991698ed67a5c3eb0e2" title="G4JAEAElasticScattering\l::G4JAEAElasticScattering" alt="" coords="329,465,523,509"/>
+<area shape="rect" id="node10" href="$d8/d35/classG4NuclearStopping.html#aa551e58ed06f322b4a77e0b1fbd5503c" title="G4NuclearStopping::\lG4NuclearStopping" alt="" coords="345,533,507,577"/>
+<area shape="rect" id="node11" href="$d4/d13/classG4PhotoElectricEffect.html#abb5449411c39c74ddf42a961d7e34795" title="G4PhotoElectricEffect\l::G4PhotoElectricEffect" alt="" coords="337,601,515,645"/>
+<area shape="rect" id="node12" href="$d1/d92/classG4PolarizedCompton.html#aca1e719b0e86d0d49b8e2ff220a48148" title="G4PolarizedCompton\l::G4PolarizedCompton" alt="" coords="340,669,512,713"/>
+<area shape="rect" id="node13" href="$df/dcd/classG4PolarizedGammaConversion.html#a77cb9fbd089b98da6381edae218739b3" title="G4PolarizedGammaConversion\l::G4PolarizedGammaConversion" alt="" coords="306,737,546,781"/>
+<area shape="rect" id="node14" href="$d0/d9c/classG4PolarizedPhotoElectricEffect.html#afef8d58ea894830b30a8edc991291f3b" title="G4PolarizedPhotoElectric\lEffect::G4PolarizedPhotoElectric\lEffect" alt="" coords="307,805,545,865"/>
+<area shape="rect" id="node15" href="$d5/de6/classG4RayleighScattering.html#ac5a9d82c833a61b2f702dea0459916ac" title="G4RayleighScattering\l::G4RayleighScattering" alt="" coords="337,889,515,933"/>
+<area shape="rect" id="node16" href="$d0/d8b/classG4DNAPositronium.html#af38aa77036d5f9f96c55b96ff435ea64" title="G4DNAPositronium::Initialise\lProcess" alt="" coords="319,957,533,1001"/>
+<area shape="rect" id="node17" href="$d9/d42/classG4DNARotExcitation.html#ac1d1bb27939d5df52690ef82be1a9917" title="G4DNARotExcitation\l::InitialiseProcess" alt="" coords="347,1025,505,1069"/>
+<area shape="rect" id="node18" href="$de/d75/classG4DNADissociation.html#a1973acf52c96f4830bf53e97380365e1" title="G4DNADissociation::\lInitialiseProcess" alt="" coords="346,1093,506,1137"/>
+<area shape="rect" id="node19" href="$d0/d5c/classG4DNAChargeIncrease.html#a3b268b65cd4703617b800d58f5dfaa20" title="G4DNAChargeIncrease\l::InitialiseProcess" alt="" coords="339,1161,513,1205"/>
+<area shape="rect" id="node20" href="$da/dc8/classG4DNAAttachment.html#ac70a3ce07d4905c079b82e604cb3875a" title="G4DNAAttachment::Initialise\lProcess" alt="" coords="319,1229,533,1273"/>
+<area shape="rect" id="node21" href="$db/ded/classG4DNAChargeDecrease.html#a51a189cac64c020af92c6d1daeef8f7d" title="G4DNAChargeDecrease\l::InitialiseProcess" alt="" coords="335,1297,517,1341"/>
+<area shape="rect" id="node22" href="$d4/d61/classG4DNAElastic.html#a999eb29a24c8976d94f11694a6d3dde9" title="G4DNAElastic::Initialise\lProcess" alt="" coords="336,1365,516,1409"/>
+<area shape="rect" id="node23" href="$d5/dcf/classG4DNAExcitation.html#a23121d67bd3dbfa9e34b640f834ffd4a" title="G4DNAExcitation::Initialise\lProcess" alt="" coords="325,1433,527,1477"/>
+<area shape="rect" id="node24" href="$d5/d80/classG4DNAIonisation.html#aee8d35dc17b351f3fc0f548f958fc974" title="G4DNAIonisation::Initialise\lProcess" alt="" coords="325,1501,527,1545"/>
+<area shape="rect" id="node25" href="$df/dff/classG4DNAVibExcitation.html#a767b74377d0d38daa87a6c154345f6fd" title="G4DNAVibExcitation\l::InitialiseProcess" alt="" coords="347,1569,505,1613"/>
+<area shape="rect" id="node26" href="$d7/ddf/classG4MicroElecElastic.html#af54705c79c88732e17583210f27cd8a6" title="G4MicroElecElastic\l::InitialiseProcess" alt="" coords="351,1637,501,1681"/>
+<area shape="rect" id="node27" href="$dc/d24/classG4MuElecElastic.html#ad053ae896e8141f8e036e9fdd9d69300" title="G4MuElecElastic::Initialise\lProcess" alt="" coords="327,1705,525,1749"/>
+<area shape="rect" id="node28" href="$d9/dd5/classG4MicroElecInelastic.html#a9fb3b267bb5e4ae4c127238b6a6e993e" title="G4MicroElecInelastic\l::InitialiseProcess" alt="" coords="345,1773,507,1817"/>
+<area shape="rect" id="node29" href="$d7/d04/classG4MuElecInelastic.html#a2be3d7f76e7552703b347bcad0e2bdbd" title="G4MuElecInelastic::\lInitialiseProcess" alt="" coords="349,1841,503,1885"/>
+<area shape="rect" id="node30" href="$d5/d0d/classG4CoulombScattering.html#ae548088a4aad0932c9b17187b8453ce2" title="G4CoulombScattering\l::InitialiseProcess" alt="" coords="341,1909,511,1953"/>
+<area shape="rect" id="node31" href="$d0/db1/classG4DNAElectronSolvation.html#a2accc7d65a2081b11dda2c73b8e2ba04" title="G4DNAElectronSolvation\l::InitialiseProcess" alt="" coords="332,1977,520,2021"/>
+</map>

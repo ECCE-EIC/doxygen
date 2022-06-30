@@ -1,0 +1,6 @@
+<map id="G4VDNAModel::SetLowELimit" name="G4VDNAModel::SetLowELimit">
+<area shape="rect" id="node2" href="$d6/d53/classG4DNADummyModel.html#aecec8477769e0f0c159cb8d255402a0f" title="Initialise Each model must implement an Initialize method." alt="" coords="273,5,503,33"/>
+<area shape="rect" id="node3" href="$da/dd5/classG4DNAPTBExcitationModel.html#a1a3d24b47e366cdc0dc5f79b93343404" title="Initialise Set the materials for which the model can be used and defined the energy limits..." alt="" coords="287,57,489,101"/>
+<area shape="rect" id="node4" href="$df/d41/classG4DNAPTBElasticModel.html#ac63a140c551e181d59d7f953ed90f07c" title="Initialise Mandatory method for every model class. The material/particle for which the model can be u..." alt="" coords="298,125,478,169"/>
+<area shape="rect" id="node5" href="$dc/d67/classG4DNAPTBIonisationModel.html#af225d314cee2d42a09f480d5ac93f19a" title="Initialise Method called once at the beginning of the simulation. It is used to setup the list of the..." alt="" coords="287,193,489,237"/>
+</map>

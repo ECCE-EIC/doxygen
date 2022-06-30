@@ -1,0 +1,18 @@
+<map id="G4MuonicAtomDecayPhysics::ConstructParticle" name="G4MuonicAtomDecayPhysics::ConstructParticle">
+<area shape="rect" id="node2" href="$d6/def/classG4GenericMuonicAtom.html#a123cb27317e40ecea5a12d4e186233bb" title="G4GenericMuonicAtom\l::GenericMuonicAtom" alt="" coords="271,147,449,191"/>
+<area shape="rect" id="node17" href="$d1/d2f/classG4VPhysicsConstructor.html#a4d04e725e83a6a5197601454d8345446" title="G4VPhysicsConstructor\l::GetVerboseLevel" alt="" coords="271,215,449,259"/>
+<area shape="rect" id="node3" href="$d6/def/classG4GenericMuonicAtom.html#afde38cecfb067ccbd9da2097938f4d3f" title="G4GenericMuonicAtom\l::Definition" alt="" coords="497,147,675,191"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="735,63,947,91"/>
+<area shape="rect" id="node9" href="$d0/d75/classG4MuonicAtom.html#ab3a8b06db96633b03a02dc792585f7e5" title="G4MuonicAtom::G4MuonicAtom" alt="" coords="723,124,959,152"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="737,176,945,220"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#aa69e6870e0eaec314f56fe8791ee4a95" title="G4ParticleTable::SetGeneric\lMuonicAtom" alt="" coords="736,244,945,288"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1007,5,1251,33"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1017,57,1241,85"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1321,83,1504,111"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1359,5,1466,33"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1028,181,1229,225"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1325,135,1501,179"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1325,203,1501,247"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1335,271,1490,315"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1299,339,1527,367"/>
+</map>

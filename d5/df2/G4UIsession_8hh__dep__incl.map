@@ -1,0 +1,37 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/intercoms/include/G4UIsession.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/intercoms/include/G4UIsession.hh">
+<area shape="rect" id="node2" href="$d1/d2b/ChargeExchangeMC_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/ChargeExchangeMC\l/ChargeExchangeMC.cc" alt="" coords="5,361,239,437"/>
+<area shape="rect" id="node3" href="$dc/dd2/phantom_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/human_phantom\l/phantom.cc" alt="" coords="2557,113,2769,189"/>
+<area shape="rect" id="node4" href="$d0/d67/G4UIbatch_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/intercoms/include/G4UIbatch.hh" alt="" coords="2793,121,3037,181"/>
+<area shape="rect" id="node6" href="$dc/d42/G4UImanager_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/intercoms/src/G4UImanager.cc" alt="" coords="3227,245,3460,305"/>
+<area shape="rect" id="node7" href="$d6/dd1/G4UIcontrolMessenger_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/intercoms/src/G4UIcontrolMessenger.cc" alt="" coords="3113,121,3406,181"/>
+<area shape="rect" id="node8" href="$dd/d16/G4UIsession_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/intercoms/src/G4UIsession.cc" alt="" coords="3430,121,3654,181"/>
+<area shape="rect" id="node9" href="$d5/d37/G4UIExecutive_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/basic/src\l/G4UIExecutive.cc" alt="" coords="263,361,423,437"/>
+<area shape="rect" id="node10" href="$d5/d17/G4VBasicShell_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/common/include\l/G4VBasicShell.hh" alt="" coords="2321,113,2533,189"/>
+<area shape="rect" id="node34" href="$d6/d31/G4UIGAG_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/GAG/include\l/G4UIGAG.hh" alt="" coords="755,113,937,189"/>
+<area shape="rect" id="node36" href="$d9/d28/G4VisCommands_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/visualization/management\l/src/G4VisCommands.cc" alt="" coords="3678,113,3886,189"/>
+<area shape="rect" id="node5" href="$d2/d6b/G4UIbatch_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/intercoms/src/G4UIbatch.cc" alt="" coords="2991,245,3203,305"/>
+<area shape="rect" id="node11" href="$d5/dc5/G4ZMQServer_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/environments\l/zmq/zmq/G4ZMQServer.hh" alt="" coords="2069,245,2277,305"/>
+<area shape="rect" id="node13" href="$d6/d00/G4VMPIsession_8hh.html" title="A base class for MPI sessions." alt="" coords="2301,237,2554,313"/>
+<area shape="rect" id="node24" href="$d6/dc9/G4UIterminal_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/basic/include\l/G4UIterminal.hh" alt="" coords="1087,237,1275,313"/>
+<area shape="rect" id="node31" href="$d8/dcb/G4VBasicShell_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/common/src\l/G4VBasicShell.cc" alt="" coords="2578,237,2759,313"/>
+<area shape="rect" id="node32" href="$d8/d55/G4UIGainServer_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/GAG/include\l/G4UIGainServer.hh" alt="" coords="2784,237,2967,313"/>
+<area shape="rect" id="node12" href="$d2/d6c/G4ZMQServer_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/environments\l/zmq/zmq/G4ZMQServer.cc" alt="" coords="2079,369,2287,429"/>
+<area shape="rect" id="node14" href="$d5/dfc/G4MPIbatch_8hh.html" title="MPI batch session." alt="" coords="2311,361,2543,437"/>
+<area shape="rect" id="node17" href="$d8/ddd/G4MPIsession_8hh.html" title="A terminal session for MPI application." alt="" coords="2568,361,2812,437"/>
+<area shape="rect" id="node23" href="$d5/d47/G4VMPIsession_8cc.html" title="A base class for MPI sessions." alt="" coords="2837,361,3058,437"/>
+<area shape="rect" id="node15" href="$dd/d03/G4MPIbatch_8cc.html" title="MPI batch session." alt="" coords="1969,485,2169,561"/>
+<area shape="rect" id="node16" href="$da/dde/G4MPImanager_8cc.html" title="MPI manager class." alt="" coords="2193,485,2414,561"/>
+<area shape="rect" id="node18" href="$d3/d1f/exMPI01_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/extended/parallel/MPI\l/examples/exMPI01/exMPI01.cc" alt="" coords="2439,485,2672,561"/>
+<area shape="rect" id="node19" href="$da/dda/exMPI02_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/extended/parallel/MPI\l/examples/exMPI02/exMPI02.cc" alt="" coords="2696,485,2929,561"/>
+<area shape="rect" id="node20" href="$d8/d1c/exMPI03_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/extended/parallel/MPI\l/examples/exMPI03/exMPI03.cc" alt="" coords="2953,485,3187,561"/>
+<area shape="rect" id="node21" href="$d9/dd1/exMPI04_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/extended/parallel/MPI\l/examples/exMPI04/exMPI04.cc" alt="" coords="3211,485,3444,561"/>
+<area shape="rect" id="node22" href="$db/d70/G4MPIsession_8cc.html" title="A terminal session for MPI application." alt="" coords="3468,485,3680,561"/>
+<area shape="rect" id="node25" href="$dd/de0/pyG4UIterminal_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/environments\l/g4py/source/interface/pyG4UIterminal.cc" alt="" coords="447,369,751,429"/>
+<area shape="rect" id="node26" href="$df/dda/gammaknife_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/gammaknife/gammaknife.cc" alt="" coords="775,369,1066,429"/>
+<area shape="rect" id="node27" href="$dd/d85/icsd_8cc.html" title="icsd example" alt="" coords="1091,361,1271,437"/>
+<area shape="rect" id="node28" href="$de/d73/microdosimetry_8cc.html" title="Implementation of the microdosimetry example." alt="" coords="1295,361,1555,437"/>
+<area shape="rect" id="node29" href="$db/d6c/wholeNuclearDNA_8cc.html" title="Implementation of the microdosimetry example." alt="" coords="1579,361,1871,437"/>
+<area shape="rect" id="node30" href="$df/d95/G4UIterminal_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/basic/src\l/G4UIterminal.cc" alt="" coords="1895,361,2055,437"/>
+<area shape="rect" id="node33" href="$d8/d46/G4UIGainServer_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/GAG/src/G4UIGain\lServer.cc" alt="" coords="3082,361,3303,437"/>
+<area shape="rect" id="node35" href="$d5/d39/G4UIGAG_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/interfaces/GAG/src/G4UIGAG.cc" alt="" coords="727,245,965,305"/>
+</map>

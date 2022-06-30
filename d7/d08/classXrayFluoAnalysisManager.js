@@ -1,0 +1,26 @@
+var classXrayFluoAnalysisManager =
+[
+    [ "~XrayFluoAnalysisManager", "d7/d08/classXrayFluoAnalysisManager.html#a4463cdcb5e8ea1722ea05295f028e5c6", null ],
+    [ "XrayFluoAnalysisManager", "d7/d08/classXrayFluoAnalysisManager.html#af5e646bfbc52a7a182967aad25667b2e", null ],
+    [ "analyseEnergyDep", "d7/d08/classXrayFluoAnalysisManager.html#ac2f672309041b2fde8edb8f0122c1059", null ],
+    [ "analysePrimaryGenerator", "d7/d08/classXrayFluoAnalysisManager.html#a04b46f425df8714181efaf7e280232cd", null ],
+    [ "analyseStepping", "d7/d08/classXrayFluoAnalysisManager.html#a0943b2f7b2d717bad3d1822ff0ad1599", null ],
+    [ "book", "d7/d08/classXrayFluoAnalysisManager.html#aa17d6eb9eb3c113d2d3057c6e9ad1e50", null ],
+    [ "finish", "d7/d08/classXrayFluoAnalysisManager.html#a9141e9210ec96783b689b0ef004dcbd6", null ],
+    [ "GetEmittedParticleEnergyAndType", "d7/d08/classXrayFluoAnalysisManager.html#ab7f9e16561a3a135c62ae1dd21400238", null ],
+    [ "getInstance", "d7/d08/classXrayFluoAnalysisManager.html#afc91d13bed8b4bc64a671cfe340e8111", null ],
+    [ "LoadGunData", "d7/d08/classXrayFluoAnalysisManager.html#a9dc43c46da08f80b442669f78a0521f1", null ],
+    [ "PhaseSpaceOff", "d7/d08/classXrayFluoAnalysisManager.html#ae637d9bd2afe304d48f135822bed32c1", null ],
+    [ "PhaseSpaceOn", "d7/d08/classXrayFluoAnalysisManager.html#a1cb94d7294e4d0d999ea2c632c94e5fc", null ],
+    [ "SetOutputFileName", "d7/d08/classXrayFluoAnalysisManager.html#a127bbdb214a03e1065704a61b8e08691", null ],
+    [ "SetPhysicFlag", "d7/d08/classXrayFluoAnalysisManager.html#a08ff8937d8dfb3bdbf19dd5f0bdd8953", null ],
+    [ "analisysMessenger", "d7/d08/classXrayFluoAnalysisManager.html#aaaf61ccbbc813a39e80d2e0c1bf352fd", null ],
+    [ "dataLoaded", "d7/d08/classXrayFluoAnalysisManager.html#a0e1014ccb117213b9894e49566bf915a", null ],
+    [ "fParticleEnergyAndTypeIndex", "d7/d08/classXrayFluoAnalysisManager.html#ae67393fb300318ea8720c8803f19fb79", null ],
+    [ "gunParticleEnergies", "d7/d08/classXrayFluoAnalysisManager.html#afb2dcfeede006d610f96f7999fda8f86", null ],
+    [ "gunParticleTypes", "d7/d08/classXrayFluoAnalysisManager.html#a6432d023bd029c73c029967941b67930", null ],
+    [ "instance", "d7/d08/classXrayFluoAnalysisManager.html#a29f91c214391e40a89281c3463e131a6", null ],
+    [ "outputFileName", "d7/d08/classXrayFluoAnalysisManager.html#aa55ac2ace3f51895b386043ad4388d6e", null ],
+    [ "phaseSpaceFlag", "d7/d08/classXrayFluoAnalysisManager.html#a8e661ea0ccabf413c785ab7178132c6a", null ],
+    [ "physicFlag", "d7/d08/classXrayFluoAnalysisManager.html#a1cbde193fbae3198db569bd3e3b29661", null ]
+];

@@ -1,0 +1,26 @@
+var classG4StatMFFragment =
+[
+    [ "G4StatMFFragment", "d9/d1b/classG4StatMFFragment.html#a89b5559e79b024de8ee1d822b172b854", null ],
+    [ "~G4StatMFFragment", "d9/d1b/classG4StatMFFragment.html#adfc1abb8c9e40b866a51d19a1a3fdfaf", null ],
+    [ "G4StatMFFragment", "d9/d1b/classG4StatMFFragment.html#afb1d1e8f18e37b7990b9d46d224c7c8f", null ],
+    [ "G4StatMFFragment", "d9/d1b/classG4StatMFFragment.html#aebd7d0c9bfa92c255c2966e9c5f72ef0", null ],
+    [ "CalcExcitationEnergy", "d9/d1b/classG4StatMFFragment.html#a76f31517c541d1fcb4bac19cb1364291", null ],
+    [ "GetA", "d9/d1b/classG4StatMFFragment.html#add16700dc8cfabf141ee46ffb34585d3", null ],
+    [ "GetCoulombEnergy", "d9/d1b/classG4StatMFFragment.html#a4798607f82029ed7bc77d9bc51141830", null ],
+    [ "GetEnergy", "d9/d1b/classG4StatMFFragment.html#a74dffcbaa7f95da1c4c936b10d3f0315", null ],
+    [ "GetFragment", "d9/d1b/classG4StatMFFragment.html#a80aca85e25e91d535a32b058cf853e93", null ],
+    [ "GetInvLevelDensity", "d9/d1b/classG4StatMFFragment.html#a3505e8a50c1b539178525e96721f95f2", null ],
+    [ "GetMomentum", "d9/d1b/classG4StatMFFragment.html#aa51d68fe512860bfe510d2ae432cae20", null ],
+    [ "GetNuclearMass", "d9/d1b/classG4StatMFFragment.html#a964edaf907af998e82ac935792c64ef6", null ],
+    [ "GetPosition", "d9/d1b/classG4StatMFFragment.html#ad247fc6681d551ea4a17b37ac97189b7", null ],
+    [ "GetZ", "d9/d1b/classG4StatMFFragment.html#ad106e5d4cad46ec69ba2c0c2ba5a8e9e", null ],
+    [ "operator!=", "d9/d1b/classG4StatMFFragment.html#a5dbb86a9c38f85a0be4c76c0a8f1d72d", null ],
+    [ "operator=", "d9/d1b/classG4StatMFFragment.html#a5e05b7245ab97b620f9658c2f78e9cb2", null ],
+    [ "operator==", "d9/d1b/classG4StatMFFragment.html#a6ad8b08f084b0230a4d2d5d66213a26c", null ],
+    [ "SetMomentum", "d9/d1b/classG4StatMFFragment.html#a7f1f55929bb0ab444369bc9372358eef", null ],
+    [ "SetPosition", "d9/d1b/classG4StatMFFragment.html#a9ec3cfafbf81c7d72da66cfbabeeab55", null ],
+    [ "_momentum", "d9/d1b/classG4StatMFFragment.html#a5b5c4c5ce5794d75351844bce27d7c72", null ],
+    [ "_position", "d9/d1b/classG4StatMFFragment.html#a0473b310b53736549c70e682d291b9f8", null ],
+    [ "theA", "d9/d1b/classG4StatMFFragment.html#a66de0ff58192fdb2080e3b6fea63a3a5", null ],
+    [ "theZ", "d9/d1b/classG4StatMFFragment.html#afb9832d155f98db93bebf2ad2b663d8a", null ]
+];

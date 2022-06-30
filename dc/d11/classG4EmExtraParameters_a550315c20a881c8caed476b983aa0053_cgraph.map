@@ -1,0 +1,32 @@
+<map id="G4EmExtraParameters::DefineRegParamForEM" name="G4EmExtraParameters::DefineRegParamForEM">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#ab103a01b9cb24342726b0a91bca6c898" title="G4VEmProcess::ActivateForced\lInteraction" alt="" coords="251,180,482,224"/>
+<area shape="rect" id="node4" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="544,316,768,344"/>
+<area shape="rect" id="node14" href="$d0/dfb/classG4VEmProcess.html#abd809a59d09f6180b3d0debf842f23f6" title="G4VEmProcess::ActivateSecondary\lBiasing" alt="" coords="237,368,496,412"/>
+<area shape="rect" id="node31" href="$d0/dfb/classG4VEmProcess.html#a66123a8f6678ac9ae63a562d431ff435" title="G4VEmProcess::SetCrossSection\lBiasingFactor" alt="" coords="247,248,487,292"/>
+<area shape="rect" id="node3" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="579,248,733,292"/>
+<area shape="rect" id="node5" href="$db/d69/classG4EmBiasingManager.html#ae96482f3d81b622015d047981b84de3a" title="G4EmBiasingManager\l::ActivateForcedInteraction" alt="" coords="555,180,757,224"/>
+<area shape="rect" id="node6" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="1065,261,1277,289"/>
+<area shape="rect" id="node7" href="$db/d69/classG4RegionStore.html#acef4d472a500f195f17d2c9d83e6f276" title="G4RegionStore::GetRegion" alt="" coords="816,209,1017,237"/>
+<area shape="rect" id="node8" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1130,116,1213,144"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1678,268,1785,296"/>
+<area shape="rect" id="node9" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1339,141,1555,185"/>
+<area shape="rect" id="node10" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1341,73,1553,117"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1342,5,1553,49"/>
+<area shape="rect" id="node12" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1647,5,1815,49"/>
+<area shape="rect" id="node15" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="576,436,736,464"/>
+<area shape="rect" id="node29" href="$db/d69/classG4EmBiasingManager.html#a5d90611fc212400b3eb2b0411ef17be8" title="G4EmBiasingManager\l::ActivateSecondaryBiasing" alt="" coords="553,368,759,412"/>
+<area shape="rect" id="node16" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="831,436,1002,464"/>
+<area shape="rect" id="node17" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1065,381,1277,409"/>
+<area shape="rect" id="node21" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1089,313,1253,357"/>
+<area shape="rect" id="node22" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1067,509,1275,553"/>
+<area shape="rect" id="node28" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="1072,433,1271,477"/>
+<area shape="rect" id="node18" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1325,320,1569,348"/>
+<area shape="rect" id="node19" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1335,372,1559,400"/>
+<area shape="rect" id="node20" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1640,411,1823,439"/>
+<area shape="rect" id="node23" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1347,527,1548,571"/>
+<area shape="rect" id="node24" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1643,651,1819,695"/>
+<area shape="rect" id="node25" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1643,463,1819,507"/>
+<area shape="rect" id="node26" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1654,531,1809,575"/>
+<area shape="rect" id="node27" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1617,599,1845,627"/>
+<area shape="rect" id="node30" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="883,376,951,404"/>
+</map>

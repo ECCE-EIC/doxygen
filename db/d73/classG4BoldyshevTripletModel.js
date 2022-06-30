@@ -1,0 +1,25 @@
+var classG4BoldyshevTripletModel =
+[
+    [ "G4BoldyshevTripletModel", "db/d73/classG4BoldyshevTripletModel.html#aa49e9cb5909d94261af4ee772d2eb2ec", null ],
+    [ "~G4BoldyshevTripletModel", "db/d73/classG4BoldyshevTripletModel.html#a0a1798536c5457f9cffa82f43db27e3b", null ],
+    [ "G4BoldyshevTripletModel", "db/d73/classG4BoldyshevTripletModel.html#a9c5ea5814433279d71f210dd66e35803", null ],
+    [ "ComputeCrossSectionPerAtom", "db/d73/classG4BoldyshevTripletModel.html#a9e1a8b8c63c4171f595d987367086c7d", null ],
+    [ "Initialise", "db/d73/classG4BoldyshevTripletModel.html#afc1ffcea590ad583b2480849b05ef4bb", null ],
+    [ "InitialiseForElement", "db/d73/classG4BoldyshevTripletModel.html#a1302d64943e9eca7ce86d3afd4e1df69", null ],
+    [ "MinPrimaryEnergy", "db/d73/classG4BoldyshevTripletModel.html#a069011ff9ad7ac3928a644ab0a03398a", null ],
+    [ "operator=", "db/d73/classG4BoldyshevTripletModel.html#a38e0e0ff838b3e324698ad26fdfe70a1", null ],
+    [ "ReadData", "db/d73/classG4BoldyshevTripletModel.html#a6020b4bd3046766aed649e5046b2b30f", null ],
+    [ "SampleSecondaries", "db/d73/classG4BoldyshevTripletModel.html#aa7c44d4ecede59af361357c1d16f1e16", null ],
+    [ "ScreenFunction1", "db/d73/classG4BoldyshevTripletModel.html#a8dc29fca31e25737b4b474bae28fc6d4", null ],
+    [ "ScreenFunction2", "db/d73/classG4BoldyshevTripletModel.html#a59dc8ed7dfdb3ade7c0a033178768950", null ],
+    [ "data", "db/d73/classG4BoldyshevTripletModel.html#a97ec62b59c7728a57c3cb444731a7434", null ],
+    [ "energyThreshold", "db/d73/classG4BoldyshevTripletModel.html#a9620b6d69a3ad1869573b1a1aceac851", null ],
+    [ "fParticleChange", "db/d73/classG4BoldyshevTripletModel.html#a748b0d12b5a004a872b6a42d62ba9cd1", null ],
+    [ "lowEnergyLimit", "db/d73/classG4BoldyshevTripletModel.html#ac1009edfa2209d9d43e54852e02b7b6a", null ],
+    [ "maxZ", "db/d73/classG4BoldyshevTripletModel.html#ad5dd1e3c313215f000e61c6103bdb79b", null ],
+    [ "momentumThreshold_c", "db/d73/classG4BoldyshevTripletModel.html#a15c0bcb9a214019c490ddf17f59a22e8", null ],
+    [ "smallEnergy", "db/d73/classG4BoldyshevTripletModel.html#a7904afc4151ffe860f732a0873a8af6c", null ],
+    [ "verboseLevel", "db/d73/classG4BoldyshevTripletModel.html#aa2eae387b3af35e550022d19d914b87d", null ],
+    [ "xb", "db/d73/classG4BoldyshevTripletModel.html#a010090498d56a59b22ac8365fe5c2c21", null ],
+    [ "xn", "db/d73/classG4BoldyshevTripletModel.html#aa73fa9748b5395d3e67f792a5ef1e11c", null ]
+];

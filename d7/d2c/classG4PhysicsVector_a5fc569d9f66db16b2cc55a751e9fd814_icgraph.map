@@ -1,0 +1,29 @@
+<map id="G4PhysicsVector::ScaleVector" name="G4PhysicsVector::ScaleVector">
+<area shape="rect" id="node2" href="$d1/d55/classG4SPSEneDistribution.html#ad69208aebb2e7803a8faa5091c32c2c4" title="G4SPSEneDistribution\l::ExpInterpolation" alt="" coords="295,141,465,185"/>
+<area shape="rect" id="node5" href="$d1/d55/classG4SPSEneDistribution.html#a0c464786b6e6036dc87cbe46ee2a3292" title="G4SPSEneDistribution\l::LinearInterpolation" alt="" coords="295,209,465,253"/>
+<area shape="rect" id="node6" href="$d1/d55/classG4SPSEneDistribution.html#a889be67d7d422055a47c37876530b32e" title="G4SPSEneDistribution\l::LogInterpolation" alt="" coords="295,5,465,49"/>
+<area shape="rect" id="node7" href="$d1/d96/classG4LivermorePolarizedPhotoElectricGDModel.html#a64b23801f57c0ddc67a5cb6b8be4c980" title="G4LivermorePolarizedPhoto\lElectricGDModel::ReadData" alt="" coords="276,277,484,321"/>
+<area shape="rect" id="node11" href="$d4/dab/classG4LivermorePolarizedPhotoElectricModel.html#af7a7eaf689fc8c8efd519c8a154fc036" title="G4LivermorePolarizedPhoto\lElectricModel::ReadData" alt="" coords="276,345,484,389"/>
+<area shape="rect" id="node15" href="$d2/d10/classG4LivermorePhotoElectricModel.html#a912eb6953d16ffe2ff3bd76293bd948a" title="G4LivermorePhotoElectric\lModel::ReadData" alt="" coords="282,413,478,457"/>
+<area shape="rect" id="node20" href="$de/d9a/classG4ComponentSAIDTotalXS.html#aa723eb34481bd7e8ba74748a90f9c593" title="G4ComponentSAIDTotalXS\l::ReadData" alt="" coords="279,621,481,665"/>
+<area shape="rect" id="node26" href="$d2/dbc/classG4PhysicsLinearVector.html#aa49d43b262b2ab6bc39c4e7a35184fec" title="G4PhysicsLinearVector\l::ScaleVector" alt="" coords="292,481,468,525"/>
+<area shape="rect" id="node27" href="$d4/de8/classG4PhysicsLogVector.html#a43230fa747c552fe82d5b4a92a5d443c" title="G4PhysicsLogVector\l::ScaleVector" alt="" coords="301,549,459,593"/>
+<area shape="rect" id="node28" href="$d1/d55/classG4SPSEneDistribution.html#a76b4e960c89604b6e58da3f4811e1303" title="G4SPSEneDistribution\l::SplineInterpolation" alt="" coords="295,73,465,117"/>
+<area shape="rect" id="node3" href="$d1/d55/classG4SPSEneDistribution.html#a6e47b4f1ba657879854bd12cfd9763ea" title="G4SPSEneDistribution\l::ArbInterpolate" alt="" coords="575,73,745,117"/>
+<area shape="rect" id="node4" href="$d9/d1c/classG4GeneralParticleSourceMessenger.html#add562b7a8b10db91ff3a7b810274bffe" title="G4GeneralParticleSourceMessenger\l::SetNewValue" alt="" coords="849,73,1113,117"/>
+<area shape="rect" id="node8" href="$d1/d96/classG4LivermorePolarizedPhotoElectricGDModel.html#a00c46e6f6a9ae7ffa37ca3862fa00940" title="G4LivermorePolarizedPhoto\lElectricGDModel::Initialise" alt="" coords="556,141,764,185"/>
+<area shape="rect" id="node9" href="$d1/d96/classG4LivermorePolarizedPhotoElectricGDModel.html#acc87def2522971eb5d6555bb0c6b3f84" title="G4LivermorePolarizedPhoto\lElectricGDModel::InitialiseFor\lElement" alt="" coords="550,209,770,269"/>
+<area shape="rect" id="node10" href="$d1/d96/classG4LivermorePolarizedPhotoElectricGDModel.html#a565e3d9b71dabb7ebb35e395963fa129" title="G4LivermorePolarizedPhoto\lElectricGDModel::ComputeCrossSection\lPerAtom" alt="" coords="836,209,1125,269"/>
+<area shape="rect" id="node12" href="$d4/dab/classG4LivermorePolarizedPhotoElectricModel.html#a6ad5394db72648a63a78a3bab833342c" title="G4LivermorePolarizedPhoto\lElectricModel::Initialise" alt="" coords="556,293,764,337"/>
+<area shape="rect" id="node13" href="$d4/dab/classG4LivermorePolarizedPhotoElectricModel.html#ac1a59d3678b93beb7349b0a84c7452ab" title="G4LivermorePolarizedPhoto\lElectricModel::InitialiseForElement" alt="" coords="532,361,788,405"/>
+<area shape="rect" id="node14" href="$d4/dab/classG4LivermorePolarizedPhotoElectricModel.html#aa95ae05dc14960e5ca2b871c1b06b0d4" title="G4LivermorePolarizedPhoto\lElectricModel::ComputeCrossSection\lPerAtom" alt="" coords="846,349,1115,409"/>
+<area shape="rect" id="node16" href="$d2/d10/classG4LivermorePhotoElectricModel.html#ab21505d2f9cf8de4491515b4101d7f5c" title="G4LivermorePhotoElectric\lModel::Initialise" alt="" coords="562,429,758,473"/>
+<area shape="rect" id="node17" href="$d2/d10/classG4LivermorePhotoElectricModel.html#a26c3e4b246ef099d6f63e514573b165b" title="G4LivermorePhotoElectric\lModel::InitialiseForElement" alt="" coords="557,497,763,541"/>
+<area shape="rect" id="node18" href="$d2/d10/classG4LivermorePhotoElectricModel.html#a303f79bc1cf851db2a69fe9b75a61286" title="G4LivermorePhotoElectric\lModel::ComputeCrossSectionPerAtom" alt="" coords="843,433,1119,477"/>
+<area shape="rect" id="node19" href="$d2/d10/classG4LivermorePhotoElectricModel.html#a8e003a582bfea61feced9a12d148691c" title="G4LivermorePhotoElectric\lModel::GetBindingEnergy" alt="" coords="883,501,1079,545"/>
+<area shape="rect" id="node21" href="$de/d9a/classG4ComponentSAIDTotalXS.html#a30987922c69bfb14f7e07fc051cc3c59" title="G4ComponentSAIDTotalXS\l::Initialise" alt="" coords="559,629,761,673"/>
+<area shape="rect" id="node22" href="$de/d9a/classG4ComponentSAIDTotalXS.html#a3aa7ee9848dc8523f8014c8a1df5ea9f" title="G4ComponentSAIDTotalXS\l::GetChargeExchangeCrossSection" alt="" coords="853,705,1109,749"/>
+<area shape="rect" id="node23" href="$de/d9a/classG4ComponentSAIDTotalXS.html#a98e6635f162410f7ebe382fb35c1f562" title="G4ComponentSAIDTotalXS\l::GetElasticIsotopeCrossSection" alt="" coords="863,569,1098,613"/>
+<area shape="rect" id="node25" href="$de/d9a/classG4ComponentSAIDTotalXS.html#a3fd5c7bd333bdd45676d9ecaddf06ca0" title="G4ComponentSAIDTotalXS\l::GetInelasticIsotopeCrossSection" alt="" coords="857,637,1104,681"/>
+<area shape="rect" id="node24" href="$de/d9a/classG4ComponentSAIDTotalXS.html#a886875ae70a724da19b12fd1ddeb0b31" title="G4ComponentSAIDTotalXS\l::GetTotalIsotopeCrossSection" alt="" coords="1173,604,1396,648"/>
+</map>

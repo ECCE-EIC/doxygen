@@ -1,0 +1,11 @@
+<map id="PDBlib::ComputeNucleotideBarycenters" name="PDBlib::ComputeNucleotideBarycenters">
+<area shape="rect" id="node2" href="$d0/d66/classPDBlib.html#a71d0e611630ba4b93cbcf5a32a106e48" title="return distance between two 3D points" alt="" coords="261,5,480,33"/>
+<area shape="rect" id="node3" href="$dc/d81/classResidue.html#a0c78d4155a268c294bf5f1ecd2c21b79" title="Get the first atom." alt="" coords="302,57,439,85"/>
+<area shape="rect" id="node4" href="$db/d4c/classMolecule.html#aa755c1967f76c515e3b4ba49ef2e464a" title="Get the first Residue." alt="" coords="299,109,443,137"/>
+<area shape="rect" id="node5" href="$db/d4c/classMolecule.html#acb6fb063b24023b608fd4586b65a852a" title="information about molecule (not implemented)" alt="" coords="297,161,444,189"/>
+<area shape="rect" id="node6" href="$dc/d81/classResidue.html#a9b46a2961baeb59391030eae37db2803" title="Get the next residue." alt="" coords="301,213,441,241"/>
+<area shape="rect" id="node7" href="$d2/dce/classAtom.html#ab820a047d3f03a3f684e91373a37b847" title="Returns the next Atom." alt="" coords="309,265,432,293"/>
+<area shape="rect" id="node8" href="$d6/dbc/classBarycenter.html#afd8d5c5fd51e5ced07e38fe5dfefe039" title="Set the distance between atom i and nucleotide barycenter." alt="" coords="278,317,463,345"/>
+<area shape="rect" id="node9" href="$d6/dbc/classBarycenter.html#a4441e368b3d66b7f1b42f305de2cf39c" title="Set the next Barycenter." alt="" coords="291,369,450,397"/>
+<area shape="rect" id="node10" href="$d6/dbc/classBarycenter.html#aa9380695786b5afda093444f1af9c204" title="Set the distance between the farther atom and nucleotide barycenter." alt="" coords="285,421,457,449"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G4RunManager::RunTermination" name="G4RunManager::RunTermination">
+<area shape="rect" id="node2" href="$d4/daa/classG4RunManager.html#a0e48079a478727a7cd13bcda4a751c0d" title="G4RunManager::CleanUpUnnecessary\lEvents" alt="" coords="292,17,571,61"/>
+<area shape="rect" id="node5" href="$dd/d05/classG4UserRunAction.html#a2f41a89bc7a07534f0f8538cb8f087e3" title="G4UserRunAction::EndOfRun\lAction" alt="" coords="324,85,539,129"/>
+<area shape="rect" id="node6" href="$d0/ddc/classG4VPersistencyManager.html#a60bb1a44c765afc05080054a46d76177" title="G4VPersistencyManager\l::GetPersistencyManager" alt="" coords="336,153,527,197"/>
+<area shape="rect" id="node7" href="$df/d21/classG4VScoreNtupleWriter.html#ac5c5feb7222db80c5519b97de9354347" title="G4VScoreNtupleWriter\l::Instance" alt="" coords="345,221,518,265"/>
+<area shape="rect" id="node10" href="$de/d51/classG4RunManagerKernel.html#a8b6610b51ea9b7c9038983aa2dfd7a3c" title="G4RunManagerKernel\l::RunTermination" alt="" coords="347,289,515,333"/>
+<area shape="rect" id="node17" href="$d0/ddc/classG4VPersistencyManager.html#abd9781f2c9a5824a70fdab879aeae58c" title="G4VPersistencyManager\l::Store" alt="" coords="338,357,525,401"/>
+<area shape="rect" id="node18" href="$df/d21/classG4VScoreNtupleWriter.html#a3fb1c90499fc302313cc37469fb8b26a" title="G4VScoreNtupleWriter\l::Write" alt="" coords="345,425,518,469"/>
+<area shape="rect" id="node3" href="$d5/de2/classG4Event.html#aca97ae0585199c4ecec6ada0e58d45ff" title="G4Event::GetNumberOfGrips" alt="" coords="625,5,843,33"/>
+<area shape="rect" id="node4" href="$d5/de2/classG4Event.html#ae14d31a7fff813076d94df1199551977" title="G4Event::ToBeKept" alt="" coords="658,57,810,85"/>
+<area shape="rect" id="node8" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="622,121,846,149"/>
+<area shape="rect" id="node9" href="$df/d21/classG4VScoreNtupleWriter.html#ad2a9e55c575d179a2c78e7a3b2a70712" title="G4VScoreNtupleWriter\l::CreateInstance" alt="" coords="647,173,821,217"/>
+<area shape="rect" id="node11" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="639,241,829,285"/>
+<area shape="rect" id="node12" href="$d5/dda/classG4ProductionCutsTable.html#acc7caeda67e354ecdac1abdf4151e74a" title="G4ProductionCutsTable\l::PhysicsTableUpdated" alt="" coords="645,309,823,353"/>
+<area shape="rect" id="node13" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="633,377,835,421"/>
+<area shape="rect" id="node16" href="$de/dd6/classG4StateManager.html#ad90d4deb9f4852c06142ee8499a9968b" title="G4StateManager::SetNewState" alt="" coords="619,445,849,473"/>
+<area shape="rect" id="node14" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="897,385,1156,413"/>
+<area shape="rect" id="node15" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1204,385,1345,413"/>
+</map>

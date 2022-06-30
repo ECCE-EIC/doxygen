@@ -1,0 +1,27 @@
+var classLBE =
+[
+    [ "LBE", "d4/d5a/classLBE.html#a4683615eb7e79d60cbb39924eb1eae97", null ],
+    [ "~LBE", "d4/d5a/classLBE.html#a83c77fe34e30affdc82bdf5eb95649df", null ],
+    [ "LBE", "d4/d5a/classLBE.html#aa970329d0d1da303e86a38a8f76b859b", null ],
+    [ "AddTransportation", "d4/d5a/classLBE.html#a0e5d330e2d740bafe6be3f4b45682875", null ],
+    [ "ConstructEM", "d4/d5a/classLBE.html#a0222f94570af78eb697697680277dd79", null ],
+    [ "ConstructGeneral", "d4/d5a/classLBE.html#afc8a3bbed96333568eb70ffceed92830", null ],
+    [ "ConstructHad", "d4/d5a/classLBE.html#adb1b57c0685ab2bc43a9a9d40e7b84d8", null ],
+    [ "ConstructMyBaryons", "d4/d5a/classLBE.html#a43d7090ed087e17cae1fce773e5be44b", null ],
+    [ "ConstructMyBosons", "d4/d5a/classLBE.html#afca277b05621329c8eaf09d4c59ea770", null ],
+    [ "ConstructMyIons", "d4/d5a/classLBE.html#a030fa338a040c5fc967cc503a3e9ba38", null ],
+    [ "ConstructMyLeptons", "d4/d5a/classLBE.html#ae725acdc5885d43dc8e8cbabc25d1656", null ],
+    [ "ConstructMyMesons", "d4/d5a/classLBE.html#a642aafa106ee043d2aecbc1544879a16", null ],
+    [ "ConstructMyShortLiveds", "d4/d5a/classLBE.html#ad8b6434dfee434e1313393ca787a5563", null ],
+    [ "ConstructOp", "d4/d5a/classLBE.html#a4469f9e0b2e44ae5f109ea7e2c4a4dca", null ],
+    [ "ConstructParticle", "d4/d5a/classLBE.html#a060061f994ecb3f03bb6cc3a046d4eb3", null ],
+    [ "ConstructProcess", "d4/d5a/classLBE.html#a2b7ddc3feee5cc7a33c8247abe662836", null ],
+    [ "operator=", "d4/d5a/classLBE.html#ab5f6e52fa9a73063a4e96d042480fffb", null ],
+    [ "SetCuts", "d4/d5a/classLBE.html#a8e2866a1d0276d348aa9bc55cc70a34b", null ],
+    [ "cutForElectron", "d4/d5a/classLBE.html#ad512d5adb5039d3d8337bd4582901667", null ],
+    [ "cutForGamma", "d4/d5a/classLBE.html#a5c4c308fff5638ddf9d0cd82ba9d34b0", null ],
+    [ "cutForPositron", "d4/d5a/classLBE.html#a8171de5ae52eab864ca96e9f29ff640b", null ],
+    [ "OpVerbLevel", "d4/d5a/classLBE.html#a64ebea67cd45859a2f820e32e4cf565f", null ],
+    [ "stoppingPhysics", "d4/d5a/classLBE.html#ad976a784d2f8a645a17043379e87b943", null ],
+    [ "VerboseLevel", "d4/d5a/classLBE.html#a47a847f406e886305529db74bf3fe72c", null ]
+];

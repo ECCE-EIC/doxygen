@@ -1,0 +1,16 @@
+<map id="G4CoupledTransportation::EndTracking" name="G4CoupledTransportation::EndTracking">
+<area shape="rect" id="node2" href="$dd/dfc/classG4PathFinder.html#a464a44ed8e6290c02d30c9a88d21f1f8" title="G4PathFinder::EndTrack" alt="" coords="261,228,444,256"/>
+<area shape="rect" id="node8" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="247,319,459,363"/>
+<area shape="rect" id="node15" href="$d1/dd0/classG4TransportationManager.html#ad566b418d5526549f4dd7b9d59779c77" title="G4TransportationManager\l::InactivateAll" alt="" coords="253,387,452,431"/>
+<area shape="rect" id="node3" href="$dd/dfc/classG4PathFinder.html#a06d023c89dfd2ac98e75aa7f893e9082" title="G4PathFinder::EnableParallel\lNavigation" alt="" coords="507,141,723,185"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a6939093ee6b1270721ce60875664722a" title="G4TransportationManager\l::GetNavigatorForTracking" alt="" coords="787,5,986,49"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#a1b094f8e5aba16999bd47b951241dd8a" title="G4TransportationManager\l::GetSafetyHelper" alt="" coords="787,73,986,117"/>
+<area shape="rect" id="node6" href="$d3/db4/classG4SafetyHelper.html#ab53b856d545c294b8ce63e36796c2b06" title="G4SafetyHelper::EnableParallel\lNavigation" alt="" coords="771,141,1003,185"/>
+<area shape="rect" id="node7" href="$dd/d94/classG4PropagatorInField.html#a3a748ea5c3a43942792fc2afd1edcb71" title="G4PropagatorInField\l::SetNavigatorForPropagating" alt="" coords="777,209,997,253"/>
+<area shape="rect" id="node9" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="511,359,718,403"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="833,277,940,305"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="789,329,984,373"/>
+<area shape="rect" id="node12" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="810,397,963,425"/>
+<area shape="rect" id="node13" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="801,449,972,477"/>
+<area shape="rect" id="node14" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="773,501,1001,529"/>
+</map>

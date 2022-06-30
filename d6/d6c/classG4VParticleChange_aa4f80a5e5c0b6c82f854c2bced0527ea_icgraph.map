@@ -1,0 +1,22 @@
+<map id="G4VParticleChange::AddSecondary" name="G4VParticleChange::AddSecondary">
+<area shape="rect" id="node2" href="$d7/dcb/classG4ParticleChangeForGamma.html#ab7550705cb0248aa873407b8c2468cae" title="G4ParticleChangeForGamma\l::AddSecondary" alt="" coords="230,5,446,49"/>
+<area shape="rect" id="node3" href="$d2/d06/classG4ParticleChange.html#a20096356ac1afb73c1137d616b67b152" title="G4ParticleChange::AddSecondary" alt="" coords="213,73,463,101"/>
+<area shape="rect" id="node4" href="$dc/d88/classG4eplusAnnihilation.html#adae19cc1e541200a99c458dd715f83a8" title="G4eplusAnnihilation\l::AtRestDoIt" alt="" coords="259,125,417,169"/>
+<area shape="rect" id="node5" href="$d4/df5/classG4FastStep.html#a3df706a1ea3b6f53e3338b1e88d40660" title="G4FastStep::CreateSecondary\lTrack" alt="" coords="226,193,450,237"/>
+<area shape="rect" id="node6" href="$d5/d3b/classG4UnknownDecay.html#adf963978fa26c66eeb9c4dfa2d7c476e" title="G4UnknownDecay::DecayIt" alt="" coords="235,261,441,289"/>
+<area shape="rect" id="node8" href="$dc/deb/classG4Decay.html#a3141051aeee3264a15ab5cb6d785e0bc" title="G4Decay::DecayIt" alt="" coords="267,313,409,341"/>
+<area shape="rect" id="node13" href="$da/d80/classG4VEnergyLossProcess.html#ac091040884a0a2c2d77d517cd4cff084" title="G4VEnergyLossProcess\l::FillSecondariesAlongStep" alt="" coords="237,365,439,409"/>
+<area shape="rect" id="node15" href="$db/d0f/classSplitProcess.html#a32d40dd8e1591edcb6ddb27863695445" title="SplitProcess::PostStepDoIt" alt="" coords="239,433,437,461"/>
+<area shape="rect" id="node16" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="229,485,447,513"/>
+<area shape="rect" id="node19" href="$da/d80/classG4VEnergyLossProcess.html#afd83c7b4ebe650589101841e43fcdc6a" title="G4VEnergyLossProcess\l::PostStepDoIt" alt="" coords="249,537,427,581"/>
+<area shape="rect" id="node20" href="$d9/d47/classG4ParticleChangeForOccurenceBiasing.html#a9d76b9851722d3f6a1e731534e82cc26" title="G4ParticleChangeForOccurence\lBiasing::StealSecondaries" alt="" coords="221,605,455,649"/>
+<area shape="rect" id="node7" href="$d5/d3b/classG4UnknownDecay.html#abb5113bbb4fe6c68260941a1bfff4d90" title="G4UnknownDecay::PostStepDoIt" alt="" coords="511,157,752,185"/>
+<area shape="rect" id="node9" href="$dc/d66/classG4DecayWithSpin.html#a789c12b2e8ad451a8f901e5818f4cad1" title="G4DecayWithSpin::AtRestDoIt" alt="" coords="519,209,743,237"/>
+<area shape="rect" id="node10" href="$dc/deb/classG4Decay.html#a79b8317ea07f17afc96989c2b5ec2e4e" title="G4Decay::AtRestDoIt" alt="" coords="550,261,713,289"/>
+<area shape="rect" id="node11" href="$dc/d66/classG4DecayWithSpin.html#adc3e8bae39e0363c3de8aa9799e00b9a" title="G4DecayWithSpin::PostStepDoIt" alt="" coords="511,313,751,341"/>
+<area shape="rect" id="node12" href="$dc/deb/classG4Decay.html#afa034d2998c54b9c084981c4340a9ad5" title="G4Decay::PostStepDoIt" alt="" coords="542,365,721,393"/>
+<area shape="rect" id="node14" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="543,417,720,461"/>
+<area shape="rect" id="node17" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="532,485,731,529"/>
+<area shape="rect" id="node18" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="800,485,999,529"/>
+<area shape="rect" id="node21" href="$d6/d72/classG4BiasingProcessInterface.html#a6cb8596a88441628f153e75502808da4" title="G4BiasingProcessInterface\l::PostStepDoIt" alt="" coords="531,605,732,649"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4Deuteron::Definition" name="G4Deuteron::Definition">
+<area shape="rect" id="node2" href="$df/dfb/classG4Deuteron.html#a0e66e34b476195b9c697bed1bccb8c02" title="G4Deuteron::Deuteron" alt="" coords="263,1493,438,1521"/>
+<area shape="rect" id="node48" href="$df/dfb/classG4Deuteron.html#a746c5d50268d2eb7316e54a080aa1e0f" title="G4Deuteron::DeuteronDefinition" alt="" coords="231,1545,471,1573"/>
+<area shape="rect" id="node49" href="$d2/d5e/classG4InuclElementaryParticle.html#a0800b546dac0295a975e602d932b5032" title="G4InuclElementaryParticle\l::makeDefinition" alt="" coords="251,1597,451,1641"/>
+<area shape="rect" id="node50" href="$d2/d5e/classG4InuclElementaryParticle.html#a975509a3a0676037e3d904d4e17ee9b5" title="G4InuclElementaryParticle\l::type" alt="" coords="251,1665,451,1709"/>
+<area shape="rect" id="node3" href="$d7/dd5/classIonPhysics.html#aa33594f4608f1ccd441cbf67c244fe86" title="IonPhysics::ConstructProcess" alt="" coords="545,5,763,33"/>
+<area shape="rect" id="node4" href="$db/db8/classGammaRayTelIonPhysics.html#ac0207fd62184ec41f25501994a8519d8" title="GammaRayTelIonPhysics\l::ConstructProcess" alt="" coords="559,57,749,101"/>
+<area shape="rect" id="node5" href="$db/db9/classPhysListEm5DStandard.html#a4eaf5b2f1f13fe0bdba8d9d61efe3ef2" title="PhysListEm5DStandard\l::ConstructParticle" alt="" coords="565,125,743,169"/>
+<area shape="rect" id="node6" href="$d7/dfe/classPhysListEm19DStandard.html#aa29195cb5bb2d9080b451393204ef6e2" title="PhysListEm19DStandard\l::ConstructParticle" alt="" coords="561,193,747,237"/>
+<area shape="rect" id="node7" href="$d7/d8d/classG4EmStandardPhysics__option4__channeling.html#a5631d6bc8032e89237bbad93e42a21b5" title="G4EmStandardPhysics\l_option4_channeling\l::ConstructParticle" alt="" coords="567,261,741,321"/>
+<area shape="rect" id="node8" href="$d1/d98/classG4DeuteronBuilder.html#a2cd9d5f64b5ffa11fc6d986203b4933d" title="G4DeuteronBuilder::\lBuild" alt="" coords="575,345,733,389"/>
+<area shape="rect" id="node9" href="$d0/d98/classG4DeuteronPHPBuilder.html#a7bcbac416cfa418d79b57403b7b8ab9a" title="G4DeuteronPHPBuilder\l::Build" alt="" coords="565,413,743,457"/>
+<area shape="rect" id="node10" href="$d3/da8/classG4EmLivermorePhysics.html#afc77f51ed25366eeaf5f71415a2794ad" title="G4EmLivermorePhysics\l::ConstructParticle" alt="" coords="564,481,744,525"/>
+<area shape="rect" id="node11" href="$d2/da2/classG4EmLivermorePolarizedPhysics.html#afe57d71fe0f248e2bd0738828f5a0769" title="G4EmLivermorePolarizedPhysics\l::ConstructParticle" alt="" coords="533,549,775,593"/>
+<area shape="rect" id="node12" href="$d6/de3/classG4EmLowEPPhysics.html#ad77981e54747cb7cc7557d78c1b259e1" title="G4EmLowEPPhysics::Construct\lParticle" alt="" coords="539,617,769,661"/>
+<area shape="rect" id="node13" href="$d5/dd0/classG4EmPenelopePhysics.html#a9decd570c83fb62df1b6fb2c1e087f8b" title="G4EmPenelopePhysics\l::ConstructParticle" alt="" coords="567,685,741,729"/>
+<area shape="rect" id="node14" href="$d6/da3/classG4EmStandardPhysics.html#a405175821c92842779a63defa1b43797" title="G4EmStandardPhysics\l::ConstructParticle" alt="" coords="567,753,741,797"/>
+<area shape="rect" id="node15" href="$de/d40/classG4EmStandardPhysics__option1.html#a88268bc08f380223834a1d7089684ac9" title="G4EmStandardPhysics\l_option1::ConstructParticle" alt="" coords="552,821,756,865"/>
+<area shape="rect" id="node16" href="$df/d38/classG4EmStandardPhysics__option2.html#a1febf3a771f44d2f9a02cec98dbfe7e7" title="G4EmStandardPhysics\l_option2::ConstructParticle" alt="" coords="552,889,756,933"/>
+<area shape="rect" id="node17" href="$d6/d7c/classG4EmStandardPhysics__option3.html#adcb316a21e56b977259e0e20d9fe5269" title="G4EmStandardPhysics\l_option3::ConstructParticle" alt="" coords="552,957,756,1001"/>
+<area shape="rect" id="node18" href="$de/d99/classG4EmStandardPhysics__option4.html#a666159763f3a4a70c96722ed90c23491" title="G4EmStandardPhysics\l_option4::ConstructParticle" alt="" coords="552,1025,756,1069"/>
+<area shape="rect" id="node19" href="$db/d0b/classG4EmStandardPhysicsGS.html#afb06d98bf2a91fb4a67262caa93140d0" title="G4EmStandardPhysicsGS\l::ConstructParticle" alt="" coords="557,1093,751,1137"/>
+<area shape="rect" id="node20" href="$d8/d1f/classG4EmStandardPhysicsSS.html#a59a1181d4e8aab4c096bc08f7aa5f7ef" title="G4EmStandardPhysicsSS\l::ConstructParticle" alt="" coords="559,1161,749,1205"/>
+<area shape="rect" id="node21" href="$d4/d49/classG4EmStandardPhysicsWVI.html#a8ea4a844fe0691a44c74d7a44430a156" title="G4EmStandardPhysicsWVI\l::ConstructParticle" alt="" coords="554,1229,754,1273"/>
+<area shape="rect" id="node22" href="$d9/dfa/classG4IonINCLXXPhysics.html#a79f1559efb746ff549e7e3557b0cf01a" title="G4IonINCLXXPhysics\l::ConstructProcess" alt="" coords="574,1297,734,1341"/>
+<area shape="rect" id="node23" href="$da/dcd/classG4IonPhysics.html#ac9ea8a5937ae63158af16c4ebeb7690e" title="G4IonPhysics::ConstructProcess" alt="" coords="536,1365,772,1393"/>
+<area shape="rect" id="node24" href="$df/d98/classG4IonPhysicsPHP.html#a20bdefd3758e009836b47637df41e3c2" title="G4IonPhysicsPHP::Construct\lProcess" alt="" coords="548,1417,760,1461"/>
+<area shape="rect" id="node25" href="$d0/da0/classG4IonQMDPhysics.html#aa3727d7b8241d9d6582747a0a210a954" title="G4IonQMDPhysics::Construct\lProcess" alt="" coords="545,1485,763,1529"/>
+<area shape="rect" id="node26" href="$d8/d11/classG4HadronNucleonXsc.html#ada7e5ed04ed3560785c899fdd49add24" title="G4HadronNucleonXsc\l::G4HadronNucleonXsc" alt="" coords="565,1553,743,1597"/>
+<area shape="rect" id="node27" href="$df/dee/classG4AblaInterface.html#ab74d1b34500741d62a7bb892c84e7927" title="Convert A, Z and S to a G4ParticleDefinition." alt="" coords="543,1621,765,1665"/>
+<area shape="rect" id="node28" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#af19f7617fe23467009744012722cd2bf" title="G4GeneratorPrecompoundInterface\l::G4GeneratorPrecompoundInterface" alt="" coords="519,1689,789,1733"/>
+<area shape="rect" id="node29" href="$da/d7b/classG4LightTargetCollider.html#a566ce8416e4f3e2b41fe465f8dd02aab" title="G4LightTargetCollider\l::G4LightTargetCollider" alt="" coords="565,1757,743,1801"/>
+<area shape="rect" id="node30" href="$da/d7b/classG4LightTargetCollider.html#ae13ff79fa3488a07cfaab7ab02e9b1d3" title="G4LightTargetCollider\l::collide" alt="" coords="570,1825,738,1869"/>
+<area shape="rect" id="node31" href="$d0/dcf/classG4AntiNuclElastic.html#a9ffc8a4a5b435fcafbcbd099c72649a7" title="G4AntiNuclElastic::\lG4AntiNuclElastic" alt="" coords="579,1893,729,1937"/>
+<area shape="rect" id="node32" href="$d8/dfa/classG4ChargeExchange.html#a47489ab0a25472883353f21786538082" title="G4ChargeExchange::G4Charge\lExchange" alt="" coords="538,1961,770,2005"/>
+<area shape="rect" id="node33" href="$d9/df3/classG4ChargeExchangeProcess.html#af223e14c125ef760e1eee5c858c779e8" title="G4ChargeExchangeProcess\l::G4ChargeExchangeProcess" alt="" coords="547,2029,761,2073"/>
+<area shape="rect" id="node34" href="$dd/d0b/classG4DiffuseElastic.html#a5ee06265e922aacaaa604a9383cfd16d" title="G4DiffuseElastic::G4Diffuse\lElastic" alt="" coords="550,2097,758,2141"/>
+<area shape="rect" id="node35" href="$dd/dd9/classG4HadronElastic.html#accf42bf41af60037b83aaa59deb58ab9" title="G4HadronElastic::G4Hadron\lElastic" alt="" coords="549,2165,759,2209"/>
+<area shape="rect" id="node36" href="$d6/d6c/classG4LMsdGenerator.html#a9212a3ad845890c384654302f6be04bc" title="G4LMsdGenerator::ApplyYourself" alt="" coords="532,2233,776,2261"/>
+<area shape="rect" id="node37" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a355b35b48e02baa4205aaf6605e27db9" title="G4NuclNuclDiffuseElastic\l::G4NuclNuclDiffuseElastic" alt="" coords="553,2285,755,2329"/>
+<area shape="rect" id="node38" href="$d7/dfb/classG4WilsonAblationModel.html#af116b70f4421f5de8d0e896626509b54" title="G4WilsonAblationModel\l::G4WilsonAblationModel" alt="" coords="559,2353,749,2397"/>
+<area shape="rect" id="node39" href="$d7/dfb/classG4WilsonAblationModel.html#a25169a208ac81351130eb409ff7c6d36" title="G4WilsonAblationModel\l::SelectSecondariesByEvaporation" alt="" coords="527,2421,781,2465"/>
+<area shape="rect" id="node40" href="$d3/d61/classG4NeutronRadCapture.html#a80deee31a5a1d67059e926ea65664864" title="G4NeutronRadCapture\l::ApplyYourself" alt="" coords="567,2489,741,2533"/>
+<area shape="rect" id="node41" href="$d8/d9d/classG4INCLXXInterface.html#ac70939bf7aac77ddfc76b8de4627dfd8" title="Convert G4ParticleDefinition to corresponding INCL particle type." alt="" coords="575,2557,733,2601"/>
+<area shape="rect" id="node42" href="$d8/d9d/classG4INCLXXInterface.html#aff2f179c54714416beb19b948b1dd804" title="Convert A and Z to a G4ParticleDefinition." alt="" coords="569,2625,739,2669"/>
+<area shape="rect" id="node43" href="$d0/d2f/classG4LENDInelastic.html#a001879381d5da2cd970c87099530d52a" title="G4LENDInelastic::ApplyYourself" alt="" coords="537,2693,771,2721"/>
+<area shape="rect" id="node44" href="$d8/d3f/classG4LENDManager.html#abc2c6860047faa1618d17c02e799a815" title="G4LENDManager::G4LENDManager" alt="" coords="524,2745,784,2773"/>
+<area shape="rect" id="node45" href="$da/da7/classG4NuMuNucleusNcModel.html#a790e8687db2d4dc62c21d21b3e4988d4" title="G4NuMuNucleusNcModel\l::ApplyYourself" alt="" coords="559,2797,749,2841"/>
+<area shape="rect" id="node46" href="$dc/d77/classG4ParticleHP2AInelasticFS.html#ad2cd203e6ef6548ce7a5e18fd9cf339f" title="G4ParticleHP2AInelasticFS\l::Init" alt="" coords="555,2865,753,2909"/>
+<area shape="rect" id="node47" href="$db/d56/classG4ParticleHP2N2AInelasticFS.html#a61760d10219637a806bd2404b3f16576" title="G4ParticleHP2N2AInelastic\lFS::Init" alt="" coords="553,2933,755,2977"/>
+</map>

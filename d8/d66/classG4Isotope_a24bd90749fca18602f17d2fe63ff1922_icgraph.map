@@ -1,0 +1,33 @@
+<map id="G4Isotope::GetName" name="G4Isotope::GetName">
+<area shape="rect" id="node2" href="$d6/dc2/classG4GDMLWriteMaterials.html#ab3d49cdeb5140a6c7b100d0f963bb7dc" title="G4GDMLWriteMaterials\l::ElementWrite" alt="" coords="806,155,982,199"/>
+<area shape="rect" id="node8" href="$d3/d04/classPHG4GDMLWriteMaterials.html#a97d49d5aecdd2f3b9092433b3f51a1a1" title="PHG4GDMLWriteMaterials\l::ElementWrite" alt="" coords="797,248,991,292"/>
+<area shape="rect" id="node13" href="$de/d9d/pymodG4materials_8cc.html#aba59a254020762af5f6139fe3dc85e81" title="export_G4Isotope" alt="" coords="559,424,699,452"/>
+<area shape="rect" id="node15" href="$d8/dc5/classG4tgbMaterialMgr.html#a490bc61963cb5b61c3dd05f851b08f76" title="G4tgbMaterialMgr::FindOr\lBuildG4Isotope" alt="" coords="241,48,437,92"/>
+<area shape="rect" id="node20" href="$d8/d66/classG4Isotope.html#a763119dbc217c8a50644f70a51960bf1" title="G4Isotope::GetIsotope" alt="" coords="253,476,425,504"/>
+<area shape="rect" id="node26" href="$de/d7b/classG4tgbGeometryDumper.html#abfd86d7e0ce4edcbab232dd5d3de501f" title="G4tgbGeometryDumper\l::GetIsotopeName" alt="" coords="246,356,431,400"/>
+<area shape="rect" id="node27" href="$d6/dc2/classG4GDMLWriteMaterials.html#ade41597b36f30752225ab5f7158f9a34" title="G4GDMLWriteMaterials\l::IsotopeWrite" alt="" coords="251,168,427,212"/>
+<area shape="rect" id="node29" href="$d3/d04/classPHG4GDMLWriteMaterials.html#aa0d10ca2e27a001a06119f52a98da621" title="PHG4GDMLWriteMaterials\l::IsotopeWrite" alt="" coords="241,288,436,332"/>
+<area shape="rect" id="node31" href="$de/ddf/classSTCyclotronDetectorConstruction.html#ae9bf54ee8124d4eea487ca2ca7e52eca" title="STCyclotronDetectorConstruction\l::UpdateFoilMaterial" alt="" coords="216,528,461,572"/>
+<area shape="rect" id="node32" href="$de/ddf/classSTCyclotronDetectorConstruction.html#ad7568187616d3954f662844948561176" title="STCyclotronDetectorConstruction\l::UpdateMaterial" alt="" coords="216,596,461,640"/>
+<area shape="rect" id="node3" href="$d6/dc2/classG4GDMLWriteMaterials.html#abaf9dc467a7a5529a50edf536af5ae2f" title="G4GDMLWriteMaterials\l::AddElement" alt="" coords="1069,155,1245,199"/>
+<area shape="rect" id="node4" href="$d6/dc2/classG4GDMLWriteMaterials.html#a26c1086b0832e299a1b798c54c52b827" title="G4GDMLWriteMaterials\l::MaterialWrite" alt="" coords="1331,155,1507,199"/>
+<area shape="rect" id="node5" href="$d6/dc2/classG4GDMLWriteMaterials.html#a5d07e0b67ac9dc713083e26b3918048b" title="G4GDMLWriteMaterials\l::AddMaterial" alt="" coords="1573,155,1749,199"/>
+<area shape="rect" id="node6" href="$d4/ded/classG4GDMLWriteStructure.html#ad618893f498c97f395b97738cb75a0a6" title="G4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="1815,155,1993,199"/>
+<area shape="rect" id="node7" href="$d4/ded/classG4GDMLWriteStructure.html#a7b590030f21824be91b222b540b9ad19" title="G4GDMLWriteStructure\l::AssemblyWrite" alt="" coords="2049,155,2227,199"/>
+<area shape="rect" id="node9" href="$d3/d04/classPHG4GDMLWriteMaterials.html#aefdb9e07e1d9da07562125baeb0d0447" title="PHG4GDMLWriteMaterials\l::AddElement" alt="" coords="1059,248,1254,292"/>
+<area shape="rect" id="node10" href="$d3/d04/classPHG4GDMLWriteMaterials.html#a24dff32470666c766f8e697a00247b74" title="PHG4GDMLWriteMaterials\l::MaterialWrite" alt="" coords="1321,248,1516,292"/>
+<area shape="rect" id="node11" href="$d3/d04/classPHG4GDMLWriteMaterials.html#a02dfefd1f4b0aa2c122952dc4ebc1a87" title="PHG4GDMLWriteMaterials\l::AddMaterial" alt="" coords="1564,248,1759,292"/>
+<area shape="rect" id="node12" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="1807,248,2001,292"/>
+<area shape="rect" id="node14" href="$de/d9d/pymodG4materials_8cc.html#a8a1782f1cb0b7b0c9a810bf6c99477b8" title="BOOST_PYTHON_MODULE" alt="" coords="797,424,991,452"/>
+<area shape="rect" id="node16" href="$d0/d75/classG4tgbElement.html#a7bfa2333d38b8331c98dab916a98dfa9" title="G4tgbElement::BuildG4Element\lFromIsotopes" alt="" coords="509,48,748,92"/>
+<area shape="rect" id="node17" href="$d8/dc5/classG4tgbMaterialMgr.html#a6e38104de68f87456200ec184a57bd5e" title="G4tgbMaterialMgr::FindOr\lBuildG4Element" alt="" coords="796,48,992,92"/>
+<area shape="rect" id="node18" href="$d7/df5/classG4tgbMaterialMixtureByNoAtoms.html#a43eedd38569da418699ecf73a232302f" title="G4tgbMaterialMixtureByNo\lAtoms::BuildG4Material" alt="" coords="1055,5,1259,49"/>
+<area shape="rect" id="node19" href="$dd/dfb/classG4tgbMaterialMixtureByWeight.html#a6c81cd93cf3ede3e0d038ae761bceb52" title="G4tgbMaterialMixtureByWeight\l::BuildG4Material" alt="" coords="1040,73,1273,117"/>
+<area shape="rect" id="node21" href="$db/d87/classG4GDMLReadMaterials.html#ac024264e6327845dd70b46801ee1f759" title="G4GDMLReadMaterials\l::GetIsotope" alt="" coords="541,476,717,520"/>
+<area shape="rect" id="node22" href="$db/d87/classG4GDMLReadMaterials.html#a253f54f4f85e2971ec6bdbc3ec8204e0" title="G4GDMLReadMaterials\l::MixtureRead" alt="" coords="806,476,982,520"/>
+<area shape="rect" id="node23" href="$db/d87/classG4GDMLReadMaterials.html#acd53bfa1b80bc8f0c3bf4b1e22e7daed" title="G4GDMLReadMaterials\l::ElementRead" alt="" coords="1069,441,1245,485"/>
+<area shape="rect" id="node25" href="$db/d87/classG4GDMLReadMaterials.html#aea2d34239b0d61bca0ea6a645f2b55f2" title="G4GDMLReadMaterials\l::MaterialRead" alt="" coords="1069,509,1245,553"/>
+<area shape="rect" id="node24" href="$db/d87/classG4GDMLReadMaterials.html#aa810ff8fc6c63b50a82825ccccd774e6" title="G4GDMLReadMaterials\l::MaterialsRead" alt="" coords="1331,475,1507,519"/>
+<area shape="rect" id="node28" href="$d6/dc2/classG4GDMLWriteMaterials.html#a510606ee6d4f74c7c75201de42e5d7a7" title="G4GDMLWriteMaterials\l::AddIsotope" alt="" coords="541,168,717,212"/>
+<area shape="rect" id="node30" href="$d3/d04/classPHG4GDMLWriteMaterials.html#afa5d6506fda575a7ebe232b35eac3412" title="PHG4GDMLWriteMaterials\l::AddIsotope" alt="" coords="531,288,726,332"/>
+</map>

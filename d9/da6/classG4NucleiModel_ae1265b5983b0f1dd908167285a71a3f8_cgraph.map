@@ -1,0 +1,51 @@
+<map id="G4NucleiModel::generateInteractionPartners" name="G4NucleiModel::generateInteractionPartners">
+<area shape="rect" id="node2" href="$d9/da6/classG4NucleiModel.html#a0a172ce80018b690b5b7c07a6d9adee2" title="G4NucleiModel::generateInteraction\lLength" alt="" coords="319,1295,584,1339"/>
+<area shape="rect" id="node4" href="$dc/d6e/classG4CascadParticle.html#ab3f790f75a99a854a6d2781c2577747e" title="G4CascadParticle::getParticle" alt="" coords="959,1033,1179,1061"/>
+<area shape="rect" id="node6" href="$d2/d5e/classG4InuclElementaryParticle.html#a55558cc132e9a845d9e90b25e96b0be5" title="G4InuclElementaryParticle\l::type" alt="" coords="1273,1077,1473,1121"/>
+<area shape="rect" id="node9" href="$d9/da6/classG4NucleiModel.html#a16dc2671e87af9034fe20f208c3bc337" title="G4NucleiModel::isProjectile" alt="" coords="967,1273,1171,1301"/>
+<area shape="rect" id="node18" href="$df/d56/namespaceG4InuclSpecialFunctions.html#a637303e4b75e7901cd94d4013d76fd6f" title="G4InuclSpecialFunctions\l::inuclRndm" alt="" coords="975,1428,1162,1472"/>
+<area shape="rect" id="node20" href="$d9/da6/classG4NucleiModel.html#a8c1fb5304cd17f538cad7dbae409137f" title="G4NucleiModel::generateNucleon" alt="" coords="327,1495,575,1523"/>
+<area shape="rect" id="node26" href="$d9/da6/classG4NucleiModel.html#af70f55f0501ef7f891d267ec1dab5ac4" title="G4NucleiModel::generateQuasi\lDeuteron" alt="" coords="336,1547,567,1591"/>
+<area shape="rect" id="node27" href="$dc/d6e/classG4CascadParticle.html#a4a264865e27561aca33f8a31a8c14726" title="G4CascadParticle::getCurrentZone" alt="" coords="632,5,887,33"/>
+<area shape="rect" id="node28" href="$dc/d6e/classG4CascadParticle.html#a00640fcdd0eaa495324d2846ce866d4d" title="G4CascadParticle::getMomentum" alt="" coords="636,705,883,733"/>
+<area shape="rect" id="node31" href="$dc/d6e/classG4CascadParticle.html#afe93e79cc8198858817e6121eb2d87ba" title="G4CascadParticle::getPath\lToTheNextZone" alt="" coords="352,929,551,973"/>
+<area shape="rect" id="node36" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a609a46bf7d9e939b077bbf539090fdcd" title="CLHEP::HepLorentzVector\l::vect" alt="" coords="971,800,1166,844"/>
+<area shape="rect" id="node37" href="$d9/da6/classG4NucleiModel.html#a3ee9795ba451e3980cc404cfbe8dae50" title="G4NucleiModel::inverseMean\lFreePath" alt="" coords="342,360,561,404"/>
+<area shape="rect" id="node47" href="$d9/da6/classG4NucleiModel.html#a81b8849b19f22b6d9aba418a441c7755" title="G4NucleiModel::useQuasiDeuteron" alt="" coords="940,671,1197,699"/>
+<area shape="rect" id="node49" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="356,1615,547,1643"/>
+<area shape="rect" id="node50" href="$d9/da6/classG4NucleiModel.html#ad4dc4383d1679769e9a7cee36e4e3afe" title="G4NucleiModel::sortPartners" alt="" coords="345,1667,558,1695"/>
+<area shape="rect" id="node3" href="$d9/da6/classG4NucleiModel.html#aec94b90098015d7403ede8ea64a4c534" title="G4NucleiModel::forceFirst" alt="" coords="662,1169,857,1197"/>
+<area shape="rect" id="node11" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1340,1492,1407,1520"/>
+<area shape="rect" id="node14" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1341,1337,1405,1365"/>
+<area shape="rect" id="node19" href="$dc/d6e/classG4CascadParticle.html#aee17fe4566498e49002aadf7dd2906e7" title="G4CascadParticle::young" alt="" coords="665,1273,854,1301"/>
+<area shape="rect" id="node5" href="$d2/d5e/classG4InuclElementaryParticle.html#a2f48fe879905d594c3ddaafe68f4348f" title="G4InuclElementaryParticle\l::isMuon" alt="" coords="969,1137,1169,1181"/>
+<area shape="rect" id="node8" href="$d2/d5e/classG4InuclElementaryParticle.html#a9dac3de3a2886fae87581c6c44776afd" title="G4InuclElementaryParticle\l::isPhoton" alt="" coords="969,1205,1169,1249"/>
+<area shape="rect" id="node7" href="$d9/da2/classG4InuclParticle.html#aac20622e2f870e56638bdf04392c4eec" title="G4InuclParticle::getDefinition" alt="" coords="1555,1085,1773,1113"/>
+<area shape="rect" id="node10" href="$dc/d6e/classG4CascadParticle.html#aa996815663531fe6cdaf8ef21d935cce" title="G4CascadParticle::getGeneration" alt="" coords="1251,1273,1496,1301"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1581,1465,1747,1493"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1569,1517,1759,1545"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1568,1337,1760,1365"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1568,1389,1760,1417"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1544,1285,1784,1313"/>
+<area shape="rect" id="node21" href="$d9/da6/classG4NucleiModel.html#a33d4758e17cdca70c70e4b919e0f2c4b" title="G4NucleiModel::generateNucleon\lMomentum" alt="" coords="635,1547,883,1591"/>
+<area shape="rect" id="node22" href="$d9/da6/classG4NucleiModel.html#a39f7093555cb7d798ee25596340a320e" title="G4NucleiModel::getFermiMomentum" alt="" coords="935,1632,1203,1660"/>
+<area shape="rect" id="node23" href="$df/d56/namespaceG4InuclSpecialFunctions.html#ac061fa55814596a4b697310450289ec1" title="G4InuclSpecialFunctions\l::G4cbrt" alt="" coords="975,1496,1162,1540"/>
+<area shape="rect" id="node24" href="$d2/d5e/classG4InuclElementaryParticle.html#ae9ad6a138c4d25837fd47b058ddfca5f" title="G4InuclElementaryParticle\l::getParticleMass" alt="" coords="969,1684,1169,1728"/>
+<area shape="rect" id="node25" href="$df/d56/namespaceG4InuclSpecialFunctions.html#a51f6e7176f1c80b9dea6f66ec027c87d" title="G4InuclSpecialFunctions\l::generateWithRandomAngles" alt="" coords="957,1564,1181,1608"/>
+<area shape="rect" id="node29" href="$d9/da2/classG4InuclParticle.html#ab11174eda75ffc99101afc15f7e7bfb3" title="G4InuclParticle::getMomentum" alt="" coords="953,227,1184,255"/>
+<area shape="rect" id="node30" href="$d7/d5c/classG4DynamicParticle.html#a6a2f12f20a7938ac1677677696d71a57" title="G4DynamicParticle::\lGet4Momentum" alt="" coords="1295,219,1452,263"/>
+<area shape="rect" id="node32" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="704,911,815,939"/>
+<area shape="rect" id="node34" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3b24b40b735f0f3fd9ff2bf60c3046d4" title="CLHEP::Hep3Vector::dot" alt="" coords="667,963,851,991"/>
+<area shape="rect" id="node35" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="659,1015,859,1043"/>
+<area shape="rect" id="node33" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="981,911,1157,939"/>
+<area shape="rect" id="node38" href="$d2/d5e/classG4InuclElementaryParticle.html#a333f9dcf0ac6743f6c4ba96e1882efae" title="G4InuclElementaryParticle\l::isNeutrino" alt="" coords="659,329,859,373"/>
+<area shape="rect" id="node40" href="$db/d9a/classG4LorentzConvertor.html#aaa155ab1134494169d90a0dc9040263e" title="G4LorentzConvertor\l::setBullet" alt="" coords="681,193,838,237"/>
+<area shape="rect" id="node41" href="$db/d9a/classG4LorentzConvertor.html#af68c990c2f06c117faf5dcf30fe78471" title="G4LorentzConvertor\l::setTarget" alt="" coords="681,261,838,305"/>
+<area shape="rect" id="node42" href="$db/d9a/classG4LorentzConvertor.html#a231292c590f6ddbd00fcd35a99ee3d79" title="G4LorentzConvertor\l::toTheCenterOfMass" alt="" coords="677,517,841,561"/>
+<area shape="rect" id="node44" href="$db/d9a/classG4LorentzConvertor.html#aba90230d353605bb900061614317edaa" title="G4LorentzConvertor\l::getKinEnergyInTheTRS" alt="" coords="667,449,852,493"/>
+<area shape="rect" id="node45" href="$d9/da6/classG4NucleiModel.html#a8f02f08830e5a3c0859828d08eaeab04" title="G4NucleiModel::totalCross\lSection" alt="" coords="659,57,859,101"/>
+<area shape="rect" id="node46" href="$d9/da6/classG4NucleiModel.html#abbbeabfc8e46bb2df7cd50c705bb3dea" title="G4NucleiModel::absorption\lCrossSection" alt="" coords="657,585,861,629"/>
+<area shape="rect" id="node48" href="$d9/da6/classG4NucleiModel.html#a043d803d9bccaa6ded4eaf26a5b41d76" title="G4NucleiModel::getCurrent\lDensity" alt="" coords="657,125,862,169"/>
+<area shape="rect" id="node39" href="$db/d32/namespaceG4InuclParticleNames.html#ace5bbc2594782ea532ac963be4d100d2" title="G4InuclParticleNames\l::isNeutrino" alt="" coords="984,279,1153,323"/>
+<area shape="rect" id="node43" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a2a6aac189de495232a7a4ef3b0945903" title="CLHEP::HepLorentzVector\l::boost" alt="" coords="971,484,1166,528"/>
+</map>

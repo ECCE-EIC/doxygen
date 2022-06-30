@@ -1,0 +1,26 @@
+<map id="G4HadronicProcess::GetCrossSectionDataStore" name="G4HadronicProcess::GetCrossSectionDataStore">
+<area shape="rect" id="node2" href="$d9/df3/classG4ChargeExchangeProcess.html#ac6d01c69b607850f35317b802405f48c" title="G4ChargeExchangeProcess\l::BuildPhysicsTable" alt="" coords="1276,295,1483,339"/>
+<area shape="rect" id="node3" href="$dd/d59/classG4GammaGeneralProcess.html#a4474a28ad49b0e36cc173c865a26f16c" title="G4GammaGeneralProcess\l::BuildPhysicsTable" alt="" coords="1280,461,1479,505"/>
+<area shape="rect" id="node4" href="$df/deb/classG4HadronPhysicsShieldingLEND.html#a330f6f0a37b6740f84b093f9a187d833" title="G4HadronPhysicsShielding\lLEND::ExtraConfiguration" alt="" coords="264,139,467,183"/>
+<area shape="rect" id="node6" href="$d9/d3e/classG4HadronPhysicsShielding.html#a25ab90ab616020899e9fa26cf2365d84" title="G4HadronPhysicsShielding\l::ExtraConfiguration" alt="" coords="264,207,467,251"/>
+<area shape="rect" id="node8" href="$db/d3b/classG4ElectronNuclearProcess.html#addf751ac1399ffeac676ebb25509f81d" title="G4ElectronNuclearProcess\l::G4ElectronNuclearProcess" alt="" coords="261,275,469,319"/>
+<area shape="rect" id="node9" href="$d3/d9f/classG4PhotoNuclearProcess.html#a70d4f02e673cb14d7148efc6188294e0" title="G4PhotoNuclearProcess\l::G4PhotoNuclearProcess" alt="" coords="270,343,461,387"/>
+<area shape="rect" id="node10" href="$d6/d97/classG4PositronNuclearProcess.html#a8d26a5a49ed007d34bcbd72b056aecfb" title="G4PositronNuclearProcess\l::G4PositronNuclearProcess" alt="" coords="262,411,469,455"/>
+<area shape="rect" id="node11" href="$d1/d29/classG4MuNeutrinoNucleusProcess.html#a2e6d4d96f81e791669bf7d37e8831b80" title="G4MuNeutrinoNucleusProcess\l::GetMeanFreePath" alt="" coords="253,479,477,523"/>
+<area shape="rect" id="node12" href="$d2/dd8/classG4NeutrinoElectronProcess.html#a06c0c981d90f1d8eaeebc6f899e54824" title="G4NeutrinoElectronProcess\l::GetMeanFreePath" alt="" coords="263,547,468,591"/>
+<area shape="rect" id="node13" href="$d4/df9/classG4HadronElasticProcess.html#a9c582161b72c6b21b0288eb1eb07bd18" title="G4HadronElasticProcess\l::PostStepDoIt" alt="" coords="273,615,458,659"/>
+<area shape="rect" id="node14" href="$d2/dd8/classG4NeutrinoElectronProcess.html#a17871ae57859a29e6508e9c3ef9960d5" title="G4NeutrinoElectronProcess\l::PostStepDoIt" alt="" coords="263,683,468,727"/>
+<area shape="rect" id="node15" href="$d1/d29/classG4MuNeutrinoNucleusProcess.html#aa9b59409a76e85a604a3a574de89fd48" title="G4MuNeutrinoNucleusProcess\l::PostStepDoIt" alt="" coords="253,751,477,795"/>
+<area shape="rect" id="node16" href="$da/d41/classG4HadronicProcessStore.html#a86ef23c0de5ee8e58f480f0494ad0920" title="G4HadronicProcessStore\l::Print" alt="" coords="272,71,459,115"/>
+<area shape="rect" id="node23" href="$da/d41/classG4HadronicProcessStore.html#a346c9708e031edebe4776f5ece800f35" title="G4HadronicProcessStore\l::PrintHtml" alt="" coords="272,819,459,863"/>
+<area shape="rect" id="node25" href="$dd/d59/classG4GammaGeneralProcess.html#a109631ecff68b05eb743ced15d3029a4" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="266,939,465,983"/>
+<area shape="rect" id="node5" href="$df/deb/classG4HadronPhysicsShieldingLEND.html#ae41d542e1e320021e15b270c7607aca0" title="G4HadronPhysicsShielding\lLEND::ConstructProcess" alt="" coords="525,139,728,183"/>
+<area shape="rect" id="node7" href="$d9/d3e/classG4HadronPhysicsShielding.html#ad19081f485b48241acf51f117fa75a8d" title="G4HadronPhysicsShielding\l::ConstructProcess" alt="" coords="525,207,728,251"/>
+<area shape="rect" id="node17" href="$da/d41/classG4HadronicProcessStore.html#a27be3895e5df23bb545cf5f43c958b8d" title="G4HadronicProcessStore\l::Dump" alt="" coords="533,71,720,115"/>
+<area shape="rect" id="node18" href="$da/d41/classG4HadronicProcessStore.html#af9f615aecde275afb0911b7e8a33ec36" title="G4HadronicProcessStore\l::PrintInfo" alt="" coords="776,481,963,525"/>
+<area shape="rect" id="node19" href="$de/dc6/classG4HadronicProcess.html#a6775817e5b74c841ab8adf3315b7aab6" title="G4HadronicProcess::\lBuildPhysicsTable" alt="" coords="1039,378,1199,422"/>
+<area shape="rect" id="node20" href="$dd/dca/classG4AntiNeutronAnnihilationAtRest.html#a7d90b7c37c3dafd14e0a3a8f3e41042b" title="G4AntiNeutronAnnihilation\lAtRest::BuildPhysicsTable" alt="" coords="1018,582,1221,626"/>
+<area shape="rect" id="node21" href="$d1/dfb/classG4HadronStoppingProcess.html#a48153b0df872ca443e3428346d8a3364" title="G4HadronStoppingProcess\l::BuildPhysicsTable" alt="" coords="1019,446,1220,490"/>
+<area shape="rect" id="node22" href="$de/d74/classG4MuonMinusAtomicCapture.html#af2b4d08d3156c8efc6b823a067166f0d" title="G4MuonMinusAtomicCapture\l::BuildPhysicsTable" alt="" coords="1011,514,1228,558"/>
+<area shape="rect" id="node24" href="$da/d41/classG4HadronicProcessStore.html#a539ecb97dc9e26aaf8ab08484abfaf2f" title="G4HadronicProcessStore\l::DumpHtml" alt="" coords="533,633,720,677"/>
+</map>

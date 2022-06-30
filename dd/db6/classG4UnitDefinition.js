@@ -1,0 +1,26 @@
+var classG4UnitDefinition =
+[
+    [ "G4UnitDefinition", "dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85", null ],
+    [ "~G4UnitDefinition", "dd/db6/classG4UnitDefinition.html#a7f38464e991b7434656833955e7ad6ae", null ],
+    [ "G4UnitDefinition", "dd/db6/classG4UnitDefinition.html#a811f23b9f89805bc3159e1fa31395219", null ],
+    [ "BuildUnitsTable", "dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e", null ],
+    [ "ClearUnitsTable", "dd/db6/classG4UnitDefinition.html#a2fc7a906023e3f62a693249a53be7c6c", null ],
+    [ "GetCategory", "dd/db6/classG4UnitDefinition.html#ab312cecd9b92e02f18c9c473a7110c6d", null ],
+    [ "GetName", "dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d", null ],
+    [ "GetSymbol", "dd/db6/classG4UnitDefinition.html#a436c7bc65d054e54bd87102d6618d7aa", null ],
+    [ "GetUnitsTable", "dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432", null ],
+    [ "GetValue", "dd/db6/classG4UnitDefinition.html#af93e48a66270db4b24ed0c260d39a13a", null ],
+    [ "GetValueOf", "dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d", null ],
+    [ "IsUnitDefined", "dd/db6/classG4UnitDefinition.html#a2a5156b608d4414017504ff21b7074c1", null ],
+    [ "operator!=", "dd/db6/classG4UnitDefinition.html#a73b6cbebf52a00a486a24d165b5e290b", null ],
+    [ "operator=", "dd/db6/classG4UnitDefinition.html#a12fa0eaf97484aaab258bef6e7e0920a", null ],
+    [ "operator==", "dd/db6/classG4UnitDefinition.html#a067eefa9eba0c507dc33f2508eae0f93", null ],
+    [ "PrintDefinition", "dd/db6/classG4UnitDefinition.html#a8fca96e7c5cf44cd3eb96782ef09d2e9", null ],
+    [ "PrintUnitsTable", "dd/db6/classG4UnitDefinition.html#ab39c9f13a57897adb94b6f7e99ab852c", null ],
+    [ "CategoryIndex", "dd/db6/classG4UnitDefinition.html#a7d2dec75d9a55c8d87bffbbe103de88a", null ],
+    [ "Name", "dd/db6/classG4UnitDefinition.html#a97947303bff2ebe80f67ee8a35b63fbb", null ],
+    [ "pUnitsTable", "dd/db6/classG4UnitDefinition.html#a89dea9dbb565d899767f12729f5ea42f", null ],
+    [ "SymbolName", "dd/db6/classG4UnitDefinition.html#a18b7e2a0e8bad3b91c7ad65d4e4c8bc0", null ],
+    [ "unitsTableDestroyed", "dd/db6/classG4UnitDefinition.html#a5e6dfa46fde98a67ca90cb97e7eb0303", null ],
+    [ "Value", "dd/db6/classG4UnitDefinition.html#a7a132157ed34115521a2cceab59d87bb", null ]
+];

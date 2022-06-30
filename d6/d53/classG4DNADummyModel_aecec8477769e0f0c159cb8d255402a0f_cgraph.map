@@ -1,0 +1,29 @@
+<map id="G4DNADummyModel::Initialise" name="G4DNADummyModel::Initialise">
+<area shape="rect" id="node2" href="$db/dae/classG4VDNAModel.html#affa63feee5b5d7880671d7c4ce24c2fc" title="EnableMaterialAndParticle." alt="" coords="283,35,533,79"/>
+<area shape="rect" id="node3" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="597,5,779,33"/>
+<area shape="rect" id="node5" href="$d3/db5/classG4DNAMolecularMaterial.html#a97d522ebb550da101803187a75a94c87" title="Retrieve a table of molecular densities (number of molecules per unit volume) in the G4 unit system f..." alt="" coords="303,155,513,199"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="331,223,485,267"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="291,291,525,319"/>
+<area shape="rect" id="node22" href="$d3/dc1/classG4VEmModel.html#ad6ff43f6f68220feae0513f9930b68f8" title="G4VEmModel::Initialise" alt="" coords="319,343,497,371"/>
+<area shape="rect" id="node23" href="$d3/db5/classG4DNAMolecularMaterial.html#aa1df69fef23b1d34f8dbe3c05269b166" title="G4DNAMolecularMaterial\l::Instance" alt="" coords="313,395,503,439"/>
+<area shape="rect" id="node24" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="293,463,523,491"/>
+<area shape="rect" id="node25" href="$db/dae/classG4VDNAModel.html#a5f4fcf431562944baac210720aef45ea" title="SetHighEnergyLimit." alt="" coords="295,567,521,595"/>
+<area shape="rect" id="node27" href="$db/dae/classG4VDNAModel.html#aae3343379798cc2798b2caaed6bed555" title="SetLowEnergyLimit." alt="" coords="298,515,518,543"/>
+<area shape="rect" id="node28" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="286,619,530,647"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="888,9,1056,37"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1215,224,1322,252"/>
+<area shape="rect" id="node7" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="587,125,789,169"/>
+<area shape="rect" id="node10" href="$d3/db5/classG4DNAMolecularMaterial.html#ab4d5267869cee2deb369228b2bcb6fcd" title="G4DNAMolecularMaterial\l::Initialize" alt="" coords="593,313,783,357"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="1159,380,1378,408"/>
+<area shape="rect" id="node19" href="$d3/db5/classG4DNAMolecularMaterial.html#a7f071f14396a24e995b72410e8cc4465" title="G4DNAMolecularMaterial\l::PrintNotAMolecularMaterial" alt="" coords="581,57,795,101"/>
+<area shape="rect" id="node8" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="843,133,1101,161"/>
+<area shape="rect" id="node9" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1198,133,1339,161"/>
+<area shape="rect" id="node12" href="$d3/db5/classG4DNAMolecularMaterial.html#a69937ee85d82afcc604f428625e0c611" title="G4DNAMolecularMaterial\l::SearchMolecularMaterial" alt="" coords="874,484,1070,528"/>
+<area shape="rect" id="node17" href="$d3/db5/classG4DNAMolecularMaterial.html#ae3113fb72c108391068d01cc82022abf" title="G4DNAMolecularMaterial\l::InitializeDensity" alt="" coords="877,313,1067,357"/>
+<area shape="rect" id="node18" href="$d3/db5/classG4DNAMolecularMaterial.html#a6a8875efab644d9edc295365b0923698" title="G4DNAMolecularMaterial\l::InitializeNumMolPerVol" alt="" coords="877,245,1067,289"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#af5d40b48c7d029cf8369f1240f61ea0f" title="G4Material::GetMassOfMolecule" alt="" coords="1150,432,1387,460"/>
+<area shape="rect" id="node14" href="$d3/db5/classG4DNAMolecularMaterial.html#a17186595ad8364540368d0eaaf31cc36" title="G4DNAMolecularMaterial\l::RecordMolecularMaterial" alt="" coords="1171,484,1367,528"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#adb27815ba6c1e2e6e6301e6349288fde" title="G4Material::GetMatComponents" alt="" coords="1149,552,1388,580"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="1436,492,1601,520"/>
+<area shape="rect" id="node26" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="649,540,727,568"/>
+</map>

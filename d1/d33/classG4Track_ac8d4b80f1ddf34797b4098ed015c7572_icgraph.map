@@ -1,0 +1,32 @@
+<map id="G4Track::SetMomentumDirection" name="G4Track::SetMomentumDirection">
+<area shape="rect" id="node2" href="$de/db2/classG4BOptnLeadingParticle.html#ada6e0a359e2f8fa8e9c8951e19908b5c" title="G4BOptnLeadingParticle\l::ApplyFinalStateBiasing" alt="" coords="343,39,528,83"/>
+<area shape="rect" id="node3" href="$de/dc6/classG4HadronicProcess.html#a6ff03862815c262f01728dfbc999dcb7" title="G4HadronicProcess::\lCheckEnergyMomentumConservation" alt="" coords="297,107,573,151"/>
+<area shape="rect" id="node9" href="$d6/d6c/classG4VParticleChange.html#ace6a662d79b91562deacab2a672d25e5" title="G4VParticleChange::\lCheckSecondary" alt="" coords="355,175,515,219"/>
+<area shape="rect" id="node31" href="$d8/d6b/classXPhononStackingAction.html#a4dd987d4da7959b0a8cf709a0c38eff2" title="XPhononStackingAction\l::ClassifyNewTrack" alt="" coords="345,243,526,287"/>
+<area shape="rect" id="node4" href="$d1/dfb/classG4HadronStoppingProcess.html#af659d92caf0e4cf075d4d68907fc5be1" title="G4HadronStoppingProcess\l::AtRestDoIt" alt="" coords="621,5,823,49"/>
+<area shape="rect" id="node5" href="$d4/df9/classG4HadronElasticProcess.html#a9c582161b72c6b21b0288eb1eb07bd18" title="G4HadronElasticProcess\l::PostStepDoIt" alt="" coords="629,73,815,117"/>
+<area shape="rect" id="node6" href="$de/dc6/classG4HadronicProcess.html#a078f53fdc259fb5d5821b46c1b5683b3" title="G4HadronicProcess::\lPostStepDoIt" alt="" coords="642,141,802,185"/>
+<area shape="rect" id="node7" href="$d2/d90/classBiasingOperation.html#a938ee9aa8198466e50a891f7e1ac6ae3" title="BiasingOperation::ApplyFinal\lStateBiasing" alt="" coords="887,73,1103,117"/>
+<area shape="rect" id="node8" href="$dd/d59/classG4GammaGeneralProcess.html#a109631ecff68b05eb743ced15d3029a4" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="896,141,1095,185"/>
+<area shape="rect" id="node10" href="$d6/d6c/classG4VParticleChange.html#aa4f80a5e5c0b6c82f854c2bced0527ea" title="G4VParticleChange::\lAddSecondary" alt="" coords="642,463,802,507"/>
+<area shape="rect" id="node11" href="$db/d0f/classSplitProcess.html#a32d40dd8e1591edcb6ddb27863695445" title="SplitProcess::PostStepDoIt" alt="" coords="896,209,1095,237"/>
+<area shape="rect" id="node12" href="$d9/d47/classG4ParticleChangeForOccurenceBiasing.html#a9d76b9851722d3f6a1e731534e82cc26" title="G4ParticleChangeForOccurence\lBiasing::StealSecondaries" alt="" coords="878,261,1113,305"/>
+<area shape="rect" id="node14" href="$dc/deb/classG4Decay.html#a3141051aeee3264a15ab5cb6d785e0bc" title="G4Decay::DecayIt" alt="" coords="924,329,1067,357"/>
+<area shape="rect" id="node19" href="$d5/d3b/classG4UnknownDecay.html#adf963978fa26c66eeb9c4dfa2d7c476e" title="G4UnknownDecay::DecayIt" alt="" coords="893,381,1098,409"/>
+<area shape="rect" id="node21" href="$dc/d88/classG4eplusAnnihilation.html#adae19cc1e541200a99c458dd715f83a8" title="G4eplusAnnihilation\l::AtRestDoIt" alt="" coords="917,433,1074,477"/>
+<area shape="rect" id="node22" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="886,501,1105,529"/>
+<area shape="rect" id="node25" href="$da/d80/classG4VEnergyLossProcess.html#ac091040884a0a2c2d77d517cd4cff084" title="G4VEnergyLossProcess\l::FillSecondariesAlongStep" alt="" coords="895,553,1096,597"/>
+<area shape="rect" id="node27" href="$da/d80/classG4VEnergyLossProcess.html#afd83c7b4ebe650589101841e43fcdc6a" title="G4VEnergyLossProcess\l::PostStepDoIt" alt="" coords="907,621,1084,665"/>
+<area shape="rect" id="node28" href="$d4/df5/classG4FastStep.html#a3df706a1ea3b6f53e3338b1e88d40660" title="G4FastStep::CreateSecondary\lTrack" alt="" coords="883,689,1107,733"/>
+<area shape="rect" id="node29" href="$d2/d06/classG4ParticleChange.html#a20096356ac1afb73c1137d616b67b152" title="G4ParticleChange::AddSecondary" alt="" coords="871,757,1120,785"/>
+<area shape="rect" id="node30" href="$d7/dcb/classG4ParticleChangeForGamma.html#ab7550705cb0248aa873407b8c2468cae" title="G4ParticleChangeForGamma\l::AddSecondary" alt="" coords="887,809,1103,853"/>
+<area shape="rect" id="node13" href="$d6/d72/classG4BiasingProcessInterface.html#a6cb8596a88441628f153e75502808da4" title="G4BiasingProcessInterface\l::PostStepDoIt" alt="" coords="1188,160,1389,204"/>
+<area shape="rect" id="node15" href="$dc/d66/classG4DecayWithSpin.html#a789c12b2e8ad451a8f901e5818f4cad1" title="G4DecayWithSpin::AtRestDoIt" alt="" coords="1177,228,1401,256"/>
+<area shape="rect" id="node16" href="$dc/deb/classG4Decay.html#a79b8317ea07f17afc96989c2b5ec2e4e" title="G4Decay::AtRestDoIt" alt="" coords="1207,280,1370,308"/>
+<area shape="rect" id="node17" href="$dc/d66/classG4DecayWithSpin.html#adc3e8bae39e0363c3de8aa9799e00b9a" title="G4DecayWithSpin::PostStepDoIt" alt="" coords="1169,332,1409,360"/>
+<area shape="rect" id="node18" href="$dc/deb/classG4Decay.html#afa034d2998c54b9c084981c4340a9ad5" title="G4Decay::PostStepDoIt" alt="" coords="1199,384,1378,412"/>
+<area shape="rect" id="node20" href="$d5/d3b/classG4UnknownDecay.html#abb5113bbb4fe6c68260941a1bfff4d90" title="G4UnknownDecay::PostStepDoIt" alt="" coords="1168,436,1409,464"/>
+<area shape="rect" id="node23" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="1189,489,1388,533"/>
+<area shape="rect" id="node24" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="1457,489,1656,533"/>
+<area shape="rect" id="node26" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="1200,557,1377,601"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="G4ContinuousGainOfEnergy::GetContinuousStepLimit" name="G4ContinuousGainOfEnergy::GetContinuousStepLimit">
+<area shape="rect" id="node2" href="$df/d03/classG4ContinuousGainOfEnergy.html#a9b9cb2b802015d1b4afa5dfd2f1429b7" title="G4ContinuousGainOfEnergy\l::DefineMaterial" alt="" coords="576,208,787,252"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#aba8f27e942da7bb7aa4113caa2b4e235" title="G4VEmModel::GetChargeSquare\lRatio" alt="" coords="264,420,505,464"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="283,488,486,516"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="288,540,481,584"/>
+<area shape="rect" id="node15" href="$da/d80/classG4VEnergyLossProcess.html#ada3aba61c1e24ac7a72a2b61fb1ddc89" title="G4VEnergyLossProcess\l::GetRange" alt="" coords="296,352,473,396"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="267,608,502,636"/>
+<area shape="rect" id="node20" href="$da/d80/classG4VEnergyLossProcess.html#ada9d140922c7d13924550840c3e995a3" title="G4VEnergyLossProcess\l::SelectModelForMaterial" alt="" coords="291,660,479,704"/>
+<area shape="rect" id="node23" href="$da/d80/classG4VEnergyLossProcess.html#a9184d0dadabbdab883ccb19401649779" title="G4VEnergyLossProcess\l::SetDynamicMassCharge" alt="" coords="287,737,482,781"/>
+<area shape="rect" id="node3" href="$d5/dda/classG4ProductionCutsTable.html#a1e00cbd8def126434c98c87ed80059a9" title="G4ProductionCutsTable\l::GetEnergyCutsVector" alt="" coords="904,5,1081,49"/>
+<area shape="rect" id="node4" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="907,381,1079,425"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="910,73,1075,101"/>
+<area shape="rect" id="node6" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="907,449,1079,493"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="915,125,1070,169"/>
+<area shape="rect" id="node8" href="$d4/d1f/classG4ProductionCuts.html#a7fdc01761d45649460a87e63df2adfb5" title="G4ProductionCuts::GetProductionCut" alt="" coords="857,193,1128,221"/>
+<area shape="rect" id="node9" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="907,245,1079,289"/>
+<area shape="rect" id="node10" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="897,313,1088,357"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="604,496,759,540"/>
+<area shape="rect" id="node16" href="$da/d80/classG4VEnergyLossProcess.html#abfc0f724a5e8ccd023a9fa690a7089a0" title="G4VEnergyLossProcess\l::DefineMaterial" alt="" coords="593,428,770,472"/>
+<area shape="rect" id="node17" href="$da/d80/classG4VEnergyLossProcess.html#af12ecb55fdb5aee2a1390ef714cd8a37" title="G4VEnergyLossProcess\l::GetLimitScaledRangeForScaled\lEnergy" alt="" coords="561,344,802,404"/>
+<area shape="rect" id="node18" href="$da/d80/classG4VEnergyLossProcess.html#ac2bb4e32393fb505d1828f646d38a541" title="G4VEnergyLossProcess\l::GetScaledRangeForScaledEnergy" alt="" coords="553,276,809,320"/>
+<area shape="rect" id="node21" href="$dd/de5/classG4EmModelManager.html#a9965149654139effd46726e430259eea" title="G4EmModelManager::Select\lModel" alt="" coords="575,657,788,701"/>
+<area shape="rect" id="node22" href="$db/d1d/classG4RegionModels.html#aeaf4199cf301551c74389e9fd4208733" title="G4RegionModels::SelectIndex" alt="" coords="881,663,1104,691"/>
+<area shape="rect" id="node24" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="649,763,713,791"/>
+<area shape="rect" id="node25" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="897,715,1089,743"/>
+<area shape="rect" id="node26" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="897,767,1089,795"/>
+<area shape="rect" id="node27" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="873,819,1113,847"/>
+<area shape="rect" id="node28" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1176,792,1364,820"/>
+<area shape="rect" id="node29" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1176,844,1364,872"/>
+</map>

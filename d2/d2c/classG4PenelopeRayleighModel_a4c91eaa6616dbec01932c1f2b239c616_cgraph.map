@@ -1,0 +1,42 @@
+<map id="G4PenelopeRayleighModel::Initialise" name="G4PenelopeRayleighModel::Initialise">
+<area shape="rect" id="node2" href="$d2/d2c/classG4PenelopeRayleighModel.html#a7917e0a0a31c938ab54f80093b70ae23" title="G4PenelopeRayleighModel\l::BuildFormFactorTable" alt="" coords="277,120,479,164"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="566,17,794,45"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="549,69,811,97"/>
+<area shape="rect" id="node11" href="$d2/d2c/classG4PenelopeRayleighModel.html#a92b1cf5c8dc83411375ad58a4f034d35" title="G4PenelopeRayleighModel\l::ClearTables" alt="" coords="277,188,479,232"/>
+<area shape="rect" id="node12" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="292,256,464,300"/>
+<area shape="rect" id="node13" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="285,324,471,368"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#a33daba8fe8e5e6e65cead26b69149b23" title="G4VEmModel::GetParticleChange\lForGamma" alt="" coords="255,392,501,436"/>
+<area shape="rect" id="node16" href="$d2/d2c/classG4PenelopeRayleighModel.html#a57d0cefd0d0d33e5792cc82d3cd427ab" title="G4PenelopeRayleighModel\l::GetPMaxTable" alt="" coords="277,716,479,760"/>
+<area shape="rect" id="node26" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="283,528,473,572"/>
+<area shape="rect" id="node27" href="$d5/dda/classG4ProductionCutsTable.html#a7b0040d3ae75f54e2df3ef0e8dc81cc0" title="G4ProductionCutsTable\l::GetTableSize" alt="" coords="289,596,467,640"/>
+<area shape="rect" id="node28" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="261,664,495,692"/>
+<area shape="rect" id="node29" href="$d2/d2c/classG4PenelopeRayleighModel.html#aad13d9821a0d668b9b3034bc59cf9a71" title="G4PenelopeRayleighModel\l::InitializeSamplingAlgorithm" alt="" coords="269,1078,487,1122"/>
+<area shape="rect" id="node37" href="$d3/dc1/classG4VEmModel.html#a2a897478564632b78b66947fdb8fa5b4" title="G4VEmModel::IsMaster" alt="" coords="289,784,467,812"/>
+<area shape="rect" id="node38" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="263,836,493,864"/>
+<area shape="rect" id="node39" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="339,888,417,916"/>
+<area shape="rect" id="node40" href="$d2/d2c/classG4PenelopeRayleighModel.html#a1881301dadfc5246bb249d10b9ec37f0" title="G4PenelopeRayleighModel\l::ReadDataFile" alt="" coords="277,460,479,504"/>
+<area shape="rect" id="node41" href="$d2/d2c/classG4PenelopeRayleighModel.html#ab4c734378f12f45623b1bd8d229282d7" title="G4PenelopeRayleighModel\l::SetParticle" alt="" coords="277,1146,479,1190"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1177,500,1283,528"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="567,121,793,149"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="879,874,1047,902"/>
+<area shape="rect" id="node8" href="$d4/dc2/classG4PhysicsFreeVector.html#a81714f2a435774457cbca7f421188309" title="G4PhysicsFreeVector\l::PutValue" alt="" coords="599,432,761,476"/>
+<area shape="rect" id="node10" href="$d7/d2c/classG4PhysicsVector.html#aba40887d022724e54654532e8bfef1cc" title="G4PhysicsVector::SetSpline" alt="" coords="577,173,783,201"/>
+<area shape="rect" id="node9" href="$d7/d2c/classG4PhysicsVector.html#a3ab62fa83db33d15a7e85748b03f2d78" title="G4PhysicsVector::PrintPut\lValueError" alt="" coords="866,432,1061,476"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="558,328,802,356"/>
+<area shape="rect" id="node17" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="930,1248,997,1276"/>
+<area shape="rect" id="node21" href="$d5/de1/classG4PenelopeSamplingData.html#a1bbe6fb002ffbef3babe6e70c109a497" title="G4PenelopeSamplingData\l::GetA" alt="" coords="581,552,779,596"/>
+<area shape="rect" id="node22" href="$d5/de1/classG4PenelopeSamplingData.html#af64bf82c7adafcf7a2a2fb5d25ca2e08" title="G4PenelopeSamplingData\l::GetB" alt="" coords="581,620,779,664"/>
+<area shape="rect" id="node23" href="$d5/de1/classG4PenelopeSamplingData.html#a5b112325731e4f8c1cfba3918e0eb6df" title="G4PenelopeSamplingData\l::GetNumberOfStoredPoints" alt="" coords="859,1078,1068,1122"/>
+<area shape="rect" id="node24" href="$d5/de1/classG4PenelopeSamplingData.html#a4421171bc3c63363b39cbcbde9fc7f7f" title="G4PenelopeSamplingData\l::GetPAC" alt="" coords="581,688,779,732"/>
+<area shape="rect" id="node25" href="$d5/de1/classG4PenelopeSamplingData.html#a6275b134eb9ad492b77f2c26bcfb42c5" title="G4PenelopeSamplingData\l::GetX" alt="" coords="581,756,779,800"/>
+<area shape="rect" id="node18" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1147,1248,1313,1276"/>
+<area shape="rect" id="node20" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1135,1196,1325,1224"/>
+<area shape="rect" id="node19" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1392,1248,1580,1276"/>
+<area shape="rect" id="node30" href="$d2/d2c/classG4PenelopeRayleighModel.html#ab1f98dba04129b7b4277327f9a466f23" title="G4PenelopeRayleighModel\l::GetFSquared" alt="" coords="579,1266,781,1310"/>
+<area shape="rect" id="node34" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="611,1146,749,1174"/>
+<area shape="rect" id="node35" href="$d5/de1/classG4PenelopeSamplingData.html#a6200dbf0507531d4e379554784f3cc73" title="G4PenelopeSamplingData\l::AddPoint" alt="" coords="581,1198,779,1242"/>
+<area shape="rect" id="node36" href="$d5/de1/classG4PenelopeSamplingData.html#a585bef127578e99b12370dd8c8fd0d4a" title="G4PenelopeSamplingData\l::DumpTable" alt="" coords="581,1078,779,1122"/>
+<area shape="rect" id="node31" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="874,1300,1053,1328"/>
+<area shape="rect" id="node32" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="1135,1352,1325,1380"/>
+<area shape="rect" id="node33" href="$d7/d2c/classG4PhysicsVector.html#a5d5c84f331f6c7d7201f48c0d00a0e81" title="G4PhysicsVector::Interpolation" alt="" coords="1116,1300,1344,1328"/>
+</map>

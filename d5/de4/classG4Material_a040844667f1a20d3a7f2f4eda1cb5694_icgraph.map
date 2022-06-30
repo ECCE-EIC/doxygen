@@ -1,0 +1,51 @@
+<map id="G4Material::GetTotNbOfAtomsPerVolume" name="G4Material::GetTotNbOfAtomsPerVolume">
+<area shape="rect" id="node2" href="$d7/db3/classG4EmCorrections.html#a5421485273c6b9daba41aeb35f48e9ad" title="G4EmCorrections::BarkasCorrection" alt="" coords="283,157,546,185"/>
+<area shape="rect" id="node8" href="$d4/dee/classG4PenelopeOscillatorManager.html#a70596db703f4c4b889f2dfbcba5ae0aa" title="G4PenelopeOscillatorManager\l::BuildOscillatorTable" alt="" coords="301,425,528,469"/>
+<area shape="rect" id="node13" href="$db/d2c/classG4PenelopeComptonModel.html#aebb770507f5063b3251f20683377f368" title="G4PenelopeComptonModel\l::CrossSectionPerVolume" alt="" coords="875,396,1079,440"/>
+<area shape="rect" id="node14" href="$d3/dc0/classG4Nucleus.html#a2f070739bcbc2b32b212422c8433cf41" title="G4Nucleus::ChooseParameters" alt="" coords="299,493,530,521"/>
+<area shape="rect" id="node15" href="$d3/d92/classG4IonChuFluctuationModel.html#a9615740375f83ca5c2a515f958a0623b" title="G4IonChuFluctuationModel\l::ChuFluctuationModel" alt="" coords="313,545,517,589"/>
+<area shape="rect" id="node16" href="$d3/d54/classMyMollerBhabhaModel.html#a7921c5398f6c5eefae42be3c5aae07b5" title="MyMollerBhabhaModel\l::ComputeDEDXPerVolume" alt="" coords="314,613,515,657"/>
+<area shape="rect" id="node17" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a32c722ecbb7f08fd61bfcde191a3e15f" title="G4PenelopeBremsstrahlung\lModel::ComputeDEDXPerVolume" alt="" coords="293,681,536,725"/>
+<area shape="rect" id="node18" href="$d9/dd7/classG4PenelopeIonisationModel.html#a1875233d9eb7d1ee3dd448e2daaade8d" title="G4PenelopeIonisationModel\l::ComputeDEDXPerVolume" alt="" coords="310,749,519,793"/>
+<area shape="rect" id="node19" href="$d6/d69/classG4IonisParamMat.html#aa2e455101351a5ded9aecd5e62c8ff85" title="G4IonisParamMat::Compute\lDensityEffectParameters" alt="" coords="309,817,520,861"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#a51b61e323edd6ec8e0a2cfc9217cd58d" title="G4Material::CopyPointers\lOfBaseMaterial" alt="" coords="318,885,511,929"/>
+<area shape="rect" id="node21" href="$dd/d4a/classG4MuElecElasticModel.html#ac6f4126104f52055bb631b76b31cb544" title="G4MuElecElasticModel\l::CrossSectionPerVolume" alt="" coords="320,953,509,997"/>
+<area shape="rect" id="node22" href="$d0/dd3/classG4MicroElecElasticModel.html#af45bede377b8cf4df0d35a3011ac0d63" title="G4MicroElecElasticModel\l::CrossSectionPerVolume" alt="" coords="320,1021,509,1065"/>
+<area shape="rect" id="node23" href="$dc/dbd/classG4MuElecInelasticModel.html#ad05b269080b53ce9aa2e4766939b5217" title="G4MuElecInelasticModel\l::CrossSectionPerVolume" alt="" coords="320,1089,509,1133"/>
+<area shape="rect" id="node24" href="$db/da5/classG4MicroElecInelasticModel.html#ac46eab67cad43334c6eff4b4ca15a6a9" title="G4MicroElecInelasticModel\l::CrossSectionPerVolume" alt="" coords="314,1157,515,1201"/>
+<area shape="rect" id="node25" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a1942d4a7fdf74c77f2ad1359cb8a3328" title="G4PenelopeBremsstrahlung\lModel::CrossSectionPerVolume" alt="" coords="300,1225,529,1269"/>
+<area shape="rect" id="node26" href="$d9/dd7/classG4PenelopeIonisationModel.html#a18f677df7d9f92e8f8d0b61ff2517f2a" title="G4PenelopeIonisationModel\l::CrossSectionPerVolume" alt="" coords="310,1293,519,1337"/>
+<area shape="rect" id="node27" href="$d4/d77/classG4BraggModel.html#aa13dac3ab95483690bb001d314029f85" title="G4BraggModel::DEDX" alt="" coords="629,1388,798,1416"/>
+<area shape="rect" id="node28" href="$d1/d4d/classG4BraggIonModel.html#a51f87238177b04844ae81f0d7da13445" title="G4BraggIonModel::DEDX" alt="" coords="320,1465,509,1493"/>
+<area shape="rect" id="node29" href="$d5/de2/classG4hImpactIonisation.html#aec7e6810cbfec59d7d44b3f609f602ef" title="G4hImpactIonisation\l::ElectronicLossFluctuation" alt="" coords="314,1517,515,1561"/>
+<area shape="rect" id="node30" href="$de/db2/classRun.html#a6d0b1b25d7f01a7133e0e3b6a11ecaff" title="Run::EndOfRun" alt="" coords="353,1585,476,1613"/>
+<area shape="rect" id="node31" href="$de/d9d/pymodG4materials_8cc.html#abdd52733e8a763eef636722112065ac7" title="export_G4Material" alt="" coords="342,1637,487,1665"/>
+<area shape="rect" id="node32" href="$d7/d18/classG4DensityEffectCalculator.html#a4d70cd262de99815f05027ba351523b0" title="G4DensityEffectCalculator\l::G4DensityEffectCalculator" alt="" coords="310,1689,519,1733"/>
+<area shape="rect" id="node33" href="$de/dc6/classG4UCNAbsorption.html#a205497d9a4d5564a70c9d8e36a1656ee" title="G4UCNAbsorption::GetMean\lFreePath" alt="" coords="309,1757,521,1801"/>
+<area shape="rect" id="node34" href="$d8/dcf/classG4UCNMultiScattering.html#a92a399873867e0e47d3c5377d5a265a2" title="G4UCNMultiScattering\l::GetMeanFreePath" alt="" coords="329,1825,501,1869"/>
+<area shape="rect" id="node35" href="$d0/d76/classG4UCNLoss.html#aadfa16608d5c3465a0d72e96b11265a4" title="G4UCNLoss::GetMeanFreePath" alt="" coords="301,1893,528,1921"/>
+<area shape="rect" id="node36" href="$dd/d45/classG4GSPWACorrections.html#ac58dfe1bbed2520c480e311b95df52a5" title="G4GSPWACorrections\l::InitDataMaterial" alt="" coords="331,1945,498,1989"/>
+<area shape="rect" id="node37" href="$da/dd0/classG4PenelopeGammaConversionModel.html#a296e621fe7aa981e43ea5692cb479147" title="G4PenelopeGammaConversion\lModel::InitializeScreeningFunctions" alt="" coords="285,2013,545,2057"/>
+<area shape="rect" id="node38" href="$d2/dc5/classG4GSMottCorrection.html#ae59034beb0dc7f6e8786278adc096ab7" title="G4GSMottCorrection\l::InitMCDataMaterial" alt="" coords="335,2081,494,2125"/>
+<area shape="rect" id="node39" href="$d6/de3/classG4GoudsmitSaundersonTable.html#ab99d4a0486f1a09a694e99a1a9557f2b" title="G4GoudsmitSaundersonTable\l::InitMoliereMSCParams" alt="" coords="304,2149,525,2193"/>
+<area shape="rect" id="node40" href="$d7/db3/classG4EmCorrections.html#a3e95bbcd525b254f99c1dc9d546f117f" title="G4EmCorrections::KShellCorrection" alt="" coords="285,269,544,297"/>
+<area shape="rect" id="node41" href="$d7/db3/classG4EmCorrections.html#a06ce51cf317f689a4852598380dd546c" title="G4EmCorrections::LShellCorrection" alt="" coords="286,321,543,349"/>
+<area shape="rect" id="node42" href="$d9/deb/classG4hParametrisedLossModel.html#a33dae6256e8cd91e4b2f7d5138469152" title="G4hParametrisedLossModel\l::MolecIsInZiegler1988" alt="" coords="311,2269,519,2313"/>
+<area shape="rect" id="node43" href="$d9/deb/classG4hParametrisedLossModel.html#adc422fde8aa86c7d2b2666ace8710140" title="G4hParametrisedLossModel\l::StoppingPower" alt="" coords="609,2253,817,2297"/>
+<area shape="rect" id="node44" href="$d4/d77/classG4BraggModel.html#a3a23a695eb333b2339d0e504c112d5dc" title="G4BraggModel::MolecIsInZiegler1988" alt="" coords="277,1413,552,1441"/>
+<area shape="rect" id="node45" href="$d6/db3/classG4ScreenedNuclearRecoil.html#ac0a4836566dc1c2a6a904962b642c427" title="used internally by Geant4 machinery" alt="" coords="615,2347,811,2391"/>
+<area shape="rect" id="node46" href="$d3/dc1/classG4VEmModel.html#a706a411f0c01f27ba7e78aa161eedbfa" title="G4VEmModel::SelectRandom\lAtomNumber" alt="" coords="305,2457,524,2501"/>
+<area shape="rect" id="node47" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#ae9570fdd39c65e151153a194ad2da10e" title="G4ScreenedCoulombCrossSection\l::SelectRandomUnweightedTarget" alt="" coords="289,2389,540,2433"/>
+<area shape="rect" id="node48" href="$d7/db3/classG4EmCorrections.html#a98c3c7378d5cd336c5d255cb08353746" title="G4EmCorrections::ShellCorrection" alt="" coords="289,217,540,245"/>
+<area shape="rect" id="node49" href="$d3/d7f/classG4hICRU49He.html#aa2fe58da8be2f43b19696420782fac3c" title="G4hICRU49He::StoppingPower" alt="" coords="301,2525,529,2553"/>
+<area shape="rect" id="node50" href="$da/ddd/classG4IonYangFluctuationModel.html#a940ef1e00e13c6c36a938d01a4fcd61f" title="G4IonYangFluctuationModel\l::YangFluctuationModel" alt="" coords="310,2577,519,2621"/>
+<area shape="rect" id="node3" href="$d6/d8c/classG4LindhardSorensenIonModel.html#abfb5e222ca86aef6f1087ec47586513c" title="G4LindhardSorensenIonModel\l::ComputeDEDXPerVolume" alt="" coords="601,209,825,253"/>
+<area shape="rect" id="node4" href="$d7/db3/classG4EmCorrections.html#a61a304db9abb1e4f2290098ae0dc1860" title="G4EmCorrections::Compute\lIonCorrections" alt="" coords="609,5,818,49"/>
+<area shape="rect" id="node5" href="$d6/d8c/classG4LindhardSorensenIonModel.html#a45735aa5f2e7162a35ae535d173da1e0" title="G4LindhardSorensenIonModel\l::CorrectionsAlongStep" alt="" coords="601,73,825,117"/>
+<area shape="rect" id="node6" href="$d7/db3/classG4EmCorrections.html#a78fcdb3a75d29ed4f2362423d0cad82b" title="G4EmCorrections::HighOrder\lCorrections" alt="" coords="604,277,823,321"/>
+<area shape="rect" id="node7" href="$d7/db3/classG4EmCorrections.html#a67100e698c10f49673a1e28a1b3f184a" title="G4EmCorrections::IonBarkas\lCorrection" alt="" coords="606,141,821,185"/>
+<area shape="rect" id="node9" href="$d4/dee/classG4PenelopeOscillatorManager.html#a8d7994bca9c7faaebbc96efc8473b785" title="G4PenelopeOscillatorManager\l::GetTotalZ" alt="" coords="600,561,827,605"/>
+<area shape="rect" id="node10" href="$d4/dee/classG4PenelopeOscillatorManager.html#aeaf4c70d724c8db0daf391fbc2ee0050" title="Returns the total A for the molecule." alt="" coords="600,629,827,673"/>
+<area shape="rect" id="node11" href="$d4/dee/classG4PenelopeOscillatorManager.html#a79992c5c184c4344e5101b50b11fb5de" title="G4PenelopeOscillatorManager\l::GetOscillatorTableIonisation" alt="" coords="600,493,827,537"/>
+<area shape="rect" id="node12" href="$d4/dee/classG4PenelopeOscillatorManager.html#a41cecebb5d66f80e0eb5fdd746bb5cee" title="G4PenelopeOscillatorManager\l::GetOscillatorTableCompton" alt="" coords="600,425,827,469"/>
+</map>

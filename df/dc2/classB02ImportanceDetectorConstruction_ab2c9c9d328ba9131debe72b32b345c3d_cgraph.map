@@ -1,0 +1,21 @@
+<map id="B02ImportanceDetectorConstruction::Construct" name="B02ImportanceDetectorConstruction::Construct">
+<area shape="rect" id="node2" href="$d3/df0/classB02PVolumeStore.html#a0e9d119324740451e49e574f2ab88835" title="B02PVolumeStore::AddPVolume" alt="" coords="337,5,573,33"/>
+<area shape="rect" id="node3" href="$df/dc2/classB02ImportanceDetectorConstruction.html#a5cac6990197ce0706db71a2b46c8b648" title="B02ImportanceDetectorConstruction\l::GetCellName" alt="" coords="321,57,589,101"/>
+<area shape="rect" id="node4" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="919,7,1083,51"/>
+<area shape="rect" id="node5" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="373,245,537,289"/>
+<area shape="rect" id="node6" href="$d6/dfb/classG4VUserParallelWorld.html#a304248e8ea13f78c16014bae37d4a3fe" title="G4VUserParallelWorld\l::GetWorld" alt="" coords="371,177,539,221"/>
+<area shape="rect" id="node20" href="$df/dc2/classB02ImportanceDetectorConstruction.html#a2d1e36165c03c1bae0372c4a6032c8d4" title="B02ImportanceDetectorConstruction\l::SetSensitive" alt="" coords="321,313,589,357"/>
+<area shape="rect" id="node7" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="637,245,849,289"/>
+<area shape="rect" id="node14" href="$d1/dd0/classG4TransportationManager.html#a369df2f38a9075e93f53c7286565073f" title="G4TransportationManager\l::GetParallelWorld" alt="" coords="644,177,843,221"/>
+<area shape="rect" id="node19" href="$d1/d28/classG4VPhysicalVolume.html#afedf6cbc7bd4e6a0334215f55f64a54e" title="G4VPhysicalVolume::\lSetName" alt="" coords="661,313,825,357"/>
+<area shape="rect" id="node8" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="897,393,1104,437"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1213,475,1319,503"/>
+<area shape="rect" id="node10" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1169,527,1363,571"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1189,371,1343,399"/>
+<area shape="rect" id="node12" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1181,423,1351,451"/>
+<area shape="rect" id="node13" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1152,319,1380,347"/>
+<area shape="rect" id="node15" href="$d1/dd0/classG4TransportationManager.html#a734db4234c816e7f8e4bc7101a32617f" title="G4TransportationManager\l::IsWorldExisting" alt="" coords="901,143,1100,187"/>
+<area shape="rect" id="node16" href="$d1/dd0/classG4TransportationManager.html#a6939093ee6b1270721ce60875664722a" title="G4TransportationManager\l::GetNavigatorForTracking" alt="" coords="901,211,1100,255"/>
+<area shape="rect" id="node17" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="899,279,1103,307"/>
+<area shape="rect" id="node18" href="$d1/dd0/classG4TransportationManager.html#a19f24e512c6f479b9f8f7ee5653f736b" title="G4TransportationManager\l::RegisterWorld" alt="" coords="901,75,1100,119"/>
+</map>

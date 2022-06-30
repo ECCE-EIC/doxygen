@@ -1,0 +1,28 @@
+var comparison_8C =
+[
+    [ "AddEntry", "dc/dcd/comparison_8C.html#a020c6b3e6d8d6b4b2ab49d4aea10b821", null ],
+    [ "AddEntry", "dc/dcd/comparison_8C.html#a77812c80682cd8edf1ea4b0cc6a12366", null ],
+    [ "Draw", "dc/dcd/comparison_8C.html#a58d1285ff0daecb9695f69005f99df7c", null ],
+    [ "Draw", "dc/dcd/comparison_8C.html#a20845d57f4fae5fbd637478cdce739ed", null ],
+    [ "Draw", "dc/dcd/comparison_8C.html#af6bf936604ca377d31ec6da30dd0bf1b", null ],
+    [ "for", "dc/dcd/comparison_8C.html#a30a746d8b737f146df29ccc815b4256f", null ],
+    [ "Scale", "dc/dcd/comparison_8C.html#af666f5550429552a063ee3ad7e565afa", null ],
+    [ "SetBranchAddress", "dc/dcd/comparison_8C.html#a86d7c4c0f587fe0d5981abefb832c0d7", null ],
+    [ "SetBranchAddress", "dc/dcd/comparison_8C.html#abcf13657e9013cb6edca6c9393342aba", null ],
+    [ "SetFillColor", "dc/dcd/comparison_8C.html#a458da623cfabc85b63388b6fdbc56803", null ],
+    [ "SetMarkerSize", "dc/dcd/comparison_8C.html#aedaea0d78aafe9be54c940955e0e38ea", null ],
+    [ "SetMarkerStyle", "dc/dcd/comparison_8C.html#a9c04179a5171fea610399e78d7167b49", null ],
+    [ "SetTextSize", "dc/dcd/comparison_8C.html#a72bb6a56b03c02f789cb2493f03ea762", null ],
+    [ "c1", "dc/dcd/comparison_8C.html#a47ef1dcd76787ecde3d7fe7d8038597a", null ],
+    [ "depthExp", "dc/dcd/comparison_8C.html#ad4882e6e50479ae75948bf8c7a4437bd", null ],
+    [ "EdepExp", "dc/dcd/comparison_8C.html#a4ce373175c75ffdc4f650c3dfa8dd532", null ],
+    [ "experimentalFile", "dc/dcd/comparison_8C.html#a86fb5869c4a21f21627f85779b842e02", null ],
+    [ "experimentalTree", "dc/dcd/comparison_8C.html#a3af15e5e53b7a66f9765d5b240de30e4", null ],
+    [ "in", "dc/dcd/comparison_8C.html#aacd059e438899eb9e69a36e0c4959c59", null ],
+    [ "leg", "dc/dcd/comparison_8C.html#ae33fc0081626b22666e300032da585e7", null ],
+    [ "nentries", "dc/dcd/comparison_8C.html#a1e1c29b420617b6f45df1f5761b83a45", null ],
+    [ "ntupleExperimental", "dc/dcd/comparison_8C.html#ae8c15aadf1f29707b29b37a9b20b6e25", null ],
+    [ "simulatedPeak", "dc/dcd/comparison_8C.html#a05f590ec52236219095972bc4ceedfbc", null ],
+    [ "simulationFile", "dc/dcd/comparison_8C.html#aeae94ab0780f8b2b1d2a00045e73cd58", null ],
+    [ "simulationNormalisationFactor", "dc/dcd/comparison_8C.html#a903643cdeb48fbe5f1111e614d4641b7", null ]
+];

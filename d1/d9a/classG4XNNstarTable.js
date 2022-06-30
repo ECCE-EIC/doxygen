@@ -1,0 +1,28 @@
+var classG4XNNstarTable =
+[
+    [ "G4XNNstarTable", "d1/d9a/classG4XNNstarTable.html#a221db05f8270f0e08cced126c4f0a124", null ],
+    [ "~G4XNNstarTable", "d1/d9a/classG4XNNstarTable.html#a77fe6cd1f5446c3a3e857e9828a5111d", null ],
+    [ "G4XNNstarTable", "d1/d9a/classG4XNNstarTable.html#acc8e09b60a602d150d18f4270370e486", null ],
+    [ "CrossSectionTable", "d1/d9a/classG4XNNstarTable.html#a38d89bcd6bbe44e911ebe85fc94c892a", null ],
+    [ "operator!=", "d1/d9a/classG4XNNstarTable.html#a470cc9fd87836a8a3db1c2f96bb263ad", null ],
+    [ "operator=", "d1/d9a/classG4XNNstarTable.html#a441b0db665ad3a33d4f8e5a46bba9f11", null ],
+    [ "operator==", "d1/d9a/classG4XNNstarTable.html#a272d7f562e07e0c4f1c15c1ce62d9cf3", null ],
+    [ "energyTable", "d1/d9a/classG4XNNstarTable.html#ae89f6735d463cbefb34e0e03023aadbc", null ],
+    [ "sigmaNN1440", "d1/d9a/classG4XNNstarTable.html#adeca0c1a857e89a336223aa67c511916", null ],
+    [ "sigmaNN1520", "d1/d9a/classG4XNNstarTable.html#ab83aee36890ebefbea2924232558f643", null ],
+    [ "sigmaNN1535", "d1/d9a/classG4XNNstarTable.html#aa55fab0464c4e872be6b3d3bf657eae9", null ],
+    [ "sigmaNN1650", "d1/d9a/classG4XNNstarTable.html#a10ee4182f469120f95b97d780067f8f0", null ],
+    [ "sigmaNN1675", "d1/d9a/classG4XNNstarTable.html#a7a2e3aefe41943b115fc2b93eedb2514", null ],
+    [ "sigmaNN1680", "d1/d9a/classG4XNNstarTable.html#a58fc04a5446cd432ad350ea46321ec5f", null ],
+    [ "sigmaNN1700", "d1/d9a/classG4XNNstarTable.html#a384410e315ed0b0bc9fb37302696d1cb", null ],
+    [ "sigmaNN1710", "d1/d9a/classG4XNNstarTable.html#a0123ff3c91c2d25b5014a8435483ac07", null ],
+    [ "sigmaNN1720", "d1/d9a/classG4XNNstarTable.html#a5788248d42788f6d5a3d64a79cd6e056", null ],
+    [ "sigmaNN1900", "d1/d9a/classG4XNNstarTable.html#a6a3a52eafec0ee8382d7c6ca544d7f54", null ],
+    [ "sigmaNN1990", "d1/d9a/classG4XNNstarTable.html#a232758bfa33546a138a68ef5b93c4d07", null ],
+    [ "sigmaNN2090", "d1/d9a/classG4XNNstarTable.html#af299d7f4fba8b67410cf5227c6e1666e", null ],
+    [ "sigmaNN2190", "d1/d9a/classG4XNNstarTable.html#ad84f59c69521ae12b12f1a71c042bd64", null ],
+    [ "sigmaNN2220", "d1/d9a/classG4XNNstarTable.html#a4874f08118fecace2e71f1615e0fe8f0", null ],
+    [ "sigmaNN2250", "d1/d9a/classG4XNNstarTable.html#a485af639c43f6412e36f8913b3f2f6a6", null ],
+    [ "sizeNNstar", "d1/d9a/classG4XNNstarTable.html#a768049f762a0ea647377f113a405c555", null ],
+    [ "xMap", "d1/d9a/classG4XNNstarTable.html#ac3783ff0336d0c8c0765c83c865b75c0", null ]
+];

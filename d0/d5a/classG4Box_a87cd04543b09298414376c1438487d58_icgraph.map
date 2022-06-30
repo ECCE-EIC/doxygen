@@ -1,0 +1,31 @@
+<map id="G4Box::SetZHalfLength" name="G4Box::SetZHalfLength">
+<area shape="rect" id="node2" href="$da/d11/classG4Voxelizer.html#aae07191930619abb362addfaff466954" title="G4Voxelizer::BuildBoundingBox" alt="" coords="258,123,493,151"/>
+<area shape="rect" id="node3" href="$dc/d5b/classDetectorConstruction.html#aef6451f88a532e6af5528e8bf91f5497" title="DetectorConstruction\l::ChangeGeometry" alt="" coords="293,175,458,219"/>
+<area shape="rect" id="node10" href="$d6/dc3/classVoxelParam.html#ab5f432a7a414ee5d0846c8ae45e92302" title="VoxelParam::ComputeDimensions" alt="" coords="250,243,501,271"/>
+<area shape="rect" id="node11" href="$d0/d41/classExN02ChamberParameterisation.html#a76d8c6cccf86d18218649e1c086a94b8" title="ExN02ChamberParameterisation\l::ComputeDimensions" alt="" coords="255,295,496,339"/>
+<area shape="rect" id="node12" href="$db/db5/classExP01ChamberParameterisation.html#a5f96b176d71c38a0be719aa962727593" title="ExP01ChamberParameterisation\l::ComputeDimensions" alt="" coords="255,363,495,407"/>
+<area shape="rect" id="node13" href="$de/d34/classG4ParameterisationBoxX.html#a2d0e405ea19b8e0b6b8c3c58bdb2c0cd" title="G4ParameterisationBoxX\l::ComputeDimensions" alt="" coords="280,431,471,475"/>
+<area shape="rect" id="node14" href="$de/d7c/classG02ChamberParameterisation.html#ae4639a477bd931d3aa6a12e73d6783a1" title="G02ChamberParameterisation\l::ComputeDimensions" alt="" coords="263,499,488,543"/>
+<area shape="rect" id="node15" href="$dc/d7a/classG4GDMLParameterisation.html#abf69afb2899faccd7fd30bfb20edbfbd" title="G4GDMLParameterisation\l::ComputeDimensions" alt="" coords="278,567,473,611"/>
+<area shape="rect" id="node16" href="$d1/d28/classDicomNestedPhantomParameterisation.html#a2b2838a98f6f20dc97afea701530da87" title="DicomNestedPhantomParameterisation\l::ComputeDimensions" alt="" coords="232,635,519,679"/>
+<area shape="rect" id="node17" href="$dc/d61/classRE02NestedPhantomParameterisation.html#ac0b78f57128783c9a04a542ae9bc4b95" title="RE02NestedPhantomParameterisation\l::ComputeDimensions" alt="" coords="236,703,515,747"/>
+<area shape="rect" id="node18" href="$df/d37/classG4ParameterisationBoxY.html#af374d590beadb992923cfaeb979d9b93" title="G4ParameterisationBoxY\l::ComputeDimensions" alt="" coords="281,771,470,815"/>
+<area shape="rect" id="node19" href="$d9/d1a/classG4ParameterisationBoxZ.html#a576fa8266252542196474fdb619462b1" title="G4ParameterisationBoxZ\l::ComputeDimensions" alt="" coords="280,839,471,883"/>
+<area shape="rect" id="node20" href="$dc/d89/classEICG4RPDetector.html#abd7d67b442f22b2683d3e67ed0412dec" title="construct" alt="" coords="260,907,491,935"/>
+<area shape="rect" id="node21" href="$df/d79/pymodG4geometry_8cc.html#a57bf40b00291c260f8ed7eb7fb6deda4" title="export_G4Box" alt="" coords="317,959,433,987"/>
+<area shape="rect" id="node23" href="$dd/d4f/classG4STRead.html#a6bd98ca96b70b79548cb88782a623680" title="G4STRead::Read" alt="" coords="309,1011,442,1039"/>
+<area shape="rect" id="node24" href="$d6/dd9/classGB03DetectorConstruction.html#a4d9f85837fe3dd77fff2479e660512e8" title="GB03DetectorConstruction\l::SetNumberOfLayers" alt="" coords="274,1063,477,1107"/>
+<area shape="rect" id="node26" href="$d8/dbd/classRE06DetectorConstruction.html#acf85597401c7571493a12fbeacd9626a" title="RE06DetectorConstruction\l::SetNumberOfLayers" alt="" coords="275,1131,475,1175"/>
+<area shape="rect" id="node28" href="$dd/d73/classHadrontherapyDetectorROGeometry.html#a0c93af06ac500250ef9e70796363b8f4" title="HadrontherapyDetectorROGeometry\l::UpdateROGeometry" alt="" coords="241,1199,509,1243"/>
+<area shape="rect" id="node4" href="$dc/d5b/classDetectorConstruction.html#a6510420f0287852bba351f7a721a6adf" title="DetectorConstruction\l::SetAbsorberSizeYZ" alt="" coords="617,5,783,49"/>
+<area shape="rect" id="node5" href="$dc/d5b/classDetectorConstruction.html#aefcb87b7ccde67a6aef3d45ab674d065" title="DetectorConstruction\l::SetContainerThickness" alt="" coords="607,73,793,117"/>
+<area shape="rect" id="node6" href="$dc/d5b/classDetectorConstruction.html#a95d5bbad5097f4dee20451f933dc4861" title="DetectorConstruction\l::SetGasRadius" alt="" coords="617,141,783,185"/>
+<area shape="rect" id="node7" href="$dc/d5b/classDetectorConstruction.html#a3ef647383ea4639014d6dc7244ffba0a" title="DetectorConstruction\l::SetGasThickness" alt="" coords="617,209,783,253"/>
+<area shape="rect" id="node8" href="$dc/d5b/classDetectorConstruction.html#a6d062bc73a477763063328cf6a34a2cd" title="DetectorConstruction\l::SetWorldSizeX" alt="" coords="617,277,783,321"/>
+<area shape="rect" id="node9" href="$dc/d5b/classDetectorConstruction.html#ac2d7009279105b3bb1cf1d559746548e" title="DetectorConstruction\l::SetWorldSizeYZ" alt="" coords="617,345,783,389"/>
+<area shape="rect" id="node22" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="603,959,797,987"/>
+<area shape="rect" id="node25" href="$d6/d81/classGB03DetectorMessenger.html#ab4c4da69d5fabc60099dbb6a1789f801" title="GB03DetectorMessenger\l::SetNewValue" alt="" coords="605,1063,795,1107"/>
+<area shape="rect" id="node27" href="$df/d71/classRE06DetectorMessenger.html#a79bbb15ae547ced7367c77b43cb14fb7" title="RE06DetectorMessenger\l::SetNewValue" alt="" coords="605,1131,795,1175"/>
+<area shape="rect" id="node29" href="$db/df7/classHadrontherapyDetectorConstruction.html#a1a59dea0a6ce7b6f77a8bd16c6f08e77" title="HadrontherapyDetectorConstruction\l::UpdateGeometry" alt="" coords="567,1199,833,1243"/>
+<area shape="rect" id="node30" href="$db/df7/classHadrontherapyDetectorConstruction.html#aad7e8923e69986c17ebbf1376d480980" title="HadrontherapyDetectorConstruction\l::HadrontherapyDetectorConstruction" alt="" coords="881,1199,1157,1243"/>
+</map>

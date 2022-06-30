@@ -1,0 +1,23 @@
+<map id="G4ParameterisedNavigation::LevelLocate" name="G4ParameterisedNavigation::LevelLocate">
+<area shape="rect" id="node2" href="$d4/d3b/classG4NavigationHistory.html#ac0cd9805d8694c54450e6e24d7646981" title="G4NavigationHistory\l::BackLevel" alt="" coords="319,5,481,49"/>
+<area shape="rect" id="node3" href="$db/d4b/classG4AuxiliaryNavServices.html#a239cb0c16c9e7104edfe79eda69fdc2e" title="G4AuxiliaryNavServices\l::CheckPointOnSurface" alt="" coords="309,73,491,117"/>
+<area shape="rect" id="node4" href="$de/dcc/classG4VPVParameterisation.html#a3a12ae4fe42c0f3ff283dfe3c421b659" title="G4VPVParameterisation\l::ComputeMaterial" alt="" coords="309,193,491,237"/>
+<area shape="rect" id="node5" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="615,133,779,177"/>
+<area shape="rect" id="node7" href="$da/dc4/classG4LogicalVolume.html#ab8e71d7314a32cce675f385254e572e8" title="G4LogicalVolume::GetDaughter" alt="" coords="282,261,518,289"/>
+<area shape="rect" id="node8" href="$d9/d16/classG4SmartVoxelNode.html#a2d89861929c49b8011e1bdf5a6cd23dc" title="G4SmartVoxelNode::GetNoContained" alt="" coords="264,313,536,341"/>
+<area shape="rect" id="node9" href="$d1/d28/classG4VPhysicalVolume.html#a12ab240392398ebfabbb37592f5d870e" title="G4VPhysicalVolume::\lGetParameterisation" alt="" coords="318,365,482,409"/>
+<area shape="rect" id="node10" href="$d4/d3b/classG4NavigationHistory.html#a12a9af2f032b9e66e6a8660dbbe06093" title="G4NavigationHistory\l::GetTopTransform" alt="" coords="319,433,481,477"/>
+<area shape="rect" id="node11" href="$d4/d3b/classG4NavigationHistory.html#af7880d2c61e4fcb69267cddca74573d0" title="G4NavigationHistory\l::GetTopVolume" alt="" coords="319,501,481,545"/>
+<area shape="rect" id="node12" href="$d9/d16/classG4SmartVoxelNode.html#aee75ca5369c41fcfeeb868613b8c0bc1" title="G4SmartVoxelNode::GetVolume" alt="" coords="282,569,518,597"/>
+<area shape="rect" id="node13" href="$da/dc4/classG4LogicalVolume.html#af30f36410cdabc34abca4fd166e246e0" title="G4LogicalVolume::GetVoxel\lHeader" alt="" coords="297,621,503,665"/>
+<area shape="rect" id="node14" href="$dd/dff/classG4ParameterisedNavigation.html#aa84711bf23ceb7c2e7d3a2b5de5df22e" title="G4ParameterisedNavigation\l::IdentifyAndPlaceSolid" alt="" coords="295,689,505,733"/>
+<area shape="rect" id="node15" href="$d4/d3b/classG4NavigationHistory.html#a1354f451c376cbf3bf5f3e8096269ba5" title="G4NavigationHistory\l::NewLevel" alt="" coords="319,757,481,801"/>
+<area shape="rect" id="node16" href="$dd/dff/classG4ParameterisedNavigation.html#a4b9b4fb8bb549dcd69f94e6f8cef0d2f" title="G4ParameterisedNavigation\l::ParamVoxelLocate" alt="" coords="295,825,505,869"/>
+<area shape="rect" id="node17" href="$d1/d28/classG4VPhysicalVolume.html#a42f4031e79900e85bc6a977c0cb22e9c" title="G4VPhysicalVolume::\lSetCopyNo" alt="" coords="318,893,482,937"/>
+<area shape="rect" id="node18" href="$da/dc4/classG4LogicalVolume.html#ad87a7d7ce302f7242fc95b594896dd93" title="G4LogicalVolume::SetSolid" alt="" coords="299,961,501,989"/>
+<area shape="rect" id="node20" href="$d8/d1e/classG4AffineTransform.html#ac5cb9beef1fa275e47f07d4afe04769e" title="G4AffineTransform::\lTransformPoint" alt="" coords="323,1013,477,1057"/>
+<area shape="rect" id="node21" href="$da/dc4/classG4LogicalVolume.html#af185d6771d758349284f093d4a6e1117" title="G4LogicalVolume::UpdateMaterial" alt="" coords="275,1081,525,1109"/>
+<area shape="rect" id="node6" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="584,201,809,229"/>
+<area shape="rect" id="node19" href="$da/dc4/classG4LogicalVolume.html#a8a16f349a769bfbb2500f70bb400dce3" title="G4LogicalVolume::ResetMass" alt="" coords="587,961,806,989"/>
+<area shape="rect" id="node22" href="$d1/d35/classG4Region.html#abe47b757609b6f20f8f05cd60be49c21" title="G4Region::FindCouple" alt="" coords="611,1081,782,1109"/>
+</map>

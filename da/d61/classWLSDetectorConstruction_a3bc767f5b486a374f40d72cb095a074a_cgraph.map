@@ -1,0 +1,30 @@
+<map id="WLSDetectorConstruction::ConstructDetector" name="WLSDetectorConstruction::ConstructDetector">
+<area shape="rect" id="node2" href="$da/d61/classWLSDetectorConstruction.html#a2906a4a1da2dedd246e2f1fcc58dcfc0" title="WLSDetectorConstruction\l::ConstructFiber" alt="" coords="248,192,443,236"/>
+<area shape="rect" id="node4" href="$da/d61/classWLSDetectorConstruction.html#a00d03e9ecfdb5253cf517e5060ae69ec" title="WLSDetectorConstruction\l::FindMaterial" alt="" coords="506,65,701,109"/>
+<area shape="rect" id="node20" href="$da/d61/classWLSDetectorConstruction.html#a60a2abe8afabd1b5933b3541d4d4dc44" title="WLSDetectorConstruction\l::GetBarBase" alt="" coords="248,260,443,304"/>
+<area shape="rect" id="node21" href="$da/d61/classWLSDetectorConstruction.html#ad8219b04ddc47184c132f5b6aef86251" title="WLSDetectorConstruction\l::GetBarLength" alt="" coords="248,328,443,372"/>
+<area shape="rect" id="node22" href="$da/d61/classWLSDetectorConstruction.html#aa4dc1a94fcdf05b58c2a1bead3a75b23" title="WLSDetectorConstruction\l::GetCoatingRadius" alt="" coords="248,396,443,440"/>
+<area shape="rect" id="node23" href="$da/d61/classWLSDetectorConstruction.html#a0a191c06f16657f41f95534a01fcc09d" title="WLSDetectorConstruction\l::GetCoatingThickness" alt="" coords="248,464,443,508"/>
+<area shape="rect" id="node24" href="$da/d61/classWLSDetectorConstruction.html#a419edd9d04ea24a63c56712d1b6f8c69" title="WLSDetectorConstruction\l::GetFiberRadius" alt="" coords="248,532,443,576"/>
+<area shape="rect" id="node26" href="$da/d61/classWLSDetectorConstruction.html#a2a1c7b6b970123ac8048b5b6832de102" title="WLSDetectorConstruction\l::GetHoleLength" alt="" coords="248,600,443,644"/>
+<area shape="rect" id="node27" href="$da/d61/classWLSDetectorConstruction.html#a26daf304c6f637a1d15eac50313e3927" title="WLSDetectorConstruction\l::GetHoleRadius" alt="" coords="248,668,443,712"/>
+<area shape="rect" id="node28" href="$dd/d65/classCLHEP_1_1HepRotation.html#a3ad63a2341dccc0842435ad5418e7a7f" title="CLHEP::HepRotation\l::inverse" alt="" coords="267,736,424,780"/>
+<area shape="rect" id="node29" href="$da/d61/classWLSDetectorConstruction.html#ad183e813ceacfba803afc05318db1d01" title="WLSDetectorConstruction\l::StringToRotationMatrix" alt="" coords="248,804,443,848"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1066,185,1173,213"/>
+<area shape="rect" id="node8" href="$da/dc4/classG4LogicalVolume.html#a2cee3bf46b1bf2d36359d07929284b85" title="G4LogicalVolume::SetUser\lLimits" alt="" coords="503,365,704,409"/>
+<area shape="rect" id="node9" href="$da/dbc/classG4MaterialPropertiesTable.html#af8f630001ea7d2f78f339ac0d730bac2" title="G4MaterialPropertiesTable\l::AddProperty" alt="" coords="504,163,703,207"/>
+<area shape="rect" id="node19" href="$d4/d86/classG4OpticalSurface.html#a112d555d8e6ddf9e74bb7d9a2250d6ea" title="G4OpticalSurface::SetMaterial\lPropertiesTable" alt="" coords="491,297,716,341"/>
+<area shape="rect" id="node5" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="825,57,902,85"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="772,5,955,33"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1035,5,1203,33"/>
+<area shape="rect" id="node10" href="$da/dbc/classG4MaterialPropertiesTable.html#a086f7d7eb71abeb9270dc37028d3d8b8" title="G4MaterialPropertiesTable\l::CalculateGROUPVEL" alt="" coords="764,109,963,153"/>
+<area shape="rect" id="node18" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="764,177,963,221"/>
+<area shape="rect" id="node11" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1087,61,1151,89"/>
+<area shape="rect" id="node17" href="$dc/d99/classG4PhysicsOrderedFreeVector.html#a27c29e664f582dd93ee469bd001c9f7f" title="G4PhysicsOrderedFreeVector\l::InsertValues" alt="" coords="1011,113,1228,157"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1300,9,1492,37"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1300,61,1492,89"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1276,113,1516,141"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1564,87,1752,115"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1564,139,1752,167"/>
+<area shape="rect" id="node25" href="$da/d61/classWLSDetectorConstruction.html#ab605615648790b3d1a25276508eac8c2" title="WLSDetectorConstruction\l::GetWLSFiberRMax" alt="" coords="506,532,701,576"/>
+</map>

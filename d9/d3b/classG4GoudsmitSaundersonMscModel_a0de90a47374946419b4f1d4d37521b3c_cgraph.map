@@ -1,0 +1,51 @@
+<map id="G4GoudsmitSaundersonMscModel::ComputeTruePathLengthLimit" name="G4GoudsmitSaundersonMscModel::ComputeTruePathLengthLimit">
+<area shape="rect" id="node2" href="$d0/d99/classG4VMscModel.html#a2c0f2785a378171f0230bc1103e8ced8" title="G4VMscModel::ComputeGeom\lLimit" alt="" coords="318,100,545,144"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a520f19a10e8debe92844f368b162fc87" title="G4Track::GetStep" alt="" coords="661,8,801,36"/>
+<area shape="rect" id="node6" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="636,164,827,192"/>
+<area shape="rect" id="node7" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="636,216,827,244"/>
+<area shape="rect" id="node9" href="$d0/d99/classG4VMscModel.html#ad6478b61c17da3935a41df21931062f1" title="G4VMscModel::ComputeSafety" alt="" coords="316,270,547,298"/>
+<area shape="rect" id="node13" href="$d0/d99/classG4VMscModel.html#ac85e2508fa24259a19b0735b60cc02b9" title="G4VMscModel::ConvertTrue\lToGeom" alt="" coords="328,322,535,366"/>
+<area shape="rect" id="node15" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1278,552,1342,580"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="323,1028,540,1056"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="958,304,1123,332"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="335,1080,528,1108"/>
+<area shape="rect" id="node22" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="353,1132,510,1176"/>
+<area shape="rect" id="node23" href="$d7/d5c/classG4DynamicParticle.html#afa8da8f9376eae2b46b93604e1769906" title="G4DynamicParticle::\lGetLogKineticEnergy" alt="" coords="350,1200,513,1244"/>
+<area shape="rect" id="node24" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="955,748,1127,792"/>
+<area shape="rect" id="node25" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="335,1268,528,1312"/>
+<area shape="rect" id="node26" href="$d0/d99/classG4VMscModel.html#a74d0f20f6c9d895fc08e8c37135176cd" title="G4VMscModel::GetRange" alt="" coords="635,756,827,784"/>
+<area shape="rect" id="node30" href="$df/d47/classG4StepPoint.html#afc6a8f187076a7b6ac4e1f3f814900c9" title="G4StepPoint::GetSafety" alt="" coords="341,1336,522,1364"/>
+<area shape="rect" id="node31" href="$df/d47/classG4StepPoint.html#af382f66572d29c61f2a66214b76ed260" title="G4StepPoint::GetStepStatus" alt="" coords="325,1388,537,1416"/>
+<area shape="rect" id="node32" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#ac89f6edb92868d772811035e07d49a3c" title="G4GoudsmitSaundersonMscModel\l::GetTransportMeanFreePath" alt="" coords="605,596,857,640"/>
+<area shape="rect" id="node39" href="$d6/d69/classG4IonisParamMat.html#af5d92cb7b4d6c84e725f55b5ea46b081" title="G4IonisParamMat::GetZeffective" alt="" coords="311,1440,552,1468"/>
+<area shape="rect" id="node40" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a8f9f5cba3f054410d4b9ef3187bd9cff" title="G4GoudsmitSaundersonMscModel\l::Randomizetlimit" alt="" coords="305,1492,557,1536"/>
+<area shape="rect" id="node42" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a748872bf7f725a7c0e18f2150bd2b05d" title="G4GoudsmitSaundersonMscModel\l::SampleMSC" alt="" coords="305,806,557,850"/>
+<area shape="rect" id="node46" href="$d6/de3/classG4GoudsmitSaundersonTable.html#a2bbac730b3592079b08aa522b7464c08" title="G4GoudsmitSaundersonTable\l::SingleScattering" alt="" coords="930,1108,1151,1152"/>
+<area shape="rect" id="node47" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="640,1082,823,1110"/>
+<area shape="rect" id="node49" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="611,1186,851,1214"/>
+<area shape="rect" id="node3" href="$d3/db4/classG4SafetyHelper.html#a41d1df57344ba7b719257a643d9f9c7d" title="G4SafetyHelper::CheckNextStep" alt="" coords="611,112,851,140"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="609,60,854,88"/>
+<area shape="rect" id="node4" href="$d9/d53/classG4Navigator.html#ac1f1c9d57008fffc6c8b72405a1742d9" title="G4Navigator::CheckNextStep" alt="" coords="931,96,1150,124"/>
+<area shape="rect" id="node10" href="$d3/db4/classG4SafetyHelper.html#a11f8ff735d2ab59e677c5ee297d51367" title="G4SafetyHelper::ComputeSafety" alt="" coords="610,268,853,296"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#a31527cbdf5725183fd2af29bf99ceb6b" title="G4Navigator::ComputeSafety" alt="" coords="931,148,1151,176"/>
+<area shape="rect" id="node12" href="$dd/dfc/classG4PathFinder.html#a012c590cf26a99566c6cad6d4ee3a41c" title="G4PathFinder::ComputeSafety" alt="" coords="928,200,1153,228"/>
+<area shape="rect" id="node14" href="$d0/d99/classG4VMscModel.html#aedbce9395e1c7ad8a58eb5586982c733" title="G4VMscModel::ComputeGeom\lPathLength" alt="" coords="618,322,845,366"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1468,500,1660,528"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1468,552,1660,580"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1444,604,1684,632"/>
+<area shape="rect" id="node27" href="$da/d80/classG4VEnergyLossProcess.html#a09a9b567af12d7c9b40705c183abe578" title="G4VEnergyLossProcess\l::GetRangeForLoss" alt="" coords="952,816,1129,860"/>
+<area shape="rect" id="node28" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="963,936,1118,980"/>
+<area shape="rect" id="node29" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="951,884,1131,912"/>
+<area shape="rect" id="node33" href="$d6/de3/classG4GoudsmitSaundersonTable.html#a6e98e87f5d6a109938468f2830e93431" title="G4GoudsmitSaundersonTable\l::GetMoliereBc" alt="" coords="930,408,1151,452"/>
+<area shape="rect" id="node34" href="$d6/de3/classG4GoudsmitSaundersonTable.html#a276fd7be0fe9c6517eb395d6418e13d0" title="G4GoudsmitSaundersonTable\l::GetMottCorrectionFactors" alt="" coords="930,476,1151,520"/>
+<area shape="rect" id="node35" href="$d6/de3/classG4GoudsmitSaundersonTable.html#a254f0b3dbe00ed848487074e6c656c63" title="G4GoudsmitSaundersonTable\l::ComputeScatteringPowerCorrection" alt="" coords="905,680,1176,724"/>
+<area shape="rect" id="node37" href="$dd/d45/classG4GSPWACorrections.html#adb8b21defb84149a64fa08a2aa7a9255" title="G4GSPWACorrections\l::GetPWACorrectionFactors" alt="" coords="940,544,1141,588"/>
+<area shape="rect" id="node38" href="$d6/de3/classG4GoudsmitSaundersonTable.html#adf07a51e4ad0b2b98777b1632d8bbbef" title="G4GoudsmitSaundersonTable\l::GetMoliereXc2" alt="" coords="930,612,1151,656"/>
+<area shape="rect" id="node36" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1224,817,1396,861"/>
+<area shape="rect" id="node41" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="653,1492,810,1536"/>
+<area shape="rect" id="node43" href="$d0/d99/classG4VMscModel.html#a6540d9e4f3ce8e6f0f1cecdc0be227fa" title="G4VMscModel::GetEnergy" alt="" coords="633,808,830,836"/>
+<area shape="rect" id="node44" href="$d6/de3/classG4GoudsmitSaundersonTable.html#a4f0cee95adbf9bf1e10dced21e6d65ee" title="G4GoudsmitSaundersonTable\l::Sampling" alt="" coords="621,1014,842,1058"/>
+<area shape="rect" id="node45" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1007,1056,1074,1084"/>
+<area shape="rect" id="node48" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="639,962,824,990"/>
+<area shape="rect" id="node50" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="933,1228,1149,1256"/>
+</map>

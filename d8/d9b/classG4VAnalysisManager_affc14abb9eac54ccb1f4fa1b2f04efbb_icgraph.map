@@ -1,0 +1,19 @@
+<map id="G4VAnalysisManager::SetNtupleManager" name="G4VAnalysisManager::SetNtupleManager">
+<area shape="rect" id="node2" href="$de/dfa/classG4RootMpiAnalysisManager.html#aad9ca0d90ad68b7cdf6c00076e5a3d9b" title="G4RootMpiAnalysisManager\l::CreateMpiNtupleManagers" alt="" coords="219,36,429,80"/>
+<area shape="rect" id="node4" href="$d9/d51/classG4RootAnalysisManager.html#a9b15b0f3601d9d6c8350ec480e2764a8" title="G4RootAnalysisManager\l::CreateNtupleManagers" alt="" coords="231,133,417,177"/>
+<area shape="rect" id="node13" href="$db/d34/classG4CsvAnalysisManager.html#a3e44f65c40270d022fd7b1348778dff4" title="G4CsvAnalysisManager\l::G4CsvAnalysisManager" alt="" coords="229,201,419,245"/>
+<area shape="rect" id="node15" href="$dc/d6a/classG4Hdf5AnalysisManager.html#a5a7a229f7c4226d3a05ad0b10b3da377" title="G4Hdf5AnalysisManager\l::G4Hdf5AnalysisManager" alt="" coords="484,261,681,305"/>
+<area shape="rect" id="node17" href="$de/dc0/classG4XmlAnalysisManager.html#ad27c6906c9b3076cd006c59b3a443080" title="G4XmlAnalysisManager\l::G4XmlAnalysisManager" alt="" coords="228,321,420,365"/>
+<area shape="rect" id="node3" href="$de/dfa/classG4RootMpiAnalysisManager.html#a6240f7237812b8fd385feebd0193a417" title="G4RootMpiAnalysisManager\l::SetMpiNtupleMerging" alt="" coords="477,5,688,49"/>
+<area shape="rect" id="node5" href="$d9/d51/classG4RootAnalysisManager.html#a64d9731a7a5b4960bdb9497e3daeec43" title="G4RootAnalysisManager\l::G4RootAnalysisManager" alt="" coords="485,73,681,117"/>
+<area shape="rect" id="node12" href="$d9/d51/classG4RootAnalysisManager.html#a1232c71a84a542a3f1fb6563be39a87f" title="G4RootAnalysisManager\l::SetNtupleMerging" alt="" coords="489,141,676,185"/>
+<area shape="rect" id="node6" href="$d9/d51/classG4RootAnalysisManager.html#a53840fdc7ff8dae19165c5538c8904cd" title="G4RootAnalysisManager\l::Instance" alt="" coords="737,99,924,143"/>
+<area shape="rect" id="node7" href="$d4/d05/classHisto.html#ab9a792d132366278c0be9f6695918c85" title="Histo::Book" alt="" coords="1035,93,1133,121"/>
+<area shape="rect" id="node8" href="$d4/dcd/namespaceG4Analysis.html#ab1487841a955315128a93e5e0863063b" title="G4Analysis::ManagerInstance" alt="" coords="973,213,1195,241"/>
+<area shape="rect" id="node11" href="$d4/d05/classHisto.html#a47c329980f4d3304f7a13e57194eed8a" title="Histo::Save" alt="" coords="1035,145,1133,173"/>
+<area shape="rect" id="node9" href="$d1/d7a/classB5RunAction.html#a0e8630b79400276aa073fe370a0e2df7" title="B5RunAction::B5RunAction" alt="" coords="1256,187,1459,215"/>
+<area shape="rect" id="node10" href="$db/d4a/classScoreSpecies.html#aef0e2beef0f1cfa39ea61155f50e1161" title="ScoreSpecies::OutputAndClear" alt="" coords="1243,239,1472,267"/>
+<area shape="rect" id="node14" href="$db/d34/classG4CsvAnalysisManager.html#a6c7ed8197a5fdab69c669775069cc392" title="G4CsvAnalysisManager\l::Instance" alt="" coords="740,191,921,235"/>
+<area shape="rect" id="node16" href="$dc/d6a/classG4Hdf5AnalysisManager.html#ad4f028d2605d5744239b603d646d62cc" title="G4Hdf5AnalysisManager\l::Instance" alt="" coords="736,259,925,303"/>
+<area shape="rect" id="node18" href="$de/dc0/classG4XmlAnalysisManager.html#a3edbbf13d79f7e1544e9caadaae2d3db" title="G4XmlAnalysisManager\l::Instance" alt="" coords="739,327,922,371"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="G4DNABornExcitationModel2::Initialise" name="G4DNABornExcitationModel2::Initialise">
+<area shape="rect" id="node2" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="299,5,489,33"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1233,280,1339,308"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="596,109,779,137"/>
+<area shape="rect" id="node6" href="$d3/db5/classG4DNAMolecularMaterial.html#a97d522ebb550da101803187a75a94c87" title="Retrieve a table of molecular densities (number of molecules per unit volume) in the G4 unit system f..." alt="" coords="289,237,499,281"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#a33daba8fe8e5e6e65cead26b69149b23" title="G4VEmModel::GetParticleChange\lForGamma" alt="" coords="271,305,517,349"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="317,373,471,417"/>
+<area shape="rect" id="node23" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="277,441,511,469"/>
+<area shape="rect" id="node24" href="$d3/db5/classG4DNAMolecularMaterial.html#aa1df69fef23b1d34f8dbe3c05269b166" title="G4DNAMolecularMaterial\l::Instance" alt="" coords="299,493,489,537"/>
+<area shape="rect" id="node25" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="279,561,509,589"/>
+<area shape="rect" id="node26" href="$d7/d2c/classG4PhysicsVector.html#ad923df7c7b31dc411b6ade3a3c739988" title="G4PhysicsVector::PutValue" alt="" coords="293,613,495,641"/>
+<area shape="rect" id="node27" href="$dd/d15/classG4PhysicsTable.html#a7bb0e799528842aae3b5cfcf2a3f5073" title="G4PhysicsTable::Retrieve\lPhysicsTable" alt="" coords="299,665,489,709"/>
+<area shape="rect" id="node31" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="283,733,505,777"/>
+<area shape="rect" id="node32" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="285,801,503,845"/>
+<area shape="rect" id="node33" href="$d7/d2c/classG4PhysicsVector.html#aba40887d022724e54654532e8bfef1cc" title="G4PhysicsVector::SetSpline" alt="" coords="291,869,497,897"/>
+<area shape="rect" id="node34" href="$d3/dc1/classG4VEmModel.html#a70dd666366a281396a41a4f055cf1c7e" title="G4VEmModel::Value" alt="" coords="315,921,473,949"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="904,113,1072,141"/>
+<area shape="rect" id="node7" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="586,161,789,205"/>
+<area shape="rect" id="node10" href="$d3/db5/classG4DNAMolecularMaterial.html#ab4d5267869cee2deb369228b2bcb6fcd" title="G4DNAMolecularMaterial\l::Initialize" alt="" coords="593,400,782,444"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="1177,468,1395,496"/>
+<area shape="rect" id="node19" href="$d3/db5/classG4DNAMolecularMaterial.html#a7f071f14396a24e995b72410e8cc4465" title="G4DNAMolecularMaterial\l::PrintNotAMolecularMaterial" alt="" coords="581,229,794,273"/>
+<area shape="rect" id="node8" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="859,169,1117,197"/>
+<area shape="rect" id="node9" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1215,169,1357,197"/>
+<area shape="rect" id="node12" href="$d3/db5/classG4DNAMolecularMaterial.html#a69937ee85d82afcc604f428625e0c611" title="G4DNAMolecularMaterial\l::SearchMolecularMaterial" alt="" coords="890,571,1086,615"/>
+<area shape="rect" id="node17" href="$d3/db5/classG4DNAMolecularMaterial.html#ae3113fb72c108391068d01cc82022abf" title="G4DNAMolecularMaterial\l::InitializeDensity" alt="" coords="893,400,1083,444"/>
+<area shape="rect" id="node18" href="$d3/db5/classG4DNAMolecularMaterial.html#a6a8875efab644d9edc295365b0923698" title="G4DNAMolecularMaterial\l::InitializeNumMolPerVol" alt="" coords="893,332,1083,376"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#af5d40b48c7d029cf8369f1240f61ea0f" title="G4Material::GetMassOfMolecule" alt="" coords="1167,520,1405,548"/>
+<area shape="rect" id="node14" href="$d3/db5/classG4DNAMolecularMaterial.html#a17186595ad8364540368d0eaaf31cc36" title="G4DNAMolecularMaterial\l::RecordMolecularMaterial" alt="" coords="1188,572,1384,616"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#adb27815ba6c1e2e6e6301e6349288fde" title="G4Material::GetMatComponents" alt="" coords="1167,640,1405,668"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="1453,580,1619,608"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="565,571,809,599"/>
+<area shape="rect" id="node28" href="$dd/d15/classG4PhysicsTable.html#a14d3fd7296f663c1d95fb3befd60a6f1" title="G4PhysicsTable::clearAnd\lDestroy" alt="" coords="590,675,785,719"/>
+<area shape="rect" id="node29" href="$dd/d15/classG4PhysicsTable.html#ac46d11be0c3e9e50a5656cecf4ad1e69" title="G4PhysicsTable::CreatePhysics\lVector" alt="" coords="573,743,802,787"/>
+<area shape="rect" id="node30" href="$d7/d2c/classG4PhysicsVector.html#aafd2afa39fd6c4b574b5a4217dab8e59" title="G4PhysicsVector::Retrieve" alt="" coords="589,623,786,651"/>
+<area shape="rect" id="node35" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="567,1092,807,1120"/>
+<area shape="rect" id="node39" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="583,861,791,905"/>
+<area shape="rect" id="node36" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="902,1117,1074,1161"/>
+<area shape="rect" id="node37" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="880,1185,1096,1213"/>
+<area shape="rect" id="node38" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="902,1049,1074,1093"/>
+<area shape="rect" id="node40" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="870,741,1106,769"/>
+<area shape="rect" id="node41" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="911,793,1065,837"/>
+<area shape="rect" id="node42" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="873,861,1103,905"/>
+<area shape="rect" id="node43" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="857,929,1119,957"/>
+<area shape="rect" id="node44" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="878,981,1098,1025"/>
+<area shape="rect" id="node45" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="895,689,1081,717"/>
+</map>

@@ -1,0 +1,26 @@
+var classG4VModularPhysicsList =
+[
+    [ "G4PhysConstVector", "dc/d2e/classG4VModularPhysicsList.html#a2e2a62c0d9cbb8cad390e9e8cc2115cc", null ],
+    [ "G4VModularPhysicsList", "dc/d2e/classG4VModularPhysicsList.html#a2312f225fd520e512d93a29bfe578fb2", null ],
+    [ "~G4VModularPhysicsList", "dc/d2e/classG4VModularPhysicsList.html#a05d0b48079211d3b07e6684fe1dc2d9a", null ],
+    [ "G4VModularPhysicsList", "dc/d2e/classG4VModularPhysicsList.html#ac577de855601ed1bd2ffc4402ef7eade", null ],
+    [ "ConstructParticle", "dc/d2e/classG4VModularPhysicsList.html#a22417e5c401d5d52d97cafab4c1f2e83", null ],
+    [ "ConstructProcess", "dc/d2e/classG4VModularPhysicsList.html#a55db793625da622da97a4273809f093e", null ],
+    [ "GetInstanceID", "dc/d2e/classG4VModularPhysicsList.html#aa4b5c481a315512e87ac2aa7843924e6", null ],
+    [ "GetPhysics", "dc/d2e/classG4VModularPhysicsList.html#ae7210a37946c51d843b8760fb085a223", null ],
+    [ "GetPhysics", "dc/d2e/classG4VModularPhysicsList.html#abca308daa117fef702ef3efeb2dda4ea", null ],
+    [ "GetPhysicsWithType", "dc/d2e/classG4VModularPhysicsList.html#a33125a745e760e8bb744c9380c0a3d3e", null ],
+    [ "GetSubInstanceManager", "dc/d2e/classG4VModularPhysicsList.html#aee525cd2efca88f06a0c723411082f1b", null ],
+    [ "GetVerboseLevel", "dc/d2e/classG4VModularPhysicsList.html#ab252613c25f9e8407c27e0c2ceecdb93", null ],
+    [ "operator=", "dc/d2e/classG4VModularPhysicsList.html#a2794f6cb71610a094dea1b545800f47d", null ],
+    [ "RegisterPhysics", "dc/d2e/classG4VModularPhysicsList.html#a749b7064b776c809d258bcb4a95e9916", null ],
+    [ "RemovePhysics", "dc/d2e/classG4VModularPhysicsList.html#ab4b02a4649b43a51982574f1fb432d24", null ],
+    [ "RemovePhysics", "dc/d2e/classG4VModularPhysicsList.html#af91c4f815bd317b03f4533e6488658cd", null ],
+    [ "RemovePhysics", "dc/d2e/classG4VModularPhysicsList.html#ac5bcc81766685ce32713cbc56e6b743c", null ],
+    [ "ReplacePhysics", "dc/d2e/classG4VModularPhysicsList.html#acd6050c16d624c777380b91f7b36b3cc", null ],
+    [ "SetVerboseLevel", "dc/d2e/classG4VModularPhysicsList.html#a24f4328684c0fc6a6f4736815a719d91", null ],
+    [ "TerminateWorker", "dc/d2e/classG4VModularPhysicsList.html#a11daeadb926e6e2091891c5fa000e514", null ],
+    [ "g4vmplInstanceID", "dc/d2e/classG4VModularPhysicsList.html#ae3a8556b9e9de96533665706ee6ce15f", null ],
+    [ "G4VMPLsubInstanceManager", "dc/d2e/classG4VModularPhysicsList.html#ab2014d49b54d5d4369a4bdf9033db5d8", null ],
+    [ "verboseLevel", "dc/d2e/classG4VModularPhysicsList.html#af4b553583fc1bbf4744a4cf0412f8669", null ]
+];

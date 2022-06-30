@@ -1,0 +1,43 @@
+<map id="PHG4PhenixEventAction" name="PHG4PhenixEventAction">
+<area shape="rect" id="node2" href="$de/d75/classG4UserEventAction.html" title="G4UserEventAction" alt="" coords="2057,859,2209,887"/>
+<area shape="rect" id="node3" href="$da/d44/classG4EventManager.html" title="G4EventManager" alt="" coords="2454,873,2593,901"/>
+<area shape="rect" id="node42" href="$d0/d84/classG4EvManMessenger.html" title="G4EvManMessenger" alt="" coords="2765,458,2925,486"/>
+<area shape="rect" id="node4" href="$d5/de2/classG4Event.html" title="G4Event" alt="" coords="2093,1237,2173,1265"/>
+<area shape="rect" id="node5" href="$d7/db4/classG4HCofThisEvent.html" title="G4HCofThisEvent" alt="" coords="1615,1237,1755,1265"/>
+<area shape="rect" id="node7" href="$d2/dcc/classG4TrajectoryContainer.html" title="G4TrajectoryContainer" alt="" coords="1598,1133,1771,1161"/>
+<area shape="rect" id="node9" href="$d6/d48/classG4VTrajectory.html" title="G4VTrajectory" alt="" coords="664,998,780,1026"/>
+<area shape="rect" id="node21" href="$dd/d71/classG4TrackingManager.html" title="G4TrackingManager" alt="" coords="1606,606,1763,634"/>
+<area shape="rect" id="node10" href="$de/dbd/classG4PrimaryVertex.html" title="G4PrimaryVertex" alt="" coords="1617,1397,1753,1425"/>
+<area shape="rect" id="node11" href="$dc/d2d/classG4VUserPrimaryVertexInformation.html" title="G4VUserPrimaryVertexInformation" alt="" coords="1017,1311,1271,1339"/>
+<area shape="rect" id="node12" href="$df/d7e/classG4PrimaryParticle.html" title="G4PrimaryParticle" alt="" coords="1073,1523,1215,1551"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="645,1754,799,1782"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="1081,1763,1207,1791"/>
+<area shape="rect" id="node47" href="$d0/d69/classG4PrimaryTransformer.html" title="G4PrimaryTransformer" alt="" coords="1597,1689,1772,1717"/>
+<area shape="rect" id="node14" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="287,1694,367,1722"/>
+<area shape="rect" id="node23" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="657,883,787,911"/>
+<area shape="rect" id="node41" href="$d1/d43/classG4SDStructure.html" title="G4SDStructure" alt="" coords="860,1002,981,1030"/>
+<area shape="rect" id="node15" title="STL class." alt="" coords="5,1694,95,1722"/>
+<area shape="rect" id="node17" href="$dc/dc6/classG4VUserEventInformation.html" title="G4VUserEventInformation" alt="" coords="1586,1185,1783,1213"/>
+<area shape="rect" id="node18" href="$dd/dcb/classG4DCofThisEvent.html" title="G4DCofThisEvent" alt="" coords="1615,1289,1755,1317"/>
+<area shape="rect" id="node20" href="$d4/d9f/classG4UserTrackingAction.html" title="G4UserTrackingAction" alt="" coords="2048,689,2217,717"/>
+<area shape="rect" id="node22" href="$de/d57/classG4TrackingMessenger.html" title="G4TrackingMessenger" alt="" coords="1059,499,1229,527"/>
+<area shape="rect" id="node32" href="$d0/dcb/classG4StackingMessenger.html" title="G4StackingMessenger" alt="" coords="1057,837,1231,865"/>
+<area shape="rect" id="node39" href="$df/d5c/classG4SDmessenger.html" title="G4SDmessenger" alt="" coords="1077,551,1211,579"/>
+<area shape="rect" id="node24" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="269,707,384,735"/>
+<area shape="rect" id="node25" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="631,435,813,463"/>
+<area shape="rect" id="node26" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="619,543,825,571"/>
+<area shape="rect" id="node27" href="$d0/dd0/classG4SteppingManager.html" title="G4SteppingManager" alt="" coords="641,1207,803,1235"/>
+<area shape="rect" id="node30" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="1057,1415,1231,1443"/>
+<area shape="rect" id="node29" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="12,1183,88,1211"/>
+<area shape="rect" id="node31" href="$d1/d93/classG4StackManager.html" title="G4StackManager" alt="" coords="1616,911,1753,939"/>
+<area shape="rect" id="node36" href="$d9/d8c/classG4UserStackingAction.html" title="G4UserStackingAction" alt="" coords="2047,807,2218,835"/>
+<area shape="rect" id="node33" href="$df/dd3/classG4TrackStack.html" title="G4TrackStack" alt="" coords="665,1125,779,1153"/>
+<area shape="rect" id="node34" title="STL class." alt="" coords="211,1021,443,1049"/>
+<area shape="rect" id="node37" href="$d9/d6b/classG4SDManager.html" title="G4SDManager" alt="" coords="1625,741,1745,769"/>
+<area shape="rect" id="node38" href="$de/dd7/classG4HCtable.html" title="G4HCtable" alt="" coords="1097,733,1191,761"/>
+<area shape="rect" id="node43" href="$de/dd6/classG4StateManager.html" title="G4StateManager" alt="" coords="2065,1019,2201,1047"/>
+<area shape="rect" id="node44" href="$d4/de5/classG4VExceptionHandler.html" title="G4VExceptionHandler" alt="" coords="1599,963,1770,991"/>
+<area shape="rect" id="node46" href="$d4/d54/classG4VStateDependent.html" title="G4VStateDependent" alt="" coords="1063,1103,1225,1131"/>
+<area shape="rect" id="node48" href="$d7/d41/classPHTimeServer_1_1timer.html" title="wrapper around PHTimer, for storage in a map" alt="" coords="2051,147,2214,175"/>
+<area shape="rect" id="node50" href="$dc/d39/classPHG4EventAction.html" title="PHG4EventAction" alt="" coords="1615,95,1754,123"/>
+</map>

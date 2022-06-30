@@ -1,0 +1,51 @@
+<map id="G4Setup" name="G4Setup">
+<area shape="rect" id="node2" href="$d8/d04/G4__Barrel__EIC_8C.html#a5c00158e306db90afea0f2232e5026a3" title="Barrel" alt="" coords="228,117,289,145"/>
+<area shape="rect" id="node8" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="445,820,672,848"/>
+<area shape="rect" id="node9" href="$d1/d40/G4__BECAL_8C.html#a7c543173864df397450620abfddde1d5" title="BECALSetup" alt="" coords="206,1105,311,1133"/>
+<area shape="rect" id="node10" href="$d4/dcd/G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="215,1157,303,1185"/>
+<area shape="rect" id="node11" href="$d8/d4c/G4__CEmc__EIC_8C.html#ac778c2f88602e04311ada5c27fcb1e46" title="CEmc" alt="" coords="229,1209,289,1237"/>
+<area shape="rect" id="node12" href="$db/dd2/G4__TTL__EIC_8C.html#a2362486fac2d57848b4973152c18cb24" title="CTTLSetup" alt="" coords="212,1625,305,1653"/>
+<area shape="rect" id="node13" href="$d8/d50/G4__DIRC_8C.html#a0158029ebaf6692344d07ef2f82460ce" title="DIRCSetup" alt="" coords="212,221,305,249"/>
+<area shape="rect" id="node14" href="$d3/d09/G4__DRCALO_8C.html#ae18d2f7eb8eeb3b85f99c0dd642860a4" title="DRCALOSetup" alt="" coords="201,1417,317,1445"/>
+<area shape="rect" id="node15" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="468,1417,649,1445"/>
+<area shape="rect" id="node16" href="$d3/d45/G4__EEMC__hybrid_8C.html#a0f5fe03c955a98baef5ce508183a8901" title="EEMCHSetup" alt="" coords="204,377,313,405"/>
+<area shape="rect" id="node17" href="$d1/d38/G4__EEMC_8C.html#aa4757fd444fcd8b2dde7590e5bffc722" title="EEMCSetup" alt="" coords="209,429,308,457"/>
+<area shape="rect" id="node18" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="209,1677,309,1705"/>
+<area shape="rect" id="node19" href="$da/d5a/G4__EHCAL_8C.html#a4485f0bcefe4b615654d45f4a9f90481" title="EHCALSetup" alt="" coords="206,1469,311,1497"/>
+<area shape="rect" id="node20" href="$db/dd2/G4__TTL__EIC_8C.html#a723ad093e7e67d81d3884242d5b53b00" title="ETTLSetup" alt="" coords="212,1729,305,1757"/>
+<area shape="rect" id="node21" href="$d5/dcb/G4__FEMC_8C.html#a46bf470cecae66db11fccb5925a48429" title="FEMCSetup" alt="" coords="209,1261,308,1289"/>
+<area shape="rect" id="node22" href="$de/d55/G4__GEM__EIC_8C.html#a29e649028e80fa07e370ecbcf16ed90b" title="FGEMSetup" alt="" coords="209,1781,308,1809"/>
+<area shape="rect" id="node23" href="$d8/dc2/G4__FHCAL_8C.html#a34230ae56a9f95821aadf0d2a720df66" title="FHCALSetup" alt="" coords="206,1313,311,1341"/>
+<area shape="rect" id="node24" href="$d1/db0/G4__FST__EIC_8C.html#a85ba8948b4276cdaf26502475a9cd53e" title="FSTSetup" alt="" coords="216,1833,301,1861"/>
+<area shape="rect" id="node25" href="$db/dd2/G4__TTL__EIC_8C.html#a5fbeba69a6b9ed5b6189ce6b8cb49a70" title="FTTLSetup" alt="" coords="213,1885,305,1913"/>
+<area shape="rect" id="node26" href="$dc/dda/G4__HcalIn__ref_8C.html#a1a52eb3e2a8e75ec336b82be8ceef4d9" title="HCalInner" alt="" coords="214,481,303,509"/>
+<area shape="rect" id="node27" href="$d8/d93/G4__HcalOut__ref_8C.html#a1b10b3900f22c0f15ac8d49e06ceefb3" title="HCalOuter" alt="" coords="213,533,305,561"/>
+<area shape="rect" id="node28" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html#a5b52b18a29bbdbc4400942826a05f312" title="hFarBwdDefineDetectorsIP6" alt="" coords="154,585,363,613"/>
+<area shape="rect" id="node29" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html#aa3aaec4b0cea81fdc9084b5485809dd0" title="hFarBwdDefineDetectorsIP8" alt="" coords="154,637,363,665"/>
+<area shape="rect" id="node30" href="$d8/dd3/G4__hFarBwdBeamLine__EIC_8C.html#ac57735664d8806de91047dd7137ab13b" title="hFarBwdDefineMagnets" alt="" coords="168,689,349,717"/>
+<area shape="rect" id="node31" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a39cd0476d2b201f033894c397e9b0aae" title="hFarFwdDefineDetectorsIP6" alt="" coords="155,741,362,769"/>
+<area shape="rect" id="node32" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a18f9f4fd47d8482c56c1ba1b3f9dfad7" title="hFarFwdDefineDetectorsIP8" alt="" coords="155,793,362,821"/>
+<area shape="rect" id="node33" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#accfd44a3ea15bfe78995fc1aff2d9dbc" title="hFarFwdDefineMagnets" alt="" coords="169,845,348,873"/>
+<area shape="rect" id="node34" href="$d9/d3c/G4__LFHCAL_8C.html#a668c384e30a331740fd29d7bc7db2e11" title="LFHCALSetup" alt="" coords="203,1365,315,1393"/>
+<area shape="rect" id="node35" href="$da/d17/G4__Magnet_8C.html#a83e97495646b8e137d52e66d486d9273" title="Magnet" alt="" coords="222,897,295,925"/>
+<area shape="rect" id="node36" href="$de/d8a/G4__mRICH_8C.html#afe15c46bafe5f0a5c14319020f0741e4" title="mRICHSetup" alt="" coords="205,273,312,301"/>
+<area shape="rect" id="node37" href="$d1/df9/G4__Pipe_8C.html#a08cd22872149ee9d15a5b068c6aad7b4" title="Pipe" alt="" coords="234,949,283,977"/>
+<area shape="rect" id="node38" href="$d1/d56/G4__PlugDoor_8C.html#aa59bf2cdaabcdb80a472f7a8e1adc8fe" title="PlugDoor" alt="" coords="217,1001,301,1029"/>
+<area shape="rect" id="node39" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="133,1573,384,1601"/>
+<area shape="rect" id="node40" href="$da/d69/G4__dRICH_8C.html#a1e01d006392f23f7fadc944177d97720" title="Fast geometry model for dRICH." alt="" coords="212,325,305,353"/>
+<area shape="rect" id="node41" href="$d9/d7a/G4__mRwell__EIC_8C.html#a9c56a2589606f9fd84710967bdcba988" title="type selects the RWell material" alt="" coords="209,169,308,197"/>
+<area shape="rect" id="node42" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="181,1937,337,1965"/>
+<area shape="rect" id="node43" href="$d0/d78/classPHG4Reco.html#a2b127807e9bccb2480da1e0493cc2bd1" title="PHG4Reco::set_field_map" alt="" coords="161,1989,356,2017"/>
+<area shape="rect" id="node44" href="$d0/d78/classPHG4Reco.html#a29cc7f3d84eb82b13e8425bc77e200e3" title="set default scaling factor for input magnetic field map. If available, Field map setting on DST take ..." alt="" coords="181,2041,337,2085"/>
+<area shape="rect" id="node45" href="$d0/d78/classPHG4Reco.html#a79765f3051dffcab10f2dd08c18e5f89" title="PHG4Reco::set_force\l_decay" alt="" coords="178,2109,339,2153"/>
+<area shape="rect" id="node46" href="$d0/d78/classPHG4Reco.html#a7f706bdb1798a3fb60c6cdfcca81600b" title="PHG4Reco::set_rapidity\l_coverage" alt="" coords="169,2177,349,2221"/>
+<area shape="rect" id="node47" href="$d2/da4/G4__TrackingSupport_8C.html#ade1a0fdf1152b6ea50ccbdfc286b6467" title="TrackingService" alt="" coords="194,2245,323,2273"/>
+<area shape="rect" id="node48" href="$d1/dd8/G4__User_8C.html#a2cd25e21209f9ec3a852772c1b4725b5" title="UserDetector" alt="" coords="203,2297,314,2325"/>
+<area shape="rect" id="node49" href="$d0/d40/G4__World_8C.html#aed74d88aca1521f12fd30916dbf7b686" title="WorldInit" alt="" coords="217,2349,300,2377"/>
+<area shape="rect" id="node50" href="$d0/d40/G4__World_8C.html#a06884d6c2d974776c4210d8c95ec8550" title="WorldSize" alt="" coords="215,2401,303,2429"/>
+<area shape="rect" id="node3" href="$d8/d04/G4__Barrel__EIC_8C.html#af75c6c084178967055393e7633df6c32" title="BarrelFastKalmanFilterConfigBARR" alt="" coords="432,57,685,85"/>
+<area shape="rect" id="node4" href="$d8/d04/G4__Barrel__EIC_8C.html#a3807d1654d1f81d45da353ab5e6a3c9c" title="BarrelFastKalmanFilterConfigSVTX" alt="" coords="433,5,685,33"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceTRACKING.html#abea0354e9189613ed3a8c24c37cfa44a" title="TRACKING::FastKalmanFilter" alt="" coords="453,245,665,273"/>
+<area shape="rect" id="node6" href="$da/d7b/namespaceTRACKING.html#a788a844774c2dba8df14e41ca3b235c5" title="TRACKING::FastKalmanFilter\lInnerTrack" alt="" coords="453,177,665,221"/>
+<area shape="rect" id="node7" href="$da/d7b/namespaceTRACKING.html#a1d7a4014c3bd7b6d53b583920301b45b" title="TRACKING::FastKalmanFilter\lSiliconTrack" alt="" coords="453,109,665,153"/>
+</map>

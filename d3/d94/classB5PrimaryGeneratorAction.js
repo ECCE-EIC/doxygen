@@ -1,0 +1,26 @@
+var classB5PrimaryGeneratorAction =
+[
+    [ "B5PrimaryGeneratorAction", "d3/d94/classB5PrimaryGeneratorAction.html#aa6c06ad5f56a5ac3c3d1d351925bac72", null ],
+    [ "~B5PrimaryGeneratorAction", "d3/d94/classB5PrimaryGeneratorAction.html#af2514bb63e16db6521d4e4f88cb8cca9", null ],
+    [ "DefineCommands", "d3/d94/classB5PrimaryGeneratorAction.html#a3e104c8dfff0b76cecc76ceff13eae70", null ],
+    [ "GeneratePrimaries", "d3/d94/classB5PrimaryGeneratorAction.html#a2a69d1cd59e5f8060a5d830f294d1795", null ],
+    [ "GetMomentum", "d3/d94/classB5PrimaryGeneratorAction.html#abb16b53f40a8ebd6cdbd629ef30a73ba", null ],
+    [ "GetRandomize", "d3/d94/classB5PrimaryGeneratorAction.html#a6d47e2b68f5a0cb43d5a13f15698dda8", null ],
+    [ "GetSigmaAngle", "d3/d94/classB5PrimaryGeneratorAction.html#a320777d723a43d5868edfe253b438040", null ],
+    [ "GetSigmaMomentum", "d3/d94/classB5PrimaryGeneratorAction.html#ae55153c1ba70382405a8e540f262776c", null ],
+    [ "SetMomentum", "d3/d94/classB5PrimaryGeneratorAction.html#ad97348ea28b05461d572b853d2dd4d87", null ],
+    [ "SetRandomize", "d3/d94/classB5PrimaryGeneratorAction.html#ab411c002c48e1180008fb00250f22429", null ],
+    [ "SetSigmaAngle", "d3/d94/classB5PrimaryGeneratorAction.html#ac5ec2122899938a5322d5797d771d574", null ],
+    [ "SetSigmaMomentum", "d3/d94/classB5PrimaryGeneratorAction.html#a5fdcff70e700e89b1c27d9532b10a85c", null ],
+    [ "fKaon", "d3/d94/classB5PrimaryGeneratorAction.html#a13ca9d91af38a90d5063d70148b10836", null ],
+    [ "fMessenger", "d3/d94/classB5PrimaryGeneratorAction.html#a25bfe416df0c0a59281f7a64964385f8", null ],
+    [ "fMomentum", "d3/d94/classB5PrimaryGeneratorAction.html#a407aef57e5a7717a889d34b89f89d3b6", null ],
+    [ "fMuon", "d3/d94/classB5PrimaryGeneratorAction.html#a72de5c268ced2daa2752bcef3f8d8e1e", null ],
+    [ "fParticleGun", "d3/d94/classB5PrimaryGeneratorAction.html#a82a9ece27d79e53b90df515de76bffa9", null ],
+    [ "fPion", "d3/d94/classB5PrimaryGeneratorAction.html#a094dd6b5daa24969466b703186cd700c", null ],
+    [ "fPositron", "d3/d94/classB5PrimaryGeneratorAction.html#a295ae4161b77e0876b65f2c0b8d87bc1", null ],
+    [ "fProton", "d3/d94/classB5PrimaryGeneratorAction.html#a4c05962ebbe007d4b96b05033540449d", null ],
+    [ "fRandomizePrimary", "d3/d94/classB5PrimaryGeneratorAction.html#acf3d2b0718502de3bc41aaff1e65f5ba", null ],
+    [ "fSigmaAngle", "d3/d94/classB5PrimaryGeneratorAction.html#a78dccd30b056a19b9852b99b2f1984fc", null ],
+    [ "fSigmaMomentum", "d3/d94/classB5PrimaryGeneratorAction.html#a1d4b5c2c768c65ce3aee80eaf461b0f6", null ]
+];

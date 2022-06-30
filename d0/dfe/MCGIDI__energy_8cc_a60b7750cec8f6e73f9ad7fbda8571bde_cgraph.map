@@ -1,0 +1,43 @@
+<map id="MCGIDI_energy_sampleWeightedFunctional" name="MCGIDI_energy_sampleWeightedFunctional">
+<area shape="rect" id="node2" href="$d9/d57/classMCGIDI__quantitiesLookupModes.html#afc7e090e606443b2fd9ef2a1451eac26" title="MCGIDI_quantitiesLookupModes\l::getProjectileEnergy" alt="" coords="573,27,811,71"/>
+<area shape="rect" id="node3" href="$da/d25/MCGIDI_8h.html#a317e1a7641cbd8baa5e09db18c034ae8" title="MCGIDI_energy_sampleEnergy" alt="" coords="297,223,525,251"/>
+<area shape="rect" id="node17" href="$da/d25/MCGIDI_8h.html#a102770930e1e36a1dcfe79f755c7e01e" title="MCGIDI_sampling_ptwXY\l_getValueAtX" alt="" coords="597,95,787,139"/>
+<area shape="rect" id="node4" href="$d0/dfe/MCGIDI__energy_8cc.html#a793bab0c1fe037b75ed73568a88e06ab" title="MCGIDI_energy_sampleEvaporation" alt="" coords="859,281,1120,309"/>
+<area shape="rect" id="node9" href="$d0/dfe/MCGIDI__energy_8cc.html#a285e86b56bb6a1fbb03a60422f04d04d" title="MCGIDI_energy_sampleSimple\lMaxwellianFission" alt="" coords="579,215,805,259"/>
+<area shape="rect" id="node10" href="$d0/dfe/MCGIDI__energy_8cc.html#affd1f070a93bdaf89e01df42d0616a44" title="MCGIDI_energy_sampleWatt" alt="" coords="1420,281,1632,309"/>
+<area shape="rect" id="node29" href="$da/d25/MCGIDI_8h.html#a4f5ed990443c10bfe19c1c85b0313558" title="MCGIDI_sampling_sampleX\l_from_pdfOfX" alt="" coords="887,592,1092,636"/>
+<area shape="rect" id="node31" href="$da/d25/MCGIDI_8h.html#aa989f1e734b34a65b1fdb9aabc833f07" title="MCGIDI_sampling_sampleX\l_from_pdfsOfXGivenW" alt="" coords="589,443,795,487"/>
+<area shape="rect" id="node38" href="$dd/dc6/statusMessageReporting_8h.html#ac8e761b5171730ddc1e06c03abdc18a9" title="smr_isOk" alt="" coords="650,645,734,673"/>
+<area shape="rect" id="node42" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="664,163,720,191"/>
+<area shape="rect" id="node5" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1493,229,1559,257"/>
+<area shape="rect" id="node6" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1699,221,1864,249"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1687,273,1876,301"/>
+<area shape="rect" id="node7" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1957,221,2145,249"/>
+<area shape="rect" id="node11" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1749,385,1813,413"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1955,333,2147,361"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1955,385,2147,413"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1931,437,2171,465"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="2219,411,2407,439"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="2219,463,2407,491"/>
+<area shape="rect" id="node18" href="$d2/d7d/ptwXY_8h.html#a609d2f5531d2159d0982a2c978a5da69" title="ptwXY_getValueAtX" alt="" coords="913,117,1066,145"/>
+<area shape="rect" id="node27" href="$d2/d7d/ptwXY_8h.html#adf9b3d3bb935a439fbde7085d959523d" title="ptwXY_getXMax" alt="" coords="1461,57,1591,85"/>
+<area shape="rect" id="node28" href="$d2/d7d/ptwXY_8h.html#ab1765e302e98e9b30a16d1d66baa55ee" title="ptwXY_getXMin" alt="" coords="1464,5,1588,33"/>
+<area shape="rect" id="node19" href="$d2/d7d/ptwXY_8h.html#aab29547d1d9d571e092703db23b215e0" title="ptwXY_getPointsAroundX" alt="" coords="1175,117,1365,145"/>
+<area shape="rect" id="node26" href="$d2/d7d/ptwXY_8h.html#ae6abf41110d9d1b5c50ffd926344e9ee" title="ptwXY_interpolatePoint" alt="" coords="1181,177,1359,205"/>
+<area shape="rect" id="node20" href="$d2/d7d/ptwXY_8h.html#a9b34cd7c28efa3e9d6c11c43bce54395" title="ptwXY_getPointsAroundX\l_closeIsEqual" alt="" coords="1431,109,1621,153"/>
+<area shape="rect" id="node21" href="$d2/d7d/ptwXY_8h.html#a5b7bec83d87c62cf9c522e2b7f5bfc8e" title="ptwXY_getNonOverflowLength" alt="" coords="1938,61,2163,89"/>
+<area shape="rect" id="node22" href="$d2/d7d/ptwXY_8h.html#acdef5020b70bd453aba3ce9535df106c" title="ptwXY_getXMaxAndFrom" alt="" coords="1687,61,1875,89"/>
+<area shape="rect" id="node24" href="$d2/d7d/ptwXY_8h.html#afcc2b5db05c068617d5958eacfe6b0d6" title="ptwXY_getXMinAndFrom" alt="" coords="1689,9,1874,37"/>
+<area shape="rect" id="node25" href="$d7/db3/ptwXY__core_8cc.html#af7b3e6497914d3e67ea5c056d6236469" title="ptwXY_initialOverflowPoint" alt="" coords="1680,113,1883,141"/>
+<area shape="rect" id="node23" href="$d2/db9/nf__utilities_8h.html#ad7d09a3a8eef2c0abf7d407315feaa8a" title="nfu_getNAN" alt="" coords="2000,9,2101,37"/>
+<area shape="rect" id="node30" href="$da/d25/MCGIDI_8h.html#a61a22fc1e775a181b05c3ad331f97454" title="MCGIDI_misc_binarySearch" alt="" coords="1168,561,1372,589"/>
+<area shape="rect" id="node32" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="911,385,1068,413"/>
+<area shape="rect" id="node33" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="933,437,1046,465"/>
+<area shape="rect" id="node34" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="1215,385,1325,413"/>
+<area shape="rect" id="node36" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="1217,437,1323,465"/>
+<area shape="rect" id="node35" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1507,333,1545,361"/>
+<area shape="rect" id="node37" href="$de/d0f/classG4Pow.html#ac13480ec4002760d19472b52e517933b" title="G4Pow::logBase" alt="" coords="1461,437,1591,465"/>
+<area shape="rect" id="node39" href="$dd/dc6/statusMessageReporting_8h.html#a58ab737e9a04e02bb96b2861b45a7fd3" title="smr_highestStatus" alt="" coords="916,660,1063,688"/>
+<area shape="rect" id="node40" href="$dd/dc6/statusMessageReporting_8h.html#aa4a70675f4512577d6cd329acd3533a5" title="smr_firstReport" alt="" coords="1207,633,1333,661"/>
+<area shape="rect" id="node41" href="$dd/dc6/statusMessageReporting_8h.html#addc16616d7627c03ef979aae25340697" title="smr_nextReport" alt="" coords="1205,685,1335,713"/>
+</map>

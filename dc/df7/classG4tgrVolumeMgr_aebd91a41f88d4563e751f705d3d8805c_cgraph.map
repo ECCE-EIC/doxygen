@@ -1,0 +1,29 @@
+<map id="G4tgrVolumeMgr::DumpSummary" name="G4tgrVolumeMgr::DumpSummary">
+<area shape="rect" id="node2" href="$dc/dd0/classG4tgrMaterialFactory.html#a66c0257ed72632688410be3a21fbf250" title="G4tgrMaterialFactory\l::DumpElementList" alt="" coords="354,5,518,49"/>
+<area shape="rect" id="node3" href="$dc/dd0/classG4tgrMaterialFactory.html#af0959768c6d3cf897379756b68909841" title="G4tgrMaterialFactory\l::DumpIsotopeList" alt="" coords="354,73,518,117"/>
+<area shape="rect" id="node4" href="$dc/dd0/classG4tgrMaterialFactory.html#a955692f67de984d908e839efbeabda31" title="G4tgrMaterialFactory\l::DumpMaterialList" alt="" coords="354,141,518,185"/>
+<area shape="rect" id="node8" href="$df/d04/classG4tgrRotationMatrixFactory.html#a0f74ad13b4dacb3003328582d55d9c20" title="G4tgrRotationMatrixFactory\l::DumpRotmList" alt="" coords="332,209,540,253"/>
+<area shape="rect" id="node9" href="$dc/df7/classG4tgrVolumeMgr.html#a8572fc5b253e23c07111f0d8f0579005" title="G4tgrVolumeMgr::DumpVolumeTree" alt="" coords="304,277,568,305"/>
+<area shape="rect" id="node10" href="$dc/df7/classG4tgrVolumeMgr.html#a6d14b706fae4f6b55f2b2ed24b2e04a8" title="G4tgrVolumeMgr::GetTopVolume" alt="" coords="627,404,870,432"/>
+<area shape="rect" id="node12" href="$d5/df8/classG4tgrVolume.html#acf00434b6c69b3160ce4d419dcfb904e" title="G4tgrVolume::GetName" alt="" coords="950,321,1133,349"/>
+<area shape="rect" id="node21" href="$dc/dd0/classG4tgrMaterialFactory.html#a32e9e2e619c5a7b84b800f5f0bc109bb" title="G4tgrMaterialFactory\l::GetElementList" alt="" coords="354,432,518,476"/>
+<area shape="rect" id="node22" href="$df/d04/classG4tgrRotationMatrixFactory.html#aeb82b661de9a00ce678f2203f579cee3" title="G4tgrRotationMatrixFactory\l::GetInstance" alt="" coords="332,500,540,544"/>
+<area shape="rect" id="node24" href="$dc/dd0/classG4tgrMaterialFactory.html#a3e0d6f4277ef0036a28ba9147d8208b9" title="G4tgrMaterialFactory\l::GetInstance" alt="" coords="354,568,518,612"/>
+<area shape="rect" id="node26" href="$dc/dd0/classG4tgrMaterialFactory.html#aece7c209e5e6e8213ccf9728a25398db" title="G4tgrMaterialFactory\l::GetIsotopeList" alt="" coords="354,636,518,680"/>
+<area shape="rect" id="node27" href="$dc/dd0/classG4tgrMaterialFactory.html#a58a2bd973f82cdd5a38c739eecfb237b" title="G4tgrMaterialFactory\l::GetMaterialList" alt="" coords="354,704,518,748"/>
+<area shape="rect" id="node28" href="$df/d04/classG4tgrRotationMatrixFactory.html#a1de8a5ef7017f4efa94ca2b2a42882aa" title="G4tgrRotationMatrixFactory\l::GetRotMatList" alt="" coords="332,772,540,816"/>
+<area shape="rect" id="node5" href="$d8/db9/classG4tgrMaterial.html#a5688fcbd8e8ba6a9b77d181d39e3b865" title="G4tgrMaterial::GetName" alt="" coords="655,89,842,117"/>
+<area shape="rect" id="node6" href="$d8/db9/classG4tgrMaterial.html#ad31389c8147810e0c2085c7b882510f6" title="G4tgrMaterial::GetNumber\lOfComponents" alt="" coords="647,141,850,185"/>
+<area shape="rect" id="node7" href="$d8/db9/classG4tgrMaterial.html#a011c778e5bdb91332b0ccef992c3bec1" title="G4tgrMaterial::GetType" alt="" coords="659,209,838,237"/>
+<area shape="rect" id="node17" href="$dc/df7/classG4tgrVolumeMgr.html#a5fbcb2729abc3b02a6e1db84dd394f25" title="G4tgrVolumeMgr::DumpVolumeLeaf" alt="" coords="616,269,881,297"/>
+<area shape="rect" id="node11" href="$d1/dda/classG4tgrMessenger.html#a554edbbce90ae4c6fcc85cdb6a711608" title="G4tgrMessenger::GetVerbose\lLevel" alt="" coords="931,477,1151,521"/>
+<area shape="rect" id="node13" href="$d5/df8/classG4tgrVolume.html#afe41ce45a35e05daf3b3238c124c24c1" title="G4tgrVolume::GetPlacements" alt="" coords="931,545,1152,573"/>
+<area shape="rect" id="node14" href="$dc/df7/classG4tgrVolumeMgr.html#a150e15733f97a65cf0fb069f6a8267df" title="G4tgrVolumeMgr::FindVolume" alt="" coords="930,597,1153,625"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1201,485,1308,513"/>
+<area shape="rect" id="node16" href="$d5/df8/classG4tgrVolume.html#a1152a68ed747dec9cdd2fc42d488a263" title="G4tgrVolume::GetType" alt="" coords="954,425,1129,453"/>
+<area shape="rect" id="node18" href="$dc/df7/classG4tgrVolumeMgr.html#ac0fe88e824306ee1195c4247593197f8" title="G4tgrVolumeMgr::GetChildren" alt="" coords="929,269,1153,297"/>
+<area shape="rect" id="node19" href="$dd/dc9/classG4tgrPlace.html#a155f0a598fa8109a3965bf36591a9e4c" title="G4tgrPlace::GetVolume" alt="" coords="952,165,1131,193"/>
+<area shape="rect" id="node20" href="$dd/dc9/classG4tgrPlace.html#a1baafcfcf14ea3e1f610df6e3d702d55" title="G4tgrPlace::GetCopyNo" alt="" coords="951,217,1132,245"/>
+<area shape="rect" id="node23" href="$df/d04/classG4tgrRotationMatrixFactory.html#a746421155609159a75af39a88f186012" title="G4tgrRotationMatrixFactory\l::G4tgrRotationMatrixFactory" alt="" coords="641,500,857,544"/>
+<area shape="rect" id="node25" href="$dc/dd0/classG4tgrMaterialFactory.html#ad879a3dd0fb66149e02191d78931055d" title="G4tgrMaterialFactory\l::G4tgrMaterialFactory" alt="" coords="663,568,835,612"/>
+</map>

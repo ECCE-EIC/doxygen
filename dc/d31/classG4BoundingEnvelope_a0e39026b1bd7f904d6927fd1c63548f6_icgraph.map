@@ -1,0 +1,29 @@
+<map id="G4BoundingEnvelope::TransformVertices" name="G4BoundingEnvelope::TransformVertices">
+<area shape="rect" id="node2" href="$dc/d31/classG4BoundingEnvelope.html#ab9edf66cecab598fa62dbf1afa672138" title="G4BoundingEnvelope\l::CalculateExtent" alt="" coords="221,728,389,772"/>
+<area shape="rect" id="node3" href="$d0/dc1/classG4ScaledSolid.html#a11ff46862aea3edb67df4ff1f65a3605" title="G4ScaledSolid::Calculate\lExtent" alt="" coords="457,5,647,49"/>
+<area shape="rect" id="node4" href="$d0/d5a/classG4Box.html#aabbe39d2903da9f1cf94729adc48a505" title="G4Box::CalculateExtent" alt="" coords="461,73,643,101"/>
+<area shape="rect" id="node5" href="$d4/d92/classG4VTwistedFaceted.html#a706568c9cdc3b9e3aef09775da1072b9" title="G4VTwistedFaceted::\lCalculateExtent" alt="" coords="472,125,632,169"/>
+<area shape="rect" id="node6" href="$d8/d8b/classG4EllipticalTube.html#a7ca96c0f0a0808dd6d27a0bd9f0fd8e8" title="G4EllipticalTube::Calculate\lExtent" alt="" coords="451,193,653,237"/>
+<area shape="rect" id="node7" href="$dd/d9a/classG4Orb.html#ae60953cee782023dbae7f0d9e8c769ff" title="G4Orb::CalculateExtent" alt="" coords="461,261,643,289"/>
+<area shape="rect" id="node8" href="$dc/d33/classG4GenericPolycone.html#ae7853c041ac4ebbaab3d9d5941568c71" title="G4GenericPolycone::\lCalculateExtent" alt="" coords="471,313,633,357"/>
+<area shape="rect" id="node9" href="$d0/d1a/classG4Hype.html#a7c1a479e3ae8ee36502b5e81b184b694" title="G4Hype::CalculateExtent" alt="" coords="456,381,648,409"/>
+<area shape="rect" id="node10" href="$d6/d81/classG4Ellipsoid.html#a4847445a0d1a6b18d6ec16bcebfc3624" title="G4Ellipsoid::CalculateExtent" alt="" coords="445,433,659,461"/>
+<area shape="rect" id="node11" href="$d2/d69/classG4Paraboloid.html#a95f030cdcc0a7fde35dc604b5b416626" title="G4Paraboloid::CalculateExtent" alt="" coords="438,485,666,513"/>
+<area shape="rect" id="node12" href="$de/d99/classG4Tet.html#a2d07ef295765bddb93c2c2375263aa22" title="G4Tet::CalculateExtent" alt="" coords="463,537,641,565"/>
+<area shape="rect" id="node13" href="$db/db5/classG4TwistedTubs.html#a6215ca2327b25782db29fdcf63e737e8" title="G4TwistedTubs::Calculate\lExtent" alt="" coords="455,589,649,633"/>
+<area shape="rect" id="node14" href="$d9/de5/classG4Polycone.html#aa6f34f5dbdbb3f38737951169a73e4aa" title="G4Polycone::CalculateExtent" alt="" coords="443,657,661,685"/>
+<area shape="rect" id="node15" href="$d2/d5a/classG4Polyhedra.html#a8f1df9a92df7655f53e6b1e4a2ec18eb" title="G4Polyhedra::CalculateExtent" alt="" coords="440,709,664,737"/>
+<area shape="rect" id="node16" href="$d7/d40/classG4CutTubs.html#ad8e31258930703dcb23de4def6637be0" title="G4CutTubs::CalculateExtent" alt="" coords="447,761,657,789"/>
+<area shape="rect" id="node17" href="$d0/d50/classG4Trd.html#aacd59dd41ccf5cd775487572091e8e80" title="G4Trd::CalculateExtent" alt="" coords="463,813,641,841"/>
+<area shape="rect" id="node18" href="$d9/df1/classG4MultiUnion.html#a0925f1545ab4a189290f1335291b4d48" title="G4MultiUnion::CalculateExtent" alt="" coords="437,865,667,893"/>
+<area shape="rect" id="node19" href="$d6/dd3/classG4GenericTrap.html#af09bc154fb8b3e0b5cd55b942ec27dc9" title="G4GenericTrap::Calculate\lExtent" alt="" coords="455,917,649,961"/>
+<area shape="rect" id="node20" href="$df/d2e/classG4EllipticalCone.html#aabcc8982e4e4429ab031e5948fa69313" title="G4EllipticalCone::Calculate\lExtent" alt="" coords="450,985,654,1029"/>
+<area shape="rect" id="node21" href="$d0/d28/classG4Tubs.html#af208d16d2bd636f3dc02d3d28aad8788" title="G4Tubs::CalculateExtent" alt="" coords="458,1053,646,1081"/>
+<area shape="rect" id="node22" href="$d3/d6a/classG4Para.html#aec87ada71814782281497a29c6ff08c1" title="G4Para::CalculateExtent" alt="" coords="459,1105,645,1133"/>
+<area shape="rect" id="node23" href="$da/d0a/classG4Torus.html#ae8cc97bb48a0d30390f3975259f3bded" title="G4Torus::CalculateExtent" alt="" coords="455,1157,649,1185"/>
+<area shape="rect" id="node24" href="$da/d21/classG4ExtrudedSolid.html#a20de5b645568c66b94274e70fd608039" title="G4ExtrudedSolid::Calculate\lExtent" alt="" coords="449,1209,655,1253"/>
+<area shape="rect" id="node25" href="$de/d0d/classG4Cons.html#a50f854d3821f5aad7099450b35c45d6a" title="G4Cons::CalculateExtent" alt="" coords="457,1277,647,1305"/>
+<area shape="rect" id="node26" href="$da/dd6/classG4Sphere.html#ae15bac0a5869549228363885e9d91ade" title="G4Sphere::CalculateExtent" alt="" coords="449,1329,655,1357"/>
+<area shape="rect" id="node27" href="$da/db4/classG4TessellatedSolid.html#a52506c4b22f03939c2520a88302c60d1" title="G4TessellatedSolid\l::CalculateExtent" alt="" coords="478,1381,626,1425"/>
+<area shape="rect" id="node28" href="$d7/df4/classG4Trap.html#a5871619ed3ac3d6e9fe6ede6edea8e4b" title="G4Trap::CalculateExtent" alt="" coords="459,1449,645,1477"/>
+</map>

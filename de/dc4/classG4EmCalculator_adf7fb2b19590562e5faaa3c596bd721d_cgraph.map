@@ -1,0 +1,20 @@
+<map id="G4EmCalculator::ComputeEnergyCutFromRangeCut" name="G4EmCalculator::ComputeEnergyCutFromRangeCut">
+<area shape="rect" id="node2" href="$de/dc4/classG4EmCalculator.html#a5c83108e5a92faaec640c0634773cb8c" title="G4EmCalculator::ComputeEnergy\lCutFromRangeCut" alt="" coords="301,39,549,83"/>
+<area shape="rect" id="node4" href="$de/dc4/classG4EmCalculator.html#af916cb6f6ae1901a27b45973d02a0c43" title="G4EmCalculator::FindMaterial" alt="" coords="315,132,536,160"/>
+<area shape="rect" id="node8" href="$de/dc4/classG4EmCalculator.html#a014d0626678391390a973a59511444f0" title="G4EmCalculator::FindParticle" alt="" coords="317,205,534,233"/>
+<area shape="rect" id="node3" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="619,25,809,69"/>
+<area shape="rect" id="node5" href="$de/dc4/classG4EmCalculator.html#ac511a8f28c961c1a482dd1d0aca52b33" title="G4EmCalculator::SetupMaterial" alt="" coords="597,93,831,121"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#ae03e012341ce72383a9b363693785bb8" title="G4Material::GetMaterial" alt="" coords="623,145,805,173"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="917,100,1085,128"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="610,197,818,241"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="608,291,820,319"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="900,164,1101,208"/>
+<area shape="rect" id="node11" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1197,5,1373,49"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1197,73,1373,117"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1193,261,1376,289"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1207,141,1362,185"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1171,209,1399,237"/>
+<area shape="rect" id="node17" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="879,313,1123,341"/>
+<area shape="rect" id="node19" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="889,365,1113,393"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1231,313,1338,341"/>
+</map>

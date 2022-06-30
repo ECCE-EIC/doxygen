@@ -1,0 +1,38 @@
+<map id="export_G4Element" name="export_G4Element">
+<area shape="rect" id="node2" href="$de/d80/classG4Element.html#a56649b316db4415700214ba0c4be75b2" title="G4Element::AddIsotope" alt="" coords="242,157,423,185"/>
+<area shape="rect" id="node18" href="$de/d2f/namespacepyG4Element.html#a196176234725fb9a719416175c2ab3e7" title="pyG4Element::f_GetRelative\lAbundanceVector" alt="" coords="227,209,439,253"/>
+<area shape="rect" id="node19" href="$de/d80/classG4Element.html#acd081e1705555cd8dce5081291c7a3f9" title="G4Element::GetA" alt="" coords="263,277,402,305"/>
+<area shape="rect" id="node20" href="$de/d80/classG4Element.html#ae5f72951cc5da3ef4bb1071c0c6942fd" title="G4Element::GetAtomicShell" alt="" coords="228,329,437,357"/>
+<area shape="rect" id="node21" href="$de/d80/classG4Element.html#ae8df827b509589202d09d546fda96a95" title="G4Element::GetElement" alt="" coords="239,381,426,409"/>
+<area shape="rect" id="node22" href="$de/d80/classG4Element.html#a0bcbf2b47ad07b5b806078c46112fc6a" title="G4Element::GetName" alt="" coords="537,407,706,435"/>
+<area shape="rect" id="node23" href="$de/d80/classG4Element.html#a057a1bd738df9f6245f6a38701740eb0" title="G4Element::GetElementTable" alt="" coords="223,485,443,513"/>
+<area shape="rect" id="node24" href="$de/d80/classG4Element.html#ac3e6b35667ad620d8e47deeb2c8ce035" title="G4Element::GetfCoulomb" alt="" coords="235,537,430,565"/>
+<area shape="rect" id="node25" href="$de/d80/classG4Element.html#a3f7cf1af00c50121cc94416e743527b5" title="G4Element::GetfRadTsai" alt="" coords="240,589,425,617"/>
+<area shape="rect" id="node26" href="$de/d80/classG4Element.html#a94eb59b38b9a39e1970420381380ee77" title="G4Element::GetIndex" alt="" coords="249,641,416,669"/>
+<area shape="rect" id="node27" href="$de/d80/classG4Element.html#a3cab68df6c6f07a321d2dcedff777689" title="G4Element::GetIonisation" alt="" coords="235,693,430,721"/>
+<area shape="rect" id="node28" href="$de/d80/classG4Element.html#a234032e9239515c70a4637535cbe46ed" title="G4Element::GetIsotope" alt="" coords="243,745,422,773"/>
+<area shape="rect" id="node29" href="$de/d80/classG4Element.html#a4f0946e5ae3f963321e1e14153aa4e37" title="G4Element::GetIsotopeVector" alt="" coords="221,797,444,825"/>
+<area shape="rect" id="node30" href="$de/d80/classG4Element.html#afdbaa23cf1c2da3acded8de288eab5d8" title="G4Element::GetN" alt="" coords="263,849,402,877"/>
+<area shape="rect" id="node31" href="$de/d80/classG4Element.html#a38b8e3a4a6e7e766a9e3b174418b7718" title="G4Element::GetNbOfAtomic\lShells" alt="" coords="227,901,438,945"/>
+<area shape="rect" id="node32" href="$de/d80/classG4Element.html#a353149d2b61ab50ef7bde47e621a7bd4" title="G4Element::GetNumberOfElements" alt="" coords="201,969,464,997"/>
+<area shape="rect" id="node33" href="$de/d80/classG4Element.html#a8db620c908d7ef03465ebcd094d9af1a" title="G4Element::GetNumberOfIsotopes" alt="" coords="205,1021,461,1049"/>
+<area shape="rect" id="node34" href="$de/d80/classG4Element.html#a2b14f9fe2da360e3af30b7defed2a13d" title="G4Element::GetSymbol" alt="" coords="243,1073,423,1101"/>
+<area shape="rect" id="node35" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="263,1125,402,1153"/>
+<area shape="rect" id="node36" href="$de/d2f/namespacepyG4Element.html#a6183ccb9e7b63a047b4b397844a7ec2c" title="pyG4Element::Print" alt="" coords="256,1177,409,1205"/>
+<area shape="rect" id="node37" href="$de/d80/classG4Element.html#a4b90bae8a15f283bfd854766be5f7d4f" title="G4Element::SetName" alt="" coords="249,1229,416,1257"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="568,329,675,357"/>
+<area shape="rect" id="node4" href="$d8/d66/classG4Isotope.html#a288db701d3b8fbd9b155ac9d3b146207" title="G4Isotope::GetZ" alt="" coords="555,5,687,33"/>
+<area shape="rect" id="node5" href="$d0/dbe/classG4AtomicShells.html#ac9ff8c0e5699b7579b57736b610e3acb" title="G4AtomicShells::GetNumber\lOfShells" alt="" coords="513,57,729,101"/>
+<area shape="rect" id="node6" href="$d0/dbe/classG4AtomicShells.html#aba4aaed9566cb5373f3e9bbf963e4881" title="G4AtomicShells::GetBinding\lEnergy" alt="" coords="515,125,727,169"/>
+<area shape="rect" id="node7" href="$d0/dbe/classG4AtomicShells.html#ab321385a604c4a0790b8dc491019d24d" title="G4AtomicShells::GetNumber\lOfElectrons" alt="" coords="513,193,729,237"/>
+<area shape="rect" id="node8" href="$de/d80/classG4Element.html#aa7dda635d6363da9e36dd4df237340da" title="G4Element::ComputeDerived\lQuantities" alt="" coords="512,261,731,305"/>
+<area shape="rect" id="node9" href="$de/d80/classG4Element.html#a87219d8455bd9ff22b44d1953b1cb586" title="G4Element::ComputeCoulomb\lFactor" alt="" coords="779,193,1005,237"/>
+<area shape="rect" id="node10" href="$de/d80/classG4Element.html#a5a848d8f3e222072efaa81d112c87e11" title="G4Element::ComputeLradTsai\lFactor" alt="" coords="781,261,1003,305"/>
+<area shape="rect" id="node17" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="1053,325,1121,353"/>
+<area shape="rect" id="node11" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1055,269,1119,297"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1169,217,1409,245"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1193,269,1385,297"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1193,321,1385,349"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1457,192,1645,220"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1457,244,1645,272"/>
+</map>

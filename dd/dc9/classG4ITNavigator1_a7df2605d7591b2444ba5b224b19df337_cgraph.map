@@ -1,0 +1,35 @@
+<map id="G4ITNavigator1::GetLocalExitNormalAndCheck" name="G4ITNavigator1::GetLocalExitNormalAndCheck">
+<area shape="rect" id="node2" href="$dd/dc9/classG4ITNavigator1.html#a62065ecffa1e0f8ff3b788afcad5eeb3" title="G4ITNavigator1::GetGlobal\lToLocalTransform" alt="" coords="248,799,451,843"/>
+<area shape="rect" id="node3" href="$dd/dc9/classG4ITNavigator1.html#ab56593db1d4b0859f42741bc104e5c73" title="G4ITNavigator1::GetLocal\lExitNormal" alt="" coords="252,867,447,911"/>
+<area shape="rect" id="node33" href="$d8/d1e/classG4AffineTransform.html#ac5cb9beef1fa275e47f07d4afe04769e" title="G4AffineTransform::\lTransformPoint" alt="" coords="548,1323,703,1367"/>
+<area shape="rect" id="node4" href="$da/d34/classG4VSolid.html#ac95e39d50f7c8c311128d0ebb15243cf" title="G4VSolid::DistanceToIn" alt="" coords="537,109,714,137"/>
+<area shape="rect" id="node5" href="$da/d34/classG4VSolid.html#a6b0064936626582fba8aabe34e531648" title="G4VSolid::DistanceToOut" alt="" coords="530,161,721,189"/>
+<area shape="rect" id="node6" href="$dd/dc9/classG4ITNavigator1.html#a771b38943a6a07491bb02e421fe9d417" title="G4ITNavigator1::EnteredDaughter\lVolume" alt="" coords="499,213,752,257"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1137,640,1244,668"/>
+<area shape="rect" id="node8" href="$da/d34/classG4VSolid.html#af419b3fdb051e4d07ebdb0aa63fd0941" title="G4VSolid::GetEntityType" alt="" coords="532,927,719,955"/>
+<area shape="rect" id="node9" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="1109,273,1273,317"/>
+<area shape="rect" id="node10" href="$dd/dc9/classG4ITNavigator1.html#a9be1f754b912e559434dc6b72002bf19" title="G4ITNavigator1::GetMother\lToDaughterTransform" alt="" coords="521,632,729,676"/>
+<area shape="rect" id="node14" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="1089,793,1293,821"/>
+<area shape="rect" id="node16" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1149,947,1232,975"/>
+<area shape="rect" id="node26" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="547,979,703,1007"/>
+<area shape="rect" id="node27" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="543,1031,707,1075"/>
+<area shape="rect" id="node28" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="520,1099,731,1127"/>
+<area shape="rect" id="node29" href="$d4/d3b/classG4NavigationHistory.html#af7880d2c61e4fcb69267cddca74573d0" title="G4NavigationHistory\l::GetTopVolume" alt="" coords="545,1151,706,1195"/>
+<area shape="rect" id="node30" href="$da/d34/classG4VSolid.html#a65ec466e3542e3a700b4dc70937a2c47" title="G4VSolid::Inside" alt="" coords="559,1219,691,1247"/>
+<area shape="rect" id="node31" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="525,1271,725,1299"/>
+<area shape="rect" id="node32" href="$da/d34/classG4VSolid.html#a9e21dcc86b19483f1a9b0ac721524b2d" title="G4VSolid::SurfaceNormal" alt="" coords="529,5,721,33"/>
+<area shape="rect" id="node34" href="$dd/dc9/classG4ITNavigator1.html#a43a42d9febf5cf3abfca55a7b5ebb495" title="G4ITNavigator1::VolumeType" alt="" coords="517,57,734,85"/>
+<area shape="rect" id="node11" href="$d1/d28/classG4VPhysicalVolume.html#a9024175e02f3f7ee19dc0f31df6cf6ec" title="G4VPhysicalVolume::\lGetRegularStructureId" alt="" coords="831,504,1003,548"/>
+<area shape="rect" id="node12" href="$d1/d28/classG4VPhysicalVolume.html#a12ab240392398ebfabbb37592f5d870e" title="G4VPhysicalVolume::\lGetParameterisation" alt="" coords="835,572,999,616"/>
+<area shape="rect" id="node13" href="$de/dcc/classG4VPVParameterisation.html#a21360f5a2b1b1787ce7a24cebbc58439" title="G4VPVParameterisation\l::ComputeSolid" alt="" coords="826,384,1007,428"/>
+<area shape="rect" id="node15" href="$da/d34/classG4VSolid.html#a6a0255d82cf1ba8cc5a3aaa0f7c6e4ac" title="G4VSolid::ComputeDimensions" alt="" coords="800,896,1033,924"/>
+<area shape="rect" id="node21" href="$de/dcc/classG4VPVParameterisation.html#a6b1dfa7290aa34f9e062ccd22d279766" title="G4VPVParameterisation\l::ComputeTransformation" alt="" coords="820,692,1013,736"/>
+<area shape="rect" id="node22" href="$da/dc4/classG4LogicalVolume.html#ad87a7d7ce302f7242fc95b594896dd93" title="G4LogicalVolume::SetSolid" alt="" coords="815,452,1018,480"/>
+<area shape="rect" id="node24" href="$d1/d28/classG4VPhysicalVolume.html#a4b8b8520fc66e0e3a7cc7d4dbc1cc37c" title="G4VPhysicalVolume::\lGetRotation" alt="" coords="835,760,999,804"/>
+<area shape="rect" id="node25" href="$d1/d28/classG4VPhysicalVolume.html#aa3451c7999f343b2510f35b3c1d8d289" title="G4VPhysicalVolume::\lGetTranslation" alt="" coords="835,828,999,872"/>
+<area shape="rect" id="node17" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1348,871,1564,915"/>
+<area shape="rect" id="node18" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1350,939,1562,983"/>
+<area shape="rect" id="node19" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1351,1007,1561,1051"/>
+<area shape="rect" id="node20" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1612,1007,1780,1051"/>
+<area shape="rect" id="node23" href="$da/dc4/classG4LogicalVolume.html#a8a16f349a769bfbb2500f70bb400dce3" title="G4LogicalVolume::ResetMass" alt="" coords="1081,452,1300,480"/>
+</map>

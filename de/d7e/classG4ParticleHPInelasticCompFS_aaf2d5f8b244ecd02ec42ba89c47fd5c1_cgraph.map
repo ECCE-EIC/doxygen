@@ -1,0 +1,31 @@
+<map id="G4ParticleHPInelasticCompFS::two_body_reaction" name="G4ParticleHPInelasticCompFS::two_body_reaction">
+<area shape="rect" id="node2" href="$d5/d38/classG4ParticleDefinition.html#a48ebd992c974d96c776e3d6e41ca8ff5" title="G4ParticleDefinition\l::GetBaryonNumber" alt="" coords="271,29,429,73"/>
+<area shape="rect" id="node3" href="$dd/d77/classG4ReactionProduct.html#a3476b2f98185c2d8ba183ea832fa8c58" title="G4ReactionProduct::\lGetDefinition" alt="" coords="271,97,429,141"/>
+<area shape="rect" id="node4" href="$da/d2b/classG4IonTable.html#a4f0f1a9463c5af2bc314904b485fad97" title="G4IonTable::GetIonTable" alt="" coords="257,165,443,193"/>
+<area shape="rect" id="node13" href="$dd/d77/classG4ReactionProduct.html#a9b840bf731b3e562dc2af5cf8e82fd17" title="G4ReactionProduct::\lGetMass" alt="" coords="271,285,429,329"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="273,353,427,397"/>
+<area shape="rect" id="node15" href="$dd/d77/classG4ReactionProduct.html#a55475aaecd57cee6ea09f14062c701cd" title="G4ReactionProduct::\lGetTotalMomentum" alt="" coords="271,421,429,465"/>
+<area shape="rect" id="node18" href="$dd/d77/classG4ReactionProduct.html#aa4019f4b1a0e819feb3b81b4544630d4" title="G4ReactionProduct::\lLorentz" alt="" coords="271,489,429,533"/>
+<area shape="rect" id="node23" href="$dd/d77/classG4ReactionProduct.html#a0d6441c08b5b1c1c566e7fc1c764fd56" title="G4ReactionProduct::\lSetTotalEnergy" alt="" coords="519,601,677,645"/>
+<area shape="rect" id="node24" href="$dd/d77/classG4ReactionProduct.html#a05fa70c5c758741a48096fb58442e508" title="G4ReactionProduct::\lSetMomentum" alt="" coords="519,669,677,713"/>
+<area shape="rect" id="node28" href="$dd/d77/classG4ReactionProduct.html#ab7067e9f9aeccb47db6b5e80ddd1f220" title="G4ReactionProduct::\lSetDefinition" alt="" coords="271,217,429,261"/>
+<area shape="rect" id="node30" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="322,660,378,688"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a56e8ae902c7fd223310a13dadd6c577d" title="G4ParticleTable::GetIonTable" alt="" coords="491,153,705,181"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="494,85,702,129"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="753,111,955,155"/>
+<area shape="rect" id="node8" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1029,177,1205,221"/>
+<area shape="rect" id="node9" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1029,5,1205,49"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1025,73,1208,101"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1039,252,1194,296"/>
+<area shape="rect" id="node12" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1003,125,1231,153"/>
+<area shape="rect" id="node16" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="543,325,653,353"/>
+<area shape="rect" id="node17" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="766,325,942,353"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="513,445,683,473"/>
+<area shape="rect" id="node20" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="513,497,683,525"/>
+<area shape="rect" id="node21" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="514,549,682,577"/>
+<area shape="rect" id="node22" href="$dd/d77/classG4ReactionProduct.html#afe4ab889b40012df0b56eebf28615100" title="G4ReactionProduct::\lSetMass" alt="" coords="519,377,677,421"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="759,625,949,653"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="759,677,949,705"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="759,729,949,757"/>
+<area shape="rect" id="node29" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="521,205,675,249"/>
+</map>

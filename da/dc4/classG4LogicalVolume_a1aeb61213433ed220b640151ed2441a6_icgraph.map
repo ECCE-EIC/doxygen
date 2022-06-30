@@ -1,0 +1,51 @@
+<map id="G4LogicalVolume::GetFieldManager" name="G4LogicalVolume::GetFieldManager">
+<area shape="rect" id="node2" href="$da/dc4/classG4LogicalVolume.html#a265618bbe56a14d9f9fa82b26c8deb75" title="G4LogicalVolume::AddDaughter" alt="" coords="573,267,811,295"/>
+<area shape="rect" id="node6" href="$df/d79/pymodG4geometry_8cc.html#a8f50c55525220dee9fdc54c521f1539e" title="export_G4LogicalVolume" alt="" coords="902,433,1090,461"/>
+<area shape="rect" id="node13" href="$d1/db6/classG4ReflectionFactory.html#ad45be08872601181fd22ef4c046912c4" title="G4ReflectionFactory\l::CreateReflectedLV" alt="" coords="306,1115,463,1159"/>
+<area shape="rect" id="node22" href="$df/d78/classG4VFieldModel.html#ac1de9cb75da970cb698ce9beb85b3199" title="G4VFieldModel::DescribeYourselfTo" alt="" coords="256,1183,513,1211"/>
+<area shape="rect" id="node23" href="$dd/d94/classG4PropagatorInField.html#a1302ae994e7656b62754b1fabff9183f" title="G4PropagatorInField\l::FindAndSetFieldManager" alt="" coords="285,1603,484,1647"/>
+<area shape="rect" id="node37" href="$da/dc4/classG4LogicalVolume.html#ab944634e2e1eedfddd6855e74169b76d" title="G4LogicalVolume::Initialise\lWorker" alt="" coords="590,485,794,529"/>
+<area shape="rect" id="node41" href="$da/dc4/classG4LogicalVolume.html#a25a3f9e25e873ebc8bee7128d2eeff52" title="G4LogicalVolume::SetField\lManager" alt="" coords="285,712,485,756"/>
+<area shape="rect" id="node49" href="$dd/d14/classG4WorkerThread.html#a6d3c23031827d571c330dd1b3ddcadfc" title="G4WorkerThread::UpdateGeometry\lAndPhysicsVectorFromMaster" alt="" coords="561,1029,823,1073"/>
+<area shape="rect" id="node3" href="$d6/d94/classG4ReplicatedSlice.html#a442147b654d5613caa1b31bdc26816af" title="G4ReplicatedSlice::\lCheckAndSetParameters" alt="" coords="902,365,1090,409"/>
+<area shape="rect" id="node5" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="915,5,1077,49"/>
+<area shape="rect" id="node8" href="$df/d63/classG4PVDivision.html#ae734670679b95fadf21074330905df41" title="G4PVDivision::G4PVDivision" alt="" coords="891,73,1101,101"/>
+<area shape="rect" id="node9" href="$de/ded/classG4PVParameterised.html#a35fc71379f3cc461a7124bf2a3055866" title="G4PVParameterised::\lG4PVParameterised" alt="" coords="914,125,1078,169"/>
+<area shape="rect" id="node10" href="$dd/d4f/classG4PVPlacement.html#a92c2be2ba466b89af8b79164f2c47696" title="G4PVPlacement::G4PVPlacement" alt="" coords="873,193,1119,221"/>
+<area shape="rect" id="node11" href="$de/d93/classG4PVReplica.html#a369ab51b4338fb331dcc6c13a5a83df9" title="G4PVReplica::G4PVReplica" alt="" coords="896,245,1096,273"/>
+<area shape="rect" id="node12" href="$dd/d2d/classG4VExternalPhysicalVolume.html#ab6486c683f5e070fc7b661d25bc8c010" title="G4VExternalPhysicalVolume\l::G4VExternalPhysicalVolume" alt="" coords="886,297,1106,341"/>
+<area shape="rect" id="node4" href="$d6/d94/classG4ReplicatedSlice.html#aaebb12c090f4c7776ee71642d60d9d9d" title="G4ReplicatedSlice::\lG4ReplicatedSlice" alt="" coords="1193,365,1345,409"/>
+<area shape="rect" id="node7" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="1172,433,1367,461"/>
+<area shape="rect" id="node14" href="$d1/db6/classG4ReflectionFactory.html#a0c1395c891eb72b362e4f8316d6e45b2" title="G4ReflectionFactory\l::ReflectLV" alt="" coords="1191,1107,1348,1151"/>
+<area shape="rect" id="node18" href="$d1/db6/classG4ReflectionFactory.html#a3f2d4406d56226ce5f9617c0ba71e3c7" title="G4ReflectionFactory\l::ReflectPVPlacement" alt="" coords="609,1200,775,1244"/>
+<area shape="rect" id="node20" href="$d1/db6/classG4ReflectionFactory.html#a8c84426b00ba7769ef07ae869b1ab351" title="G4ReflectionFactory\l::ReflectPVReplica" alt="" coords="1191,1183,1348,1227"/>
+<area shape="rect" id="node21" href="$d1/db6/classG4ReflectionFactory.html#ab563dd44a17c7c36a7d878e4e685bedf" title="G4ReflectionFactory\l::ReflectPVDivision" alt="" coords="1191,1251,1348,1295"/>
+<area shape="rect" id="node15" href="$d1/db6/classG4ReflectionFactory.html#a5207685994bad3fd96e31d403026d0a4" title="G4ReflectionFactory\l::Place" alt="" coords="1417,1039,1575,1083"/>
+<area shape="rect" id="node16" href="$d1/db6/classG4ReflectionFactory.html#af0e35a84b8ec5e960abfaa37431a0bca" title="G4ReflectionFactory\l::Replicate" alt="" coords="1417,1107,1575,1151"/>
+<area shape="rect" id="node17" href="$d1/db6/classG4ReflectionFactory.html#a279ee3fba0b2c3d21818b1a52f32a22e" title="G4ReflectionFactory\l::Divide" alt="" coords="1417,1175,1575,1219"/>
+<area shape="rect" id="node19" href="$d1/db6/classG4ReflectionFactory.html#ab0c8b84cfa01a0a01dd8d11081e4930f" title="G4ReflectionFactory\l::ReflectDaughters" alt="" coords="917,1200,1075,1244"/>
+<area shape="rect" id="node24" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a03f0a2b7a371616bee75f13243d9a4a3" title="PHG4OuterHcalSteppingAction\l::FieldChecker" alt="" coords="577,1320,807,1364"/>
+<area shape="rect" id="node26" href="$d2/d49/classG4MonopoleTransportation.html#a2c734afb9b2315b297f28a4ce621232e" title="G4MonopoleTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="871,1388,1121,1448"/>
+<area shape="rect" id="node27" href="$dd/dfc/classG4PathFinder.html#a6b71f99bb9503ace815095ed81135f0b" title="G4PathFinder::ComputeStep" alt="" coords="586,1611,798,1639"/>
+<area shape="rect" id="node28" href="$de/d27/classG4CoupledTransportation.html#ae740ca312a3927518be8b5775f3419c0" title="G4CoupledTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="871,1568,1121,1628"/>
+<area shape="rect" id="node29" href="$dd/d94/classG4PropagatorInField.html#ae7bd1e6f2681a85584e78a6bb78d8330" title="G4PropagatorInField\l::ComputeStep" alt="" coords="613,1440,771,1484"/>
+<area shape="rect" id="node30" href="$d6/ddc/classG4Transportation.html#a1d2c2ecc617f1b573e01f00267a6248e" title="G4Transportation::AlongStep\lGetPhysicalInteractionLength" alt="" coords="887,1473,1105,1517"/>
+<area shape="rect" id="node31" href="$df/d6e/classG4ITTransportation.html#aa113de2c3ac42aa7131d7097a3ba4738" title="G4ITTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="567,1663,817,1723"/>
+<area shape="rect" id="node32" href="$d3/d05/classG4SynchrotronRadiation.html#a4f87db3318798b20031d5d92d1056bf6" title="G4SynchrotronRadiation\l::GetMeanFreePath" alt="" coords="599,1747,785,1791"/>
+<area shape="rect" id="node33" href="$d3/d05/classG4SynchrotronRadiation.html#aa0a05cdf9dd16d17d2aa3a1ba6ed9c8e" title="G4SynchrotronRadiation\l::PostStepDoIt" alt="" coords="599,1815,785,1859"/>
+<area shape="rect" id="node34" href="$d9/d5c/classG4SynchrotronRadiationInMat.html#a2b04f01db6e570c1830f2d34cd781b63" title="G4SynchrotronRadiationIn\lMat::GetMeanFreePath" alt="" coords="593,1883,791,1927"/>
+<area shape="rect" id="node35" href="$d9/d5c/classG4SynchrotronRadiationInMat.html#a1e6312ec1399033b62de6afcf22b73c0" title="G4SynchrotronRadiationIn\lMat::PostStepDoIt" alt="" coords="593,1951,791,1995"/>
+<area shape="rect" id="node36" href="$d9/d5c/classG4SynchrotronRadiationInMat.html#aae5227d13061e00f1265f474999aee0b" title="G4SynchrotronRadiationIn\lMat::GetPhotonEnergy" alt="" coords="593,2019,791,2063"/>
+<area shape="rect" id="node25" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="881,1320,1111,1364"/>
+<area shape="rect" id="node38" href="$d6/d0e/classG4GeometryWorkspace.html#a557d8f37758884ff36131edddc6a3923" title="G4GeometryWorkspace\l::InitialisePhysicalVolumes" alt="" coords="1169,537,1369,581"/>
+<area shape="rect" id="node39" href="$d6/d0e/classG4GeometryWorkspace.html#aa841a19cd8257e0a23516d1b7aa3399a" title="G4GeometryWorkspace\l::CloneReplicaSolid" alt="" coords="905,537,1087,581"/>
+<area shape="rect" id="node40" href="$d6/d0e/classG4GeometryWorkspace.html#abdedf9314570446c175e282d36212182" title="G4GeometryWorkspace\l::CloneParameterisedSolids" alt="" coords="893,605,1099,649"/>
+<area shape="rect" id="node42" href="$df/d95/classBeamLineMagnetDetector.html#a779743977fe9f5749678a32f6d21068d" title="Optional PostConstruction call after all geometry is constructed." alt="" coords="593,877,791,921"/>
+<area shape="rect" id="node43" href="$df/d74/classPHG4OuterHcalDetector.html#a7791a8bc9629b00efcd33f59f134e27a" title="PHG4OuterHcalDetector\l::ConstructOuterHcal" alt="" coords="903,817,1089,861"/>
+<area shape="rect" id="node44" href="$df/d74/classPHG4OuterHcalDetector.html#a9f55e777e35248cd06ac0f94bc59b03a" title="PHG4OuterHcalDetector\l::ConstructHcalScintillator\lAssembly" alt="" coords="593,945,791,1005"/>
+<area shape="rect" id="node45" href="$d7/d68/classB5DetectorConstruction.html#a6b3e7b0d486ab002b43bc8c251564f56" title="B5DetectorConstruction\l::ConstructSDandField" alt="" coords="601,553,783,597"/>
+<area shape="rect" id="node46" href="$df/d6b/classF03DetectorConstruction.html#a90479f18660afbc6b0ecf9e5f466dca4" title="F03DetectorConstruction\l::ConstructSDandField" alt="" coords="597,621,787,665"/>
+<area shape="rect" id="node47" href="$da/dc4/classG4LogicalVolume.html#af9a8872c817a07ada5d08015d5a3e405" title="G4LogicalVolume::G4Logical\lVolume" alt="" coords="585,741,799,785"/>
+<area shape="rect" id="node48" href="$d6/df8/classG4VUserDetectorConstruction.html#ad05aba10b90f5caa961693a2a10c4839" title="G4VUserDetectorConstruction\l::CloneF" alt="" coords="580,809,804,853"/>
+<area shape="rect" id="node50" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="909,1029,1083,1073"/>
+</map>

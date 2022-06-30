@@ -1,0 +1,32 @@
+<map id="G4HadronicProcessStore::GetCrossSectionPerVolume" name="G4HadronicProcessStore::GetCrossSectionPerVolume">
+<area shape="rect" id="node2" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="907,465,1062,509"/>
+<area shape="rect" id="node3" href="$da/d41/classG4HadronicProcessStore.html#a2a74f53b54664e32fd82d2d787fd02ee" title="G4HadronicProcessStore\l::GetCaptureCrossSectionPerVolume" alt="" coords="267,439,533,483"/>
+<area shape="rect" id="node8" href="$d2/d84/classG4VProcess.html#ad18bffaccb5c39d2e318dfd436ee9b66" title="G4VProcess::GetProcessSubType" alt="" coords="1127,848,1368,876"/>
+<area shape="rect" id="node24" href="$da/d41/classG4HadronicProcessStore.html#a3235353a5ee7c0a6b2a4bfb680d492ce" title="G4HadronicProcessStore\l::GetChargeExchangeCrossSection\lPerVolume" alt="" coords="272,507,528,567"/>
+<area shape="rect" id="node26" href="$da/d41/classG4HadronicProcessStore.html#a9cc7a69f2d0702f1194b5ab7bb8d2d03" title="G4HadronicProcessStore\l::GetElasticCrossSectionPerVolume" alt="" coords="271,219,529,263"/>
+<area shape="rect" id="node28" href="$da/d41/classG4HadronicProcessStore.html#af9fd895e29b98eaeee85931e8bc3798b" title="G4HadronicProcessStore\l::GetFissionCrossSectionPerVolume" alt="" coords="271,371,529,415"/>
+<area shape="rect" id="node30" href="$da/d41/classG4HadronicProcessStore.html#a66f90869ff21111bc765d39b95512614" title="G4HadronicProcessStore\l::GetInelasticCrossSectionPer\lVolume" alt="" coords="290,287,510,347"/>
+<area shape="rect" id="node4" href="$da/d41/classG4HadronicProcessStore.html#a0860bf278bfc2cbaf318bc5f46b5e978" title="G4HadronicProcessStore\l::GetCaptureCrossSectionPerAtom" alt="" coords="586,696,838,740"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="598,303,826,331"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="581,355,843,383"/>
+<area shape="rect" id="node23" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="597,407,827,451"/>
+<area shape="rect" id="node5" href="$da/d41/classG4HadronicProcessStore.html#a2ae00aae58246e08adde75d3121c83c9" title="G4HadronicProcessStore\l::FindProcess" alt="" coords="891,696,1078,740"/>
+<area shape="rect" id="node15" href="$de/dc6/classG4HadronicProcess.html#a3467a1b75a32dc42b2b7dba6cc517b53" title="G4HadronicProcess::\lGetElementCrossSection" alt="" coords="891,533,1079,577"/>
+<area shape="rect" id="node20" href="$d7/d5c/classG4DynamicParticle.html#af5832863fb446e5520dd744f9b8c84fd" title="G4DynamicParticle::\lSetKineticEnergy" alt="" coords="906,628,1063,672"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#a48ebd992c974d96c776e3d6e41ca8ff5" title="G4ParticleDefinition\l::GetBaryonNumber" alt="" coords="1169,780,1326,824"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#aa0faf146fb655e885ca2ac249bafda83" title="G4ParticleDefinition\l::GetParticleType" alt="" coords="1170,644,1325,688"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#a46f4ef4286dce7d8accf722f0dfb7bd2" title="G4DynamicParticle::\lSetDefinition" alt="" coords="1169,712,1326,756"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1439,576,1594,620"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="1439,644,1594,688"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#aae0eeabb077d52fa68ad6ad955714724" title="G4ParticleDefinition\l::GetPDGMagneticMoment" alt="" coords="1416,712,1617,756"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1439,780,1594,824"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="1439,848,1594,892"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1194,420,1301,448"/>
+<area shape="rect" id="node17" href="$de/da5/classG4CrossSectionDataStore.html#aaa97d8f6b436fb0488f643837f083390" title="G4CrossSectionDataStore\l::GetCrossSection" alt="" coords="1150,472,1345,516"/>
+<area shape="rect" id="node18" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="1135,540,1359,568"/>
+<area shape="rect" id="node19" href="$de/d80/classG4Element.html#ac5960b7377f4d3b3aefd1e5c9aad601c" title="G4Element::GetZasInt" alt="" coords="1161,592,1333,620"/>
+<area shape="rect" id="node25" href="$da/d41/classG4HadronicProcessStore.html#a8e4c15f60fc8b170f9185dd425dbb30e" title="G4HadronicProcessStore\l::GetChargeExchangeCrossSection\lPerAtom" alt="" coords="584,764,840,824"/>
+<area shape="rect" id="node27" href="$da/d41/classG4HadronicProcessStore.html#aabdb12380f0dfd4cdba0acce6d7913f8" title="G4HadronicProcessStore\l::GetElasticCrossSectionPerAtom" alt="" coords="591,167,833,211"/>
+<area shape="rect" id="node29" href="$da/d41/classG4HadronicProcessStore.html#a876248017bb9152268b981e4a7552dc9" title="G4HadronicProcessStore\l::GetFissionCrossSectionPerAtom" alt="" coords="590,628,834,672"/>
+<area shape="rect" id="node31" href="$da/d41/classG4HadronicProcessStore.html#a4e36cb82a2d4699549fbbe0f9e962a4b" title="G4HadronicProcessStore\l::GetInelasticCrossSectionPerAtom" alt="" coords="585,235,839,279"/>
+</map>

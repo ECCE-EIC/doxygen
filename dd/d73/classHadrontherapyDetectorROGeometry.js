@@ -1,0 +1,28 @@
+var classHadrontherapyDetectorROGeometry =
+[
+    [ "HadrontherapyDetectorROGeometry", "dd/d73/classHadrontherapyDetectorROGeometry.html#adc454809333c5f5219180e9cf50d7506", null ],
+    [ "~HadrontherapyDetectorROGeometry", "dd/d73/classHadrontherapyDetectorROGeometry.html#ad1d4e2641935f923a7d3d272260361b9", null ],
+    [ "Construct", "dd/d73/classHadrontherapyDetectorROGeometry.html#ab6bb56aec467cb3e7656d18e0d43c004", null ],
+    [ "ConstructSD", "dd/d73/classHadrontherapyDetectorROGeometry.html#a1528e6e0af899674e1b2e3ca1ff5eca1", null ],
+    [ "Initialize", "dd/d73/classHadrontherapyDetectorROGeometry.html#ad298c315fabf57980cb17d470d881230", null ],
+    [ "UpdateROGeometry", "dd/d73/classHadrontherapyDetectorROGeometry.html#a0c93af06ac500250ef9e70796363b8f4", null ],
+    [ "detectorSizeX", "dd/d73/classHadrontherapyDetectorROGeometry.html#ae20b209c34b8151c536d20ade5160e51", null ],
+    [ "detectorSizeY", "dd/d73/classHadrontherapyDetectorROGeometry.html#aad45fddd5a0b3ed6b9c426281ef4d5f6", null ],
+    [ "detectorSizeZ", "dd/d73/classHadrontherapyDetectorROGeometry.html#a900cfd3e75b62e9160529483e7607176", null ],
+    [ "detectorToWorldPosition", "dd/d73/classHadrontherapyDetectorROGeometry.html#a7ac17f9a3332fb530badc5fe49987951", null ],
+    [ "isBuilt", "dd/d73/classHadrontherapyDetectorROGeometry.html#add7e326e6fa45d794d84d55982578182", null ],
+    [ "isInitialized", "dd/d73/classHadrontherapyDetectorROGeometry.html#afd4d60b223e5bdff6a839af722080d42", null ],
+    [ "numberOfVoxelsAlongX", "dd/d73/classHadrontherapyDetectorROGeometry.html#aec1ec223b6a26deac783363d6cf37f78", null ],
+    [ "numberOfVoxelsAlongY", "dd/d73/classHadrontherapyDetectorROGeometry.html#a9d3deb1e8156539ae29f3254d1bdccd9", null ],
+    [ "numberOfVoxelsAlongZ", "dd/d73/classHadrontherapyDetectorROGeometry.html#ab67d854baa58e1413fa5b9931eb1e4f6", null ],
+    [ "RODetector", "dd/d73/classHadrontherapyDetectorROGeometry.html#a37b7161907f1d652521bc9664921ecd7", null ],
+    [ "RODetectorLog", "dd/d73/classHadrontherapyDetectorROGeometry.html#a44920ab321d6844362623e49fe169398", null ],
+    [ "RODetectorXDivision", "dd/d73/classHadrontherapyDetectorROGeometry.html#ab902a04e0bdd177e83fe2d37a3cc68c7", null ],
+    [ "RODetectorXDivisionLog", "dd/d73/classHadrontherapyDetectorROGeometry.html#a8b71371dd1a10af71d24ecfaca5525b8", null ],
+    [ "RODetectorYDivision", "dd/d73/classHadrontherapyDetectorROGeometry.html#aa4145431390e13c5ee098831341f5fd6", null ],
+    [ "RODetectorYDivisionLog", "dd/d73/classHadrontherapyDetectorROGeometry.html#aa34f76834254adcd9c8e0ed9cfe7a49a", null ],
+    [ "RODetectorZDivision", "dd/d73/classHadrontherapyDetectorROGeometry.html#a590846f5ab14cbbcfa7759c2ead42ef2", null ],
+    [ "RODetectorZDivisionLog", "dd/d73/classHadrontherapyDetectorROGeometry.html#af5ecd32053fffc0648a8f8742138f110", null ],
+    [ "sensitiveLogicalVolume", "dd/d73/classHadrontherapyDetectorROGeometry.html#a988c403e6d04f909ffdaa409ea97cff8", null ],
+    [ "worldLogical", "dd/d73/classHadrontherapyDetectorROGeometry.html#aced22fbe55eb7b497058b173fe5e7c42", null ]
+];

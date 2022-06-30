@@ -1,0 +1,42 @@
+<map id="G4MPIscorerMerger" name="G4MPIscorerMerger">
+<area shape="rect" id="node2" href="$df/d55/classG4ScoringManager.html" title="G4ScoringManager" alt="" coords="1911,1537,2063,1565"/>
+<area shape="rect" id="node3" href="$d1/d8b/classG4ScoreQuantityMessenger.html" title="G4ScoreQuantityMessenger" alt="" coords="1613,1783,1823,1811"/>
+<area shape="rect" id="node43" href="$d9/d02/classG4ScoringMessenger.html" title="G4ScoringMessenger" alt="" coords="823,1783,989,1811"/>
+<area shape="rect" id="node4" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="1581,1255,1711,1283"/>
+<area shape="rect" id="node6" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="979,1363,1100,1391"/>
+<area shape="rect" id="node5" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="1354,1537,1469,1565"/>
+<area shape="rect" id="node14" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="1167,1537,1330,1565"/>
+<area shape="rect" id="node15" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="936,1537,1143,1565"/>
+<area shape="rect" id="node44" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="235,1537,417,1565"/>
+<area shape="rect" id="node45" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html" title="G4UIcmdWithADoubleAndUnit" alt="" coords="441,1537,667,1565"/>
+<area shape="rect" id="node46" href="$d0/db2/classG4UIcmdWith3VectorAndUnit.html" title="G4UIcmdWith3VectorAndUnit" alt="" coords="692,1537,912,1565"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="2173,83,2253,111"/>
+<area shape="rect" id="node13" href="$d3/df5/structG4UItokenNum_1_1yystype.html" title="G4UItokenNum::yystype" alt="" coords="795,1155,980,1183"/>
+<area shape="rect" id="node20" href="$d0/d53/classG4VScoringMesh.html" title="G4VScoringMesh" alt="" coords="2338,1255,2474,1283"/>
+<area shape="rect" id="node22" href="$de/dbf/classG4ParallelWorldProcess.html" title="G4ParallelWorldProcess" alt="" coords="2676,1155,2856,1183"/>
+<area shape="rect" id="node23" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="2430,817,2531,845"/>
+<area shape="rect" id="node29" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="3613,609,3767,637"/>
+<area shape="rect" id="node31" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="3621,443,3759,471"/>
+<area shape="rect" id="node32" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="2397,333,2567,361"/>
+<area shape="rect" id="node33" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="2219,217,2321,245"/>
+<area shape="rect" id="node41" href="$dc/d0d/classG4VPrimitiveScorer.html" title="G4VPrimitiveScorer" alt="" coords="1883,609,2036,637"/>
+<area shape="rect" id="node48" href="$df/dea/classG4VScoreColorMap.html" title="G4VScoreColorMap" alt="" coords="1706,217,1858,245"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="2168,5,2257,33"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="1836,1363,1973,1391"/>
+<area shape="rect" id="node19" href="$d2/d96/classG4VScoreWriter.html" title="G4VScoreWriter" alt="" coords="2143,1363,2272,1391"/>
+<area shape="rect" id="node21" href="$dd/d65/classCLHEP_1_1HepRotation.html" title="CLHEP::HepRotation" alt="" coords="2119,1155,2277,1183"/>
+<area shape="rect" id="node36" href="$df/d47/classG4StepPoint.html" title="G4StepPoint" alt="" coords="2748,935,2853,963"/>
+<area shape="rect" id="node24" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="2397,443,2548,471"/>
+<area shape="rect" id="node25" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="2611,609,2753,637"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="2961,443,3115,471"/>
+<area shape="rect" id="node28" href="$d9/d53/classG4Navigator.html" title="G4Navigator" alt="" coords="3425,817,3531,845"/>
+<area shape="rect" id="node34" href="$dd/dfc/classG4PathFinder.html" title="G4PathFinder" alt="" coords="3331,1045,3443,1073"/>
+<area shape="rect" id="node35" href="$d5/d40/classG4FieldTrack.html" title="G4FieldTrack" alt="" coords="2957,935,3065,963"/>
+<area shape="rect" id="node27" href="$d1/dd0/classG4TransportationManager.html" title="G4TransportationManager" alt="" coords="3461,935,3660,963"/>
+<area shape="rect" id="node30" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="3799,333,3967,361"/>
+<area shape="rect" id="node42" href="$da/d7e/classG4MultiFunctionalDetector.html" title="G4MultiFunctionalDetector" alt="" coords="1986,443,2189,471"/>
+<area shape="rect" id="node38" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="2646,1045,2718,1073"/>
+<area shape="rect" id="node37" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="2889,809,3102,853"/>
+<area shape="rect" id="node40" href="$d7/d42/classG4THitsMap.html" title="G4THitsMap\&lt; _Tp \&gt;" alt="" coords="4194,83,4351,111"/>
+<area shape="rect" id="node49" href="$d8/d25/classG4VVisManager.html" title="G4VVisManager" alt="" coords="1625,83,1755,111"/>
+</map>

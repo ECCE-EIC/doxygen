@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/field/field06/src/F06PhysicsList.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/field/field06/src/F06PhysicsList.cc">
+<area shape="rect" id="node2" href="$da/dc7/F06PhysicsList_8hh.html" title="Definition of the F06PhysicsList class." alt="" coords="406,129,546,157"/>
+<area shape="rect" id="node37" href="$d0/dde/G4DecayPhysics_8hh.html" title="G4DecayPhysics.hh" alt="" coords="1248,205,1402,233"/>
+<area shape="rect" id="node42" href="$d0/d79/G4StepLimiterPhysics_8hh.html" title="G4StepLimiterPhysics.hh" alt="" coords="957,205,1146,233"/>
+<area shape="rect" id="node43" href="$dc/dc7/G4Neutron_8hh.html" title="G4Neutron.hh" alt="" coords="1712,357,1828,385"/>
+<area shape="rect" id="node45" href="$d8/d0d/G4Proton_8hh.html" title="G4Proton.hh" alt="" coords="1852,357,1958,385"/>
+<area shape="rect" id="node46" href="$d6/d69/G4Electron_8hh.html" title="G4Electron.hh" alt="" coords="2033,433,2150,461"/>
+<area shape="rect" id="node47" href="$d9/d98/G4AntiNeutrinoE_8hh.html" title="G4AntiNeutrinoE.hh" alt="" coords="2174,433,2329,461"/>
+<area shape="rect" id="node48" href="$dd/d0b/G4MuonPlus_8hh.html" title="G4MuonPlus.hh" alt="" coords="2372,433,2499,461"/>
+<area shape="rect" id="node49" href="$d3/dae/G4MuonMinus_8hh.html" title="G4MuonMinus.hh" alt="" coords="1446,433,1585,461"/>
+<area shape="rect" id="node50" href="$db/d8c/G4GenericIon_8hh.html" title="G4GenericIon.hh" alt="" coords="1554,357,1688,385"/>
+<area shape="rect" id="node3" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1198,661,1289,689"/>
+<area shape="rect" id="node25" href="$de/d23/G4VModularPhysicsList_8hh.html" title="G4VModularPhysicsList.hh" alt="" coords="230,205,428,233"/>
+<area shape="rect" id="node4" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1620,889,1702,917"/>
+<area shape="rect" id="node5" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="819,965,919,993"/>
+<area shape="rect" id="node11" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1089,889,1190,917"/>
+<area shape="rect" id="node16" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1711,737,1822,765"/>
+<area shape="rect" id="node19" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1014,813,1142,841"/>
+<area shape="rect" id="node21" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1176,737,1354,765"/>
+<area shape="rect" id="node8" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="734,1041,793,1069"/>
+<area shape="rect" id="node20" href="$d9/d05/G4VExceptionHandler_8hh.html" title="G4VExceptionHandler.hh" alt="" coords="856,889,1045,917"/>
+<area shape="rect" id="node27" href="$dd/d68/rundefs_8hh.html" title="rundefs.hh" alt="" coords="66,509,160,537"/>
+<area shape="rect" id="node28" href="$d8/d79/G4VUserPhysicsList_8hh.html" title="G4VUserPhysicsList.hh" alt="" coords="212,357,387,385"/>
+<area shape="rect" id="node34" href="$db/d88/G4VUPLSplitter_8hh.html" title="G4VUPLSplitter.hh" alt="" coords="41,433,185,461"/>
+<area shape="rect" id="node35" href="$d5/dbe/G4VPhysicsConstructor_8hh.html" title="G4VPhysicsConstructor.hh" alt="" coords="568,281,767,309"/>
+<area shape="rect" id="node29" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="564,433,710,461"/>
+<area shape="rect" id="node30" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1534,509,1711,537"/>
+<area shape="rect" id="node31" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="1710,585,1953,613"/>
+<area shape="rect" id="node32" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="1332,585,1483,613"/>
+<area shape="rect" id="node36" href="$dd/d7b/G4PhysicsListHelper_8hh.html" title="G4PhysicsListHelper.hh" alt="" coords="734,357,913,385"/>
+<area shape="rect" id="node38" href="$d8/d1d/G4Decay_8hh.html" title="G4Decay.hh" alt="" coords="2294,509,2396,537"/>
+<area shape="rect" id="node39" href="$d4/da6/G4VRestDiscreteProcess_8hh.html" title="G4VRestDiscreteProcess.hh" alt="" coords="2492,585,2699,613"/>
+<area shape="rect" id="node40" href="$d0/de4/G4ParticleChangeForDecay_8hh.html" title="G4ParticleChangeForDecay.hh" alt="" coords="2724,585,2948,613"/>
+<area shape="rect" id="node41" href="$d2/d08/G4DecayProcessType_8hh.html" title="G4DecayProcessType.hh" alt="" coords="2231,585,2416,613"/>
+<area shape="rect" id="node44" href="$d6/d88/G4Ions_8hh.html" title="G4Ions.hh" alt="" coords="1736,433,1826,461"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G4VDNAModel::GetTableData" name="G4VDNAModel::GetTableData">
+<area shape="rect" id="node2" href="$da/dd5/classG4DNAPTBExcitationModel.html#a8a82b18ca4ac5ee613dc47f405d466e2" title="CrossSectionPerVolume Retrieve the cross section corresponding to the current material, particle and energy." alt="" coords="284,5,487,49"/>
+<area shape="rect" id="node3" href="$df/d41/classG4DNAPTBElasticModel.html#a241c892823c1cb9c03bc2e9118e46ec4" title="CrossSectionPerVolume This method is mandatory for any model class. It finds and return the cross sec..." alt="" coords="291,73,480,117"/>
+<area shape="rect" id="node4" href="$dc/d67/classG4DNAPTBIonisationModel.html#a42644ef22d0c90fef734755962da0e3d" title="CrossSectionPerVolume Mandatory for every model the CrossSectionPerVolume method is in charge of retu..." alt="" coords="285,141,486,185"/>
+<area shape="rect" id="node5" href="$db/dae/classG4VDNAModel.html#a1e56f522f5c2d0987d3f93c32f076d19" title="RandomSelectShell Method to randomely select a shell from the data table uploaded. The size of the table (number of columns) is used to determine the total number of possible shells." alt="" coords="272,209,499,253"/>
+<area shape="rect" id="node6" href="$da/dd5/classG4DNAPTBExcitationModel.html#aa865fb2f26cce62f6891453efa1b5a42" title="SampleSecondaries If the model is selected for the ModelInterface then the SampleSecondaries method w..." alt="" coords="547,175,749,219"/>
+<area shape="rect" id="node7" href="$dc/d67/classG4DNAPTBIonisationModel.html#a8a595f102d28b8463fac0f38a1a44cd2" title="SampleSecondaries If the model is selected for the ModelInterface then SampleSecondaries will be call..." alt="" coords="547,243,749,287"/>
+</map>

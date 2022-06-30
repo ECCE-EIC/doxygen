@@ -1,0 +1,41 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB03/src/GB03DetectorMessenger.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB03/src/GB03DetectorMessenger.cc">
+<area shape="rect" id="node2" href="$da/d8f/GB03DetectorMessenger_8hh.html" title="Definition of the GB03DetectorMessenger class." alt="" coords="536,129,746,157"/>
+<area shape="rect" id="node15" href="$d1/d47/G4UIdirectory_8hh.html" title="G4UIdirectory.hh" alt="" coords="410,281,544,309"/>
+<area shape="rect" id="node22" href="$db/d3a/GB03DetectorConstruction_8hh.html" title="Definition of the GB03DetectorConstruction class." alt="" coords="830,433,1054,461"/>
+<area shape="rect" id="node24" href="$d9/dcf/G4UIcmdWithAString_8hh.html" title="G4UIcmdWithAString.hh" alt="" coords="150,205,335,233"/>
+<area shape="rect" id="node25" href="$d4/d28/G4UIcmdWithABool_8hh.html" title="G4UIcmdWithABool.hh" alt="" coords="286,129,460,157"/>
+<area shape="rect" id="node26" href="$db/d96/G4UIcmdWithAnInteger_8hh.html" title="G4UIcmdWithAnInteger.hh" alt="" coords="10,129,210,157"/>
+<area shape="rect" id="node27" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="2638,205,2754,233"/>
+<area shape="rect" id="node3" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1180,585,1270,613"/>
+<area shape="rect" id="node14" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="546,205,696,233"/>
+<area shape="rect" id="node4" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2163,813,2244,841"/>
+<area shape="rect" id="node5" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="3016,889,3116,917"/>
+<area shape="rect" id="node8" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1313,813,1414,841"/>
+<area shape="rect" id="node9" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1528,661,1639,689"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1350,737,1478,765"/>
+<area shape="rect" id="node11" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1275,661,1452,689"/>
+<area shape="rect" id="node16" href="$da/d5c/G4UIcommand_8hh.html" title="G4UIcommand.hh" alt="" coords="288,357,431,385"/>
+<area shape="rect" id="node17" href="$dd/d3f/G4UIparameter_8hh.html" title="G4UIparameter.hh" alt="" coords="458,433,603,461"/>
+<area shape="rect" id="node18" href="$d7/deb/G4UItokenNum_8hh.html" title="G4UItokenNum.hh" alt="" coords="407,509,552,537"/>
+<area shape="rect" id="node19" href="$d8/d65/G4ApplicationState_8hh.html" title="G4ApplicationState.hh" alt="" coords="260,433,433,461"/>
+<area shape="rect" id="node21" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="44,433,185,461"/>
+<area shape="rect" id="node23" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="932,509,1177,537"/>
+<area shape="rect" id="node28" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="3377,509,3620,537"/>
+<area shape="rect" id="node30" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="2900,357,3017,385"/>
+<area shape="rect" id="node35" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="1581,433,1800,461"/>
+<area shape="rect" id="node40" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="3730,433,3891,461"/>
+<area shape="rect" id="node43" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="3694,509,3825,537"/>
+<area shape="rect" id="node46" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="2447,433,2590,461"/>
+<area shape="rect" id="node49" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="2734,281,2892,309"/>
+<area shape="rect" id="node50" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="2622,357,2774,385"/>
+<area shape="rect" id="node29" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="3317,585,3538,613"/>
+<area shape="rect" id="node31" href="$d3/d2d/G4Isotope_8hh.html" title="G4Isotope.hh" alt="" coords="2852,509,2963,537"/>
+<area shape="rect" id="node32" href="$d3/d76/G4IonisParamElm_8hh.html" title="G4IonisParamElm.hh" alt="" coords="3090,509,3251,537"/>
+<area shape="rect" id="node33" href="$db/da9/G4IsotopeVector_8hh.html" title="G4IsotopeVector.hh" alt="" coords="2996,433,3150,461"/>
+<area shape="rect" id="node34" href="$d8/ddd/G4ElementTable_8hh.html" title="G4ElementTable.hh" alt="" coords="2767,433,2920,461"/>
+<area shape="rect" id="node37" href="$da/d68/G4MaterialPropertiesIndex_8hh.html" title="G4MaterialPropertiesIndex.hh" alt="" coords="1876,509,2097,537"/>
+<area shape="rect" id="node38" href="$dd/dd6/G4MaterialPropertyVector_8hh.html" title="G4MaterialPropertyVector.hh" alt="" coords="1340,509,1555,537"/>
+<area shape="rect" id="node41" href="$db/dfe/G4Log_8hh.html" title="G4Log.hh" alt="" coords="3972,813,4057,841"/>
+<area shape="rect" id="node42" href="$d0/dcc/G4Exp_8hh.html" title="G4Exp.hh" alt="" coords="3898,661,3984,689"/>
+<area shape="rect" id="node47" href="$d7/d74/G4OrderedTable_8hh.html" title="G4OrderedTable.hh" alt="" coords="2324,509,2476,537"/>
+</map>

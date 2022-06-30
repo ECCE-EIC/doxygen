@@ -1,0 +1,51 @@
+<map id="G4AblaInterface::DeExcite" name="G4AblaInterface::DeExcite">
+<area shape="rect" id="node2" href="$d9/d50/classG4Volant.html#a7d8ead3dfa2214f588b397d1be007af6" title="G4Volant::clear" alt="" coords="322,5,449,33"/>
+<area shape="rect" id="node3" href="$d0/daa/classG4VarNtp.html#a223ec7add64650cfc9199073c5f08ba1" title="G4VarNtp::clear" alt="" coords="321,57,450,85"/>
+<area shape="rect" id="node4" href="$d2/ddc/classG4Abla.html#ad2c39449df04fb7cf2ea76007e632e32" title="G4Abla::DeexcitationAblaxx" alt="" coords="280,109,491,137"/>
+<area shape="rect" id="node5" href="$df/d5d/classG4Fragment.html#af1209ab905b48c4fac6c006cd2199c70" title="G4Fragment::GetA_asInt" alt="" coords="291,161,479,189"/>
+<area shape="rect" id="node6" href="$df/d5d/classG4Fragment.html#a457344db3e3764c74a3b062b7b4bdd17" title="G4Fragment::GetAngularMomentum" alt="" coords="252,213,519,241"/>
+<area shape="rect" id="node7" href="$df/d5d/classG4Fragment.html#a955c932293c02b54b5de570150f6baab" title="G4Fragment::GetExcitation\lEnergy" alt="" coords="283,265,487,309"/>
+<area shape="rect" id="node8" href="$df/d5d/classG4Fragment.html#ad3ee6013d2ecd4a6c7901f67c2d1ee80" title="G4Fragment::GetMomentum" alt="" coords="278,333,493,361"/>
+<area shape="rect" id="node9" href="$df/d5d/classG4Fragment.html#a5a707b5c62397f90a097700964f9d9a4" title="G4Fragment::GetZ_asInt" alt="" coords="291,385,479,413"/>
+<area shape="rect" id="node10" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="290,437,481,465"/>
+<area shape="rect" id="node11" href="$df/dee/classG4AblaInterface.html#a67ca495b575ea0ecaae9957f0f614624" title="Convert an Abla particle to a G4DynamicParticle." alt="" coords="275,489,496,517"/>
+<area shape="rect" id="node48" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a7accb6710e359a0604df1d119897c429" title="CLHEP::HepLorentzVector::x" alt="" coords="280,541,491,569"/>
+<area shape="rect" id="node49" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a566eaa8184d633b794c069a992054435" title="CLHEP::HepLorentzVector::y" alt="" coords="280,593,491,621"/>
+<area shape="rect" id="node50" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a1df65728ae62f00bf0a9b6991ae4f042" title="CLHEP::HepLorentzVector::z" alt="" coords="281,645,490,673"/>
+<area shape="rect" id="node12" href="$df/dee/classG4AblaInterface.html#ab74d1b34500741d62a7bb892c84e7927" title="Convert A, Z and S to a G4ParticleDefinition." alt="" coords="567,451,788,495"/>
+<area shape="rect" id="node47" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="583,519,771,547"/>
+<area shape="rect" id="node13" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="861,120,997,148"/>
+<area shape="rect" id="node16" href="$d5/d43/classG4Neutron.html#aa64d2476ec8494ae77b58a93b04bf88b" title="G4Neutron::Neutron" alt="" coords="851,172,1008,200"/>
+<area shape="rect" id="node18" href="$d3/d88/classG4Lambda.html#a4a3701a3c2a5dd2f0aa64f8e409c87a5" title="G4Lambda::Lambda" alt="" coords="851,224,1008,252"/>
+<area shape="rect" id="node20" href="$d0/dc2/classG4PionPlus.html#a8b9d03d0c6b25435078da1674723892b" title="G4PionPlus::PionPlus" alt="" coords="1102,276,1263,304"/>
+<area shape="rect" id="node22" href="$d8/d83/classG4PionMinus.html#a393ba02f45f33284c8f508ebc9b14b95" title="G4PionMinus::PionMinus" alt="" coords="836,328,1023,356"/>
+<area shape="rect" id="node24" href="$dc/d7f/classG4PionZero.html#aabac3119ecd6d5414a51dcad552c938e" title="G4PionZero::PionZero" alt="" coords="1099,380,1267,408"/>
+<area shape="rect" id="node26" href="$d0/d54/classG4Gamma.html#a4ee5f7b61812afb37f48357148c13f75" title="G4Gamma::Gamma" alt="" coords="851,432,1007,460"/>
+<area shape="rect" id="node28" href="$df/dfb/classG4Deuteron.html#a0e66e34b476195b9c697bed1bccb8c02" title="G4Deuteron::Deuteron" alt="" coords="1095,484,1270,512"/>
+<area shape="rect" id="node30" href="$da/d5b/classG4Triton.html#a7944632cec88762bbddc94d5a201be5f" title="G4Triton::Triton" alt="" coords="867,536,991,564"/>
+<area shape="rect" id="node32" href="$d2/db5/classG4He3.html#adaeabe374098f724c36cac417df5274d" title="G4He3::He3" alt="" coords="877,588,981,616"/>
+<area shape="rect" id="node34" href="$dc/d9e/classG4Alpha.html#aa1650aa28172e900e599389e6ab8eaf9" title="G4Alpha::Alpha" alt="" coords="866,640,993,668"/>
+<area shape="rect" id="node36" href="$da/d2b/classG4IonTable.html#a4f0f1a9463c5af2bc314904b485fad97" title="G4IonTable::GetIonTable" alt="" coords="837,692,1022,720"/>
+<area shape="rect" id="node38" href="$da/d2b/classG4IonTable.html#a42a4a408a6b7107bb4c5c5560b6b7f80" title="G4IonTable::GetIon" alt="" coords="855,900,1004,928"/>
+<area shape="rect" id="node45" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="874,1029,985,1057"/>
+<area shape="rect" id="node14" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="1373,120,1531,148"/>
+<area shape="rect" id="node15" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1609,424,1817,468"/>
+<area shape="rect" id="node17" href="$d5/d43/classG4Neutron.html#ae4466ed9869fbf712bccecea9f20a2d7" title="G4Neutron::Definition" alt="" coords="1367,172,1537,200"/>
+<area shape="rect" id="node19" href="$d3/d88/classG4Lambda.html#aa01d21170bb7c1d0eec2c9497ae16afd" title="G4Lambda::Definition" alt="" coords="1367,224,1537,252"/>
+<area shape="rect" id="node21" href="$d0/dc2/classG4PionPlus.html#a5cfffef14b8502c5a679b10ff926734f" title="G4PionPlus::Definition" alt="" coords="1367,276,1537,304"/>
+<area shape="rect" id="node23" href="$d8/d83/classG4PionMinus.html#aeb880456d39effd51a89a831d874c16c" title="G4PionMinus::Definition" alt="" coords="1361,328,1543,356"/>
+<area shape="rect" id="node25" href="$dc/d7f/classG4PionZero.html#a9fd14f408a44c632e838da90167ec11d" title="G4PionZero::Definition" alt="" coords="1365,380,1539,408"/>
+<area shape="rect" id="node27" href="$d0/d54/classG4Gamma.html#af48944ead345899927a66f64a1cb6b32" title="G4Gamma::Definition" alt="" coords="1368,432,1536,460"/>
+<area shape="rect" id="node29" href="$df/dfb/classG4Deuteron.html#a74d694cab30a36b98c5cff2279bea1f9" title="G4Deuteron::Definition" alt="" coords="1363,484,1541,512"/>
+<area shape="rect" id="node31" href="$da/d5b/classG4Triton.html#ab5a5c3ad6e7dc2c64f885996e2cc49f9" title="G4Triton::Definition" alt="" coords="1376,536,1528,564"/>
+<area shape="rect" id="node33" href="$d2/db5/classG4He3.html#aa681f88951f8cdb2692633431817bc17" title="G4He3::Definition" alt="" coords="1112,588,1253,616"/>
+<area shape="rect" id="node35" href="$dc/d9e/classG4Alpha.html#a6775b51f1bda0a28a4c36910a447b3c7" title="G4Alpha::Definition" alt="" coords="1106,640,1259,668"/>
+<area shape="rect" id="node37" href="$d8/dd3/classG4ParticleTable.html#a56e8ae902c7fd223310a13dadd6c577d" title="G4ParticleTable::GetIonTable" alt="" coords="1075,744,1290,772"/>
+<area shape="rect" id="node39" href="$da/d2b/classG4IonTable.html#a7b66f00a9bb4e77db26564d546787ea7" title="G4IonTable::GetVerboseLevel" alt="" coords="1343,796,1561,824"/>
+<area shape="rect" id="node40" href="$da/d2b/classG4IonTable.html#a89e95d4c3fd5a40920821debc4aa794a" title="G4IonTable::FindIon" alt="" coords="1106,848,1259,876"/>
+<area shape="rect" id="node41" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1399,873,1505,901"/>
+<area shape="rect" id="node42" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1071,952,1295,980"/>
+<area shape="rect" id="node43" href="$da/d2b/classG4IonTable.html#af97ef452b41db7474cf898b06f36eea3" title="G4IonTable::FindIonInMaster" alt="" coords="1076,1004,1289,1032"/>
+<area shape="rect" id="node44" href="$da/d2b/classG4IonTable.html#a97406ce9c69ca78c18bfb709ef3c096d" title="G4IonTable::InsertWorker" alt="" coords="1087,1056,1279,1084"/>
+<area shape="rect" id="node46" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1095,1108,1271,1136"/>
+</map>

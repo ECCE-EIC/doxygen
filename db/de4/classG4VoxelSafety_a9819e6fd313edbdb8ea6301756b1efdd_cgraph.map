@@ -1,0 +1,31 @@
+<map id="G4VoxelSafety::SafetyForVoxelHeader" name="G4VoxelSafety::SafetyForVoxelHeader">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="300,5,407,33"/>
+<area shape="rect" id="node3" href="$d0/dcf/classG4SmartVoxelHeader.html#a643a8c0e5b1fcc55383fb3c3c71f3816" title="G4SmartVoxelHeader\l::GetAxis" alt="" coords="269,57,437,101"/>
+<area shape="rect" id="node4" href="$da/d34/classG4VSolid.html#af419b3fdb051e4d07ebdb0aa63fd0941" title="G4VSolid::GetEntityType" alt="" coords="260,125,447,153"/>
+<area shape="rect" id="node5" href="$df/d68/classG4SmartVoxelProxy.html#ad63741c90dec89d7b250d5dd2afdd22d" title="G4SmartVoxelProxy::\lGetHeader" alt="" coords="273,177,434,221"/>
+<area shape="rect" id="node6" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="562,75,726,119"/>
+<area shape="rect" id="node7" href="$d0/dcf/classG4SmartVoxelHeader.html#aa388e31964a29da02501df28d5694ff9" title="G4SmartVoxelHeader\l::GetMaxEquivalentSliceNo" alt="" coords="251,416,455,460"/>
+<area shape="rect" id="node8" href="$d9/d16/classG4SmartVoxelNode.html#aa5f0f9a780e922472965f7db437fd813" title="G4SmartVoxelNode::GetMax\lEquivalentSliceNo" alt="" coords="247,484,460,528"/>
+<area shape="rect" id="node9" href="$d0/dcf/classG4SmartVoxelHeader.html#a5c4b37aea039ad57dbd96e7a53814e24" title="G4SmartVoxelHeader\l::GetMaxExtent" alt="" coords="269,552,437,596"/>
+<area shape="rect" id="node10" href="$d0/dcf/classG4SmartVoxelHeader.html#ae3d5e94e3140893bb9b38f7537027e7b" title="G4SmartVoxelHeader\l::GetMinEquivalentSliceNo" alt="" coords="253,620,453,664"/>
+<area shape="rect" id="node11" href="$d9/d16/classG4SmartVoxelNode.html#a086fea63dcd24cf4c0ad9cc4f631fb8b" title="G4SmartVoxelNode::GetMin\lEquivalentSliceNo" alt="" coords="249,688,458,732"/>
+<area shape="rect" id="node12" href="$d0/dcf/classG4SmartVoxelHeader.html#abd8a3e1bec74dfe944c5065164ee52b5" title="G4SmartVoxelHeader\l::GetMinExtent" alt="" coords="269,756,437,800"/>
+<area shape="rect" id="node13" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="271,824,435,868"/>
+<area shape="rect" id="node14" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="248,892,459,920"/>
+<area shape="rect" id="node15" href="$df/d68/classG4SmartVoxelProxy.html#a5f15bf34570374daf9a688a7276059cd" title="G4SmartVoxelProxy::\lGetNode" alt="" coords="273,944,434,988"/>
+<area shape="rect" id="node16" href="$d0/dcf/classG4SmartVoxelHeader.html#a37d96815040af25680222c9f49ce47e8" title="G4SmartVoxelHeader\l::GetNoSlices" alt="" coords="269,1012,437,1056"/>
+<area shape="rect" id="node17" href="$d0/dcf/classG4SmartVoxelHeader.html#a0b206d2c96cc069c9c81906b78f72f1a" title="G4SmartVoxelHeader\l::GetSlice" alt="" coords="269,1080,437,1124"/>
+<area shape="rect" id="node18" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="542,143,746,171"/>
+<area shape="rect" id="node19" href="$df/d68/classG4SmartVoxelProxy.html#a57e6a51ac75299c2bb6b236c4e80af36" title="G4SmartVoxelProxy::\lIsNode" alt="" coords="273,1148,434,1192"/>
+<area shape="rect" id="node20" href="$db/de4/classG4VoxelSafety.html#abce4a8d261a56703b615cd5118f09e1f" title="G4VoxelSafety::SafetyFor\lVoxelNode" alt="" coords="257,348,450,392"/>
+<area shape="rect" id="node21" href="$d9/d16/classG4SmartVoxelNode.html#a2d89861929c49b8011e1bdf5a6cd23dc" title="G4SmartVoxelNode::GetNoContained" alt="" coords="508,555,780,583"/>
+<area shape="rect" id="node22" href="$d9/d16/classG4SmartVoxelNode.html#aee75ca5369c41fcfeeb868613b8c0bc1" title="G4SmartVoxelNode::GetVolume" alt="" coords="526,607,762,635"/>
+<area shape="rect" id="node23" href="$d6/dd1/classG4BlockingList.html#a45526bec03dc954a34de825cb77e4768" title="G4BlockingList::IsBlocked" alt="" coords="547,659,741,687"/>
+<area shape="rect" id="node24" href="$d6/dd1/classG4BlockingList.html#a06d35beff06ddfed9bbf899d76db0ece" title="G4BlockingList::BlockVolume" alt="" coords="535,711,753,739"/>
+<area shape="rect" id="node25" href="$da/dc4/classG4LogicalVolume.html#ab8e71d7314a32cce675f385254e572e8" title="G4LogicalVolume::GetDaughter" alt="" coords="526,195,762,223"/>
+<area shape="rect" id="node26" href="$d1/d28/classG4VPhysicalVolume.html#a4b8b8520fc66e0e3a7cc7d4dbc1cc37c" title="G4VPhysicalVolume::\lGetRotation" alt="" coords="562,247,726,291"/>
+<area shape="rect" id="node27" href="$d1/d28/classG4VPhysicalVolume.html#aa3451c7999f343b2510f35b3c1d8d289" title="G4VPhysicalVolume::\lGetTranslation" alt="" coords="562,315,726,359"/>
+<area shape="rect" id="node28" href="$d8/d1e/classG4AffineTransform.html#a5d49117c310ee6b5bc48c3cd30bf955b" title="G4AffineTransform::\lInvert" alt="" coords="567,383,721,427"/>
+<area shape="rect" id="node29" href="$da/d34/classG4VSolid.html#ac95e39d50f7c8c311128d0ebb15243cf" title="G4VSolid::DistanceToIn" alt="" coords="555,451,733,479"/>
+<area shape="rect" id="node30" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="566,503,722,531"/>
+</map>

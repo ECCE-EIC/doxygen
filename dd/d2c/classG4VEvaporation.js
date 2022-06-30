@@ -1,0 +1,26 @@
+var classG4VEvaporation =
+[
+    [ "G4VEvaporation", "dd/d2c/classG4VEvaporation.html#a2099ac1f88efa00312d5b40981398329", null ],
+    [ "~G4VEvaporation", "dd/d2c/classG4VEvaporation.html#a8acd27fc97853635d22b9d4eed19576d", null ],
+    [ "G4VEvaporation", "dd/d2c/classG4VEvaporation.html#aff78ca4439de5613e055f5d9e64e16ab", null ],
+    [ "BreakFragment", "dd/d2c/classG4VEvaporation.html#a0f15ac9047f24b51a048902d813b0195", null ],
+    [ "CleanChannels", "dd/d2c/classG4VEvaporation.html#a9f1fb27aff7d7bb8e1c5dd2b92cd81dd", null ],
+    [ "GetFermiBreakUp", "dd/d2c/classG4VEvaporation.html#afbddf9ec864b81a5ef62c5b40368b51d", null ],
+    [ "GetFissionChannel", "dd/d2c/classG4VEvaporation.html#a1870dd64c6127215250868989bbe5879", null ],
+    [ "GetNumberOfChannels", "dd/d2c/classG4VEvaporation.html#a45ee634205f454aede0ba3a865ee3761", null ],
+    [ "GetPhotonEvaporation", "dd/d2c/classG4VEvaporation.html#a28a0868bfd97650480000397b1ce7155", null ],
+    [ "InitialiseChannels", "dd/d2c/classG4VEvaporation.html#af6552bd7c367a360e3f560b41f50b38a", null ],
+    [ "operator!=", "dd/d2c/classG4VEvaporation.html#a6e9f95bca85561192c70c7b65a1c4582", null ],
+    [ "operator=", "dd/d2c/classG4VEvaporation.html#ab3e1ca2aa842685e875719d41dd67b3b", null ],
+    [ "operator==", "dd/d2c/classG4VEvaporation.html#a35fda5abc6124618657627ae378aec22", null ],
+    [ "SetFermiBreakUp", "dd/d2c/classG4VEvaporation.html#ab96a8564ba7168571fc4b988b2cc4769", null ],
+    [ "SetOPTxs", "dd/d2c/classG4VEvaporation.html#a6247b2da0402a4500cf05242ee9cd23d", null ],
+    [ "SetPhotonEvaporation", "dd/d2c/classG4VEvaporation.html#ab42449ce9c25bef5d1100efba0bb8a8c", null ],
+    [ "UseSICB", "dd/d2c/classG4VEvaporation.html#a80e8a74c2284c0c446008600313a450d", null ],
+    [ "OPTxs", "dd/d2c/classG4VEvaporation.html#a0599f924463605049a5808e720d3938e", null ],
+    [ "theChannelFactory", "dd/d2c/classG4VEvaporation.html#abf57f015d7a55fae3c867c61d795cba5", null ],
+    [ "theChannels", "dd/d2c/classG4VEvaporation.html#aeee673eb329f22a068004f27660a90b0", null ],
+    [ "theFBU", "dd/d2c/classG4VEvaporation.html#a79ae805f317749a7c371d01f9b4be3fa", null ],
+    [ "thePhotonEvaporation", "dd/d2c/classG4VEvaporation.html#a9185a3a8630a142e2b0b734a85432a3c", null ],
+    [ "useSICB", "dd/d2c/classG4VEvaporation.html#abd4b9d041d3aedaf2a046ae28af7517a", null ]
+];

@@ -1,0 +1,22 @@
+<map id="G4RunManagerKernel::WorkerDefineWorldVolume" name="G4RunManagerKernel::WorkerDefineWorldVolume">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="911,416,1018,444"/>
+<area shape="rect" id="node3" href="$d8/d25/classG4VVisManager.html#aec278d2ca5311fcafb6d4f2d6ed789cc" title="G4VVisManager::GeometryHas\lChanged" alt="" coords="265,73,496,117"/>
+<area shape="rect" id="node4" href="$d8/d25/classG4VVisManager.html#ab6d71dd7db77d6309d1fe48286b75af5" title="G4VVisManager::GetConcrete\lInstance" alt="" coords="270,141,491,185"/>
+<area shape="rect" id="node5" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="271,209,490,253"/>
+<area shape="rect" id="node6" href="$de/d16/classG4MTRunManager.html#ab4c4f53820e73b76b57ec49c76810b19" title="G4MTRunManager::GetMaster\lRunManager" alt="" coords="268,277,493,321"/>
+<area shape="rect" id="node7" href="$de/d16/classG4MTRunManager.html#a0cb8faeb75f853d78b2a3d4892215d14" title="G4MTRunManager::GetMaster\lWorlds" alt="" coords="268,345,493,389"/>
+<area shape="rect" id="node8" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="279,5,482,49"/>
+<area shape="rect" id="node11" href="$de/dd6/classG4StateManager.html#a6c663c504a33468599b7ba51f14a8263" title="G4StateManager::GetState\lString" alt="" coords="279,465,482,509"/>
+<area shape="rect" id="node12" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="275,533,487,577"/>
+<area shape="rect" id="node18" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="270,601,491,629"/>
+<area shape="rect" id="node19" href="$d1/dd0/classG4TransportationManager.html#a19f24e512c6f479b9f8f7ee5653f736b" title="G4TransportationManager\l::RegisterWorld" alt="" coords="281,653,480,697"/>
+<area shape="rect" id="node20" href="$de/dd6/classG4StateManager.html#ad90d4deb9f4852c06142ee8499a9968b" title="G4StateManager::SetNewState" alt="" coords="265,721,496,749"/>
+<area shape="rect" id="node21" href="$d1/dd0/classG4TransportationManager.html#a735613d06f93c65ca564781393b3c6a9" title="G4TransportationManager\l::SetWorldForTracking" alt="" coords="281,773,480,817"/>
+<area shape="rect" id="node9" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="544,13,803,41"/>
+<area shape="rect" id="node10" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="894,13,1035,41"/>
+<area shape="rect" id="node13" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="570,521,777,565"/>
+<area shape="rect" id="node14" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="867,577,1062,621"/>
+<area shape="rect" id="node15" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="888,645,1041,673"/>
+<area shape="rect" id="node16" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="879,473,1050,501"/>
+<area shape="rect" id="node17" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="851,525,1079,553"/>
+</map>

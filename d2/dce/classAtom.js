@@ -1,0 +1,27 @@
+var classAtom =
+[
+    [ "Atom", "d2/dce/classAtom.html#ad594b2d8bb07965b93ba6523ecf858e0", null ],
+    [ "~Atom", "d2/dce/classAtom.html#a6926cfb6d5e61ca21c71476b66547a5e", null ],
+    [ "GetElementName", "d2/dce/classAtom.html#a0c612cd186e01e1768d5bdaab7b6948c", null ],
+    [ "GetID", "d2/dce/classAtom.html#afd585f681560ab7490891ab717d2a374", null ],
+    [ "GetName", "d2/dce/classAtom.html#ab455c129519c926e0e343429f61188ba", null ],
+    [ "GetNext", "d2/dce/classAtom.html#ab820a047d3f03a3f684e91373a37b847", null ],
+    [ "GetVanDerWaalsRadius", "d2/dce/classAtom.html#ac8a65f6213356f132fc2a85bc1cd522c", null ],
+    [ "GetX", "d2/dce/classAtom.html#a48289286d6d7dc211bb9c1f5b73e4a18", null ],
+    [ "GetY", "d2/dce/classAtom.html#aee2e42002675d2bb40637cb5cad32ff0", null ],
+    [ "GetZ", "d2/dce/classAtom.html#acbd3989aae06f235818660979e20c153", null ],
+    [ "SetNext", "d2/dce/classAtom.html#a1fefb11404cd1b9cc743108d4153eb56", null ],
+    [ "fElement", "d2/dce/classAtom.html#a4ad37e15f866a2621a2df31883f344e7", null ],
+    [ "fName", "d2/dce/classAtom.html#af5874c12fcef2101841a629bb22081b6", null ],
+    [ "fNumInRes", "d2/dce/classAtom.html#a0ffef65886f7fd613a5b3b0fad5de2e1", null ],
+    [ "fOccupancy", "d2/dce/classAtom.html#a5bd81458b1d8c881e1011cbfe3f421b1", null ],
+    [ "fpNext", "d2/dce/classAtom.html#af147d4e8a8e39f312619aefade4ee2f8", null ],
+    [ "fResName", "d2/dce/classAtom.html#a383d1f4e41e8642225de569b28bae269", null ],
+    [ "fResSeq", "d2/dce/classAtom.html#adea33309a8a53a588f142fc1392e1ffd", null ],
+    [ "fSerial", "d2/dce/classAtom.html#ad5f39a183e697c5ec6b960f2fb32e5ea", null ],
+    [ "fTempFactor", "d2/dce/classAtom.html#ac476278d2209fc080e272301043880d8", null ],
+    [ "fVdwRadius", "d2/dce/classAtom.html#aa802ede424199fe4af35592aa15e727f", null ],
+    [ "fX", "d2/dce/classAtom.html#a9b840929c69ed02a55ca9a9da6a34de8", null ],
+    [ "fY", "d2/dce/classAtom.html#a75e6c547a385af0f2b67377543fc65e7", null ],
+    [ "fZ", "d2/dce/classAtom.html#adb38040dbe93906989a80631a0eca266", null ]
+];

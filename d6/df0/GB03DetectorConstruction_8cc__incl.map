@@ -1,0 +1,45 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB03/src/GB03DetectorConstruction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB03/src/GB03DetectorConstruction.cc">
+<area shape="rect" id="node2" href="$db/d3a/GB03DetectorConstruction_8hh.html" title="Definition of the GB03DetectorConstruction class." alt="" coords="1569,205,1793,233"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="858,433,939,461"/>
+<area shape="rect" id="node9" href="$da/de4/G4RunManager_8hh.html" title="G4RunManager.hh" alt="" coords="2909,129,3054,157"/>
+<area shape="rect" id="node14" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="937,129,1053,157"/>
+<area shape="rect" id="node24" href="$d1/d8f/G4Box_8hh.html" title="G4Box.hh" alt="" coords="3973,205,4059,233"/>
+<area shape="rect" id="node29" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="2523,129,2683,157"/>
+<area shape="rect" id="node34" href="$d7/da4/G4PVPlacement_8hh.html" title="G4PVPlacement.hh" alt="" coords="2197,129,2347,157"/>
+<area shape="rect" id="node36" href="$da/ded/G4PVReplica_8hh.html" title="G4PVReplica.hh" alt="" coords="2371,129,2499,157"/>
+<area shape="rect" id="node37" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="3419,129,3567,157"/>
+<area shape="rect" id="node39" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="3408,281,3512,309"/>
+<area shape="rect" id="node41" href="$d3/d4b/G4SDManager_8hh.html" title="G4SDManager.hh" alt="" coords="1440,281,1579,309"/>
+<area shape="rect" id="node42" href="$d0/d8a/G4MultiFunctionalDetector_8hh.html" title="G4MultiFunctionalDetector.hh" alt="" coords="192,129,413,157"/>
+<area shape="rect" id="node43" href="$d4/db0/G4PSEnergyDeposit_8hh.html" title="G4PSEnergyDeposit.hh" alt="" coords="2707,129,2885,157"/>
+<area shape="rect" id="node44" href="$d7/d3a/G4PSFlatSurfaceFlux_8hh.html" title="G4PSFlatSurfaceFlux.hh" alt="" coords="3943,129,4126,157"/>
+<area shape="rect" id="node45" href="$d9/dbb/G4SDNeutralFilter_8hh.html" title="G4SDNeutralFilter.hh" alt="" coords="1583,129,1745,157"/>
+<area shape="rect" id="node46" href="$dc/d49/G4SDChargedFilter_8hh.html" title="G4SDChargedFilter.hh" alt="" coords="1770,129,1939,157"/>
+<area shape="rect" id="node47" href="$da/d8f/GB03DetectorMessenger_8hh.html" title="Definition of the GB03DetectorMessenger class." alt="" coords="1963,129,2173,157"/>
+<area shape="rect" id="node48" href="$d4/df0/GB03BOptrGeometryBasedBiasing_8hh.html" title="Definition of the GB03BOptrGeometryBasedBiasing class." alt="" coords="3643,129,3919,157"/>
+<area shape="rect" id="node49" href="$d4/d2b/G4PhysicalConstants_8hh.html" title="G4PhysicalConstants.hh" alt="" coords="144,205,328,233"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="4150,129,4311,157"/>
+<area shape="rect" id="node3" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="1603,281,1848,309"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2017,357,2108,385"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2262,509,2362,537"/>
+<area shape="rect" id="node10" href="$dc/d47/G4RunManagerKernel_8hh.html" title="G4RunManagerKernel.hh" alt="" coords="2732,205,2921,233"/>
+<area shape="rect" id="node11" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="2577,281,2735,309"/>
+<area shape="rect" id="node12" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="2350,281,2450,309"/>
+<area shape="rect" id="node16" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="244,281,487,309"/>
+<area shape="rect" id="node17" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="840,281,957,309"/>
+<area shape="rect" id="node18" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="2811,281,3029,309"/>
+<area shape="rect" id="node19" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="1185,205,1346,233"/>
+<area shape="rect" id="node20" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1184,281,1315,309"/>
+<area shape="rect" id="node21" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="403,205,546,233"/>
+<area shape="rect" id="node22" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="798,205,957,233"/>
+<area shape="rect" id="node23" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="571,205,723,233"/>
+<area shape="rect" id="node25" href="$d9/dbc/G4GeomTypes_8hh.html" title="G4GeomTypes.hh" alt="" coords="4194,281,4334,309"/>
+<area shape="rect" id="node26" href="$d8/df5/G4CSGSolid_8hh.html" title="G4CSGSolid.hh" alt="" coords="3935,281,4057,309"/>
+<area shape="rect" id="node27" href="$d7/dab/G4Polyhedron_8hh.html" title="G4Polyhedron.hh" alt="" coords="3773,281,3910,309"/>
+<area shape="rect" id="node30" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="3165,205,3273,233"/>
+<area shape="rect" id="node31" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="2125,281,2275,309"/>
+<area shape="rect" id="node32" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="2193,205,2369,233"/>
+<area shape="rect" id="node35" href="$d3/dd7/G4Transform3D_8hh.html" title="G4Transform3D.hh" alt="" coords="1970,205,2118,233"/>
+<area shape="rect" id="node38" href="$d2/d5d/graphics__reps__defs_8hh.html" title="graphics_reps_defs.hh" alt="" coords="3453,433,3625,461"/>
+<area shape="rect" id="node40" href="$d8/d72/G4Color_8hh.html" title="G4Color.hh" alt="" coords="3500,205,3596,233"/>
+</map>

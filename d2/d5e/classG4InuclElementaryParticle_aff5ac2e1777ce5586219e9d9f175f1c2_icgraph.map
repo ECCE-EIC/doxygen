@@ -1,0 +1,32 @@
+<map id="G4InuclElementaryParticle::nucleon" name="G4InuclElementaryParticle::nucleon">
+<area shape="rect" id="node2" href="$de/dd8/classG4CascadeCoalescence.html#acb8b41e443d38b8ee7d73fa642d3ca9a" title="G4CascadeCoalescence\l::allNucleons" alt="" coords="289,11,471,55"/>
+<area shape="rect" id="node5" href="$de/dd8/classG4CascadeCoalescence.html#ac033026a3185da4e77f05591657dc3b8" title="G4CascadeCoalescence\l::clusterType" alt="" coords="289,79,471,123"/>
+<area shape="rect" id="node20" href="$d4/ded/classG4ElementaryParticleCollider.html#a9e82e63dca4498407cdcb2d917d73d0f" title="G4ElementaryParticleCollider\l::collide" alt="" coords="1387,271,1607,315"/>
+<area shape="rect" id="node22" href="$d9/da6/classG4NucleiModel.html#a328aa59398dda26dafeafef5a65e65c8" title="G4NucleiModel::generateParticleFate" alt="" coords="1655,352,1925,380"/>
+<area shape="rect" id="node23" href="$d4/ded/classG4ElementaryParticleCollider.html#abcd06e2a25b0e916cc2db69fa97c5b49" title="G4ElementaryParticleCollider\l::generateSCMpionNAbsorption" alt="" coords="555,327,788,371"/>
+<area shape="rect" id="node24" href="$d0/d60/classG4IntraNucleiCascader.html#a1587032c6036e316cc9c37499b74ab63" title="G4IntraNucleiCascader\l::processTrappedParticle" alt="" coords="860,141,1047,185"/>
+<area shape="rect" id="node26" href="$d3/d12/classG4CascadeFinalStateAlgorithm.html#a62a078127e81b95d676b435a0e12740d" title="G4CascadeFinalStateAlgorithm\l::SaveKinematics" alt="" coords="265,207,495,251"/>
+<area shape="rect" id="node31" href="$d9/da6/classG4NucleiModel.html#a814b5d906eacadb3c1986d80e690a47c" title="G4NucleiModel::worthToPropagate" alt="" coords="253,447,507,475"/>
+<area shape="rect" id="node3" href="$de/dd8/classG4CascadeCoalescence.html#a1c1b889012d2017564c1e108ac7a950f" title="G4CascadeCoalescence\l::goodCluster" alt="" coords="580,11,763,55"/>
+<area shape="rect" id="node4" href="$de/dd8/classG4CascadeCoalescence.html#a917571d9f27a77e893a3394ca896a488" title="G4CascadeCoalescence\l::tryClusters" alt="" coords="862,5,1045,49"/>
+<area shape="rect" id="node6" href="$de/dd8/classG4CascadeCoalescence.html#a1d5b76ff603c4d73e072f10f9c7eae3e" title="G4CascadeCoalescence\l::makeLightIon" alt="" coords="580,79,763,123"/>
+<area shape="rect" id="node7" href="$de/dd8/classG4CascadeCoalescence.html#a60565eba0ebfe98d82a7485c21d0a273" title="G4CascadeCoalescence\l::createNuclei" alt="" coords="862,73,1045,117"/>
+<area shape="rect" id="node8" href="$de/dd8/classG4CascadeCoalescence.html#a1223e290d59f1f4b437d6cc4dcfa43e0" title="G4CascadeCoalescence\l::FindClusters" alt="" coords="1137,44,1320,88"/>
+<area shape="rect" id="node9" href="$d0/d60/classG4IntraNucleiCascader.html#ac6bb4e85e4070aaaaaeba78b4679f3e0" title="G4IntraNucleiCascader\l::finishCascade" alt="" coords="1408,44,1585,88"/>
+<area shape="rect" id="node10" href="$d0/d60/classG4IntraNucleiCascader.html#a7c34f74d66dd88e6952625ea5b6e2b34" title="G4IntraNucleiCascader\l::collide" alt="" coords="1701,112,1879,156"/>
+<area shape="rect" id="node17" href="$d0/d60/classG4IntraNucleiCascader.html#a62942b76c53e512c5aaf2afa04e886be" title="G4IntraNucleiCascader\l::rescatter" alt="" coords="1701,44,1879,88"/>
+<area shape="rect" id="node11" href="$d4/d24/classG4InuclCollider.html#ab4109b3dbea48ffe64e45bab046ca4e5" title="G4InuclCollider::collide" alt="" coords="1982,257,2159,285"/>
+<area shape="rect" id="node12" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="2216,223,2373,267"/>
+<area shape="rect" id="node13" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="2421,188,2620,232"/>
+<area shape="rect" id="node15" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="2422,256,2619,300"/>
+<area shape="rect" id="node14" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="2668,188,2867,232"/>
+<area shape="rect" id="node16" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="2673,256,2862,300"/>
+<area shape="rect" id="node18" href="$d4/d24/classG4InuclCollider.html#ab9f3bf1a38c40ca67811009ca7e8adaf" title="G4InuclCollider::rescatter" alt="" coords="1973,52,2168,80"/>
+<area shape="rect" id="node19" href="$dc/d8b/classG4CascadeInterface.html#ab8f6e4c678c2908475a4bca6dbc7bcb1" title="G4CascadeInterface\l::Propagate" alt="" coords="2216,44,2373,88"/>
+<area shape="rect" id="node21" href="$da/d7b/classG4LightTargetCollider.html#ae13ff79fa3488a07cfaab7ab02e9b1d3" title="G4LightTargetCollider\l::collide" alt="" coords="1706,197,1874,241"/>
+<area shape="rect" id="node25" href="$d0/d60/classG4IntraNucleiCascader.html#a2def5ba7879b20884cb93f062d50615c" title="G4IntraNucleiCascader\l::generateCascade" alt="" coords="1408,112,1585,156"/>
+<area shape="rect" id="node27" href="$d3/d12/classG4CascadeFinalStateAlgorithm.html#a63de6f238bf3722841d82d7163571c32" title="G4CascadeFinalStateAlgorithm\l::Configure" alt="" coords="556,207,787,251"/>
+<area shape="rect" id="node28" href="$dd/da3/classG4CascadeFinalStateGenerator.html#a45b4923933b93921cc988a680477c2cb" title="G4CascadeFinalStateGenerator\l::Configure" alt="" coords="836,209,1071,253"/>
+<area shape="rect" id="node29" href="$d4/ded/classG4ElementaryParticleCollider.html#aa13eb4ca0df1471303b50112a16684d2" title="G4ElementaryParticleCollider\l::generateSCMfinalState" alt="" coords="1119,215,1339,259"/>
+<area shape="rect" id="node30" href="$da/d7b/classG4LightTargetCollider.html#aa89532117ec231912059493b179e02c6" title="G4LightTargetCollider\l::SingleNucleonScattering" alt="" coords="1399,188,1595,232"/>
+</map>

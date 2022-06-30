@@ -1,0 +1,30 @@
+<map id="G4NuclNuclDiffuseElastic::SampleThetaCMS" name="G4NuclNuclDiffuseElastic::SampleThetaCMS">
+<area shape="rect" id="node2" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="842,5,881,33"/>
+<area shape="rect" id="node3" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#ad86c0a8ac2c742caa1e8bdfa5256db53" title="G4NuclNuclDiffuseElastic\l::CalculateNuclearRad" alt="" coords="247,155,439,199"/>
+<area shape="rect" id="node18" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a587030fccc8c7c254d71a2b06ce02615" title="G4NuclNuclDiffuseElastic\l::GetIntegrandFunction" alt="" coords="247,252,439,296"/>
+<area shape="rect" id="node25" href="$d5/d82/classG4Integrator.html#a754f677b54a631e522bf5ebbfaee0b8b" title="G4Integrator::Legendre10" alt="" coords="245,320,441,348"/>
+<area shape="rect" id="node26" href="$d5/d82/classG4Integrator.html#a2217dc7549db1fec0bdc476caa6d906e" title="G4Integrator::Legendre96" alt="" coords="245,372,441,400"/>
+<area shape="rect" id="node27" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="265,461,422,505"/>
+<area shape="rect" id="node4" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="553,96,654,124"/>
+<area shape="rect" id="node17" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="525,163,682,191"/>
+<area shape="rect" id="node5" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="797,57,926,85"/>
+<area shape="rect" id="node6" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="795,109,928,137"/>
+<area shape="rect" id="node7" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1068,225,1135,253"/>
+<area shape="rect" id="node11" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1069,109,1133,137"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1283,217,1448,245"/>
+<area shape="rect" id="node10" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1271,269,1460,297"/>
+<area shape="rect" id="node9" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1533,217,1721,245"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1269,161,1461,189"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1269,57,1461,85"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1245,109,1485,137"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1533,136,1721,164"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1533,84,1721,112"/>
+<area shape="rect" id="node19" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a937f5a0a4d21a18bd3fd79ee6ccdcf2f" title="G4NuclNuclDiffuseElastic\l::GetDiffElasticSumProbA" alt="" coords="507,281,699,325"/>
+<area shape="rect" id="node20" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#ad2ec65cfe42c2ea84650cfe46ecf9d3e" title="G4NuclNuclDiffuseElastic\l::BesselJone" alt="" coords="1005,423,1197,467"/>
+<area shape="rect" id="node21" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a394890ba22e9f621bbb06ef9c3e6bd92" title="G4NuclNuclDiffuseElastic\l::BesselJzero" alt="" coords="765,161,957,205"/>
+<area shape="rect" id="node22" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a7c21a757509d015c3404ce2a9b26ab93" title="G4NuclNuclDiffuseElastic\l::BesselOneByArg" alt="" coords="765,453,957,497"/>
+<area shape="rect" id="node23" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#af0d7aece2ed452881f510a91854cc8fa" title="G4NuclNuclDiffuseElastic\l::DampFactor" alt="" coords="765,281,957,325"/>
+<area shape="rect" id="node24" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="833,349,889,377"/>
+<area shape="rect" id="node28" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="489,469,717,497"/>
+<area shape="rect" id="node29" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="769,521,954,549"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/cross_sections/src/G4ChipsKaonPlusInelasticXS.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/cross_sections/src/G4ChipsKaonPlusInelasticXS.cc">
+<area shape="rect" id="node2" href="$df/df1/G4ChipsKaonPlusInelasticXS_8hh.html" title="G4ChipsKaonPlusInelastic\lXS.hh" alt="" coords="1701,129,1897,173"/>
+<area shape="rect" id="node19" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1615,373,1793,401"/>
+<area shape="rect" id="node23" href="$d8/d7b/G4AutoLock_8hh.html" title="G4AutoLock.hh" alt="" coords="984,525,1107,553"/>
+<area shape="rect" id="node30" href="$d3/dab/G4DynamicParticle_8hh.html" title="G4DynamicParticle.hh" alt="" coords="707,297,877,325"/>
+<area shape="rect" id="node44" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="243,137,405,165"/>
+<area shape="rect" id="node45" href="$d9/db0/G4KaonPlus_8hh.html" title="G4KaonPlus.hh" alt="" coords="2319,297,2441,325"/>
+<area shape="rect" id="node46" href="$d8/d0d/G4Proton_8hh.html" title="G4Proton.hh" alt="" coords="2662,221,2767,249"/>
+<area shape="rect" id="node48" href="$d3/dd3/G4PionPlus_8hh.html" title="G4PionPlus.hh" alt="" coords="1228,297,1345,325"/>
+<area shape="rect" id="node49" href="$d1/dce/G4CrossSectionFactory_8hh.html" title="G4CrossSectionFactory.hh" alt="" coords="1287,137,1483,165"/>
+<area shape="rect" id="node3" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="1725,221,1872,249"/>
+<area shape="rect" id="node28" href="$de/d5e/G4NucleiProperties_8hh.html" title="G4NucleiProperties.hh" alt="" coords="2307,601,2477,629"/>
+<area shape="rect" id="node29" href="$de/d8c/G4VCrossSectionDataSet_8hh.html" title="G4VCrossSectionDataSet.hh" alt="" coords="1277,221,1489,249"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1827,905,1909,933"/>
+<area shape="rect" id="node8" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1904,677,1995,705"/>
+<area shape="rect" id="node16" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1209,601,1340,629"/>
+<area shape="rect" id="node26" href="$dc/dcc/G4ParticleTableIterator_8hh.html" title="G4ParticleTableIterator.hh" alt="" coords="1948,297,2143,325"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2175,981,2275,1009"/>
+<area shape="rect" id="node10" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="2175,905,2276,933"/>
+<area shape="rect" id="node11" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1719,753,1830,781"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="2119,829,2247,857"/>
+<area shape="rect" id="node14" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="2119,753,2297,781"/>
+<area shape="rect" id="node20" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="195,449,437,477"/>
+<area shape="rect" id="node22" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="1515,449,1666,477"/>
+<area shape="rect" id="node21" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="144,525,365,553"/>
+<area shape="rect" id="node43" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="1364,601,1481,629"/>
+<area shape="rect" id="node32" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="667,449,787,477"/>
+<area shape="rect" id="node36" href="$d7/dd0/G4LorentzVector_8hh.html" title="G4LorentzVector.hh" alt="" coords="746,601,899,629"/>
+<area shape="rect" id="node38" href="$db/dfe/G4Log_8hh.html" title="G4Log.hh" alt="" coords="1609,753,1695,781"/>
+<area shape="rect" id="node40" href="$dc/d2b/G4ParticleMomentum_8hh.html" title="G4ParticleMomentum.hh" alt="" coords="897,373,1085,401"/>
+<area shape="rect" id="node41" href="$d2/dbb/G4ElectronOccupancy_8hh.html" title="G4ElectronOccupancy.hh" alt="" coords="632,373,821,401"/>
+<area shape="rect" id="node35" href="$dd/d53/G4AllocatorPool_8hh.html" title="G4AllocatorPool.hh" alt="" coords="563,525,712,553"/>
+<area shape="rect" id="node37" href="$d6/de0/LorentzVector_8h.html" title="CLHEP/Vector/LorentzVector.h" alt="" coords="1050,905,1270,933"/>
+<area shape="rect" id="node47" href="$d6/d88/G4Ions_8hh.html" title="G4Ions.hh" alt="" coords="2466,297,2555,325"/>
+<area shape="rect" id="node50" href="$dd/d00/G4CrossSectionFactoryRegistry_8hh.html" title="G4CrossSectionFactoryRegistry.hh" alt="" coords="2676,677,2927,705"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="G4DNAPTBElasticModel::SampleSecondaries" name="G4DNAPTBElasticModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="267,5,427,49"/>
+<area shape="rect" id="node3" href="$db/dae/classG4VDNAModel.html#abaa4e9c4d6847fd008eea3246b019f8e" title="GetHighEnergyLimit." alt="" coords="233,73,460,101"/>
+<area shape="rect" id="node5" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="268,177,425,221"/>
+<area shape="rect" id="node6" href="$db/dae/classG4VDNAModel.html#af8560570cf53851482101fe22e70842e" title="GetLowEnergyLimit." alt="" coords="236,125,457,153"/>
+<area shape="rect" id="node7" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="255,245,438,289"/>
+<area shape="rect" id="node8" href="$d7/d5c/classG4DynamicParticle.html#a4af3d8c60e82b21a321f5f90264a7017" title="G4DynamicParticle::\lGetParticleDefinition" alt="" coords="267,313,427,357"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="782,387,937,431"/>
+<area shape="rect" id="node10" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aaeefd99d2e17b87ddd10554614c7a290" title="CLHEP::Hep3Vector::\lorthogonal" alt="" coords="267,501,427,545"/>
+<area shape="rect" id="node11" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="242,569,451,613"/>
+<area shape="rect" id="node12" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc" title="G4ParticleChangeForGamma\l::ProposeMomentumDirection" alt="" coords="236,637,457,681"/>
+<area shape="rect" id="node16" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="267,705,427,749"/>
+<area shape="rect" id="node17" href="$df/d41/classG4DNAPTBElasticModel.html#a3ce1f9e83f1732dc76c39a1321ce2e72" title="RandomizeCosTheta." alt="" coords="257,433,437,477"/>
+<area shape="rect" id="node35" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852" title="G4ParticleChangeForGamma\l::SetProposedKineticEnergy" alt="" coords="239,773,455,817"/>
+<area shape="rect" id="node36" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="253,841,441,869"/>
+<area shape="rect" id="node4" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="565,100,642,128"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="508,604,699,632"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="508,656,699,684"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="508,708,699,736"/>
+<area shape="rect" id="node18" href="$d3/d96/classG4Electron.html#a981418d4d6fdb59a467c7070c691e53b" title="G4Electron::ElectronDefinition" alt="" coords="747,536,972,564"/>
+<area shape="rect" id="node33" href="$df/d41/classG4DNAPTBElasticModel.html#a701dc95f1a03535a236ead33bfb428b4" title="Theta To return an angular theta value from the differential file. This method uses interpolations to..." alt="" coords="513,484,693,528"/>
+<area shape="rect" id="node34" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="831,480,887,508"/>
+<area shape="rect" id="node19" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="1020,536,1191,564"/>
+<area shape="rect" id="node20" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1241,416,1449,460"/>
+<area shape="rect" id="node27" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1239,509,1451,537"/>
+<area shape="rect" id="node31" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1539,613,1703,657"/>
+<area shape="rect" id="node32" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="1245,613,1444,657"/>
+<area shape="rect" id="node21" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1520,356,1721,400"/>
+<area shape="rect" id="node22" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1817,339,1993,383"/>
+<area shape="rect" id="node23" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1817,407,1993,451"/>
+<area shape="rect" id="node24" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1813,475,1996,503"/>
+<area shape="rect" id="node25" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1827,219,1982,263"/>
+<area shape="rect" id="node26" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1791,287,2019,315"/>
+<area shape="rect" id="node28" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1499,509,1743,537"/>
+<area shape="rect" id="node30" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1509,561,1733,589"/>
+<area shape="rect" id="node29" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1851,548,1958,576"/>
+</map>

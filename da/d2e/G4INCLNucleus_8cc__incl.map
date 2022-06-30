@@ -1,0 +1,41 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/src/G4INCLNucleus.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/src/G4INCLNucleus.cc">
+<area shape="rect" id="node2" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1593,1209,1683,1237"/>
+<area shape="rect" id="node14" href="$d6/d89/G4INCLGlobals_8hh.html" title="G4INCLGlobals.hh" alt="" coords="2212,1057,2355,1085"/>
+<area shape="rect" id="node18" href="$d8/d3e/G4INCLLogger_8hh.html" title="G4INCLLogger.hh" alt="" coords="2944,829,3081,857"/>
+<area shape="rect" id="node23" href="$d9/d8d/G4INCLParticleSpecies_8hh.html" title="G4INCLParticleSpecies.hh" alt="" coords="2379,1057,2572,1085"/>
+<area shape="rect" id="node25" href="$d2/d20/G4INCLParticle_8hh.html" title="G4INCLParticle.hh" alt="" coords="2326,677,2467,705"/>
+<area shape="rect" id="node26" href="$d6/d58/G4INCLParticleTable_8hh.html" title="G4INCLParticleTable.hh" alt="" coords="1296,753,1473,781"/>
+<area shape="rect" id="node33" href="$d4/dc2/G4INCLIAvatar_8hh.html" title="G4INCLIAvatar.hh" alt="" coords="1597,525,1735,553"/>
+<area shape="rect" id="node36" href="$dd/d4b/G4INCLNucleus_8hh.html" title="G4INCLNucleus.hh" alt="" coords="2081,373,2227,401"/>
+<area shape="rect" id="node39" href="$df/d62/G4INCLCluster_8hh.html" title="G4INCLCluster.hh" alt="" coords="637,601,775,629"/>
+<area shape="rect" id="node44" href="$de/dde/G4INCLKinematicsUtils_8hh.html" title="G4INCLKinematicsUtils.hh" alt="" coords="2544,297,2740,325"/>
+<area shape="rect" id="node45" href="$d9/dbe/G4INCLDecayAvatar_8hh.html" title="G4INCLDecayAvatar.hh" alt="" coords="1979,145,2156,173"/>
+<area shape="rect" id="node47" href="$d4/ddd/G4INCLStrangeAbsorbtionChannel_8hh.html" title="G4INCLStrangeAbsorbtionChannel.hh" alt="" coords="1105,297,1379,325"/>
+<area shape="rect" id="node48" href="$dd/d26/G4INCLClusterDecay_8hh.html" title="Static class for carrying out cluster decays." alt="" coords="544,525,724,553"/>
+<area shape="rect" id="node49" href="$d1/dbb/G4INCLDeJongSpin_8hh.html" title="Simple class implementing De Jong&#39;s spin model for nucleus&#45;nucleus collisions." alt="" coords="5,221,175,249"/>
+<area shape="rect" id="node3" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1547,1437,1628,1465"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1537,1513,1637,1541"/>
+<area shape="rect" id="node7" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1834,1437,1935,1465"/>
+<area shape="rect" id="node9" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="2080,1285,2191,1313"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1675,1361,1803,1389"/>
+<area shape="rect" id="node11" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1879,1285,2056,1313"/>
+<area shape="rect" id="node17" href="$df/d0c/G4INCLParticleType_8hh.html" title="G4INCLParticleType.hh" alt="" coords="1752,1133,1924,1161"/>
+<area shape="rect" id="node20" href="$d5/dcb/G4INCLRandom_8hh.html" title="G4INCLRandom.hh" alt="" coords="2739,905,2887,933"/>
+<area shape="rect" id="node22" href="$d6/d6d/G4INCLConfig_8hh.html" title="G4INCLConfig.hh" alt="" coords="3002,981,3138,1009"/>
+<area shape="rect" id="node21" href="$dc/d41/G4INCLThreeVector_8hh.html" title="G4INCLThreeVector.hh" alt="" coords="3461,1057,3631,1085"/>
+<area shape="rect" id="node24" href="$d3/d45/G4INCLConfigEnums_8hh.html" title="G4INCLConfigEnums.hh" alt="" coords="2799,1057,2981,1085"/>
+<area shape="rect" id="node31" href="$de/dbf/G4INCLUnorderedVector_8hh.html" title="G4INCLUnorderedVector.hh" alt="" coords="1984,1057,2188,1085"/>
+<area shape="rect" id="node32" href="$da/d04/G4INCLAllocationPool_8hh.html" title="Singleton for recycling allocation of instances of a given class." alt="" coords="922,753,1109,781"/>
+<area shape="rect" id="node27" href="$d8/d11/G4INCLHFB_8hh.html" title="G4INCLHFB.hh" alt="" coords="1355,1057,1473,1085"/>
+<area shape="rect" id="node28" href="$d2/daf/G4IonTable_8hh.html" title="G4IonTable.hh" alt="" coords="807,1057,925,1085"/>
+<area shape="rect" id="node29" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="793,1133,939,1161"/>
+<area shape="rect" id="node30" href="$d1/d70/G4INCLNaturalIsotopicDistributions_8hh.html" title="Classes that stores isotopic abundances." alt="" coords="949,1057,1229,1085"/>
+<area shape="rect" id="node34" href="$dc/dc6/G4INCLIChannel_8hh.html" title="G4INCLIChannel.hh" alt="" coords="1053,601,1205,629"/>
+<area shape="rect" id="node35" href="$d6/d0d/G4INCLFinalState_8hh.html" title="G4INCLFinalState.hh" alt="" coords="2005,601,2164,629"/>
+<area shape="rect" id="node38" href="$df/d60/G4INCLEventInfo_8hh.html" title="Simple container for output of event results." alt="" coords="1752,1057,1908,1085"/>
+<area shape="rect" id="node42" href="$dd/d5a/G4INCLStore_8hh.html" title="G4INCLStore.hh" alt="" coords="3010,449,3138,477"/>
+<area shape="rect" id="node43" href="$d0/d61/G4INCLProjectileRemnant_8hh.html" title="Class for constructing a projectile&#45;like remnant." alt="" coords="1307,525,1521,553"/>
+<area shape="rect" id="node40" href="$de/da2/G4INCLNuclearDensityFactory_8hh.html" title="G4INCLNuclearDensityFactory.hh" alt="" coords="426,677,669,705"/>
+<area shape="rect" id="node41" href="$d5/df4/G4INCLParticleSampler_8hh.html" title="Class for sampling particles in a nucleus." alt="" coords="352,753,548,781"/>
+<area shape="rect" id="node46" href="$dc/de7/G4INCLInteractionAvatar_8hh.html" title="G4INCLInteractionAvatar.hh" alt="" coords="1906,221,2114,249"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="G4WorkerRunManager::RunTermination" name="G4WorkerRunManager::RunTermination">
+<area shape="rect" id="node2" href="$de/d16/classG4MTRunManager.html#ab4c4f53820e73b76b57ec49c76810b19" title="G4MTRunManager::GetMaster\lRunManager" alt="" coords="541,5,767,49"/>
+<area shape="rect" id="node3" href="$d4/daa/classG4RunManager.html#a17de048b6f60cd5f5004c4cdf1afc74e" title="G4RunManager::GetUserWorker\lInitialization" alt="" coords="229,104,466,148"/>
+<area shape="rect" id="node4" href="$d3/db3/classG4WorkerRunManager.html#a77f9f9cdd6d99e1e77f738904e9eb6ca" title="G4WorkerRunManager\l::MergePartialResults" alt="" coords="260,172,435,216"/>
+<area shape="rect" id="node14" href="$d4/daa/classG4RunManager.html#a76e6c43cba06add52204a945a339a2ff" title="G4RunManager::RunTermination" alt="" coords="228,389,467,417"/>
+<area shape="rect" id="node32" href="$de/d16/classG4MTRunManager.html#afa95bc53ea7f1158c27d7122fd151113" title="G4MTRunManager::ThisWorker\lEndEventLoop" alt="" coords="232,441,463,485"/>
+<area shape="rect" id="node34" href="$d9/de6/classG4UserWorkerInitialization.html#a54d09d816dcf1c15685cd71d5fae14ec" title="G4UserWorkerInitialization\l::WorkerRunEnd" alt="" coords="247,509,448,553"/>
+<area shape="rect" id="node5" href="$df/d55/classG4ScoringManager.html#afa63a4bb41370acadeb5c4df0a7a6d16" title="G4ScoringManager::GetScoring\lManagerIfExist" alt="" coords="537,73,771,117"/>
+<area shape="rect" id="node6" href="$de/d16/classG4MTRunManager.html#ada2b14db3d5656ad270941379aecf81c" title="G4MTRunManager::MergeRun" alt="" coords="543,141,765,169"/>
+<area shape="rect" id="node8" href="$de/d16/classG4MTRunManager.html#aedca6c6cd7867230916dd17ade6839dd" title="G4MTRunManager::MergeScores" alt="" coords="533,193,775,221"/>
+<area shape="rect" id="node7" href="$d2/d10/classG4Run.html#a83fad19c4a64f0e0888743b3063eaba8" title="G4Run::Merge" alt="" coords="898,141,1015,169"/>
+<area shape="rect" id="node9" href="$df/d55/classG4ScoringManager.html#aedec7854d4cbe28333b6fec89001c8b8" title="G4ScoringManager::Merge" alt="" coords="856,193,1057,221"/>
+<area shape="rect" id="node10" href="$df/d55/classG4ScoringManager.html#ad75bda36fc8ad51018c690883d03c2cc" title="G4ScoringManager::GetMesh" alt="" coords="1140,133,1359,161"/>
+<area shape="rect" id="node11" href="$df/d55/classG4ScoringManager.html#aaf49e2616251ab57940f15836513e580" title="G4ScoringManager::GetNumber\lOfMesh" alt="" coords="1130,185,1369,229"/>
+<area shape="rect" id="node12" href="$d0/d53/classG4VScoringMesh.html#adce1323352d40969d186888cbcb57e8e" title="G4VScoringMesh::Merge" alt="" coords="1156,253,1343,281"/>
+<area shape="rect" id="node13" href="$d0/d53/classG4VScoringMesh.html#a9cef9c1d13bb99bebf145ef498603312" title="G4VScoringMesh::GetScoreMap" alt="" coords="1427,253,1663,281"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#a0e48079a478727a7cd13bcda4a751c0d" title="G4RunManager::CleanUpUnnecessary\lEvents" alt="" coords="515,245,793,289"/>
+<area shape="rect" id="node18" href="$dd/d05/classG4UserRunAction.html#a2f41a89bc7a07534f0f8538cb8f087e3" title="G4UserRunAction::EndOfRun\lAction" alt="" coords="547,313,761,357"/>
+<area shape="rect" id="node19" href="$d0/ddc/classG4VPersistencyManager.html#a60bb1a44c765afc05080054a46d76177" title="G4VPersistencyManager\l::GetPersistencyManager" alt="" coords="559,381,749,425"/>
+<area shape="rect" id="node20" href="$df/d21/classG4VScoreNtupleWriter.html#ac5c5feb7222db80c5519b97de9354347" title="G4VScoreNtupleWriter\l::Instance" alt="" coords="567,449,741,493"/>
+<area shape="rect" id="node23" href="$de/d51/classG4RunManagerKernel.html#a8b6610b51ea9b7c9038983aa2dfd7a3c" title="G4RunManagerKernel\l::RunTermination" alt="" coords="570,517,738,561"/>
+<area shape="rect" id="node30" href="$d0/ddc/classG4VPersistencyManager.html#abd9781f2c9a5824a70fdab879aeae58c" title="G4VPersistencyManager\l::Store" alt="" coords="561,585,747,629"/>
+<area shape="rect" id="node31" href="$df/d21/classG4VScoreNtupleWriter.html#a3fb1c90499fc302313cc37469fb8b26a" title="G4VScoreNtupleWriter\l::Write" alt="" coords="567,653,741,697"/>
+<area shape="rect" id="node16" href="$d5/de2/classG4Event.html#aca97ae0585199c4ecec6ada0e58d45ff" title="G4Event::GetNumberOfGrips" alt="" coords="848,249,1065,277"/>
+<area shape="rect" id="node17" href="$d5/de2/classG4Event.html#ae14d31a7fff813076d94df1199551977" title="G4Event::ToBeKept" alt="" coords="881,301,1033,329"/>
+<area shape="rect" id="node21" href="$df/d21/classG4VScoreNtupleWriter.html#ad2a9e55c575d179a2c78e7a3b2a70712" title="G4VScoreNtupleWriter\l::CreateInstance" alt="" coords="870,373,1043,417"/>
+<area shape="rect" id="node22" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="845,441,1069,469"/>
+<area shape="rect" id="node24" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="861,493,1052,537"/>
+<area shape="rect" id="node25" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="855,561,1058,605"/>
+<area shape="rect" id="node28" href="$d5/dda/classG4ProductionCutsTable.html#acc7caeda67e354ecdac1abdf4151e74a" title="G4ProductionCutsTable\l::PhysicsTableUpdated" alt="" coords="868,629,1045,673"/>
+<area shape="rect" id="node29" href="$de/dd6/classG4StateManager.html#ad90d4deb9f4852c06142ee8499a9968b" title="G4StateManager::SetNewState" alt="" coords="841,697,1072,725"/>
+<area shape="rect" id="node26" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="1120,569,1379,597"/>
+<area shape="rect" id="node27" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1474,569,1615,597"/>
+<area shape="rect" id="node33" href="$dc/de0/classG4MTBarrier.html#a261aaf14e45ae1db6ce7790ca4067b22" title="G4MTBarrier::ThisWorkerReady" alt="" coords="538,721,770,749"/>
+</map>

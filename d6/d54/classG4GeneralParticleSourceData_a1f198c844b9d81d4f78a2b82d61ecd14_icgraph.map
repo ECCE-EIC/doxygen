@@ -1,0 +1,37 @@
+<map id="G4GeneralParticleSourceData::GetCurrentSource" name="G4GeneralParticleSourceData::GetCurrentSource">
+<area shape="rect" id="node2" href="$d0/d8e/classG4GeneralParticleSource.html#a31ff2340d645d9fe779e0fc237fb8c8a" title="G4GeneralParticleSource\l::AddaSource" alt="" coords="302,33,491,77"/>
+<area shape="rect" id="node4" href="$dc/d45/classG4GPSModel.html#a96e5036f410975a32ebd67e5a504501a" title="G4GPSModel::DescribeYourselfTo" alt="" coords="275,429,519,457"/>
+<area shape="rect" id="node5" href="$d0/d8e/classG4GeneralParticleSource.html#af77ae43b185f969ce7e11c54636b59aa" title="G4GeneralParticleSource\l::G4GeneralParticleSource" alt="" coords="297,481,496,525"/>
+<area shape="rect" id="node6" href="$d0/d8e/classG4GeneralParticleSource.html#a3bad822716e610498134bd9ad9c4738b" title="G4GeneralParticleSource\l::GeneratePrimaryVertex" alt="" coords="302,549,491,593"/>
+<area shape="rect" id="node19" href="$d0/d8e/classG4GeneralParticleSource.html#aab1e20fa3490ccaefeb8097319d84ee0" title="G4GeneralParticleSource\l::GetCurrentSource" alt="" coords="302,635,491,679"/>
+<area shape="rect" id="node20" href="$d0/d8e/classG4GeneralParticleSource.html#a0100207bfa75f2067a5e3ac26a6d8db7" title="G4GeneralParticleSource\l::GetNumberOfParticles" alt="" coords="302,1111,491,1155"/>
+<area shape="rect" id="node21" href="$d0/d8e/classG4GeneralParticleSource.html#a005a81d340a370dbda48b10d902b2a9e" title="G4GeneralParticleSource\l::GetParticleDefinition" alt="" coords="302,839,491,883"/>
+<area shape="rect" id="node23" href="$d0/d8e/classG4GeneralParticleSource.html#a7b2300fe0eee7b30e9dcea702a84d950" title="G4GeneralParticleSource\l::GetParticleEnergy" alt="" coords="302,703,491,747"/>
+<area shape="rect" id="node24" href="$d0/d8e/classG4GeneralParticleSource.html#aa8cbd291c43e94dcfb651eeb32553fb7" title="G4GeneralParticleSource\l::GetParticleMomentumDirection" alt="" coords="276,1043,517,1087"/>
+<area shape="rect" id="node25" href="$d0/d8e/classG4GeneralParticleSource.html#a072ad2fa7be136013db5e3fed2708050" title="G4GeneralParticleSource\l::GetParticlePolarization" alt="" coords="302,1179,491,1223"/>
+<area shape="rect" id="node26" href="$d0/d8e/classG4GeneralParticleSource.html#a0fa0a14bb54e4349f4e6fb60f54b9b74" title="G4GeneralParticleSource\l::GetParticlePosition" alt="" coords="302,1247,491,1291"/>
+<area shape="rect" id="node27" href="$d0/d8e/classG4GeneralParticleSource.html#a9e0ceed3fbe915e096a52e9910116578" title="G4GeneralParticleSource\l::GetParticleTime" alt="" coords="302,1315,491,1359"/>
+<area shape="rect" id="node28" href="$d0/d8e/classG4GeneralParticleSource.html#abf7c44e728b0e745912a1ede5fa5ffec" title="G4GeneralParticleSource\l::ListSource" alt="" coords="302,156,491,200"/>
+<area shape="rect" id="node29" href="$d0/d8e/classG4GeneralParticleSource.html#a84b9e4f1314fd9022cfe7941aab527ae" title="G4GeneralParticleSource\l::SetCurrentSourceto" alt="" coords="302,333,491,377"/>
+<area shape="rect" id="node30" href="$d0/d8e/classG4GeneralParticleSource.html#ae19577f1b125d59eaa08392625b067e5" title="G4GeneralParticleSource\l::SetNumberOfParticles" alt="" coords="302,771,491,815"/>
+<area shape="rect" id="node31" href="$d0/d8e/classG4GeneralParticleSource.html#aa395ba3f1a15f2dcfe3764707e42501a" title="G4GeneralParticleSource\l::SetParticleCharge" alt="" coords="302,1383,491,1427"/>
+<area shape="rect" id="node32" href="$d0/d8e/classG4GeneralParticleSource.html#abe6a91e9ff6502102db3e68890a4a9b8" title="G4GeneralParticleSource\l::SetParticleDefinition" alt="" coords="302,1451,491,1495"/>
+<area shape="rect" id="node34" href="$d0/d8e/classG4GeneralParticleSource.html#a89f5006062801ee3e04c38e0213d1255" title="G4GeneralParticleSource\l::SetParticlePolarization" alt="" coords="302,975,491,1019"/>
+<area shape="rect" id="node35" href="$d0/d8e/classG4GeneralParticleSource.html#a0423eb7882d57e8143fe33e314c42270" title="G4GeneralParticleSource\l::SetParticleTime" alt="" coords="302,907,491,951"/>
+<area shape="rect" id="node3" href="$d9/d1c/classG4GeneralParticleSourceMessenger.html#add562b7a8b10db91ff3a7b810274bffe" title="G4GeneralParticleSourceMessenger\l::SetNewValue" alt="" coords="567,5,831,49"/>
+<area shape="rect" id="node7" href="$d3/df8/classGammaKnifePrimaryGeneratorAction.html#a7e3141006347cdf1d345f2a9ed5b6483" title="GammaKnifePrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="583,413,814,457"/>
+<area shape="rect" id="node8" href="$d8/d5f/classExGflashPrimaryGeneratorAction.html#a378041d12781f3aade9c6e9be9e4c064" title="ExGflashPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="597,481,800,525"/>
+<area shape="rect" id="node9" href="$db/da5/classElectronPrimaryGeneratorAction.html#aeb5d0186c5a741174b99cfd02b1a5589" title="ElectronPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="599,549,799,593"/>
+<area shape="rect" id="node10" href="$dd/d8c/classSTCyclotronPrimaryGeneratorAction.html#a2e6aa43d9e7a1835a954fd2fc9695f53" title="STCyclotronPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="587,805,810,849"/>
+<area shape="rect" id="node11" href="$d4/d20/classHadrontherapyPrimaryGeneratorAction.html#af907ca21052fe930d642b84ffcff5cbc" title="HadrontherapyPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="577,669,821,713"/>
+<area shape="rect" id="node12" href="$d1/d9e/classGpsPrimaryGeneratorAction.html#ab33078dccaf5e79ff91a4941f2d1d0c5" title="GpsPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="594,73,803,117"/>
+<area shape="rect" id="node13" href="$dc/d36/classWLSPrimaryGeneratorAction.html#aa00ccd425aec3109b7189c01e012ee44" title="WLSPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="879,865,1092,909"/>
+<area shape="rect" id="node14" href="$d0/dbb/classRMC01PrimaryGeneratorAction.html#a7455e9d469e79da4d0b7f20307a47311" title="RMC01PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="583,141,814,185"/>
+<area shape="rect" id="node15" href="$df/d11/classUltraPrimaryGeneratorAction.html#a510c25b2e4a768c58d3e7ebd14dfdaa8" title="UltraPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="591,737,807,781"/>
+<area shape="rect" id="node16" href="$d4/dca/classdoiPETPrimaryGeneratorAction.html#aaa920c00a1a449e72156642475d2f468" title="doiPETPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="584,209,813,253"/>
+<area shape="rect" id="node17" href="$dd/de2/classGammaRayTelPrimaryGeneratorAction.html#a0ebeecb66d212b820a300b5de074de92" title="GammaRayTelPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="579,277,819,321"/>
+<area shape="rect" id="node18" href="$df/dd8/classXrayTelPrimaryGeneratorAction.html#a20668ece5ade2bdea96731471304c2ce" title="XrayTelPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="583,345,815,389"/>
+<area shape="rect" id="node22" href="$dc/d36/classWLSPrimaryGeneratorAction.html#ad79abb69d958e674670833715c939de0" title="WLSPrimaryGeneratorAction\l::SetOptPhotonPolar" alt="" coords="592,993,805,1037"/>
+<area shape="rect" id="node33" href="$de/dda/classGammaKnifeActionInitialization.html#a34048cdc8111f159da5b2b966d724dc4" title="GammaKnifeActionInitialization\l::GammaKnifeActionInitialization" alt="" coords="577,1451,820,1495"/>
+<area shape="rect" id="node36" href="$dc/d36/classWLSPrimaryGeneratorAction.html#a408816ab9958cc78588668b4fa775f18" title="WLSPrimaryGeneratorAction\l::SetOptPhotonTime" alt="" coords="592,925,805,969"/>
+</map>

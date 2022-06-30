@@ -1,0 +1,29 @@
+<map id="G4tgrVolumeMgr::G4tgrVolumeMgr" name="G4tgrVolumeMgr::G4tgrVolumeMgr">
+<area shape="rect" id="node2" href="$dc/df7/classG4tgrVolumeMgr.html#ab9a9efdf98a4f859a13543f75ce3247f" title="G4tgrVolumeMgr::GetInstance" alt="" coords="313,429,539,457"/>
+<area shape="rect" id="node3" href="$db/df1/classExTGRCDetectorBuilder.html#aa4c8965bfb5b924dfdd74c8563aad75a" title="ExTGRCDetectorBuilder\l::ReadDetector" alt="" coords="1380,113,1561,157"/>
+<area shape="rect" id="node5" href="$d9/d6c/classG4tgbDetectorBuilder.html#aab650e921a433f52207f4bf571d5ca20" title="G4tgbDetectorBuilder\l::ReadDetector" alt="" coords="1385,181,1556,225"/>
+<area shape="rect" id="node11" href="$da/d27/classG4tgbDetectorConstruction.html#a7853d57e0b71d49746d04bc716d725c3" title="G4tgbDetectorConstruction\l::Construct" alt="" coords="875,416,1081,460"/>
+<area shape="rect" id="node12" href="$d1/d78/classG4tgbVolume.html#a914b6aefd21c8a951b8d863b12170f61" title="G4tgbVolume::ConstructG4\lVolumes" alt="" coords="603,334,810,378"/>
+<area shape="rect" id="node16" href="$de/dd0/classG4tgbVolumeMgr.html#acbdddcf4345768ba2cf4adc9b07c769a" title="G4tgbVolumeMgr::CopyVolumes" alt="" coords="587,454,827,482"/>
+<area shape="rect" id="node17" href="$d6/dfd/classG4tgrLineProcessor.html#a621f1d6a9f86c501b7c02c81f1b06284" title="G4tgrLineProcessor\l::G4tgrLineProcessor" alt="" coords="625,506,788,550"/>
+<area shape="rect" id="node18" href="$d8/d3d/classG4tgrSolid.html#ae3618e513c95eb8d646712a6ea2d8ef6" title="G4tgrSolid::G4tgrSolid" alt="" coords="620,574,793,602"/>
+<area shape="rect" id="node19" href="$d9/db9/classG4tgrSolidBoolean.html#a20561308fd7505e344661c2f373f7d52" title="G4tgrSolidBoolean::\lG4tgrSolidBoolean" alt="" coords="629,626,785,670"/>
+<area shape="rect" id="node20" href="$d5/df8/classG4tgrVolume.html#ae98d9276e9d700d65bd5191c99c38f75" title="G4tgrVolume::G4tgrVolume" alt="" coords="603,694,811,722"/>
+<area shape="rect" id="node21" href="$d5/df8/classG4tgrVolume.html#a6a31137249d5e77c8af8ed20f6669896" title="G4tgrVolume::AddPlace" alt="" coords="616,154,797,182"/>
+<area shape="rect" id="node25" href="$d5/df8/classG4tgrVolume.html#a8353d64d0ef1ff735e117beed683c62d" title="G4tgrVolume::AddPlaceReplica" alt="" coords="592,206,821,234"/>
+<area shape="rect" id="node26" href="$d5/df8/classG4tgrVolume.html#a816cdb747d147acf9b7d98024314adf5" title="G4tgrVolume::AddPlaceParam" alt="" coords="595,102,819,130"/>
+<area shape="rect" id="node27" href="$d0/d3f/classG4tgrVolumeAssembly.html#ac7718b7a09feae345bb085d0ad9226d8" title="G4tgrVolumeAssembly\l::AddPlace" alt="" coords="619,746,795,790"/>
+<area shape="rect" id="node28" href="$d5/dcd/classG4tgrVolumeDivision.html#a2adebb911933020686da62480517f52d" title="G4tgrVolumeDivision\l::G4tgrVolumeDivision" alt="" coords="621,814,793,858"/>
+<area shape="rect" id="node4" href="$d2/df7/classExTGDetectorConstructionWithCuts.html#abf59f7df480dc283c3c0db9ff401dd01" title="ExTGDetectorConstruction\lWithCuts::Construct" alt="" coords="1647,145,1847,189"/>
+<area shape="rect" id="node6" href="$de/dd0/classG4tgbVolumeMgr.html#a93803d6bb5fccb055fae6c61d57cd701" title="G4tgbVolumeMgr::ReadAndConstruct\lDetector" alt="" coords="1609,245,1884,289"/>
+<area shape="rect" id="node7" href="$d1/d9e/classExTGDetectorConstruction.html#ad1890aaa7d14667f91da538a415f2f6f" title="ExTGDetectorConstruction\l::Construct" alt="" coords="1932,142,2132,186"/>
+<area shape="rect" id="node8" href="$dd/d04/classExTGDetectorConstructionWithSD.html#a5c23eff76ef15a2939eb7dd855f544d1" title="ExTGDetectorConstruction\lWithSD::Construct" alt="" coords="1932,210,2132,254"/>
+<area shape="rect" id="node9" href="$da/d45/classExTGDetectorConstructionWithCpp.html#ac70c77fdcf1806ced6b5132d801b37c5" title="ExTGDetectorConstruction\lWithCpp::Construct" alt="" coords="1932,278,2132,322"/>
+<area shape="rect" id="node10" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="1951,346,2113,390"/>
+<area shape="rect" id="node13" href="$d9/d6c/classG4tgbDetectorBuilder.html#aa7113e3f68d1d769caad5cfa89bc0244" title="G4tgbDetectorBuilder\l::ConstructDetector" alt="" coords="1145,301,1316,345"/>
+<area shape="rect" id="node15" href="$d1/d78/classG4tgbVolume.html#a0cc2371fc97f047c9f0ac69f791fd8f7" title="G4tgbVolume::ConstructG4\lPhysVol" alt="" coords="875,348,1081,392"/>
+<area shape="rect" id="node14" href="$db/df1/classExTGRCDetectorBuilder.html#a1ebdf86f4ee2d4d102c10e1dd5601de1" title="ExTGRCDetectorBuilder\l::ConstructDetector" alt="" coords="1380,249,1561,293"/>
+<area shape="rect" id="node22" href="$d6/dfd/classG4tgrLineProcessor.html#a2c3b5fd3439ca2b15035f38240c3ed48" title="G4tgrLineProcessor\l::ProcessLine" alt="" coords="901,146,1055,190"/>
+<area shape="rect" id="node23" href="$d0/d1d/classExTGRCLineProcessor.html#ad38f0d4a88de42ab077a372f52ce38e7" title="ExTGRCLineProcessor\l::ProcessLine" alt="" coords="1147,112,1315,156"/>
+<area shape="rect" id="node24" href="$d5/da5/classG4tgrFileReader.html#a5b57f0d7eec4d4c5f121e33ef694b18c" title="G4tgrFileReader::ReadFiles" alt="" coords="1129,180,1332,208"/>
+</map>

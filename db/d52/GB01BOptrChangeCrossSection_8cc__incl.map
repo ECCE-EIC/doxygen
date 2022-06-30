@@ -1,0 +1,43 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB01/src/GB01BOptrChangeCrossSection.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB01/src/GB01BOptrChangeCrossSection.cc">
+<area shape="rect" id="node2" href="$d2/d6d/GB01BOptrChangeCrossSection_8hh.html" title="Definition of the GB01BOptrChangeCrossSection class." alt="" coords="82,205,339,233"/>
+<area shape="rect" id="node21" href="$d8/d81/G4BiasingProcessInterface_8hh.html" title="G4BiasingProcessInterface.hh" alt="" coords="1045,205,1267,233"/>
+<area shape="rect" id="node22" href="$d0/d85/G4VProcess_8hh.html" title="G4VProcess.hh" alt="" coords="2086,281,2207,309"/>
+<area shape="rect" id="node30" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="2912,357,3029,385"/>
+<area shape="rect" id="node40" href="$db/d63/G4BOptnChangeCrossSection_8hh.html" title="G4BOptnChangeCrossSection.hh" alt="" coords="2248,129,2491,157"/>
+<area shape="rect" id="node42" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1182,281,1359,309"/>
+<area shape="rect" id="node46" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="1352,129,1499,157"/>
+<area shape="rect" id="node49" href="$db/dcc/G4InteractionLawPhysical_8hh.html" title="G4InteractionLawPhysical.hh" alt="" coords="1872,129,2088,157"/>
+<area shape="rect" id="node3" href="$d0/d56/G4VBiasingOperator_8hh.html" title="G4VBiasingOperator.hh" alt="" coords="161,281,340,309"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1485,585,1576,613"/>
+<area shape="rect" id="node14" href="$d1/d40/G4BiasingAppliedCase_8hh.html" title="G4BiasingAppliedCase.hh" alt="" coords="44,357,239,385"/>
+<area shape="rect" id="node15" href="$d2/d5f/G4Cache_8hh.html" title="G4Cache.hh" alt="" coords="592,357,696,385"/>
+<area shape="rect" id="node20" href="$d5/db9/G4VStateDependent_8hh.html" title="G4VStateDependent.hh" alt="" coords="5,737,187,765"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1435,813,1517,841"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="973,889,1073,917"/>
+<area shape="rect" id="node8" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="972,813,1073,841"/>
+<area shape="rect" id="node9" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1475,661,1586,689"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1111,737,1239,765"/>
+<area shape="rect" id="node11" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1010,661,1187,689"/>
+<area shape="rect" id="node18" href="$d8/d7b/G4AutoLock_8hh.html" title="G4AutoLock.hh" alt="" coords="708,433,831,461"/>
+<area shape="rect" id="node19" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="563,509,693,537"/>
+<area shape="rect" id="node39" href="$df/da0/G4BiasingProcessSharedData_8hh.html" title="G4BiasingProcessSharedData.hh" alt="" coords="706,281,947,309"/>
+<area shape="rect" id="node24" href="$d1/d4b/G4PhysicsTable_8hh.html" title="G4PhysicsTable.hh" alt="" coords="1245,509,1392,537"/>
+<area shape="rect" id="node25" href="$d6/d6a/G4VParticleChange_8hh.html" title="G4VParticleChange.hh" alt="" coords="2230,509,2402,537"/>
+<area shape="rect" id="node26" href="$d6/d64/G4ForceCondition_8hh.html" title="G4ForceCondition.hh" alt="" coords="2293,357,2456,385"/>
+<area shape="rect" id="node27" href="$de/d2e/G4GPILSelection_8hh.html" title="G4GPILSelection.hh" alt="" coords="2481,357,2634,385"/>
+<area shape="rect" id="node28" href="$d9/de6/G4ParticleChange_8hh.html" title="G4ParticleChange.hh" alt="" coords="2141,433,2304,461"/>
+<area shape="rect" id="node29" href="$d7/da3/G4ProcessType_8hh.html" title="G4ProcessType.hh" alt="" coords="1872,357,2016,385"/>
+<area shape="rect" id="node31" href="$d5/dea/Randomize_8h.html" title="CLHEP/Random/Randomize.h" alt="" coords="2890,433,3107,461"/>
+<area shape="rect" id="node32" href="$dd/d8b/RandExponential_8h.html" title="CLHEP/Random/RandExponential.h" alt="" coords="3301,509,3558,537"/>
+<area shape="rect" id="node33" href="$db/df5/RandFlat_8h.html" title="CLHEP/Random/RandFlat.h" alt="" coords="3579,585,3781,613"/>
+<area shape="rect" id="node34" href="$d4/d47/RandBit_8h.html" title="CLHEP/Random/RandBit.h" alt="" coords="3583,509,3777,537"/>
+<area shape="rect" id="node35" href="$dd/df9/RandGamma_8h.html" title="CLHEP/Random/RandGamma.h" alt="" coords="2478,509,2709,537"/>
+<area shape="rect" id="node36" href="$d9/db8/RandGaussQ_8h.html" title="CLHEP/Random/RandGaussQ.h" alt="" coords="2733,509,2963,537"/>
+<area shape="rect" id="node37" href="$db/db0/RandGeneral_8h.html" title="CLHEP/Random/RandGeneral.h" alt="" coords="1822,509,2053,537"/>
+<area shape="rect" id="node38" href="$dd/d36/RandPoissonQ_8h.html" title="CLHEP/Random/RandPoissonQ.h" alt="" coords="3038,509,3277,537"/>
+<area shape="rect" id="node41" href="$d8/d3a/G4VBiasingOperation_8hh.html" title="G4VBiasingOperation.hh" alt="" coords="2335,281,2523,309"/>
+<area shape="rect" id="node43" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="1149,357,1392,385"/>
+<area shape="rect" id="node44" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="873,357,1023,385"/>
+<area shape="rect" id="node47" href="$dc/dcc/G4ParticleTableIterator_8hh.html" title="G4ParticleTableIterator.hh" alt="" coords="415,205,609,233"/>
+<area shape="rect" id="node50" href="$d8/dbc/G4VBiasingInteractionLaw_8hh.html" title="G4VBiasingInteractionLaw.hh" alt="" coords="1003,509,1221,537"/>
+</map>

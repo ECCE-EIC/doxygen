@@ -1,0 +1,51 @@
+<map id="HepGeom::BasicVector3D::cross" name="HepGeom::BasicVector3D::cross">
+<area shape="rect" id="node2" href="$d8/d3c/classG4ErrorSurfaceTrajState.html#a16ee1fc3318b012e3b9ddf02377da6d8" title="G4ErrorSurfaceTrajState\l::BuildErrorMatrix" alt="" coords="291,5,475,49"/>
+<area shape="rect" id="node4" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a4d677490d51a2571ecd21ea86999f047" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="277,73,488,117"/>
+<area shape="rect" id="node7" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a336079ef7a9454e05a0663b43e46f1f4" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="283,225,483,269"/>
+<area shape="rect" id="node10" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a8538de3102407fb6d53ed0b7b75a3b14" title="Fully projective spacal with 2D tapered modules. To speed up construction, same&#45;length fiber is used ..." alt="" coords="249,141,516,201"/>
+<area shape="rect" id="node11" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#ae874143d799ba53ee1902573913a2437" title="Fully projective spacal with 2D tapered modules. To speed up construction, same&#45;length fiber is used ..." alt="" coords="279,293,487,353"/>
+<area shape="rect" id="node12" href="$da/d94/classG4VSceneHandler.html#a6356d20564b847538003003e39715f3c" title="G4VSceneHandler::CreateSection\lSolid" alt="" coords="259,377,507,421"/>
+<area shape="rect" id="node17" href="$de/d15/classG4ErrorFreeTrajState.html#a9cd80cbe18b812e160b6e03ca7c9c1b0" title="G4ErrorFreeTrajState\l::G4ErrorFreeTrajState" alt="" coords="297,445,468,489"/>
+<area shape="rect" id="node18" href="$d4/d80/classG4ErrorSurfaceTrajParam.html#a74e6b26ff8daba0b3a0c3b128035f5dd" title="G4ErrorSurfaceTrajParam\l::GetPlaneNormal" alt="" coords="287,513,478,557"/>
+<area shape="rect" id="node19" href="$d7/dc2/classG4ViewParameters.html#a77c403c078eb4a0bbc9fc57bf65f491f" title="G4ViewParameters::IncrementPan" alt="" coords="257,581,508,609"/>
+<area shape="rect" id="node20" href="$d7/dc2/classG4ViewParameters.html#abf35429d6cc42c1790f57b457f59eef1" title="G4ViewParameters::SetPan" alt="" coords="281,633,485,661"/>
+<area shape="rect" id="node22" href="$d5/d3e/classG4ErrorFreeTrajParam.html#acd1a562d8673d38ef51f0466184e37a0" title="G4ErrorFreeTrajParam\l::SetParameters" alt="" coords="299,685,467,729"/>
+<area shape="rect" id="node29" href="$d7/dc2/classG4ViewParameters.html#a0b211a52b303d871d71c77899a29e239" title="G4ViewParameters::SetView\lAndLights" alt="" coords="276,753,489,797"/>
+<area shape="rect" id="node33" href="$d3/d94/classHepPolyhedron.html#a885d9d8f789757a7485b3df548e81016" title="HepPolyhedron::Transform" alt="" coords="283,1176,483,1204"/>
+<area shape="rect" id="node50" href="$dd/de6/classHepGeom_1_1Transform3D.html#a9272a6ceb1ad850e4884dd9e7b594b5d" title="HepGeom::Transform3D\l::Transform3D" alt="" coords="291,1228,475,1272"/>
+<area shape="rect" id="node3" href="$d8/d3c/classG4ErrorSurfaceTrajState.html#adb7a43d441ce461e4144f459ccf078bd" title="G4ErrorSurfaceTrajState\l::G4ErrorSurfaceTrajState" alt="" coords="597,5,790,49"/>
+<area shape="rect" id="node5" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a41ebdae7499c21d2735235a485d0d2db" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="588,112,799,156"/>
+<area shape="rect" id="node6" href="$d1/d05/classPHG4FullProjSpacalDetector.html#afd4c65353754d4baff1ed614a2aca247" title="PHG4FullProjSpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="892,112,1103,156"/>
+<area shape="rect" id="node8" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#aed852e1cd37df4b6683b1b188551cad0" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="593,237,793,281"/>
+<area shape="rect" id="node9" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a5d52892d52c8020e2e81e981b47a1220" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="871,237,1124,281"/>
+<area shape="rect" id="node13" href="$da/d94/classG4VSceneHandler.html#a30f2bc81348bb9d5e5a6a3a879cb35a4" title="G4VSceneHandler::CreateModeling\lParameters" alt="" coords="564,377,823,421"/>
+<area shape="rect" id="node14" href="$da/d94/classG4VSceneHandler.html#a9f763f979fba834380c774a321510de0" title="G4VSceneHandler::DrawEnd\lOfRunModels" alt="" coords="891,317,1104,361"/>
+<area shape="rect" id="node15" href="$da/d94/classG4VSceneHandler.html#a80507612b09093a8a4b48d0a9edeafab" title="G4VSceneHandler::Process\lScene" alt="" coords="1172,377,1376,421"/>
+<area shape="rect" id="node16" href="$da/d94/classG4VSceneHandler.html#a245dd6b07e1d4b54ff1b23b33c94d04f" title="G4VSceneHandler::DrawEvent" alt="" coords="883,437,1111,465"/>
+<area shape="rect" id="node21" href="$d2/d9e/classG4VisCommandViewerPan.html#ae0a1f3784b6db1ca6c5ae177ec675d2e" title="G4VisCommandViewerPan\l::SetNewValue" alt="" coords="593,485,793,529"/>
+<area shape="rect" id="node23" href="$d5/d3e/classG4ErrorFreeTrajParam.html#a230adcd458c2bf31fa72db34d0e853ae" title="G4ErrorFreeTrajParam\l::G4ErrorFreeTrajParam" alt="" coords="605,553,782,597"/>
+<area shape="rect" id="node24" href="$de/d15/classG4ErrorFreeTrajState.html#a5ff09041757d2c88be7ca8c986485c6b" title="G4ErrorFreeTrajState\l::SetParameters" alt="" coords="613,621,774,665"/>
+<area shape="rect" id="node27" href="$d5/d3e/classG4ErrorFreeTrajParam.html#a0593a01e882f2da241252b91fcf733b3" title="G4ErrorFreeTrajParam\l::Update" alt="" coords="609,689,777,733"/>
+<area shape="rect" id="node25" href="$de/d15/classG4ErrorFreeTrajState.html#a63c1b815f814be7a9fa8aff3bfd62a39" title="G4ErrorFreeTrajState\l::SetMomentum" alt="" coords="917,553,1078,597"/>
+<area shape="rect" id="node26" href="$de/d15/classG4ErrorFreeTrajState.html#ad68a0ba17d166faff8016a4f2f41cab8" title="G4ErrorFreeTrajState\l::SetPosition" alt="" coords="917,621,1078,665"/>
+<area shape="rect" id="node28" href="$de/d15/classG4ErrorFreeTrajState.html#a0823895bc22feb9c2930f73980016041" title="G4ErrorFreeTrajState\l::Update" alt="" coords="917,689,1078,733"/>
+<area shape="rect" id="node30" href="$d7/dc2/classG4ViewParameters.html#a37c87df03634c095ce4c34728ca6a6ef" title="G4ViewParameters::GetActual\lLightpointDirection" alt="" coords="581,809,805,853"/>
+<area shape="rect" id="node31" href="$dc/dc7/classG4VisCommandsViewerSet.html#a240e495aa7cbc48083fca180dd50e9cf" title="G4VisCommandsViewerSet\l::SetNewValue" alt="" coords="895,757,1100,801"/>
+<area shape="rect" id="node32" href="$d5/dee/classG4RayTracerViewer.html#aa49613cc6ec3435609c51009e3e7d07d" title="G4RayTracerViewer::\lSetView" alt="" coords="917,825,1078,869"/>
+<area shape="rect" id="node34" href="$df/d82/classG4GMocrenFileSceneHandler.html#a7b10fa770ac50af7107447130f5c42e9" title="G4GMocrenFileSceneHandler\l::AddSolid" alt="" coords="584,877,803,921"/>
+<area shape="rect" id="node35" href="$d8/d8b/classG4EllipticalTube.html#a2c0bb4b8401f9c5c2c027e5e62e21ec8" title="G4EllipticalTube::Create\lPolyhedron" alt="" coords="602,945,785,989"/>
+<area shape="rect" id="node37" href="$d0/dc1/classG4ScaledSolid.html#a740a38078a4f2ac2a6fb0cf1173a9411" title="G4ScaledSolid::CreatePolyhedron" alt="" coords="569,1013,817,1041"/>
+<area shape="rect" id="node39" href="$d8/d32/classG4ReflectedSolid.html#a12b79c68e20c1ce23a8914037659e33f" title="G4ReflectedSolid::Create\lPolyhedron" alt="" coords="598,1065,789,1109"/>
+<area shape="rect" id="node41" href="$d5/dfb/classG4DisplacedSolid.html#a9984d323c1d27e4c9b86d93a20242621" title="G4DisplacedSolid::Create\lPolyhedron" alt="" coords="597,1133,790,1177"/>
+<area shape="rect" id="node43" href="$d3/db7/classStandaloneVisAction.html#aaad068c3c3469a7b328011398dcd0772" title="StandaloneVisAction\l::Draw" alt="" coords="613,1201,773,1245"/>
+<area shape="rect" id="node44" href="$d2/d9c/classG4ScoringCylinder.html#ae884d624718bb3ce0d38d9da013212c0" title="G4ScoringCylinder::Draw" alt="" coords="597,1269,789,1297"/>
+<area shape="rect" id="node45" href="$dc/da1/classG4ScoringBox.html#a372650a9284cc4295a783d3cf18c2d9b" title="G4ScoringBox::Draw" alt="" coords="613,1321,774,1349"/>
+<area shape="rect" id="node46" href="$d2/d9c/classG4ScoringCylinder.html#a60493628d399478181ea80ff3ff97d95" title="G4ScoringCylinder::\lDrawColumn" alt="" coords="616,1373,771,1417"/>
+<area shape="rect" id="node47" href="$dc/da1/classG4ScoringBox.html#abb34edfe864d0b79b472be896e9572aa" title="G4ScoringBox::DrawColumn" alt="" coords="587,1441,799,1469"/>
+<area shape="rect" id="node48" href="$df/d82/classG4GMocrenFileSceneHandler.html#a87f2058d445cb5082051bb612944361d" title="G4GMocrenFileSceneHandler\l::ExtractDetector" alt="" coords="584,1493,803,1537"/>
+<area shape="rect" id="node49" href="$d7/d6b/classG4ArrowModel.html#abdb205c19cd6550fa6c607006b5c4232" title="G4ArrowModel::G4ArrowModel" alt="" coords="580,1561,807,1589"/>
+<area shape="rect" id="node36" href="$d8/d8b/classG4EllipticalTube.html#a3636af83098a1247ba77a467870317ca" title="G4EllipticalTube::GetPolyhedron" alt="" coords="879,953,1116,981"/>
+<area shape="rect" id="node38" href="$d0/dc1/classG4ScaledSolid.html#abb914bed6b6406e3c69965d8d2821d81" title="G4ScaledSolid::GetPolyhedron" alt="" coords="884,1013,1111,1041"/>
+<area shape="rect" id="node40" href="$d8/d32/classG4ReflectedSolid.html#a22246f0657be2c7853a7aa6364be39fd" title="G4ReflectedSolid::GetPolyhedron" alt="" coords="875,1073,1120,1101"/>
+<area shape="rect" id="node42" href="$d5/dfb/classG4DisplacedSolid.html#a93948567dd03bb1a4be0ddee6de8aa11" title="G4DisplacedSolid::GetPolyhedron" alt="" coords="873,1141,1121,1169"/>
+</map>

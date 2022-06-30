@@ -1,0 +1,26 @@
+var classG4Evaporation =
+[
+    [ "G4Evaporation", "dc/d86/classG4Evaporation.html#a311700d5d9957354223c9ed622fb1e3f", null ],
+    [ "~G4Evaporation", "dc/d86/classG4Evaporation.html#aac87ef46cc671624e46fa41ddeed6095", null ],
+    [ "G4Evaporation", "dc/d86/classG4Evaporation.html#a376d11bc81908c08757d6f5702223acb", null ],
+    [ "BreakFragment", "dc/d86/classG4Evaporation.html#adbb4e87e4c04111354659a4080e5abe2", null ],
+    [ "InitialiseChannelFactory", "dc/d86/classG4Evaporation.html#ab882fbba75d7326ce86d6aed89a2e812", null ],
+    [ "InitialiseChannels", "dc/d86/classG4Evaporation.html#a576f0e27fb44d801fcf3b7b8ff0f0539", null ],
+    [ "operator!=", "dc/d86/classG4Evaporation.html#a16bc45b27c5b7a18265656532c5dc36c", null ],
+    [ "operator=", "dc/d86/classG4Evaporation.html#adab1f361db546fe5def5208561042b92", null ],
+    [ "operator==", "dc/d86/classG4Evaporation.html#a361a9985a5fe06fe35992475a6fd32d8", null ],
+    [ "SetCombinedChannel", "dc/d86/classG4Evaporation.html#a87aefff71f813e3ba6e88437bc9b8504", null ],
+    [ "SetDefaultChannel", "dc/d86/classG4Evaporation.html#a6ca777f2ea501d470b1ed5f0979d80b2", null ],
+    [ "SetGEMChannel", "dc/d86/classG4Evaporation.html#a655cf12a79d38fda5e5ea4db1cc38c9d", null ],
+    [ "SetGEMVIChannel", "dc/d86/classG4Evaporation.html#ad0352301e156d3a5bf8f8b9c7a21903a", null ],
+    [ "channelType", "dc/d86/classG4Evaporation.html#ad08ec69f058a65a29d6e8efd0e5f0e2c", null ],
+    [ "fLevelData", "dc/d86/classG4Evaporation.html#a6d7a068933757dd788c7adbd3dd360e6", null ],
+    [ "fVerbose", "dc/d86/classG4Evaporation.html#acb87d0cfc1f658fcd0157ebabf3f34b5", null ],
+    [ "isInitialised", "dc/d86/classG4Evaporation.html#a87bbd3be2015d52e7719036417ee905d", null ],
+    [ "minExcitation", "dc/d86/classG4Evaporation.html#adec00ec923cdde5cdd80ce895b38917f", null ],
+    [ "nChannels", "dc/d86/classG4Evaporation.html#a00d007812e2f6e5d99423f1086518b22", null ],
+    [ "nist", "dc/d86/classG4Evaporation.html#ae296d61045902e8be6fc85665435c77d", null ],
+    [ "probabilities", "dc/d86/classG4Evaporation.html#ab6134367f45798ad77342863d88eb25e", null ],
+    [ "theTableOfIons", "dc/d86/classG4Evaporation.html#ab30f812ceb840be83971c1a570e5ca6b", null ],
+    [ "unstableBreakUp", "dc/d86/classG4Evaporation.html#a651ccb31baf3ef11edda89aa4ad98101", null ]
+];

@@ -1,0 +1,27 @@
+var classPurgMagPhysicsList =
+[
+    [ "PurgMagPhysicsList", "dc/d12/classPurgMagPhysicsList.html#a8b966b978591209548b4c40f322bacfa", null ],
+    [ "~PurgMagPhysicsList", "dc/d12/classPurgMagPhysicsList.html#a0a963a3fd0120d156f851103f6447884", null ],
+    [ "ConstructBarions", "dc/d12/classPurgMagPhysicsList.html#a7a6fa6d3303187810360ac7229143f86", null ],
+    [ "ConstructBosons", "dc/d12/classPurgMagPhysicsList.html#af6141239e607fecd1da6a8f0cec3b600", null ],
+    [ "ConstructEM", "dc/d12/classPurgMagPhysicsList.html#a7e7e88f9d7f8c84ade665b7b195ceeb4", null ],
+    [ "ConstructGeneral", "dc/d12/classPurgMagPhysicsList.html#a79a33ca7284ae9e5cdc8888c5fd160c4", null ],
+    [ "ConstructLeptons", "dc/d12/classPurgMagPhysicsList.html#ae6c611e9bc8f1433625dcbb99a412eaf", null ],
+    [ "ConstructParticle", "dc/d12/classPurgMagPhysicsList.html#a51d07c0a652132d409b3598d2304d07d", null ],
+    [ "ConstructProcess", "dc/d12/classPurgMagPhysicsList.html#aee820ba064189cbf279f8df60760e4f4", null ],
+    [ "SetCuts", "dc/d12/classPurgMagPhysicsList.html#ae0a375dc1ff4de2eb6261b589de3fe79", null ],
+    [ "SetElectronCut", "dc/d12/classPurgMagPhysicsList.html#a519fd8cd062d55de83ac9e67e65cd500", null ],
+    [ "SetElectronLowLimit", "dc/d12/classPurgMagPhysicsList.html#a97342045f1a4e418ec07fedf821d90ea", null ],
+    [ "SetGammaCut", "dc/d12/classPurgMagPhysicsList.html#a37cd80ee4a6680c3bc0cdf8b3644d9d3", null ],
+    [ "SetGammaLowLimit", "dc/d12/classPurgMagPhysicsList.html#ac5054165ce6676827b00578f4d2ab5c8", null ],
+    [ "SetGELowLimit", "dc/d12/classPurgMagPhysicsList.html#acd89856ec2d6adace15d43f2584962c4", null ],
+    [ "SetGEPLowLimit", "dc/d12/classPurgMagPhysicsList.html#a0c2fa78583dc1472f3fff513fc596a5d", null ],
+    [ "SetPositronCut", "dc/d12/classPurgMagPhysicsList.html#a0e705452f972b4c001cccde46bffe2c5", null ],
+    [ "SetPositronLowLimit", "dc/d12/classPurgMagPhysicsList.html#ad8e9443379ebb2bb3acb818532d18db8", null ],
+    [ "SetProtonCut", "dc/d12/classPurgMagPhysicsList.html#a09121dea11eaf194e42e7c5ba9316dec", null ],
+    [ "SetProtonLowLimit", "dc/d12/classPurgMagPhysicsList.html#a66c755af9f8e2f64233a2bc7ea0f9498", null ],
+    [ "cutForElectron", "dc/d12/classPurgMagPhysicsList.html#aee5ea7d3a4243900d78ede358eccc2f9", null ],
+    [ "cutForGamma", "dc/d12/classPurgMagPhysicsList.html#a0d5f54f9ca0cd1428809b60806d56111", null ],
+    [ "cutForPositron", "dc/d12/classPurgMagPhysicsList.html#aec5e7e7d362a3e94ad596a58f5924933", null ],
+    [ "cutForProton", "dc/d12/classPurgMagPhysicsList.html#aa6f489cf63030824961b3e69ff77a5e7", null ]
+];

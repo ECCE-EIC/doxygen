@@ -1,0 +1,33 @@
+<map id="G4EmCorrections::DensityCorrection" name="G4EmCorrections::DensityCorrection">
+<area shape="rect" id="node2" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1491,164,1557,192"/>
+<area shape="rect" id="node6" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1492,440,1556,468"/>
+<area shape="rect" id="node12" href="$d6/d69/classG4IonisParamMat.html#a050f86358d37f08b6a6ac9e35a1405d7" title="G4IonisParamMat::GetAdensity" alt="" coords="267,172,499,200"/>
+<area shape="rect" id="node13" href="$d6/d69/classG4IonisParamMat.html#a90ea0a0823780c98802022abe684b498" title="G4IonisParamMat::GetCdensity" alt="" coords="267,224,499,252"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="895,44,1088,72"/>
+<area shape="rect" id="node15" href="$d6/d69/classG4IonisParamMat.html#a035c0ca18821130680c813185502b7a9" title="G4IonisParamMat::GetMdensity" alt="" coords="265,328,500,356"/>
+<area shape="rect" id="node16" href="$d6/d69/classG4IonisParamMat.html#aa4abce1219e0ea738a265fcf66f09a2e" title="G4IonisParamMat::GetX0density" alt="" coords="263,380,503,408"/>
+<area shape="rect" id="node17" href="$d6/d69/classG4IonisParamMat.html#a9630b8145a957a9064be58dda6e8cc7d" title="G4IonisParamMat::GetX1density" alt="" coords="263,432,503,460"/>
+<area shape="rect" id="node18" href="$d7/db3/classG4EmCorrections.html#ab6c1119eb6f103aa741590c4359ba26b" title="G4EmCorrections::SetupKinematics" alt="" coords="252,276,513,304"/>
+<area shape="rect" id="node3" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1643,137,1808,165"/>
+<area shape="rect" id="node5" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1631,189,1820,217"/>
+<area shape="rect" id="node4" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1893,137,2081,165"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1629,440,1821,468"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1629,492,1821,520"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1605,388,1845,416"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1893,363,2081,391"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1893,415,2081,443"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="914,544,1069,588"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="914,96,1069,140"/>
+<area shape="rect" id="node21" href="$da/d34/classG4ionEffectiveCharge.html#a4117fa80701e35bb5972fbc006aa5d1a" title="G4ionEffectiveCharge\l::EffectiveCharge" alt="" coords="607,268,777,312"/>
+<area shape="rect" id="node30" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="578,388,806,416"/>
+<area shape="rect" id="node31" href="$d5/de4/classG4Material.html#ab1ecfcd326feaee2ea7ada917943efcf" title="G4Material::GetAtomicNum\lDensityVector" alt="" coords="589,440,795,484"/>
+<area shape="rect" id="node32" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="561,216,823,244"/>
+<area shape="rect" id="node22" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="953,492,1030,520"/>
+<area shape="rect" id="node23" href="$d6/d69/classG4IonisParamMat.html#af5d92cb7b4d6c84e725f55b5ea46b081" title="G4IonisParamMat::GetZeffective" alt="" coords="871,216,1112,244"/>
+<area shape="rect" id="node24" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="1160,336,1261,364"/>
+<area shape="rect" id="node28" href="$d6/d69/classG4IonisParamMat.html#a78e43b8340f87820ede53d81a04dac4d" title="G4IonisParamMat::GetFermi\lEnergy" alt="" coords="887,268,1096,312"/>
+<area shape="rect" id="node29" href="$de/d0f/classG4Pow.html#aeaaa3906af7e599dc5142068b16c40a4" title="G4Pow::A23" alt="" coords="941,388,1042,416"/>
+<area shape="rect" id="node25" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1357,336,1395,364"/>
+<area shape="rect" id="node26" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="1311,284,1441,312"/>
+<area shape="rect" id="node27" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="1309,388,1443,416"/>
+</map>

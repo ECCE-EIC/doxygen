@@ -1,0 +1,26 @@
+<map id="G4Physics2DVector::DerivativeXY" name="G4Physics2DVector::DerivativeXY">
+<area shape="rect" id="node2" href="$d3/d41/classG4Physics2DVector.html#a1f2e1c11c03d8c0348851b1497b1d7bf" title="G4Physics2DVector::\lBicubicInterpolation" alt="" coords="213,275,373,319"/>
+<area shape="rect" id="node3" href="$d3/d41/classG4Physics2DVector.html#a7c0da720940d2f00f5fbcdd57ad770aa" title="G4Physics2DVector::\lValue" alt="" coords="421,275,581,319"/>
+<area shape="rect" id="node4" href="$de/d59/classG4LivermoreBremsstrahlungModel.html#aaa7aff1a8d53ced7de302d5c7699505e" title="G4LivermoreBremsstrahlung\lModel::ReadData" alt="" coords="629,79,844,123"/>
+<area shape="rect" id="node7" href="$de/d59/classG4LivermoreBremsstrahlungModel.html#a703dbe7c6daa64876f3170e867c9530f" title="G4LivermoreBremsstrahlung\lModel::ComputeDXSectionPerAtom" alt="" coords="1192,83,1451,127"/>
+<area shape="rect" id="node8" href="$de/d59/classG4LivermoreBremsstrahlungModel.html#ab8819c45d260a95e153f9e2419cf4902" title="G4LivermoreBremsstrahlung\lModel::SampleSecondaries" alt="" coords="629,147,844,191"/>
+<area shape="rect" id="node9" href="$da/de8/classG4MuPairProductionModel.html#a7c0e481fc605562b2cd2f1f776117ea6" title="G4MuPairProductionModel\l::FindScaledEnergy" alt="" coords="638,215,835,259"/>
+<area shape="rect" id="node11" href="$db/d8c/classG4SeltzerBergerModel.html#a0f06cbca525895e2d001a9f6d013c495" title="G4SeltzerBergerModel\l::ReadData" alt="" coords="651,335,823,379"/>
+<area shape="rect" id="node15" href="$db/d8c/classG4SeltzerBergerModel.html#a7bede715e76b9e7b1b4f7edd365b320c" title="G4SeltzerBergerModel\l::ComputeDXSectionPerAtom" alt="" coords="1212,259,1431,303"/>
+<area shape="rect" id="node16" href="$db/d8c/classG4SeltzerBergerModel.html#a60536586cdaa7d9f8c8dd69838da8d64" title="G4SeltzerBergerModel\l::SampleEnergyTransfer" alt="" coords="1229,395,1413,439"/>
+<area shape="rect" id="node19" href="$dc/d81/classG4OpBoundaryProcess.html#a452c76c4f1e1ceb385d56312cb79dbff" title="G4OpBoundaryProcess\l::DielectricDichroic" alt="" coords="649,459,825,503"/>
+<area shape="rect" id="node23" href="$dc/d86/classG4ChannelingECHARM.html#a8fe259b08cb875df73ba14f3c478ac44" title="G4ChannelingECHARM\l::GetEC" alt="" coords="649,542,824,586"/>
+<area shape="rect" id="node5" href="$de/d59/classG4LivermoreBremsstrahlungModel.html#ac5a303dd2c928cfb9dc5939b6c55f27b" title="G4LivermoreBremsstrahlung\lModel::Initialise" alt="" coords="911,79,1125,123"/>
+<area shape="rect" id="node6" href="$de/d59/classG4LivermoreBremsstrahlungModel.html#a3f93955fe90cd583a8bd22be84ede519" title="G4LivermoreBremsstrahlung\lModel::InitialiseForElement" alt="" coords="911,147,1125,191"/>
+<area shape="rect" id="node10" href="$da/de8/classG4MuPairProductionModel.html#a73185640790969cf8a1767165293a174" title="G4MuPairProductionModel\l::SampleSecondaries" alt="" coords="919,215,1117,259"/>
+<area shape="rect" id="node12" href="$db/d8c/classG4SeltzerBergerModel.html#a4dafa901b4196aea52e354eeff760f6c" title="G4SeltzerBergerModel\l::InitialiseForElement" alt="" coords="932,335,1104,379"/>
+<area shape="rect" id="node13" href="$db/d8c/classG4SeltzerBergerModel.html#a221cdb5d20dcf68c54bd0ea0d361cb23" title="G4SeltzerBergerModel\l::Initialise" alt="" coords="1235,327,1407,371"/>
+<area shape="rect" id="node14" href="$d8/dd5/classG4ePolarizedBremsstrahlungModel.html#a17891372b085b9c4d54f5c7af35e963f" title="G4ePolarizedBremsstrahlung\lModel::Initialise" alt="" coords="1499,327,1716,371"/>
+<area shape="rect" id="node17" href="$db/d8c/classG4SeltzerBergerModel.html#a39d9f8226310b7226379234d71061080" title="G4SeltzerBergerModel\l::SampleSecondaries" alt="" coords="1521,395,1693,439"/>
+<area shape="rect" id="node18" href="$d8/dd5/classG4ePolarizedBremsstrahlungModel.html#a2f05e3979ca7631cf70efeb4dd6f7a5d" title="G4ePolarizedBremsstrahlung\lModel::SampleSecondaries" alt="" coords="1764,395,1981,439"/>
+<area shape="rect" id="node20" href="$dc/d81/classG4OpBoundaryProcess.html#aa8b5e3269584885e9592d8e41b938d00" title="G4OpBoundaryProcess\l::PostStepDoIt" alt="" coords="930,463,1106,507"/>
+<area shape="rect" id="node21" href="$db/dc9/classPrtOpBoundaryProcess.html#a1f0c41c0c5e4c9b67f86b962df85df01" title="PrtOpBoundaryProcess\l::PostStepDoIt" alt="" coords="1234,531,1409,575"/>
+<area shape="rect" id="node22" href="$d3/d65/classG4EicDircOpBoundaryProcess.html#a6ced12c638c0277136bedd51c5f102c7" title="G4EicDircOpBoundaryProcess\l::PostStepDoIt" alt="" coords="1210,463,1433,507"/>
+<area shape="rect" id="node24" href="$d1/d4c/classG4Channeling.html#a725cd9cf581c9aec0b2d0e5064cd0605" title="G4Channeling::UpdateParameters" alt="" coords="892,579,1144,607"/>
+<area shape="rect" id="node25" href="$d1/d4c/classG4Channeling.html#aa2a4e6a5c067d5c9df5ea12d6953fb7a" title="G4Channeling::PostStepDoIt" alt="" coords="1215,599,1428,627"/>
+</map>

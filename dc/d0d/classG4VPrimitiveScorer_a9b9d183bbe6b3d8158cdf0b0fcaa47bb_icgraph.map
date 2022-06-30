@@ -1,0 +1,31 @@
+<map id="G4VPrimitiveScorer::GetUnitValue" name="G4VPrimitiveScorer::GetUnitValue">
+<area shape="rect" id="node2" href="$d0/d53/classG4VScoringMesh.html#a7fc58902069de8d6c8f37106c6152cca" title="G4VScoringMesh::GetPSUnit\lValue" alt="" coords="207,107,422,151"/>
+<area shape="rect" id="node13" href="$dc/d36/classG4PSCellCharge.html#a4368a54e644f5d5b4a128350b3204ffb" title="G4PSCellCharge::PrintAll" alt="" coords="221,175,408,203"/>
+<area shape="rect" id="node14" href="$de/d64/classG4PSEnergyDeposit.html#aa9cbbaf569e9a85af05975c1418957c8" title="G4PSEnergyDeposit::\lPrintAll" alt="" coords="233,227,397,271"/>
+<area shape="rect" id="node15" href="$db/d0d/classG4PSDoseDeposit.html#a69d797905b439ecc52de730b87c5a550" title="G4PSDoseDeposit::PrintAll" alt="" coords="215,295,414,323"/>
+<area shape="rect" id="node16" href="$da/d07/classG4PSPassageTrackLength.html#a5d67b727f04bd0f810b9099066e3d984" title="G4PSPassageTrackLength\l::PrintAll" alt="" coords="218,347,411,391"/>
+<area shape="rect" id="node17" href="$da/dde/classG4PSMinKinEAtGeneration.html#ad412cd885070b9be8a22fc3b908200ce" title="G4PSMinKinEAtGeneration\l::PrintAll" alt="" coords="215,415,415,459"/>
+<area shape="rect" id="node18" href="$d8/d59/classG4PSNofCollision.html#a0de5c711d51296ec3d9474daecbdbbca" title="G4PSNofCollision::PrintAll" alt="" coords="218,483,411,511"/>
+<area shape="rect" id="node19" href="$da/d6e/classG4PSPopulation.html#a811aff84c0aa4c7a6fa646fc28445bcd" title="G4PSPopulation::PrintAll" alt="" coords="222,535,407,563"/>
+<area shape="rect" id="node20" href="$dc/ddf/classG4PSPassageCellFlux.html#a362e406af198e0bf37705e0520bfaf9a" title="G4PSPassageCellFlux\l::PrintAll" alt="" coords="232,587,397,631"/>
+<area shape="rect" id="node21" href="$df/d85/classG4PSTrackLength.html#ab8b93a2b2f7de2372587bb2bd5b53d01" title="G4PSTrackLength::PrintAll" alt="" coords="217,655,412,683"/>
+<area shape="rect" id="node22" href="$d4/dad/classG4PSCellFlux.html#ab745dfc20e098c5e27f3e2501ac0724d" title="G4PSCellFlux::PrintAll" alt="" coords="231,707,398,735"/>
+<area shape="rect" id="node23" href="$d3/df6/classG4PSNofSecondary.html#aea7461e35d9ff03bcfb7617fb45b194d" title="G4PSNofSecondary::PrintAll" alt="" coords="211,759,418,787"/>
+<area shape="rect" id="node24" href="$dc/de1/classG4PSSphereSurfaceCurrent.html#aaf39b291c9f5f74796b3aa43890c9cef" title="G4PSSphereSurfaceCurrent\l::PrintAll" alt="" coords="211,811,419,855"/>
+<area shape="rect" id="node25" href="$d3/df6/classG4PSCylinderSurfaceFlux.html#af63fc32ab7f5eee386e175d1b8d38b45" title="G4PSCylinderSurfaceFlux\l::PrintAll" alt="" coords="218,879,411,923"/>
+<area shape="rect" id="node26" href="$d7/d77/classG4PSSphereSurfaceFlux.html#a8920aaf0ab3167f1207c9ff2c3369d9e" title="G4PSSphereSurfaceFlux\l::PrintAll" alt="" coords="222,947,407,991"/>
+<area shape="rect" id="node27" href="$da/dc4/classG4PSFlatSurfaceCurrent.html#a7158e700bfc0d5c500eeb40b5b0ac041" title="G4PSFlatSurfaceCurrent\l::PrintAll" alt="" coords="222,1015,407,1059"/>
+<area shape="rect" id="node28" href="$d1/d3a/classG4PSCylinderSurfaceCurrent.html#a1d628a7c1f51c521cb1e649f37e4ac0b" title="G4PSCylinderSurfaceCurrent\l::PrintAll" alt="" coords="207,1083,423,1127"/>
+<area shape="rect" id="node29" href="$de/d78/classG4PSFlatSurfaceFlux.html#a336d0fcb2dbcac979a9961ee7207d4d7" title="G4PSFlatSurfaceFlux\l::PrintAll" alt="" coords="233,1151,396,1195"/>
+<area shape="rect" id="node30" href="$db/d4a/classScoreSpecies.html#a84f7082cb0798240831f6aac40c03c84" title="ScoreSpecies::PrintAll" alt="" coords="231,1219,399,1247"/>
+<area shape="rect" id="node3" href="$dc/dd7/classPHG4ScoringManager.html#a39091d7b61e10293db093fd15055c459" title="based on G4VScoreWriter::DumpAllQuantitiesToFile()" alt="" coords="505,5,701,49"/>
+<area shape="rect" id="node5" href="$d2/d96/classG4VScoreWriter.html#aa8315c39f8abdbf5a55a167cd7f69b47" title="G4VScoreWriter::DumpQuantity\lToFile" alt="" coords="485,73,721,117"/>
+<area shape="rect" id="node8" href="$d2/d96/classG4VScoreWriter.html#ac820d6122e6ffd422c3569bcfa8ec6bc" title="G4VScoreWriter::DumpAllQuantities\lToFile" alt="" coords="471,141,735,185"/>
+<area shape="rect" id="node10" href="$d0/d53/classG4VScoringMesh.html#ac5979b5fbc3d3db33ba772cf3347b080" title="G4VScoringMesh::DrawMesh" alt="" coords="495,209,710,237"/>
+<area shape="rect" id="node4" href="$dc/dd7/classPHG4ScoringManager.html#a9f1122e27b63ccb02a176f608c702695" title="end of run method" alt="" coords="811,13,1013,41"/>
+<area shape="rect" id="node6" href="$df/d55/classG4ScoringManager.html#aff782ae0103fa89819daefa4c4ca969e" title="G4ScoringManager::DumpQuantity\lToFile" alt="" coords="783,73,1041,117"/>
+<area shape="rect" id="node7" href="$d9/d02/classG4ScoringMessenger.html#af5d9ad44f9f5e19682527349572cec98" title="G4ScoringMessenger\l::SetNewValue" alt="" coords="1089,141,1255,185"/>
+<area shape="rect" id="node9" href="$df/d55/classG4ScoringManager.html#a824bba4e74cca80ebe267b65cadc6ae5" title="G4ScoringManager::DumpAll\lQuantitiesToFile" alt="" coords="804,141,1020,185"/>
+<area shape="rect" id="node11" href="$df/d55/classG4ScoringManager.html#a9cd0e1cfdef09ba9d6d69626d4bbc6c1" title="G4ScoringManager::DrawMesh" alt="" coords="797,209,1027,237"/>
+<area shape="rect" id="node12" href="$da/d94/classG4VSceneHandler.html#aab1c38c4b0caac998c2eec13bcf7d7ee" title="G4VSceneHandler::AddCompound" alt="" coords="786,261,1038,289"/>
+</map>

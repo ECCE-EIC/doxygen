@@ -1,0 +1,29 @@
+<map id="ExTGRCRegionData::SetCutsData" name="ExTGRCRegionData::SetCutsData">
+<area shape="rect" id="node2" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="517,43,756,71"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1632,221,1739,249"/>
+<area shape="rect" id="node4" href="$d1/dc7/classG4tgrUtils.html#acdba90678f1c5958b45b386d41304d93" title="G4tgrUtils::GetDouble" alt="" coords="299,351,469,379"/>
+<area shape="rect" id="node5" href="$d1/dda/classG4tgrMessenger.html#a554edbbce90ae4c6fcc85cdb6a711608" title="G4tgrMessenger::GetVerbose\lLevel" alt="" coords="804,341,1024,385"/>
+<area shape="rect" id="node6" href="$d1/dc7/classG4tgrUtils.html#a0e52f564ae4e844c1a046c8a25333f30" title="G4tgrUtils::IsNumber" alt="" coords="832,597,996,625"/>
+<area shape="rect" id="node7" href="$d3/d15/classG4tgrParameterMgr.html#afc0a6409be6d0fc1de83082f79fd1ab9" title="G4tgrParameterMgr::\lGetInstance" alt="" coords="555,563,718,607"/>
+<area shape="rect" id="node9" href="$d3/d15/classG4tgrParameterMgr.html#ae05b964d99f66a9f0617118fbe738bb5" title="G4tgrParameterMgr::\lFindParameter" alt="" coords="555,283,718,327"/>
+<area shape="rect" id="node11" href="$d1/dc7/classG4tgrUtils.html#aad8a4ef92243ed064c340d95e8dcdbba" title="G4tgrUtils::IsFunction" alt="" coords="553,631,720,659"/>
+<area shape="rect" id="node12" href="$d1/dc7/classG4tgrUtils.html#aead7796772e67a48f8f9c01af3f20462" title="G4tgrUtils::WordIsUnit" alt="" coords="551,511,723,539"/>
+<area shape="rect" id="node13" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="527,407,747,435"/>
+<area shape="rect" id="node24" href="$d5/df7/classHepTool_1_1Evaluator.html#a7dc9b53ee92056ac4b3b34302c91c865" title="HepTool::Evaluator\l::evaluate" alt="" coords="562,683,711,727"/>
+<area shape="rect" id="node25" href="$d5/df7/classHepTool_1_1Evaluator.html#ae7260e78df579a539d083e038ae62100" title="HepTool::Evaluator\l::status" alt="" coords="562,95,711,139"/>
+<area shape="rect" id="node26" href="$de/d90/classG4tgrEvaluator.html#aa1a0a657b8d85e28a9ba60721cb6ad1f" title="G4tgrEvaluator::print\l_error" alt="" coords="554,163,719,207"/>
+<area shape="rect" id="node8" href="$d3/d15/classG4tgrParameterMgr.html#a00a378f19c64e6d69d98556ad0ae96e8" title="G4tgrParameterMgr::\lG4tgrParameterMgr" alt="" coords="833,649,995,693"/>
+<area shape="rect" id="node10" href="$d3/d15/classG4tgrParameterMgr.html#a69d1a1d8e0406b0561986970b290c2ea" title="G4tgrParameterMgr::\lDumpList" alt="" coords="833,273,995,317"/>
+<area shape="rect" id="node14" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="813,529,1015,573"/>
+<area shape="rect" id="node19" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="873,409,955,437"/>
+<area shape="rect" id="node15" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1074,529,1286,573"/>
+<area shape="rect" id="node17" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1575,593,1796,621"/>
+<area shape="rect" id="node16" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1336,529,1527,573"/>
+<area shape="rect" id="node18" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1582,537,1789,565"/>
+<area shape="rect" id="node20" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1072,273,1288,317"/>
+<area shape="rect" id="node21" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1074,341,1286,385"/>
+<area shape="rect" id="node22" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1075,409,1285,453"/>
+<area shape="rect" id="node23" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1347,409,1515,453"/>
+<area shape="rect" id="node27" href="$d5/df7/classHepTool_1_1Evaluator.html#a71d40eedb07fbf64deb7991f3aaa43ef" title="HepTool::Evaluator\l::print_error" alt="" coords="839,102,989,146"/>
+<area shape="rect" id="node28" href="$d5/df7/classHepTool_1_1Evaluator.html#a45e1f0240b875e851e8c455503df7df9" title="HepTool::Evaluator\l::error_name" alt="" coords="1105,102,1255,146"/>
+</map>

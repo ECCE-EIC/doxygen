@@ -1,0 +1,24 @@
+<map id="G4CascadeCheckBalance::energyOkay" name="G4CascadeCheckBalance::energyOkay">
+<area shape="rect" id="node2" href="$d8/dfe/classG4CascadeCheckBalance.html#adb2ac7f8ebfe48b6b02f8aa360291bc0" title="G4CascadeCheckBalance\l::okay" alt="" coords="247,232,440,276"/>
+<area shape="rect" id="node23" href="$dc/d8b/classG4CascadeInterface.html#ab180216564f316ca5f051fdd4020ee1f" title="G4CascadeInterface\l::throwNonConservationFailure" alt="" coords="1014,35,1243,79"/>
+<area shape="rect" id="node3" href="$d5/d69/classG4CascadeColliderBase.html#ad614f87a3baca1c4f80b7ddd14d977bb" title="G4CascadeColliderBase\l::validateOutput" alt="" coords="491,232,674,276"/>
+<area shape="rect" id="node6" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="1337,215,1494,259"/>
+<area shape="rect" id="node12" href="$d9/da6/classG4NucleiModel.html#a328aa59398dda26dafeafef5a65e65c8" title="G4NucleiModel::generateParticleFate" alt="" coords="993,343,1264,371"/>
+<area shape="rect" id="node15" href="$dc/d8b/classG4CascadeInterface.html#ab8f6e4c678c2908475a4bca6dbc7bcb1" title="G4CascadeInterface\l::Propagate" alt="" coords="1337,70,1494,114"/>
+<area shape="rect" id="node16" href="$dd/d8c/classG4CascadeDeexciteBase.html#ad6abdbb655f1c80f02cf8d7a3786575e" title="G4CascadeDeexciteBase\l::validateOutput" alt="" coords="488,476,677,520"/>
+<area shape="rect" id="node22" href="$dc/d8b/classG4CascadeInterface.html#a3b407fa1c884b0dd976dc3d31e69a433" title="G4CascadeInterface\l::retryInelasticNucleus" alt="" coords="1043,103,1215,147"/>
+<area shape="rect" id="node4" href="$d4/ded/classG4ElementaryParticleCollider.html#a9e82e63dca4498407cdcb2d917d73d0f" title="G4ElementaryParticleCollider\l::collide" alt="" coords="725,275,945,319"/>
+<area shape="rect" id="node13" href="$d4/d24/classG4InuclCollider.html#a4ec509c225f9be15bc2f559e731fc4da" title="G4InuclCollider::deexcite" alt="" coords="740,223,931,251"/>
+<area shape="rect" id="node5" href="$d4/d24/classG4InuclCollider.html#ab4109b3dbea48ffe64e45bab046ca4e5" title="G4InuclCollider::collide" alt="" coords="1040,223,1217,251"/>
+<area shape="rect" id="node11" href="$da/d7b/classG4LightTargetCollider.html#ae13ff79fa3488a07cfaab7ab02e9b1d3" title="G4LightTargetCollider\l::collide" alt="" coords="1045,275,1213,319"/>
+<area shape="rect" id="node7" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1567,182,1765,226"/>
+<area shape="rect" id="node9" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1567,250,1765,294"/>
+<area shape="rect" id="node8" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="1813,182,2012,226"/>
+<area shape="rect" id="node10" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="1818,250,2007,294"/>
+<area shape="rect" id="node14" href="$d4/d24/classG4InuclCollider.html#ab9f3bf1a38c40ca67811009ca7e8adaf" title="G4InuclCollider::rescatter" alt="" coords="1031,171,1226,199"/>
+<area shape="rect" id="node17" href="$dc/d04/classG4BigBanger.html#a93e3fdb1ffba78f6328049b5aab9b60d" title="G4BigBanger::deExcite" alt="" coords="747,515,924,543"/>
+<area shape="rect" id="node19" href="$d2/d58/classG4EquilibriumEvaporator.html#a45da309e50e5e81962e74b480489922d" title="G4EquilibriumEvaporator\l::deExcite" alt="" coords="1032,558,1225,602"/>
+<area shape="rect" id="node21" href="$d8/d2c/classG4NonEquilibriumEvaporator.html#af1606c29499302c369c3ec8414077434" title="G4NonEquilibriumEvaporator\l::deExcite" alt="" coords="725,447,945,491"/>
+<area shape="rect" id="node18" href="$db/d19/classG4CascadeDeexcitation.html#ae1e101c48c6e9ad110d006c7ab5f863b" title="G4CascadeDeexcitation\l::deExcite" alt="" coords="1324,494,1507,538"/>
+<area shape="rect" id="node20" href="$db/dc4/classG4EvaporationInuclCollider.html#adddfadf201795d5e798fe7118872df1f" title="G4EvaporationInuclCollider\l::deExcite" alt="" coords="1312,562,1519,606"/>
+</map>

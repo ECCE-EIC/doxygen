@@ -1,0 +1,29 @@
+<map id="G4WentzelVIModel::SecondMoment" name="G4WentzelVIModel::SecondMoment">
+<area shape="rect" id="node2" href="$d8/d2f/classG4WentzelVIModel.html#a2377a5634cf8b36c3bd2ed747dc6539e" title="G4WentzelVIModel::Compute\lSecondMoment" alt="" coords="260,325,479,369"/>
+<area shape="rect" id="node24" href="$d8/d2f/classG4WentzelVIModel.html#a6d2a915befb078356b4b53de51471ae9" title="G4WentzelVIModel::Define\lMaterial" alt="" coords="269,552,470,596"/>
+<area shape="rect" id="node3" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a2aa56f643286a9e852f81df608910b53" title="G4WentzelOKandVIxSection\l::ComputeSecondTransportMoment" alt="" coords="527,295,788,339"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="543,363,771,391"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="527,415,788,443"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="543,467,772,511"/>
+<area shape="rect" id="node7" href="$d9/d5f/classG4WentzelOKandVIxSection.html#ab03f20d52d033b6c4ae0a04c9da3afc6" title="G4WentzelOKandVIxSection\l::SetupKinematic" alt="" coords="552,69,763,113"/>
+<area shape="rect" id="node10" href="$d8/d2f/classG4WentzelVIModel.html#aef69d833ac66fd85c5ea8c9c1e52357c" title="G4WentzelVIModel::SetupParticle" alt="" coords="534,141,781,169"/>
+<area shape="rect" id="node17" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a00593ce3c58366b18ea5e42251f3e654" title="G4WentzelOKandVIxSection\l::SetupTarget" alt="" coords="552,227,763,271"/>
+<area shape="rect" id="node8" href="$d6/d69/classG4IonisParamMat.html#ad52a35cd2b3e498a63f9e842d2e2806a" title="G4IonisParamMat::GetInvA23" alt="" coords="849,25,1067,53"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="861,77,1055,105"/>
+<area shape="rect" id="node11" href="$d9/d5f/classG4WentzelOKandVIxSection.html#aabec975387987565bf4a2324b9fa2978" title="G4WentzelOKandVIxSection\l::SetupParticle" alt="" coords="853,129,1063,173"/>
+<area shape="rect" id="node12" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1158,141,1269,169"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="1136,193,1291,237"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1136,5,1291,49"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="1136,73,1291,117"/>
+<area shape="rect" id="node13" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1347,141,1523,169"/>
+<area shape="rect" id="node18" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a37c71a61c37f399bb4cc1f575162f957" title="G4WentzelOKandVIxSection\l::ComputeMaxElectronScattering" alt="" coords="836,317,1080,361"/>
+<area shape="rect" id="node19" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="855,385,1061,429"/>
+<area shape="rect" id="node21" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a031c21558a93bdab8a9e5985fdad9a6a" title="G4WentzelOKandVIxSection\l::SetTargetMass" alt="" coords="853,197,1063,241"/>
+<area shape="rect" id="node22" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="907,265,1009,293"/>
+<area shape="rect" id="node20" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="1128,385,1299,429"/>
+<area shape="rect" id="node23" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="1163,265,1264,293"/>
+<area shape="rect" id="node25" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="872,519,1044,563"/>
+<area shape="rect" id="node26" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="872,639,1044,683"/>
+<area shape="rect" id="node27" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="537,587,777,615"/>
+<area shape="rect" id="node28" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="850,587,1066,615"/>
+</map>

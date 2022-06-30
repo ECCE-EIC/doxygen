@@ -1,0 +1,51 @@
+<map id="G4ExpConsts::fpfloor" name="G4ExpConsts::fpfloor">
+<area shape="rect" id="node2" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="221,1545,288,1573"/>
+<area shape="rect" id="node50" href="$d0/dcc/G4Exp_8hh.html#ac97b5d08ca5bc10f5da95b5095df2627" title="Exponential Function single precision." alt="" coords="219,1597,291,1625"/>
+<area shape="rect" id="node3" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="425,5,559,33"/>
+<area shape="rect" id="node4" href="$d1/d3f/classG4RPGReaction.html#a6422eb0e64b953ce9100a4c6c319221b" title="G4RPGReaction::AddBlackTrack\lParticles" alt="" coords="375,57,609,101"/>
+<area shape="rect" id="node5" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a5d8a0c2ff613991c6fb2636fd7c4609c" title="G4NuclNuclDiffuseElastic\l::AmplitudeGG" alt="" coords="396,125,588,169"/>
+<area shape="rect" id="node6" href="$d9/d47/classG4NuclNuclDiffuseElastic.html#a4205d3cee580909ca1ae10f8cbfde0aa" title="G4NuclNuclDiffuseElastic\l::AmplitudeGla" alt="" coords="396,193,588,237"/>
+<area shape="rect" id="node7" href="$d7/dc3/classG4PreCompoundEmission.html#af9c7bc4aa91a3d3d16bbb79ed1889082" title="G4PreCompoundEmission\l::AngularDistribution" alt="" coords="395,261,589,305"/>
+<area shape="rect" id="node8" href="$d3/dc0/classG4Nucleus.html#a5767c201c15bab1e7c5799ed53c10785" title="G4Nucleus::AnnihilationEvaporation\lEffects" alt="" coords="359,329,625,373"/>
+<area shape="rect" id="node9" href="$dd/dca/classG4AntiNeutronAnnihilationAtRest.html#aca324c165fbcd49c020985fbecd81a44" title="G4AntiNeutronAnnihilation\lAtRest::AntiNeutronAnnihilation" alt="" coords="374,397,610,441"/>
+<area shape="rect" id="node10" href="$d7/d1d/classG4WilsonAbrasionModel.html#af7e0adafbc8f33953fbca601bd7002df" title="G4WilsonAbrasionModel\l::ApplyYourself" alt="" coords="399,465,585,509"/>
+<area shape="rect" id="node11" href="$d1/dde/classG4DNAMolecularReactionData.html#a65da771f599701ea12f212b9cd3ff498" title="G4DNAMolecularReactionData\l::ArrehniusParam" alt="" coords="379,533,605,577"/>
+<area shape="rect" id="node12" href="$d1/de1/classG4eIonisationSpectrum.html#a13542c9d7c8f5d61df34d1a82a3b28aa" title="G4eIonisationSpectrum\l::AverageValue" alt="" coords="402,601,582,645"/>
+<area shape="rect" id="node13" href="$d7/db3/classG4EmCorrections.html#a5421485273c6b9daba41aeb35f48e9ad" title="G4EmCorrections::BarkasCorrection" alt="" coords="361,669,623,697"/>
+<area shape="rect" id="node14" href="$d0/dd3/classG4AtimaEnergyLossModel.html#a3d77e5d46e03e5bf9779349a59bf89ec" title="G4AtimaEnergyLossModel\l::Bethek_dedx_e" alt="" coords="393,721,591,765"/>
+<area shape="rect" id="node15" href="$d7/dfb/classG4WilsonAblationModel.html#a40ad40aa1b22e6d11de5b4d650762696" title="G4WilsonAblationModel\l::BreakItUp" alt="" coords="401,789,583,833"/>
+<area shape="rect" id="node16" href="$dc/d1b/classG4DNAScreenedRutherfordElasticModel.html#af538dc88dd09e59fb9106d35df8cc902" title="G4DNAScreenedRutherfordElastic\lModel::BrennerZaiderRandomizeCosTheta" alt="" coords="339,857,645,901"/>
+<area shape="rect" id="node17" href="$d5/d21/classG4DNAUeharaScreenedRutherfordElasticModel.html#a3d263c0a96d21a8efb3f66182d65a854" title="G4DNAUeharaScreenedRutherford\lElasticModel::BrennerZaiderRandomize\lCosTheta" alt="" coords="348,925,636,985"/>
+<area shape="rect" id="node18" href="$d4/dee/classG4PenelopeOscillatorManager.html#a70596db703f4c4b889f2dfbcba5ae0aa" title="G4PenelopeOscillatorManager\l::BuildOscillatorTable" alt="" coords="379,1009,605,1053"/>
+<area shape="rect" id="node19" href="$de/d12/classG4IonParametrisedLossModel.html#a27763b5dbd1dfbe9ec985116d75bfd34" title="G4IonParametrisedLossModel\l::BuildRangeVector" alt="" coords="382,1077,602,1121"/>
+<area shape="rect" id="node20" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a35d38b7243022b620c1932c2ff724941" title="G4PenelopeBremsstrahlung\lModel::BuildXSTable" alt="" coords="387,1145,597,1189"/>
+<area shape="rect" id="node21" href="$dd/daf/classG4QMDMeanField.html#a6fecbe22ba972230065a93593d603661" title="G4QMDMeanField::Cal2Body\lQuantities" alt="" coords="385,1213,599,1257"/>
+<area shape="rect" id="node22" href="$d7/d66/classG4QMDCollision.html#a2be9c70b36f44caf4dd3a56140fe954c" title="G4QMDCollision::CalFinal\lStateOfTheBinaryCollisionJQMD" alt="" coords="693,1244,928,1288"/>
+<area shape="rect" id="node23" href="$dc/d1d/classG4StatMFMacroNucleon.html#a03477dec776d30eb82962a1a9b21199b" title="G4StatMFMacroNucleon\l::CalcMeanMultiplicity" alt="" coords="401,1333,583,1377"/>
+<area shape="rect" id="node24" href="$d3/dbe/classG4StatMFMacroTetraNucleon.html#ae973bd41009e6a2ecec35d961aa70111" title="G4StatMFMacroTetraNucleon\l::CalcMeanMultiplicity" alt="" coords="384,1401,600,1445"/>
+<area shape="rect" id="node25" href="$d9/d12/classG4StatMFMacroTriNucleon.html#a04823759696d7f1674d28182244ac311" title="G4StatMFMacroTriNucleon\l::CalcMeanMultiplicity" alt="" coords="393,1469,591,1513"/>
+<area shape="rect" id="node26" href="$df/db5/classG4StatMFMacroBiNucleon.html#ac3da57ea27d4f58cb15cfcffaa07a909" title="G4StatMFMacroBiNucleon\l::CalcMeanMultiplicity" alt="" coords="395,1537,589,1581"/>
+<area shape="rect" id="node27" href="$dd/d09/classG4StatMFMacroMultiNucleon.html#aaa4a979589cfee0cbf0a0cdfd2e5f77a" title="G4StatMFMacroMultiNucleon\l::CalcMeanMultiplicity" alt="" coords="385,1605,599,1649"/>
+<area shape="rect" id="node28" href="$d6/dc9/classG4StatMFMicroPartition.html#a481441cc668b998de1f30f20bdfe8b2b" title="G4StatMFMicroPartition\l::CalcPartitionProbability" alt="" coords="399,1673,585,1717"/>
+<area shape="rect" id="node29" href="$d6/de2/classG4GEMProbability.html#a136a36cf4ec88a62c072628f6147089d" title="G4GEMProbability::CalcProbability" alt="" coords="367,1741,617,1769"/>
+<area shape="rect" id="node30" href="$d8/ddb/classG4QuasiElRatios.html#aa48a8f124b0e298d8a1b5b5a075846da" title="G4QuasiElRatios::CalcQF2\lIN_Ratio" alt="" coords="393,1793,591,1837"/>
+<area shape="rect" id="node31" href="$dc/d99/classG4HadronCrossSections.html#af1ed2f0772836b21061509994bf174a5" title="G4HadronCrossSections\l::CalcScatteringCrossSections" alt="" coords="381,1861,603,1905"/>
+<area shape="rect" id="node32" href="$d2/d98/classG4LinLogInterpolation.html#af521d5f6d86f96b0b42cb6fd06480b5d" title="G4LinLogInterpolation\l::Calculate" alt="" coords="407,1929,577,1973"/>
+<area shape="rect" id="node33" href="$dc/d75/classG4ecpssrBaseKxsModel.html#a3b17a7da400d6f6deb0c4d5046a2059d" title="G4ecpssrBaseKxsModel\l::CalculateCrossSection" alt="" coords="401,1997,583,2041"/>
+<area shape="rect" id="node34" href="$d5/da9/classG4MuonVDNuclearModel.html#aca18f546f5516c2128861a366662cce8" title="G4MuonVDNuclearModel\l::CalculateEMVertex" alt="" coords="397,2065,587,2109"/>
+<area shape="rect" id="node35" href="$d6/d82/classG4ecpssrBaseLixsModel.html#a1bb49361f6ce9e9bb4b6dd0eb82536c7" title="G4ecpssrBaseLixsModel\l::CalculateL1CrossSection" alt="" coords="394,2133,590,2177"/>
+<area shape="rect" id="node36" href="$df/d35/classG4OrlicLiXsModel.html#a739403f053900b4cc4e15f38a05f20dc" title="G4OrlicLiXsModel::Calculate\lL1CrossSection" alt="" coords="387,2201,597,2245"/>
+<area shape="rect" id="node37" href="$d6/d82/classG4ecpssrBaseLixsModel.html#a75a345e549b86d808b3508b47fad0fa2" title="G4ecpssrBaseLixsModel\l::CalculateL2CrossSection" alt="" coords="394,2269,590,2313"/>
+<area shape="rect" id="node38" href="$df/d35/classG4OrlicLiXsModel.html#a703abf13988f4fca59a7a77bf7d958b5" title="G4OrlicLiXsModel::Calculate\lL2CrossSection" alt="" coords="387,2337,597,2381"/>
+<area shape="rect" id="node39" href="$d6/d82/classG4ecpssrBaseLixsModel.html#ad14474047f9c193c605f148570f686ee" title="G4ecpssrBaseLixsModel\l::CalculateL3CrossSection" alt="" coords="394,2405,590,2449"/>
+<area shape="rect" id="node40" href="$df/d35/classG4OrlicLiXsModel.html#aac3f2864d76af144da1ceccde8330627" title="G4OrlicLiXsModel::Calculate\lL3CrossSection" alt="" coords="387,2473,597,2517"/>
+<area shape="rect" id="node41" href="$dd/d30/classG4PreCompoundTransitions.html#a6348a19b5c48f784d0d598927723524b" title="G4PreCompoundTransitions\l::CalculateProbability" alt="" coords="388,2541,596,2585"/>
+<area shape="rect" id="node42" href="$db/dfc/classG4RKFieldIntegrator.html#a33f2f0c856a9cc8ae9190ffb1f35ebc2" title="G4RKFieldIntegrator\l::CalculateTotalEnergy" alt="" coords="406,2609,578,2653"/>
+<area shape="rect" id="node43" href="$df/dde/classG4Reggeons.html#a3c977bb07250d4945e0797378b25a6d0" title="G4Reggeons::CalculateXs" alt="" coords="395,2677,589,2705"/>
+<area shape="rect" id="node44" href="$dd/daf/classG4QMDMeanField.html#a9a91e3da38c354abac3e0f4db95be1b6" title="G4QMDMeanField::calPauli\lBlockingFactor" alt="" coords="391,2729,593,2773"/>
+<area shape="rect" id="node45" href="$de/dc3/classG4RPGKMinusInelastic.html#ab781cf9184f7ee3a985bf22174c1bc3e" title="G4RPGKMinusInelastic\l::Cascade" alt="" coords="405,2797,579,2841"/>
+<area shape="rect" id="node46" href="$da/d6f/classG4RPGAntiLambdaInelastic.html#ac42198d4bf0e29acd23ff887fd452f7e" title="G4RPGAntiLambdaInelastic\l::Cascade" alt="" coords="389,2865,595,2909"/>
+<area shape="rect" id="node47" href="$d5/d1a/classG4RPGAntiProtonInelastic.html#ac9c2488819b34eb8344e743fd2d0168f" title="G4RPGAntiProtonInelastic\l::Cascade" alt="" coords="395,2933,589,2977"/>
+<area shape="rect" id="node48" href="$d3/d09/classG4RPGAntiSigmaPlusInelastic.html#a3a106c83fbc6254418c08f66c3b26890" title="G4RPGAntiSigmaPlusInelastic\l::Cascade" alt="" coords="381,3001,603,3045"/>
+<area shape="rect" id="node49" href="$d9/d66/classG4RPGSigmaPlusInelastic.html#af4dadccf82c921be8f148a9d2c11236f" title="G4RPGSigmaPlusInelastic\l::Cascade" alt="" coords="395,3069,589,3113"/>
+</map>

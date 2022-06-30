@@ -1,0 +1,18 @@
+<map id="G4EmBiasingManager::Initialise" name="G4EmBiasingManager::Initialise">
+<area shape="rect" id="node2" href="$dc/d54/classG4EmParameters.html#a81b846aac31109ba23c4febe3d80ed35" title="G4EmParameters::GetDirectional\lSplitting" alt="" coords="225,5,469,49"/>
+<area shape="rect" id="node4" href="$dc/d54/classG4EmParameters.html#a502802d807ac93f01bbcc8c823abb66f" title="G4EmParameters::GetDirectional\lSplittingRadius" alt="" coords="225,73,469,117"/>
+<area shape="rect" id="node6" href="$dc/d54/classG4EmParameters.html#ae2be8015be1363ac3a322161b1625634" title="G4EmParameters::GetDirectional\lSplittingTarget" alt="" coords="225,141,469,185"/>
+<area shape="rect" id="node8" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="254,209,441,253"/>
+<area shape="rect" id="node9" href="$d1/d35/classG4Region.html#a5e646e799ed5b44988e30ee5cd2fa582" title="G4Region::GetName" alt="" coords="267,277,427,305"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="270,329,425,373"/>
+<area shape="rect" id="node11" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="261,397,433,441"/>
+<area shape="rect" id="node12" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="252,465,443,509"/>
+<area shape="rect" id="node13" href="$d5/dda/classG4ProductionCutsTable.html#a7b0040d3ae75f54e2df3ef0e8dc81cc0" title="G4ProductionCutsTable\l::GetTableSize" alt="" coords="259,533,436,577"/>
+<area shape="rect" id="node14" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="245,601,450,629"/>
+<area shape="rect" id="node15" href="$db/d69/classG4EmBiasingManager.html#a42398b4ea876dc515d03414a564088ce" title="G4EmBiasingManager\l::SetDirectionalSplitting" alt="" coords="257,653,438,697"/>
+<area shape="rect" id="node16" href="$db/d69/classG4EmBiasingManager.html#a402e610d44f8a863be7c0978dbffc4b7" title="G4EmBiasingManager\l::SetDirectionalSplittingRadius" alt="" coords="234,721,461,765"/>
+<area shape="rect" id="node17" href="$db/d69/classG4EmBiasingManager.html#af88a630486dfa27dcd45ac8875adc2fe" title="G4EmBiasingManager\l::SetDirectionalSplittingTarget" alt="" coords="235,789,459,833"/>
+<area shape="rect" id="node3" href="$dc/d11/classG4EmExtraParameters.html#a6180e6b6406ac167cb9bfdbfbc13daa2" title="G4EmExtraParameters\l::GetDirectionalSplitting" alt="" coords="541,5,723,49"/>
+<area shape="rect" id="node5" href="$dc/d11/classG4EmExtraParameters.html#af1acda0d615c745172b6e7906d72b387" title="G4EmExtraParameters\l::GetDirectionalSplittingRadius" alt="" coords="517,73,747,117"/>
+<area shape="rect" id="node7" href="$dc/d11/classG4EmExtraParameters.html#aa4d9f85b9139685a9c868d4e29424aeb" title="G4EmExtraParameters\l::GetDirectionalSplittingTarget" alt="" coords="519,141,745,185"/>
+</map>

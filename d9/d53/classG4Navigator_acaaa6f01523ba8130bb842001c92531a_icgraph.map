@@ -1,0 +1,17 @@
+<map id="G4Navigator::EnteredDaughterVolume" name="G4Navigator::EnteredDaughterVolume">
+<area shape="rect" id="node2" href="$d9/d53/classG4Navigator.html#a95fef49e6f787933c4de4a2e677e4878" title="G4Navigator::GetLocalExit\lNormal" alt="" coords="303,108,503,152"/>
+<area shape="rect" id="node16" href="$d6/ddc/classG4Transportation.html#a7fc2d11481d4097260d8198a9049c5ea" title="G4Transportation::PostStepDoIt" alt="" coords="285,176,520,204"/>
+<area shape="rect" id="node3" href="$dc/d0d/classG4MultiNavigator.html#a9f7075c7dc00ad8247601cef5c3c5959" title="G4MultiNavigator::GetLocal\lExitNormal" alt="" coords="577,5,783,49"/>
+<area shape="rect" id="node5" href="$d9/d53/classG4Navigator.html#a94afe079c3dca3ff667189e110faf0e9" title="G4Navigator::GetLocalExit\lNormalAndCheck" alt="" coords="580,73,780,117"/>
+<area shape="rect" id="node14" href="$d7/d70/classG4VTransitionRadiation.html#abaee366f8dc6275af7ce4ee2e5a6dba5" title="G4VTransitionRadiation\l::PostStepDoIt" alt="" coords="591,141,769,185"/>
+<area shape="rect" id="node15" href="$d6/d2d/classG4RayTrajectory.html#ab224097a11e6442679e60adc8f294393" title="G4RayTrajectory::AppendStep" alt="" coords="568,209,792,237"/>
+<area shape="rect" id="node4" href="$dc/d0d/classG4MultiNavigator.html#a75fa408945b961e93d1ce15276cb5efb" title="G4MultiNavigator::GetLocal\lExitNormalAndCheck" alt="" coords="841,5,1048,49"/>
+<area shape="rect" id="node6" href="$d9/d53/classG4Navigator.html#a774fc887b0c8de9656f32df97cef56a9" title="G4Navigator::GetGlobalExit\lNormal" alt="" coords="840,73,1049,117"/>
+<area shape="rect" id="node7" href="$da/d15/classG4ErrorPropagationNavigator.html#ac2e4495daf3a3251967578af05b32521" title="G4ErrorPropagationNavigator\l::GetGlobalExitNormal" alt="" coords="1097,5,1319,49"/>
+<area shape="rect" id="node8" href="$dc/d0d/classG4MultiNavigator.html#a0e105cc3bc9b34da2f465f2d5e1186b0" title="G4MultiNavigator::GetGlobal\lExitNormal" alt="" coords="1101,73,1315,117"/>
+<area shape="rect" id="node9" href="$d1/d32/classG4VIntersectionLocator.html#aa8b8cbabafa12db67b28ce8bcb14bc3e" title="G4VIntersectionLocator\l::GetLastSurfaceNormal" alt="" coords="1117,141,1299,185"/>
+<area shape="rect" id="node10" href="$d1/d32/classG4VIntersectionLocator.html#a523cc873ed54f62feb572896c85de4b7" title="G4VIntersectionLocator\l::GetSurfaceNormal" alt="" coords="1367,141,1547,185"/>
+<area shape="rect" id="node11" href="$db/d11/classG4BrentLocator.html#ae709b2a77e1e439b05c9d3a42b7068c7" title="G4BrentLocator::Estimate\lIntersectionPoint" alt="" coords="1600,73,1795,117"/>
+<area shape="rect" id="node12" href="$d0/db2/classG4MultiLevelLocator.html#a350e1a71216e1ed1f144be582c0c8428" title="G4MultiLevelLocator\l::EstimateIntersectionPoint" alt="" coords="1595,141,1799,185"/>
+<area shape="rect" id="node13" href="$dc/d68/classG4SimpleLocator.html#a72c7eec6ba41bf0e2f3a0b4606729e21" title="G4SimpleLocator::Estimate\lIntersectionPoint" alt="" coords="1595,209,1800,253"/>
+</map>

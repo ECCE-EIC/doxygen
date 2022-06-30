@@ -1,0 +1,27 @@
+var classG4SeltzerBergerModel =
+[
+    [ "G4SeltzerBergerModel", "db/d8c/classG4SeltzerBergerModel.html#ac3c530b933d388b25d116f043c4428d3", null ],
+    [ "~G4SeltzerBergerModel", "db/d8c/classG4SeltzerBergerModel.html#a9410f12fb179228a0d857d6ad4feb0c7", null ],
+    [ "G4SeltzerBergerModel", "db/d8c/classG4SeltzerBergerModel.html#a372314d36b21c79f2b12e0af8bd0016a", null ],
+    [ "ComputeDXSectionPerAtom", "db/d8c/classG4SeltzerBergerModel.html#a7bede715e76b9e7b1b4f7edd365b320c", null ],
+    [ "FindDirectoryPath", "db/d8c/classG4SeltzerBergerModel.html#aa703980b6a18ac023072b1e980f2bc21", null ],
+    [ "Initialise", "db/d8c/classG4SeltzerBergerModel.html#a221cdb5d20dcf68c54bd0ea0d361cb23", null ],
+    [ "InitialiseForElement", "db/d8c/classG4SeltzerBergerModel.html#a4dafa901b4196aea52e354eeff760f6c", null ],
+    [ "operator=", "db/d8c/classG4SeltzerBergerModel.html#af6f6578ac3b16d8242ff428ffc09fd01", null ],
+    [ "ReadData", "db/d8c/classG4SeltzerBergerModel.html#a0f06cbca525895e2d001a9f6d013c495", null ],
+    [ "SampleEnergyTransfer", "db/d8c/classG4SeltzerBergerModel.html#a60536586cdaa7d9f8c8dd69838da8d64", null ],
+    [ "SampleSecondaries", "db/d8c/classG4SeltzerBergerModel.html#a39d9f8226310b7226379234d71061080", null ],
+    [ "SetBicubicInterpolationFlag", "db/d8c/classG4SeltzerBergerModel.html#aa31c8759fdd8d3676f97546c2e1333b6", null ],
+    [ "SetupForMaterial", "db/d8c/classG4SeltzerBergerModel.html#a31f4d1fc8a03ac40795b57f677b9971a", null ],
+    [ "fIndx", "db/d8c/classG4SeltzerBergerModel.html#a02d3d0016f43e2b6eabf499db01a1025", null ],
+    [ "fIndy", "db/d8c/classG4SeltzerBergerModel.html#ac314f7defc2dd13c4f22f09d2cc4e0c6", null ],
+    [ "fIsUseBicubicInterpolation", "db/d8c/classG4SeltzerBergerModel.html#a8e9e2bd35fd5ae6ab698bb9f17a878c3", null ],
+    [ "fIsUseSamplingTables", "db/d8c/classG4SeltzerBergerModel.html#a0783e58a6b0ab041d640de62bf6747b9", null ],
+    [ "fNumWarnings", "db/d8c/classG4SeltzerBergerModel.html#a35b0c40c2ed140fb45c1723de6368350", null ],
+    [ "gDataDirectory", "db/d8c/classG4SeltzerBergerModel.html#a5e10c9f8a99d974592d7b1cf30097833", null ],
+    [ "gExpNumLimit", "db/d8c/classG4SeltzerBergerModel.html#a44777aeb8aca2366c09ab1db228db8c3", null ],
+    [ "gMaxZet", "db/d8c/classG4SeltzerBergerModel.html#aef3a3b66031cb2782d7dfd43dfa28ebd", null ],
+    [ "gSBDCSData", "db/d8c/classG4SeltzerBergerModel.html#adeba1de465af5ca802b7098a1027f73d", null ],
+    [ "gSBSamplingTable", "db/d8c/classG4SeltzerBergerModel.html#addb3671a3934e5a9e98cce2e13a67f67", null ],
+    [ "gYLimitData", "db/d8c/classG4SeltzerBergerModel.html#a7fe0cd4c5a46850576c3c6def801aa83", null ]
+];

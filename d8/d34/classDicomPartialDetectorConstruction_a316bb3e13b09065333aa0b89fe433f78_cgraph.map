@@ -1,0 +1,12 @@
+<map id="DicomPartialDetectorConstruction::ReadPhantomDataFile" name="DicomPartialDetectorConstruction::ReadPhantomDataFile">
+<area shape="rect" id="node2" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="617,5,855,33"/>
+<area shape="rect" id="node3" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="376,56,483,84"/>
+<area shape="rect" id="node4" href="$d8/d34/classDicomPartialDetectorConstruction.html#a504aa22c9165f6fd1a2fbe37ad3c3212" title="DicomPartialDetectorConstruction\l::ReadVoxelDensitiesPartial" alt="" coords="304,108,555,152"/>
+<area shape="rect" id="node5" href="$d2/dd2/classG4UIcommand.html#ad77b7ee0e99df3dd7d543b385f68a49b" title="G4UIcommand::ConvertToDouble" alt="" coords="613,61,859,89"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="646,113,826,141"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="652,165,820,193"/>
+<area shape="rect" id="node8" href="$d8/d5f/classDicomDetectorConstruction.html#a4dddcb0f2046e44ad33432a4bdd794a8" title="DicomDetectorConstruction\l::BuildMaterialWithChangingDensity" alt="" coords="603,217,869,261"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="955,173,1141,201"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="935,225,1161,253"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="917,277,1179,305"/>
+</map>

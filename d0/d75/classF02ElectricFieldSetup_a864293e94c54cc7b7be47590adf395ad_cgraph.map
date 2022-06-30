@@ -1,0 +1,23 @@
+<map id="F02ElectricFieldSetup::F02ElectricFieldSetup" name="F02ElectricFieldSetup::F02ElectricFieldSetup">
+<area shape="rect" id="node2" href="$d0/d75/classF02ElectricFieldSetup.html#a8391eb94d9b2b70cf1099bc712c3062b" title="F02ElectricFieldSetup\l::GetGlobalFieldManager" alt="" coords="229,143,419,187"/>
+<area shape="rect" id="node11" href="$d0/d75/classF02ElectricFieldSetup.html#a52d15424e57942fc786b33b562e86a61" title="F02ElectricFieldSetup\l::UpdateIntegrator" alt="" coords="241,279,407,323"/>
+<area shape="rect" id="node3" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="471,75,683,119"/>
+<area shape="rect" id="node10" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="478,143,677,187"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="754,75,961,119"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1103,255,1209,283"/>
+<area shape="rect" id="node6" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1059,161,1253,205"/>
+<area shape="rect" id="node7" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1079,5,1233,33"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1071,57,1241,85"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1042,109,1270,137"/>
+<area shape="rect" id="node12" href="$d0/d75/classF02ElectricFieldSetup.html#a12b3a414fc83c3b31ce1f38e45a444c6" title="F02ElectricFieldSetup\l::CreateStepper" alt="" coords="494,347,661,391"/>
+<area shape="rect" id="node15" href="$d3/df3/classG4MagIntegratorStepper.html#ac1eb8c4e96ae2022205f7273ee69c1f8" title="G4MagIntegratorStepper\l::GetNumberOfVariables" alt="" coords="482,415,673,459"/>
+<area shape="rect" id="node16" href="$dc/d5a/classG4FieldManager.html#a7a32f93dd4eebfb185527d0896a0e2a3" title="G4FieldManager::SetChord\lFinder" alt="" coords="477,211,678,255"/>
+<area shape="rect" id="node17" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="467,279,688,323"/>
+<area shape="rect" id="node13" href="$d2/df5/classG4MagInt__Driver.html#a68c93eea7c8bfe4242de1d9104eaabac" title="G4MagInt_Driver::RenewStepper\lAndAdjust" alt="" coords="736,467,979,511"/>
+<area shape="rect" id="node14" href="$d2/df5/classG4MagInt__Driver.html#afe6d74b104f2556990576e7ebc717b22" title="G4MagInt_Driver::ReSetParameters" alt="" coords="1027,475,1285,503"/>
+<area shape="rect" id="node18" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="759,331,955,375"/>
+<area shape="rect" id="node20" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="743,399,971,443"/>
+<area shape="rect" id="node21" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="770,143,945,187"/>
+<area shape="rect" id="node22" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="777,211,938,255"/>
+<area shape="rect" id="node19" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="1057,331,1255,375"/>
+</map>

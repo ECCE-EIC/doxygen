@@ -1,0 +1,17 @@
+<map id="G4BinaryTritonBuilder::Build" name="G4BinaryTritonBuilder::Build">
+<area shape="rect" id="node2" href="$de/dc6/classG4HadronicProcess.html#aeb2675ad54cae9f75863ab3c993684f3" title="G4HadronicProcess::\lRegisterMe" alt="" coords="231,185,391,229"/>
+<area shape="rect" id="node15" href="$db/d92/classG4HadronicInteraction.html#ae85559157298afaf484e452864caef56" title="G4HadronicInteraction\l::SetMaxEnergy" alt="" coords="224,253,397,297"/>
+<area shape="rect" id="node16" href="$db/d92/classG4HadronicInteraction.html#a5b04006721fab073f09f22acc5b1e6f7" title="G4HadronicInteraction\l::SetMinEnergy" alt="" coords="224,321,397,365"/>
+<area shape="rect" id="node3" href="$d0/d09/classG4EnergyRangeManager.html#a159b7ee41cecf5f4315cd1cccec2da1d" title="G4EnergyRangeManager\l::RegisterMe" alt="" coords="462,5,653,49"/>
+<area shape="rect" id="node4" href="$dd/d0d/classG4HadronicException.html#a6ecb8442f0e20bc0bf2f823606a07bb0" title="G4HadronicException\l::Report" alt="" coords="474,73,641,117"/>
+<area shape="rect" id="node5" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="445,141,669,169"/>
+<area shape="rect" id="node6" href="$db/d92/classG4HadronicInteraction.html#ab5d00b0fa99a5da9656a52cad9a042cc" title="G4HadronicInteraction\l::GetModelName" alt="" coords="724,241,897,285"/>
+<area shape="rect" id="node7" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="504,245,611,273"/>
+<area shape="rect" id="node8" href="$da/d41/classG4HadronicProcessStore.html#aa8c636c772b4d43429b6903a161d7eeb" title="G4HadronicProcessStore\l::Instance" alt="" coords="464,365,651,409"/>
+<area shape="rect" id="node14" href="$da/d41/classG4HadronicProcessStore.html#aac32aadb53ee234b81ae20159bc91e3c" title="G4HadronicProcessStore\l::RegisterInteraction" alt="" coords="464,297,651,341"/>
+<area shape="rect" id="node9" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="717,365,904,409"/>
+<area shape="rect" id="node10" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="985,321,1101,349"/>
+<area shape="rect" id="node11" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="986,373,1099,401"/>
+<area shape="rect" id="node12" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="952,425,1133,453"/>
+<area shape="rect" id="node13" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1181,417,1368,461"/>
+</map>

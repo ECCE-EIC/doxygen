@@ -1,0 +1,51 @@
+<map id="G4String::remove" name="G4String::remove">
+<area shape="rect" id="node2" href="$d1/d43/classG4SDStructure.html#a3e5f7dc37063343a5bab1a03656a9558" title="G4SDStructure::Activate" alt="" coords="567,169,753,197"/>
+<area shape="rect" id="node4" href="$d3/d31/classG4UIcommandTree.html#a91a40ce81aa790d11a9b51187e8d1181" title="G4UIcommandTree::AddNewCommand" alt="" coords="195,453,478,481"/>
+<area shape="rect" id="node7" href="$d1/d43/classG4SDStructure.html#af288d528ebb206e5dd190623b4858f9d" title="G4SDStructure::AddNewDetector" alt="" coords="537,247,783,275"/>
+<area shape="rect" id="node9" href="$d8/def/classG4UImanager.html#a2db8f1909b2b35a3000f97b95c8a9b17" title="G4UImanager::ApplyCommand" alt="" coords="545,621,775,649"/>
+<area shape="rect" id="node29" href="$de/d50/classG4UItcsh.html#a12a4c3e24d7fba0c59c3b222bcc3798d" title="G4UItcsh::CompleteCommand" alt="" coords="547,673,773,701"/>
+<area shape="rect" id="node30" href="$d3/d31/classG4UIcommandTree.html#ac946de978a2688e984d8b3f7191d50de" title="G4UIcommandTree::Complete\lCommandPath" alt="" coords="548,801,772,845"/>
+<area shape="rect" id="node31" href="$d1/d43/classG4SDStructure.html#a02f143832c4920436d2b5c9a2dacb0fd" title="G4SDStructure::ExtractDirName" alt="" coords="218,221,455,249"/>
+<area shape="rect" id="node32" href="$d1/d43/classG4SDStructure.html#a7f6152c19fcb66929752ba07eff859e4" title="G4SDStructure::FindSensitive\lDetector" alt="" coords="550,325,770,369"/>
+<area shape="rect" id="node33" href="$d3/d31/classG4UIcommandTree.html#aac6933c8de3202dcde76149ac4193efa" title="G4UIcommandTree::FindCommandTree" alt="" coords="195,832,479,860"/>
+<area shape="rect" id="node34" href="$d3/d31/classG4UIcommandTree.html#ac0f4ce28609f8d169e17020ad9aeffdc" title="G4UIcommandTree::FindPath" alt="" coords="229,557,445,585"/>
+<area shape="rect" id="node35" href="$d1/d43/classG4SDStructure.html#aa1cf9d96ea3cd63d599fcc8bc667c8aa" title="G4SDStructure::G4SDStructure" alt="" coords="221,325,452,353"/>
+<area shape="rect" id="node36" href="$df/dbc/classG4VSensitiveDetector.html#aa0a431c6c8215c988da31522c3331676" title="G4VSensitiveDetector\l::G4VSensitiveDetector" alt="" coords="247,884,427,928"/>
+<area shape="rect" id="node37" href="$d8/def/classG4VUIshell.html#a5843a7056c6b95642eeea60d89d0815f" title="G4VUIshell::GetAbsCommand\lDirPath" alt="" coords="225,661,448,705"/>
+<area shape="rect" id="node38" href="$de/d50/classG4UItcsh.html#a5ddffc1544e0e66b7b6d72403f121108" title="G4UItcsh::ListMatchedCommand" alt="" coords="539,728,781,756"/>
+<area shape="rect" id="node39" href="$dc/da5/classG4MPIsession.html#af9913a91a6b25ecfc3ba9f98f616012c" title="G4MPIsession::GetCommand" alt="" coords="229,952,445,980"/>
+<area shape="rect" id="node40" href="$dd/d44/classG4ZMQServer.html#a04de4c5bacc769115349f247f9ee1a17" title="G4ZMQServer::GetCommand" alt="" coords="228,1004,445,1032"/>
+<area shape="rect" id="node41" href="$d9/d2a/classG4UIGAG.html#a3e2f3124649ea76b750301928b7d8dc9" title="G4UIGAG::GetCommand" alt="" coords="243,1056,430,1084"/>
+<area shape="rect" id="node42" href="$d5/de9/classG4UIterminal.html#a9ab530970c8dfaaad9bb770c9bd286ed" title="G4UIterminal::GetCommand" alt="" coords="231,1108,443,1136"/>
+<area shape="rect" id="node43" href="$d3/d6e/classG4UIGainServer.html#abebfb8096705f5f30234270ad27da92f" title="G4UIGainServer::GetCommand" alt="" coords="221,1160,453,1188"/>
+<area shape="rect" id="node44" href="$d1/d4c/classG4UIcsh.html#aa2fd80c1e2431fccb683a778ac33ea04" title="G4UIcsh::GetCommandLineString" alt="" coords="213,1212,461,1240"/>
+<area shape="rect" id="node45" href="$de/d50/classG4UItcsh.html#abbe9752d2c032d82a7bec0ea8b8719af" title="G4UItcsh::GetCommandLine\lString" alt="" coords="230,1264,443,1308"/>
+<area shape="rect" id="node46" href="$d5/dde/classG4AdjointTrackingAction.html#a39d83a56150963ec969578bb875ebf43" title="G4AdjointTrackingAction\l::PostUserTrackingAction" alt="" coords="243,1332,430,1376"/>
+<area shape="rect" id="node47" href="$db/d16/classG4AdjointSimManager.html#a7053e933bc42fec771cf12c2e627793f" title="G4AdjointSimManager\l::RegisterAtEndOfAdjointTrack" alt="" coords="225,1400,449,1444"/>
+<area shape="rect" id="node48" href="$d3/d31/classG4UIcommandTree.html#af815416510de91fb90e3ff6511519d3a" title="G4UIcommandTree::RemoveCommand" alt="" coords="195,1468,478,1496"/>
+<area shape="rect" id="node49" href="$d3/d87/classG4GDMLRead.html#ac228c6f962eae21f0c22a4eff347500c" title="G4GDMLRead::Strip" alt="" coords="259,1520,414,1548"/>
+<area shape="rect" id="node50" href="$d3/d87/classG4GDMLRead.html#aea1e72e21c14f318200c90bf34bed5a3" title="G4GDMLRead::StripName" alt="" coords="239,1572,434,1600"/>
+<area shape="rect" id="node3" href="$d9/d6b/classG4SDManager.html#a6e061e90f913cf14077d872356474f3c" title="G4SDManager::Activate" alt="" coords="881,5,1063,33"/>
+<area shape="rect" id="node5" href="$d8/def/classG4UImanager.html#a92eef36ed224922c7db4d26c39369eac" title="G4UImanager::AddNewCommand" alt="" coords="848,109,1096,137"/>
+<area shape="rect" id="node6" href="$d8/def/classG4UImanager.html#a37a7a4787e89063b1bee675bbc0d9ead" title="G4UImanager::AddWorkerCommand" alt="" coords="527,452,793,480"/>
+<area shape="rect" id="node8" href="$d9/d6b/classG4SDManager.html#a8380c44487a009e4f53bb0a998bc8c31" title="G4SDManager::AddNewDetector" alt="" coords="851,57,1093,85"/>
+<area shape="rect" id="node10" href="$d0/d78/classPHG4Reco.html#a83fd9e9472f94d9a29be65df65e400ef" title="interface to G4 cmd interpreter" alt="" coords="868,741,1076,769"/>
+<area shape="rect" id="node11" href="$d0/d78/classPHG4Reco.html#a33f54be418a2c156914455cfc5bea595" title="start the gui" alt="" coords="894,793,1050,821"/>
+<area shape="rect" id="node12" href="$dc/dd7/classPHG4ScoringManager.html#a6e9899da695ab233fceca7cce54bee78" title="full initialization" alt="" coords="887,845,1057,889"/>
+<area shape="rect" id="node13" href="$da/d1b/Ultra_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="945,913,999,941"/>
+<area shape="rect" id="node14" href="$dc/d34/classCexmcRunManager.html#a1a89fa04f3525ac1f92ab1a280a9a788" title="CexmcRunManager::DoCommon\lEventLoop" alt="" coords="852,965,1092,1009"/>
+<area shape="rect" id="node15" href="$d3/d69/classGammaRayTelDetectorConstruction.html#aa2503878bc2e61da702304d3804bb2d1" title="GammaRayTelDetectorConstruction\l::SetMagField" alt="" coords="841,1033,1103,1077"/>
+<area shape="rect" id="node16" href="$dc/dde/classGammaRayTelRunAction.html#a84e2ca92f9818fdc8694a35dce6b1c94" title="GammaRayTelRunAction\l::BeginOfRunAction" alt="" coords="879,1101,1065,1145"/>
+<area shape="rect" id="node17" href="$d1/d14/classCML2AcceleratorConstruction.html#ab59b6d510232fdd90d3858796bb9e260" title="CML2AcceleratorConstruction\l::design" alt="" coords="862,1169,1082,1213"/>
+<area shape="rect" id="node18" href="$d9/ddc/classDMXEventAction.html#a3da9b297f1eb8a5c987193ee74dd36e1" title="DMXEventAction::drawTracks" alt="" coords="863,1237,1081,1265"/>
+<area shape="rect" id="node19" href="$d9/d1f/classXrayFluoRunAction.html#ab7e3d17c925333a1c522c8a79febd7d9" title="XrayFluoRunAction::\lBeginOfRunAction" alt="" coords="893,1289,1051,1333"/>
+<area shape="rect" id="node20" href="$d9/d1f/classXrayFluoRunAction.html#a4ae9b6499aba4cfd5236bea90fd6075a" title="XrayFluoRunAction::\lEndOfRunAction" alt="" coords="893,161,1051,205"/>
+<area shape="rect" id="node21" href="$d4/d1d/classXrayFluoSimulation.html#accd4c375c6adf36bc22587e9aa477c85" title="XrayFluoSimulation\l::RunSimulation" alt="" coords="896,229,1048,273"/>
+<area shape="rect" id="node22" href="$de/dc3/classXrayTelRunAction.html#a340b2b055f21ca3585ffe6d3983a6aab" title="XrayTelRunAction::BeginOf\lRunAction" alt="" coords="871,297,1073,341"/>
+<area shape="rect" id="node23" href="$de/dc3/classXrayTelRunAction.html#aa3c85f246fd8486c04eddc5d121eee98" title="XrayTelRunAction::EndOfRun\lAction" alt="" coords="865,365,1079,409"/>
+<area shape="rect" id="node24" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="933,433,1011,461"/>
+<area shape="rect" id="node25" href="$da/d38/classLXeDetectorConstruction.html#a83360c09148d278342530ac52d5a6c2c" title="LXeDetectorConstruction\l::SetDefaults" alt="" coords="877,485,1067,529"/>
+<area shape="rect" id="node26" href="$dc/d72/classWLSSteppingAction.html#ad546e4d04c1aa9a5bfdd0714986d6bf7" title="WLSSteppingAction::\lSaveRandomStatus" alt="" coords="891,553,1053,597"/>
+<area shape="rect" id="node27" href="$da/df9/classtbbTask.html#ac48835b07dd4ff768b9b78c449f4c6e8" title="tbbTask::execute" alt="" coords="905,621,1039,649"/>
+<area shape="rect" id="node28" href="$dc/d05/classPerspectiveVisActionMessenger.html#a40354c5df9bb5acca21b12ad20724b59" title="PerspectiveVisActionMessenger\l::SetNewValue" alt="" coords="854,673,1090,717"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/dba/classFW_1_1Sequencer.html#a0e5d6dfc5d4d4a23973d9d2453de96a1" title="FW::Sequencer::addAlgorithm" alt="" coords="114,5,338,33"/>
+<area shape="rect" id="node3" href="$d6/d55/namespaceFW_1_1Options.html#a4de04c7095cf34079cb7eaa38d7965b2" title="Add common output&#45;related options." alt="" coords="108,57,344,85"/>
+<area shape="rect" id="node4" href="$d8/dba/classFW_1_1Sequencer.html#a9637b458c6a7ef0898965e1dd878dc7a" title="FW::Sequencer::addReader" alt="" coords="123,109,329,137"/>
+<area shape="rect" id="node5" href="$d6/d55/namespaceFW_1_1Options.html#a0ae9979a970816c96e848f3b6747807e" title="Add sequencer options, e.g. number of events." alt="" coords="121,161,331,205"/>
+<area shape="rect" id="node6" href="$d6/d55/namespaceFW_1_1Options.html#aff334d85da454b0e8ba3582ed31f9359" title="FW::Options::makeDefault\lOptions" alt="" coords="127,229,325,273"/>
+<area shape="rect" id="node7" href="$d6/d55/namespaceFW_1_1Options.html#a03e9eee9ace87849f52983a2ef11dab6" title="FW::Options::parse" alt="" coords="151,297,301,325"/>
+<area shape="rect" id="node8" href="$d6/d55/namespaceFW_1_1Options.html#a3eae7e1ac725beadd756591da42d30cf" title="Read the log level." alt="" coords="392,359,593,387"/>
+<area shape="rect" id="node9" href="$d6/d55/namespaceFW_1_1Options.html#a32198973bcbd21e22db51ac57472e58a" title="Read the sequencer config." alt="" coords="118,349,334,393"/>
+<area shape="rect" id="node10" href="$d8/dba/classFW_1_1Sequencer.html#a310ddbba7038b13dba04ec088c45a9f7" title="FW::Sequencer::run" alt="" coords="149,469,303,497"/>
+<area shape="rect" id="node11" href="$d3/dd5/jewel-2_82_80_8f.html#ac10ce76c4f5f9029887dacaed4e00578" title="init" alt="" coords="471,916,515,944"/>
+<area shape="rect" id="node48" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="403,415,582,443"/>
+<area shape="rect" id="node50" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="414,469,571,497"/>
+<area shape="rect" id="node12" href="$db/dbb/xmlrole_8cc.html#a62f133652f0a0ae574e6e2fa4110268d" title="common" alt="" coords="1389,971,1469,999"/>
+<area shape="rect" id="node13" href="$d8/d1a/classHiMain1.html#a676ccaef5fa9c10e945e6d1477aeb366" title="HiMain1::np" alt="" coords="1172,100,1275,128"/>
+<area shape="rect" id="node15" href="$d0/d83/classActsFatras_1_1LandauDistribution.html#a692e73569c82329696eadc0fe9ff5bdf" title="Return the currently configured distribution parameters." alt="" coords="843,1247,1072,1291"/>
+<area shape="rect" id="node16" href="$d0/d6b/compress_8c.html#aef315743418d760a360e1be293d27cd1" title="compress" alt="" coords="914,1625,1001,1653"/>
+<area shape="rect" id="node18" href="$d3/d4a/meix_8f.html#a6fd5f374c0445418feb50ae20b29cd30" title="eix" alt="" coords="697,889,739,917"/>
+<area shape="rect" id="node20" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="1203,816,1243,844"/>
+<area shape="rect" id="node21" href="$d2/d93/structActs_1_1Extent.html#a90ef6b643a9b59e4f79d98f972c82dd2" title="Acts::Extent::check" alt="" coords="641,129,795,157"/>
+<area shape="rect" id="node23" href="$d8/dc7/classkdfinder_1_1TVector.html#a43df24b54fc42e034041a4cc71f96b8a" title="kdfinder::TVector::unit" alt="" coords="871,289,1044,317"/>
+<area shape="rect" id="node25" href="$d1/d40/structActs_1_1detail_1_1VoidNavigator.html#a8546b6149743722f397087658a21bfa6" title="Acts::detail::VoidNavigator\l::status" alt="" coords="856,341,1059,385"/>
+<area shape="rect" id="node26" href="$d8/d22/classnlohmann_1_1detail_1_1lexer.html#aac3041cd2b9291e64fee38db422863c9" title="nlohmann::detail::lexer\l::scan" alt="" coords="867,409,1047,453"/>
+<area shape="rect" id="node27" href="$d3/dd5/jewel-2_82_80_8f.html#a152ed6c9954be985f3e7368f1c19d702" title="printtime" alt="" coords="1182,1143,1265,1171"/>
+<area shape="rect" id="node28" href="$d3/dd5/jewel-2_82_80_8f.html#a6bf3f469e3c2d7418ebca2b76c167426" title="printlogo" alt="" coords="677,1045,759,1073"/>
+<area shape="rect" id="node29" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="1123,1487,1324,1531"/>
+<area shape="rect" id="node30" href="$d2/d18/medium-simple_8f.html#adadf3a87d352de8d415a50a0aa704771" title="medinit" alt="" coords="681,580,755,608"/>
+<area shape="rect" id="node38" href="$d2/d18/medium-simple_8f.html#a4cb6e969ad6295a9ec499dd59e4fefa1" title="mednextevt" alt="" coords="905,185,1009,213"/>
+<area shape="rect" id="node39" href="$d6/dcf/pythia6425mod_8f.html#ac28b7ef95cee2881a46f71d3a88d05ac" title="pyr" alt="" coords="1201,237,1245,265"/>
+<area shape="rect" id="node40" href="$d3/dd5/jewel-2_82_80_8f.html#a2d3897d6d748d346b4094491ef86a9da" title="eixint" alt="" coords="688,941,748,969"/>
+<area shape="rect" id="node41" href="$d3/dd5/jewel-2_82_80_8f.html#a62047f8869694c81ff2deae6f8aa2479" title="insudaint" alt="" coords="675,1444,761,1472"/>
+<area shape="rect" id="node45" href="$d3/dd5/jewel-2_82_80_8f.html#ae02c7535fcec507ceebd0db60e97f9ae" title="splitfncint" alt="" coords="673,1392,763,1420"/>
+<area shape="rect" id="node46" href="$d3/dd5/jewel-2_82_80_8f.html#afe6d8abb7a08fd7eeff3ba43c004cbf4" title="pdfint" alt="" coords="687,1496,749,1524"/>
+<area shape="rect" id="node47" href="$d3/dd5/jewel-2_82_80_8f.html#a4362b005c88a22434aca35efcae1d064" title="xsecint" alt="" coords="683,1311,753,1339"/>
+<area shape="rect" id="node14" href="$d8/d1a/classHiMain1.html#abdd4d6ac793897447c6d9f7b9e6d20ca" title="HiMain1::init" alt="" coords="1375,341,1483,369"/>
+<area shape="rect" id="node17" href="$d0/d6b/compress_8c.html#aede7e438c033a969a1a40ba6b44f91f9" title="compress2" alt="" coords="1176,1625,1271,1653"/>
+<area shape="rect" id="node19" href="$d3/dd5/jewel-2_82_80_8f.html#a128c80a01e220038eb138a985885083a" title="ei" alt="" coords="938,889,977,917"/>
+<area shape="rect" id="node22" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a04975037bb0ade4cdec36f3ef2649410" title="Acts::VectorHelpers\l::cast" alt="" coords="880,117,1035,161"/>
+<area shape="rect" id="node24" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1135,289,1311,317"/>
+<area shape="rect" id="node31" href="$d8/d1a/classHiMain1.html#afa91501b2c79bdaf9274e067b9d97e31" title="HiMain1::n0" alt="" coords="1172,581,1275,609"/>
+<area shape="rect" id="node32" href="$da/db4/classCLHEP_1_1HepLorentzRotation.html#ae74e0a88b12d04b4853703e6a352921a" title="CLHEP::HepLorentzRotation\l::boost" alt="" coords="1120,1023,1327,1067"/>
+<area shape="rect" id="node33" href="$d6/dfd/EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="1195,637,1251,665"/>
+<area shape="rect" id="node34" href="$da/de2/structFW_1_1HepMC3Particle.html#a8c9fdc0831f88503be5094525afa6509" title="Returns the id of the particle translated into Acts." alt="" coords="868,477,1047,505"/>
+<area shape="rect" id="node35" href="$d2/d18/medium-simple_8f.html#af42e581a03312671b808d92d28125e6d" title="calcta" alt="" coords="927,735,988,763"/>
+<area shape="rect" id="node37" href="$d2/d18/medium-simple_8f.html#a8c78720ec10f99ea56ca6f8e20d64253" title="calcxsection" alt="" coords="905,683,1009,711"/>
+<area shape="rect" id="node36" href="$d3/dd5/jewel-2_82_80_8f.html#a7d7b2c8fe1f5252de34c6c3ff9a601e1" title="odeint" alt="" coords="1191,971,1256,999"/>
+<area shape="rect" id="node42" href="$d2/d18/medium-simple_8f.html#aed8592c455e0f22092a5f434795d7026" title="maxscatcen" alt="" coords="906,1417,1009,1445"/>
+<area shape="rect" id="node43" href="$de/db8/classc2__factory.html#a5b189f66ec65267f3812cdc45ccf072d" title="make a *new object" alt="" coords="894,1521,1021,1549"/>
+<area shape="rect" id="node44" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="889,1469,1025,1497"/>
+<area shape="rect" id="node49" href="$d8/d03/G4ecpssrBaseKxsModel_8cc.html#afca89815e8ce05521ca0a7ec9bd17385" title="print" alt="" coords="691,13,745,41"/>
+</map>

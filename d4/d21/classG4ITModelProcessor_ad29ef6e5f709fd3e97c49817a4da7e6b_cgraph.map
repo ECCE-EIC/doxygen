@@ -1,0 +1,13 @@
+<map id="G4ITModelProcessor::ComputeTrackReaction" name="G4ITModelProcessor::ComputeTrackReaction">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="297,5,404,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="258,57,443,85"/>
+<area shape="rect" id="node4" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="321,109,380,137"/>
+<area shape="rect" id="node6" href="$d3/d7e/classG4IT.html#ac5a6578260b05e5acf6241640d75d9ce" title="G4IT::GetName" alt="" coords="289,161,413,189"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a86961e4e580944b946cfd88b82ac5524" title="G4Track::GetParticleDefinition" alt="" coords="239,213,463,241"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="273,265,428,309"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a520f19a10e8debe92844f368b162fc87" title="G4Track::GetStep" alt="" coords="281,333,421,361"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="271,385,430,413"/>
+<area shape="rect" id="node11" href="$d3/d7e/classG4IT.html#a99e4cbcb12134c6f34eb854c9159caf2" title="G4IT::SetParentID" alt="" coords="281,437,420,465"/>
+<area shape="rect" id="node12" href="$de/d58/classG4UserTimeStepAction.html#af12259db4dc2d5cc07c34e7df6de4431" title="G4UserTimeStepAction\l::UserReactionAction" alt="" coords="262,489,439,533"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="511,109,728,137"/>
+</map>

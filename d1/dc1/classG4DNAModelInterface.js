@@ -1,0 +1,28 @@
+var classG4DNAModelInterface =
+[
+    [ "MaterialParticleModelTable", "d1/dc1/classG4DNAModelInterface.html#a003b5b08a41a539c75ee33d50ed40ce6", null ],
+    [ "G4DNAModelInterface", "d1/dc1/classG4DNAModelInterface.html#adbddabe3c8ac08509fb666a3413835b9", null ],
+    [ "~G4DNAModelInterface", "d1/dc1/classG4DNAModelInterface.html#a1861b4d3c6b69923cf300e111e3d341a", null ],
+    [ "G4DNAModelInterface", "d1/dc1/classG4DNAModelInterface.html#aa731228a7da0ca28b28151b309ba79ba", null ],
+    [ "BuildMaterialMolPerVolTable", "d1/dc1/classG4DNAModelInterface.html#a001b616a8423d3c7f8c69a73503a6535", null ],
+    [ "BuildMaterialParticleModelTable", "d1/dc1/classG4DNAModelInterface.html#a7ae16e4fd0d53aee50bc3cc737f65ac8", null ],
+    [ "CrossSectionPerVolume", "d1/dc1/classG4DNAModelInterface.html#a2f0c02920eba766906106b6982e83f43", null ],
+    [ "GetDNAModel", "d1/dc1/classG4DNAModelInterface.html#ab7f2de7bc3874350e7c06d3898529221", null ],
+    [ "GetNumMoleculePerVolumeUnitForMaterial", "d1/dc1/classG4DNAModelInterface.html#a3f0dff0110ce77acb8d94349ae72cf65", null ],
+    [ "GetNumMolPerVolUnitForComponentInComposite", "d1/dc1/classG4DNAModelInterface.html#aab43b24181e92f4c6ac5d95644d256a8", null ],
+    [ "GetSelectedMaterial", "d1/dc1/classG4DNAModelInterface.html#a44eaacd575bfe7cc1610a1a81cdaaecd", null ],
+    [ "Initialise", "d1/dc1/classG4DNAModelInterface.html#a7777d73ff00288a8598fc0da86baf9b1", null ],
+    [ "InsertModelInTable", "d1/dc1/classG4DNAModelInterface.html#ac546b3358266e25258334c14769f58c3", null ],
+    [ "operator=", "d1/dc1/classG4DNAModelInterface.html#a7ae303bc86cf3357aeed44417ed1ef14", null ],
+    [ "RegisterModel", "d1/dc1/classG4DNAModelInterface.html#ad13ef99059b6454215c8f22460a40b21", null ],
+    [ "RegisterModel", "d1/dc1/classG4DNAModelInterface.html#aa6aca7e94564c7da927724e28976549d", null ],
+    [ "SampleSecondaries", "d1/dc1/classG4DNAModelInterface.html#aa6c81dfdf697c2e04417929e881dbc0d", null ],
+    [ "fCSsumTot", "d1/dc1/classG4DNAModelInterface.html#ad4b44788ed7aa0c548bcd61e3268f863", null ],
+    [ "fMaterialCS", "d1/dc1/classG4DNAModelInterface.html#a81f981a9bb3767df63f988edc53055a9", null ],
+    [ "fMaterialMolPerVol", "d1/dc1/classG4DNAModelInterface.html#a2be23296e3102d3d38ca66c5a9ca66e3", null ],
+    [ "fMaterialParticleModelTable", "d1/dc1/classG4DNAModelInterface.html#ae308ce472d5b55d4af803f6f15db9915", null ],
+    [ "fName", "d1/dc1/classG4DNAModelInterface.html#a8282fd8c6d76728291241e39b87376eb", null ],
+    [ "fpParticleChangeForGamma", "d1/dc1/classG4DNAModelInterface.html#aedcf84b97d6bbe7bdd0f12b63959be4e", null ],
+    [ "fRegisteredModels", "d1/dc1/classG4DNAModelInterface.html#a3e0d8f2db19f8a4dfcb2c80f67cdd449", null ],
+    [ "fSampledMat", "d1/dc1/classG4DNAModelInterface.html#a3efeddabb2d90fbe8eff845dc30c74ef", null ]
+];

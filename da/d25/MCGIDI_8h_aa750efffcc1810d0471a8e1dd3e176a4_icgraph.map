@@ -1,0 +1,23 @@
+<map id="MCGIDI_outputChannel_getProductAtIndex" name="MCGIDI_outputChannel_getProductAtIndex">
+<area shape="rect" id="node2" href="$d6/d19/classG4GIDI__target.html#a2dab3adf8757082c12feabff100884c5" title="G4GIDI_target::getElastic\lFinalState" alt="" coords="258,55,450,99"/>
+<area shape="rect" id="node7" href="$dd/dcb/MCGIDI__reaction_8cc.html#a47882a7d6f24ede46faeeb29dd4cd85d" title="MCGIDI_reaction_ParseDetermine\lReactionProducts" alt="" coords="231,123,477,167"/>
+<area shape="rect" id="node3" href="$da/d8a/classG4LENDElastic.html#a25ac00237a115c588673f71efb8fd7f8" title="G4LENDElastic::ApplyYourself" alt="" coords="531,15,753,43"/>
+<area shape="rect" id="node4" href="$dd/d3e/classG4LENDModel.html#a4d5583bd74256209350536a0f65ff4cb" title="G4LENDModel::ApplyYourself" alt="" coords="533,67,751,95"/>
+<area shape="rect" id="node5" href="$d7/d8e/classG4LENDCombinedModel.html#a51a5c6d39cb8130b84fb4397eb1fa2dc" title="G4LENDCombinedModel\l::ApplyYourself" alt="" coords="850,5,1035,49"/>
+<area shape="rect" id="node6" href="$de/d6b/classG4LENDGammaModel.html#a25f916ffa7025a9d959d95e3cc4a72de" title="G4LENDGammaModel::ApplyYourself" alt="" coords="807,73,1079,101"/>
+<area shape="rect" id="node8" href="$dd/dcb/MCGIDI__reaction_8cc.html#ab1e43421fc13faae34396fc0d62c0b80" title="MCGIDI_reaction_ParseReaction\lTypeAndDetermineProducts" alt="" coords="525,123,759,167"/>
+<area shape="rect" id="node9" href="$dd/dcb/MCGIDI__reaction_8cc.html#ac70bf34d7f59b51f361fedd92808464c" title="MCGIDI_reaction_parseFromTOM" alt="" coords="823,131,1063,159"/>
+<area shape="rect" id="node10" href="$df/da0/MCGIDI__target__heated_8cc.html#ab6f29c0d2ba4404bc2a8b9fcddae1e92" title="MCGIDI_target_heated\l_parseReaction" alt="" coords="1127,123,1299,167"/>
+<area shape="rect" id="node11" href="$df/da0/MCGIDI__target__heated_8cc.html#affe7058a90aef52f8e693d6ba5db8aa5" title="MCGIDI_target_heated_read" alt="" coords="1347,131,1556,159"/>
+<area shape="rect" id="node12" href="$df/da0/MCGIDI__target__heated_8cc.html#a49ca2312307b553d1f6c92c329e924a1" title="MCGIDI_target_heated\l_newRead" alt="" coords="1604,123,1776,167"/>
+<area shape="rect" id="node13" href="$d0/d24/MCGIDI__target_8cc.html#a208fecc858d8265d3777be7d110f84c5" title="MCGIDI_target_readHeated\lTarget" alt="" coords="1824,123,2028,167"/>
+<area shape="rect" id="node14" href="$d6/d19/classG4GIDI__target.html#a39033a3f6c4c47077398a69a08d3fc16" title="G4GIDI_target::readTemperature" alt="" coords="2076,79,2317,107"/>
+<area shape="rect" id="node15" href="$d0/d24/MCGIDI__target_8cc.html#aceade9a3c57ad1b495684ce80626d3d1" title="MCGIDI_target_read" alt="" coords="2119,131,2274,159"/>
+<area shape="rect" id="node22" href="$d0/d24/MCGIDI__target_8cc.html#ad84900f08012646e62d5fb6b529c6bf0" title="MCGIDI_target_getHeatedTarget\lAtIndex_ReadIfNeeded" alt="" coords="2077,183,2316,227"/>
+<area shape="rect" id="node16" href="$d0/d24/MCGIDI__target_8cc.html#aaafb33a4730d63f1a901e27b04186c45" title="MCGIDI_target_newRead" alt="" coords="2381,71,2567,99"/>
+<area shape="rect" id="node20" href="$d0/d24/MCGIDI__target_8cc.html#aa4199e5c62d5cadb67be229a06a9e34c" title="MCGIDI_target_readFromMap\lViaPoPIDs" alt="" coords="2365,123,2583,167"/>
+<area shape="rect" id="node21" href="$d0/d24/MCGIDI__target_8cc.html#a4560dca48e241a7fb5e51e49e283c8a8" title="MCGIDI_target_readFromMap" alt="" coords="2365,191,2583,219"/>
+<area shape="rect" id="node17" href="$d6/d19/classG4GIDI__target.html#ad9abda532ded0d6729329d77b63e8016" title="G4GIDI_target::init" alt="" coords="2681,11,2829,39"/>
+<area shape="rect" id="node18" href="$d0/d24/MCGIDI__target_8cc.html#a4a5295fc164f2a595e31633df6421077" title="MCGIDI_target_newReadFrom\lMapViaPoPIDs" alt="" coords="2645,63,2865,107"/>
+<area shape="rect" id="node19" href="$d0/d24/MCGIDI__target_8cc.html#a829194d1b0216594e41504b4a5071648" title="MCGIDI_target_newReadFromMap" alt="" coords="2631,131,2879,159"/>
+</map>

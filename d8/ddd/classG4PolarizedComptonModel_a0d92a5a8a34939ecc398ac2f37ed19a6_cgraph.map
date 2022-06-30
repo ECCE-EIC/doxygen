@@ -1,0 +1,51 @@
+<map id="G4PolarizedComptonModel::SampleSecondaries" name="G4PolarizedComptonModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="327,57,438,85"/>
+<area shape="rect" id="node4" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a52ed790cfb69e275fdf43ed0ba078867" title="epsilon" alt="" coords="348,161,417,189"/>
+<area shape="rect" id="node7" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="643,213,709,241"/>
+<area shape="rect" id="node11" href="$d8/dcf/classCLHEP_1_1HepRandomEngine.html#ab166b636ad7672b421dd8614b686ce91" title="CLHEP::HepRandomEngine\l::flatArray" alt="" coords="281,269,485,313"/>
+<area shape="rect" id="node12" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="351,337,415,365"/>
+<area shape="rect" id="node16" href="$d7/dcb/classG4ParticleChangeForGamma.html#a017373ee7ed38d1835949ef7c31a158a" title="G4ParticleChangeForGamma\l::GetCurrentTrack" alt="" coords="275,389,491,433"/>
+<area shape="rect" id="node17" href="$d0/d42/classG4PolarizationHelper.html#aad7f99ad533de1c66d2fa43cd1663f53" title="G4PolarizationHelper\l::GetFrame" alt="" coords="300,457,465,501"/>
+<area shape="rect" id="node20" href="$db/d08/classG4PolarizationManager.html#a6f270796e6d31801a3bee612890e1347" title="G4PolarizationManager\l::GetInstance" alt="" coords="293,680,472,724"/>
+<area shape="rect" id="node22" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="597,756,755,800"/>
+<area shape="rect" id="node23" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="301,971,465,1015"/>
+<area shape="rect" id="node24" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="585,836,767,880"/>
+<area shape="rect" id="node25" href="$da/dc4/classG4LogicalVolume.html#a46b97168b8edd345fa9c73a940c7afca" title="G4LogicalVolume::GetName" alt="" coords="277,1039,488,1067"/>
+<area shape="rect" id="node26" href="$da/d6a/classG4PolarizedComptonCrossSection.html#a3a57f01a5043d4b2eb241cae67c0601c" title="G4PolarizedComptonCrossSection\l::GetPol2" alt="" coords="257,1091,508,1135"/>
+<area shape="rect" id="node27" href="$da/d6a/classG4PolarizedComptonCrossSection.html#acfabf0ff8a44d99b5f6d2bcb2a3af752" title="G4PolarizedComptonCrossSection\l::GetPol3" alt="" coords="257,1159,508,1203"/>
+<area shape="rect" id="node28" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="597,908,755,952"/>
+<area shape="rect" id="node29" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="303,1227,462,1255"/>
+<area shape="rect" id="node30" href="$db/d08/classG4PolarizationManager.html#a0b85eb2141cb31bda4507867f0249aae" title="G4PolarizationManager\l::GetVolumePolarization" alt="" coords="291,1279,474,1323"/>
+<area shape="rect" id="node31" href="$da/d6a/classG4PolarizedComptonCrossSection.html#afef50dad6db13a80fc7571183b3d85a9" title="G4PolarizedComptonCrossSection\l::Initialize" alt="" coords="257,1347,508,1391"/>
+<area shape="rect" id="node32" href="$d2/d54/templates_8hh.html#a8108dbac66a414c0760f65eb9523ad41" title="sqr" alt="" coords="655,1384,697,1412"/>
+<area shape="rect" id="node33" href="$dd/d1d/classG4StokesVector.html#a9f9a35ba716af7374a10a549f7d0114b" title="G4StokesVector::InvRotateAz" alt="" coords="274,525,491,553"/>
+<area shape="rect" id="node34" href="$dd/d1d/classG4StokesVector.html#ad8e504e2bd6553e8224b8eb5c45f045e" title="G4StokesVector::RotateAz" alt="" coords="577,577,775,605"/>
+<area shape="rect" id="node35" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="844,607,1035,635"/>
+<area shape="rect" id="node36" href="$db/d08/classG4PolarizationManager.html#abd5520e259fd4ac3c24226b8b0adc384" title="G4PolarizationManager\l::IsPolarized" alt="" coords="293,1467,472,1511"/>
+<area shape="rect" id="node37" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="268,1535,497,1563"/>
+<area shape="rect" id="node38" href="$dd/d1d/classG4StokesVector.html#a30bba1f58420930d80a7907275c64595" title="G4StokesVector::p1" alt="" coords="306,1587,459,1615"/>
+<area shape="rect" id="node39" href="$dd/d1d/classG4StokesVector.html#a49b86c3a9dc3afcec4ebea610983bb48" title="G4StokesVector::p2" alt="" coords="306,1639,459,1667"/>
+<area shape="rect" id="node40" href="$dd/d1d/classG4StokesVector.html#ac59ae03bc538eb0bb6459490ffd440d3" title="G4StokesVector::p3" alt="" coords="306,1691,459,1719"/>
+<area shape="rect" id="node41" href="$d8/ddd/classG4PolarizedComptonModel.html#ae1fb2797989bdd01f7ccb85b64653fd3" title="G4PolarizedComptonModel\l::PrintWarning" alt="" coords="281,851,485,895"/>
+<area shape="rect" id="node42" href="$d6/d6c/classG4VParticleChange.html#aa7122aad56515c32d5e3e013606b33fd" title="G4VParticleChange::\lProposeLocalEnergyDeposit" alt="" coords="278,1743,487,1787"/>
+<area shape="rect" id="node43" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc" title="G4ParticleChangeForGamma\l::ProposeMomentumDirection" alt="" coords="272,1811,493,1855"/>
+<area shape="rect" id="node44" href="$d7/dcb/classG4ParticleChangeForGamma.html#a135e990d93dfc18793180ee70528e0cc" title="G4ParticleChangeForGamma\l::ProposePolarization" alt="" coords="275,1879,491,1923"/>
+<area shape="rect" id="node45" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="303,1947,463,1991"/>
+<area shape="rect" id="node46" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="303,2015,463,2059"/>
+<area shape="rect" id="node47" href="$dd/d1d/classG4StokesVector.html#a42d16e7c3ace050eb41a34deba0bfca8" title="G4StokesVector::SetPhoton" alt="" coords="280,2083,485,2111"/>
+<area shape="rect" id="node48" href="$d7/d5c/classG4DynamicParticle.html#a1963261a697f4e0c36d8153ab03a501a" title="G4DynamicParticle::\lSetPolarization" alt="" coords="304,2135,461,2179"/>
+<area shape="rect" id="node49" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852" title="G4ParticleChangeForGamma\l::SetProposedKineticEnergy" alt="" coords="275,2203,491,2247"/>
+<area shape="rect" id="node50" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="289,2271,477,2299"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="588,5,764,33"/>
+<area shape="rect" id="node5" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="657,57,695,85"/>
+<area shape="rect" id="node6" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#af897c249c47cdbc05d8382d8f42c08be" title="D" alt="" coords="657,109,695,137"/>
+<area shape="rect" id="node10" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a78a47533cb7a50cbc6a737462fe90407" title="S" alt="" coords="657,161,695,189"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="857,188,1022,216"/>
+<area shape="rect" id="node9" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="845,240,1034,268"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="580,265,772,293"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="580,317,772,345"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="556,369,796,397"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="859,517,1019,561"/>
+<area shape="rect" id="node19" href="$db/da0/namespaceCLHEP.html#ad40426ce0bf5d8b66f9d21a3e4b7ca4b" title="CLHEP::normal" alt="" coords="615,473,737,501"/>
+<area shape="rect" id="node21" href="$db/d08/classG4PolarizationManager.html#a8d437cdd4ea7c3f7c0ad7f37aa31118d" title="G4PolarizationManager\l::G4PolarizationManager" alt="" coords="582,681,770,725"/>
+</map>

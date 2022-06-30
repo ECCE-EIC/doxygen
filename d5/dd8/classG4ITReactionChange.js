@@ -1,0 +1,25 @@
+var classG4ITReactionChange =
+[
+    [ "G4ITReactionChange", "d5/dd8/classG4ITReactionChange.html#a6dfa393c58a818470e2e5e2c907786e6", null ],
+    [ "~G4ITReactionChange", "d5/dd8/classG4ITReactionChange.html#ab775ecda8fee105c1e6b5a54a6f49080", null ],
+    [ "G4ITReactionChange", "d5/dd8/classG4ITReactionChange.html#a89badc877434cfade081766d41bf0902", null ],
+    [ "AddSecondary", "d5/dd8/classG4ITReactionChange.html#a462cca140c4fa9859ef11e8b517f2807", null ],
+    [ "GetfSecondary", "d5/dd8/classG4ITReactionChange.html#a92af565da4206b305cf77e123818a637", null ],
+    [ "GetNumberOfSecondaries", "d5/dd8/classG4ITReactionChange.html#ab7e5acf2a0727ab7cd4405f1afc14fb9", null ],
+    [ "GetParticleChange", "d5/dd8/classG4ITReactionChange.html#a3e63027887cde1f459a883f568d1de70", null ],
+    [ "GetSecondary", "d5/dd8/classG4ITReactionChange.html#a385d0f6507056d1527f908f53f1595d4", null ],
+    [ "GetTrackA", "d5/dd8/classG4ITReactionChange.html#a91c35f417aaeba9ac0511eb403d9f3e6", null ],
+    [ "GetTrackB", "d5/dd8/classG4ITReactionChange.html#a21863e8e069c9f60310951b8ccaa54b6", null ],
+    [ "Initialize", "d5/dd8/classG4ITReactionChange.html#a9122b6118ea438ece4775ca57de260cb", null ],
+    [ "KillParents", "d5/dd8/classG4ITReactionChange.html#a52f17679681498b116745fb284c272c7", null ],
+    [ "operator!=", "d5/dd8/classG4ITReactionChange.html#a1d913367fd75a848a332ad35f14844d9", null ],
+    [ "operator=", "d5/dd8/classG4ITReactionChange.html#a6a63676a5245c4a16c02c3fcd70b9767", null ],
+    [ "operator==", "d5/dd8/classG4ITReactionChange.html#a13a313f206662b9bc2e5efa466b33722", null ],
+    [ "UpdateStepInfo", "d5/dd8/classG4ITReactionChange.html#ad43ca40e13f99bbcdc6570f5e9afc709", null ],
+    [ "WereParentsKilled", "d5/dd8/classG4ITReactionChange.html#ac0d8f1024182b2cf422407bdb6d8fc62", null ],
+    [ "fKillParents", "d5/dd8/classG4ITReactionChange.html#a7bbd99094b2b51ee61cad063fa9c9ab7", null ],
+    [ "fNumberOfSecondaries", "d5/dd8/classG4ITReactionChange.html#af32d0e5103851f0ea77b814652b468aa", null ],
+    [ "fParticleChange", "d5/dd8/classG4ITReactionChange.html#a23e480f99677d9834cad723b1ba29b4b", null ],
+    [ "fParticleChangeIsSet", "d5/dd8/classG4ITReactionChange.html#a8e39be30f1dc05eb4b254f46af766a71", null ],
+    [ "fSecondaries", "d5/dd8/classG4ITReactionChange.html#af9ce20ed53ada9c03d82aac82ddc6169", null ]
+];

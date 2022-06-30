@@ -1,0 +1,19 @@
+<map id="G4INCL::PhaseSpaceKopylov::generate" name="G4INCL::PhaseSpaceKopylov::generate">
+<area shape="rect" id="node2" href="$dd/d83/classG4INCL_1_1Particle.html#a8c2f1e65aebb3c8fe07f0b01d637af6f" title="Recompute the energy to match the momentum." alt="" coords="295,5,477,49"/>
+<area shape="rect" id="node4" href="$df/d7f/classG4INCL_1_1PhaseSpaceKopylov.html#a8dad0697aa9567443a0fb48aa847535d" title="Internal function used by the Kopylov algorithm." alt="" coords="279,245,493,289"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#acfa99b24e8281198b39de56d77c12121" title="G4INCL::Particle::boost" alt="" coords="297,73,475,101"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a13170ba364ab3bdaab395ba37a98fad3" title="G4INCL::Particle::boostVector" alt="" coords="276,365,496,393"/>
+<area shape="rect" id="node9" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="573,129,768,157"/>
+<area shape="rect" id="node10" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acc0f81fccd1735f59b9dbf8a4471e564" title="gives the momentum in the CM frame of two particles." alt="" coords="294,177,478,221"/>
+<area shape="rect" id="node13" href="$d5/d11/namespaceG4INCL_1_1Random.html#a0d9e4bdbfe25ceeb7cd3f786da732386" title="G4INCL::Random::normVector" alt="" coords="274,313,498,341"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#a38a68965ab7ec38fafaa1e7c6a050f79" title="G4INCL::Particle::setMass" alt="" coords="289,417,483,445"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="268,469,504,497"/>
+<area shape="rect" id="node16" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a579d703711eae6ad36dfab4847feff3a" title="Set the x coordinate." alt="" coords="305,521,467,565"/>
+<area shape="rect" id="node17" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a0e63de94390a21113831a60191b8dc90" title="Set the y coordinate." alt="" coords="305,589,467,633"/>
+<area shape="rect" id="node18" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a526404315dcb1edc407a7ec1faf9eb35" title="Set the z coordinate." alt="" coords="305,657,467,701"/>
+<area shape="rect" id="node3" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="589,7,752,51"/>
+<area shape="rect" id="node5" href="$d5/d11/namespaceG4INCL_1_1Random.html#aad2134de367e586ed59d4ebc233f65ae" title="G4INCL::Random::shoot" alt="" coords="579,301,762,329"/>
+<area shape="rect" id="node7" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa30743ac6a72bc2943cdce1f49665281" title="G4INCL::ThreeVector::dot" alt="" coords="574,76,767,104"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="567,185,775,213"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="552,237,789,265"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="G4EmDNAChemistry::ConstructTimeStepModel" name="G4EmDNAChemistry::ConstructTimeStepModel">
+<area shape="rect" id="node2" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a5ecdc8d41743350c38d64a5137f79594" title="G4DNAMolecularReactionTable\l::PrintTable" alt="" coords="288,348,517,392"/>
+<area shape="rect" id="node15" href="$df/d41/classG4VUserChemistryList.html#ab1178df64b7e8f7abe6e887890f80cfe" title="G4VUserChemistryList\l::RegisterTimeStepModel" alt="" coords="308,697,497,741"/>
+<area shape="rect" id="node19" href="$df/d69/classG4DNAMolecularStepByStepModel.html#a0bc07641a0504d7b00f7bdfa9eedfee8" title="G4DNAMolecularStepByStep\lModel::SetReactionModel" alt="" coords="295,765,510,809"/>
+<area shape="rect" id="node3" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a4f7164d4cfacbeee2e7035cd3fec7a01" title="G4DNAMolecularReactionTable\l::CanReactWith" alt="" coords="585,5,815,49"/>
+<area shape="rect" id="node5" href="$dc/da7/classG4MolecularConfiguration.html#ac0ea10e9cfcd951bf21dbf2bb28dee5f" title="G4MolecularConfiguration\l::GetName" alt="" coords="883,65,1080,109"/>
+<area shape="rect" id="node6" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="581,125,819,153"/>
+<area shape="rect" id="node7" href="$d1/dde/classG4DNAMolecularReactionData.html#a0cbcad67a56a8372b397cb42669e2883" title="G4DNAMolecularReactionData\l::GetNbProducts" alt="" coords="587,177,813,221"/>
+<area shape="rect" id="node8" href="$d1/dde/classG4DNAMolecularReactionData.html#a086248c6e90a6d6acd94799a62f7d507" title="G4DNAMolecularReactionData\l::GetObservedReactionRateConstant" alt="" coords="565,245,835,289"/>
+<area shape="rect" id="node9" href="$d1/dde/classG4DNAMolecularReactionData.html#a4e1f9fa23937fe5dfa3d2aa41675b80f" title="G4DNAMolecularReactionData\l::GetProduct" alt="" coords="587,313,813,357"/>
+<area shape="rect" id="node10" href="$d8/de2/classG4VDNAReactionModel.html#ada5b858bb4e0874dd53db89490a9faed" title="G4VDNAReactionModel\l::GetReactionRadius" alt="" coords="611,381,789,425"/>
+<area shape="rect" id="node11" href="$d8/de2/classG4VDNAReactionModel.html#ab5a6695f70e10160b11b92aaee91ffcf" title="G4VDNAReactionModel\l::GetReactionTable" alt="" coords="611,449,789,493"/>
+<area shape="rect" id="node12" href="$d8/de2/classG4VDNAReactionModel.html#a75c509e41410912f43ef4b1ba3198e89" title="G4VDNAReactionModel\l::InitialiseToPrint" alt="" coords="611,517,789,561"/>
+<area shape="rect" id="node13" href="$d8/de2/classG4VDNAReactionModel.html#abf48ca33e7e70719377ca6dcf6805a86" title="G4VDNAReactionModel\l::SetReactionTable" alt="" coords="611,585,789,629"/>
+<area shape="rect" id="node14" href="$df/d6b/title_8f.html#aa5c036d373cd37c00f0892e713b39988" title="title" alt="" coords="676,653,724,681"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="928,13,1035,41"/>
+<area shape="rect" id="node16" href="$d0/ddb/classG4VScheduler.html#a00d7b4b7df8762d1a9f9820cd4564e52" title="G4VScheduler::Instance" alt="" coords="608,705,792,733"/>
+<area shape="rect" id="node18" href="$d0/ddb/classG4VScheduler.html#a3d2be8e80bdba403205bc4fb46ba751c" title="G4VScheduler::RegisterModel" alt="" coords="589,757,811,785"/>
+<area shape="rect" id="node17" href="$de/dcb/classG4Scheduler.html#a894c0e15931104ca11c20f3d2b6715ba" title="G4Scheduler::Instance" alt="" coords="894,705,1069,733"/>
+</map>

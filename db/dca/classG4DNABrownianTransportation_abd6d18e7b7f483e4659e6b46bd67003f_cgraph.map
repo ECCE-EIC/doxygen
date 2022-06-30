@@ -1,0 +1,33 @@
+<map id="G4DNABrownianTransportation::PostStepDoIt" name="G4DNABrownianTransportation::PostStepDoIt">
+<area shape="rect" id="node2" href="$d9/d7a/classG4Step.html#afad4bd4d145ea0693d34a44ad6847003" title="G4Step::GetDeltaTime" alt="" coords="290,5,463,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="284,57,469,85"/>
+<area shape="rect" id="node4" href="$d8/d41/G4Molecule_8hh.html#a75a27630387017f1e6bce5a322b6be12" title="GetMolecule" alt="" coords="324,109,429,137"/>
+<area shape="rect" id="node7" href="$d9/d66/classG4Molecule.html#af42666e07f5f1e12f08879099e580eb6" title="G4Molecule::GetName" alt="" coords="290,161,463,189"/>
+<area shape="rect" id="node9" href="$d9/d7a/classG4Step.html#a620ff37431d6c3c0129c06b7d3fa9f5d" title="G4Step::GetStepLength" alt="" coords="286,213,467,241"/>
+<area shape="rect" id="node10" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="571,247,729,275"/>
+<area shape="rect" id="node11" href="$df/d6e/classG4ITTransportation.html#af541c0b8f834a1ee5af6491405928e84" title="G4ITTransportation\l::PostStepDoIt" alt="" coords="302,823,451,867"/>
+<area shape="rect" id="node5" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="621,105,679,133"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="831,105,1048,133"/>
+<area shape="rect" id="node8" href="$dc/da7/classG4MolecularConfiguration.html#ac0ea10e9cfcd951bf21dbf2bb28dee5f" title="G4MolecularConfiguration\l::GetName" alt="" coords="551,157,749,201"/>
+<area shape="rect" id="node12" href="$d6/d31/classG4ParticleChangeForTransport.html#a89748b7e447d5358e42636a4339d4418" title="G4ParticleChangeForTransport\l::Initialize" alt="" coords="537,299,763,343"/>
+<area shape="rect" id="node13" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="570,367,730,411"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="557,435,743,463"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="886,659,993,687"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="569,539,731,567"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="527,591,773,619"/>
+<area shape="rect" id="node18" href="$d6/d31/classG4ParticleChangeForTransport.html#a36ed861185e261d06e68911375658414" title="G4ParticleChangeForTransport\l::SetTouchableHandle" alt="" coords="537,643,763,687"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#a68db2c7e6c7c9ee4c6aeb419fe02174c" title="G4Track::GetTouchableHandle" alt="" coords="537,711,763,739"/>
+<area shape="rect" id="node20" href="$d6/d6c/classG4VParticleChange.html#a5dd2a59a7c73626333d6f3697475e20a" title="G4VParticleChange::\lProposeLastStepInVolume" alt="" coords="552,763,748,807"/>
+<area shape="rect" id="node21" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="549,831,751,859"/>
+<area shape="rect" id="node22" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="568,883,732,927"/>
+<area shape="rect" id="node23" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="537,951,763,979"/>
+<area shape="rect" id="node24" href="$da/dc4/classG4LogicalVolume.html#a24691c613a88b2c32acb13d4d14144dc" title="G4LogicalVolume::GetSensitive\lDetector" alt="" coords="533,1003,767,1047"/>
+<area shape="rect" id="node25" href="$d6/d31/classG4ParticleChangeForTransport.html#a2dce519a843be83dae31896717bdbf63" title="G4ParticleChangeForTransport\l::SetMaterialInTouchable" alt="" coords="537,1071,763,1115"/>
+<area shape="rect" id="node26" href="$d6/d31/classG4ParticleChangeForTransport.html#a9e36801fe717667d2fc542894bc20a7e" title="G4ParticleChangeForTransport\l::SetSensitiveDetectorInTouchable" alt="" coords="523,1139,777,1183"/>
+<area shape="rect" id="node27" href="$da/dc4/classG4LogicalVolume.html#a6e98cd941fcb9a71d14907b24ecbd1ea" title="G4LogicalVolume::GetMaterial\lCutsCouple" alt="" coords="537,1207,763,1251"/>
+<area shape="rect" id="node28" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="564,1275,736,1319"/>
+<area shape="rect" id="node29" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="555,1343,745,1387"/>
+<area shape="rect" id="node30" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="557,1411,743,1455"/>
+<area shape="rect" id="node31" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="564,1479,736,1523"/>
+<area shape="rect" id="node32" href="$d6/d31/classG4ParticleChangeForTransport.html#a681f3c2e2b1cbb8a345aa3f718ffcfad" title="G4ParticleChangeForTransport\l::SetMaterialCutsCoupleInTouchable" alt="" coords="517,1547,783,1591"/>
+</map>

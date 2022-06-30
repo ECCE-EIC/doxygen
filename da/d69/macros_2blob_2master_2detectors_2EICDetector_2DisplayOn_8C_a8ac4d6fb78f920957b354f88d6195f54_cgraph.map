@@ -1,0 +1,51 @@
+<map id="DisplayOn" name="DisplayOn">
+<area shape="rect" id="node2" href="$d0/d78/classPHG4Reco.html#a83fd9e9472f94d9a29be65df65e400ef" title="interface to G4 cmd interpreter" alt="" coords="155,57,363,85"/>
+<area shape="rect" id="node5" href="$d0/d78/classPHG4Reco.html#abfcea42df8b2464c689c5c24a8241e32" title="PHG4Reco::ApplyDisplayAction" alt="" coords="144,216,375,244"/>
+<area shape="rect" id="node9" href="$da/d29/classFun4AllServer.html#ac6d47a2b3bc98933a03fd63bb75d624a" title="Fun4AllServer::getSubsysReco" alt="" coords="146,552,373,580"/>
+<area shape="rect" id="node10" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="186,1405,333,1433"/>
+<area shape="rect" id="node49" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="169,1457,350,1485"/>
+<area shape="rect" id="node50" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="169,1509,350,1537"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#ad0f5beaf012e51404b712277818c6b36" title="PHG4Reco::InitUImanager" alt="" coords="459,5,656,33"/>
+<area shape="rect" id="node4" href="$d8/def/classG4UImanager.html#a2db8f1909b2b35a3000f97b95c8a9b17" title="G4UImanager::ApplyCommand" alt="" coords="442,57,673,85"/>
+<area shape="rect" id="node6" href="$d1/d13/classPHG4PhenixDetector.html#a08f9f09748e767ac536249ac56995fd2" title="PHG4PhenixDetector\l::GetPhysicalVolume" alt="" coords="476,109,639,153"/>
+<area shape="rect" id="node7" href="$d2/d44/classPHG4DisplayAction.html#ae5a73a6f7552ed4daada4f046aad7ff4" title="ApplyDisplayAction method." alt="" coords="478,177,637,221"/>
+<area shape="rect" id="node8" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="767,321,943,349"/>
+<area shape="rect" id="node11" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="476,399,639,427"/>
+<area shape="rect" id="node12" href="$d1/da8/classPHFlag.html#ad7aa90aabd5a7cd9958a2cc60048a68c" title="PHFlag::set_StringFlag" alt="" coords="471,451,643,479"/>
+<area shape="rect" id="node13" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="461,503,653,531"/>
+<area shape="rect" id="node14" href="$d2/d00/classG4NistManager.html#abb3a53647400f8477dfe1cae931c3e72" title="G4NistManager::FindOrBuild\lMaterial" alt="" coords="451,555,663,599"/>
+<area shape="rect" id="node15" href="$d1/da8/classPHFlag.html#a88212f810275c61464d51caa3cd4d1e1" title="PHFlag::set_FloatFlag" alt="" coords="475,623,640,651"/>
+<area shape="rect" id="node16" href="$d0/d78/classPHG4Reco.html#a66fc50f0871fbaf83b21edfa8ae98259" title="PHG4Reco::InitField" alt="" coords="481,675,634,703"/>
+<area shape="rect" id="node17" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="481,727,634,755"/>
+<area shape="rect" id="node18" href="$d1/d13/classPHG4PhenixDetector.html#a4a700250d75ec02bcc1809c43f124a45" title="PHG4PhenixDetector\l::Verbosity" alt="" coords="476,779,639,823"/>
+<area shape="rect" id="node19" href="$d1/d13/classPHG4PhenixDetector.html#a375bd9d82edcae5f21f39e319f3044b2" title="PHG4PhenixDetector\l::SetWorldSizeX" alt="" coords="476,847,639,891"/>
+<area shape="rect" id="node20" href="$d1/d13/classPHG4PhenixDetector.html#a74db49898240516c4136bbbdedcff188" title="PHG4PhenixDetector\l::SetWorldSizeY" alt="" coords="476,915,639,959"/>
+<area shape="rect" id="node21" href="$d1/d13/classPHG4PhenixDetector.html#a7de4106257c7435e45acb3579177c3c4" title="PHG4PhenixDetector\l::SetWorldSizeZ" alt="" coords="476,983,639,1027"/>
+<area shape="rect" id="node22" href="$d1/d13/classPHG4PhenixDetector.html#a570bf81e75c124d0d3d80040fc69ca8b" title="PHG4PhenixDetector\l::SetWorldShape" alt="" coords="476,1051,639,1095"/>
+<area shape="rect" id="node23" href="$d1/d13/classPHG4PhenixDetector.html#acdba581a56ceb2717c1553449802b153" title="PHG4PhenixDetector\l::SetWorldMaterial" alt="" coords="476,1119,639,1163"/>
+<area shape="rect" id="node24" href="$d1/d13/classPHG4PhenixDetector.html#a2e9d45f2c881b6c9ced3b3031333f1b6" title="register a detector. This is called in PHG4Reco::Init based on which detectors are found on the tree..." alt="" coords="476,1187,639,1231"/>
+<area shape="rect" id="node25" href="$d4/daa/classG4RunManager.html#acc4bc001b0249bcf749c395ec9a2a6c5" title="G4RunManager::SetUserInitialization" alt="" coords="423,1255,692,1283"/>
+<area shape="rect" id="node26" href="$d0/d78/classPHG4Reco.html#af0c0ba5027360ea57d9ee31bc949e4dd" title="PHG4Reco::setupInputEvent\lNodeReader" alt="" coords="451,1307,663,1351"/>
+<area shape="rect" id="node27" href="$d4/daa/classG4RunManager.html#ab29301ff7d14c08d12673d25734fd744" title="G4RunManager::SetUserAction" alt="" coords="740,1345,969,1373"/>
+<area shape="rect" id="node28" href="$d9/d7a/classPHG4PhenixEventAction.html#a715e0072dfcc8b3cf9434e77ee0858f6" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="465,1427,650,1471"/>
+<area shape="rect" id="node29" href="$d9/dce/classPHG4PhenixStackingAction.html#a33d5135ee656a303fb98ab3849bc6a9b" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="455,1495,659,1539"/>
+<area shape="rect" id="node30" href="$d1/d53/classPHG4PhenixSteppingAction.html#afead1d30da1e7c68616987bdf711a25b" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="454,1563,661,1607"/>
+<area shape="rect" id="node31" href="$d0/ddf/classPHG4PhenixTrackingAction.html#a300a79aafe903fda71e3683cc873f1a8" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="456,1631,659,1675"/>
+<area shape="rect" id="node32" href="$da/d44/classG4EventManager.html#aacf5223cc2c7b5a1b1fc699eed9b0ff2" title="G4EventManager::GetEvent\lManager" alt="" coords="452,1699,663,1743"/>
+<area shape="rect" id="node33" href="$da/d44/classG4EventManager.html#a24e53d73f5d14465e30e094004c35e21" title="G4EventManager::GetTracking\lManager" alt="" coords="444,1767,671,1811"/>
+<area shape="rect" id="node34" href="$d4/daa/classG4RunManager.html#a132930138102eb05d93cf24050d5c25c" title="G4RunManager::Initialize" alt="" coords="462,1835,653,1863"/>
+<area shape="rect" id="node35" href="$db/d01/classG4Cerenkov.html#afbb5d96fc5f37f3b7304463328021ba6" title="G4Cerenkov::SetMaxNumPhotons\lPerStep" alt="" coords="433,1887,681,1931"/>
+<area shape="rect" id="node36" href="$db/d01/classG4Cerenkov.html#a1c5203875b59aad88c6a106382c18acd" title="G4Cerenkov::SetMaxBetaChange\lPerStep" alt="" coords="435,1955,680,1999"/>
+<area shape="rect" id="node37" href="$db/d01/classG4Cerenkov.html#a51a4f54d5c962f7dda39b55f309c9004" title="G4Cerenkov::SetTrackSecondaries\lFirst" alt="" coords="431,2023,683,2067"/>
+<area shape="rect" id="node38" href="$d5/d96/classG4Scintillation.html#a2a2a6e0e98e7a0046a0c230e8291e65e" title="G4Scintillation::SetScintillation\lYieldFactor" alt="" coords="443,2091,672,2135"/>
+<area shape="rect" id="node39" href="$d5/d96/classG4Scintillation.html#a3f324cd9c391e09fe090b66dadb3ead0" title="G4Scintillation::SetTrack\lSecondariesFirst" alt="" coords="464,2159,651,2203"/>
+<area shape="rect" id="node40" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="453,2227,661,2271"/>
+<area shape="rect" id="node41" href="$d8/dd3/classG4ParticleTable.html#adf609084147cd80731be50a22c47723f" title="G4ParticleTable::GetIterator" alt="" coords="453,2295,662,2323"/>
+<area shape="rect" id="node42" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="469,2347,645,2391"/>
+<area shape="rect" id="node43" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="469,2415,645,2459"/>
+<area shape="rect" id="node44" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="777,2620,932,2664"/>
+<area shape="rect" id="node45" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="475,2535,640,2579"/>
+<area shape="rect" id="node46" href="$db/d01/classG4Cerenkov.html#aa521fd547ebab0b0fe17e9b2c3dcfa11" title="G4Cerenkov::IsApplicable" alt="" coords="461,2603,654,2631"/>
+<area shape="rect" id="node47" href="$d5/d2e/classG4ProcessManager.html#acda2c817a8aa46e78aad4c06c3bb0db7" title="G4ProcessManager::AddProcess" alt="" coords="439,2655,675,2683"/>
+<area shape="rect" id="node48" href="$d5/d2e/classG4ProcessManager.html#a069c7a1e9ba77acc33dc8d6abf61a00f" title="G4ProcessManager::SetProcess\lOrdering" alt="" coords="441,2707,673,2751"/>
+</map>

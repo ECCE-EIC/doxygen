@@ -1,0 +1,33 @@
+<map id="DetectorConstructionMessenger::DetectorConstructionMessenger" name="DetectorConstructionMessenger::DetectorConstructionMessenger">
+<area shape="rect" id="node2" href="$d0/db2/classG4UIcmdWith3VectorAndUnit.html#a4d80da39e79edb7c7458e530eaf3d008" title="G4UIcmdWith3VectorAndUnit\l::SetDefaultUnit" alt="" coords="301,353,521,397"/>
+<area shape="rect" id="node23" href="$d0/d84/classG4UIcmdWithAString.html#ab44aec76b1569f7bfac05547c78a97e4" title="G4UIcmdWithAString\l::SetDefaultValue" alt="" coords="330,442,493,486"/>
+<area shape="rect" id="node24" href="$d0/db2/classG4UIcmdWith3VectorAndUnit.html#acd7fea78d55b90360c53718e2504b7d7" title="G4UIcmdWith3VectorAndUnit\l::SetDefaultValue" alt="" coords="301,581,521,625"/>
+<area shape="rect" id="node28" href="$d2/dd2/classG4UIcommand.html#a791eb299b62778e033543435923778c0" title="G4UIcommand::SetGuidance" alt="" coords="303,838,520,866"/>
+<area shape="rect" id="node29" href="$d0/d84/classG4UIcmdWithAString.html#a6d580fd73a2260e4e74b67d9a778dadf" title="G4UIcmdWithAString\l::SetParameterName" alt="" coords="330,770,493,814"/>
+<area shape="rect" id="node32" href="$d0/db2/classG4UIcmdWith3VectorAndUnit.html#a6ce68de9a0e7d5ef14f8668d261a0d2f" title="G4UIcmdWith3VectorAndUnit\l::SetParameterName" alt="" coords="301,702,521,746"/>
+<area shape="rect" id="node3" href="$d2/dd2/classG4UIcommand.html#a2b5ccdefabaa952282b757d913797186" title="G4UIcommand::GetParameter" alt="" coords="1159,369,1385,397"/>
+<area shape="rect" id="node4" href="$d9/d78/classG4UIparameter.html#a48710feba421297f95f3d40edda04421" title="G4UIparameter::SetOmittable" alt="" coords="591,718,813,746"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4UIparameter.html#a05b29f65c6bcbe11ac2b97db295e2bd5" title="G4UIparameter::SetDefault\lValue" alt="" coords="599,442,805,486"/>
+<area shape="rect" id="node6" href="$d0/db2/classG4UIcmdWith3VectorAndUnit.html#aa07f9a220a155e6b3f25db7a43cab3e0" title="G4UIcmdWith3VectorAndUnit\l::SetUnitCategory" alt="" coords="592,272,812,316"/>
+<area shape="rect" id="node16" href="$d2/dd2/classG4UIcommand.html#a33b3decc2add9821af54572c2d0621e1" title="G4UIcommand::CategoryOf" alt="" coords="597,182,807,210"/>
+<area shape="rect" id="node7" href="$d0/db2/classG4UIcmdWith3VectorAndUnit.html#a9114aee5f32aaf243ca3488a2760c0e8" title="G4UIcmdWith3VectorAndUnit\l::SetUnitCandidates" alt="" coords="887,272,1107,316"/>
+<area shape="rect" id="node9" href="$d2/dd2/classG4UIcommand.html#abdbe12c2eb5a51b3f8e34701504ec24f" title="G4UIcommand::UnitsList" alt="" coords="902,220,1091,248"/>
+<area shape="rect" id="node8" href="$d9/d78/classG4UIparameter.html#aa89971285388365dd2aca23d44e02c74" title="G4UIparameter::SetParameter\lCandidates" alt="" coords="1159,280,1385,324"/>
+<area shape="rect" id="node10" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="1171,212,1373,256"/>
+<area shape="rect" id="node11" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1435,232,1647,276"/>
+<area shape="rect" id="node14" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1936,296,2157,324"/>
+<area shape="rect" id="node12" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1697,232,1888,276"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1993,82,2100,110"/>
+<area shape="rect" id="node15" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1943,240,2150,268"/>
+<area shape="rect" id="node17" href="$dd/db6/classG4UnitDefinition.html#ab312cecd9b92e02f18c9c473a7110c6d" title="G4UnitDefinition::GetCategory" alt="" coords="883,145,1111,173"/>
+<area shape="rect" id="node18" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1231,122,1313,150"/>
+<area shape="rect" id="node19" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1433,28,1649,72"/>
+<area shape="rect" id="node20" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1435,96,1647,140"/>
+<area shape="rect" id="node21" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1436,164,1647,208"/>
+<area shape="rect" id="node22" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1709,164,1877,208"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="617,614,787,642"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="617,666,787,694"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="618,562,786,590"/>
+<area shape="rect" id="node30" href="$d9/d78/classG4UIparameter.html#a57a456cfc18368f5ca588f3974b3acbc" title="G4UIparameter::SetParameterName" alt="" coords="569,838,835,866"/>
+<area shape="rect" id="node31" href="$d9/d78/classG4UIparameter.html#ab0d217931a392ea4127cc8257385985e" title="G4UIparameter::SetCurrent\lAsDefault" alt="" coords="599,770,805,814"/>
+</map>

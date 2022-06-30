@@ -1,0 +1,47 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/basic/B4/B4d/src/B4dDetectorConstruction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/basic/B4/B4d/src/B4dDetectorConstruction.cc">
+<area shape="rect" id="node2" href="$dd/da8/B4dDetectorConstruction_8hh.html" title="Definition of the B4dDetectorConstruction class." alt="" coords="2699,357,2912,385"/>
+<area shape="rect" id="node8" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="1099,281,1215,309"/>
+<area shape="rect" id="node18" href="$d9/de1/G4NistManager_8hh.html" title="G4NistManager.hh" alt="" coords="1486,129,1631,157"/>
+<area shape="rect" id="node23" href="$d1/d8f/G4Box_8hh.html" title="G4Box.hh" alt="" coords="3893,129,3979,157"/>
+<area shape="rect" id="node28" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="3441,281,3601,309"/>
+<area shape="rect" id="node33" href="$d7/da4/G4PVPlacement_8hh.html" title="G4PVPlacement.hh" alt="" coords="3839,281,3988,309"/>
+<area shape="rect" id="node35" href="$da/ded/G4PVReplica_8hh.html" title="G4PVReplica.hh" alt="" coords="3687,281,3815,309"/>
+<area shape="rect" id="node36" href="$df/d6b/G4GlobalMagFieldMessenger_8hh.html" title="G4GlobalMagFieldMessenger.hh" alt="" coords="1941,357,2179,385"/>
+<area shape="rect" id="node38" href="$df/d7a/G4AutoDelete_8hh.html" title="G4AutoDelete.hh" alt="" coords="4003,129,4141,157"/>
+<area shape="rect" id="node40" href="$d3/d4b/G4SDManager_8hh.html" title="G4SDManager.hh" alt="" coords="1779,357,1917,385"/>
+<area shape="rect" id="node42" href="$dc/d49/G4SDChargedFilter_8hh.html" title="G4SDChargedFilter.hh" alt="" coords="3493,129,3662,157"/>
+<area shape="rect" id="node43" href="$d0/d8a/G4MultiFunctionalDetector_8hh.html" title="G4MultiFunctionalDetector.hh" alt="" coords="2556,281,2777,309"/>
+<area shape="rect" id="node44" href="$d6/d1d/G4VPrimitiveScorer_8hh.html" title="G4VPrimitiveScorer.hh" alt="" coords="2914,205,3086,233"/>
+<area shape="rect" id="node45" href="$d4/db0/G4PSEnergyDeposit_8hh.html" title="G4PSEnergyDeposit.hh" alt="" coords="2903,129,3081,157"/>
+<area shape="rect" id="node46" href="$da/d4b/G4PSTrackLength_8hh.html" title="G4PSTrackLength.hh" alt="" coords="3105,129,3265,157"/>
+<area shape="rect" id="node47" href="$d8/d5e/G4VisAttributes_8hh.html" title="G4VisAttributes.hh" alt="" coords="3038,281,3186,309"/>
+<area shape="rect" id="node48" href="$d4/d56/G4Colour_8hh.html" title="G4Colour.hh" alt="" coords="3139,357,3243,385"/>
+<area shape="rect" id="node49" href="$d4/d2b/G4PhysicalConstants_8hh.html" title="G4PhysicalConstants.hh" alt="" coords="5,281,189,309"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="4165,129,4326,157"/>
+<area shape="rect" id="node3" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="2240,433,2485,461"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2553,509,2644,537"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1109,585,1190,613"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="3121,661,3221,689"/>
+<area shape="rect" id="node10" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="105,433,348,461"/>
+<area shape="rect" id="node11" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="893,433,1011,461"/>
+<area shape="rect" id="node12" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="2253,357,2472,385"/>
+<area shape="rect" id="node13" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="1137,357,1298,385"/>
+<area shape="rect" id="node14" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1187,433,1317,461"/>
+<area shape="rect" id="node15" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="417,357,559,385"/>
+<area shape="rect" id="node16" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="902,357,1061,385"/>
+<area shape="rect" id="node17" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="599,433,751,461"/>
+<area shape="rect" id="node19" href="$dd/d4a/G4NistElementBuilder_8hh.html" title="G4NistElementBuilder.hh" alt="" coords="635,357,826,385"/>
+<area shape="rect" id="node20" href="$d7/dae/G4NistMaterialBuilder_8hh.html" title="G4NistMaterialBuilder.hh" alt="" coords="1261,205,1451,233"/>
+<area shape="rect" id="node21" href="$d7/d75/G4ICRU90StoppingData_8hh.html" title="G4ICRU90StoppingData.hh" alt="" coords="1526,205,1730,233"/>
+<area shape="rect" id="node22" href="$df/db6/G4Pow_8hh.html" title="G4Pow.hh" alt="" coords="2445,281,2531,309"/>
+<area shape="rect" id="node24" href="$d9/dbc/G4GeomTypes_8hh.html" title="G4GeomTypes.hh" alt="" coords="3789,205,3929,233"/>
+<area shape="rect" id="node25" href="$d8/df5/G4CSGSolid_8hh.html" title="G4CSGSolid.hh" alt="" coords="3953,205,4076,233"/>
+<area shape="rect" id="node26" href="$d7/dab/G4Polyhedron_8hh.html" title="G4Polyhedron.hh" alt="" coords="4213,205,4350,233"/>
+<area shape="rect" id="node29" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="3453,357,3561,385"/>
+<area shape="rect" id="node30" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="3415,433,3564,461"/>
+<area shape="rect" id="node31" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="3788,357,3964,385"/>
+<area shape="rect" id="node34" href="$d3/dd7/G4Transform3D_8hh.html" title="G4Transform3D.hh" alt="" coords="3690,433,3838,461"/>
+<area shape="rect" id="node37" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="2016,433,2165,461"/>
+<area shape="rect" id="node39" href="$d7/d4b/G4ThreadLocalSingleton_8hh.html" title="G4ThreadLocalSingleton.hh" alt="" coords="4375,205,4583,233"/>
+<area shape="rect" id="node41" href="$d2/d88/G4SDStructure_8hh.html" title="G4SDStructure.hh" alt="" coords="1798,433,1941,461"/>
+</map>

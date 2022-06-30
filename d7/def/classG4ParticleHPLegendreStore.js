@@ -1,0 +1,25 @@
+var classG4ParticleHPLegendreStore =
+[
+    [ "G4ParticleHPLegendreStore", "d7/def/classG4ParticleHPLegendreStore.html#abb4c3bd6da5352033bbff2a7c73e3ae6", null ],
+    [ "~G4ParticleHPLegendreStore", "d7/def/classG4ParticleHPLegendreStore.html#af356acff516a5359bbb4f615ed3568c3", null ],
+    [ "GetCoeff", "d7/def/classG4ParticleHPLegendreStore.html#aaa0ba9f869caa885a9ad7be7379135dc", null ],
+    [ "GetEnergy", "d7/def/classG4ParticleHPLegendreStore.html#a86721143608d690edf12f276ff9a6e7c", null ],
+    [ "GetNumberOfPoly", "d7/def/classG4ParticleHPLegendreStore.html#a5fd250e1820f1a17143b9083fceed819", null ],
+    [ "GetTemperature", "d7/def/classG4ParticleHPLegendreStore.html#a75f3ad27c92715e1f8c718a534941583", null ],
+    [ "Init", "d7/def/classG4ParticleHPLegendreStore.html#a6443f23ac6295ee83165f64f12c1efd0", null ],
+    [ "InitInterpolation", "d7/def/classG4ParticleHPLegendreStore.html#a9c4840672e508cdbcbdebefd2a6cc91d", null ],
+    [ "Integrate", "d7/def/classG4ParticleHPLegendreStore.html#a99d131780ca74eb91d9e7bf98cd2849b", null ],
+    [ "Sample", "d7/def/classG4ParticleHPLegendreStore.html#a1358f4af474007d013774080507f303b", null ],
+    [ "SampleDiscreteTwoBody", "d7/def/classG4ParticleHPLegendreStore.html#aa7bfc4cfd7a8b7cfccc61b5a7875887b", null ],
+    [ "SampleElastic", "d7/def/classG4ParticleHPLegendreStore.html#ae9bab1b74868c995b8bf580dc3e06624", null ],
+    [ "SampleMax", "d7/def/classG4ParticleHPLegendreStore.html#ad2e321f70aa5653bf0f91118d5c559d2", null ],
+    [ "SetCoeff", "d7/def/classG4ParticleHPLegendreStore.html#a54b77b4252477da5567733bfe26943ab", null ],
+    [ "SetCoeff", "d7/def/classG4ParticleHPLegendreStore.html#a2c244754d022438139120694d13c57f6", null ],
+    [ "SetEnergy", "d7/def/classG4ParticleHPLegendreStore.html#a390afe2389de56d21bd648a8c7aa0079", null ],
+    [ "SetManager", "d7/def/classG4ParticleHPLegendreStore.html#adf458c68ef62114fb911c51d14ccbbfd", null ],
+    [ "SetNPoints", "d7/def/classG4ParticleHPLegendreStore.html#aedefc3b6bb651ca7006c856e37262ac8", null ],
+    [ "SetTemperature", "d7/def/classG4ParticleHPLegendreStore.html#a746629ca4a618827a423722d50d8e904", null ],
+    [ "nEnergy", "d7/def/classG4ParticleHPLegendreStore.html#af5ad9f0bc39d16da03cd155aace164b7", null ],
+    [ "theCoeff", "d7/def/classG4ParticleHPLegendreStore.html#a0da6e0498a14ee4182b0c74b001bb2f3", null ],
+    [ "theManager", "d7/def/classG4ParticleHPLegendreStore.html#a3eee1cb1a5aa7eb432651bfac276d102", null ]
+];

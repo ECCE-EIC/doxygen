@@ -1,0 +1,20 @@
+<map id="G4INCL::Nucleus::decayMe" name="G4INCL::Nucleus::decayMe">
+<area shape="rect" id="node2" href="$d5/dd3/classG4INCL_1_1Store.html#a4782bd2e74e85dd8eae6a184cc70f441" title="add the particle to the outgoing particle list." alt="" coords="256,5,483,33"/>
+<area shape="rect" id="node3" href="$dc/d21/namespaceG4INCL_1_1ClusterDecay.html#a0ca6931ef2e54d65d6addd4871d8f956" title="Carries out a cluster decay." alt="" coords="284,135,455,179"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#a99dc3f45354376683c05ea1fa5fc8dd5" title="Get the vector list of biased vertices on the particle path." alt="" coords="547,23,737,67"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="557,91,727,119"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="557,143,727,171"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#aca534164eea2b6e5a39ce0e335ef30b0" title="G4INCL::Particle::setType" alt="" coords="547,195,737,223"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="557,247,727,275"/>
+<area shape="rect" id="node17" href="$dd/d83/classG4INCL_1_1Particle.html#aec44f38874873af8ed41bb1460724196" title="Set the mass of the Particle to its real mass." alt="" coords="531,299,753,327"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a616be21abf18318f60dba4833f8caa20" title="Is it a resonance?" alt="" coords="802,168,1025,196"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a967bc3671f8d7082e5b1f0f07c71e720" title="Set the mass of the Particle to its table mass." alt="" coords="801,220,1025,248"/>
+<area shape="rect" id="node9" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="1094,168,1278,196"/>
+<area shape="rect" id="node11" href="$dd/d83/classG4INCL_1_1Particle.html#a38a68965ab7ec38fafaa1e7c6a050f79" title="G4INCL::Particle::setMass" alt="" coords="1089,272,1283,300"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#aa127348f0d36f847e9670ac4088680b3" title="Get the INCL particle mass." alt="" coords="1073,220,1299,248"/>
+<area shape="rect" id="node13" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="1347,212,1511,256"/>
+<area shape="rect" id="node14" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1559,220,1669,248"/>
+<area shape="rect" id="node15" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1717,220,1893,248"/>
+<area shape="rect" id="node18" href="$dd/d83/classG4INCL_1_1Particle.html#aaf0b49b7880022c5aed3b124953c5d09" title="Get the real particle mass." alt="" coords="801,329,1025,357"/>
+<area shape="rect" id="node19" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a5ae4fc428bab8509c8dcb6cbf39a79e3" title="Get particle mass (in MeV/c^2)" alt="" coords="1104,324,1268,368"/>
+</map>

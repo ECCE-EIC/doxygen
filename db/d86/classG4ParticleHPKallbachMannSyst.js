@@ -1,0 +1,25 @@
+var classG4ParticleHPKallbachMannSyst =
+[
+    [ "G4ParticleHPKallbachMannSyst", "db/d86/classG4ParticleHPKallbachMannSyst.html#a46df2f500362bbdfcd01534239eeced6", null ],
+    [ "~G4ParticleHPKallbachMannSyst", "db/d86/classG4ParticleHPKallbachMannSyst.html#a65767bed67e01c9e8a8fc5573813af9b", null ],
+    [ "A", "db/d86/classG4ParticleHPKallbachMannSyst.html#a3042df2ba6af1ebb3833d3f89988f1a0", null ],
+    [ "GetKallbachZero", "db/d86/classG4ParticleHPKallbachMannSyst.html#a78ee30309419e247d6ed71542f838a72", null ],
+    [ "Kallbach", "db/d86/classG4ParticleHPKallbachMannSyst.html#a14a43ae47698f0dfa1d6753fb22fe688", null ],
+    [ "Sample", "db/d86/classG4ParticleHPKallbachMannSyst.html#a43825a72b147dac227c3ab80329cea35", null ],
+    [ "SeparationEnergy", "db/d86/classG4ParticleHPKallbachMannSyst.html#aba8f5ce3f7510f0d5df12a90f819e305", null ],
+    [ "theCompoundFraction", "db/d86/classG4ParticleHPKallbachMannSyst.html#a59e1e37a7246b7042626fb29b303a338", null ],
+    [ "theIncidentEnergy", "db/d86/classG4ParticleHPKallbachMannSyst.html#aa10cf623e853f253b306114cb61472da", null ],
+    [ "theIncidentMass", "db/d86/classG4ParticleHPKallbachMannSyst.html#abf26395fc473e8f198f75d0b71dbf8be", null ],
+    [ "theProductA", "db/d86/classG4ParticleHPKallbachMannSyst.html#a8eba04a1b66b93b6ce46021aa7d821d7", null ],
+    [ "theProductEnergy", "db/d86/classG4ParticleHPKallbachMannSyst.html#acff9e3af4bb0f7d07519fd72992ec1d8", null ],
+    [ "theProductMass", "db/d86/classG4ParticleHPKallbachMannSyst.html#a3c0bfd0443797556c12f530cdd8eddc5", null ],
+    [ "theProductZ", "db/d86/classG4ParticleHPKallbachMannSyst.html#a203fd9ae7e8ab1d520d6961360788e88", null ],
+    [ "theProjectileA", "db/d86/classG4ParticleHPKallbachMannSyst.html#a4a246dccfcbafe415a9506310e6081ac", null ],
+    [ "theProjectileZ", "db/d86/classG4ParticleHPKallbachMannSyst.html#a1259e2bbc68194b7c053db5b83112e0d", null ],
+    [ "theResidualA", "db/d86/classG4ParticleHPKallbachMannSyst.html#acfe8c9b99c7763b3c894da2fef8e0b36", null ],
+    [ "theResidualMass", "db/d86/classG4ParticleHPKallbachMannSyst.html#ab07691885e9e15cc6f9b0e6398c0ee35", null ],
+    [ "theResidualZ", "db/d86/classG4ParticleHPKallbachMannSyst.html#a8c040fe7038641360ae9952d54c6a0f5", null ],
+    [ "theTargetA", "db/d86/classG4ParticleHPKallbachMannSyst.html#a2e054d86db5de4e8f45789ba1ae90cf9", null ],
+    [ "theTargetMass", "db/d86/classG4ParticleHPKallbachMannSyst.html#a566fdf6581e192a47e6323d97630fc10", null ],
+    [ "theTargetZ", "db/d86/classG4ParticleHPKallbachMannSyst.html#a6a86aaa5f66aa39b349b905caa8d91bf", null ]
+];

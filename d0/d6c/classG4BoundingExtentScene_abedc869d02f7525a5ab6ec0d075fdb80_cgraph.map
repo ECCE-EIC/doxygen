@@ -1,0 +1,22 @@
+<map id="G4BoundingExtentScene::ProcessVolume" name="G4BoundingExtentScene::ProcessVolume">
+<area shape="rect" id="node2" href="$d0/d6c/classG4BoundingExtentScene.html#a04a4aca6327e045679c7d20e2b670bff" title="G4BoundingExtentScene\l::AccrueBoundingExtent" alt="" coords="244,309,435,353"/>
+<area shape="rect" id="node15" href="$dc/dec/classG4PhysicalVolumeModel.html#a4883ca6caa90e59a2999b6defdd38a26" title="G4PhysicalVolumeModel\l::CurtailDescent" alt="" coords="246,525,433,569"/>
+<area shape="rect" id="node16" href="$da/d34/classG4VSolid.html#affc946f679ed1f42b33f1dd6e1109244" title="G4VSolid::GetExtent" alt="" coords="259,473,420,501"/>
+<area shape="rect" id="node18" href="$df/d57/classG4VisExtent.html#a9241782d0bdc1f6a7e18e2ece870be42" title="G4VisExtent::Transform" alt="" coords="249,723,429,751"/>
+<area shape="rect" id="node3" href="$df/d57/classG4VisExtent.html#a9977d8cc978b6500a7b1c52e26fc2869" title="G4VisExtent::GetXmax" alt="" coords="495,5,671,33"/>
+<area shape="rect" id="node4" href="$df/d57/classG4VisExtent.html#a1efd60652bd513ab337957f4d6e56099" title="G4VisExtent::GetXmin" alt="" coords="497,57,668,85"/>
+<area shape="rect" id="node5" href="$df/d57/classG4VisExtent.html#a320453683fd6d92671168104a8eecf6e" title="G4VisExtent::GetYmax" alt="" coords="495,109,670,137"/>
+<area shape="rect" id="node6" href="$df/d57/classG4VisExtent.html#ac904d0c16bb9b143bfe6a7539a402357" title="G4VisExtent::GetYmin" alt="" coords="497,161,668,189"/>
+<area shape="rect" id="node7" href="$df/d57/classG4VisExtent.html#ab55df2715f34134817508862d081319f" title="G4VisExtent::GetZmax" alt="" coords="495,213,671,241"/>
+<area shape="rect" id="node8" href="$df/d57/classG4VisExtent.html#a7bcc285d1edc41080f7f4cd9ca5588e1" title="G4VisExtent::GetZmin" alt="" coords="497,265,669,293"/>
+<area shape="rect" id="node9" href="$df/d57/classG4VisExtent.html#a625b0426742e6f0e155ef281a72f8b84" title="G4VisExtent::SetXmax" alt="" coords="496,317,669,345"/>
+<area shape="rect" id="node10" href="$df/d57/classG4VisExtent.html#a998c5cd9c0da1e1b32a3d7a211fce357" title="G4VisExtent::SetXmin" alt="" coords="498,369,667,397"/>
+<area shape="rect" id="node11" href="$df/d57/classG4VisExtent.html#a5eb346b767fed8aaec9ade2ca3cd1063" title="G4VisExtent::SetYmax" alt="" coords="496,421,669,449"/>
+<area shape="rect" id="node12" href="$df/d57/classG4VisExtent.html#a2834624c7d55438ce2239ae899338ff1" title="G4VisExtent::SetYmin" alt="" coords="498,473,667,501"/>
+<area shape="rect" id="node13" href="$df/d57/classG4VisExtent.html#a9db49e5412d58d50cfb014f692d8afe2" title="G4VisExtent::SetZmax" alt="" coords="495,525,670,553"/>
+<area shape="rect" id="node14" href="$df/d57/classG4VisExtent.html#affc4d8c7d52e3cce589dfaccc5172f19" title="G4VisExtent::SetZmin" alt="" coords="498,577,667,605"/>
+<area shape="rect" id="node17" href="$da/d34/classG4VSolid.html#a4ed82441505459822c07079860c6c76f" title="G4VSolid::CalculateExtent" alt="" coords="483,629,683,657"/>
+<area shape="rect" id="node19" href="$dd/de6/classHepGeom_1_1Transform3D.html#a10228edd711ee099f025eb42f98abb77" title="HepGeom::Transform3D\l::getRotation" alt="" coords="491,681,675,725"/>
+<area shape="rect" id="node20" href="$dd/de6/classHepGeom_1_1Transform3D.html#acf0f3b9071ecc92563358e7a55b2eeea" title="HepGeom::Transform3D\l::getTranslation" alt="" coords="491,749,675,793"/>
+<area shape="rect" id="node21" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aa9aad7d87f01b3da12580c5277f55006" title="CLHEP::Hep3Vector::\ltransform" alt="" coords="503,817,663,861"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/optical/OpNovice/src/OpNovicePrimaryGeneratorAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/optical/OpNovice/src/OpNovicePrimaryGeneratorAction.cc">
+<area shape="rect" id="node2" href="$d0/dbf/OpNovicePrimaryGeneratorAction_8hh.html" title="Definition of the OpNovicePrimaryGeneratorAction class." alt="" coords="203,129,411,173"/>
+<area shape="rect" id="node13" href="$db/d3f/OpNovicePrimaryGeneratorMessenger_8hh.html" title="Definition of the OpNovicePrimaryGeneratorMessenger class." alt="" coords="344,297,552,341"/>
+<area shape="rect" id="node16" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="2188,137,2305,165"/>
+<area shape="rect" id="node29" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="3541,221,3641,249"/>
+<area shape="rect" id="node38" href="$da/d3e/G4ParticleGun_8hh.html" title="G4ParticleGun.hh" alt="" coords="4269,221,4408,249"/>
+<area shape="rect" id="node40" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="4795,305,4973,333"/>
+<area shape="rect" id="node46" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="4864,137,5011,165"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="5157,137,5318,165"/>
+<area shape="rect" id="node3" href="$da/d51/G4VUserPrimaryGeneratorAction_8hh.html" title="G4VUserPrimaryGeneratorAction.hh" alt="" coords="5,221,269,249"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="3965,465,4056,493"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="4159,693,4241,721"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="3998,769,4098,797"/>
+<area shape="rect" id="node8" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="3997,693,4099,721"/>
+<area shape="rect" id="node9" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="4279,541,4390,569"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="3984,617,4112,645"/>
+<area shape="rect" id="node11" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="4078,541,4255,569"/>
+<area shape="rect" id="node14" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="247,389,396,417"/>
+<area shape="rect" id="node15" href="$d1/d47/G4UIdirectory_8hh.html" title="G4UIdirectory.hh" alt="" coords="255,465,388,493"/>
+<area shape="rect" id="node17" href="$d5/dea/Randomize_8h.html" title="CLHEP/Random/Randomize.h" alt="" coords="1766,221,1983,249"/>
+<area shape="rect" id="node21" href="$dd/d8b/RandExponential_8h.html" title="CLHEP/Random/RandExponential.h" alt="" coords="839,305,1097,333"/>
+<area shape="rect" id="node22" href="$db/df5/RandFlat_8h.html" title="CLHEP/Random/RandFlat.h" alt="" coords="1909,389,2110,417"/>
+<area shape="rect" id="node23" href="$d4/d47/RandBit_8h.html" title="CLHEP/Random/RandBit.h" alt="" coords="1912,305,2107,333"/>
+<area shape="rect" id="node24" href="$dd/df9/RandGamma_8h.html" title="CLHEP/Random/RandGamma.h" alt="" coords="2131,305,2362,333"/>
+<area shape="rect" id="node25" href="$d9/db8/RandGaussQ_8h.html" title="CLHEP/Random/RandGaussQ.h" alt="" coords="2387,305,2616,333"/>
+<area shape="rect" id="node26" href="$db/db0/RandGeneral_8h.html" title="CLHEP/Random/RandGeneral.h" alt="" coords="2691,305,2922,333"/>
+<area shape="rect" id="node28" href="$dd/d36/RandPoissonQ_8h.html" title="CLHEP/Random/RandPoissonQ.h" alt="" coords="577,305,815,333"/>
+<area shape="rect" id="node18" href="$d9/d51/DualRand_8h.html" title="CLHEP/Random/DualRand.h" alt="" coords="1121,305,1329,333"/>
+<area shape="rect" id="node19" href="$d2/d36/JamesRandom_8h.html" title="CLHEP/Random/JamesRandom.h" alt="" coords="1354,305,1593,333"/>
+<area shape="rect" id="node20" href="$df/d0b/MixMaxRng_8h.html" title="CLHEP/Random/MixMaxRng.h" alt="" coords="1617,305,1837,333"/>
+<area shape="rect" id="node30" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="3049,389,3141,417"/>
+<area shape="rect" id="node31" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="3423,389,3543,417"/>
+<area shape="rect" id="node32" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="3933,305,4089,333"/>
+<area shape="rect" id="node35" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="3510,305,3671,333"/>
+<area shape="rect" id="node36" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="2998,305,3191,333"/>
+<area shape="rect" id="node37" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="3216,305,3435,333"/>
+<area shape="rect" id="node33" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="4133,389,4275,417"/>
+<area shape="rect" id="node39" href="$d9/d9f/G4VPrimaryGenerator_8hh.html" title="G4VPrimaryGenerator.hh" alt="" coords="4376,305,4565,333"/>
+<area shape="rect" id="node45" href="$dc/d2b/G4ParticleMomentum_8hh.html" title="G4ParticleMomentum.hh" alt="" coords="4113,305,4301,333"/>
+<area shape="rect" id="node41" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="4931,389,5173,417"/>
+<area shape="rect" id="node43" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="4502,389,4653,417"/>
+<area shape="rect" id="node42" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="4972,465,5193,493"/>
+<area shape="rect" id="node47" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="4640,305,4771,333"/>
+<area shape="rect" id="node48" href="$dc/dcc/G4ParticleTableIterator_8hh.html" title="G4ParticleTableIterator.hh" alt="" coords="4907,221,5101,249"/>
+</map>

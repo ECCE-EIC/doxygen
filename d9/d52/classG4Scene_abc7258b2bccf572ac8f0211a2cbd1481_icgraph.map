@@ -1,0 +1,35 @@
+<map id="G4Scene::GetExtent" name="G4Scene::GetExtent">
+<area shape="rect" id="node2" href="$da/d94/classG4VSceneHandler.html#a8c3b54f5e3e201589386497d6d27e3ad" title="G4VSceneHandler::AddPrimitive" alt="" coords="223,323,462,351"/>
+<area shape="rect" id="node3" href="$da/d94/classG4VSceneHandler.html#a6356d20564b847538003003e39715f3c" title="G4VSceneHandler::CreateSection\lSolid" alt="" coords="219,515,467,559"/>
+<area shape="rect" id="node5" href="$da/d94/classG4VSceneHandler.html#a80507612b09093a8a4b48d0a9edeafab" title="G4VSceneHandler::Process\lScene" alt="" coords="1105,413,1309,457"/>
+<area shape="rect" id="node23" href="$da/d94/classG4VSceneHandler.html#ad51fe815978a8cbb28b506798a213f7e" title="G4VSceneHandler::GetExtent" alt="" coords="232,700,453,728"/>
+<area shape="rect" id="node24" href="$d6/d64/classG4VRML2FileViewer.html#ab15e8e18b70a6d0e33184db75a5ed933" title="G4VRML2FileViewer::\lSendViewParameters" alt="" coords="567,653,731,697"/>
+<area shape="rect" id="node25" href="$d4/d14/classG4DAWNFILEViewer.html#a04d3cadd790f33a4861c5191f2bb53dd" title="G4DAWNFILEViewer::SendView\lParameters" alt="" coords="227,752,458,796"/>
+<area shape="rect" id="node27" href="$d8/d36/classG4VisCommandsTouchable.html#aba62ca50a585e5b7a39d42657cc144e2" title="G4VisCommandsTouchable\l::SetNewValue" alt="" coords="240,820,445,864"/>
+<area shape="rect" id="node28" href="$dd/ded/classG4VisCommandSceneAddArrow.html#a9f66308175d4d7eb0bbedeb1930bb056" title="G4VisCommandSceneAddArrow\l::SetNewValue" alt="" coords="225,888,461,932"/>
+<area shape="rect" id="node29" href="$d3/d7c/classG4VisCommandViewerCentreOn.html#a5481e34f67413d32ccfdc9578a5fd2e1" title="G4VisCommandViewerCentre\lOn::SetNewValue" alt="" coords="233,956,453,1000"/>
+<area shape="rect" id="node30" href="$d9/d49/classG4VisCommandSceneAddAxes.html#a0068191e8be3e06cb4718e8858d39305" title="G4VisCommandSceneAddAxes\l::SetNewValue" alt="" coords="228,1024,457,1068"/>
+<area shape="rect" id="node31" href="$d7/d9d/classG4VisCommandSceneShowExtents.html#aa3e1e6fb004f9664bc0fbe79aa3c59e0" title="G4VisCommandSceneShowExtents\l::SetNewValue" alt="" coords="213,1092,472,1136"/>
+<area shape="rect" id="node32" href="$da/d12/classG4VisCommandSceneAddLogo.html#aa9949e96e896dece545e0bff73e25fd0" title="G4VisCommandSceneAddLogo\l::SetNewValue" alt="" coords="228,1160,457,1204"/>
+<area shape="rect" id="node33" href="$d2/d05/classG4VisCommandSceneAddScale.html#a2c1cdd63ecfe956e7b9a0627789d2966" title="G4VisCommandSceneAddScale\l::SetNewValue" alt="" coords="226,1228,459,1272"/>
+<area shape="rect" id="node34" href="$d5/dee/classG4RayTracerViewer.html#aa49613cc6ec3435609c51009e3e7d07d" title="G4RayTracerViewer::\lSetView" alt="" coords="1373,589,1535,633"/>
+<area shape="rect" id="node4" href="$da/d94/classG4VSceneHandler.html#a30f2bc81348bb9d5e5a6a3a879cb35a4" title="G4VSceneHandler::CreateModeling\lParameters" alt="" coords="520,500,779,544"/>
+<area shape="rect" id="node19" href="$da/d94/classG4VSceneHandler.html#a245dd6b07e1d4b54ff1b23b33c94d04f" title="G4VSceneHandler::DrawEvent" alt="" coords="827,477,1055,505"/>
+<area shape="rect" id="node21" href="$da/d94/classG4VSceneHandler.html#a9f763f979fba834380c774a321510de0" title="G4VSceneHandler::DrawEnd\lOfRunModels" alt="" coords="834,529,1047,573"/>
+<area shape="rect" id="node6" href="$d3/dbf/classG4VViewer.html#a43ae07beef7bd27e04c03473d1f762e0" title="G4VViewer::ProcessView" alt="" coords="1360,349,1548,377"/>
+<area shape="rect" id="node7" href="$d4/d14/classG4DAWNFILEViewer.html#a0312bff633a1c4dd5b9f9b5a619bf30b" title="G4DAWNFILEViewer::DrawView" alt="" coords="1596,349,1828,377"/>
+<area shape="rect" id="node8" href="$df/dd1/classG4GMocrenFileViewer.html#aa0d06a737d18e940a8a36e4199e8fb3d" title="G4GMocrenFileViewer\l::DrawView" alt="" coords="1627,401,1797,445"/>
+<area shape="rect" id="node9" href="$d4/d16/classG4HepRepFileViewer.html#ae551b32cb6a8b34650c771d9af23f200" title="G4HepRepFileViewer\l::DrawView" alt="" coords="1631,469,1793,513"/>
+<area shape="rect" id="node10" href="$d5/d29/classG4HepRepViewer.html#a777bb4e736553e345e7f1b24400f128b" title="G4HepRepViewer::DrawView" alt="" coords="1605,537,1819,565"/>
+<area shape="rect" id="node11" href="$d5/dee/classG4RayTracerViewer.html#afee983c0a29f4d24b5f579eef5655384" title="G4RayTracerViewer::\lDrawView" alt="" coords="1631,589,1793,633"/>
+<area shape="rect" id="node12" href="$d2/dfc/classG4VTreeViewer.html#ac446ced2d35ad1a9977e7278948393f6" title="G4VTreeViewer::DrawView" alt="" coords="1612,5,1812,33"/>
+<area shape="rect" id="node13" href="$d4/d04/classG4VRML1FileViewer.html#ab809f8a778532e0eba2f8f340a08a2f6" title="G4VRML1FileViewer::\lDrawView" alt="" coords="1631,57,1793,101"/>
+<area shape="rect" id="node14" href="$d6/d64/classG4VRML2FileViewer.html#ad6b23b4b4e5a44fc54f90276f600bc72" title="G4VRML2FileViewer::\lDrawView" alt="" coords="1631,657,1793,701"/>
+<area shape="rect" id="node15" href="$d6/d40/classG4XXXFileViewer.html#a52a65075d09025d4ffa85a1ad681f321" title="G4XXXFileViewer::DrawView" alt="" coords="1606,125,1818,153"/>
+<area shape="rect" id="node16" href="$d5/d5e/classG4XXXSGViewer.html#a95afca9c0544f6281fe262d56485b44b" title="G4XXXSGViewer::DrawView" alt="" coords="1608,177,1816,205"/>
+<area shape="rect" id="node17" href="$d8/d9f/classG4XXXStoredViewer.html#a700bc3347912b4c34cb53761242939b2" title="G4XXXStoredViewer::\lDrawView" alt="" coords="1629,229,1795,273"/>
+<area shape="rect" id="node18" href="$d5/ddb/classG4XXXViewer.html#a655d673d9a06607431a3eabf39b3722c" title="G4XXXViewer::DrawView" alt="" coords="1617,297,1807,325"/>
+<area shape="rect" id="node20" href="$d0/d0d/classG4VisManager.html#a50c0a6650067dda61208b32b29054b0c" title="G4VisManager::EndOfEvent" alt="" coords="1103,481,1312,509"/>
+<area shape="rect" id="node22" href="$d0/d0d/classG4VisManager.html#a6271cad1e3d0d699454de99c491d3b3a" title="G4VisManager::EndOfRun" alt="" coords="1110,537,1305,565"/>
+<area shape="rect" id="node26" href="$d4/d14/classG4DAWNFILEViewer.html#a109b294d584cf5c1561b550f23447d5f" title="G4DAWNFILEViewer::ShowView" alt="" coords="533,760,766,788"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/def/classG4UImanager.html#a2db8f1909b2b35a3000f97b95c8a9b17" title="G4UImanager::ApplyCommand" alt="" coords="137,317,368,345"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#a2e8622295d194ab03d48a9447c22521c" title="G4RunManager::BeamOn" alt="" coords="487,637,679,665"/>
+<area shape="rect" id="node21" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="145,633,361,677"/>
+<area shape="rect" id="node22" href="$d9/d7a/G4Threading_8hh.html#a12338c90224ed3f15d88db8a843a8ce9" title="G4THREADCREATE" alt="" coords="178,701,327,729"/>
+<area shape="rect" id="node23" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="147,857,358,885"/>
+<area shape="rect" id="node28" href="$d3/dd5/jewel-2_82_80_8f.html#ac10ce76c4f5f9029887dacaed4e00578" title="init" alt="" coords="231,1069,275,1097"/>
+<area shape="rect" id="node42" href="$de/d16/classG4MTRunManager.html#a940295ba3e5d03a139c4cee22a9bf95a" title="G4MTRunManager::Initialize" alt="" coords="147,753,358,781"/>
+<area shape="rect" id="node43" href="$d1/d6d/classG4UIExecutive.html#a48d7a3f364413ed5cf35056a14a16609" title="G4UIExecutive::IsGUI" alt="" coords="171,909,335,937"/>
+<area shape="rect" id="node44" href="$d2/d0f/classG4DummyThread.html#a7928cfdd3991a17358966d9819273ce5" title="G4DummyThread::join" alt="" coords="165,961,340,989"/>
+<area shape="rect" id="node45" href="$dc/d2e/classG4VModularPhysicsList.html#a749b7064b776c809d258bcb4a95e9916" title="G4VModularPhysicsList\l::RegisterPhysics" alt="" coords="163,565,342,609"/>
+<area shape="rect" id="node46" href="$d1/d6d/classG4UIExecutive.html#ae05fc02e0c69dadb34eccd46f388183f" title="G4UIExecutive::SessionStart" alt="" coords="145,1121,360,1149"/>
+<area shape="rect" id="node47" href="$d3/d1a/classSimpleTbbMasterRunManager.html#aa4f3a1ba61d70327fe32096f43769366" title="SimpleTbbMasterRunManager\l::SetNumberEventsPerTask" alt="" coords="140,1173,365,1217"/>
+<area shape="rect" id="node48" href="$d3/d1a/classSimpleTbbMasterRunManager.html#a05f05387a2d1b68b7c3521b8c6474bce" title="SimpleTbbMasterRunManager\l::SetTaskList" alt="" coords="140,1241,365,1285"/>
+<area shape="rect" id="node49" href="$de/d16/classG4MTRunManager.html#a536aed4416d22ba2902223dcfb88eb2d" title="G4MTRunManager::SetUserInitialization" alt="" coords="108,1309,397,1337"/>
+<area shape="rect" id="node50" href="$dc/d7e/extended_2parallel_2TBB_2B2b_2exampleB2b_8cc.html#aca528dbf92592962882b7281699a809d" title="startWork" alt="" coords="209,1361,297,1389"/>
+<area shape="rect" id="node3" href="$d8/def/classG4UImanager.html#aacf739609425dbc5e3344a67e5331465" title="G4UImanager::SolveAlias" alt="" coords="487,265,680,293"/>
+<area shape="rect" id="node4" href="$d5/d72/classG4String.html#acf651813ef2b99ae348f378717100d6c" title="G4String::index" alt="" coords="831,240,957,268"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html#ab37edd5326efe646514318907798d264" title="G4String::isNull" alt="" coords="831,136,957,164"/>
+<area shape="rect" id="node6" href="$d5/d72/classG4String.html#afb274c4b23618f6ac01f89880e5069b9" title="G4String::remove" alt="" coords="823,399,965,427"/>
+<area shape="rect" id="node7" href="$d3/d31/classG4UIcommandTree.html#ac0f4ce28609f8d169e17020ad9aeffdc" title="G4UIcommandTree::FindPath" alt="" coords="475,317,691,345"/>
+<area shape="rect" id="node8" href="$d2/dd2/classG4UIcommand.html#a1c76044fb4194cf3ed9c32a007aa97b7" title="G4UIcommand::ToBeBroadcasted" alt="" coords="460,369,707,397"/>
+<area shape="rect" id="node9" href="$d2/dd2/classG4UIcommand.html#aaccd6dc9b4fbcc8a6592bb4c49a1ade2" title="G4UIcommand::IsAvailable" alt="" coords="482,421,685,449"/>
+<area shape="rect" id="node10" href="$d2/dd2/classG4UIcommand.html#a90f2db76fcb5a25a8fc37dbbd3e23323" title="G4UIcommand::ResetFailure" alt="" coords="477,473,689,501"/>
+<area shape="rect" id="node11" href="$d2/dd2/classG4UIcommand.html#a5d54273a98192b96242d0cb63a5ab860" title="G4UIcommand::DoIt" alt="" coords="504,161,663,189"/>
+<area shape="rect" id="node12" href="$d2/dd2/classG4UIcommand.html#a4edf813b433a3bc5dd7b59a0749567c1" title="G4UIcommand::IfCommandFailed" alt="" coords="459,5,707,33"/>
+<area shape="rect" id="node13" href="$d2/dd2/classG4UIcommand.html#abb52c7c0daae1fff8ed9f1411dff2d80" title="G4UIcommand::GetFailureDescription" alt="" coords="445,57,721,85"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="530,577,637,605"/>
+<area shape="rect" id="node16" href="$d4/daa/classG4RunManager.html#a457de55cbcf3c02058b49ca0639c39ef" title="G4RunManager::ConfirmBeam\lOnCondition" alt="" coords="781,689,1007,733"/>
+<area shape="rect" id="node17" href="$d4/daa/classG4RunManager.html#af84469108bb21f3f5f3ae4b69bd52caf" title="G4RunManager::ConstructScoring\lWorlds" alt="" coords="769,757,1019,801"/>
+<area shape="rect" id="node18" href="$d4/daa/classG4RunManager.html#ae5a226be65c1f66b14e8a40f927078a2" title="G4RunManager::RunInitialization" alt="" coords="773,533,1015,561"/>
+<area shape="rect" id="node19" href="$d4/daa/classG4RunManager.html#a34ac7c964ca9fb147645f1a942dd449f" title="G4RunManager::DoEventLoop" alt="" coords="782,585,1006,613"/>
+<area shape="rect" id="node20" href="$d4/daa/classG4RunManager.html#a76e6c43cba06add52204a945a339a2ff" title="G4RunManager::RunTermination" alt="" coords="775,637,1013,665"/>
+<area shape="rect" id="node24" href="$d8/def/classG4UImanager.html#aaf9882646bb6ec655c5c8becffe98772" title="G4UImanager::fUImanager" alt="" coords="481,793,685,821"/>
+<area shape="rect" id="node25" href="$d8/def/classG4UImanager.html#aedc7f38c4d4db62a0871da5cfc8d2dec" title="G4UImanager::fUImanagerHas\lBeenKilled" alt="" coords="469,845,698,889"/>
+<area shape="rect" id="node26" href="$d8/def/classG4UImanager.html#ae4d4d81368fb46e5006bf03646da897b" title="G4UImanager::G4UImanager" alt="" coords="474,689,693,717"/>
+<area shape="rect" id="node27" href="$d8/def/classG4UImanager.html#a3e92dbf1941e2e850e9090060fd429d3" title="G4UImanager::CreateMessenger" alt="" coords="462,741,705,769"/>
+<area shape="rect" id="node29" href="$d2/d93/structActs_1_1Extent.html#a90ef6b643a9b59e4f79d98f972c82dd2" title="Acts::Extent::check" alt="" coords="507,1553,660,1581"/>
+<area shape="rect" id="node30" href="$db/dbb/xmlrole_8cc.html#a62f133652f0a0ae574e6e2fa4110268d" title="common" alt="" coords="854,1293,934,1321"/>
+<area shape="rect" id="node31" href="$d0/d6b/compress_8c.html#aef315743418d760a360e1be293d27cd1" title="compress" alt="" coords="851,965,937,993"/>
+<area shape="rect" id="node32" href="$d3/d4a/meix_8f.html#a6fd5f374c0445418feb50ae20b29cd30" title="eix" alt="" coords="563,1017,604,1045"/>
+<area shape="rect" id="node33" href="$d3/dd5/jewel-2_82_80_8f.html#a2d3897d6d748d346b4094491ef86a9da" title="eixint" alt="" coords="553,1345,613,1373"/>
+<area shape="rect" id="node34" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="483,1121,684,1165"/>
+<area shape="rect" id="node35" href="$d3/dd5/jewel-2_82_80_8f.html#a62047f8869694c81ff2deae6f8aa2479" title="insudaint" alt="" coords="541,965,626,993"/>
+<area shape="rect" id="node36" href="$d0/d83/classActsFatras_1_1LandauDistribution.html#a692e73569c82329696eadc0fe9ff5bdf" title="Return the currently configured distribution parameters." alt="" coords="779,1061,1009,1105"/>
+<area shape="rect" id="node37" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="563,1293,603,1321"/>
+<area shape="rect" id="node38" href="$d2/d18/medium-simple_8f.html#adadf3a87d352de8d415a50a0aa704771" title="medinit" alt="" coords="547,1397,620,1425"/>
+<area shape="rect" id="node39" href="$d2/d18/medium-simple_8f.html#a4cb6e969ad6295a9ec499dd59e4fefa1" title="mednextevt" alt="" coords="531,1501,635,1529"/>
+<area shape="rect" id="node40" href="$d8/d1a/classHiMain1.html#a676ccaef5fa9c10e945e6d1477aeb366" title="HiMain1::np" alt="" coords="532,1449,635,1477"/>
+<area shape="rect" id="node41" href="$d3/dd5/jewel-2_82_80_8f.html#afe6d8abb7a08fd7eeff3ba43c004cbf4" title="pdfint" alt="" coords="553,1189,614,1217"/>
+</map>

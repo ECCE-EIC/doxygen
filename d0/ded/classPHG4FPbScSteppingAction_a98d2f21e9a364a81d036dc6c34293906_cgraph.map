@@ -1,0 +1,32 @@
+<map id="PHG4FPbScSteppingAction::UserSteppingAction" name="PHG4FPbScSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$d4/df0/classPHG4FPbScDetector.html#aaafc11f15553e21732d616d64f95253e" title="PHG4FPbScDetector::\lcomputeIndex" alt="" coords="290,11,455,55"/>
+<area shape="rect" id="node4" href="$d4/d30/classPHG4HitContainer.html#a8d14a2d99f5acb20d89828cb23c41ac0" title="PHG4HitContainer::findOr\lAddHit" alt="" coords="275,93,470,137"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="540,161,688,189"/>
+<area shape="rect" id="node8" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="297,213,449,241"/>
+<area shape="rect" id="node9" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="277,265,468,293"/>
+<area shape="rect" id="node10" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="277,317,468,345"/>
+<area shape="rect" id="node11" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="274,369,471,397"/>
+<area shape="rect" id="node12" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="277,421,468,449"/>
+<area shape="rect" id="node13" href="$d4/df0/classPHG4FPbScDetector.html#a8d819910f0c5ad17290a29d0e73efe62" title="PHG4FPbScDetector::\lgetScintillatorLayer" alt="" coords="290,473,455,517"/>
+<area shape="rect" id="node14" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="255,541,491,569"/>
+<area shape="rect" id="node15" href="$df/d47/classG4StepPoint.html#a5bd15d44447c6a51f94c4b7b4ae6060f" title="G4StepPoint::GetTouchable\lHandle" alt="" coords="270,593,475,637"/>
+<area shape="rect" id="node16" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="303,661,443,689"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="293,713,452,741"/>
+<area shape="rect" id="node18" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="264,765,481,793"/>
+<area shape="rect" id="node19" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="272,817,473,845"/>
+<area shape="rect" id="node21" href="$d4/df0/classPHG4FPbScDetector.html#a28c418f292236191d7f14cce21262382" title="PHG4FPbScDetector::\lisInScintillator" alt="" coords="290,869,455,913"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#a0e5b38e4f13efc793eb85b006763ede5" title="PHG4Hit::set_shower_id" alt="" coords="282,937,463,965"/>
+<area shape="rect" id="node23" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="301,989,445,1017"/>
+<area shape="rect" id="node24" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="311,1041,434,1069"/>
+<area shape="rect" id="node25" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="311,1093,434,1121"/>
+<area shape="rect" id="node26" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="312,1145,433,1173"/>
+<area shape="rect" id="node27" href="$d1/d33/classG4Track.html#a113a9bc567dfae1dc307c1e848f1cfdf" title="G4Track::SetUserInformation" alt="" coords="265,1197,480,1225"/>
+<area shape="rect" id="node28" href="$da/da8/classPHG4TrackUserInfoV1.html#aff94d466d51d42b75da59e00f065c084" title="PHG4TrackUserInfoV1\l::SetWanted" alt="" coords="289,1249,457,1293"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="288,1317,457,1345"/>
+<area shape="rect" id="node30" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="288,1369,457,1397"/>
+<area shape="rect" id="node31" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="289,1421,457,1449"/>
+<area shape="rect" id="node3" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="594,5,634,33"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#afaf9c4507d67f494f13caf1536a1e19c" title="PHG4Hit::set_hit_id" alt="" coords="539,57,689,85"/>
+<area shape="rect" id="node7" href="$d3/d9e/classPHG4Hit.html#a8992f01396d51ebf6c85dd2859e13a6b" title="PHG4Hit::get_layer" alt="" coords="539,109,689,137"/>
+<area shape="rect" id="node20" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="561,817,667,845"/>
+</map>

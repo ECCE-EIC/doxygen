@@ -1,0 +1,51 @@
+<map id="G4RPGTwoBody::ReactionStage" name="G4RPGTwoBody::ReactionStage">
+<area shape="rect" id="node2" href="$d1/d3f/classG4RPGReaction.html#a6422eb0e64b953ce9100a4c6c319221b" title="G4RPGReaction::AddBlackTrack\lParticles" alt="" coords="287,351,521,395"/>
+<area shape="rect" id="node6" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="656,31,723,59"/>
+<area shape="rect" id="node9" href="$d3/dc0/classG4Nucleus.html#a882dd154287e9308d22775e2b986076f" title="G4Nucleus::GetA_asInt" alt="" coords="601,83,778,111"/>
+<area shape="rect" id="node10" href="$dd/d77/classG4ReactionProduct.html#aed72a5f036086adf48ba677f09ff62d8" title="G4ReactionProduct::\lGetKineticEnergy" alt="" coords="610,515,769,559"/>
+<area shape="rect" id="node11" href="$d3/dc0/classG4Nucleus.html#a6405ea3f87626f1801a6e865d4c00ebc" title="G4Nucleus::GetZ_asInt" alt="" coords="601,583,778,611"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="875,485,1030,529"/>
+<area shape="rect" id="node19" href="$d1/d3f/classG4RPGReaction.html#a90ddf1b0bad12d6765396f5202f850eb" title="G4RPGReaction::Defs1" alt="" coords="317,911,491,939"/>
+<area shape="rect" id="node21" href="$dd/d77/classG4ReactionProduct.html#a503c2e1e9a73f09d2bacb83ce099941c" title="G4ReactionProduct::\lGetMomentum" alt="" coords="610,791,769,835"/>
+<area shape="rect" id="node22" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="594,859,785,887"/>
+<area shape="rect" id="node23" href="$dd/d77/classG4ReactionProduct.html#a05fa70c5c758741a48096fb58442e508" title="G4ReactionProduct::\lSetMomentum" alt="" coords="610,1067,769,1111"/>
+<area shape="rect" id="node30" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="372,1184,436,1212"/>
+<area shape="rect" id="node34" href="$d1/d20/G4Poisson_8hh.html#af968bed230b6c78c15ff5b04efe96e59" title="G4Poisson" alt="" coords="359,124,449,152"/>
+<area shape="rect" id="node35" href="$dd/d77/classG4ReactionProduct.html#a3476b2f98185c2d8ba183ea832fa8c58" title="G4ReactionProduct::\lGetDefinition" alt="" coords="325,1236,483,1280"/>
+<area shape="rect" id="node36" href="$d3/dc0/classG4Nucleus.html#aa034bd19c3d5671afb82bb9de2908896" title="G4Nucleus::GetDTABlackTrack\lEnergy" alt="" coords="291,1304,517,1348"/>
+<area shape="rect" id="node37" href="$d1/d3f/classG4RPGReaction.html#a47bc62284af593d7582fbca68edfb164" title="G4RPGReaction::GetFinalState\lNucleons" alt="" coords="291,1372,517,1416"/>
+<area shape="rect" id="node40" href="$dd/d77/classG4ReactionProduct.html#a9b840bf731b3e562dc2af5cf8e82fd17" title="G4ReactionProduct::\lGetMass" alt="" coords="325,1440,483,1484"/>
+<area shape="rect" id="node41" href="$d5/d38/classG4ParticleDefinition.html#a4c463e08e928a594eb5996bfb43c2191" title="G4ParticleDefinition\l::GetParticleSubType" alt="" coords="323,1508,485,1552"/>
+<area shape="rect" id="node42" href="$d3/dc0/classG4Nucleus.html#ac3b52d8911e1385b66cefc9b8305b0a5" title="G4Nucleus::GetPNBlackTrack\lEnergy" alt="" coords="295,1576,513,1620"/>
+<area shape="rect" id="node43" href="$dd/d77/classG4ReactionProduct.html#ad7d17473a24fe15a602038d6bda78983" title="G4ReactionProduct::\lGetTotalEnergy" alt="" coords="325,1644,483,1688"/>
+<area shape="rect" id="node44" href="$dd/d77/classG4ReactionProduct.html#a55475aaecd57cee6ea09f14062c701cd" title="G4ReactionProduct::\lGetTotalMomentum" alt="" coords="325,739,483,783"/>
+<area shape="rect" id="node45" href="$dd/d77/classG4ReactionProduct.html#aa4019f4b1a0e819feb3b81b4544630d4" title="G4ReactionProduct::\lLorentz" alt="" coords="325,963,483,1007"/>
+<area shape="rect" id="node46" href="$dd/d77/classG4ReactionProduct.html#afe4ab889b40012df0b56eebf28615100" title="G4ReactionProduct::\lSetMass" alt="" coords="610,1135,769,1179"/>
+<area shape="rect" id="node47" href="$dd/d77/classG4ReactionProduct.html#a0d6441c08b5b1c1c566e7fc1c764fd56" title="G4ReactionProduct::\lSetTotalEnergy" alt="" coords="610,1203,769,1247"/>
+<area shape="rect" id="node48" href="$d1/d3f/classG4RPGReaction.html#ad5a287b549b9ff46039d12d9c9c6a62e" title="G4RPGReaction::normal" alt="" coords="313,635,495,663"/>
+<area shape="rect" id="node49" href="$dd/d77/classG4ReactionProduct.html#abe190540a25904e321cb9b1c2888b4c6" title="G4ReactionProduct::\lSetKineticEnergy" alt="" coords="325,1712,483,1756"/>
+<area shape="rect" id="node50" href="$dd/d77/classG4ReactionProduct.html#ac7bc8a2e6c3a95b9c74a8f997ffc1a85" title="G4ReactionProduct::\lSetTOF" alt="" coords="325,1780,483,1824"/>
+<area shape="rect" id="node3" href="$dc/d9e/classG4Alpha.html#aa1650aa28172e900e599389e6ab8eaf9" title="G4Alpha::Alpha" alt="" coords="626,239,753,267"/>
+<area shape="rect" id="node5" href="$df/dfb/classG4Deuteron.html#a0e66e34b476195b9c697bed1bccb8c02" title="G4Deuteron::Deuteron" alt="" coords="602,463,777,491"/>
+<area shape="rect" id="node12" href="$d5/d43/classG4Neutron.html#aa64d2476ec8494ae77b58a93b04bf88b" title="G4Neutron::Neutron" alt="" coords="611,135,768,163"/>
+<area shape="rect" id="node13" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="621,187,757,215"/>
+<area shape="rect" id="node14" href="$da/d19/example__1_8f.html#af1c2729d53ff48a074c57e20c2d85980" title="ran" alt="" coords="668,635,711,663"/>
+<area shape="rect" id="node15" href="$dd/d77/classG4ReactionProduct.html#ab7067e9f9aeccb47db6b5e80ddd1f220" title="G4ReactionProduct::\lSetDefinition" alt="" coords="610,291,769,335"/>
+<area shape="rect" id="node17" href="$d4/d53/classG4FastVector.html#a59873a26ef71e2ef3c810495b8657c50" title="G4FastVector::SetElement" alt="" coords="591,359,788,387"/>
+<area shape="rect" id="node18" href="$da/d5b/classG4Triton.html#a7944632cec88762bbddc94d5a201be5f" title="G4Triton::Triton" alt="" coords="627,411,751,439"/>
+<area shape="rect" id="node4" href="$dc/d9e/classG4Alpha.html#a6775b51f1bda0a28a4c36910a447b3c7" title="G4Alpha::Definition" alt="" coords="876,239,1029,267"/>
+<area shape="rect" id="node7" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="870,5,1035,33"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="858,57,1047,85"/>
+<area shape="rect" id="node20" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="634,739,745,767"/>
+<area shape="rect" id="node27" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="605,911,774,939"/>
+<area shape="rect" id="node28" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="605,963,774,991"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="605,1015,773,1043"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="857,1127,1048,1155"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="857,1023,1048,1051"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="857,1075,1048,1103"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="593,1271,785,1299"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="593,1323,785,1351"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="569,1375,809,1403"/>
+<area shape="rect" id="node38" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="611,1427,768,1471"/>
+<area shape="rect" id="node39" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="612,1495,767,1539"/>
+</map>

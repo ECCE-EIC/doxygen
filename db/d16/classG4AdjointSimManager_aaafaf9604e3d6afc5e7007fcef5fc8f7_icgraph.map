@@ -1,0 +1,16 @@
+<map id="G4AdjointSimManager::GetInstance" name="G4AdjointSimManager::GetInstance">
+<area shape="rect" id="node2" href="$d3/dc6/classRMC01AnalysisManager.html#a7abd2a1d4f3e711666fba3f7bf7cb60c" title="RMC01AnalysisManager\l::BeginOfRun" alt="" coords="263,5,448,49"/>
+<area shape="rect" id="node4" href="$d4/d34/classG4AdjointPrimaryGeneratorAction.html#aff80fcae2b088999207e6817d830f45f" title="G4AdjointPrimaryGenerator\lAction::ComputeEnergyDistWeight" alt="" coords="227,73,484,117"/>
+<area shape="rect" id="node5" href="$d4/d34/classG4AdjointPrimaryGeneratorAction.html#a159749d1cb5a47a017be08d70c26ff0f" title="G4AdjointPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="556,91,765,135"/>
+<area shape="rect" id="node6" href="$d3/dc6/classRMC01AnalysisManager.html#a8a265e56caf619ad0c747a1e9dfd879d" title="RMC01AnalysisManager\l::ComputeMeanEdepAndError" alt="" coords="244,193,467,237"/>
+<area shape="rect" id="node10" href="$d3/dc6/classRMC01AnalysisManager.html#a423127f73645261f081aeb0d53e4b5d4" title="RMC01AnalysisManager\l::EndOfEventForAdjointSimulation" alt="" coords="535,245,786,289"/>
+<area shape="rect" id="node11" href="$d4/dd5/classG4AdjointPhysicsList.html#a34a5b9b94add20641ef27eae2818b840" title="G4AdjointPhysicsList\l::ConstructEM" alt="" coords="274,313,437,357"/>
+<area shape="rect" id="node13" href="$d3/dc6/classRMC01AnalysisManager.html#a21bbfc24469a7b5cd95e27668e87f62e" title="RMC01AnalysisManager\l::EndOfRun" alt="" coords="263,381,448,425"/>
+<area shape="rect" id="node15" href="$d1/d14/exampleRMC01_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="328,449,383,477"/>
+<area shape="rect" id="node3" href="$d1/db6/classRMC01RunAction.html#abcc4d56ce8b9c37f7d949ffa0aee2988" title="RMC01RunAction::BeginOfRun\lAction" alt="" coords="548,5,773,49"/>
+<area shape="rect" id="node7" href="$d3/dc6/classRMC01AnalysisManager.html#a39941d7581bf32d586a7888a91bbc783" title="RMC01AnalysisManager\l::EndOfEventForForwardSimulation" alt="" coords="532,177,789,221"/>
+<area shape="rect" id="node8" href="$d3/dc6/classRMC01AnalysisManager.html#a1579ee5eb6f53e158b935457204a683c" title="RMC01AnalysisManager\l::EndOfEvent" alt="" coords="837,212,1023,256"/>
+<area shape="rect" id="node9" href="$d7/d92/classRMC01EventAction.html#a3fe554a44c3d2d577b4b53025b2d780e" title="RMC01EventAction::EndOfEvent\lAction" alt="" coords="1071,212,1311,256"/>
+<area shape="rect" id="node12" href="$d4/dd5/classG4AdjointPhysicsList.html#af7633eaab23acc80f48d34574664a19f" title="G4AdjointPhysicsList\l::ConstructProcess" alt="" coords="579,313,742,357"/>
+<area shape="rect" id="node14" href="$d1/db6/classRMC01RunAction.html#a4f237c5e517584803f4abefde3a41b39" title="RMC01RunAction::EndOfRun\lAction" alt="" coords="555,381,767,425"/>
+</map>

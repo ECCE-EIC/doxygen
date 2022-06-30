@@ -1,0 +1,36 @@
+<map id="G4tgrMaterial::GetName" name="G4tgrMaterial::GetName">
+<area shape="rect" id="node2" href="$dc/dd0/classG4tgrMaterialFactory.html#a856f751be8db0917f3f08c2826429049" title="G4tgrMaterialFactory\l::AddMaterialMixture" alt="" coords="253,73,417,117"/>
+<area shape="rect" id="node14" href="$dc/dd0/classG4tgrMaterialFactory.html#aea5c8cacd818fecf3fabc07c159025fd" title="G4tgrMaterialFactory\l::AddMaterialSimple" alt="" coords="253,5,417,49"/>
+<area shape="rect" id="node15" href="$dd/dfb/classG4tgbMaterialMixtureByWeight.html#a6c81cd93cf3ede3e0d038ae761bceb52" title="G4tgbMaterialMixtureByWeight\l::BuildG4Material" alt="" coords="1629,169,1863,213"/>
+<area shape="rect" id="node16" href="$d2/dfb/classG4tgbMaterialMixtureByVolume.html#a93f1ac06fe8db4d903b1981f048f7294" title="G4tgbMaterialMixtureByVolume\l::BuildG4Material" alt="" coords="1345,677,1581,721"/>
+<area shape="rect" id="node17" href="$d7/df5/classG4tgbMaterialMixtureByNoAtoms.html#a43eedd38569da418699ecf73a232302f" title="G4tgbMaterialMixtureByNo\lAtoms::BuildG4Material" alt="" coords="1644,276,1848,320"/>
+<area shape="rect" id="node18" href="$dc/dd0/classG4tgrMaterialFactory.html#a955692f67de984d908e839efbeabda31" title="G4tgrMaterialFactory\l::DumpMaterialList" alt="" coords="253,797,417,841"/>
+<area shape="rect" id="node20" href="$d8/dc1/classG4tgbMaterial.html#a9207907f97dcfd189d2a78ae4fe42e45" title="G4tgbMaterial::GetName" alt="" coords="240,376,431,404"/>
+<area shape="rect" id="node34" href="$d2/dfb/classG4tgbMaterialMixtureByVolume.html#a95bcf60ccc093212f059dcf35e21a745" title="G4tgbMaterialMixtureByVolume\l::TransformToFractionsByWeight" alt="" coords="1059,677,1297,721"/>
+<area shape="rect" id="node3" href="$d6/dfd/classG4tgrLineProcessor.html#a2c3b5fd3439ca2b15035f38240c3ed48" title="G4tgrLineProcessor\l::ProcessLine" alt="" coords="527,44,681,88"/>
+<area shape="rect" id="node4" href="$d0/d1d/classExTGRCLineProcessor.html#ad38f0d4a88de42ab077a372f52ce38e7" title="ExTGRCLineProcessor\l::ProcessLine" alt="" coords="810,73,978,117"/>
+<area shape="rect" id="node5" href="$d5/da5/classG4tgrFileReader.html#a5b57f0d7eec4d4c5f121e33ef694b18c" title="G4tgrFileReader::ReadFiles" alt="" coords="1362,49,1565,77"/>
+<area shape="rect" id="node6" href="$db/df1/classExTGRCDetectorBuilder.html#aa4c8965bfb5b924dfdd74c8563aad75a" title="ExTGRCDetectorBuilder\l::ReadDetector" alt="" coords="1957,101,2139,145"/>
+<area shape="rect" id="node8" href="$d9/d6c/classG4tgbDetectorBuilder.html#aab650e921a433f52207f4bf571d5ca20" title="G4tgbDetectorBuilder\l::ReadDetector" alt="" coords="1661,101,1831,145"/>
+<area shape="rect" id="node7" href="$d2/df7/classExTGDetectorConstructionWithCuts.html#abf59f7df480dc283c3c0db9ff401dd01" title="ExTGDetectorConstruction\lWithCuts::Construct" alt="" coords="2233,215,2433,259"/>
+<area shape="rect" id="node9" href="$de/dd0/classG4tgbVolumeMgr.html#a93803d6bb5fccb055fae6c61d57cd701" title="G4tgbVolumeMgr::ReadAndConstruct\lDetector" alt="" coords="1911,351,2185,395"/>
+<area shape="rect" id="node10" href="$d1/d9e/classExTGDetectorConstruction.html#ad1890aaa7d14667f91da538a415f2f6f" title="ExTGDetectorConstruction\l::Construct" alt="" coords="2233,283,2433,327"/>
+<area shape="rect" id="node11" href="$dd/d04/classExTGDetectorConstructionWithSD.html#a5c23eff76ef15a2939eb7dd855f544d1" title="ExTGDetectorConstruction\lWithSD::Construct" alt="" coords="2233,351,2433,395"/>
+<area shape="rect" id="node12" href="$da/d45/classExTGDetectorConstructionWithCpp.html#ac70c77fdcf1806ced6b5132d801b37c5" title="ExTGDetectorConstruction\lWithCpp::Construct" alt="" coords="2233,419,2433,463"/>
+<area shape="rect" id="node13" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="2252,501,2415,545"/>
+<area shape="rect" id="node19" href="$dc/df7/classG4tgrVolumeMgr.html#aebd91a41f88d4563e751f705d3d8805c" title="G4tgrVolumeMgr::DumpSummary" alt="" coords="479,805,729,833"/>
+<area shape="rect" id="node21" href="$d4/df0/classG4tgbMaterialSimple.html#a5345e8bd6a6c47aafc6be98ced0f4b4e" title="G4tgbMaterialSimple\l::BuildG4Material" alt="" coords="522,337,686,381"/>
+<area shape="rect" id="node22" href="$d8/dc5/classG4tgbMaterialMgr.html#a4002c2ba0cd62b1254e3b400997c71f6" title="G4tgbMaterialMgr::CopyMaterials" alt="" coords="480,461,728,489"/>
+<area shape="rect" id="node35" href="$da/dfb/G4tgbMaterialSimple_8cc.html#a02db1c840bf07e01bae775b296cbdea5" title="operator\&lt;\&lt;" alt="" coords="553,405,655,433"/>
+<area shape="rect" id="node23" href="$d8/dc5/classG4tgbMaterialMgr.html#afe2f5410315fd3aa0695b2bcf7cb3d28" title="G4tgbMaterialMgr::GetInstance" alt="" coords="777,463,1011,491"/>
+<area shape="rect" id="node24" href="$d0/d75/classG4tgbElement.html#a7bfa2333d38b8331c98dab916a98dfa9" title="G4tgbElement::BuildG4Element\lFromIsotopes" alt="" coords="1059,216,1297,260"/>
+<area shape="rect" id="node26" href="$d1/d78/classG4tgbVolume.html#a7246bd33bb8e970b470dee1b3bd378eb" title="G4tgbVolume::ConstructG4\lLogVol" alt="" coords="1075,456,1281,500"/>
+<area shape="rect" id="node31" href="$d1/d78/classG4tgbVolume.html#a0cc2371fc97f047c9f0ac69f791fd8f7" title="G4tgbVolume::ConstructG4\lPhysVol" alt="" coords="1643,493,1849,537"/>
+<area shape="rect" id="node32" href="$de/dd0/classG4tgbVolumeMgr.html#a4b946ceed8cf5d175b0e3e0c3c21aa89" title="G4tgbVolumeMgr::DumpSummary" alt="" coords="1921,539,2175,567"/>
+<area shape="rect" id="node33" href="$d3/d37/classEICG4dRICHOptics.html#a67bbf1ead0723078ffdd506a9bcd061b" title="EICG4dRICHOptics::EICG4d\lRICHOptics" alt="" coords="1076,336,1280,380"/>
+<area shape="rect" id="node25" href="$d8/dc5/classG4tgbMaterialMgr.html#a6e38104de68f87456200ec184a57bd5e" title="G4tgbMaterialMgr::FindOr\lBuildG4Element" alt="" coords="1365,216,1561,260"/>
+<area shape="rect" id="node27" href="$d1/d78/classG4tgbVolume.html#a914b6aefd21c8a951b8d863b12170f61" title="G4tgbVolume::ConstructG4\lVolumes" alt="" coords="1360,456,1567,500"/>
+<area shape="rect" id="node28" href="$da/d27/classG4tgbDetectorConstruction.html#a7853d57e0b71d49746d04bc716d725c3" title="G4tgbDetectorConstruction\l::Construct" alt="" coords="1643,425,1849,469"/>
+<area shape="rect" id="node29" href="$d9/d6c/classG4tgbDetectorBuilder.html#aa7113e3f68d1d769caad5cfa89bc0244" title="G4tgbDetectorBuilder\l::ConstructDetector" alt="" coords="1661,351,1831,395"/>
+<area shape="rect" id="node30" href="$db/df1/classExTGRCDetectorBuilder.html#a1ebdf86f4ee2d4d102c10e1dd5601de1" title="ExTGRCDetectorBuilder\l::ConstructDetector" alt="" coords="1957,249,2139,293"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="G4GlobalFastSimulationManager::ShowSetup" name="G4GlobalFastSimulationManager::ShowSetup">
+<area shape="rect" id="node2" href="$d5/da4/classG4ProcessVector.html#a00aca3e1e4cb6011e00886a18bde1d76" title="G4ProcessVector::contains" alt="" coords="325,163,525,191"/>
+<area shape="rect" id="node3" href="$de/d3b/classG4GlobalFastSimulationManager.html#a596d17b7dc82b983c72ba8b52ab67ef2" title="G4GlobalFastSimulationManager\l::DisplayRegion" alt="" coords="304,693,547,737"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a08782c4e0944def526b0518fa8b04eb1" title="G4ParticleTable::entries" alt="" coords="917,385,1098,413"/>
+<area shape="rect" id="node8" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="638,829,802,873"/>
+<area shape="rect" id="node10" href="$d1/d35/classG4Region.html#a5e646e799ed5b44988e30ee5cd2fa582" title="G4Region::GetName" alt="" coords="640,897,800,925"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#a90f1dd316df394718bbdbefd2fa33f7f" title="G4ParticleTable::GetParticle" alt="" coords="616,281,824,309"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="643,949,797,993"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="616,761,824,805"/>
+<area shape="rect" id="node22" href="$da/dc4/classG4LogicalVolume.html#ac5ed1a269bc718f5acd258407d5f9459" title="G4LogicalVolume::GetRegion" alt="" coords="611,1017,829,1045"/>
+<area shape="rect" id="node24" href="$db/d69/classG4RegionStore.html#a2a97721b88d990603fdb8aa367c13282" title="G4RegionStore::GetInstance" alt="" coords="319,1020,531,1048"/>
+<area shape="rect" id="node25" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="343,1072,507,1116"/>
+<area shape="rect" id="node26" href="$d5/d2e/classG4ProcessManager.html#ac626c1a0a98c410780ea9bf2bde009a4" title="G4ProcessManager::GetProcessList" alt="" coords="296,1140,555,1168"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="343,1192,508,1236"/>
+<area shape="rect" id="node28" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="319,215,531,259"/>
+<area shape="rect" id="node5" href="$d1/d35/classG4Region.html#a5fe67a8a33513429ef5234ae0808c4e4" title="G4Region::GetFastSimulation\lManager" alt="" coords="611,505,829,549"/>
+<area shape="rect" id="node6" href="$d1/daa/classG4FastSimulationManager.html#a0a048199366dfbb54b05945135d1102f" title="G4FastSimulationManager\l::GetFastSimulationModelList" alt="" coords="611,573,829,617"/>
+<area shape="rect" id="node7" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="629,693,811,737"/>
+<area shape="rect" id="node9" href="$d1/d28/classG4VPhysicalVolume.html#a3b3e462bc9a0a36dfa6b0628762c0a2b" title="G4VPhysicalVolume::\lGetMotherLogical" alt="" coords="638,385,802,429"/>
+<area shape="rect" id="node23" href="$da/dc4/classG4LogicalVolume.html#ac680c5061dfb18eed2756ddb3dc0fa01" title="G4LogicalVolume::IsRootRegion" alt="" coords="603,453,837,481"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="885,281,1129,309"/>
+<area shape="rect" id="node14" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1203,395,1379,439"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1238,251,1345,279"/>
+<area shape="rect" id="node17" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="907,692,1108,736"/>
+<area shape="rect" id="node18" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1203,721,1379,765"/>
+<area shape="rect" id="node19" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1200,789,1383,817"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1214,601,1369,645"/>
+<area shape="rect" id="node21" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1177,669,1405,697"/>
+<area shape="rect" id="node29" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="617,139,823,183"/>
+<area shape="rect" id="node30" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="910,109,1105,153"/>
+<area shape="rect" id="node31" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="931,177,1084,205"/>
+<area shape="rect" id="node32" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="922,5,1093,33"/>
+<area shape="rect" id="node33" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="893,57,1121,85"/>
+</map>

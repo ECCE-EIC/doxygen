@@ -1,0 +1,28 @@
+var classServiceProperties =
+[
+    [ "ServiceProperties", "d2/dac/classServiceProperties.html#ab0ec28ccff48c9b838cbe1a08d3adb41", null ],
+    [ "ServiceProperties", "d2/dac/classServiceProperties.html#adafd5bbd318c69a80e567d8471ac4006", null ],
+    [ "~ServiceProperties", "d2/dac/classServiceProperties.html#abe5529c2b677074b2ada0daad0773756", null ],
+    [ "get_name", "d2/dac/classServiceProperties.html#ad8134c71bf18fb24ce341959e554e621", null ],
+    [ "get_r_north", "d2/dac/classServiceProperties.html#a52b717959ab60ba0cfd3fe4038fd5a09", null ],
+    [ "get_r_south", "d2/dac/classServiceProperties.html#ac1bf88dd6b8aac786526f611702b59d2", null ],
+    [ "get_rad_len_aluminum", "d2/dac/classServiceProperties.html#a4fa4f959ee87def40b28da95144f5aaf", null ],
+    [ "get_rad_len_carbon", "d2/dac/classServiceProperties.html#a94bfa768cd65516c3d9c3a85945d6d6c", null ],
+    [ "get_rad_len_copper", "d2/dac/classServiceProperties.html#a34ecdb7b635c6a1763b33df3d3a13664", null ],
+    [ "get_rad_len_iron", "d2/dac/classServiceProperties.html#aab0f16c1d70976c898b2535122d8a8c4", null ],
+    [ "get_rad_len_plastic", "d2/dac/classServiceProperties.html#a920ebe8264e9496b8c6431766b60f07e", null ],
+    [ "get_rad_len_water", "d2/dac/classServiceProperties.html#aa9a006184be69a8d08673e2e151702db", null ],
+    [ "get_z_north", "d2/dac/classServiceProperties.html#a410bc8f45b06d64f7a8999b48a3d26ba", null ],
+    [ "get_z_south", "d2/dac/classServiceProperties.html#a5f40b6b4053eae68cf08eb30e7b9e4fe", null ],
+    [ "m_name", "d2/dac/classServiceProperties.html#a35bbb72c201ebde6929ecd8ed7e83b2e", null ],
+    [ "m_r_north", "d2/dac/classServiceProperties.html#a3271c493fc3de187106f6127719f2220", null ],
+    [ "m_r_south", "d2/dac/classServiceProperties.html#a9e21a929d0ecafcb4fbdd61bdc33e79c", null ],
+    [ "m_rad_len_aluminum", "d2/dac/classServiceProperties.html#a96fb0323e4513fc7c335504592ee44a7", null ],
+    [ "m_rad_len_carbon", "d2/dac/classServiceProperties.html#ae7fcbd6dcc72ba25f75b19730d5349e4", null ],
+    [ "m_rad_len_copper", "d2/dac/classServiceProperties.html#a4e6e2d6dd05b7fcd5e8f65c460c59913", null ],
+    [ "m_rad_len_iron", "d2/dac/classServiceProperties.html#a7b844f4100aae811b7fa84b219b6e8f4", null ],
+    [ "m_rad_len_plastic", "d2/dac/classServiceProperties.html#a8cded5a0e519ef555ec55f8038791480", null ],
+    [ "m_rad_len_water", "d2/dac/classServiceProperties.html#a744626c4b741129dc3274a11c3bff996", null ],
+    [ "m_z_north", "d2/dac/classServiceProperties.html#af4018d91d55171ec31be2d15095e2181", null ],
+    [ "m_z_south", "d2/dac/classServiceProperties.html#a9eef68e9058bd10c762f381e5ad76200", null ]
+];

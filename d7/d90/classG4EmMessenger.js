@@ -1,0 +1,27 @@
+var classG4EmMessenger =
+[
+    [ "G4EmMessenger", "d7/d90/classG4EmMessenger.html#ae5f9a64cd5225bd3237b990602fdd403", null ],
+    [ "~G4EmMessenger", "d7/d90/classG4EmMessenger.html#a5106cef9f6623f6961066f5c6ed51168", null ],
+    [ "SetNewValue", "d7/d90/classG4EmMessenger.html#a652babc7b16adad4be2492c50e09f401", null ],
+    [ "aDir1", "d7/d90/classG4EmMessenger.html#a96033fbe2615ab00486be260d2e17341", null ],
+    [ "aDir2", "d7/d90/classG4EmMessenger.html#a9e50f3930f0f3b9ce17ee58278458413", null ],
+    [ "theB", "d7/d90/classG4EmMessenger.html#abbd3b4064849a1a2fe9fa2a6b457bbd8", null ],
+    [ "theEN", "d7/d90/classG4EmMessenger.html#ab23d74060692bec7fa6cd678cef05af5", null ],
+    [ "theGLENDN", "d7/d90/classG4EmMessenger.html#a1507cb93502474a4039e19be59737f80", null ],
+    [ "theGMM", "d7/d90/classG4EmMessenger.html#aef8ba380a4ffb5698eab41507632421f", null ],
+    [ "theGMM1", "d7/d90/classG4EmMessenger.html#ad1887bad0e9951e1b99e98c3d84d3ac6", null ],
+    [ "theGN", "d7/d90/classG4EmMessenger.html#aacee576aaa6dae07f5e6dad90e16925b", null ],
+    [ "theMUN", "d7/d90/classG4EmMessenger.html#a4a9fc4fdf56a08861ed9df05ae339201", null ],
+    [ "theNu", "d7/d90/classG4EmMessenger.html#a5cfefec0a10280aa817cc7b89b68e401", null ],
+    [ "theNuDN", "d7/d90/classG4EmMessenger.html#a12fed858c1346aa8b493d34ba9b09f1d", null ],
+    [ "theNuEleCcBF", "d7/d90/classG4EmMessenger.html#a29cfd67c4e912cd6cf9c2cd81fd959d9", null ],
+    [ "theNuEleNcBF", "d7/d90/classG4EmMessenger.html#a640f805481d8d2044f43dc7e17f264e0", null ],
+    [ "theNuETX", "d7/d90/classG4EmMessenger.html#a0f71a6ad3f544f67a485dca1861caa6c", null ],
+    [ "theNuNucleusBF", "d7/d90/classG4EmMessenger.html#a3dc61b6bb27d372467f71bf8f8cd0588", null ],
+    [ "thePH", "d7/d90/classG4EmMessenger.html#a771b6836e73e8ca2dfbeb1570fec6030", null ],
+    [ "thePH1", "d7/d90/classG4EmMessenger.html#ad0d367b747083b856155c187ad8e79bc", null ],
+    [ "thePMM", "d7/d90/classG4EmMessenger.html#ab69be20cf95524f84ea42bd749e0af80", null ],
+    [ "thePMM1", "d7/d90/classG4EmMessenger.html#a8eda2a6e7f77815606f01f850d356ba3", null ],
+    [ "theSynch", "d7/d90/classG4EmMessenger.html#affa4929779582929d00bf37d8f5c8d1e", null ],
+    [ "theSynchAll", "d7/d90/classG4EmMessenger.html#a3f81e726ff4d0d5e3902fb7f4926800c", null ]
+];

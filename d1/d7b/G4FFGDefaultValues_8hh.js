@@ -1,0 +1,26 @@
+var G4FFGDefaultValues_8hh =
+[
+    [ "AlphaProduction", "d1/d7b/G4FFGDefaultValues_8hh.html#a90a138ef88d3af4ff53ee0f1a65842e1", null ],
+    [ "ENDFFissionDataLocation", "d1/d7b/G4FFGDefaultValues_8hh.html#a59b1076570905aa2616fb2fa351de0ab", null ],
+    [ "EventTime", "d1/d7b/G4FFGDefaultValues_8hh.html#a3f20d9b44e8cbae7cbf6ac8183eda5cb", null ],
+    [ "EventTimeUnit", "d1/d7b/G4FFGDefaultValues_8hh.html#ac99df2961f57076edaa02b51c32e09b7", null ],
+    [ "FissionCause", "d1/d7b/G4FFGDefaultValues_8hh.html#a6a4935f21fd916dc0ee200113d7ae5c8", null ],
+    [ "IncidentEnergy", "d1/d7b/G4FFGDefaultValues_8hh.html#a4f3eaed94c850b8a47327d0b222f456c", null ],
+    [ "IncidentEnergyUnit", "d1/d7b/G4FFGDefaultValues_8hh.html#ad4a73dc445ca12fc44ba7070839d73c4", null ],
+    [ "Isotope", "d1/d7b/G4FFGDefaultValues_8hh.html#a91ca1537f26bdb029cab2e16c2a0352c", null ],
+    [ "MeanGammaEnergy", "d1/d7b/G4FFGDefaultValues_8hh.html#ab651ee782c897910bbd2b298440f0a40", null ],
+    [ "MetaState", "d1/d7b/G4FFGDefaultValues_8hh.html#a0521d302aff048a767107d3854946480", null ],
+    [ "SamplingScheme", "d1/d7b/G4FFGDefaultValues_8hh.html#a958f4c4041e99f653c123ec883b27d07", null ],
+    [ "SourceCenter", "d1/d7b/G4FFGDefaultValues_8hh.html#ae5b6cdf509b51331314efec2d004561c", null ],
+    [ "SourceDepth", "d1/d7b/G4FFGDefaultValues_8hh.html#acd294553723d0a4abd347eff19fbcd25", null ],
+    [ "SourceDimensionUnit", "d1/d7b/G4FFGDefaultValues_8hh.html#a7e8dc86dc4f33ce3229bc010655415cb", null ],
+    [ "SourceHeight", "d1/d7b/G4FFGDefaultValues_8hh.html#ae5d6a96012e2117c101545c247e61924", null ],
+    [ "SourceRadius", "d1/d7b/G4FFGDefaultValues_8hh.html#abbeb0638114140344106f50e9adf7a22", null ],
+    [ "SourceType", "d1/d7b/G4FFGDefaultValues_8hh.html#a6a13ec5bfe4e48ac6119731335f0df54", null ],
+    [ "SourceWidth", "d1/d7b/G4FFGDefaultValues_8hh.html#a78eda930ff18b07706b062c198b0723b", null ],
+    [ "TernaryProbability", "d1/d7b/G4FFGDefaultValues_8hh.html#a4078d997c832f3680a376646b81958bc", null ],
+    [ "ThermalNeutronEnergy", "d1/d7b/G4FFGDefaultValues_8hh.html#a2033e404b7c4a526169696d8ce1a8878", null ],
+    [ "UICommandDirectory", "d1/d7b/G4FFGDefaultValues_8hh.html#ab45c8d8ccb46c01fe0e343b84521cccf", null ],
+    [ "Verbosity", "d1/d7b/G4FFGDefaultValues_8hh.html#a555b50a0ae1aad007e5fd3f2ba8ecfa0", null ],
+    [ "YieldType", "d1/d7b/G4FFGDefaultValues_8hh.html#a9ade22dcc29dc3db32b230d0fc5bf70e", null ]
+];

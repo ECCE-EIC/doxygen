@@ -1,0 +1,34 @@
+<map id="G4Torus::GetDPhi" name="G4Torus::GetDPhi">
+<area shape="rect" id="node2" href="$da/d0a/classG4Torus.html#a814b2c6d9cf315512517e15d647fc71f" title="G4Torus::BoundingLimits" alt="" coords="194,95,385,123"/>
+<area shape="rect" id="node3" href="$da/d0a/classG4Torus.html#ae8cc97bb48a0d30390f3975259f3bded" title="G4Torus::CalculateExtent" alt="" coords="435,5,629,33"/>
+<area shape="rect" id="node4" href="$df/d79/pymodG4geometry_8cc.html#ae7ea141347fe37908833535c5c313fee" title="export_G4Torus" alt="" coords="226,155,353,183"/>
+<area shape="rect" id="node6" href="$de/d7b/classG4tgbGeometryDumper.html#afc02fc6b87cfe7cd125b53b2392be207" title="G4tgbGeometryDumper\l::GetSolidParams" alt="" coords="197,224,382,268"/>
+<area shape="rect" id="node15" href="$d8/dba/classG4GDMLWriteParamvol.html#af8d7c25f10d9228fc02d387e1960b164" title="G4GDMLWriteParamvol\l::Torus_dimensionsWrite" alt="" coords="197,292,382,336"/>
+<area shape="rect" id="node21" href="$d8/dd9/classPHG4GDMLWriteParamvol.html#aeb0ab329331fed2eb6f9e7222d7ff7bc" title="PHG4GDMLWriteParamvol\l::Torus_dimensionsWrite" alt="" coords="192,467,387,511"/>
+<area shape="rect" id="node26" href="$d0/d94/classPHG4GDMLWriteSolids.html#a5a965c3c48b3db833ab9ed45a9bbdb41" title="PHG4GDMLWriteSolids\l::TorusWrite" alt="" coords="203,624,376,668"/>
+<area shape="rect" id="node29" href="$d3/d4a/classG4GDMLWriteSolids.html#a0231be8becb379af4c351ac11e49fa9d" title="G4GDMLWriteSolids::\lTorusWrite" alt="" coords="208,373,371,417"/>
+<area shape="rect" id="node5" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="435,57,629,85"/>
+<area shape="rect" id="node7" href="$de/d7b/classG4tgbGeometryDumper.html#a9312bb74b948d6b760e78f366a68c5dc" title="G4tgbGeometryDumper\l::DumpPVParameterised" alt="" coords="1167,96,1353,140"/>
+<area shape="rect" id="node11" href="$de/d7b/classG4tgbGeometryDumper.html#acff4e0423a05b58a479c254339392c26" title="G4tgbGeometryDumper\l::DumpSolidParams" alt="" coords="439,224,625,268"/>
+<area shape="rect" id="node8" href="$de/d7b/classG4tgbGeometryDumper.html#a710a628dc50008e820c7665e8ebd5165" title="G4tgbGeometryDumper\l::DumpPhysVol" alt="" coords="1405,127,1591,171"/>
+<area shape="rect" id="node9" href="$de/d7b/classG4tgbGeometryDumper.html#a3776e8200bee5cc32f330e76c83dcb8b" title="G4tgbGeometryDumper\l::DumpGeometry" alt="" coords="1639,127,1824,171"/>
+<area shape="rect" id="node10" href="$db/d53/classExTGRunAction.html#a6f56565015d94fe77438f3401f02e0bd" title="ExTGRunAction::BeginOfRun\lAction" alt="" coords="1872,127,2085,171"/>
+<area shape="rect" id="node12" href="$de/d7b/classG4tgbGeometryDumper.html#aaad30eddff1d68edbc83442555d08da4" title="G4tgbGeometryDumper\l::DumpSolid" alt="" coords="682,224,867,268"/>
+<area shape="rect" id="node13" href="$de/d7b/classG4tgbGeometryDumper.html#a76b3afcdb95afe8b989be812c62ae439" title="G4tgbGeometryDumper\l::DumpBooleanVolume" alt="" coords="925,224,1110,268"/>
+<area shape="rect" id="node14" href="$de/d7b/classG4tgbGeometryDumper.html#a162601d43fffda564dc194cc5b80062b" title="G4tgbGeometryDumper\l::DumpLogVol" alt="" coords="925,156,1110,200"/>
+<area shape="rect" id="node16" href="$d8/dba/classG4GDMLWriteParamvol.html#a28765cc00d56e5814087bab70591b78f" title="G4GDMLWriteParamvol\l::ParametersWrite" alt="" coords="443,292,621,336"/>
+<area shape="rect" id="node17" href="$d8/dba/classG4GDMLWriteParamvol.html#a726458fa072cb475cd4d6d9d884922e9" title="G4GDMLWriteParamvol\l::ParamvolAlgorithmWrite" alt="" coords="677,292,872,336"/>
+<area shape="rect" id="node18" href="$d8/dba/classG4GDMLWriteParamvol.html#ae9f43724d920855aa3279305c50c025b" title="G4GDMLWriteParamvol\l::ParamvolWrite" alt="" coords="929,292,1106,336"/>
+<area shape="rect" id="node19" href="$d4/ded/classG4GDMLWriteStructure.html#ad618893f498c97f395b97738cb75a0a6" title="G4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="1171,323,1349,367"/>
+<area shape="rect" id="node20" href="$d4/ded/classG4GDMLWriteStructure.html#a7b590030f21824be91b222b540b9ad19" title="G4GDMLWriteStructure\l::AssemblyWrite" alt="" coords="1409,323,1587,367"/>
+<area shape="rect" id="node22" href="$d8/dd9/classPHG4GDMLWriteParamvol.html#ac1ba363d8d334c018fa187f309858193" title="PHG4GDMLWriteParamvol\l::ParametersWrite" alt="" coords="435,576,629,620"/>
+<area shape="rect" id="node23" href="$d8/dd9/classPHG4GDMLWriteParamvol.html#a3b3e03b3d2ce50bd3de5a9a68f314495" title="PHG4GDMLWriteParamvol\l::ParamvolAlgorithmWrite" alt="" coords="677,616,872,660"/>
+<area shape="rect" id="node24" href="$d8/dd9/classPHG4GDMLWriteParamvol.html#a93a2dff92e3409e4fe71b661e584afd1" title="PHG4GDMLWriteParamvol\l::ParamvolWrite" alt="" coords="920,616,1115,660"/>
+<area shape="rect" id="node25" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="1163,645,1357,689"/>
+<area shape="rect" id="node27" href="$d0/d94/classPHG4GDMLWriteSolids.html#ae96019d064cee9517bad4aea85bd94e9" title="PHG4GDMLWriteSolids\l::AddSolid" alt="" coords="445,705,619,749"/>
+<area shape="rect" id="node28" href="$d0/d94/classPHG4GDMLWriteSolids.html#acaa5a680bf366ae99a07faf07f4cbf7c" title="PHG4GDMLWriteSolids\l::BooleanWrite" alt="" coords="688,736,861,780"/>
+<area shape="rect" id="node30" href="$d3/d4a/classG4GDMLWriteSolids.html#a56cd57edf94eaef073ea210babfdf642" title="G4GDMLWriteSolids::\lAddSolid" alt="" coords="451,444,613,488"/>
+<area shape="rect" id="node31" href="$d3/d4a/classG4GDMLWriteSolids.html#aa593ed85770e41d36a58f4a2b127bb45" title="G4GDMLWriteSolids::\lBooleanWrite" alt="" coords="693,412,856,456"/>
+<area shape="rect" id="node32" href="$d3/d4a/classG4GDMLWriteSolids.html#a4c8fb61e04b60c7f22c0ca6ebd4850df" title="G4GDMLWriteSolids::\lMultiUnionWrite" alt="" coords="693,480,856,524"/>
+<area shape="rect" id="node33" href="$d3/d4a/classG4GDMLWriteSolids.html#a469d5b6f0808a7b5305ed4127f60de05" title="G4GDMLWriteSolids::\lScaledWrite" alt="" coords="693,548,856,592"/>
+</map>

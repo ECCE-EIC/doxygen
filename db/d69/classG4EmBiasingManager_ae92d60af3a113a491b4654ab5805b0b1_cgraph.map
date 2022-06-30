@@ -1,0 +1,20 @@
+<map id="G4EmBiasingManager::ApplyDirectionalSplitting" name="G4EmBiasingManager::ApplyDirectionalSplitting">
+<area shape="rect" id="node2" href="$db/d69/classG4EmBiasingManager.html#ad58bf83f92ea2172a87754c1ebb5e89d" title="G4EmBiasingManager\l::CheckDirection" alt="" coords="292,70,464,114"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="626,18,671,46"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="269,138,487,166"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="281,190,475,234"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="297,258,459,286"/>
+<area shape="rect" id="node10" href="$d7/dcb/classG4ParticleChangeForGamma.html#a8363166d9daff8c107f33409427ce1e5" title="G4ParticleChangeForGamma\l::GetProposedKineticEnergy" alt="" coords="270,310,486,354"/>
+<area shape="rect" id="node11" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5601a647f24a4bd3427c8ebe5110e85e" title="G4ParticleChangeForGamma\l::GetProposedMomentumDirection" alt="" coords="251,378,505,422"/>
+<area shape="rect" id="node12" href="$d1/d33/classG4Track.html#a6e84c2976c0e3eae3786d5fd8c7277f8" title="G4Track::GetWeight" alt="" coords="299,446,457,474"/>
+<area shape="rect" id="node13" href="$d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc" title="G4ParticleChangeForGamma\l::ProposeMomentumDirection" alt="" coords="267,498,489,542"/>
+<area shape="rect" id="node17" href="$d6/d6c/classG4VParticleChange.html#a72c41553b76ef99aaa5a493a79f7c3ad" title="G4VParticleChange::\lProposeWeight" alt="" coords="298,566,458,610"/>
+<area shape="rect" id="node18" href="$d3/dc1/classG4VEmModel.html#ab522fca597413028de14da88ff79c507" title="G4VEmModel::SampleSecondaries" alt="" coords="251,634,505,662"/>
+<area shape="rect" id="node19" href="$d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852" title="G4ParticleChangeForGamma\l::SetProposedKineticEnergy" alt="" coords="270,686,486,730"/>
+<area shape="rect" id="node4" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a206d1f838c9dd54364628a56febb13ea" title="CLHEP::Hep3Vector::\langle" alt="" coords="569,70,729,114"/>
+<area shape="rect" id="node5" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="569,138,729,182"/>
+<area shape="rect" id="node6" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="553,206,744,234"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="553,454,744,482"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="553,506,744,534"/>
+<area shape="rect" id="node16" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="553,558,744,586"/>
+</map>

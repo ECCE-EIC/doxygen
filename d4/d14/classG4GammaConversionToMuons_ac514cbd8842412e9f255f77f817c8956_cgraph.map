@@ -1,0 +1,27 @@
+<map id="G4GammaConversionToMuons::SelectRandomAtom" name="G4GammaConversionToMuons::SelectRandomAtom">
+<area shape="rect" id="node2" href="$d4/d14/classG4GammaConversionToMuons.html#a7f42859add897f68a3d4fee35bbdcc83" title="G4GammaConversionToMuons\l::GetCrossSectionPerAtom" alt="" coords="298,248,526,292"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="298,316,526,344"/>
+<area shape="rect" id="node25" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="281,368,543,396"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="297,420,527,464"/>
+<area shape="rect" id="node3" href="$d4/d14/classG4GammaConversionToMuons.html#a172503fc5aa4dc20f5b7277a75bb4e85" title="G4GammaConversionToMuons\l::ComputeCrossSectionPerAtom" alt="" coords="591,180,827,224"/>
+<area shape="rect" id="node22" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="630,248,787,292"/>
+<area shape="rect" id="node23" href="$de/d80/classG4Element.html#ac5960b7377f4d3b3aefd1e5c9aad601c" title="G4Element::GetZasInt" alt="" coords="623,316,795,344"/>
+<area shape="rect" id="node4" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="951,5,990,33"/>
+<area shape="rect" id="node5" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1445,84,1512,112"/>
+<area shape="rect" id="node9" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1447,227,1511,255"/>
+<area shape="rect" id="node15" href="$d2/d00/classG4NistManager.html#aa1c650a74efe270870f383f4fa9b1a24" title="G4NistManager::GetA27" alt="" coords="879,213,1063,241"/>
+<area shape="rect" id="node16" href="$d2/d00/classG4NistManager.html#aeb46189f2eb6eeafeac0de40802419ac" title="G4NistManager::GetZ13" alt="" coords="879,161,1063,189"/>
+<area shape="rect" id="node21" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="875,317,1067,345"/>
+<area shape="rect" id="node6" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1597,97,1763,125"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1585,45,1775,73"/>
+<area shape="rect" id="node7" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1848,97,2036,125"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1584,279,1776,307"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1584,175,1776,203"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1560,227,1800,255"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1848,252,2036,280"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1848,200,2036,228"/>
+<area shape="rect" id="node17" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="1115,161,1216,189"/>
+<area shape="rect" id="node18" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1311,213,1350,241"/>
+<area shape="rect" id="node19" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="1266,161,1395,189"/>
+<area shape="rect" id="node20" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="1264,109,1397,137"/>
+</map>

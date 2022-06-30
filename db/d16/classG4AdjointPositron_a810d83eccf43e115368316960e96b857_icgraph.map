@@ -1,0 +1,28 @@
+<map id="G4AdjointPositron::Definition" name="G4AdjointPositron::Definition">
+<area shape="rect" id="node2" href="$db/d16/classG4AdjointPositron.html#a24ca8dcdff15c479421b1164d5b7e8e2" title="G4AdjointPositron::\lAdjointPositron" alt="" coords="223,267,374,311"/>
+<area shape="rect" id="node27" href="$db/d16/classG4AdjointPositron.html#aeeafd25250d77aed0f7f1accadc56ee7" title="G4AdjointPositron::\lAdjointPositronDefinition" alt="" coords="204,335,393,379"/>
+<area shape="rect" id="node3" href="$df/d40/classG4VEmAdjointModel.html#a72573a42988ac8b6c565035046e9d800" title="G4VEmAdjointModel::\lDefineCurrentMaterial" alt="" coords="441,267,612,311"/>
+<area shape="rect" id="node4" href="$dc/d41/classG4AdjointBremsstrahlungModel.html#a0a200f6d1d2be32d5fabcef8135f8b17" title="G4AdjointBremsstrahlungModel\l::SampleSecondaries" alt="" coords="1231,40,1465,84"/>
+<area shape="rect" id="node5" href="$dc/d41/classG4AdjointBremsstrahlungModel.html#a425e091dfb3336532e7628c8d69c9744" title="G4AdjointBremsstrahlungModel\l::RapidSampleSecondaries" alt="" coords="660,5,895,49"/>
+<area shape="rect" id="node6" href="$dc/d41/classG4AdjointBremsstrahlungModel.html#ac3deed8c2cd63670ad8f1e09bb7f1359" title="G4AdjointBremsstrahlungModel\l::AdjointCrossSection" alt="" coords="943,364,1177,408"/>
+<area shape="rect" id="node8" href="$d0/ddc/classG4AdjointComptonModel.html#a5cd0157806b2cfd4c5baa5f14f721813" title="G4AdjointComptonModel\l::RapidSampleSecondaries" alt="" coords="676,147,879,191"/>
+<area shape="rect" id="node10" href="$d0/ddc/classG4AdjointComptonModel.html#a3e26920dd7184b46171a267466e6c339" title="G4AdjointComptonModel\l::AdjointCrossSection" alt="" coords="965,296,1155,340"/>
+<area shape="rect" id="node12" href="$d5/d26/classG4AdjointhIonisationModel.html#ae8d835e8e051846bfc8e3210388cac17" title="G4AdjointhIonisationModel\l::RapidSampleSecondaries" alt="" coords="676,236,879,280"/>
+<area shape="rect" id="node14" href="$d5/d26/classG4AdjointhIonisationModel.html#aa1e69e0521f78510e35e807e2b063a2f" title="G4AdjointhIonisationModel\l::AdjointCrossSection" alt="" coords="959,636,1161,680"/>
+<area shape="rect" id="node15" href="$df/d40/classG4VEmAdjointModel.html#ae3c0e0dc5fa988d9b01228715a0885be" title="G4VEmAdjointModel::\lAdjointCrossSection" alt="" coords="693,432,861,476"/>
+<area shape="rect" id="node7" href="$dc/d41/classG4AdjointBremsstrahlungModel.html#a13d921893eb3b7ffa9dc333bbb475bd7" title="G4AdjointBremsstrahlungModel\l::GetAdjointCrossSection" alt="" coords="1231,405,1465,449"/>
+<area shape="rect" id="node9" href="$d0/ddc/classG4AdjointComptonModel.html#a1a74ce9cb3675b6fd4c72bbbd0ffd59e" title="G4AdjointComptonModel\l::SampleSecondaries" alt="" coords="1253,108,1443,152"/>
+<area shape="rect" id="node11" href="$d0/ddc/classG4AdjointComptonModel.html#ad43c9dbb73aa38f429af7a9eb4e32836" title="G4AdjointComptonModel\l::GetAdjointCrossSection" alt="" coords="1253,312,1443,356"/>
+<area shape="rect" id="node13" href="$d5/d26/classG4AdjointhIonisationModel.html#aadcb5e8f9bf972793dc8e6c7c2e2bd25" title="G4AdjointhIonisationModel\l::SampleSecondaries" alt="" coords="1247,244,1449,288"/>
+<area shape="rect" id="node16" href="$d8/d73/classG4AdjointCSManager.html#ae11e1bb6d50badc8ab0f20fae9f125b3" title="G4AdjointCSManager\l::ComputeAdjointCS" alt="" coords="977,568,1143,612"/>
+<area shape="rect" id="node22" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#a36436e7285a79b213f3890fe8b3fc8de" title="G4AdjointForcedInteraction\lForGamma::PostStepDoIt" alt="" coords="957,432,1163,476"/>
+<area shape="rect" id="node23" href="$df/d40/classG4VEmAdjointModel.html#a8397b77ed8df6cf93fee3fae409b83c2" title="G4VEmAdjointModel::\lGetAdjointCrossSection" alt="" coords="971,500,1149,544"/>
+<area shape="rect" id="node25" href="$df/d40/classG4VEmAdjointModel.html#a57a8144c49da7051db2d848a42bc9b94" title="G4VEmAdjointModel::\lCorrectPostStepWeight" alt="" coords="971,176,1149,220"/>
+<area shape="rect" id="node17" href="$d8/d73/classG4AdjointCSManager.html#a46fe6c6a34fb1c8a000e385086ff7ae1" title="G4AdjointCSManager\l::ComputeTotalAdjointCS" alt="" coords="1253,636,1443,680"/>
+<area shape="rect" id="node21" href="$d8/d73/classG4AdjointCSManager.html#a62d9987db3013a88ba1c6a424496226a" title="G4AdjointCSManager\l::SampleElementFromCSMatrices" alt="" coords="1225,568,1471,612"/>
+<area shape="rect" id="node18" href="$d8/d73/classG4AdjointCSManager.html#a0f7813ba0a95bcb2c9bb57484b2add56" title="G4AdjointCSManager\l::BuildTotalSigmaTables" alt="" coords="1519,636,1700,680"/>
+<area shape="rect" id="node19" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#accef02a2e128b38a2f25a5b06f8af88d" title="G4AdjointForcedInteraction\lForGamma::BuildPhysicsTable" alt="" coords="1748,601,1972,645"/>
+<area shape="rect" id="node20" href="$da/d14/classG4VAdjointReverseReaction.html#aa34e0abea37e6e6139ebc621e07b4dbe" title="G4VAdjointReverseReaction\l::BuildPhysicsTable" alt="" coords="1756,669,1964,713"/>
+<area shape="rect" id="node24" href="$da/d14/classG4VAdjointReverseReaction.html#a7553c08ab216f11c3506461090fc3a52" title="G4VAdjointReverseReaction\l::GetMeanFreePath" alt="" coords="1244,500,1452,544"/>
+<area shape="rect" id="node26" href="$d5/dbf/classG4AdjointeIonisationModel.html#adef5a78045061be3719fdecc639175f5" title="G4AdjointeIonisationModel\l::SampleSecondaries" alt="" coords="1247,176,1449,220"/>
+</map>

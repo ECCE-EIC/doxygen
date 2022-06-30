@@ -1,0 +1,21 @@
+<map id="G4UIparameter::RelationalExpression" name="G4UIparameter::RelationalExpression">
+<area shape="rect" id="node2" href="$d9/d78/classG4UIparameter.html#a34364f193ed3435b2474ba0b7ffad71a" title="G4UIparameter::AdditiveExpression" alt="" coords="255,213,517,241"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4UIparameter.html#a97bca8f5b6fe2c56ab669cd0a530a1b6" title="G4UIparameter::Yylex" alt="" coords="2660,149,2831,177"/>
+<area shape="rect" id="node18" href="$d9/d78/classG4UIparameter.html#a9b3dd3771f15ff80da111422fec504cf" title="G4UIparameter::Eval2" alt="" coords="2660,326,2831,354"/>
+<area shape="rect" id="node3" href="$d9/d78/classG4UIparameter.html#a58c0d6b5ce503e63f01fb015f28785f3" title="G4UIparameter::Multiplicative\lExpression" alt="" coords="565,166,789,210"/>
+<area shape="rect" id="node4" href="$d9/d78/classG4UIparameter.html#af1042ae591c7345cdb5063d95074505d" title="G4UIparameter::UnaryExpression" alt="" coords="837,165,1085,193"/>
+<area shape="rect" id="node13" href="$d9/d78/classG4UIparameter.html#a24728171cc6d0e21ee1a227bb1cb8ece" title="G4UIparameter::PrimaryExpression" alt="" coords="1133,165,1392,193"/>
+<area shape="rect" id="node6" href="$d9/d78/classG4UIparameter.html#aa5b0b21da2618903f55a28ca87ee4287" title="G4UIparameter::G4UIpGetc" alt="" coords="3189,14,3395,42"/>
+<area shape="rect" id="node7" href="$d9/d78/classG4UIparameter.html#aeaf3886fd5f39266c43434a5ce3917e1" title="G4UIparameter::G4UIpUngetc" alt="" coords="3180,78,3404,106"/>
+<area shape="rect" id="node8" href="$d9/d78/classG4UIparameter.html#abb203dc1b16813f000445b331330a013" title="G4UIparameter::IsInt" alt="" coords="3463,182,3625,210"/>
+<area shape="rect" id="node9" href="$d5/d72/classG4String.html#a3317b840ea50faeee9104d379f1e29cf" title="G4String::data" alt="" coords="2940,259,3060,287"/>
+<area shape="rect" id="node10" href="$d9/d78/classG4UIparameter.html#aeb799545830bbf0722044e0702aad2bc" title="G4UIparameter::IsDouble" alt="" coords="2903,207,3097,235"/>
+<area shape="rect" id="node12" href="$d9/d78/classG4UIparameter.html#a57b98217a005ea7f1e74b0ea418d0ec2" title="G4UIparameter::Follow" alt="" coords="2911,53,3089,81"/>
+<area shape="rect" id="node11" href="$d9/d78/classG4UIparameter.html#a66bfb4b748b4d41bd5f1aa94dcd93902" title="G4UIparameter::ExpectExponent" alt="" coords="3169,207,3415,235"/>
+<area shape="rect" id="node14" href="$d9/d78/classG4UIparameter.html#a90db01155854324e0cd6a70d211ee636" title="G4UIparameter::Expression" alt="" coords="1440,197,1647,225"/>
+<area shape="rect" id="node15" href="$d9/d78/classG4UIparameter.html#adbc9e5abde4bb83bc5e1a15e5c846656" title="G4UIparameter::LogicalORExpression" alt="" coords="1695,197,1969,225"/>
+<area shape="rect" id="node16" href="$d9/d78/classG4UIparameter.html#aab383865c39bd581bab72cab313634ef" title="G4UIparameter::LogicalANDExpression" alt="" coords="2017,247,2301,275"/>
+<area shape="rect" id="node17" href="$d9/d78/classG4UIparameter.html#a8b3fd673ad5beab3610b599f217e9d6b" title="G4UIparameter::EqualityExpression" alt="" coords="2349,298,2612,326"/>
+<area shape="rect" id="node19" href="$d9/d78/classG4UIparameter.html#a4fce5ebc5bb846934c7447b9b8280c99" title="G4UIparameter::CompareDouble" alt="" coords="2879,323,3121,351"/>
+<area shape="rect" id="node20" href="$d9/d78/classG4UIparameter.html#a312763db203fa0ca38acf0017d0b4c0b" title="G4UIparameter::CompareInt" alt="" coords="2893,375,3107,403"/>
+</map>

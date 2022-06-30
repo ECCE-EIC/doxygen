@@ -1,0 +1,19 @@
+<map id="G4MTRunManager::TerminateWorkers" name="G4MTRunManager::TerminateWorkers">
+<area shape="rect" id="node2" href="$d1/df4/classG4UserWorkerThreadInitialization.html#a984f634cf2d9fe209e6f446f3342fb7e" title="G4UserWorkerThreadInitialization\l::JoinWorker" alt="" coords="283,5,531,49"/>
+<area shape="rect" id="node3" href="$de/d16/classG4MTRunManager.html#af060843ebb984e23724924670d03f485" title="G4MTRunManager::NewAction\lRequest" alt="" coords="615,63,841,107"/>
+<area shape="rect" id="node7" href="$de/d16/classG4MTRunManager.html#ae65e06e4ac802ca20848cabbb7708c13" title="G4MTRunManager::RequestWorkers\lProcessCommandsStack" alt="" coords="275,127,539,171"/>
+<area shape="rect" id="node4" href="$de/d16/classG4MTRunManager.html#a241e868bb3641bcffed90e67424a8644" title="G4MTRunManager::GetNumber\lActiveThreads" alt="" coords="928,5,1161,49"/>
+<area shape="rect" id="node5" href="$dc/de0/classG4MTBarrier.html#a8618a2bb249c2b754444808992e84f14" title="G4MTBarrier::ReleaseBarrier" alt="" coords="937,137,1152,165"/>
+<area shape="rect" id="node6" href="$dc/de0/classG4MTBarrier.html#a82598ca0d6a988fe74da8b1cd9fc3541" title="G4MTBarrier::Wait" alt="" coords="972,77,1117,105"/>
+<area shape="rect" id="node8" href="$de/d16/classG4MTRunManager.html#a8b25ead1a592607b20b5cb8ffd60fb1e" title="G4MTRunManager::PrepareCommands\lStack" alt="" coords="587,251,869,295"/>
+<area shape="rect" id="node17" href="$dc/de0/classG4MTBarrier.html#ab5acf30aa48d0f8c17a7dbd52245919b" title="G4MTBarrier::SetActiveThreads" alt="" coords="611,199,845,227"/>
+<area shape="rect" id="node18" href="$dc/de0/classG4MTBarrier.html#a82761cd0615df6c5356c87afc39a0e25" title="G4MTBarrier::WaitForReady\lWorkers" alt="" coords="624,131,832,175"/>
+<area shape="rect" id="node9" href="$d8/def/classG4UImanager.html#a2bc85e5fd1a339b7ade4d25d0a05aa0b" title="G4UImanager::GetCommandStack" alt="" coords="917,284,1172,312"/>
+<area shape="rect" id="node10" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="939,232,1150,260"/>
+<area shape="rect" id="node11" href="$d8/def/classG4UImanager.html#aaf9882646bb6ec655c5c8becffe98772" title="G4UImanager::fUImanager" alt="" coords="1239,141,1443,169"/>
+<area shape="rect" id="node12" href="$d8/def/classG4UImanager.html#aedc7f38c4d4db62a0871da5cfc8d2dec" title="G4UImanager::fUImanagerHas\lBeenKilled" alt="" coords="1227,193,1456,237"/>
+<area shape="rect" id="node13" href="$d8/def/classG4UImanager.html#ae4d4d81368fb46e5006bf03646da897b" title="G4UImanager::G4UImanager" alt="" coords="1232,261,1451,289"/>
+<area shape="rect" id="node16" href="$d8/def/classG4UImanager.html#a3e92dbf1941e2e850e9090060fd429d3" title="G4UImanager::CreateMessenger" alt="" coords="1220,313,1463,341"/>
+<area shape="rect" id="node14" href="$d8/def/classG4UImanager.html#a18c91362ccd08d23b96b834da174e5c0" title="G4UImanager::SetCoutDestination" alt="" coords="1511,261,1765,289"/>
+<area shape="rect" id="node15" href="$d2/dce/classG4strstreambuf.html#a88d7accfe65495690b4b41b08fffb723" title="G4strstreambuf::SetDestination" alt="" coords="1813,261,2048,289"/>
+</map>

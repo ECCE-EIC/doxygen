@@ -1,0 +1,36 @@
+<map id="export_G4ParticleTable" name="export_G4ParticleTable">
+<area shape="rect" id="node2" href="$d8/dd3/classG4ParticleTable.html#afee282902af0253c1c81551647c5e8ad" title="G4ParticleTable::DumpTable" alt="" coords="248,124,459,152"/>
+<area shape="rect" id="node22" href="$d8/dd3/classG4ParticleTable.html#a08782c4e0944def526b0518fa8b04eb1" title="G4ParticleTable::entries" alt="" coords="817,229,998,257"/>
+<area shape="rect" id="node23" href="$d8/dd3/classG4ParticleTable.html#a90f1dd316df394718bbdbefd2fa33f7f" title="G4ParticleTable::GetParticle" alt="" coords="527,176,735,204"/>
+<area shape="rect" id="node24" href="$d7/dd2/namespacepyG4ParticleTable.html#ac8e7180e7d7c7e205a33909f9bf5a5eb" title="pyG4ParticleTable::\lGetParticleList" alt="" coords="278,400,429,444"/>
+<area shape="rect" id="node25" href="$d8/dd3/classG4ParticleTable.html#a414f0e8516973432f67f96196b3271ce" title="G4ParticleTable::GetParticleName" alt="" coords="229,228,477,256"/>
+<area shape="rect" id="node26" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="249,280,457,324"/>
+<area shape="rect" id="node31" href="$d8/dd3/classG4ParticleTable.html#ad882e6cba73aa9f13aaf2cfe82360e15" title="G4ParticleTable::GetReadiness" alt="" coords="240,468,467,496"/>
+<area shape="rect" id="node32" href="$d8/dd3/classG4ParticleTable.html#ad751b231baeb1271a43530b130ada38e" title="G4ParticleTable::GetVerbose\lLevel" alt="" coords="247,520,459,564"/>
+<area shape="rect" id="node33" href="$d8/dd3/classG4ParticleTable.html#aaf156df3f50dbe31d92a71e25862523a" title="G4ParticleTable::SetReadiness" alt="" coords="241,588,466,616"/>
+<area shape="rect" id="node34" href="$d8/dd3/classG4ParticleTable.html#a8c6f822bb1327bf7293a9fc9fe860b05" title="G4ParticleTable::SetVerbose\lLevel" alt="" coords="248,640,459,684"/>
+<area shape="rect" id="node35" href="$d8/dd3/classG4ParticleTable.html#aaa2a2f62f8fb8a24fac40f96fe650cc1" title="G4ParticleTable::size" alt="" coords="273,708,433,736"/>
+<area shape="rect" id="node3" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="785,5,1029,33"/>
+<area shape="rect" id="node5" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="819,161,995,205"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="525,64,737,92"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a8b79ad590dee3f4a3169feec1210cf56" title="G4ParticleDefinition\l::DumpTable" alt="" coords="554,699,709,743"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1103,5,1209,33"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="795,57,1019,85"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="816,109,999,137"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a6741a1f63a1de916b152bc8c30745f34" title="G4ParticleDefinition\l::GetAntiPDGEncoding" alt="" coords="821,729,993,773"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#a56e8ae902c7fd223310a13dadd6c577d" title="G4ParticleTable::GetIonTable" alt="" coords="800,797,1015,825"/>
+<area shape="rect" id="node12" href="$da/d2b/classG4IonTable.html#a86a7a78dfa39290cfae529e2af735578" title="G4IonTable::IsIon" alt="" coords="839,521,976,549"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#af6c9bdf842d9fff4f4a0c0622b366be4" title="G4ParticleDefinition\l::GetAtomicMass" alt="" coords="1079,641,1233,685"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#a0f10c50f4f54b66eb46f0ad8c6f913ed" title="G4ParticleDefinition\l::GetAtomicNumber" alt="" coords="1078,709,1234,753"/>
+<area shape="rect" id="node18" href="$da/d2b/classG4IonTable.html#acbfb5d84a0d1ff964e595ab28426516e" title="G4IonTable::IsAntiIon" alt="" coords="825,573,989,601"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#ac399a545dfcb488817d3b417b4ff5e62" title="G4ParticleDefinition\l::IsGeneralIon" alt="" coords="830,901,985,945"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#a08ab716f46648586e46dbb3989123677" title="G4ParticleDefinition\l::GetIonLifeTime" alt="" coords="830,969,985,1013"/>
+<area shape="rect" id="node21" href="$db/d89/classG4DecayTable.html#a24be1776a3360c545c16ca916315166d" title="G4DecayTable::DumpInfo" alt="" coords="811,625,1004,653"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a48ebd992c974d96c776e3d6e41ca8ff5" title="G4ParticleDefinition\l::GetBaryonNumber" alt="" coords="1077,437,1235,481"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#aa0faf146fb655e885ca2ac249bafda83" title="G4ParticleDefinition\l::GetParticleType" alt="" coords="1079,505,1233,549"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1079,573,1233,617"/>
+<area shape="rect" id="node27" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="531,280,732,324"/>
+<area shape="rect" id="node28" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="819,281,995,325"/>
+<area shape="rect" id="node29" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="830,349,985,393"/>
+<area shape="rect" id="node30" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="793,417,1021,445"/>
+</map>

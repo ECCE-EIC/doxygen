@@ -1,0 +1,27 @@
+<map id="G4IonParametrisedLossModel::ComputeLossForStep" name="G4IonParametrisedLossModel::ComputeLossForStep">
+<area shape="rect" id="node2" href="$de/d12/classG4IonParametrisedLossModel.html#a54afec70c9214083d7852dd5a1af8e8b" title="G4IonParametrisedLossModel\l::UpdateRangeCache" alt="" coords="273,299,493,343"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a70dd666366a281396a41a4f055cf1c7e" title="G4VEmModel::Value" alt="" coords="840,463,999,491"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="1457,271,1535,299"/>
+<area shape="rect" id="node4" href="$de/d12/classG4IonParametrisedLossModel.html#a6b7d37b18a938ea660def0290a63924f" title="G4IonParametrisedLossModel\l::IsApplicable" alt="" coords="1386,5,1606,49"/>
+<area shape="rect" id="node5" href="$de/d12/classG4IonParametrisedLossModel.html#a27763b5dbd1dfbe9ec985116d75bfd34" title="G4IonParametrisedLossModel\l::BuildRangeVector" alt="" coords="541,328,761,372"/>
+<area shape="rect" id="node6" href="$de/d12/classG4IonParametrisedLossModel.html#ae989162fb79afd0a27f152c1d70cd2bd" title="G4IonParametrisedLossModel\l::ComputeDEDXPerVolume" alt="" coords="809,136,1029,180"/>
+<area shape="rect" id="node11" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="886,379,953,407"/>
+<area shape="rect" id="node7" href="$de/d12/classG4IonParametrisedLossModel.html#aa2dc07c111ee1d9a1ba430ad44046b2a" title="G4IonParametrisedLossModel\l::DeltaRayMeanEnergyTransferRate" alt="" coords="1366,192,1626,236"/>
+<area shape="rect" id="node8" href="$de/d12/classG4IonParametrisedLossModel.html#a5bfa6b8b6bf2561e5f39e6ddba95d051" title="G4IonParametrisedLossModel\l::GetChargeSquareRatio" alt="" coords="1386,91,1606,135"/>
+<area shape="rect" id="node9" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="1083,173,1312,201"/>
+<area shape="rect" id="node10" href="$de/d12/classG4IonParametrisedLossModel.html#aebe14a825555bad59dc8454b8da92693" title="G4IonParametrisedLossModel\l::UpdateDEDXCache" alt="" coords="1087,105,1307,149"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1115,431,1280,459"/>
+<area shape="rect" id="node14" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1103,379,1292,407"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1402,323,1590,351"/>
+<area shape="rect" id="node16" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="1077,772,1317,800"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="1093,487,1301,531"/>
+<area shape="rect" id="node17" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1410,735,1582,779"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="1388,803,1604,831"/>
+<area shape="rect" id="node19" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1410,855,1582,899"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="1378,547,1614,575"/>
+<area shape="rect" id="node22" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1419,599,1573,643"/>
+<area shape="rect" id="node23" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="1381,667,1611,711"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1365,375,1627,403"/>
+<area shape="rect" id="node25" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="1386,427,1606,471"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="1403,495,1589,523"/>
+</map>

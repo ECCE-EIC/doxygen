@@ -1,0 +1,46 @@
+<map id="G4Track::SetUserInformation" name="G4Track::SetUserInformation">
+<area shape="rect" id="node2" href="$d9/d66/classG4Molecule.html#ab4ce0780b3b6e0e5c6922437298438a9" title="G4Molecule::BuildTrack" alt="" coords="279,467,459,495"/>
+<area shape="rect" id="node25" href="$d0/d48/classRE01StackingAction.html#ae79f7350822541c3f8a0d0a1ec4bb633" title="RE01StackingAction\l::ClassifyNewTrack" alt="" coords="291,519,447,563"/>
+<area shape="rect" id="node26" href="$db/d0f/classSplitProcess.html#a32d40dd8e1591edcb6ddb27863695445" title="SplitProcess::PostStepDoIt" alt="" coords="269,587,468,615"/>
+<area shape="rect" id="node27" href="$dc/df9/classMCTruthTrackingAction.html#a7af09aa133fe35384c47c0e829216967" title="MCTruthTrackingAction\l::PostUserTrackingAction" alt="" coords="275,639,462,683"/>
+<area shape="rect" id="node28" href="$d8/df7/classCexmcTrackingAction.html#a1e3b5be505329221c14e3f05207f80a3" title="CexmcTrackingAction\l::PreUserTrackingAction" alt="" coords="279,707,459,751"/>
+<area shape="rect" id="node29" href="$d2/d7f/namespacePHG4TrackUserInfo.html#abb1ec2691c38b8764dee9d35a9837761" title="PHG4TrackUserInfo::\lSetKeep" alt="" coords="289,775,448,819"/>
+<area shape="rect" id="node30" href="$d2/d7f/namespacePHG4TrackUserInfo.html#a6c51cc021b583d69a7aa7fa7b6ebc29b" title="PHG4TrackUserInfo::\lSetShower" alt="" coords="289,911,448,955"/>
+<area shape="rect" id="node33" href="$d2/d7f/namespacePHG4TrackUserInfo.html#ae0eac4ddfe7ae57d032013c2df4e7fc0" title="PHG4TrackUserInfo::\lSetUserParentId" alt="" coords="289,1047,448,1091"/>
+<area shape="rect" id="node34" href="$d2/d7f/namespacePHG4TrackUserInfo.html#a03caebd1436815efcb5a30b94004efe9" title="PHG4TrackUserInfo::\lSetUserPrimaryId" alt="" coords="289,979,448,1023"/>
+<area shape="rect" id="node35" href="$d2/d7f/namespacePHG4TrackUserInfo.html#a82757358cfcf216d0cda4ab0eb084ae4" title="PHG4TrackUserInfo::\lSetUserTrackId" alt="" coords="289,843,448,887"/>
+<area shape="rect" id="node36" href="$dd/d71/classG4TrackingManager.html#a52ad111bc816e3decbaf2ddaebe0bc7e" title="G4TrackingManager::\lSetUserTrackInformation" alt="" coords="275,1115,462,1159"/>
+<area shape="rect" id="node43" href="$d2/d7f/namespacePHG4TrackUserInfo.html#a5b0964979072164ddcb9de857c3094fe" title="PHG4TrackUserInfo::\lSetWanted" alt="" coords="289,1183,448,1227"/>
+<area shape="rect" id="node44" href="$d0/ded/classPHG4FPbScSteppingAction.html#a98d2f21e9a364a81d036dc6c34293906" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="268,1251,469,1295"/>
+<area shape="rect" id="node45" href="$df/d1b/classPHG4FCalSteppingAction.html#a50bdb3c0092cb374a9f9ce0e13ff0afa" title="PHG4FCalSteppingAction\l::UserSteppingAction" alt="" coords="273,1319,464,1363"/>
+<area shape="rect" id="node3" href="$df/d63/classG4MoleculeGun.html#a0bc99c63b161e752f408cfc308aee8f5" title="G4MoleculeGun::BuildAndPush\lTrack" alt="" coords="517,175,747,219"/>
+<area shape="rect" id="node6" href="$dc/d37/classG4DNAChemistryManager.html#affaff8d66b90efb07cade704c0c7fff1" title="G4DNAChemistryManager\l::CreateWaterMolecule" alt="" coords="533,583,731,627"/>
+<area shape="rect" id="node20" href="$d2/d3e/classG4DNAMolecularReaction.html#a23f3fb65dda60110e05ec1dc15a5def4" title="G4DNAMolecularReaction\l::MakeReaction" alt="" coords="535,651,729,695"/>
+<area shape="rect" id="node21" href="$dc/d37/classG4DNAChemistryManager.html#a70355bcb5f851fd0a1c70a5e541b0616" title="G4DNAChemistryManager\l::PushMolecule" alt="" coords="533,73,731,117"/>
+<area shape="rect" id="node4" href="$db/dac/classTG4MoleculeShoot.html#ae1316a93fa7a48fc2e6e2439be5d54c5" title="TG4MoleculeShoot::ShootAt\lFixedPosition" alt="" coords="815,175,1027,219"/>
+<area shape="rect" id="node5" href="$db/dac/classTG4MoleculeShoot.html#a02ecc8593da85e74675f929c7d8d2fe7" title="TG4MoleculeShoot::ShootAt\lRandomPosition" alt="" coords="815,107,1027,151"/>
+<area shape="rect" id="node7" href="$da/d9e/classG4DNADingfelderChargeDecreaseModel.html#addf784b3aef8880871c5639d87ba02c8" title="G4DNADingfelderChargeDecrease\lModel::SampleSecondaries" alt="" coords="795,855,1047,899"/>
+<area shape="rect" id="node8" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#a3aa2d65d5b31ec0e1acab89828abeed0" title="G4DNARuddIonisationExtended\lModel::SampleSecondaries" alt="" coords="803,923,1038,967"/>
+<area shape="rect" id="node9" href="$d5/d93/classG4DNARuddIonisationModel.html#aacf670d2e82ad8dc8f57dc7ad00469d0" title="G4DNARuddIonisationModel\l::SampleSecondaries" alt="" coords="815,991,1026,1035"/>
+<area shape="rect" id="node10" href="$d9/d5e/classG4DNABornExcitationModel1.html#a44b9b0ec5e50995834684d7b6625b886" title="G4DNABornExcitationModel1\l::SampleSecondaries" alt="" coords="812,1059,1029,1103"/>
+<area shape="rect" id="node11" href="$d7/d47/classG4DNABornIonisationModel2.html#a91280b5bc8dda13a92747fbf248f0ac3" title="G4DNABornIonisationModel2\l::SampleSecondaries" alt="" coords="813,243,1029,287"/>
+<area shape="rect" id="node12" href="$dc/db0/classG4DNABornIonisationModel1.html#add3e46ff8c6c2abe7614ef16741151e9" title="G4DNABornIonisationModel1\l::SampleSecondaries" alt="" coords="813,311,1029,355"/>
+<area shape="rect" id="node13" href="$df/d94/classG4DNABornExcitationModel2.html#a53957fd3ccf0f54c6a595fc61608bffa" title="G4DNABornExcitationModel2\l::SampleSecondaries" alt="" coords="812,379,1029,423"/>
+<area shape="rect" id="node14" href="$d4/d3a/classG4DNAMillerGreenExcitationModel.html#a744443a9ae8b7ae03cb3060acbdfb3e2" title="G4DNAMillerGreenExcitation\lModel::SampleSecondaries" alt="" coords="813,447,1028,491"/>
+<area shape="rect" id="node15" href="$df/d79/classG4DNAEmfietzoglouExcitationModel.html#a385bd68658a14d32a54ae4d27c9f6499" title="G4DNAEmfietzoglouExcitation\lModel::SampleSecondaries" alt="" coords="808,515,1033,559"/>
+<area shape="rect" id="node16" href="$d2/d6f/classG4DNAEmfietzoglouIonisationModel.html#af0bf8601fc84d88f4f1d580b6fa06310" title="G4DNAEmfietzoglouIonisation\lModel::SampleSecondaries" alt="" coords="809,583,1033,627"/>
+<area shape="rect" id="node17" href="$db/d91/classG4DNACPA100ExcitationModel.html#ae2e0cc056a7dd80a35275b75e149e4ca" title="G4DNACPA100ExcitationModel\l::SampleSecondaries" alt="" coords="807,651,1035,695"/>
+<area shape="rect" id="node18" href="$dc/da4/classG4DNACPA100IonisationModel.html#ad176f1ac17a890c4979e4070e06e052b" title="G4DNACPA100IonisationModel\l::SampleSecondaries" alt="" coords="807,719,1034,763"/>
+<area shape="rect" id="node19" href="$da/dd5/classG4DNAPTBExcitationModel.html#aa865fb2f26cce62f6891453efa1b5a42" title="SampleSecondaries If the model is selected for the ModelInterface then the SampleSecondaries method w..." alt="" coords="819,787,1022,831"/>
+<area shape="rect" id="node22" href="$dc/d37/classG4DNAChemistryManager.html#a15aefa04091f43455c100aaa99f96b22" title="G4DNAChemistryManager\l::CreateSolvatedElectron" alt="" coords="821,39,1020,83"/>
+<area shape="rect" id="node23" href="$de/d16/classG4DNATransformElectronModel.html#abfcc90cc4e583129ed6536f5f6fae259" title="G4DNATransformElectronModel\l::SampleSecondaries" alt="" coords="1097,5,1329,49"/>
+<area shape="rect" id="node24" href="$d0/d5e/classG4TDNAOneStepThermalizationModel.html#a66a86939685e5f560df79c7c95609565" title="G4TDNAOneStepThermalization\lModel::SampleSecondaries" alt="" coords="1095,73,1331,117"/>
+<area shape="rect" id="node31" href="$db/d5c/classPHG4TruthTrackingAction.html#af910d1c962f76878f85116c87aba3531" title="tracking action" alt="" coords="537,911,727,955"/>
+<area shape="rect" id="node32" href="$db/d5c/classPHG4TruthTrackingAction.html#abc3646930cc166aac9ac1ac1f5717063" title="PHG4TruthTrackingAction\l::PostUserTrackingAction" alt="" coords="537,979,727,1023"/>
+<area shape="rect" id="node37" href="$db/de9/pymodG4tracking_8cc.html#abf08d0e0ef436b66d37d96b3b5783d7c" title="export_G4TrackingManager" alt="" coords="529,1251,735,1279"/>
+<area shape="rect" id="node39" href="$dc/df9/classMCTruthTrackingAction.html#af61fb0f83578ac8a8700ab554b06207a" title="MCTruthTrackingAction\l::PreUserTrackingAction" alt="" coords="542,1303,722,1347"/>
+<area shape="rect" id="node40" href="$d2/de9/classF04TrackingAction.html#a22c2116497ad461fa00d0887aecaf73b" title="F04TrackingAction::\lPreUserTrackingAction" alt="" coords="547,1047,717,1091"/>
+<area shape="rect" id="node41" href="$d9/d1d/classLXeTrackingAction.html#aa940704313fee48ce548287e3ba92e7d" title="LXeTrackingAction::\lPreUserTrackingAction" alt="" coords="547,1115,717,1159"/>
+<area shape="rect" id="node42" href="$d5/da0/classWLSTrackingAction.html#a9c6502a1018c291096892013f03dc1ac" title="WLSTrackingAction::\lPreUserTrackingAction" alt="" coords="547,1183,717,1227"/>
+<area shape="rect" id="node38" href="$db/de9/pymodG4tracking_8cc.html#abdde9a500e8ff3b4086c77a22714dd8c" title="BOOST_PYTHON_MODULE" alt="" coords="823,1251,1018,1279"/>
+</map>

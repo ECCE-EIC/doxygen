@@ -1,0 +1,25 @@
+<map id="G4ITTransportation::StartTracking" name="G4ITTransportation::StartTracking">
+<area shape="rect" id="node2" href="$dd/d94/classG4PropagatorInField.html#a882fa35cf84b1c93023d2fcc5a9e0022" title="G4PropagatorInField\l::ClearPropagatorState" alt="" coords="228,39,403,83"/>
+<area shape="rect" id="node3" href="$df/d6e/classG4ITTransportation.html#a6f175f16bf6eb5c33f989e3d0164fa0c" title="G4ITTransportation\l::DoesGlobalFieldExist" alt="" coords="229,107,401,151"/>
+<area shape="rect" id="node13" href="$d0/d40/classG4FieldManagerStore.html#acb38ef4b788cfedff5408599fdb367a1" title="G4FieldManagerStore\l::GetInstance" alt="" coords="232,175,399,219"/>
+<area shape="rect" id="node15" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="553,307,611,335"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a68db2c7e6c7c9ee4c6aeb419fe02174c" title="G4Track::GetTouchableHandle" alt="" coords="203,295,428,323"/>
+<area shape="rect" id="node18" href="$d4/d3c/classG4TrackStateDependent.html#a276aec4b90e145a4c424ea35af799d72" title="G4TrackStateDependent\l::NewTrackState" alt="" coords="222,347,409,391"/>
+<area shape="rect" id="node19" href="$d4/d3c/classG4TrackStateDependent.html#a74c7a4f9e28148798a550df5c2674fb3" title="G4TrackStateDependent\l::SaveTrackState" alt="" coords="222,415,409,459"/>
+<area shape="rect" id="node20" href="$d9/d54/classG4VITProcess.html#a093733b89041823332def64a349ecae0" title="G4VITProcess::StartTracking" alt="" coords="210,483,421,511"/>
+<area shape="rect" id="node24" href="$d2/d84/classG4VProcess.html#aa7fb5da4a1709062a2c72733c6bd7595" title="G4VProcess::StartTracking" alt="" coords="216,535,415,563"/>
+<area shape="rect" id="node4" href="$dc/d5a/classG4FieldManager.html#a3038479c6746e4017d44920ca920198f" title="G4FieldManager::DoesField\lExist" alt="" coords="480,5,684,49"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="483,73,681,117"/>
+<area shape="rect" id="node6" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="476,141,688,185"/>
+<area shape="rect" id="node7" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="741,141,948,185"/>
+<area shape="rect" id="node8" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1062,29,1169,57"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1018,81,1213,125"/>
+<area shape="rect" id="node10" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1039,149,1192,177"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1030,201,1201,229"/>
+<area shape="rect" id="node12" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1001,253,1229,281"/>
+<area shape="rect" id="node14" href="$d0/d40/classG4FieldManagerStore.html#a46b26ba1c28e6390309ba6381cfdfbeb" title="G4FieldManagerStore\l::G4FieldManagerStore" alt="" coords="494,209,670,253"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="736,307,953,335"/>
+<area shape="rect" id="node21" href="$d3/d7e/classG4IT.html#ac74cab7f6c97318b4a580e11e7f96b47" title="G4IT::GetTrackingInfo" alt="" coords="499,423,665,451"/>
+<area shape="rect" id="node22" href="$d9/d54/classG4VITProcess.html#ac531bf5c789196d8da333b0c883b75fb" title="G4VITProcess::Instantiate\lProcessState" alt="" coords="485,475,679,519"/>
+<area shape="rect" id="node23" href="$d9/d0a/classG4TrackingInformation.html#a7daa14262d490a30765817bedbdb9f06" title="G4TrackingInformation\l::RecordProcessState" alt="" coords="495,543,669,587"/>
+</map>

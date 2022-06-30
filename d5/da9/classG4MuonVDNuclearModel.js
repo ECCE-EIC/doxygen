@@ -1,0 +1,26 @@
+var classG4MuonVDNuclearModel =
+[
+    [ "G4MuonVDNuclearModel", "d5/da9/classG4MuonVDNuclearModel.html#afefc81f5738a1d6ef350899fd904f040", null ],
+    [ "~G4MuonVDNuclearModel", "d5/da9/classG4MuonVDNuclearModel.html#a62050ee091ed5353deead697902e78a5", null ],
+    [ "G4MuonVDNuclearModel", "d5/da9/classG4MuonVDNuclearModel.html#a067220a6cff16965ba46ce96f23c4278", null ],
+    [ "ApplyYourself", "d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6", null ],
+    [ "CalculateEMVertex", "d5/da9/classG4MuonVDNuclearModel.html#aca18f546f5516c2128861a366662cce8", null ],
+    [ "CalculateHadronicVertex", "d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729", null ],
+    [ "MakeSamplingTable", "d5/da9/classG4MuonVDNuclearModel.html#a44502c59ebdffbc87ca151a43b33aa7c", null ],
+    [ "ModelDescription", "d5/da9/classG4MuonVDNuclearModel.html#a4e8e7922ebaa6fda20d33730028e11c7", null ],
+    [ "operator=", "d5/da9/classG4MuonVDNuclearModel.html#addd982e02981c2ddde9a66660c839ae6", null ],
+    [ "adat", "d5/da9/classG4MuonVDNuclearModel.html#a0b62b98fb4b7d233e0f9073a44f65333", null ],
+    [ "bert", "d5/da9/classG4MuonVDNuclearModel.html#aab8150e0107e04d8ca8409c210e06e2c", null ],
+    [ "CutFixed", "d5/da9/classG4MuonVDNuclearModel.html#ace54b73629d7ef21fab5fb29294ea70e", null ],
+    [ "fElementData", "d5/da9/classG4MuonVDNuclearModel.html#a7a7fbc7bf4feb23cc8b3157430c404b8", null ],
+    [ "ftfp", "d5/da9/classG4MuonVDNuclearModel.html#a3116ba1758f63eabc37fed412b9867b1", null ],
+    [ "isMaster", "d5/da9/classG4MuonVDNuclearModel.html#a2067875309e2840731f0a0582fef1bd2", null ],
+    [ "muNucXS", "d5/da9/classG4MuonVDNuclearModel.html#aa47b5644550b15f5f63f20fc61831af7", null ],
+    [ "NBIN", "d5/da9/classG4MuonVDNuclearModel.html#a1fbe6e53459066555a8b5c4ed223c7e2", null ],
+    [ "ntdat", "d5/da9/classG4MuonVDNuclearModel.html#a5ccca5bb7efcef0157e6f402c9b0b126", null ],
+    [ "nzdat", "d5/da9/classG4MuonVDNuclearModel.html#a3c1355edaf982a1859dc84bcf0a159e0", null ],
+    [ "tdat", "d5/da9/classG4MuonVDNuclearModel.html#aff437725c0c18ac4a5c92abc155c0c3e", null ],
+    [ "theFragmentation", "d5/da9/classG4MuonVDNuclearModel.html#a7342c7e0c09af32d0eca7897ccae3f6e", null ],
+    [ "theStringDecay", "d5/da9/classG4MuonVDNuclearModel.html#a721904e1c56fa5a945e2869fb35ca870", null ],
+    [ "zdat", "d5/da9/classG4MuonVDNuclearModel.html#aff1b587ab3651e13e34887cad0189576", null ]
+];

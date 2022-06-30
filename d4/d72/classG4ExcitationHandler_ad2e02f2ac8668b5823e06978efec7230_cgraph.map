@@ -1,0 +1,22 @@
+<map id="G4ExcitationHandler::GetFermiModel" name="G4ExcitationHandler::GetFermiModel">
+<area shape="rect" id="node2" href="$d4/d72/classG4ExcitationHandler.html#a4addc0f132f7bfcfd73b9de627292ccb" title="G4ExcitationHandler\l::SetParameters" alt="" coords="215,253,376,297"/>
+<area shape="rect" id="node3" href="$d8/dd6/classG4NuclearLevelData.html#acceb37c5886e3fa8ed0883e5074b2417" title="G4NuclearLevelData\l::GetInstance" alt="" coords="459,5,618,49"/>
+<area shape="rect" id="node4" href="$d8/dd6/classG4NuclearLevelData.html#a1be5028951e2d00a3eefb0ae9471bd4e" title="G4NuclearLevelData\l::GetParameters" alt="" coords="459,73,618,117"/>
+<area shape="rect" id="node5" href="$de/d80/classG4Element.html#a057a1bd738df9f6245f6a38701740eb0" title="G4Element::GetElementTable" alt="" coords="429,141,649,169"/>
+<area shape="rect" id="node6" href="$d8/dd6/classG4NuclearLevelData.html#aa7736151153e584bbeabec4182b80ad7" title="G4NuclearLevelData\l::UploadNuclearLevelData" alt="" coords="441,193,637,237"/>
+<area shape="rect" id="node14" href="$d4/d72/classG4ExcitationHandler.html#a57803ad6f30cb11ecc744f25ff5074d1" title="G4ExcitationHandler\l::SetPhotonEvaporation" alt="" coords="717,253,897,297"/>
+<area shape="rect" id="node16" href="$d4/d72/classG4ExcitationHandler.html#a4cc568b5b2d9dd00cf7dc32c981fc1f3" title="G4ExcitationHandler\l::SetEvaporation" alt="" coords="458,313,619,357"/>
+<area shape="rect" id="node19" href="$d4/d72/classG4ExcitationHandler.html#a4d95d546e0090c20eee2c40fc5954dcb" title="G4ExcitationHandler\l::SetFermiModel" alt="" coords="458,381,619,425"/>
+<area shape="rect" id="node20" href="$d4/d72/classG4ExcitationHandler.html#a8a69544d2f50d5f2d5eca60072bfec9b" title="G4ExcitationHandler\l::SetMultiFragmentation" alt="" coords="447,449,631,493"/>
+<area shape="rect" id="node21" href="$d1/dc2/classG4VFermiBreakUp.html#ae8381a8e704471b1183a56085b42ba6d" title="G4VFermiBreakUp::SetVerbose" alt="" coords="424,517,653,545"/>
+<area shape="rect" id="node7" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1332,116,1371,144"/>
+<area shape="rect" id="node8" href="$d6/d60/classG4LevelReader.html#a93c79ac333e79662d02a75be87f2290f" title="G4LevelReader::CreateLevel\lManager" alt="" coords="701,185,913,229"/>
+<area shape="rect" id="node9" href="$d6/d60/classG4LevelReader.html#a5bb154ffce96f1cdaf4444ebbb79ab85" title="G4LevelReader::LevelManager" alt="" coords="961,219,1189,247"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1298,168,1405,196"/>
+<area shape="rect" id="node11" href="$d1/d89/classG4DeexPrecoParameters.html#af3e0d92696663d703070a9c61b9294b1" title="G4DeexPrecoParameters\l::StoreICLevelData" alt="" coords="1257,220,1446,264"/>
+<area shape="rect" id="node12" href="$d6/d60/classG4LevelReader.html#aa2c3aad26caefc43f916ef550bb15dc5" title="G4LevelReader::ReadDataItem" alt="" coords="1237,288,1465,316"/>
+<area shape="rect" id="node13" href="$d6/d60/classG4LevelReader.html#a73c6e35bbd7fd7416a49d73f37156dac" title="G4LevelReader::Normalized\lICCProbability" alt="" coords="1247,340,1455,384"/>
+<area shape="rect" id="node15" href="$dd/d2c/classG4VEvaporation.html#ab42449ce9c25bef5d1100efba0bb8a8c" title="G4VEvaporation::SetPhoton\lEvaporation" alt="" coords="971,271,1180,315"/>
+<area shape="rect" id="node17" href="$dd/d2c/classG4VEvaporation.html#a28a0868bfd97650480000397b1ce7155" title="G4VEvaporation::GetPhoton\lEvaporation" alt="" coords="702,321,913,365"/>
+<area shape="rect" id="node18" href="$dd/d2c/classG4VEvaporation.html#ab96a8564ba7168571fc4b988b2cc4769" title="G4VEvaporation::SetFermi\lBreakUp" alt="" coords="707,389,907,433"/>
+</map>

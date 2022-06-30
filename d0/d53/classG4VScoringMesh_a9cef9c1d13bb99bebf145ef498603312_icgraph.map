@@ -1,0 +1,23 @@
+<map id="G4VScoringMesh::GetScoreMap" name="G4VScoringMesh::GetScoreMap">
+<area shape="rect" id="node2" href="$da/d94/classG4VSceneHandler.html#aab1c38c4b0caac998c2eec13bcf7d7ee" title="G4VSceneHandler::AddCompound" alt="" coords="295,5,547,33"/>
+<area shape="rect" id="node3" href="$d1/dcb/classG4MPIscorerMerger.html#a2b7cdc6176fe0ddf8b0c0596417d920c" title="G4MPIscorerMerger::\lCalculatePackSize" alt="" coords="341,57,502,101"/>
+<area shape="rect" id="node4" href="$d8/d8d/classG4PSHitsModel.html#a253c90100f7e7eafbe6b7f02d0f5d0ca" title="G4PSHitsModel::DescribeYourselfTo" alt="" coords="292,125,551,153"/>
+<area shape="rect" id="node5" href="$d2/d96/classG4VScoreWriter.html#ac820d6122e6ffd422c3569bcfa8ec6bc" title="G4VScoreWriter::DumpAllQuantities\lToFile" alt="" coords="289,177,553,221"/>
+<area shape="rect" id="node8" href="$d2/d96/classG4VScoreWriter.html#aa8315c39f8abdbf5a55a167cd7f69b47" title="G4VScoreWriter::DumpQuantity\lToFile" alt="" coords="303,245,539,289"/>
+<area shape="rect" id="node10" href="$d1/d4d/classRE03UserScoreWriter.html#ae94e2859e811d1e2acf1185a1c50feb4" title="RE03UserScoreWriter\l::DumpQuantityToFile" alt="" coords="338,313,505,357"/>
+<area shape="rect" id="node11" href="$dc/dd7/classPHG4ScoringManager.html#a39091d7b61e10293db093fd15055c459" title="based on G4VScoreWriter::DumpAllQuantitiesToFile()" alt="" coords="323,381,519,425"/>
+<area shape="rect" id="node13" href="$d0/d53/classG4VScoringMesh.html#adce1323352d40969d186888cbcb57e8e" title="G4VScoringMesh::Merge" alt="" coords="328,449,515,477"/>
+<area shape="rect" id="node18" href="$d1/dcb/classG4MPIscorerMerger.html#a0070063bef1abb2950aef0d0596739cb" title="Pack a single mesh." alt="" coords="325,501,518,529"/>
+<area shape="rect" id="node19" href="$d2/d11/classGammaKnifeController.html#a702caeeae690c554cf9d511fadc385a0" title="GammaKnifeController\l::PrepareHitsAccumulation" alt="" coords="321,553,521,597"/>
+<area shape="rect" id="node22" href="$d2/d11/classGammaKnifeController.html#ae6fb51ae71420e700cb9f17280686b06" title="GammaKnifeController\l::StoreHits" alt="" coords="333,621,509,665"/>
+<area shape="rect" id="node6" href="$df/d55/classG4ScoringManager.html#a824bba4e74cca80ebe267b65cadc6ae5" title="G4ScoringManager::DumpAll\lQuantitiesToFile" alt="" coords="623,177,839,221"/>
+<area shape="rect" id="node7" href="$d9/d02/classG4ScoringMessenger.html#af5d9ad44f9f5e19682527349572cec98" title="G4ScoringMessenger\l::SetNewValue" alt="" coords="946,212,1111,256"/>
+<area shape="rect" id="node9" href="$df/d55/classG4ScoringManager.html#aff782ae0103fa89819daefa4c4ca969e" title="G4ScoringManager::DumpQuantity\lToFile" alt="" coords="601,245,860,289"/>
+<area shape="rect" id="node12" href="$dc/dd7/classPHG4ScoringManager.html#a9f1122e27b63ccb02a176f608c702695" title="end of run method" alt="" coords="629,389,832,417"/>
+<area shape="rect" id="node14" href="$df/d55/classG4ScoringManager.html#aedec7854d4cbe28333b6fec89001c8b8" title="G4ScoringManager::Merge" alt="" coords="630,449,831,477"/>
+<area shape="rect" id="node15" href="$de/d16/classG4MTRunManager.html#aedca6c6cd7867230916dd17ade6839dd" title="G4MTRunManager::MergeScores" alt="" coords="908,449,1149,477"/>
+<area shape="rect" id="node16" href="$d3/db3/classG4WorkerRunManager.html#a77f9f9cdd6d99e1e77f738904e9eb6ca" title="G4WorkerRunManager\l::MergePartialResults" alt="" coords="1197,441,1372,485"/>
+<area shape="rect" id="node17" href="$d3/db3/classG4WorkerRunManager.html#a1801b51ed0cd79a8b435fed854f6709f" title="G4WorkerRunManager\l::RunTermination" alt="" coords="1420,441,1595,485"/>
+<area shape="rect" id="node20" href="$d2/d11/classGammaKnifeController.html#a9c6d1498cab6c2e2e801760c995ba7aa" title="GammaKnifeController\l::BeamOn" alt="" coords="643,587,819,631"/>
+<area shape="rect" id="node21" href="$dd/dfe/classGammaKnifeMessenger.html#ab8e6d15aefdd7f105ab498174587a53e" title="GammaKnifeMessenger\l::SetNewValue" alt="" coords="937,587,1121,631"/>
+</map>

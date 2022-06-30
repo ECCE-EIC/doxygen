@@ -1,0 +1,26 @@
+var classExN04PrimaryGeneratorAction =
+[
+    [ "ExN04PrimaryGeneratorAction", "d1/d5a/classExN04PrimaryGeneratorAction.html#a841d28ff8596e3a3184a7bc1a6f574d2", null ],
+    [ "~ExN04PrimaryGeneratorAction", "d1/d5a/classExN04PrimaryGeneratorAction.html#a63e83dad5df47d1af53fa6796d3e1ed3", null ],
+    [ "ExN04PrimaryGeneratorAction", "d1/d5a/classExN04PrimaryGeneratorAction.html#a841d28ff8596e3a3184a7bc1a6f574d2", null ],
+    [ "~ExN04PrimaryGeneratorAction", "d1/d5a/classExN04PrimaryGeneratorAction.html#a63e83dad5df47d1af53fa6796d3e1ed3", null ],
+    [ "GeneratePrimaries", "d1/d5a/classExN04PrimaryGeneratorAction.html#a9aad116df9cd1f2fa5ec26b7faba7eb0", null ],
+    [ "GeneratePrimaries", "d1/d5a/classExN04PrimaryGeneratorAction.html#a9aad116df9cd1f2fa5ec26b7faba7eb0", null ],
+    [ "GetGenerator", "d1/d5a/classExN04PrimaryGeneratorAction.html#ac055f78ed9d64550d728ec91d589e2b3", null ],
+    [ "GetGeneratorName", "d1/d5a/classExN04PrimaryGeneratorAction.html#a3f46e479a8104e6cd1f5b701345fb3eb", null ],
+    [ "GetHEPEvtGenerator", "d1/d5a/classExN04PrimaryGeneratorAction.html#a34acc2679692a74cd666af046e060f21", null ],
+    [ "SetGenerator", "d1/d5a/classExN04PrimaryGeneratorAction.html#aff8fb2ce7b737b6e9242f6fcb506e82d", null ],
+    [ "SetGenerator", "d1/d5a/classExN04PrimaryGeneratorAction.html#a0f9df527485e34679aad0708212f6d42", null ],
+    [ "SetHEPEvtGenerator", "d1/d5a/classExN04PrimaryGeneratorAction.html#a6e4167156c51f6fc211b1163107405b4", null ],
+    [ "fCurrentGenerator", "d1/d5a/classExN04PrimaryGeneratorAction.html#a40d51721d1c4479e6d6953a9117e1415", null ],
+    [ "fCurrentGeneratorName", "d1/d5a/classExN04PrimaryGeneratorAction.html#a5e387f4454ab0691388c192b238cea4a", null ],
+    [ "fGentypeMap", "d1/d5a/classExN04PrimaryGeneratorAction.html#a9244083e800376daa43e02fa067c8aa6", null ],
+    [ "fHepmcAscii", "d1/d5a/classExN04PrimaryGeneratorAction.html#a2e110ed35a8cfbcdd5459a3f07341f53", null ],
+    [ "fMessenger", "d1/d5a/classExN04PrimaryGeneratorAction.html#a9bd07459ed7186e494a194f3a70f340b", null ],
+    [ "fParticleGun", "d1/d5a/classExN04PrimaryGeneratorAction.html#ab4f07a165e26efb89a27a82940bf925a", null ],
+    [ "fPythiaGen", "d1/d5a/classExN04PrimaryGeneratorAction.html#ad568f818396d5ec7dbb349de4a67165d", null ],
+    [ "HEPEvt", "d1/d5a/classExN04PrimaryGeneratorAction.html#a6ed58d17a4f317a7347f5afdac8dda52", null ],
+    [ "messenger", "d1/d5a/classExN04PrimaryGeneratorAction.html#af7d13b14edfc7dd99c1c6c01ee881702", null ],
+    [ "particleGun", "d1/d5a/classExN04PrimaryGeneratorAction.html#a2bcf72510725c12e00650701df07d63f", null ],
+    [ "useHEPEvt", "d1/d5a/classExN04PrimaryGeneratorAction.html#a9a290460a3e942652f62c45396675687", null ]
+];

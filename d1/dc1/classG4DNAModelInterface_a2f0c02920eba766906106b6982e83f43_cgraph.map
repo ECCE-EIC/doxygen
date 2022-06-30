@@ -1,0 +1,11 @@
+<map id="G4DNAModelInterface::CrossSectionPerVolume" name="G4DNAModelInterface::CrossSectionPerVolume">
+<area shape="rect" id="node2" href="$db/dae/classG4VDNAModel.html#a2959e2a588fb6c7b4f31b4da1845d183" title="CrossSectionPerVolume Every model must implement its own CrossSectionPerVolume method. It is used by the process to determine the step path and must return a cross section times a number of molecules per volume unit." alt="" coords="275,5,491,49"/>
+<area shape="rect" id="node3" href="$d1/dc1/classG4DNAModelInterface.html#ab7f2de7bc3874350e7c06d3898529221" title="GetDNAModel." alt="" coords="297,73,468,117"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#adb27815ba6c1e2e6e6301e6349288fde" title="G4Material::GetMatComponents" alt="" coords="263,141,502,169"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="571,261,739,289"/>
+<area shape="rect" id="node7" href="$d1/dc1/classG4DNAModelInterface.html#a3f0dff0110ce77acb8d94349ae72cf65" title="G4DNAModelInterface\l::GetNumMoleculePerVolumeUnit\lForMaterial" alt="" coords="259,329,506,389"/>
+<area shape="rect" id="node9" href="$d1/dc1/classG4DNAModelInterface.html#aab43b24181e92f4c6ac5d95644d256a8" title="G4DNAModelInterface\l::GetNumMolPerVolUnitForComponent\lInComposite" alt="" coords="243,245,523,305"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="305,413,460,457"/>
+<area shape="rect" id="node4" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="616,81,693,109"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="572,329,737,357"/>
+</map>

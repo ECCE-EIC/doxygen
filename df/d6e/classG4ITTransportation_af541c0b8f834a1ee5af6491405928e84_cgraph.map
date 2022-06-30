@@ -1,0 +1,24 @@
+<map id="G4ITTransportation::PostStepDoIt" name="G4ITTransportation::PostStepDoIt">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="516,441,623,469"/>
+<area shape="rect" id="node3" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="253,73,417,117"/>
+<area shape="rect" id="node4" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="249,141,421,185"/>
+<area shape="rect" id="node5" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="223,209,448,237"/>
+<area shape="rect" id="node6" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="242,261,429,305"/>
+<area shape="rect" id="node7" href="$da/dc4/classG4LogicalVolume.html#a6e98cd941fcb9a71d14907b24ecbd1ea" title="G4LogicalVolume::GetMaterial\lCutsCouple" alt="" coords="223,329,448,373"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="213,397,458,425"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="255,449,416,477"/>
+<area shape="rect" id="node10" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="249,501,421,545"/>
+<area shape="rect" id="node11" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="240,569,431,613"/>
+<area shape="rect" id="node12" href="$da/dc4/classG4LogicalVolume.html#a24691c613a88b2c32acb13d4d14144dc" title="G4LogicalVolume::GetSensitive\lDetector" alt="" coords="219,637,452,681"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a68db2c7e6c7c9ee4c6aeb419fe02174c" title="G4Track::GetTouchableHandle" alt="" coords="223,705,448,733"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="256,757,415,785"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="242,809,429,837"/>
+<area shape="rect" id="node16" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="235,861,436,889"/>
+<area shape="rect" id="node17" href="$d6/d31/classG4ParticleChangeForTransport.html#a89748b7e447d5358e42636a4339d4418" title="G4ParticleChangeForTransport\l::Initialize" alt="" coords="222,913,449,957"/>
+<area shape="rect" id="node18" href="$d6/d6c/classG4VParticleChange.html#a5dd2a59a7c73626333d6f3697475e20a" title="G4VParticleChange::\lProposeLastStepInVolume" alt="" coords="237,981,433,1025"/>
+<area shape="rect" id="node19" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="255,1049,415,1093"/>
+<area shape="rect" id="node20" href="$d6/d31/classG4ParticleChangeForTransport.html#a681f3c2e2b1cbb8a345aa3f718ffcfad" title="G4ParticleChangeForTransport\l::SetMaterialCutsCoupleInTouchable" alt="" coords="203,1117,468,1161"/>
+<area shape="rect" id="node21" href="$d6/d31/classG4ParticleChangeForTransport.html#a2dce519a843be83dae31896717bdbf63" title="G4ParticleChangeForTransport\l::SetMaterialInTouchable" alt="" coords="222,1185,449,1229"/>
+<area shape="rect" id="node22" href="$d6/d31/classG4ParticleChangeForTransport.html#a9e36801fe717667d2fc542894bc20a7e" title="G4ParticleChangeForTransport\l::SetSensitiveDetectorInTouchable" alt="" coords="209,1253,462,1297"/>
+<area shape="rect" id="node23" href="$d6/d31/classG4ParticleChangeForTransport.html#a36ed861185e261d06e68911375658414" title="G4ParticleChangeForTransport\l::SetTouchableHandle" alt="" coords="222,1321,449,1365"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/src/G4INCLDecayAvatar.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/src/G4INCLDecayAvatar.cc">
+<area shape="rect" id="node2" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1113,997,1204,1025"/>
+<area shape="rect" id="node27" href="$d9/dbe/G4INCLDecayAvatar_8hh.html" title="G4INCLDecayAvatar.hh" alt="" coords="333,145,510,173"/>
+<area shape="rect" id="node44" href="$d7/d08/G4INCLDeltaDecayChannel_8hh.html" title="G4INCLDeltaDecayChannel.hh" alt="" coords="2057,305,2282,333"/>
+<area shape="rect" id="node45" href="$d8/db8/G4INCLPionResonanceDecayChannel_8hh.html" title="G4INCLPionResonanceDecay\lChannel.hh" alt="" coords="1367,297,1583,341"/>
+<area shape="rect" id="node46" href="$dd/d61/G4INCLSigmaZeroDecayChannel_8hh.html" title="G4INCLSigmaZeroDecayChannel.hh" alt="" coords="459,305,723,333"/>
+<area shape="rect" id="node47" href="$d2/dd3/G4INCLNeutralKaonDecayChannel_8hh.html" title="G4INCLNeutralKaonDecayChannel.hh" alt="" coords="747,305,1021,333"/>
+<area shape="rect" id="node48" href="$d4/ddd/G4INCLStrangeAbsorbtionChannel_8hh.html" title="G4INCLStrangeAbsorbtionChannel.hh" alt="" coords="1607,305,1881,333"/>
+<area shape="rect" id="node49" href="$df/de3/G4INCLPauliBlocking_8hh.html" title="G4INCLPauliBlocking.hh" alt="" coords="2331,221,2512,249"/>
+<area shape="rect" id="node3" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1162,1225,1243,1253"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1207,1301,1307,1329"/>
+<area shape="rect" id="node10" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1669,1225,1771,1253"/>
+<area shape="rect" id="node15" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1101,1073,1211,1101"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1315,1149,1443,1177"/>
+<area shape="rect" id="node21" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1597,1073,1774,1101"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1135,1377,1193,1405"/>
+<area shape="rect" id="node19" href="$d9/d05/G4VExceptionHandler_8hh.html" title="G4VExceptionHandler.hh" alt="" coords="1268,1225,1457,1253"/>
+<area shape="rect" id="node20" href="$d6/d7e/G4ExceptionSeverity_8hh.html" title="G4ExceptionSeverity.hh" alt="" coords="1345,1301,1527,1329"/>
+<area shape="rect" id="node28" href="$dc/de7/G4INCLInteractionAvatar_8hh.html" title="G4INCLInteractionAvatar.hh" alt="" coords="317,221,525,249"/>
+<area shape="rect" id="node30" href="$dc/dc6/G4INCLIChannel_8hh.html" title="G4INCLIChannel.hh" alt="" coords="584,465,736,493"/>
+<area shape="rect" id="node31" href="$da/d04/G4INCLAllocationPool_8hh.html" title="Singleton for recycling allocation of instances of a given class." alt="" coords="955,617,1141,645"/>
+<area shape="rect" id="node32" href="$d2/d20/G4INCLParticle_8hh.html" title="G4INCLParticle.hh" alt="" coords="1596,541,1737,569"/>
+<area shape="rect" id="node41" href="$dd/d4b/G4INCLNucleus_8hh.html" title="G4INCLNucleus.hh" alt="" coords="1834,389,1979,417"/>
+<area shape="rect" id="node29" href="$d4/dc2/G4INCLIAvatar_8hh.html" title="G4INCLIAvatar.hh" alt="" coords="759,389,897,417"/>
+<area shape="rect" id="node40" href="$d6/d0d/G4INCLFinalState_8hh.html" title="G4INCLFinalState.hh" alt="" coords="1419,465,1578,493"/>
+<area shape="rect" id="node42" href="$df/dae/G4INCLRootFinder_8hh.html" title="Static root&#45;finder algorithm." alt="" coords="144,541,307,569"/>
+<area shape="rect" id="node43" href="$de/dde/G4INCLKinematicsUtils_8hh.html" title="G4INCLKinematicsUtils.hh" alt="" coords="1045,305,1241,333"/>
+<area shape="rect" id="node39" href="$de/dbf/G4INCLUnorderedVector_8hh.html" title="G4INCLUnorderedVector.hh" alt="" coords="769,693,973,721"/>
+<area shape="rect" id="node33" href="$dc/d41/G4INCLThreeVector_8hh.html" title="G4INCLThreeVector.hh" alt="" coords="2331,921,2501,949"/>
+<area shape="rect" id="node34" href="$d6/d58/G4INCLParticleTable_8hh.html" title="G4INCLParticleTable.hh" alt="" coords="1667,617,1845,645"/>
+<area shape="rect" id="node35" href="$df/d0c/G4INCLParticleType_8hh.html" title="G4INCLParticleType.hh" alt="" coords="1251,921,1423,949"/>
+<area shape="rect" id="node36" href="$d9/d8d/G4INCLParticleSpecies_8hh.html" title="G4INCLParticleSpecies.hh" alt="" coords="1353,845,1546,873"/>
+<area shape="rect" id="node37" href="$d8/d3e/G4INCLLogger_8hh.html" title="G4INCLLogger.hh" alt="" coords="1971,693,2109,721"/>
+<area shape="rect" id="node38" href="$d6/d6d/G4INCLConfig_8hh.html" title="G4INCLConfig.hh" alt="" coords="2179,769,2315,797"/>
+<area shape="rect" id="node50" href="$de/d35/G4INCLIPauli_8hh.html" title="G4INCLIPauli.hh" alt="" coords="2307,305,2435,333"/>
+</map>

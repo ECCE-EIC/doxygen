@@ -1,0 +1,34 @@
+<map id="DetectorConstruction::GetNuclMass" name="DetectorConstruction::GetNuclMass">
+<area shape="rect" id="node2" href="$da/dc4/classG4LogicalVolume.html#a074e6095b87605c454c7b29cd2744333" title="G4LogicalVolume::GetMass" alt="" coords="219,323,424,351"/>
+<area shape="rect" id="node3" href="$da/dc4/classG4LogicalVolume.html#a4173007bc4b83c269985c3c16c2f05bf" title="G4LogicalVolume::GetMaterial" alt="" coords="761,37,986,65"/>
+<area shape="rect" id="node4" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="832,297,915,325"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="820,375,927,403"/>
+<area shape="rect" id="node10" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="771,215,975,243"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="499,453,679,481"/>
+<area shape="rect" id="node12" href="$da/d34/classG4VSolid.html#ad79cd6032a236810a66f4c9576748b14" title="G4VSolid::GetCubicVolume" alt="" coords="487,505,691,533"/>
+<area shape="rect" id="node28" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="791,118,955,162"/>
+<area shape="rect" id="node29" href="$d1/d28/classG4VPhysicalVolume.html#a73f9712c19575eaf8a390751d71f7c00" title="G4VPhysicalVolume::\lGetMultiplicity" alt="" coords="507,557,671,601"/>
+<area shape="rect" id="node30" href="$d1/d28/classG4VPhysicalVolume.html#a12ab240392398ebfabbb37592f5d870e" title="G4VPhysicalVolume::\lGetParameterisation" alt="" coords="507,625,671,669"/>
+<area shape="rect" id="node31" href="$de/dcc/classG4VPVParameterisation.html#a21360f5a2b1b1787ce7a24cebbc58439" title="G4VPVParameterisation\l::ComputeSolid" alt="" coords="498,178,679,222"/>
+<area shape="rect" id="node32" href="$da/d34/classG4VSolid.html#a6a0255d82cf1ba8cc5a3aaa0f7c6e4ac" title="G4VSolid::ComputeDimensions" alt="" coords="472,349,705,377"/>
+<area shape="rect" id="node33" href="$de/dcc/classG4VPVParameterisation.html#a3a12ae4fe42c0f3ff283dfe3c421b659" title="G4VPVParameterisation\l::ComputeMaterial" alt="" coords="498,58,679,102"/>
+<area shape="rect" id="node5" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1041,214,1257,258"/>
+<area shape="rect" id="node6" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1043,282,1255,326"/>
+<area shape="rect" id="node7" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1044,350,1255,394"/>
+<area shape="rect" id="node8" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1305,350,1473,394"/>
+<area shape="rect" id="node13" href="$da/d34/classG4VSolid.html#a357592589246a98729ad94c0fe9ac2ac" title="G4VSolid::EstimateCubicVolume" alt="" coords="753,510,993,538"/>
+<area shape="rect" id="node14" href="$dd/d7e/namespaceActs_1_1Test.html#a51c29a20fb018e161cb50c4c3886c981" title="Acts::Test::origin" alt="" coords="1083,418,1216,446"/>
+<area shape="rect" id="node15" href="$da/d34/classG4VSolid.html#a4ed82441505459822c07079860c6c76f" title="G4VSolid::CalculateExtent" alt="" coords="1049,470,1249,498"/>
+<area shape="rect" id="node16" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a52ed790cfb69e275fdf43ed0ba078867" title="epsilon" alt="" coords="1115,522,1184,550"/>
+<area shape="rect" id="node26" href="$d4/d14/G4QuickRand_8hh.html#a308c613707c48bab0df7deaf165da73a" title="G4QuickRand" alt="" coords="1093,574,1206,602"/>
+<area shape="rect" id="node27" href="$da/d34/classG4VSolid.html#a65ec466e3542e3a700b4dc70937a2c47" title="G4VSolid::Inside" alt="" coords="1083,626,1215,654"/>
+<area shape="rect" id="node17" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="1370,443,1409,471"/>
+<area shape="rect" id="node20" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#af897c249c47cdbc05d8382d8f42c08be" title="D" alt="" coords="1370,495,1409,523"/>
+<area shape="rect" id="node21" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1356,547,1423,575"/>
+<area shape="rect" id="node25" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a78a47533cb7a50cbc6a737462fe90407" title="S" alt="" coords="1370,599,1409,627"/>
+<area shape="rect" id="node18" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1597,443,1635,471"/>
+<area shape="rect" id="node19" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="1597,495,1635,523"/>
+<area shape="rect" id="node22" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1533,547,1699,575"/>
+<area shape="rect" id="node24" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1521,599,1711,627"/>
+<area shape="rect" id="node23" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1759,547,1947,575"/>
+</map>

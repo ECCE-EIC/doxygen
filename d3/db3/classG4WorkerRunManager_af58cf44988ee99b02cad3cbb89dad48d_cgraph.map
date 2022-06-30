@@ -1,0 +1,20 @@
+<map id="G4WorkerRunManager::GenerateEvent" name="G4WorkerRunManager::GenerateEvent">
+<area shape="rect" id="node2" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html#a584d15b5975fbbd992ae7b3ce8edd5f1" title="G4VUserPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="233,5,475,49"/>
+<area shape="rect" id="node3" href="$d5/de2/classG4Event.html#a80ec6d7d8f290a22d78acbbef9955790" title="G4Event::GetEventID" alt="" coords="271,73,437,101"/>
+<area shape="rect" id="node4" href="$de/d16/classG4MTRunManager.html#ae1e7f13543c79f415eaab851786c5df5" title="G4MTRunManager::GetEvent\lModulo" alt="" coords="245,125,463,169"/>
+<area shape="rect" id="node5" href="$d4/d1d/classG4TemplateRNGHelper.html#a128efe2d38e1d9509fa6b5023b77fc86" title="G4TemplateRNGHelper\l::GetInstance" alt="" coords="817,289,995,333"/>
+<area shape="rect" id="node6" href="$de/d16/classG4MTRunManager.html#ab4c4f53820e73b76b57ec49c76810b19" title="G4MTRunManager::GetMaster\lRunManager" alt="" coords="241,452,467,496"/>
+<area shape="rect" id="node7" href="$d2/d10/classG4Run.html#aae09a248c0a5efb3db47b2f419625ff9" title="G4Run::GetRunID" alt="" coords="284,520,424,548"/>
+<area shape="rect" id="node8" href="$d4/d1d/classG4TemplateRNGHelper.html#ae3f4e03f805bc87bc6a93f6bafb3d8c7" title="G4TemplateRNGHelper\l::GetSeed" alt="" coords="553,452,731,496"/>
+<area shape="rect" id="node10" href="$de/d16/classG4MTRunManager.html#a0aef8d6969361c4e291886e3f60b7583" title="G4MTRunManager::SeedOnce\lPerCommunication" alt="" coords="243,572,465,616"/>
+<area shape="rect" id="node11" href="$d5/de2/classG4Event.html#abebb3c1937cb365a1bf424bed2b8fb73" title="G4Event::SetEventID" alt="" coords="561,245,723,273"/>
+<area shape="rect" id="node12" href="$d5/de2/classG4Event.html#a43cbafdae2c85856fbd88bef35427166" title="G4Event::SetRandomNumber\lStatus" alt="" coords="243,640,465,684"/>
+<area shape="rect" id="node13" href="$de/d16/classG4MTRunManager.html#a732112cf1345c0e2142611a65224e7c2" title="G4MTRunManager::SetUpAnEvent" alt="" coords="228,348,480,376"/>
+<area shape="rect" id="node17" href="$de/d16/classG4MTRunManager.html#a6eccc961482738deccd1cd8c16a5e56f" title="G4MTRunManager::SetUpNEvents" alt="" coords="229,296,479,324"/>
+<area shape="rect" id="node18" href="$d3/db3/classG4WorkerRunManager.html#af6ea06a81406c521adc0d23f10dff8c7" title="G4WorkerRunManager\l::StoreRNGStatus" alt="" coords="267,708,441,752"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="853,493,959,521"/>
+<area shape="rect" id="node14" href="$de/d16/classG4MTRunManager.html#ac86f02e1fe4b88f36694e87e57933993" title="G4MTRunManager::RefillSeeds" alt="" coords="528,400,756,428"/>
+<area shape="rect" id="node15" href="$d8/dcf/classCLHEP_1_1HepRandomEngine.html#ab166b636ad7672b421dd8614b686ce91" title="CLHEP::HepRandomEngine\l::flatArray" alt="" coords="804,357,1008,401"/>
+<area shape="rect" id="node16" href="$d4/d1d/classG4TemplateRNGHelper.html#aff0fd24033309bc8c755307485ae01a3" title="G4TemplateRNGHelper\l::Refill" alt="" coords="817,425,995,469"/>
+<area shape="rect" id="node19" href="$dd/d14/classG4WorkerThread.html#a566ea11574dae6d92b6327929f13be21" title="G4WorkerThread::GetThreadId" alt="" coords="528,716,756,744"/>
+</map>

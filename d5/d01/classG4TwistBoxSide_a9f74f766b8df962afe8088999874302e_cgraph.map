@@ -1,0 +1,51 @@
+<map id="G4TwistBoxSide::DistanceToSurface" name="G4TwistBoxSide::DistanceToSurface">
+<area shape="rect" id="node2" href="$d1/d19/classG4VTwistSurface.html#a3bd71f96525627e90c54f8263e6d53a8" title="G4VTwistSurface::Compute\lGlobalPoint" alt="" coords="261,203,465,247"/>
+<area shape="rect" id="node3" href="$d1/d19/classG4VTwistSurface.html#a877aa2bed489818818821d6341888188" title="G4VTwistSurface::Compute\lLocalDirection" alt="" coords="261,271,465,315"/>
+<area shape="rect" id="node4" href="$d1/d19/classG4VTwistSurface.html#aaef9531b1a05a89681d1f88e73505013" title="G4VTwistSurface::Compute\lLocalPoint" alt="" coords="261,339,465,383"/>
+<area shape="rect" id="node5" href="$de/d16/G4VTwistSurface_8hh.html#a19d95595f41d0b9ed7bbf3cae3138cb8" title="DistanceSort" alt="" coords="309,407,417,435"/>
+<area shape="rect" id="node6" href="$d1/d19/classG4VTwistSurface.html#aea2d4bc78ebd73bd6f1d6b1d52fcd26f" title="G4VTwistSurface::Distance\lToPlaneWithV" alt="" coords="261,459,464,503"/>
+<area shape="rect" id="node7" href="$de/d16/G4VTwistSurface_8hh.html#ad28fd113318cf6880b91948c1be69d1e" title="EqualIntersection" alt="" coords="293,527,432,555"/>
+<area shape="rect" id="node8" href="$d0/dad/classG4JTPolynomialSolver.html#a60b1b1fc81a7a56e9a944f03f142d310" title="G4JTPolynomialSolver\l::FindRoots" alt="" coords="277,579,448,623"/>
+<area shape="rect" id="node27" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="598,663,705,691"/>
+<area shape="rect" id="node28" href="$d5/d01/classG4TwistBoxSide.html#aa9e62a9624eb712e3ca3a9840c8ab460" title="G4TwistBoxSide::GetAreaCode" alt="" coords="249,767,476,795"/>
+<area shape="rect" id="node29" href="$d5/d01/classG4TwistBoxSide.html#adedcde540c02ce52fc6c5b125fdf3d5e" title="G4TwistBoxSide::GetPhiUAtX" alt="" coords="544,869,759,897"/>
+<area shape="rect" id="node30" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="863,817,1031,845"/>
+<area shape="rect" id="node31" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="862,881,1031,909"/>
+<area shape="rect" id="node32" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="862,959,1031,987"/>
+<area shape="rect" id="node35" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a36a7aa9675d208157e6d93140694b911" title="G4VTwistSurface::Current\lStatus::GetAreacode" alt="" coords="265,1023,460,1067"/>
+<area shape="rect" id="node36" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a5e49b52c8ebb9da160fc96e8005fa6af" title="G4VTwistSurface::Current\lStatus::GetDistance" alt="" coords="265,1091,460,1135"/>
+<area shape="rect" id="node37" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a85bae4e198e2bd111a195c460aabc453" title="G4VTwistSurface::Current\lStatus::GetNXX" alt="" coords="265,1159,460,1203"/>
+<area shape="rect" id="node38" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a5434ab56b08aadc55d136fea88b3f233" title="G4VTwistSurface::Current\lStatus::GetXX" alt="" coords="265,1227,460,1271"/>
+<area shape="rect" id="node39" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a5f7a8c52cae4087e2a63cdbdf5a532de" title="G4VTwistSurface::Current\lStatus::IsDone" alt="" coords="265,1295,460,1339"/>
+<area shape="rect" id="node40" href="$d1/d19/classG4VTwistSurface.html#a6dac7b7b545759f3387182894bf08b59" title="G4VTwistSurface::IsInside" alt="" coords="265,1363,460,1391"/>
+<area shape="rect" id="node41" href="$d1/d19/classG4VTwistSurface.html#a284c15ab9d352352a0cb995a8573599a" title="G4VTwistSurface::IsOutside" alt="" coords="259,1415,466,1443"/>
+<area shape="rect" id="node42" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#af852af2a3b818f05254f5444a1557404" title="G4VTwistSurface::Current\lStatus::IsValid" alt="" coords="265,1467,460,1511"/>
+<area shape="rect" id="node43" href="$d5/d01/classG4TwistBoxSide.html#a463834192497070d1787be53ecbd95e3" title="G4TwistBoxSide::NormAng" alt="" coords="263,1535,463,1563"/>
+<area shape="rect" id="node45" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#aeb8f7882b23cb44c3cf43e96772c2b66" title="G4VTwistSurface::Current\lStatus::ResetfDone" alt="" coords="265,1587,460,1631"/>
+<area shape="rect" id="node46" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="271,1655,454,1683"/>
+<area shape="rect" id="node47" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#aabedd975427a2506d89d38283023308a" title="G4VTwistSurface::Current\lStatus::SetCurrentStatus" alt="" coords="265,647,460,691"/>
+<area shape="rect" id="node48" href="$d5/d01/classG4TwistBoxSide.html#a27e88393f6919a422f2b87879f3e580f" title="G4TwistBoxSide::SurfacePoint" alt="" coords="251,1707,474,1735"/>
+<area shape="rect" id="node50" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="335,1759,391,1787"/>
+<area shape="rect" id="node9" href="$d0/dad/classG4JTPolynomialSolver.html#a821cbed3965f9fdc1d87d3587e828be0" title="G4JTPolynomialSolver\l::ComputeFixedShiftPolynomial" alt="" coords="536,400,767,444"/>
+<area shape="rect" id="node15" href="$d0/dad/classG4JTPolynomialSolver.html#a5f812ab34cae72713e36691c9713495d" title="G4JTPolynomialSolver\l::Quadratic" alt="" coords="1127,536,1298,580"/>
+<area shape="rect" id="node17" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="618,611,685,639"/>
+<area shape="rect" id="node20" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="619,84,683,112"/>
+<area shape="rect" id="node24" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="573,296,730,324"/>
+<area shape="rect" id="node25" href="$de/d0f/classG4Pow.html#a4c49b51d1c8cab85591ee899190d073f" title="G4Pow::powN" alt="" coords="595,348,708,376"/>
+<area shape="rect" id="node10" href="$d0/dad/classG4JTPolynomialSolver.html#a9fd985d8efaaa5b03eefc49d5aceca5c" title="G4JTPolynomialSolver\l::ComputeNewEstimate" alt="" coords="1123,265,1303,309"/>
+<area shape="rect" id="node11" href="$d0/dad/classG4JTPolynomialSolver.html#aaf869e8beae62f1e762976cb2b4942ca" title="G4JTPolynomialSolver\l::ComputeNextPolynomial" alt="" coords="1115,333,1311,377"/>
+<area shape="rect" id="node12" href="$d0/dad/classG4JTPolynomialSolver.html#a4c8fb584fac21ce712d53ef66a69de95" title="G4JTPolynomialSolver\l::ComputeScalarFactors" alt="" coords="1122,453,1303,497"/>
+<area shape="rect" id="node13" href="$d0/dad/classG4JTPolynomialSolver.html#adbcf9bc37d9c3216033895692064b195" title="G4JTPolynomialSolver\l::QuadraticSyntheticDivision" alt="" coords="1359,393,1572,437"/>
+<area shape="rect" id="node14" href="$d0/dad/classG4JTPolynomialSolver.html#aaf2cd86905fc64d3a54689897a262cb9" title="G4JTPolynomialSolver\l::QuadraticPolynomialIteration" alt="" coords="833,371,1060,415"/>
+<area shape="rect" id="node16" href="$d0/dad/classG4JTPolynomialSolver.html#ae05329111fdce720753513f1bf0fde59" title="G4JTPolynomialSolver\l::RealPolynomialIteration" alt="" coords="852,491,1041,535"/>
+<area shape="rect" id="node18" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="864,663,1029,691"/>
+<area shape="rect" id="node19" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="852,611,1041,639"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="851,57,1043,85"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="851,109,1043,137"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="827,5,1067,33"/>
+<area shape="rect" id="node26" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="891,161,1002,189"/>
+<area shape="rect" id="node33" href="$d5/d01/classG4TwistBoxSide.html#a2f93e3aa7f80f436d5a12b96a83dae55" title="G4TwistBoxSide::GetBoundaryMax" alt="" coords="524,715,779,743"/>
+<area shape="rect" id="node34" href="$d5/d01/classG4TwistBoxSide.html#a6c7c0369561b8a5f5bd52e84e555f70b" title="G4TwistBoxSide::GetValueB" alt="" coords="843,715,1051,743"/>
+<area shape="rect" id="node44" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="557,1535,745,1563"/>
+<area shape="rect" id="node49" href="$d5/d01/classG4TwistBoxSide.html#a6b1cf08fc27a80e04bcd619fde048f39" title="G4TwistBoxSide::Xcoef" alt="" coords="563,1707,739,1735"/>
+</map>

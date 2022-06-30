@@ -1,0 +1,51 @@
+<map id="G4UrbanMscModel::SampleScattering" name="G4UrbanMscModel::SampleScattering">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1065,723,1175,751"/>
+<area shape="rect" id="node4" href="$d8/dcf/classCLHEP_1_1HepRandomEngine.html#a743bd49472dc1c6034ad1047a6154329" title="CLHEP::HepRandomEngine\l::flat" alt="" coords="1018,1004,1222,1048"/>
+<area shape="rect" id="node5" href="$d0/d99/classG4VMscModel.html#a15619db857678778a02d95f845e8f3f9" title="G4VMscModel::GetDEDX" alt="" coords="363,81,551,109"/>
+<area shape="rect" id="node12" href="$d0/d99/classG4VMscModel.html#a6540d9e4f3ce8e6f0f1cecdc0be227fa" title="G4VMscModel::GetEnergy" alt="" coords="359,209,556,237"/>
+<area shape="rect" id="node19" href="$d7/d2c/classG4ParticleChangeForMSC.html#ab9fc294e979f3289b1ff49d41b4ad47a" title="G4ParticleChangeForMSC\l::ProposeMomentumDirection" alt="" coords="347,677,568,721"/>
+<area shape="rect" id="node20" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="377,383,537,427"/>
+<area shape="rect" id="node24" href="$d4/da8/classG4UrbanMscModel.html#a0988760a00bea4847a2f979a50dcde34" title="G4UrbanMscModel::SampleCosine\lTheta" alt="" coords="331,745,584,789"/>
+<area shape="rect" id="node47" href="$d4/da8/classG4UrbanMscModel.html#a2337d39294ce0873f977c8e35f8fe4d0" title="G4UrbanMscModel::SampleDisplacement" alt="" coords="647,1072,948,1100"/>
+<area shape="rect" id="node49" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="1029,1124,1211,1152"/>
+<area shape="rect" id="node50" href="$d4/da8/classG4UrbanMscModel.html#a0c6b720d734615cb865904dd11274cf9" title="G4UrbanMscModel::SampleDisplacementNew" alt="" coords="632,1020,963,1048"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1320,752,1496,780"/>
+<area shape="rect" id="node6" href="$da/d80/classG4VEnergyLossProcess.html#ac2cecb3f65cdc118fcc1ee1cd7137a24" title="G4VEnergyLossProcess\l::GetDEDX" alt="" coords="709,5,886,49"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="720,73,875,117"/>
+<area shape="rect" id="node7" href="$da/d80/classG4VEnergyLossProcess.html#abfc0f724a5e8ccd023a9fa690a7089a0" title="G4VEnergyLossProcess\l::DefineMaterial" alt="" coords="1031,193,1209,237"/>
+<area shape="rect" id="node10" href="$da/d80/classG4VEnergyLossProcess.html#a9fec025382461486444b59455ffd545f" title="G4VEnergyLossProcess\l::GetDEDXForScaledEnergy" alt="" coords="1017,5,1223,49"/>
+<area shape="rect" id="node8" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1322,253,1494,297"/>
+<area shape="rect" id="node9" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1322,323,1494,367"/>
+<area shape="rect" id="node13" href="$da/d80/classG4VEnergyLossProcess.html#a22baffa62856b62728f723a2d453b120" title="G4VEnergyLossProcess\l::GetKineticEnergy" alt="" coords="709,141,886,185"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="707,209,887,237"/>
+<area shape="rect" id="node14" href="$da/d80/classG4VEnergyLossProcess.html#a02917771d37d5aac0111e136cdd85bcc" title="G4VEnergyLossProcess\l::ScaledKinEnergyForLoss" alt="" coords="1023,125,1217,169"/>
+<area shape="rect" id="node15" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="1313,160,1503,188"/>
+<area shape="rect" id="node16" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="1319,108,1497,136"/>
+<area shape="rect" id="node17" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="1587,108,1777,136"/>
+<area shape="rect" id="node21" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="713,417,882,445"/>
+<area shape="rect" id="node22" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="713,313,882,341"/>
+<area shape="rect" id="node23" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="713,365,881,393"/>
+<area shape="rect" id="node25" href="$d4/da8/classG4UrbanMscModel.html#a46ebb17112651a07d81263e2f9d071e7" title="G4UrbanMscModel::Compute\lTheta0" alt="" coords="688,745,907,789"/>
+<area shape="rect" id="node26" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1087,952,1153,980"/>
+<area shape="rect" id="node30" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1088,877,1152,905"/>
+<area shape="rect" id="node36" href="$d5/de4/classG4Material.html#a5884a0a3a2bf398a87fb9248f025d351" title="G4Material::GetRadlen" alt="" coords="710,641,885,669"/>
+<area shape="rect" id="node37" href="$d0/d99/classG4VMscModel.html#a4298553cd22ecee18e8759613725187b" title="G4VMscModel::GetTransport\lMeanFreePath" alt="" coords="691,521,904,565"/>
+<area shape="rect" id="node46" href="$d4/da8/classG4UrbanMscModel.html#aa0a6d0d0e5fdc7d4ef1704b24cb221ea" title="G4UrbanMscModel::SimpleScattering" alt="" coords="661,916,933,944"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1325,1012,1491,1040"/>
+<area shape="rect" id="node29" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1313,960,1503,988"/>
+<area shape="rect" id="node28" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1588,1012,1776,1040"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1312,908,1504,936"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1312,804,1504,832"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1288,856,1528,884"/>
+<area shape="rect" id="node34" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1588,831,1776,859"/>
+<area shape="rect" id="node35" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1588,883,1776,911"/>
+<area shape="rect" id="node38" href="$d3/dc1/classG4VEmModel.html#ab685a0c198165ce12cb7da76ae466596" title="G4VEmModel::CurrentCouple" alt="" coords="1011,529,1229,557"/>
+<area shape="rect" id="node39" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="1016,581,1224,625"/>
+<area shape="rect" id="node40" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="1290,512,1526,540"/>
+<area shape="rect" id="node41" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1331,564,1485,608"/>
+<area shape="rect" id="node42" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="1293,632,1523,676"/>
+<area shape="rect" id="node43" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1277,700,1539,728"/>
+<area shape="rect" id="node44" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="1298,392,1518,436"/>
+<area shape="rect" id="node45" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="1315,460,1501,488"/>
+<area shape="rect" id="node48" href="$d6/dfd/EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="1092,1072,1148,1100"/>
+</map>

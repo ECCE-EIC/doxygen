@@ -1,0 +1,51 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/geometry/magneticfield/include/G4MagIntegratorStepper.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/geometry/magneticfield/include/G4MagIntegratorStepper.hh">
+<area shape="rect" id="node2" href="$da/d4d/LaserDrivenBeamLine_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/hadrontherapy\l/src/LaserDrivenBeamLine.cc" alt="" coords="2391,501,2610,577"/>
+<area shape="rect" id="node3" href="$d9/db2/DMXDetectorConstruction_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/underground\l_physics/src/DMXDetectorConstruction.cc" alt="" coords="699,377,1001,453"/>
+<area shape="rect" id="node4" href="$da/dd4/G4MonopoleFieldSetup_8cc.html" title="Implementation of the G4MonopoleFieldSetup class." alt="" coords="1025,377,1323,453"/>
+<area shape="rect" id="node5" href="$d6/db5/ExUCNDetectorConstruction_8cc.html" title="Implementation of the ExUCNDetectorConstruction class." alt="" coords="1347,377,1636,453"/>
+<area shape="rect" id="node6" href="$d6/dcf/F01FieldSetup_8cc.html" title="Implementation of the F01FieldSetup class." alt="" coords="4884,377,5064,453"/>
+<area shape="rect" id="node7" href="$dc/d0a/F02ElectricFieldSetup_8cc.html" title="Implementation of the F02ElectricFieldSetup class." alt="" coords="3405,501,3621,577"/>
+<area shape="rect" id="node8" href="$d1/d2a/F03FieldSetup_8cc.html" title="Implementation of the F03FieldSetup class." alt="" coords="2671,377,2851,453"/>
+<area shape="rect" id="node9" href="$d4/da1/F04GlobalField_8hh.html" title="Definition of the F04GlobalField class." alt="" coords="372,377,573,453"/>
+<area shape="rect" id="node17" href="$d7/d3a/F05DetectorConstruction_8cc.html" title="Implementation of the F05DetectorConstruction class." alt="" coords="1660,377,1899,453"/>
+<area shape="rect" id="node18" href="$df/da9/F06DetectorConstruction_8cc.html" title="Implementation of the F06DetectorConstruction class." alt="" coords="1923,377,2161,453"/>
+<area shape="rect" id="node19" href="$df/dcb/G4ErrorPropagatorManager_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/error_propagation/src\l/G4ErrorPropagatorManager.cc" alt="" coords="2103,501,2333,577"/>
+<area shape="rect" id="node20" href="$d1/dc3/G4VIntegrationDriver_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4VIntegrationDriver.hh" alt="" coords="2632,129,2876,205"/>
+<area shape="rect" id="node24" href="$d0/d90/G4MagIntegratorDriver_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4MagIntegratorDriver.hh" alt="" coords="2389,377,2647,453"/>
+<area shape="rect" id="node26" href="$d4/dd7/G4ChordFinder_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4ChordFinder.hh" alt="" coords="1828,253,2029,329"/>
+<area shape="rect" id="node30" href="$d4/dd5/G4BogackiShampine23_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4BogackiShampine23.hh" alt="" coords="3853,253,4113,329"/>
+<area shape="rect" id="node33" href="$d4/d82/G4BogackiShampine45_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4BogackiShampine45.hh" alt="" coords="4137,253,4397,329"/>
+<area shape="rect" id="node35" href="$d4/d11/G4CashKarpRKF45_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4CashKarpRKF45.hh" alt="" coords="3601,253,3829,329"/>
+<area shape="rect" id="node37" href="$d6/d84/G4MagErrorStepper_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4MagErrorStepper.hh" alt="" coords="3781,129,4015,205"/>
+<area shape="rect" id="node38" href="$d0/d92/G4DoLoMcPriRK34_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4DoLoMcPriRK34.hh" alt="" coords="4039,129,4266,205"/>
+<area shape="rect" id="node39" href="$de/dd7/G4DormandPrince745_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4DormandPrince745.hh" alt="" coords="4713,253,4963,329"/>
+<area shape="rect" id="node40" href="$d6/d73/G4DormandPrinceRK56_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4DormandPrinceRK56.hh" alt="" coords="4492,129,4752,205"/>
+<area shape="rect" id="node41" href="$d4/d53/G4DormandPrinceRK78_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4DormandPrinceRK78.hh" alt="" coords="4776,129,5036,205"/>
+<area shape="rect" id="node42" href="$d3/d32/G4ExactHelixStepper_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4ExactHelixStepper.hh" alt="" coords="5369,253,5613,329"/>
+<area shape="rect" id="node43" href="$d6/dab/G4MagHelicalStepper_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4MagHelicalStepper.hh" alt="" coords="5109,129,5356,205"/>
+<area shape="rect" id="node44" href="$de/d44/G4NystromRK4_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4NystromRK4.hh" alt="" coords="4988,253,5192,329"/>
+<area shape="rect" id="node45" href="$dd/d1e/G4RK547FEq1_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4RK547FEq1.hh" alt="" coords="5380,129,5579,205"/>
+<area shape="rect" id="node46" href="$d7/d78/G4RK547FEq2_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4RK547FEq2.hh" alt="" coords="5603,129,5801,205"/>
+<area shape="rect" id="node47" href="$dc/d2e/G4RK547FEq3_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4RK547FEq3.hh" alt="" coords="5825,129,6024,205"/>
+<area shape="rect" id="node48" href="$d0/d6d/G4RKG3__Stepper_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4RKG3_Stepper.hh" alt="" coords="3308,253,3525,329"/>
+<area shape="rect" id="node49" href="$df/de0/G4TsitourasRK45_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4TsitourasRK45.hh" alt="" coords="4422,253,4638,329"/>
+<area shape="rect" id="node50" href="$d4/db0/G4MagIntegratorStepper_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/src/G4MagIntegratorStepper.cc" alt="" coords="6048,129,6284,205"/>
+<area shape="rect" id="node10" href="$df/d03/F04SimpleSolenoid_8hh.html" title="Definition of the F04SimpleSolenoid class." alt="" coords="535,501,767,577"/>
+<area shape="rect" id="node11" href="$d0/def/F04DetectorConstruction_8cc.html" title="Implementation of the F04DetectorConstruction class." alt="" coords="225,625,464,701"/>
+<area shape="rect" id="node12" href="$d5/d4e/F04FocusSolenoid_8cc.html" title="Implementation of the F04FocusSolenoid class." alt="" coords="489,625,681,701"/>
+<area shape="rect" id="node13" href="$df/d17/F04GlobalField_8cc.html" title="Implementation of the F04GlobalField class." alt="" coords="929,625,1109,701"/>
+<area shape="rect" id="node14" href="$d6/dc0/F04SimpleSolenoid_8cc.html" title="Implementation of the F04SimpleSolenoid class." alt="" coords="705,625,905,701"/>
+<area shape="rect" id="node15" href="$d4/d3b/F04ElementField_8cc.html" title="Implementation of the F04ElementField class." alt="" coords="5,501,188,577"/>
+<area shape="rect" id="node16" href="$d4/dba/F04FieldMessenger_8cc.html" title="Implementation of the F04FieldMessenger class." alt="" coords="212,501,411,577"/>
+<area shape="rect" id="node21" href="$d3/d29/G4BFieldIntegrationDriver_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4BFieldIntegrationDriver.hh" alt="" coords="2956,253,3232,329"/>
+<area shape="rect" id="node22" href="$d6/d4c/G4RKIntegrationDriver_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4RKIntegrationDriver.hh" alt="" coords="2393,253,2646,329"/>
+<area shape="rect" id="node23" href="$d1/d4b/G4ChordFinderDelegate_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/include/G4ChordFinderDelegate.hh" alt="" coords="2105,253,2369,329"/>
+<area shape="rect" id="node29" href="$df/d8e/G4VIntegrationDriver_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/src/G4VIntegrationDriver.cc" alt="" coords="2720,253,2932,329"/>
+<area shape="rect" id="node25" href="$d6/d61/G4BlineTracer_8cc.html" title="Implementation of the G4BlineTracer class." alt="" coords="2634,501,2839,577"/>
+<area shape="rect" id="node27" href="$d8/d06/CCalDetectorConstruction_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/composite_calorimeter\l/src/CCalDetectorConstruction.cc" alt="" coords="3222,377,3475,453"/>
+<area shape="rect" id="node28" href="$d9/d60/PurgMagDetectorConstruction_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/examples\l/advanced/purging_magnet\l/src/PurgMagDetectorConstruction.cc" alt="" coords="2875,377,3147,453"/>
+<area shape="rect" id="node31" href="$d6/df4/G4BogackiShampine23_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/src/G4BogackiShampine23.cc" alt="" coords="4025,377,4253,453"/>
+<area shape="rect" id="node32" href="$d4/d3f/G4HelixMixedStepper_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/src/G4HelixMixedStepper.cc" alt="" coords="4529,377,4744,453"/>
+<area shape="rect" id="node34" href="$d0/dd2/G4BogackiShampine45_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/src/G4BogackiShampine45.cc" alt="" coords="4277,377,4505,453"/>
+<area shape="rect" id="node36" href="$d0/d5a/G4CashKarpRKF45_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/magneticfield\l/src/G4CashKarpRKF45.cc" alt="" coords="3703,377,3899,453"/>
+</map>

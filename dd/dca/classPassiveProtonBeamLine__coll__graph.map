@@ -1,0 +1,43 @@
+<map id="PassiveProtonBeamLine" name="PassiveProtonBeamLine">
+<area shape="rect" id="node45" href="$d5/d6b/classPassiveProtonBeamLineMessenger.html" title="PassiveProtonBeamLineMessenger" alt="" coords="4292,385,4548,413"/>
+<area shape="rect" id="node2" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="3389,779,3613,807"/>
+<area shape="rect" id="node4" href="$d6/dfb/classG4VUserParallelWorld.html" title="G4VUserParallelWorld" alt="" coords="2391,959,2559,987"/>
+<area shape="rect" id="node20" href="$dd/d73/classHadrontherapyDetectorROGeometry.html" title="HadrontherapyDetectorROGeometry" alt="" coords="2824,1330,3092,1358"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="5,1253,85,1281"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="1107,693,1202,721"/>
+<area shape="rect" id="node23" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="1113,1545,1196,1573"/>
+<area shape="rect" id="node24" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="1885,1897,2024,1925"/>
+<area shape="rect" id="node26" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="1069,2009,1240,2037"/>
+<area shape="rect" id="node30" href="$d9/d11/classG4UserLimits.html" title="G4UserLimits" alt="" coords="1491,2181,1603,2209"/>
+<area shape="rect" id="node31" href="$d1/d35/classG4Region.html" title="G4Region" alt="" coords="2915,2250,3001,2278"/>
+<area shape="rect" id="node32" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="2398,2077,2553,2105"/>
+<area shape="rect" id="node37" href="$d2/d5e/classHadrontherapyModulator.html" title="HadrontherapyModulator" alt="" coords="2862,927,3054,955"/>
+<area shape="rect" id="node40" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="1889,393,2020,421"/>
+<area shape="rect" id="node48" href="$dc/d6d/classHadrontherapyLet.html" title="HadrontherapyLet" alt="" coords="1475,1089,1619,1117"/>
+<area shape="rect" id="node49" href="$d1/d58/classHadrontherapyMatrix.html" title="HadrontherapyMatrix" alt="" coords="1072,1181,1237,1209"/>
+<area shape="rect" id="node50" href="$db/d78/classHadrontherapyDetectorSD.html" title="HadrontherapyDetectorSD" alt="" coords="1447,2325,1647,2353"/>
+<area shape="rect" id="node7" href="$d2/d52/classG4SandiaTable.html" title="G4SandiaTable" alt="" coords="1485,466,1608,494"/>
+<area shape="rect" id="node14" href="$d6/d69/classG4IonisParamMat.html" title="G4IonisParamMat" alt="" coords="1477,705,1617,733"/>
+<area shape="rect" id="node28" href="$d5/db4/classG4LVData.html" title="G4LVData" alt="" coords="1503,1775,1590,1803"/>
+<area shape="rect" id="node46" href="$db/df7/classHadrontherapyDetectorConstruction.html" title="HadrontherapyDetectorConstruction" alt="" coords="3368,1286,3635,1314"/>
+<area shape="rect" id="node9" href="$d9/d56/classG4OrderedTable.html" title="G4OrderedTable" alt="" coords="1089,379,1220,407"/>
+<area shape="rect" id="node11" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="640,761,839,789"/>
+<area shape="rect" id="node15" title="STL class." alt="" coords="673,641,805,669"/>
+<area shape="rect" id="node16" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="1483,1675,1610,1703"/>
+<area shape="rect" id="node19" href="$da/daf/classG4Colour.html" title="G4Colour" alt="" coords="1112,1678,1197,1706"/>
+<area shape="rect" id="node21" href="$d0/d5a/classG4Box.html" title="G4Box" alt="" coords="2442,1477,2509,1505"/>
+<area shape="rect" id="node22" href="$df/d71/classG4CSGSolid.html" title="G4CSGSolid" alt="" coords="1904,1221,2005,1249"/>
+<area shape="rect" id="node44" href="$d0/d28/classG4Tubs.html" title="G4Tubs" alt="" coords="2439,1011,2511,1039"/>
+<area shape="rect" id="node25" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="1463,2077,1631,2105"/>
+<area shape="rect" id="node27" href="$d0/dcf/classG4SmartVoxelHeader.html" title="G4SmartVoxelHeader" alt="" coords="1463,1895,1631,1923"/>
+<area shape="rect" id="node29" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="1089,1950,1221,1978"/>
+<area shape="rect" id="node33" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="1910,1673,1999,1701"/>
+<area shape="rect" id="node34" href="$dd/d65/classCLHEP_1_1HepRotation.html" title="CLHEP::HepRotation" alt="" coords="1468,1419,1625,1447"/>
+<area shape="rect" id="node36" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="2399,1415,2552,1443"/>
+<area shape="rect" id="node39" href="$d8/de0/classHadrontherapyModulatorMessenger.html" title="HadrontherapyModulatorMessenger" alt="" coords="2343,563,2608,591"/>
+<area shape="rect" id="node38" title="STL class." alt="" coords="2422,766,2529,794"/>
+<area shape="rect" id="node47" href="$d9/dd8/classHadrontherapyDetectorMessenger.html" title="HadrontherapyDetectorMessenger" alt="" coords="2347,643,2603,671"/>
+<area shape="rect" id="node41" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="1489,531,1604,559"/>
+<area shape="rect" id="node42" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="1873,537,2036,565"/>
+<area shape="rect" id="node43" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html" title="G4UIcmdWithADoubleAndUnit" alt="" coords="1841,191,2068,219"/>
+</map>

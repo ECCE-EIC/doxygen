@@ -1,0 +1,27 @@
+var G4RTJpegCoderTables_8hh =
+[
+    [ "AcDhtLength", "d0/df0/G4RTJpegCoderTables_8hh.html#acee8dd625f24128f02227078e808d3c0", null ],
+    [ "CAcCodeT", "d0/df0/G4RTJpegCoderTables_8hh.html#a69aa0cc4e07632670c7c5aefa7ddf702", null ],
+    [ "CAcDht", "d0/df0/G4RTJpegCoderTables_8hh.html#a96525267fbb191a4e7d34cd53e849b63", null ],
+    [ "CAcHuffmanT", "d0/df0/G4RTJpegCoderTables_8hh.html#a2acbe76035f718fca3b846ca43480c35", null ],
+    [ "CAcSizeT", "d0/df0/G4RTJpegCoderTables_8hh.html#aa2f78dcea6e9215b84475280ed61e0d0", null ],
+    [ "CDcCodeT", "d0/df0/G4RTJpegCoderTables_8hh.html#a9f98647c71b73ae2e2b787009b4c1611", null ],
+    [ "CDcDht", "d0/df0/G4RTJpegCoderTables_8hh.html#a991bf24ea7e6bf241d9045d3eec2d677", null ],
+    [ "CDcHuffmanT", "d0/df0/G4RTJpegCoderTables_8hh.html#a039c8d83595565e848a68cf7f0873444", null ],
+    [ "CDcSizeT", "d0/df0/G4RTJpegCoderTables_8hh.html#aeaaf59e82425fd5b0823448d41fac906", null ],
+    [ "CEOBidx", "d0/df0/G4RTJpegCoderTables_8hh.html#a76f0a77e415f38fa7e81a6367cdf057d", null ],
+    [ "CQuantumT", "d0/df0/G4RTJpegCoderTables_8hh.html#a918e41d7fd321c20b10ee64ef1a43fbc", null ],
+    [ "CZRLidx", "d0/df0/G4RTJpegCoderTables_8hh.html#a843cc298231874f0a51bae56c1067150", null ],
+    [ "DcDhtLength", "d0/df0/G4RTJpegCoderTables_8hh.html#a8234dbe1c10fd7a1a08f727783d5acc3", null ],
+    [ "YAcCodeT", "d0/df0/G4RTJpegCoderTables_8hh.html#a046f1c8ac96afc9592b2cc3c22cc641e", null ],
+    [ "YAcDht", "d0/df0/G4RTJpegCoderTables_8hh.html#a4cee6be7852a92100c1a4609c5b7abe6", null ],
+    [ "YAcHuffmanT", "d0/df0/G4RTJpegCoderTables_8hh.html#ab1da08c56ac39d7dfcd432f1c40b98c4", null ],
+    [ "YAcSizeT", "d0/df0/G4RTJpegCoderTables_8hh.html#a02a986c4ed5b15afc6104f07642c7381", null ],
+    [ "YDcCodeT", "d0/df0/G4RTJpegCoderTables_8hh.html#ae90fae8e7e57b9fbf6759547cfa18e8c", null ],
+    [ "YDcDht", "d0/df0/G4RTJpegCoderTables_8hh.html#aeb9888c7d1addc85936793034b7ba494", null ],
+    [ "YDcHuffmanT", "d0/df0/G4RTJpegCoderTables_8hh.html#abef14b20603826eedea835ea208f32a3", null ],
+    [ "YDcSizeT", "d0/df0/G4RTJpegCoderTables_8hh.html#a1ebae56c14917e0dff65cf7bad5b45c6", null ],
+    [ "YEOBidx", "d0/df0/G4RTJpegCoderTables_8hh.html#a53c7fddef7d7295a87837055bdd2dc1f", null ],
+    [ "YQuantumT", "d0/df0/G4RTJpegCoderTables_8hh.html#abc8c44584278b3add0bfc86b560cce6c", null ],
+    [ "YZRLidx", "d0/df0/G4RTJpegCoderTables_8hh.html#a5d55ae73f735f6b9e31bc2567308e74b", null ]
+];

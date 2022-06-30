@@ -1,0 +1,35 @@
+<map id="G4tgrIsotope::G4tgrIsotope" name="G4tgrIsotope::G4tgrIsotope">
+<area shape="rect" id="node2" href="$d1/dc7/classG4tgrUtils.html#a6b48247c57566386a9969b3b67c45918" title="G4tgrUtils::CheckWLsize" alt="" coords="449,109,636,137"/>
+<area shape="rect" id="node7" href="$d1/dc7/classG4tgrUtils.html#acdba90678f1c5958b45b386d41304d93" title="G4tgrUtils::GetDouble" alt="" coords="457,504,628,532"/>
+<area shape="rect" id="node8" href="$d1/dda/classG4tgrMessenger.html#a554edbbce90ae4c6fcc85cdb6a711608" title="G4tgrMessenger::GetVerbose\lLevel" alt="" coords="971,924,1191,968"/>
+<area shape="rect" id="node32" href="$d1/dc7/classG4tgrUtils.html#aba5bb48fa7c69979447d52bec89b8cc9" title="G4tgrUtils::GetInt" alt="" coords="260,452,401,480"/>
+<area shape="rect" id="node34" href="$d1/dc7/classG4tgrUtils.html#a2e54369d7d45c2e1f8c2f1fd804b9268" title="G4tgrUtils::GetString" alt="" coords="461,772,624,800"/>
+<area shape="rect" id="node3" href="$d1/dc7/classG4tgrUtils.html#a904e12faef6a013c7c2b950f304298ee" title="G4tgrUtils::CheckListSize" alt="" coords="708,5,899,33"/>
+<area shape="rect" id="node4" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="684,161,923,189"/>
+<area shape="rect" id="node5" href="$d1/dc7/classG4tgrUtils.html#a6ce4693fe75abd32c451db2a1767dc9d" title="G4tgrUtils::DumpVS" alt="" coords="725,57,882,85"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1799,335,1905,363"/>
+<area shape="rect" id="node9" href="$d1/dc7/classG4tgrUtils.html#a0e52f564ae4e844c1a046c8a25333f30" title="G4tgrUtils::IsNumber" alt="" coords="999,265,1163,293"/>
+<area shape="rect" id="node10" href="$d3/d15/classG4tgrParameterMgr.html#afc0a6409be6d0fc1de83082f79fd1ab9" title="G4tgrParameterMgr::\lGetInstance" alt="" coords="722,729,885,773"/>
+<area shape="rect" id="node12" href="$d3/d15/classG4tgrParameterMgr.html#ae05b964d99f66a9f0617118fbe738bb5" title="G4tgrParameterMgr::\lFindParameter" alt="" coords="722,797,885,841"/>
+<area shape="rect" id="node14" href="$d1/dc7/classG4tgrUtils.html#aad8a4ef92243ed064c340d95e8dcdbba" title="G4tgrUtils::IsFunction" alt="" coords="720,369,887,397"/>
+<area shape="rect" id="node15" href="$d1/dc7/classG4tgrUtils.html#aead7796772e67a48f8f9c01af3f20462" title="G4tgrUtils::WordIsUnit" alt="" coords="717,265,889,293"/>
+<area shape="rect" id="node16" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="693,473,913,501"/>
+<area shape="rect" id="node27" href="$d5/df7/classHepTool_1_1Evaluator.html#a7dc9b53ee92056ac4b3b34302c91c865" title="HepTool::Evaluator\l::evaluate" alt="" coords="729,525,878,569"/>
+<area shape="rect" id="node28" href="$d5/df7/classHepTool_1_1Evaluator.html#ae7260e78df579a539d083e038ae62100" title="HepTool::Evaluator\l::status" alt="" coords="729,593,878,637"/>
+<area shape="rect" id="node29" href="$de/d90/classG4tgrEvaluator.html#aa1a0a657b8d85e28a9ba60721cb6ad1f" title="G4tgrEvaluator::print\l_error" alt="" coords="721,661,886,705"/>
+<area shape="rect" id="node11" href="$d3/d15/classG4tgrParameterMgr.html#a00a378f19c64e6d69d98556ad0ae96e8" title="G4tgrParameterMgr::\lG4tgrParameterMgr" alt="" coords="999,733,1162,777"/>
+<area shape="rect" id="node13" href="$d3/d15/classG4tgrParameterMgr.html#a69d1a1d8e0406b0561986970b290c2ea" title="G4tgrParameterMgr::\lDumpList" alt="" coords="999,856,1162,900"/>
+<area shape="rect" id="node17" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="980,597,1181,641"/>
+<area shape="rect" id="node22" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1039,480,1122,508"/>
+<area shape="rect" id="node18" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1241,668,1453,712"/>
+<area shape="rect" id="node20" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1741,620,1963,648"/>
+<area shape="rect" id="node19" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1503,668,1693,712"/>
+<area shape="rect" id="node21" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1749,676,1955,704"/>
+<area shape="rect" id="node23" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1239,548,1455,592"/>
+<area shape="rect" id="node24" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1241,412,1453,456"/>
+<area shape="rect" id="node25" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1241,480,1452,524"/>
+<area shape="rect" id="node26" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1514,480,1682,524"/>
+<area shape="rect" id="node30" href="$d5/df7/classHepTool_1_1Evaluator.html#a71d40eedb07fbf64deb7991f3aaa43ef" title="HepTool::Evaluator\l::print_error" alt="" coords="1006,665,1155,709"/>
+<area shape="rect" id="node31" href="$d5/df7/classHepTool_1_1Evaluator.html#a45e1f0240b875e851e8c455503df7df9" title="HepTool::Evaluator\l::error_name" alt="" coords="1272,736,1421,780"/>
+<area shape="rect" id="node33" href="$d1/dc7/classG4tgrUtils.html#a7bc7889bfd5847f9c3f6916dd22f9ce3" title="G4tgrUtils::IsInteger" alt="" coords="463,452,622,480"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="G4AffineTransform::NetRotation" name="G4AffineTransform::NetRotation">
+<area shape="rect" id="node2" href="$d0/dc1/classG4ScaledSolid.html#a11ff46862aea3edb67df4ff1f65a3605" title="G4ScaledSolid::Calculate\lExtent" alt="" coords="224,5,415,49"/>
+<area shape="rect" id="node3" href="$d7/d0d/classG4DrawVoxels.html#a07b8e2dc1a9f0e6f3b0ef7d1fab5d90c" title="G4DrawVoxels::DrawVoxels" alt="" coords="217,73,422,101"/>
+<area shape="rect" id="node4" href="$d6/d86/classG4ErrorCylSurfaceTarget.html#ac314337543940477e259bfb777dd30a0" title="G4ErrorCylSurfaceTarget\l::Dump" alt="" coords="225,125,413,169"/>
+<area shape="rect" id="node8" href="$d5/dfb/classG4DisplacedSolid.html#ac3b0efeab81a6f75bb7a7f9ad2d37652" title="G4DisplacedSolid::GetFrame\lRotation" alt="" coords="212,193,427,237"/>
+<area shape="rect" id="node9" href="$d1/d32/classG4VIntersectionLocator.html#a08e2a86ce19149efb2912df0f1f400d7" title="G4VIntersectionLocator\l::GetGlobalSurfaceNormal" alt="" coords="221,261,418,305"/>
+<area shape="rect" id="node14" href="$d5/dfb/classG4DisplacedSolid.html#a71b35cc74a6d35e6026fd50f564dc9c9" title="G4DisplacedSolid::GetObject\lRotation" alt="" coords="211,329,428,373"/>
+<area shape="rect" id="node19" href="$d2/dc3/classG4TouchableHistory.html#a29331af87bc78505561a15da1c14c578" title="G4TouchableHistory\l::GetRotation" alt="" coords="241,397,398,441"/>
+<area shape="rect" id="node23" href="$d3/d4d/classExN04CalorimeterSD.html#a1ae3d814c2d70e2ad2eeb2b7be9b9e7e" title="ExN04CalorimeterSD\l::ProcessHits" alt="" coords="237,465,401,509"/>
+<area shape="rect" id="node24" href="$d4/da1/classRE05CalorimeterSD.html#a45a69a1cac1ca04eecbb6e19e352a772" title="RE05CalorimeterSD::\lProcessHits" alt="" coords="238,533,401,577"/>
+<area shape="rect" id="node25" href="$de/d73/classPar01CalorimeterSD.html#a5738aec66aacf1be8949474bda15df79" title="Par01CalorimeterSD\l::ProcessHits" alt="" coords="240,601,399,645"/>
+<area shape="rect" id="node26" href="$d8/d60/classB5EmCalorimeterSD.html#ad790015a624983b40ee104b778008fcf" title="B5EmCalorimeterSD::\lProcessHits" alt="" coords="235,669,403,713"/>
+<area shape="rect" id="node27" href="$d9/d62/classRE01CalorimeterSD.html#abb430d5f1858e2174144f03ea91da267" title="RE01CalorimeterSD::\lProcessHits" alt="" coords="238,737,401,781"/>
+<area shape="rect" id="node28" href="$d5/dfb/classG4DisplacedSolid.html#aa6df36c7444ea0f7962b3ba1541e1711" title="G4DisplacedSolid::StreamInfo" alt="" coords="208,805,431,833"/>
+<area shape="rect" id="node5" href="$d6/d86/classG4ErrorCylSurfaceTarget.html#aabf45ae7447feefa4e5939276069f0ec" title="G4ErrorCylSurfaceTarget\l::G4ErrorCylSurfaceTarget" alt="" coords="502,20,699,64"/>
+<area shape="rect" id="node6" href="$d6/d86/classG4ErrorCylSurfaceTarget.html#a7293ac54893422ffc651de6760296593" title="G4ErrorCylSurfaceTarget\l::GetDistanceFromPoint" alt="" coords="803,80,991,124"/>
+<area shape="rect" id="node7" href="$d6/d86/classG4ErrorCylSurfaceTarget.html#a6b24f5b84cecf4ed55b4223fadc56b18" title="G4ErrorCylSurfaceTarget\l::IntersectLocal" alt="" coords="507,140,695,184"/>
+<area shape="rect" id="node10" href="$d1/d32/classG4VIntersectionLocator.html#ac919cf89122bb2627513e9a1488335a0" title="G4VIntersectionLocator\l::AdjustmentOfFoundIntersection" alt="" coords="479,260,723,304"/>
+<area shape="rect" id="node11" href="$db/d11/classG4BrentLocator.html#ae709b2a77e1e439b05c9d3a42b7068c7" title="G4BrentLocator::Estimate\lIntersectionPoint" alt="" coords="799,148,994,192"/>
+<area shape="rect" id="node12" href="$d0/db2/classG4MultiLevelLocator.html#a350e1a71216e1ed1f144be582c0c8428" title="G4MultiLevelLocator\l::EstimateIntersectionPoint" alt="" coords="795,216,999,260"/>
+<area shape="rect" id="node13" href="$dc/d68/classG4SimpleLocator.html#a72c7eec6ba41bf0e2f3a0b4606729e21" title="G4SimpleLocator::Estimate\lIntersectionPoint" alt="" coords="794,284,999,328"/>
+<area shape="rect" id="node15" href="$d5/dfb/classG4DisplacedSolid.html#a9984d323c1d27e4c9b86d93a20242621" title="G4DisplacedSolid::Create\lPolyhedron" alt="" coords="504,332,697,376"/>
+<area shape="rect" id="node16" href="$d5/dfb/classG4DisplacedSolid.html#a93948567dd03bb1a4be0ddee6de8aa11" title="G4DisplacedSolid::GetPolyhedron" alt="" coords="773,352,1021,380"/>
+<area shape="rect" id="node17" href="$d9/df1/classG4MultiUnion.html#abe11c3ec8181b21b7286e2fe062c2a9e" title="G4MultiUnion::CreatePolyhedron" alt="" coords="1071,352,1312,380"/>
+<area shape="rect" id="node18" href="$d9/df1/classG4MultiUnion.html#a67ed9ee49fc371001e347e254cb7c76f" title="G4MultiUnion::GetPolyhedron" alt="" coords="1360,352,1581,380"/>
+<area shape="rect" id="node20" href="$d1/d4c/classG4Channeling.html#a5532932d7c11a1ebd4d906c7b1a517ad" title="G4Channeling::PosToLattice" alt="" coords="496,455,705,483"/>
+<area shape="rect" id="node21" href="$d1/d4c/classG4Channeling.html#a725cd9cf581c9aec0b2d0e5064cd0605" title="G4Channeling::UpdateParameters" alt="" coords="771,404,1023,432"/>
+<area shape="rect" id="node22" href="$d1/d4c/classG4Channeling.html#aa2a4e6a5c067d5c9df5ea12d6953fb7a" title="G4Channeling::PostStepDoIt" alt="" coords="1085,456,1298,484"/>
+</map>

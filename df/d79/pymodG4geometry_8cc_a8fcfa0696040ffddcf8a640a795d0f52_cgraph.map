@@ -1,0 +1,22 @@
+<map id="export_G4BooleanSolid" name="export_G4BooleanSolid">
+<area shape="rect" id="node2" href="$d2/d25/classG4BooleanSolid.html#adc2b87dd051e5e394a69feaee056ed5c" title="G4BooleanSolid::GetAreaAccuracy" alt="" coords="232,5,487,33"/>
+<area shape="rect" id="node3" href="$d2/d25/classG4BooleanSolid.html#a9497b1306e546e99d487f03425160c22" title="G4BooleanSolid::GetAreaStatistics" alt="" coords="232,57,487,85"/>
+<area shape="rect" id="node4" href="$d2/d25/classG4BooleanSolid.html#af29d708b15aad393dd888b0004f4883a" title="G4BooleanSolid::GetCubVol\lEpsilon" alt="" coords="255,109,463,153"/>
+<area shape="rect" id="node5" href="$d2/d25/classG4BooleanSolid.html#ac56d669feb88cdc80dee5318cf29dd91" title="G4BooleanSolid::GetCubVol\lStatistics" alt="" coords="255,177,463,221"/>
+<area shape="rect" id="node6" href="$d2/d25/classG4BooleanSolid.html#a41518d530f636688429900bedee114be" title="G4BooleanSolid::GetPoint\lOnSurface" alt="" coords="261,245,457,289"/>
+<area shape="rect" id="node18" href="$d2/d25/classG4BooleanSolid.html#aecdaf9381f4c3406b74938f2147ba5f4" title="G4BooleanSolid::SetAreaAccuracy" alt="" coords="233,313,485,341"/>
+<area shape="rect" id="node19" href="$d2/d25/classG4BooleanSolid.html#a4b3d941d85d1c377a144e7f9170e2b72" title="G4BooleanSolid::SetAreaStatistics" alt="" coords="233,365,485,393"/>
+<area shape="rect" id="node20" href="$d2/d25/classG4BooleanSolid.html#a4908a626961875561af5204f2265e086" title="G4BooleanSolid::SetCubVol\lEpsilon" alt="" coords="256,417,463,461"/>
+<area shape="rect" id="node21" href="$d2/d25/classG4BooleanSolid.html#abe81e3d89d9282cdd2659ffc039efeb0" title="G4BooleanSolid::SetCubVol\lStatistics" alt="" coords="256,485,463,529"/>
+<area shape="rect" id="node7" href="$d2/d25/classG4BooleanSolid.html#a666e9c7aca6114b21b631f629f0a2ac4" title="G4BooleanSolid::GetListOf\lPrimitives" alt="" coords="535,108,736,152"/>
+<area shape="rect" id="node9" href="$d4/d14/G4QuickRand_8hh.html#a308c613707c48bab0df7deaf165da73a" title="G4QuickRand" alt="" coords="579,176,692,204"/>
+<area shape="rect" id="node10" href="$da/d34/classG4VSolid.html#a65ec466e3542e3a700b4dc70937a2c47" title="G4VSolid::Inside" alt="" coords="569,228,701,256"/>
+<area shape="rect" id="node11" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="594,280,677,308"/>
+<area shape="rect" id="node16" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="557,332,713,360"/>
+<area shape="rect" id="node17" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="582,384,689,412"/>
+<area shape="rect" id="node8" href="$da/d34/classG4VSolid.html#af419b3fdb051e4d07ebdb0aa63fd0941" title="G4VSolid::GetEntityType" alt="" coords="799,116,985,144"/>
+<area shape="rect" id="node12" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="784,204,1000,248"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="787,272,997,316"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="786,340,998,384"/>
+<area shape="rect" id="node14" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1048,272,1216,316"/>
+</map>

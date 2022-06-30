@@ -1,0 +1,15 @@
+<map id="G4RunManager::AbortEvent" name="G4RunManager::AbortEvent">
+<area shape="rect" id="node2" href="$da/d44/classG4EventManager.html#a72c4cb963466f84b805b2c0a56ba4d2c" title="G4EventManager::AbortCurrent\lEvent" alt="" coords="264,103,499,147"/>
+<area shape="rect" id="node10" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="272,171,491,215"/>
+<area shape="rect" id="node11" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="280,239,483,283"/>
+<area shape="rect" id="node14" href="$d5/de2/classG4Event.html#aa07d1a55cc240c5eccc65656668465d4" title="G4Event::SetEventAborted" alt="" coords="280,307,483,335"/>
+<area shape="rect" id="node3" href="$d1/d93/classG4StackManager.html#a5ee965d4fab8e714c8a758519a31494a" title="G4StackManager::clear" alt="" coords="586,81,766,109"/>
+<area shape="rect" id="node8" href="$dd/d71/classG4TrackingManager.html#adc1a7e6b4d5ce0127ecce68d76f75632" title="G4TrackingManager::\lEventAborted" alt="" coords="594,133,758,177"/>
+<area shape="rect" id="node4" href="$d1/d93/classG4StackManager.html#a833b0bf1a8a92b1360e59fba61960b06" title="G4StackManager::ClearUrgent\lStack" alt="" coords="855,5,1082,49"/>
+<area shape="rect" id="node7" href="$d1/d93/classG4StackManager.html#af84516e55b6c5819ddde1f6311726a0e" title="G4StackManager::ClearWaiting\lStack" alt="" coords="853,73,1084,117"/>
+<area shape="rect" id="node5" href="$df/dd3/classG4TrackStack.html#a25935ffde741c820dfdc133471e3ab25" title="G4TrackStack::clearAndDestroy" alt="" coords="1132,48,1367,76"/>
+<area shape="rect" id="node6" href="$d8/deb/comparison__ascii_8C.html#a8802af9a869c2efe00b067a8fabb31b5" title="clear" alt="" coords="1415,48,1471,76"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a0a9a76ea090ffed99910bb848b113380" title="G4Track::SetTrackStatus" alt="" coords="876,141,1061,169"/>
+<area shape="rect" id="node12" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="547,247,805,275"/>
+<area shape="rect" id="node13" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="898,247,1039,275"/>
+</map>

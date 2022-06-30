@@ -1,0 +1,42 @@
+<map id="G4ITDecay" name="G4ITDecay">
+<area shape="rect" id="node2" href="$de/d02/classG4NuclearDecay.html" title="G4NuclearDecay" alt="" coords="2828,689,2963,717"/>
+<area shape="rect" id="node3" href="$df/d2d/classG4VDecayChannel.html" title="G4VDecayChannel" alt="" coords="2447,161,2593,189"/>
+<area shape="rect" id="node4" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="695,403,849,431"/>
+<area shape="rect" id="node5" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="1479,755,1631,783"/>
+<area shape="rect" id="node6" href="$d9/d8c/classG4ProcessManagerMessenger.html" title="G4ProcessManagerMessenger" alt="" coords="2407,690,2633,718"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="2017,431,2143,459"/>
+<area shape="rect" id="node15" href="$db/d05/classG4ParticleMessenger.html" title="G4ParticleMessenger" alt="" coords="2438,385,2602,413"/>
+<area shape="rect" id="node17" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="1048,490,1165,518"/>
+<area shape="rect" id="node7" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="1039,786,1174,814"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="706,786,838,814"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="1467,363,1643,407"/>
+<area shape="rect" id="node11" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="357,607,437,635"/>
+<area shape="rect" id="node14" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="879,642,975,670"/>
+<area shape="rect" id="node28" href="$db/dff/classG4LevelManager.html" title="G4LevelManager" alt="" coords="1487,1218,1623,1246"/>
+<area shape="rect" id="node41" href="$d6/d60/classG4LevelReader.html" title="G4LevelReader" alt="" coords="2833,1745,2957,1773"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="47,607,137,635"/>
+<area shape="rect" id="node16" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="331,11,463,39"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="2003,753,2157,781"/>
+<area shape="rect" id="node23" href="$df/d18/classG4GammaTransition.html" title="G4GammaTransition" alt="" coords="2441,885,2599,913"/>
+<area shape="rect" id="node19" href="$d0/dfe/classG4PhotonEvaporation.html" title="G4PhotonEvaporation" alt="" coords="2811,955,2980,983"/>
+<area shape="rect" id="node20" href="$d2/de3/classG4VEvaporationChannel.html" title="G4VEvaporationChannel" alt="" coords="2427,937,2613,965"/>
+<area shape="rect" id="node21" href="$d6/ddf/classG4NuclearPolarization.html" title="G4NuclearPolarization" alt="" coords="2435,989,2605,1017"/>
+<area shape="rect" id="node24" href="$d3/dab/classG4PolarizationTransition.html" title="G4PolarizationTransition" alt="" coords="1988,921,2172,949"/>
+<area shape="rect" id="node25" href="$d3/d0d/classG4LegendrePolynomial.html" title="G4LegendrePolynomial" alt="" coords="1467,973,1644,1001"/>
+<area shape="rect" id="node26" href="$df/db0/classG4PolynomialPDF.html" title="G4PolynomialPDF" alt="" coords="1485,921,1625,949"/>
+<area shape="rect" id="node40" href="$de/d4e/classG4DataVector.html" title="G4DataVector" alt="" coords="1497,1166,1613,1194"/>
+<area shape="rect" id="node30" href="$d7/da2/classG4NucLevel.html" title="G4NucLevel" alt="" coords="721,1827,823,1855"/>
+<area shape="rect" id="node34" href="$d8/dd6/classG4NuclearLevelData.html" title="G4NuclearLevelData" alt="" coords="2441,1411,2599,1439"/>
+<area shape="rect" id="node35" href="$d1/d89/classG4DeexPrecoParameters.html" title="G4DeexPrecoParameters" alt="" coords="1985,1769,2175,1797"/>
+<area shape="rect" id="node36" href="$dc/ded/classG4DeexParametersMessenger.html" title="G4DeexParametersMessenger" alt="" coords="2407,1807,2633,1835"/>
+<area shape="rect" id="node37" href="$de/dd6/classG4StateManager.html" title="G4StateManager" alt="" coords="1487,1802,1623,1830"/>
+<area shape="rect" id="node39" href="$de/d0f/classG4Pow.html" title="G4Pow" alt="" coords="2046,1217,2114,1245"/>
+<area shape="rect" id="node42" href="$df/d24/classG4ShellCorrection.html" title="G4ShellCorrection" alt="" coords="2009,1411,2151,1439"/>
+<area shape="rect" id="node43" href="$d0/d6c/classG4CameronGilbertShellCorrections.html" title="G4CameronGilbertShellCorrections" alt="" coords="1427,1406,1684,1434"/>
+<area shape="rect" id="node44" href="$dc/d36/classG4CookShellCorrections.html" title="G4CookShellCorrections" alt="" coords="1463,1458,1647,1486"/>
+<area shape="rect" id="node45" href="$d4/d31/classG4CameronShellPlusPairingCorrections.html" title="G4CameronShellPlusPairing\lCorrections" alt="" coords="1451,1270,1659,1314"/>
+<area shape="rect" id="node46" href="$d3/d43/classG4CameronTruranHilfShellCorrections.html" title="G4CameronTruranHilfShell\lCorrections" alt="" coords="1455,1338,1655,1382"/>
+<area shape="rect" id="node47" href="$d9/d50/classG4PairingCorrection.html" title="G4PairingCorrection" alt="" coords="2002,1505,2158,1533"/>
+<area shape="rect" id="node48" href="$d0/db2/classG4CookPairingCorrections.html" title="G4CookPairingCorrections" alt="" coords="1457,1510,1654,1538"/>
+<area shape="rect" id="node49" href="$db/d1f/classG4CameronGilbertPairingCorrections.html" title="G4CameronGilbertPairingCorrections" alt="" coords="1420,1562,1691,1590"/>
+</map>

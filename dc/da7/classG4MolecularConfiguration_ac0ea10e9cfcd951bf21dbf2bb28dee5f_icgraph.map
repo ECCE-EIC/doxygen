@@ -1,0 +1,29 @@
+<map id="G4MolecularConfiguration::GetName" name="G4MolecularConfiguration::GetName">
+<area shape="rect" id="node2" href="$db/d6f/classG4MoleculeCounter.html#ab6a9f16ae3f39480a72867d92e3d009c" title="G4MoleculeCounter::\lAddAMoleculeAtTime" alt="" coords="289,105,455,149"/>
+<area shape="rect" id="node3" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a4f7164d4cfacbeee2e7035cd3fec7a01" title="G4DNAMolecularReactionTable\l::CanReactWith" alt="" coords="257,225,487,269"/>
+<area shape="rect" id="node5" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a5ecdc8d41743350c38d64a5137f79594" title="G4DNAMolecularReactionTable\l::PrintTable" alt="" coords="553,141,783,185"/>
+<area shape="rect" id="node10" href="$d6/d77/classG4DNAMoleculeEncounterStepper.html#a02c01f3da36f32e6a8c9913e04caae6c" title="G4DNAMoleculeEncounterStepper\l::CheckAndRecordResults" alt="" coords="541,261,795,305"/>
+<area shape="rect" id="node11" href="$d9/d66/classG4Molecule.html#af42666e07f5f1e12f08879099e580eb6" title="G4Molecule::GetName" alt="" coords="285,485,459,513"/>
+<area shape="rect" id="node19" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a78eca13463c763d50fe8e58275169c1f" title="G4DNAMolecularReactionTable\l::GetReactionData" alt="" coords="257,789,487,833"/>
+<area shape="rect" id="node25" href="$d4/dbd/classG4DNAMolecularReactionTable.html#a9c044d1b2d0a6a0d54b3452ffd8e0304" title="G4DNAMolecularReactionTable\l::GetReativesNData" alt="" coords="257,857,487,901"/>
+<area shape="rect" id="node26" href="$db/d6f/classG4MoleculeCounter.html#ac1fbcca291d82cb777007049ac9947fd" title="G4MoleculeCounter::\lRemoveAMoleculeAtTime" alt="" coords="275,925,469,969"/>
+<area shape="rect" id="node27" href="$db/d4a/classScoreSpecies.html#ae9ef020c78efa9544cec5bd4d57e0ac1" title="ScoreSpecies::WriteWithAnalysis\lManager" alt="" coords="251,1057,493,1101"/>
+<area shape="rect" id="node4" href="$d6/d77/classG4DNAMoleculeEncounterStepper.html#a869114b03c041ed5f2f41497ba1f9414" title="G4DNAMoleculeEncounterStepper\l::CalculateStep" alt="" coords="843,277,1096,321"/>
+<area shape="rect" id="node6" href="$d3/df8/classG4EmDNAChemistry.html#a4a45667455f7021fa5b81c27ea5e7ad9" title="G4EmDNAChemistry::Construct\lTimeStepModel" alt="" coords="852,5,1087,49"/>
+<area shape="rect" id="node7" href="$d6/d81/classG4EmDNAChemistry__option1.html#affeb2e6346ea65d2cf353e74984070b0" title="G4EmDNAChemistry_option1\l::ConstructTimeStepModel" alt="" coords="860,73,1079,117"/>
+<area shape="rect" id="node8" href="$df/dbe/classG4EmDNAChemistry__option2.html#aac564eb445b99ba7d33a892df4b730fa" title="G4EmDNAChemistry_option2\l::ConstructTimeStepModel" alt="" coords="860,141,1079,185"/>
+<area shape="rect" id="node9" href="$d9/d62/classG4ReactionTableMessenger.html#a5a2960a67f4640a088f891afeb54b994" title="G4ReactionTableMessenger\l::SetNewValue" alt="" coords="865,209,1073,253"/>
+<area shape="rect" id="node12" href="$de/db2/classRun.html#a376bc24abd0f5da8f977e72ba5f63bb1" title="Run::MoleculeCountNeuron" alt="" coords="565,381,771,409"/>
+<area shape="rect" id="node13" href="$db/dca/classG4DNABrownianTransportation.html#a720ab1aeb7278a2a9984649099765c1c" title="G4DNABrownianTransportation\l::ComputeStep" alt="" coords="553,433,783,477"/>
+<area shape="rect" id="node14" href="$db/dca/classG4DNABrownianTransportation.html#abd6d18e7b7f483e4659e6b46bd67003f" title="G4DNABrownianTransportation\l::PostStepDoIt" alt="" coords="553,501,783,545"/>
+<area shape="rect" id="node15" href="$db/dca/classG4DNABrownianTransportation.html#a309d8e0d7e495acfe2457975b2f40253" title="G4DNABrownianTransportation\l::Diffusion" alt="" coords="553,569,783,613"/>
+<area shape="rect" id="node17" href="$df/da7/classG4DNASecondOrderReaction.html#ae389eede1677c6fdb47252e707819c96" title="G4DNASecondOrderReaction\l::PostStepDoIt" alt="" coords="560,637,776,681"/>
+<area shape="rect" id="node18" href="$d3/d7d/classG4DNAIndirectHit.html#a21ec651d4a3bfcfabcbbd7da3f2dd99c" title="G4DNAIndirectHit::Print" alt="" coords="578,705,758,733"/>
+<area shape="rect" id="node16" href="$db/dca/classG4DNABrownianTransportation.html#a19f09181e66367c59a8f0291b0a43bc8" title="G4DNABrownianTransportation\l::AlongStepDoIt" alt="" coords="854,569,1085,613"/>
+<area shape="rect" id="node20" href="$d4/dbd/classG4DNAMolecularReactionTable.html#ae71fd1f58016e9268d1cfff418e6f9da" title="G4DNAMolecularReactionTable\l::GetReactionData" alt="" coords="553,757,783,801"/>
+<area shape="rect" id="node21" href="$d1/dab/classG4DNASmoluchowskiReactionModel.html#a94709a7270c3d87c124f0e4f8e7d51bf" title="G4DNASmoluchowskiReaction\lModel::GetReactionRadius" alt="" coords="556,825,780,869"/>
+<area shape="rect" id="node22" href="$d1/dab/classG4DNASmoluchowskiReactionModel.html#aa0d7a4abb6da394aecdcdea44140a311" title="G4DNASmoluchowskiReaction\lModel::Initialise" alt="" coords="556,893,780,937"/>
+<area shape="rect" id="node23" href="$d1/dab/classG4DNASmoluchowskiReactionModel.html#aa2196e138f8863d4768e5f666be13ff7" title="G4DNASmoluchowskiReaction\lModel::InitialiseToPrint" alt="" coords="556,961,780,1005"/>
+<area shape="rect" id="node24" href="$d2/d3e/classG4DNAMolecularReaction.html#a23f3fb65dda60110e05ec1dc15a5def4" title="G4DNAMolecularReaction\l::MakeReaction" alt="" coords="571,1029,765,1073"/>
+<area shape="rect" id="node28" href="$db/d4a/classScoreSpecies.html#aef0e2beef0f1cfa39ea61155f50e1161" title="ScoreSpecies::OutputAndClear" alt="" coords="553,1097,783,1125"/>
+</map>

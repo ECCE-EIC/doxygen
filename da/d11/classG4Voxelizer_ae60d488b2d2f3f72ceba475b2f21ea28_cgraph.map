@@ -1,0 +1,48 @@
+<map id="G4Voxelizer::Voxelize" name="G4Voxelizer::Voxelize">
+<area shape="rect" id="node2" href="$da/d11/classG4Voxelizer.html#ab1070eebc8105e321a5fb70ffb6f4938" title="G4Voxelizer::BuildBitmasks" alt="" coords="233,271,439,299"/>
+<area shape="rect" id="node8" href="$da/d11/classG4Voxelizer.html#aa1162671f72a9419570fdb8d9baa4dc4" title="G4Voxelizer::BuildBoundaries" alt="" coords="225,65,447,93"/>
+<area shape="rect" id="node12" href="$da/d11/classG4Voxelizer.html#a8b0459b9f06dca959ec385330e87e915" title="G4Voxelizer::BuildBoundingBox" alt="" coords="219,375,453,403"/>
+<area shape="rect" id="node13" href="$da/d11/classG4Voxelizer.html#ac06d22ea7dbd02b86ac4a607a56b65e9" title="G4Voxelizer::BuildEmpty" alt="" coords="242,452,430,480"/>
+<area shape="rect" id="node30" href="$da/d11/classG4Voxelizer.html#a7da3eb62f8b53eddf4c19ba37df831b2" title="G4Voxelizer::BuildVoxelLimits" alt="" coords="225,905,447,933"/>
+<area shape="rect" id="node3" href="$da/d11/classG4Voxelizer.html#ad39f6181335950f7868dda665bdf7b08" title="G4Voxelizer::BinarySearch" alt="" coords="779,444,979,472"/>
+<area shape="rect" id="node4" href="$d5/d5c/classG4SurfBits.html#a79e34584992b25f90c2d48aa0a9d2063" title="G4SurfBits::Clear" alt="" coords="541,348,679,376"/>
+<area shape="rect" id="node5" href="$da/d11/classG4Voxelizer.html#a98616c59487456d3405dfbc91aa43da3" title="G4Voxelizer::GetBitsPerSlice" alt="" coords="504,125,716,153"/>
+<area shape="rect" id="node6" href="$d5/d5c/classG4SurfBits.html#a92b1d2859c18ec73ad9e6fa4fc43544c" title="G4SurfBits::SetBitNumber" alt="" coords="780,392,977,420"/>
+<area shape="rect" id="node7" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a99ec8bdeeed620746dce4790b2bb51a4" title="G4INCL::CrossSections\l::total" alt="" coords="523,177,697,221"/>
+<area shape="rect" id="node9" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="555,5,665,33"/>
+<area shape="rect" id="node11" href="$da/d11/classG4Voxelizer.html#ae2099cf869bede22c48926c6bae92751" title="G4Voxelizer::CreateSorted\lBoundary" alt="" coords="511,57,709,101"/>
+<area shape="rect" id="node10" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="791,5,967,33"/>
+<area shape="rect" id="node14" href="$da/d11/classG4Voxelizer.html#ab22043b12c3a23137e8ea6e2b808278f" title="G4Voxelizer::GetCandidates\lVoxelArray" alt="" coords="505,608,715,652"/>
+<area shape="rect" id="node27" href="$da/d11/classG4Voxelizer.html#a139681ec3c6d92ea0ce4cdb988856cb7" title="G4Voxelizer::GetVoxelsIndex" alt="" coords="503,504,717,532"/>
+<area shape="rect" id="node28" href="$d5/d5c/classG4SurfBits.html#a587383d4ed9a3c1dd6421030c6867790" title="G4SurfBits::ResetAllBits" alt="" coords="519,556,701,584"/>
+<area shape="rect" id="node29" href="$d5/d5c/classG4SurfBits.html#a908634a45a652af082bf91c7a811d0d5" title="G4SurfBits::ResetBitNumber" alt="" coords="503,400,717,428"/>
+<area shape="rect" id="node15" href="$da/d11/classG4Voxelizer.html#a27e7cdee978a02ab26c4cca2d96efb9b" title="G4Voxelizer::FindComponents\lFastest" alt="" coords="767,496,991,540"/>
+<area shape="rect" id="node16" href="$dc/dcd/comparison_8C.html#a30a746d8b737f146df29ccc815b4256f" title="for" alt="" coords="858,564,899,592"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="794,616,963,644"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="794,668,963,696"/>
+<area shape="rect" id="node26" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="795,720,963,748"/>
+<area shape="rect" id="node17" href="$dd/d39/Mat__map__surface__plot_8C.html#a948d7eca16772f67f65719a26b781210" title="Fill the histograms for each surfaces." alt="" coords="1127,591,1166,619"/>
+<area shape="rect" id="node23" href="$d8/deb/comparison__ascii_8C.html#a4a11864230b63635e309652a913fa532" title="GetEntry" alt="" coords="1106,539,1187,567"/>
+<area shape="rect" id="node18" href="$dd/d39/Mat__map__surface__plot_8C.html#aad7292287254a5e9ead58fe39e7897fd" title="Initialise the histograms for each surface." alt="" coords="1331,565,1442,593"/>
+<area shape="rect" id="node19" href="$db/db6/materialPlotHelper_8cpp.html#abe4b5d67dc107aab5dc1fb726c001377" title="Initialise the information on each surface." alt="" coords="1331,669,1442,697"/>
+<area shape="rect" id="node20" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="1580,643,1625,671"/>
+<area shape="rect" id="node21" href="$db/db6/materialPlotHelper_8cpp.html#ad35c4c48197906845ea00a2405e54ef2" title="Parse the surface map json file to associate the surface name to each id." alt="" coords="1341,513,1433,541"/>
+<area shape="rect" id="node22" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5961446010dfc494e0c247b4e9026977" title="helper to access iterator member functions in range&#45;based for" alt="" coords="1519,505,1687,549"/>
+<area shape="rect" id="node31" href="$da/d34/classG4VSolid.html#a718b8861427073a5d150ec01a766d874" title="G4VSolid::BoundingLimits" alt="" coords="511,1099,709,1127"/>
+<area shape="rect" id="node37" href="$da/d34/classG4VSolid.html#af419b3fdb051e4d07ebdb0aa63fd0941" title="G4VSolid::GetEntityType" alt="" coords="785,1047,972,1075"/>
+<area shape="rect" id="node39" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="787,995,970,1023"/>
+<area shape="rect" id="node40" href="$dd/de6/classHepGeom_1_1Transform3D.html#a78a4ec4b997f225178675c41c1f42e55" title="HepGeom::Transform3D\l::getDecomposition" alt="" coords="518,808,702,852"/>
+<area shape="rect" id="node41" href="$dd/d9a/classG4Orb.html#a2249a6e2d10952c77ba9cb3da7e1ee26" title="G4Orb::GetRadialTolerance" alt="" coords="508,876,712,904"/>
+<area shape="rect" id="node42" href="$dd/de6/classHepGeom_1_1Transform3D.html#acf0f3b9071ecc92563358e7a55b2eeea" title="HepGeom::Transform3D\l::getTranslation" alt="" coords="518,928,702,972"/>
+<area shape="rect" id="node43" href="$da/d11/classG4Voxelizer.html#a181d46bcd0001ed84da14af036a83e0d" title="G4Voxelizer::TransformLimits" alt="" coords="501,756,719,784"/>
+<area shape="rect" id="node32" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="837,1151,920,1179"/>
+<area shape="rect" id="node38" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="825,1099,932,1127"/>
+<area shape="rect" id="node33" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1039,1211,1255,1255"/>
+<area shape="rect" id="node34" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1041,1075,1253,1119"/>
+<area shape="rect" id="node35" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1041,1143,1252,1187"/>
+<area shape="rect" id="node36" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1303,1143,1471,1187"/>
+<area shape="rect" id="node44" href="$da/d11/classG4Voxelizer.html#a343d65bfe56d1cc13c3d37f3a98a57b7" title="G4Voxelizer::GetGlobalPoint" alt="" coords="773,824,985,852"/>
+<area shape="rect" id="node45" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="783,876,974,904"/>
+<area shape="rect" id="node46" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="783,928,974,956"/>
+<area shape="rect" id="node47" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="783,772,974,800"/>
+</map>

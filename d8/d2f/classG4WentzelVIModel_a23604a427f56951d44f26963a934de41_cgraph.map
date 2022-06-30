@@ -1,0 +1,23 @@
+<map id="G4WentzelVIModel::ComputeTransportXSectionPerVolume" name="G4WentzelVIModel::ComputeTransportXSectionPerVolume">
+<area shape="rect" id="node2" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a11958fe677bc697f48384d3adf7d0b99" title="G4WentzelOKandVIxSection\l::ComputeElectronCrossSection" alt="" coords="286,5,519,49"/>
+<area shape="rect" id="node3" href="$d9/d5f/classG4WentzelOKandVIxSection.html#abb62954416a85723fa52ac1808d77efb" title="G4WentzelOKandVIxSection\l::ComputeNuclearCrossSection" alt="" coords="287,73,518,117"/>
+<area shape="rect" id="node4" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a9565be2959d8c3549e6e6cfb1962c252" title="G4WentzelOKandVIxSection\l::ComputeTransportCrossSection\lPerAtom" alt="" coords="282,141,523,201"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="289,225,517,253"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="272,277,533,305"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="288,329,517,373"/>
+<area shape="rect" id="node16" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a00593ce3c58366b18ea5e42251f3e654" title="G4WentzelOKandVIxSection\l::SetupTarget" alt="" coords="297,397,508,441"/>
+<area shape="rect" id="node5" href="$d5/d91/hadronic_2Hadr06_2plot2_8C.html#a01cd4161c39d4c1c1b10b998920288e7" title="fb" alt="" coords="684,105,723,133"/>
+<area shape="rect" id="node6" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="671,157,735,185"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="626,209,781,253"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="897,105,1089,133"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="897,157,1089,185"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="873,209,1113,237"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1161,184,1349,212"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1161,236,1349,264"/>
+<area shape="rect" id="node17" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a37c71a61c37f399bb4cc1f575162f957" title="G4WentzelOKandVIxSection\l::ComputeMaxElectronScattering" alt="" coords="581,303,825,347"/>
+<area shape="rect" id="node18" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="601,371,806,415"/>
+<area shape="rect" id="node20" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a031c21558a93bdab8a9e5985fdad9a6a" title="G4WentzelOKandVIxSection\l::SetTargetMass" alt="" coords="598,439,809,483"/>
+<area shape="rect" id="node21" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="653,507,754,535"/>
+<area shape="rect" id="node19" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="908,371,1079,415"/>
+<area shape="rect" id="node22" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="943,507,1044,535"/>
+</map>

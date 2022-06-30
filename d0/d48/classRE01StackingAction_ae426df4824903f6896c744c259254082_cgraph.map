@@ -1,0 +1,24 @@
+<map id="RE01StackingAction::NewStage" name="RE01StackingAction::NewStage">
+<area shape="rect" id="node2" href="$d5/d58/classG4THitsCollection.html#a1a6ce9c7c9c1cb45c96e7551e28c5b63" title="G4THitsCollection::\lentries" alt="" coords="247,128,398,172"/>
+<area shape="rect" id="node3" href="$d0/d48/classRE01StackingAction.html#adfa5452304127c5fe8026a26c410628b" title="RE01StackingAction\l::GetCalCollection" alt="" coords="245,196,401,240"/>
+<area shape="rect" id="node13" href="$d1/d93/classG4StackManager.html#a565d5ca6564fa0040dd467b5c5887c58" title="G4StackManager::GetNUrgent\lTrack" alt="" coords="209,325,436,369"/>
+<area shape="rect" id="node15" href="$d1/d93/classG4StackManager.html#a25dd80909e1efe32e4b5891bb6714ee7" title="G4StackManager::Transfer\lOneStackedTrack" alt="" coords="222,411,423,455"/>
+<area shape="rect" id="node20" href="$d1/d93/classG4StackManager.html#ae12564f62e1d6e897b64ad99381460b5" title="G4StackManager::Transfer\lStackedTracks" alt="" coords="222,585,423,629"/>
+<area shape="rect" id="node4" href="$d9/d6b/classG4SDManager.html#a9b1b726ac4340092a45f16aea25b241e" title="G4SDManager::GetCollectionID" alt="" coords="490,5,722,33"/>
+<area shape="rect" id="node7" href="$d4/daa/classG4RunManager.html#ad169a9d8a8e67bc76716fcb09185247d" title="G4RunManager::GetCurrent\lEvent" alt="" coords="501,57,711,101"/>
+<area shape="rect" id="node8" href="$d7/db4/classG4HCofThisEvent.html#a3c69c3568faa219a214e3d892325f992" title="G4HCofThisEvent::GetHC" alt="" coords="510,125,702,153"/>
+<area shape="rect" id="node9" href="$d5/de2/classG4Event.html#af216440baba19b50643a7c38dafd0af7" title="G4Event::GetHCofThisEvent" alt="" coords="500,177,712,205"/>
+<area shape="rect" id="node10" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="484,229,728,257"/>
+<area shape="rect" id="node11" href="$d9/d6b/classG4SDManager.html#a08beb9db9dbec2cae46d06717f6369f7" title="G4SDManager::GetSDMpointer" alt="" coords="491,281,721,309"/>
+<area shape="rect" id="node5" href="$de/dd7/classG4HCtable.html#abb4b13f5c296512f00406935f619435c" title="G4HCtable::GetCollectionID" alt="" coords="785,5,993,33"/>
+<area shape="rect" id="node6" href="$d5/d72/classG4String.html#acf651813ef2b99ae348f378717100d6c" title="G4String::index" alt="" coords="1049,5,1176,33"/>
+<area shape="rect" id="node12" href="$d9/d6b/classG4SDManager.html#a56303fb2a382670fba72f15beff2834c" title="G4SDManager::G4SDManager" alt="" coords="776,281,1001,309"/>
+<area shape="rect" id="node14" href="$df/dd3/classG4TrackStack.html#ab96bb4cb1c994c0409565d797d036bf6" title="G4TrackStack::GetNTrack" alt="" coords="510,333,702,361"/>
+<area shape="rect" id="node16" href="$df/d31/classG4StackedTrack.html#ae41a76cd0972864425106d892e2d86cb" title="G4StackedTrack::GetTrack" alt="" coords="507,385,705,413"/>
+<area shape="rect" id="node17" href="$df/d31/classG4StackedTrack.html#a1f7058fa7849142ba6495105f6ff00a2" title="G4StackedTrack::GetTrajectory" alt="" coords="491,437,721,465"/>
+<area shape="rect" id="node18" href="$df/dd3/classG4TrackStack.html#aed5885ad54aae2c0666754aac1a78786" title="G4TrackStack::PopFromStack" alt="" coords="497,489,715,517"/>
+<area shape="rect" id="node19" href="$df/dd3/classG4TrackStack.html#a179fd4c2bd5e101ed96ddc24eb55b83d" title="G4TrackStack::PushToStack" alt="" coords="503,541,709,569"/>
+<area shape="rect" id="node21" href="$df/dd3/classG4TrackStack.html#a25935ffde741c820dfdc133471e3ab25" title="G4TrackStack::clearAndDestroy" alt="" coords="489,593,723,621"/>
+<area shape="rect" id="node23" href="$df/dd3/classG4TrackStack.html#a787705bc344a74d83b27becb098c0c91" title="G4TrackStack::TransferTo" alt="" coords="511,645,701,673"/>
+<area shape="rect" id="node22" href="$d8/deb/comparison__ascii_8C.html#a8802af9a869c2efe00b067a8fabb31b5" title="clear" alt="" coords="861,619,917,647"/>
+</map>

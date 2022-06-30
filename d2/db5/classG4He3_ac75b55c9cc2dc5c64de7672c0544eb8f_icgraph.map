@@ -1,0 +1,51 @@
+<map id="G4He3::He3Definition" name="G4He3::He3Definition">
+<area shape="rect" id="node2" href="$d3/d46/classG4IonConstructor.html#a2dcb8c57b28c77b2d52c74a2c3dd31a3" title="G4IonConstructor::Construct\lLightIons" alt="" coords="230,925,445,969"/>
+<area shape="rect" id="node6" href="$de/d1d/classGammaKnifeParticles.html#abdcbefce2959e072d239b17f39560643" title="GammaKnifeParticles\l::ConstructParticle" alt="" coords="805,5,971,49"/>
+<area shape="rect" id="node44" href="$da/da1/classGammaRayTelParticles.html#a5afdb760c111fce90b0c98b2745b1817" title="GammaRayTelParticles\l::ConstructParticle" alt="" coords="250,993,425,1037"/>
+<area shape="rect" id="node45" href="$d4/d72/classG4ExcitationHandler.html#a84a27cd468b41140bdb91c38b5a7d58b" title="G4ExcitationHandler\l::G4ExcitationHandler" alt="" coords="252,1061,423,1105"/>
+<area shape="rect" id="node46" href="$d0/d72/classG4BinaryCascade.html#ac6740a26f61044bc41fa2d0871a098d4" title="G4BinaryCascade::HighEnergy\lModelFSProducts" alt="" coords="223,1517,452,1561"/>
+<area shape="rect" id="node3" href="$d3/d46/classG4IonConstructor.html#abbb8e711607437137f447c5046b9fbb0" title="G4IonConstructor::Construct\lParticle" alt="" coords="502,925,717,969"/>
+<area shape="rect" id="node4" href="$df/d95/classEICPhysicsList.html#a21f647e804de94e5391a97f525e89944" title="EICPhysicsList::Construct\lParticle" alt="" coords="793,73,983,117"/>
+<area shape="rect" id="node5" href="$de/d20/classParticles.html#aed880c43efffcdd5dfe505f18ae506ce" title="Particles::ConstructParticle" alt="" coords="787,141,989,169"/>
+<area shape="rect" id="node7" href="$dc/dd9/classHadrontherapyParticles.html#a9648fdebb8c5e1f6db8d29f5f9f508dc" title="HadrontherapyParticles\l::ConstructParticle" alt="" coords="798,193,978,237"/>
+<area shape="rect" id="node8" href="$de/d5e/classDMXPhysicsList.html#af33852a50fb79566eed27bb0683f3174" title="DMXPhysicsList::Construct\lMyHadrons" alt="" coords="788,261,988,305"/>
+<area shape="rect" id="node10" href="$d8/d26/classXrayFluoPhysicsList.html#af1e34a2dfd3c81c559b0db448de9deb6" title="XrayFluoPhysicsList\l::ConstructParticle" alt="" coords="811,329,965,373"/>
+<area shape="rect" id="node11" href="$d0/d9b/classXrayTelPhysicsList.html#ab489c1350563170db23914c69f51ffda" title="XrayTelPhysicsList\l::ConstructIons" alt="" coords="816,397,960,441"/>
+<area shape="rect" id="node13" href="$d4/d90/classB03PhysicsList.html#a69105ca9dfc6f601562ba7744ced2282" title="B03PhysicsList::Construct\lAllIons" alt="" coords="790,465,986,509"/>
+<area shape="rect" id="node15" href="$db/db6/classG4ChannelingPhysics.html#a1739cc5b63fb552ec3966f1d072701d1" title="G4ChannelingPhysics\l::ConstructParticle" alt="" coords="804,533,972,577"/>
+<area shape="rect" id="node16" href="$d2/d49/classPar02PhysicsList.html#a13d9e219be396b801dadb36b12d64b44" title="Constructs light ions." alt="" coords="771,601,1005,629"/>
+<area shape="rect" id="node18" href="$d9/d5f/classG4DecayPhysics.html#a0853458914af3c40b44fe3d888d31324" title="G4DecayPhysics::Construct\lParticle" alt="" coords="784,653,992,697"/>
+<area shape="rect" id="node19" href="$db/d7c/classG4HadronDElasticPhysics.html#a18fc9e3f4008972b3483c191f2b13133" title="G4HadronDElasticPhysics\l::ConstructParticle" alt="" coords="791,721,985,765"/>
+<area shape="rect" id="node20" href="$d7/d7f/classG4HadronElasticPhysics.html#a3f031f167234450c4275257470213e2e" title="G4HadronElasticPhysics\l::ConstructParticle" alt="" coords="796,789,980,833"/>
+<area shape="rect" id="node21" href="$d4/d65/classG4HadronHElasticPhysics.html#a4aec6dc21cc8dda5e6dcda178a71d0f1" title="G4HadronHElasticPhysics\l::ConstructParticle" alt="" coords="791,857,985,901"/>
+<area shape="rect" id="node22" href="$d8/d83/classG4HadronPhysicsINCLXX.html#a2feb1befcacefc0a3d9901f6d641879f" title="G4HadronPhysicsINCLXX\l::ConstructParticle" alt="" coords="794,925,982,969"/>
+<area shape="rect" id="node23" href="$d8/dbb/classG4HadronPhysicsQGS__BIC.html#a2916eea98d9392252948fa4d35fef4f0" title="G4HadronPhysicsQGS\l_BIC::ConstructParticle" alt="" coords="801,993,975,1037"/>
+<area shape="rect" id="node24" href="$d9/d14/classG4HadronPhysicsQGSP__BERT.html#a1c5656d74f081613e842dacb29d657d5" title="G4HadronPhysicsQGSP\l_BERT::ConstructParticle" alt="" coords="795,1061,981,1105"/>
+<area shape="rect" id="node25" href="$d3/d9f/classG4HadronPhysicsQGSP__BIC.html#ad7b945ea7b74a2971b10a6f5c1f81796" title="G4HadronPhysicsQGSP\l_BIC::ConstructParticle" alt="" coords="799,1129,977,1173"/>
+<area shape="rect" id="node26" href="$d2/df9/classG4HadronPhysicsQGSP__BIC__AllHP.html#af7ce00c5d6e9b16053511dd4e5d49ca7" title="G4HadronPhysicsQGSP\l_BIC_AllHP::ConstructParticle" alt="" coords="779,1197,997,1241"/>
+<area shape="rect" id="node27" href="$d2/d46/classG4HadronPhysicsQGSP__BIC__HP.html#a0fa98e6e1f101c6614799507022a7d15" title="G4HadronPhysicsQGSP\l_BIC_HP::ConstructParticle" alt="" coords="788,1265,988,1309"/>
+<area shape="rect" id="node28" href="$d9/d3e/classG4HadronPhysicsShielding.html#af5502f2cbb8b70079a3b976509d61839" title="G4HadronPhysicsShielding\l::ConstructParticle" alt="" coords="787,1333,989,1377"/>
+<area shape="rect" id="node29" href="$df/deb/classG4HadronPhysicsShieldingLEND.html#adfd4c845b972948c8a12588dc7590ba6" title="G4HadronPhysicsShielding\lLEND::ConstructParticle" alt="" coords="787,1401,989,1445"/>
+<area shape="rect" id="node30" href="$d8/d6e/classG4VHadronPhysics.html#a5d4623ca53f97844cdc053ad4d030013" title="G4VHadronPhysics::Construct\lParticle" alt="" coords="776,1469,1000,1513"/>
+<area shape="rect" id="node31" href="$d9/dfa/classG4IonINCLXXPhysics.html#a7779280bab7e84f1dac72729191935dd" title="G4IonINCLXXPhysics\l::ConstructParticle" alt="" coords="808,1537,968,1581"/>
+<area shape="rect" id="node32" href="$da/dcd/classG4IonPhysics.html#aede2d47b9465ef3b20194c485dbfcac2" title="G4IonPhysics::ConstructParticle" alt="" coords="771,1605,1005,1633"/>
+<area shape="rect" id="node33" href="$df/d98/classG4IonPhysicsPHP.html#ace163b25d8a9947f2f005282149d2691" title="G4IonPhysicsPHP::Construct\lParticle" alt="" coords="782,1657,994,1701"/>
+<area shape="rect" id="node34" href="$d0/da0/classG4IonQMDPhysics.html#abfeb50f3d252d6b4a2bb3db6d692bdb2" title="G4IonQMDPhysics::Construct\lParticle" alt="" coords="779,1725,997,1769"/>
+<area shape="rect" id="node35" href="$d4/d5a/classLBE.html#a030fa338a040c5fc967cc503a3e9ba38" title="LBE::ConstructMyIons" alt="" coords="804,1793,972,1821"/>
+<area shape="rect" id="node37" href="$de/d51/classG4RunManagerKernel.html#a4ccfd717f3627547befc1e9150642d76" title="G4RunManagerKernel\l::SetupPhysics" alt="" coords="804,1845,972,1889"/>
+<area shape="rect" id="node9" href="$de/d5e/classDMXPhysicsList.html#a7cb54df62c3efc03698cc986d8af3c7a" title="DMXPhysicsList::Construct\lParticle" alt="" coords="1061,261,1261,305"/>
+<area shape="rect" id="node12" href="$d0/d9b/classXrayTelPhysicsList.html#a1968e904024068ac6c265a708c1726d1" title="XrayTelPhysicsList\l::ConstructParticle" alt="" coords="1089,397,1234,441"/>
+<area shape="rect" id="node14" href="$d4/d90/classB03PhysicsList.html#a4eba1b1b48c5c42796b2563954e87fb7" title="B03PhysicsList::Construct\lParticle" alt="" coords="1063,465,1259,509"/>
+<area shape="rect" id="node17" href="$d2/d49/classPar02PhysicsList.html#ab6b8e1508d000d4b33efe831a01ac3d6" title="Constructs particles: bosons, leptons, mesons, baryons and ions." alt="" coords="1057,593,1265,637"/>
+<area shape="rect" id="node36" href="$d4/d5a/classLBE.html#a060061f994ecb3f03bb6cc3a046d4eb3" title="LBE::ConstructParticle" alt="" coords="1076,1793,1247,1821"/>
+<area shape="rect" id="node38" href="$de/d51/classG4RunManagerKernel.html#a3bd0dc0862458a35b33fa0912bc1ba16" title="G4RunManagerKernel\l::SetPhysics" alt="" coords="1077,1845,1245,1889"/>
+<area shape="rect" id="node39" href="$d8/db0/classG4ErrorRunManagerHelper.html#ac3fa52e7d5805ff6b4ca87971ad3a975" title="G4ErrorRunManagerHelper\l::InitializePhysics" alt="" coords="1346,1816,1550,1860"/>
+<area shape="rect" id="node43" href="$d4/daa/classG4RunManager.html#a7bf467d11594c2aaabda1c47e49e268e" title="G4RunManager::SetUserInitialization" alt="" coords="1313,1884,1583,1912"/>
+<area shape="rect" id="node40" href="$dd/d88/classG4ErrorPropagatorManager.html#aa0e56394c96f87ecdd15709e9de6c8f7" title="G4ErrorPropagatorManager\l::InitGeant4e" alt="" coords="1631,1816,1837,1860"/>
+<area shape="rect" id="node41" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="1885,1824,1963,1852"/>
+<area shape="rect" id="node42" href="$d9/df8/classPHG4GDMLUtility.html#afcf39153171628039001dd7d5f34ee48" title="same as above but use default Geant functions as much as possible" alt="" coords="2011,1816,2197,1860"/>
+<area shape="rect" id="node47" href="$d0/d72/classG4BinaryCascade.html#a8cb949ade0dc2dbac02d409d159f798f" title="G4BinaryCascade::Propagate" alt="" coords="500,1913,719,1941"/>
+<area shape="rect" id="node48" href="$d0/d72/classG4BinaryCascade.html#a819ef318496ad0fc9ada18470447a6fa" title="G4BinaryCascade::ApplyYourself" alt="" coords="767,1913,1009,1941"/>
+<area shape="rect" id="node49" href="$dd/d18/classG4BinaryLightIonReaction.html#a38327ae889e8e418224d4a9d3b4ac2d1" title="G4BinaryLightIonReaction\l::Interact" alt="" coords="790,1965,986,2009"/>
+<area shape="rect" id="node50" href="$dd/d18/classG4BinaryLightIonReaction.html#a7ebd9d632f36d7cdcab5a07202cb765f" title="G4BinaryLightIonReaction\l::ApplyYourself" alt="" coords="1063,1965,1259,2009"/>
+</map>

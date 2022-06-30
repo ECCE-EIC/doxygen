@@ -1,0 +1,35 @@
+<map id="G4ErrorSurfaceTrajState::BuildErrorMatrix" name="G4ErrorSurfaceTrajState::BuildErrorMatrix">
+<area shape="rect" id="node2" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#aaf2d750066deae48481f6091b8872575" title="HepGeom::BasicVector3D\l::cross" alt="" coords="257,5,453,49"/>
+<area shape="rect" id="node3" href="$dc/d5a/classG4FieldManager.html#a71d03f0660d835e8f7d7f99246fa5ddd" title="G4FieldManager::GetDetector\lField" alt="" coords="243,73,466,117"/>
+<area shape="rect" id="node4" href="$d5/dbb/classG4ErrorTrajState.html#afb342e81536720818479b775289bfdb9" title="G4ErrorTrajState::GetError" alt="" coords="255,141,454,169"/>
+<area shape="rect" id="node5" href="$da/d6d/classG4ErrorPropagatorData.html#a1d48f4cd3176aa55b828dde67158b055" title="G4ErrorPropagatorData\l::GetErrorPropagatorData" alt="" coords="259,193,451,237"/>
+<area shape="rect" id="node7" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="255,261,454,305"/>
+<area shape="rect" id="node8" href="$d6/d64/classG4Field.html#a8af787d2ecf139cb1f630ea7a28e63f8" title="G4Field::GetFieldValue" alt="" coords="268,329,441,357"/>
+<area shape="rect" id="node9" href="$d5/d3e/classG4ErrorFreeTrajParam.html#a7beef185ec4bc6d5a0822274af41a6c2" title="G4ErrorFreeTrajParam\l::GetLambda" alt="" coords="271,381,439,425"/>
+<area shape="rect" id="node10" href="$de/d15/classG4ErrorFreeTrajState.html#a1cef1f52abf1cefb23989ac760bd7d10" title="G4ErrorFreeTrajState\l::GetParameters" alt="" coords="274,449,435,493"/>
+<area shape="rect" id="node11" href="$d5/d3e/classG4ErrorFreeTrajParam.html#aacf2fd22ee9cf04ba85902e03dd50039" title="G4ErrorFreeTrajParam\l::GetPhi" alt="" coords="271,517,439,561"/>
+<area shape="rect" id="node12" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="249,585,461,629"/>
+<area shape="rect" id="node19" href="$d8/d3c/classG4ErrorSurfaceTrajState.html#a41d86951d1135f00f7fe07c140fc7fba" title="G4ErrorSurfaceTrajState\l::GetVectorV" alt="" coords="263,653,447,697"/>
+<area shape="rect" id="node21" href="$d8/d3c/classG4ErrorSurfaceTrajState.html#a5517a04800dd6bcd03efa6cc322141fd" title="G4ErrorSurfaceTrajState\l::GetVectorW" alt="" coords="263,721,447,765"/>
+<area shape="rect" id="node23" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="259,789,450,817"/>
+<area shape="rect" id="node24" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#a517e3824e8931f6d149d21caa574a610" title="HepGeom::BasicVector3D::mag" alt="" coords="237,841,472,869"/>
+<area shape="rect" id="node25" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="332,893,377,921"/>
+<area shape="rect" id="node26" href="$d1/d85/classG4ErrorSymMatrix.html#a6de0f8146826b43ad8b86ae548988f1a" title="G4ErrorSymMatrix::similarity" alt="" coords="246,945,463,973"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="270,997,439,1025"/>
+<area shape="rect" id="node30" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#a0a1be6cd758b74f7d069ef3ba759e2ce" title="HepGeom::BasicVector3D::x" alt="" coords="249,1049,461,1077"/>
+<area shape="rect" id="node31" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="270,1101,439,1129"/>
+<area shape="rect" id="node32" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#ae839ce17881ac166c394b8098572542e" title="HepGeom::BasicVector3D::y" alt="" coords="249,1153,461,1181"/>
+<area shape="rect" id="node33" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="271,1205,439,1233"/>
+<area shape="rect" id="node34" href="$d3/d15/classHepGeom_1_1BasicVector3D.html#a95b6d75cb9fe2b331e3035b5e7501ccd" title="HepGeom::BasicVector3D::z" alt="" coords="249,1257,461,1285"/>
+<area shape="rect" id="node6" href="$da/d6d/classG4ErrorPropagatorData.html#afa3040c5b4b26841b54ca87d16e0ba35" title="G4ErrorPropagatorData\l::G4ErrorPropagatorData" alt="" coords="530,193,717,237"/>
+<area shape="rect" id="node13" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="520,585,727,629"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="835,473,942,501"/>
+<area shape="rect" id="node15" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="791,525,986,569"/>
+<area shape="rect" id="node16" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="812,593,965,621"/>
+<area shape="rect" id="node17" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="803,645,974,673"/>
+<area shape="rect" id="node18" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="775,697,1003,725"/>
+<area shape="rect" id="node20" href="$d4/d80/classG4ErrorSurfaceTrajParam.html#a9a37ed887632c6d78d422660edaf4b66" title="G4ErrorSurfaceTrajParam\l::GetVectorV" alt="" coords="528,653,719,697"/>
+<area shape="rect" id="node22" href="$d4/d80/classG4ErrorSurfaceTrajParam.html#ad650184eaf18fe99b4e2e7277c08c29a" title="G4ErrorSurfaceTrajParam\l::GetVectorW" alt="" coords="528,721,719,765"/>
+<area shape="rect" id="node27" href="$dc/db6/classG4ErrorMatrix.html#a9eff7499776e7515e2766f03786fa19a" title="G4ErrorMatrix::num_row" alt="" coords="530,919,717,947"/>
+<area shape="rect" id="node28" href="$dc/db6/classG4ErrorMatrix.html#acbe8ecfcc36977477d0b6177ce408d1e" title="G4ErrorMatrix::num_col" alt="" coords="533,971,713,999"/>
+</map>

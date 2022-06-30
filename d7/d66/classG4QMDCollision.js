@@ -1,0 +1,26 @@
+var classG4QMDCollision =
+[
+    [ "G4QMDCollision", "d7/d66/classG4QMDCollision.html#ac0e17920e0c26b426505712250bb9259", null ],
+    [ "~G4QMDCollision", "d7/d66/classG4QMDCollision.html#a55e6c01ee8fab50cf9e6ba0be3dd02f5", null ],
+    [ "G4QMDCollision", "d7/d66/classG4QMDCollision.html#a45341231cc0ca24c379122598ee244e7", null ],
+    [ "bcmax0", "d7/d66/classG4QMDCollision.html#a0e4a9b8a23e0505171f87e2b6b894d06", null ],
+    [ "bcmax0", "d7/d66/classG4QMDCollision.html#a83a7b4370585f0e18c2d03493e1d47ca", null ],
+    [ "bcmax1", "d7/d66/classG4QMDCollision.html#a79e7f8c59bdc578169c196573d792f33", null ],
+    [ "bcmax1", "d7/d66/classG4QMDCollision.html#a3ba430a2514ce91f3594fb1873f5b50f", null ],
+    [ "CalFinalStateOfTheBinaryCollision", "d7/d66/classG4QMDCollision.html#abbceec0fe344c3a942e7275ff5762d43", null ],
+    [ "CalFinalStateOfTheBinaryCollisionJQMD", "d7/d66/classG4QMDCollision.html#a2be9c70b36f44caf4dd3a56140fe954c", null ],
+    [ "CalKinematicsOfBinaryCollisions", "d7/d66/classG4QMDCollision.html#a31a085266432d6662e7d73f2e9aafff2", null ],
+    [ "deltar", "d7/d66/classG4QMDCollision.html#a7b0e390c862e400a362f2476a9e4c631", null ],
+    [ "deltar", "d7/d66/classG4QMDCollision.html#a4c17bfca88f0bea130a384e3ab36a72f", null ],
+    [ "epse", "d7/d66/classG4QMDCollision.html#ae054ec5c683ebae7082fe50284c80e78", null ],
+    [ "epse", "d7/d66/classG4QMDCollision.html#aa1f0bcde3863d1bf55d6fb018455bb62", null ],
+    [ "operator=", "d7/d66/classG4QMDCollision.html#a17c8c0d1b073d7839f03bb14f98f3634", null ],
+    [ "SetMeanField", "d7/d66/classG4QMDCollision.html#a0d7b3f5a1d19d32c6cf32bb58be4a666", null ],
+    [ "fbcmax0", "d7/d66/classG4QMDCollision.html#a9b6040e82686c2013e5372be19e2bebc", null ],
+    [ "fbcmax1", "d7/d66/classG4QMDCollision.html#aea39e1c3af9b496059d3a49a30bbd76f", null ],
+    [ "fdeltar", "d7/d66/classG4QMDCollision.html#a4095ddd83f02bc1efd810868d6642f76", null ],
+    [ "fepse", "d7/d66/classG4QMDCollision.html#a248b57e11f8f8e15202b53cb2d9f251a", null ],
+    [ "theMeanField", "d7/d66/classG4QMDCollision.html#a74b2a6a4bc501cf4684250a579e18de5", null ],
+    [ "theScatterer", "d7/d66/classG4QMDCollision.html#ad9e42db0b6912b517ebfdb555e7cd7a1", null ],
+    [ "theSystem", "d7/d66/classG4QMDCollision.html#accb06b59cf8d9b83765e59d25cfb8f5e", null ]
+];

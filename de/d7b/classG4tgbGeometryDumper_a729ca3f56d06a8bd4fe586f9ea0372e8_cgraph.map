@@ -1,0 +1,32 @@
+<map id="G4tgbGeometryDumper::DumpRotationMatrix" name="G4tgbGeometryDumper::DumpRotationMatrix">
+<area shape="rect" id="node2" href="$de/d7b/classG4tgbGeometryDumper.html#a5dc0bc429552d485450574fb92b239b0" title="G4tgbGeometryDumper\l::AddQuotes" alt="" coords="265,5,451,49"/>
+<area shape="rect" id="node3" href="$de/d7b/classG4tgbGeometryDumper.html#aab2c3667e512583d79acebae5965193f" title="G4tgbGeometryDumper\l::approxTo0" alt="" coords="265,73,451,117"/>
+<area shape="rect" id="node9" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="239,141,477,169"/>
+<area shape="rect" id="node10" href="$de/d7b/classG4tgbGeometryDumper.html#a2e8f86af11fdb6e6b088599566799af7" title="G4tgbGeometryDumper\l::LookForExistingRotation" alt="" coords="262,193,454,237"/>
+<area shape="rect" id="node12" href="$de/d7b/classG4tgbGeometryDumper.html#a23cd2d37e9695c90d832d5c8b1ff2328" title="G4tgbGeometryDumper\l::MatDeterminant" alt="" coords="265,261,451,305"/>
+<area shape="rect" id="node14" href="$dd/d65/classCLHEP_1_1HepRotation.html#a4a869590ed3fe24cbcc670c157f59fe1" title="CLHEP::HepRotation\l::phiX" alt="" coords="279,381,437,425"/>
+<area shape="rect" id="node15" href="$dd/d65/classCLHEP_1_1HepRotation.html#a35949d739c75f1b6eed302b9274a9be4" title="CLHEP::HepRotation::yx" alt="" coords="525,360,708,388"/>
+<area shape="rect" id="node16" href="$dd/d65/classCLHEP_1_1HepRotation.html#a68898f035f42307ac02ad6c6123054a6" title="CLHEP::HepRotation::xx" alt="" coords="525,431,708,459"/>
+<area shape="rect" id="node17" href="$dd/d65/classCLHEP_1_1HepRotation.html#a76cff919ffc84bc2ec96e43b4fad2e4e" title="CLHEP::HepRotation\l::phiY" alt="" coords="279,552,437,596"/>
+<area shape="rect" id="node18" href="$dd/d65/classCLHEP_1_1HepRotation.html#a0a9c617c354a8ec029efdc728f51ba6f" title="CLHEP::HepRotation::yy" alt="" coords="525,531,708,559"/>
+<area shape="rect" id="node19" href="$dd/d65/classCLHEP_1_1HepRotation.html#a5c31d93557d9ebf6fb37542cca77cf0b" title="CLHEP::HepRotation::xy" alt="" coords="525,601,708,629"/>
+<area shape="rect" id="node20" href="$dd/d65/classCLHEP_1_1HepRotation.html#ae11480d5bb541bf2a421d071c55444de" title="CLHEP::HepRotation\l::phiZ" alt="" coords="279,723,437,767"/>
+<area shape="rect" id="node21" href="$dd/d65/classCLHEP_1_1HepRotation.html#ad6551b6a9334cd03e17c3f843faa8a35" title="CLHEP::HepRotation::yz" alt="" coords="526,701,707,729"/>
+<area shape="rect" id="node22" href="$dd/d65/classCLHEP_1_1HepRotation.html#a831f6999c24b6b7aed82b76647fe6f25" title="CLHEP::HepRotation::xz" alt="" coords="526,776,707,804"/>
+<area shape="rect" id="node23" href="$dd/d65/classCLHEP_1_1HepRotation.html#ab4dd48a1a63fd390f44b11ad52b15000" title="CLHEP::HepRotation\l::thetaX" alt="" coords="279,1029,437,1073"/>
+<area shape="rect" id="node27" href="$dd/d65/classCLHEP_1_1HepRotation.html#aa7aa78f991faa913e52cb67e9d63375a" title="CLHEP::HepRotation::zx" alt="" coords="526,1129,707,1157"/>
+<area shape="rect" id="node28" href="$dd/d65/classCLHEP_1_1HepRotation.html#ae71c128dd908d7bbfacef3e5817e13b8" title="CLHEP::HepRotation\l::thetaY" alt="" coords="279,893,437,937"/>
+<area shape="rect" id="node29" href="$dd/d65/classCLHEP_1_1HepRotation.html#a787bac65deb8cdb0b037a37539720e0d" title="CLHEP::HepRotation::zy" alt="" coords="526,857,707,885"/>
+<area shape="rect" id="node30" href="$dd/d65/classCLHEP_1_1HepRotation.html#a0922cfa91c74b3a95424c5c49d731605" title="CLHEP::HepRotation\l::thetaZ" alt="" coords="279,961,437,1005"/>
+<area shape="rect" id="node31" href="$dd/d65/classCLHEP_1_1HepRotation.html#a61fa07d3fe5f65d4db8ecbe29c1194e1" title="CLHEP::HepRotation::zz" alt="" coords="527,1040,707,1068"/>
+<area shape="rect" id="node4" href="$d5/dd3/classG4GeometryTolerance.html#af64e4b5b8b0c0f6962603865e93a9f30" title="G4GeometryTolerance\l::GetInstance" alt="" coords="531,36,703,80"/>
+<area shape="rect" id="node8" href="$d5/dd3/classG4GeometryTolerance.html#a7fc4b12f5342e092a1b4652f3133ab42" title="G4GeometryTolerance\l::GetSurfaceTolerance" alt="" coords="531,104,703,148"/>
+<area shape="rect" id="node5" href="$d5/dd3/classG4GeometryTolerance.html#ab48f017ac932f3aeed61f7a2f9d1160d" title="G4GeometryTolerance\l::G4GeometryTolerance" alt="" coords="756,67,937,111"/>
+<area shape="rect" id="node6" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="756,15,937,43"/>
+<area shape="rect" id="node7" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="985,7,1172,51"/>
+<area shape="rect" id="node11" href="$d5/d72/classG4String.html#ab6261a741b9eef5c5731c3a0523f08da" title="G4String::first" alt="" coords="558,201,675,229"/>
+<area shape="rect" id="node13" href="$dd/d65/classCLHEP_1_1HepRotation.html#ae22354c343861e3be22b2a15074fcb1b" title="CLHEP::HepRotation\l::rep3x3" alt="" coords="538,261,695,305"/>
+<area shape="rect" id="node24" href="$db/da0/namespaceCLHEP.html#a7843f6926921a4f38c17883d8aaa3f19" title="CLHEP::safe_acos" alt="" coords="547,969,687,997"/>
+<area shape="rect" id="node25" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="791,969,902,997"/>
+<area shape="rect" id="node26" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="991,969,1167,997"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="export_G4UnitsTable" name="export_G4UnitsTable">
+<area shape="rect" id="node2" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="758,66,970,110"/>
+<area shape="rect" id="node6" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1266,46,1473,74"/>
+<area shape="rect" id="node7" href="$dd/db6/classG4UnitDefinition.html#ab312cecd9b92e02f18c9c473a7110c6d" title="G4UnitDefinition::GetCategory" alt="" coords="222,667,450,695"/>
+<area shape="rect" id="node8" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="507,120,708,164"/>
+<area shape="rect" id="node14" href="$d7/dfd/classG4BestUnit.html#a2b035c631bffff3fded4f5ffebe58b25" title="G4BestUnit::GetCategory" alt="" coords="240,219,432,247"/>
+<area shape="rect" id="node15" href="$d7/dfd/classG4BestUnit.html#ab836876a68a43ca7e66dbaec46aa7600" title="G4BestUnit::GetIndexOfCategory" alt="" coords="213,271,459,299"/>
+<area shape="rect" id="node16" href="$d0/dc0/classG4UnitsCategory.html#a3ace01d7e269deeee223e617c7b21290" title="G4UnitsCategory::GetName" alt="" coords="232,323,440,351"/>
+<area shape="rect" id="node17" href="$d0/dc0/classG4UnitsCategory.html#adb1b682c9163af1a7c89b5c8e88b23d2" title="G4UnitsCategory::GetName\lMxLen" alt="" coords="232,375,440,419"/>
+<area shape="rect" id="node18" href="$d0/dc0/classG4UnitsCategory.html#ab16cf3e709313e1ddb779faa11e13132" title="G4UnitsCategory::GetSymb\lMxLen" alt="" coords="233,443,439,487"/>
+<area shape="rect" id="node19" href="$dd/db6/classG4UnitDefinition.html#a436c7bc65d054e54bd87102d6618d7aa" title="G4UnitDefinition::GetSymbol" alt="" coords="227,511,445,539"/>
+<area shape="rect" id="node20" href="$d0/dc0/classG4UnitsCategory.html#a3257b76e8ba506695a27dcd73a7d8ac4" title="G4UnitsCategory::GetUnitsList" alt="" coords="223,563,449,591"/>
+<area shape="rect" id="node21" href="$dd/db6/classG4UnitDefinition.html#af93e48a66270db4b24ed0c260d39a13a" title="G4UnitDefinition::GetValue" alt="" coords="234,615,438,643"/>
+<area shape="rect" id="node22" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="226,167,446,195"/>
+<area shape="rect" id="node23" href="$d0/dc0/classG4UnitsCategory.html#adee6842a257ce1a9b3d93947dc774445" title="G4UnitsCategory::PrintCategory" alt="" coords="217,719,455,747"/>
+<area shape="rect" id="node24" href="$dd/db6/classG4UnitDefinition.html#a8fca96e7c5cf44cd3eb96782ef09d2e9" title="G4UnitDefinition::PrintDefinition" alt="" coords="217,771,455,799"/>
+<area shape="rect" id="node25" href="$dd/db6/classG4UnitDefinition.html#ab39c9f13a57897adb94b6f7e99ab852c" title="G4UnitDefinition::PrintUnits\lTable" alt="" coords="232,823,440,867"/>
+<area shape="rect" id="node26" href="$d0/dc0/classG4UnitsCategory.html#ac2da551166c023148829f40244076ad0" title="G4UnitsCategory::UpdateName\lMxLen" alt="" coords="219,891,453,935"/>
+<area shape="rect" id="node27" href="$d0/dc0/classG4UnitsCategory.html#a7162fd34d03b41cde1e7ce42bf03e26a" title="G4UnitsCategory::UpdateSymb\lMxLen" alt="" coords="220,959,452,1003"/>
+<area shape="rect" id="node3" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1020,66,1211,110"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1316,188,1423,216"/>
+<area shape="rect" id="node5" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1259,102,1480,130"/>
+<area shape="rect" id="node9" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="566,372,649,400"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="756,296,972,340"/>
+<area shape="rect" id="node11" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="759,364,969,408"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="758,432,970,476"/>
+<area shape="rect" id="node12" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1031,364,1199,408"/>
+</map>

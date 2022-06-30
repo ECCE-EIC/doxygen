@@ -1,0 +1,33 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/include/G4INCLNuclearPotentialEnergyIsospin.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/include/G4INCLNuclearPotentialEnergyIsospin.hh">
+<area shape="rect" id="node2" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1693,829,1784,857"/>
+<area shape="rect" id="node27" href="$d5/d1b/G4INCLNuclearPotentialIsospin_8hh.html" title="Isospin&#45;dependent nuclear potential." alt="" coords="1172,145,1423,173"/>
+<area shape="rect" id="node3" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2570,1057,2651,1085"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2026,1133,2126,1161"/>
+<area shape="rect" id="node10" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1839,1057,1940,1085"/>
+<area shape="rect" id="node15" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="2603,905,2714,933"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1836,981,1964,1009"/>
+<area shape="rect" id="node21" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="2011,905,2189,933"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="2140,1209,2199,1237"/>
+<area shape="rect" id="node19" href="$d9/d05/G4VExceptionHandler_8hh.html" title="G4VExceptionHandler.hh" alt="" coords="2015,1057,2204,1085"/>
+<area shape="rect" id="node20" href="$d6/d7e/G4ExceptionSeverity_8hh.html" title="G4ExceptionSeverity.hh" alt="" coords="2151,1133,2332,1161"/>
+<area shape="rect" id="node28" href="$d5/dc2/G4INCLINuclearPotential_8hh.html" title="Abstract interface to the nuclear potential." alt="" coords="1194,221,1401,249"/>
+<area shape="rect" id="node29" href="$d2/d20/G4INCLParticle_8hh.html" title="G4INCLParticle.hh" alt="" coords="1227,297,1368,325"/>
+<area shape="rect" id="node37" href="$d5/dcb/G4INCLRandom_8hh.html" title="G4INCLRandom.hh" alt="" coords="2379,525,2527,553"/>
+<area shape="rect" id="node49" href="$d9/d7b/G4INCLDeuteronDensity_8hh.html" title="Deuteron density in r and p according to the Paris potential." alt="" coords="195,601,399,629"/>
+<area shape="rect" id="node30" href="$dc/d41/G4INCLThreeVector_8hh.html" title="G4INCLThreeVector.hh" alt="" coords="2408,677,2579,705"/>
+<area shape="rect" id="node32" href="$d6/d58/G4INCLParticleTable_8hh.html" title="G4INCLParticleTable.hh" alt="" coords="1414,373,1591,401"/>
+<area shape="rect" id="node34" href="$df/d0c/G4INCLParticleType_8hh.html" title="G4INCLParticleType.hh" alt="" coords="1247,753,1419,781"/>
+<area shape="rect" id="node35" href="$d9/d8d/G4INCLParticleSpecies_8hh.html" title="G4INCLParticleSpecies.hh" alt="" coords="1221,677,1414,705"/>
+<area shape="rect" id="node36" href="$d8/d3e/G4INCLLogger_8hh.html" title="G4INCLLogger.hh" alt="" coords="2813,449,2950,477"/>
+<area shape="rect" id="node47" href="$de/dbf/G4INCLUnorderedVector_8hh.html" title="G4INCLUnorderedVector.hh" alt="" coords="246,677,450,705"/>
+<area shape="rect" id="node48" href="$da/d04/G4INCLAllocationPool_8hh.html" title="Singleton for recycling allocation of instances of a given class." alt="" coords="1692,449,1879,477"/>
+<area shape="rect" id="node40" href="$d6/d89/G4INCLGlobals_8hh.html" title="G4INCLGlobals.hh" alt="" coords="1885,677,2027,705"/>
+<area shape="rect" id="node41" href="$d6/d6d/G4INCLConfig_8hh.html" title="G4INCLConfig.hh" alt="" coords="2735,601,2871,629"/>
+<area shape="rect" id="node43" href="$d8/d11/G4INCLHFB_8hh.html" title="G4INCLHFB.hh" alt="" coords="1078,677,1197,705"/>
+<area shape="rect" id="node44" href="$d2/daf/G4IonTable_8hh.html" title="G4IonTable.hh" alt="" coords="1591,677,1708,705"/>
+<area shape="rect" id="node45" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="1495,753,1641,781"/>
+<area shape="rect" id="node46" href="$d1/d70/G4INCLNaturalIsotopicDistributions_8hh.html" title="Classes that stores isotopic abundances." alt="" coords="475,677,755,705"/>
+<area shape="rect" id="node39" href="$d2/dcb/G4INCLIRandomGenerator_8hh.html" title="G4INCLIRandomGenerator.hh" alt="" coords="2209,753,2428,781"/>
+<area shape="rect" id="node42" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="2543,601,2660,629"/>
+<area shape="rect" id="node50" href="$de/d1d/G4INCLIFunction1D_8hh.html" title="Functor for 1&#45;dimensional mathematical functions." alt="" coords="779,677,951,705"/>
+</map>

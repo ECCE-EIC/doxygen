@@ -1,0 +1,43 @@
+<map id="G4SigmaPlus::SigmaPlus" name="G4SigmaPlus::SigmaPlus">
+<area shape="rect" id="node2" href="$d0/dbf/classG4LightMedia.html#a5a762ad980c620b994dccbf5853352f0" title="G4LightMedia::AntiOmegaMinus\lExchange" alt="" coords="245,5,485,49"/>
+<area shape="rect" id="node3" href="$d0/dbf/classG4LightMedia.html#aa38b081afc98dfffe19f24b865364b23" title="G4LightMedia::AntiXiZero\lExchange" alt="" coords="267,73,462,117"/>
+<area shape="rect" id="node4" href="$d0/d79/classG4HyperonFTFPBuilder.html#aa887f1bb1861b73f761ad2906862de81" title="G4HyperonFTFPBuilder\l::Build" alt="" coords="275,141,454,185"/>
+<area shape="rect" id="node7" href="$de/dc3/classG4RPGKMinusInelastic.html#ab781cf9184f7ee3a985bf22174c1bc3e" title="G4RPGKMinusInelastic\l::Cascade" alt="" coords="278,209,451,253"/>
+<area shape="rect" id="node9" href="$d4/d55/classG4RPGXiMinusInelastic.html#a85bf8618f4bb95b91c024fee209182ba" title="G4RPGXiMinusInelastic\l::Cascade" alt="" coords="276,277,453,321"/>
+<area shape="rect" id="node11" href="$d9/db6/classG4RPGOmegaMinusInelastic.html#a5417b548ec9f872fefd90377284b0ae9" title="G4RPGOmegaMinusInelastic\l::Cascade" alt="" coords="258,345,471,389"/>
+<area shape="rect" id="node13" href="$d2/dcd/classG4RPGAntiXiMinusInelastic.html#a52f8958aca8115b873ef504e3dec4607" title="G4RPGAntiXiMinusInelastic\l::Cascade" alt="" coords="263,413,467,457"/>
+<area shape="rect" id="node15" href="$d4/d63/classG4RPGAntiOmegaMinusInelastic.html#adcbc7f8c2ad8361d81df50ff431fa069" title="G4RPGAntiOmegaMinusInelastic\l::Cascade" alt="" coords="245,481,485,525"/>
+<area shape="rect" id="node17" href="$df/d0e/classG4RPGLambdaInelastic.html#aee8592cbe15bc94b2a0d8d87f4372bd1" title="G4RPGLambdaInelastic\l::Cascade" alt="" coords="275,549,454,593"/>
+<area shape="rect" id="node19" href="$dc/d23/classG4RPGAntiXiZeroInelastic.html#a6da46495b3063f441498665b6e0f72a4" title="G4RPGAntiXiZeroInelastic\l::Cascade" alt="" coords="267,617,462,661"/>
+<area shape="rect" id="node21" href="$d4/da6/classG4RPGXiZeroInelastic.html#a52b42027190c22cdcd646f0a9f988512" title="G4RPGXiZeroInelastic\l::Cascade" alt="" coords="281,685,449,729"/>
+<area shape="rect" id="node23" href="$d1/d7f/classG4RPGAntiKZeroInelastic.html#accc2905c6888ce9af93fd761d471a15d" title="G4RPGAntiKZeroInelastic\l::Cascade" alt="" coords="269,753,461,797"/>
+<area shape="rect" id="node27" href="$dd/dc9/classHyperonPhysics.html#a7872dd8485408ba67b2698f2e55d1d60" title="HyperonPhysics::Construct\lProcess" alt="" coords="263,821,466,865"/>
+<area shape="rect" id="node28" href="$d3/d2b/classG4HadronPhysicsFTFQGSP__BERT.html#a2ab54e472f8197096d0f22e51b8afa26" title="G4HadronPhysicsFTFQGSP\l_BERT::ConstructProcess" alt="" coords="264,889,465,933"/>
+<area shape="rect" id="node29" href="$dd/d3e/classG4BaryonSplitter.html#a9a7a8c3c00b5ecd5de998e9156c6f355" title="G4BaryonSplitter::G4Baryon\lSplitter" alt="" coords="258,957,471,1001"/>
+<area shape="rect" id="node30" href="$d8/dfa/classG4ChargeExchange.html#a47489ab0a25472883353f21786538082" title="G4ChargeExchange::G4Charge\lExchange" alt="" coords="249,1025,481,1069"/>
+<area shape="rect" id="node31" href="$d9/df3/classG4ChargeExchangeProcess.html#af223e14c125ef760e1eee5c858c779e8" title="G4ChargeExchangeProcess\l::G4ChargeExchangeProcess" alt="" coords="257,1093,472,1137"/>
+<area shape="rect" id="node32" href="$d8/d11/classG4HadronNucleonXsc.html#ada7e5ed04ed3560785c899fdd49add24" title="G4HadronNucleonXsc\l::G4HadronNucleonXsc" alt="" coords="276,1161,453,1205"/>
+<area shape="rect" id="node33" href="$d1/dd5/classG4RPGInelastic.html#afcdb7977cdba16dc91549d792056f7c6" title="G4RPGInelastic::G4RPGInelastic" alt="" coords="246,1229,483,1257"/>
+<area shape="rect" id="node34" href="$d4/d19/classG4SigmaPlusField.html#aee743f8c1ef4c52faa16ee058a484f26" title="G4SigmaPlusField::GetField" alt="" coords="262,1281,467,1309"/>
+<area shape="rect" id="node35" href="$d0/d62/classG4RKPropagation.html#aaa266506a608131691d890ff102dd63d" title="G4RKPropagation::Init" alt="" coords="279,1333,450,1361"/>
+<area shape="rect" id="node36" href="$d0/dbf/classG4LightMedia.html#ac598b0e5ec647ed9930dc8ce66ab3275" title="G4LightMedia::LambdaExchange" alt="" coords="243,1385,487,1413"/>
+<area shape="rect" id="node37" href="$d0/dbf/classG4LightMedia.html#a9c175526d72116e5070e7df4830c2c2a" title="G4LightMedia::OmegaMinus\lExchange" alt="" coords="259,1437,471,1481"/>
+<area shape="rect" id="node38" href="$d7/d14/classG4RPGStrangeProduction.html#a7cda2cb6cf46a618ec2c50c8d97b06e5" title="G4RPGStrangeProduction\l::ReactionStage" alt="" coords="268,1505,461,1549"/>
+<area shape="rect" id="node39" href="$d8/d9d/classG4INCLXXInterface.html#aff2f179c54714416beb19b948b1dd804" title="Convert A and Z to a G4ParticleDefinition." alt="" coords="280,1573,449,1617"/>
+<area shape="rect" id="node42" href="$d0/dbf/classG4LightMedia.html#a6062221e68a17521728a6b30a13738c4" title="G4LightMedia::XiZeroExchange" alt="" coords="248,1641,481,1669"/>
+<area shape="rect" id="node5" href="$d2/df9/classG4HadronPhysicsQGSP__BIC__AllHP.html#a4756f6664d3dca4b313773913655c95e" title="G4HadronPhysicsQGSP\l_BIC_AllHP::ConstructProcess" alt="" coords="545,73,764,117"/>
+<area shape="rect" id="node6" href="$d2/d46/classG4HadronPhysicsQGSP__BIC__HP.html#a2ed24795421b9624f683428e19a2881a" title="G4HadronPhysicsQGSP\l_BIC_HP::ConstructProcess" alt="" coords="554,141,755,185"/>
+<area shape="rect" id="node8" href="$de/dc3/classG4RPGKMinusInelastic.html#aa312b1791a0c4f4b1642bf2690170dd6" title="G4RPGKMinusInelastic\l::ApplyYourself" alt="" coords="568,209,741,253"/>
+<area shape="rect" id="node10" href="$d4/d55/classG4RPGXiMinusInelastic.html#a34d3fe5afa0ae6e404d7cb411af028a4" title="G4RPGXiMinusInelastic\l::ApplyYourself" alt="" coords="566,277,743,321"/>
+<area shape="rect" id="node12" href="$d9/db6/classG4RPGOmegaMinusInelastic.html#a948f3dc9e36de246a4a9840d275f30aa" title="G4RPGOmegaMinusInelastic\l::ApplyYourself" alt="" coords="548,345,761,389"/>
+<area shape="rect" id="node14" href="$d2/dcd/classG4RPGAntiXiMinusInelastic.html#a9a2f8c3a066398848266312d745e29bb" title="G4RPGAntiXiMinusInelastic\l::ApplyYourself" alt="" coords="553,413,757,457"/>
+<area shape="rect" id="node16" href="$d4/d63/classG4RPGAntiOmegaMinusInelastic.html#a0130a5e1c6bc76c08a7b7244faadefdc" title="G4RPGAntiOmegaMinusInelastic\l::ApplyYourself" alt="" coords="535,481,775,525"/>
+<area shape="rect" id="node18" href="$df/d0e/classG4RPGLambdaInelastic.html#a4e7ddf36630e446c4fd34e6bf2cec5ae" title="G4RPGLambdaInelastic\l::ApplyYourself" alt="" coords="565,549,744,593"/>
+<area shape="rect" id="node20" href="$dc/d23/classG4RPGAntiXiZeroInelastic.html#a415f619c26824fbcebc4883251a7c345" title="G4RPGAntiXiZeroInelastic\l::ApplyYourself" alt="" coords="557,617,752,661"/>
+<area shape="rect" id="node22" href="$d4/da6/classG4RPGXiZeroInelastic.html#a2357cb2a02c3ddb6ca03c8bda790ccd9" title="G4RPGXiZeroInelastic\l::ApplyYourself" alt="" coords="571,685,739,729"/>
+<area shape="rect" id="node24" href="$d1/d7f/classG4RPGAntiKZeroInelastic.html#a904f082af389b721281686449f6979b4" title="G4RPGAntiKZeroInelastic\l::ApplyYourself" alt="" coords="559,753,751,797"/>
+<area shape="rect" id="node25" href="$de/dc9/classG4RPGKShortInelastic.html#ad577c004b4511ce8a9398f9356917eaa" title="G4RPGKShortInelastic\l::ApplyYourself" alt="" coords="823,720,992,764"/>
+<area shape="rect" id="node26" href="$d7/d74/classG4RPGKLongInelastic.html#a5653d69266ed59d796bf0420ca3f27d5" title="G4RPGKLongInelastic\l::ApplyYourself" alt="" coords="824,788,991,832"/>
+<area shape="rect" id="node40" href="$d8/d9d/classG4INCLXXInterface.html#afc927b67b00831f8e00c642906564c53" title="Convert an INCL particle to a G4DynamicParticle." alt="" coords="576,1573,733,1617"/>
+<area shape="rect" id="node41" href="$d8/d9d/classG4INCLXXInterface.html#ae624f1c50cc9a605086a6bc8466a8efd" title="G4INCLXXInterface::\lApplyYourself" alt="" coords="829,1573,986,1617"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="G4ParticleHPLCFissionFS" name="G4ParticleHPLCFissionFS">
+<area shape="rect" id="node2" href="$dd/dc7/classG4ParticleHPFissionBaseFS.html" title="G4ParticleHPFissionBaseFS" alt="" coords="2272,1470,2475,1498"/>
+<area shape="rect" id="node3" href="$df/d5c/classG4ParticleHPFinalState.html" title="G4ParticleHPFinalState" alt="" coords="1861,1202,2035,1230"/>
+<area shape="rect" id="node4" href="$db/d66/classG4ParticleHPNames.html" title="G4ParticleHPNames" alt="" coords="1409,1146,1564,1174"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="1025,595,1105,623"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="1409,759,1564,787"/>
+<area shape="rect" id="node11" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="1883,1047,2013,1075"/>
+<area shape="rect" id="node13" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="2313,969,2434,997"/>
+<area shape="rect" id="node15" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="2701,625,2802,653"/>
+<area shape="rect" id="node21" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="2689,282,2814,310"/>
+<area shape="rect" id="node24" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="1900,114,1996,142"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="686,595,775,623"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="338,587,481,631"/>
+<area shape="rect" id="node9" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="2297,521,2449,549"/>
+<area shape="rect" id="node10" href="$d9/d8c/classG4ProcessManagerMessenger.html" title="G4ProcessManagerMessenger" alt="" coords="3065,581,3291,609"/>
+<area shape="rect" id="node28" href="$db/d05/classG4ParticleMessenger.html" title="G4ParticleMessenger" alt="" coords="3529,943,3693,971"/>
+<area shape="rect" id="node31" href="$d7/d07/classG4ParticlePropertyMessenger.html" title="G4ParticlePropertyMessenger" alt="" coords="3067,1026,3289,1054"/>
+<area shape="rect" id="node33" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="1889,835,2007,863"/>
+<area shape="rect" id="node12" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="2694,1051,2809,1079"/>
+<area shape="rect" id="node14" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="2661,849,2842,877"/>
+<area shape="rect" id="node29" href="$d0/d84/classG4UIcmdWithAString.html" title="G4UIcmdWithAString" alt="" coords="2879,862,3041,890"/>
+<area shape="rect" id="node30" href="$dc/d4a/classG4UIcmdWithoutParameter.html" title="G4UIcmdWithoutParameter" alt="" coords="2648,969,2855,997"/>
+<area shape="rect" id="node16" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="1873,731,2023,759"/>
+<area shape="rect" id="node17" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="2303,697,2444,725"/>
+<area shape="rect" id="node18" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="1881,406,2015,434"/>
+<area shape="rect" id="node19" title="STL class." alt="" coords="1421,403,1553,431"/>
+<area shape="rect" id="node27" title="STL class." alt="" coords="1401,59,1572,87"/>
+<area shape="rect" id="node23" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="2285,123,2461,167"/>
+<area shape="rect" id="node25" href="$d7/d24/classG4NuclideTable.html" title="G4NuclideTable" alt="" coords="1423,177,1550,205"/>
+<area shape="rect" id="node32" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="999,1099,1131,1127"/>
+<area shape="rect" id="node34" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4HadFinalState * \&gt;" alt="" coords="1369,1199,1605,1227"/>
+<area shape="rect" id="node35" href="$da/d8c/classG4CacheReference.html" title="G4CacheReference\&lt; value\l_type \&gt;" alt="" coords="963,1201,1166,1245"/>
+<area shape="rect" id="node48" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; toBeCached \&gt;" alt="" coords="1389,1387,1584,1415"/>
+<area shape="rect" id="node36" href="$d2/d58/classG4ParticleHPAngular.html" title="G4ParticleHPAngular" alt="" coords="1867,1470,2029,1498"/>
+<area shape="rect" id="node37" href="$d7/def/classG4ParticleHPLegendreStore.html" title="G4ParticleHPLegendreStore" alt="" coords="1383,1615,1590,1643"/>
+<area shape="rect" id="node38" href="$d8/d10/classG4ParticleHPLegendreTable.html" title="G4ParticleHPLegendreTable" alt="" coords="961,1602,1168,1630"/>
+<area shape="rect" id="node39" href="$dc/d8c/classG4InterpolationManager.html" title="G4InterpolationManager" alt="" coords="637,1589,824,1617"/>
+<area shape="rect" id="node40" href="$dd/d9f/classG4ParticleHPPartial.html" title="G4ParticleHPPartial" alt="" coords="1411,1470,1562,1498"/>
+<area shape="rect" id="node41" href="$dc/df1/classG4ParticleHPVector.html" title="G4ParticleHPVector" alt="" coords="989,1470,1141,1498"/>
+<area shape="rect" id="node42" href="$d3/dae/classG4ParticleHPHash.html" title="G4ParticleHPHash" alt="" coords="659,1377,802,1405"/>
+<area shape="rect" id="node45" href="$d7/d30/classG4ParticleHPDataPoint.html" title="G4ParticleHPDataPoint" alt="" coords="5,1407,180,1435"/>
+<area shape="rect" id="node47" href="$d8/dd6/classG4ParticleHPInterpolator.html" title="G4ParticleHPInterpolator" alt="" coords="637,1285,825,1313"/>
+<area shape="rect" id="node49" href="$d2/d96/classG4ParticleHPEnergyDistribution.html" title="G4ParticleHPEnergyDistribution" alt="" coords="1831,1641,2065,1669"/>
+<area shape="rect" id="node50" href="$d0/d8f/classG4VParticleHPEDis.html" title="G4VParticleHPEDis" alt="" coords="1413,1667,1561,1695"/>
+</map>

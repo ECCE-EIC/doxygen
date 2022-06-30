@@ -1,0 +1,17 @@
+<map id="G4SingleParticleSource::GetAngDist" name="G4SingleParticleSource::GetAngDist">
+<area shape="rect" id="node2" href="$dc/d93/classG4AdjointPrimaryGenerator.html#aa1a4fd36fe13ccc32c5658a07d7420df" title="G4AdjointPrimaryGenerator\l::G4AdjointPrimaryGenerator" alt="" coords="253,5,472,49"/>
+<area shape="rect" id="node3" href="$dc/d93/classG4AdjointPrimaryGenerator.html#a7b685604fbcf7f8265ee3e91146ed628" title="G4AdjointPrimaryGenerator\l::GenerateAdjointPrimaryVertex" alt="" coords="245,73,481,117"/>
+<area shape="rect" id="node4" href="$dc/d93/classG4AdjointPrimaryGenerator.html#a8a91cf18718187801f85d9fde599bda0" title="G4AdjointPrimaryGenerator\l::GenerateFwdPrimaryVertex" alt="" coords="255,141,471,185"/>
+<area shape="rect" id="node6" href="$d4/d20/classHadrontherapyPrimaryGeneratorAction.html#af907ca21052fe930d642b84ffcff5cbc" title="HadrontherapyPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="241,209,485,253"/>
+<area shape="rect" id="node7" href="$d0/d8e/classG4GeneralParticleSource.html#abf7c44e728b0e745912a1ede5fa5ffec" title="G4GeneralParticleSource\l::ListSource" alt="" coords="268,277,457,321"/>
+<area shape="rect" id="node8" href="$d9/d1c/classG4GeneralParticleSourceMessenger.html#add562b7a8b10db91ff3a7b810274bffe" title="G4GeneralParticleSourceMessenger\l::SetNewValue" alt="" coords="541,301,805,345"/>
+<area shape="rect" id="node9" href="$dc/d93/classG4AdjointPrimaryGenerator.html#afbdd601826ef8783ded539630fa820c9" title="G4AdjointPrimaryGenerator\l::SetAdjointPrimarySourceOnAnExt\lSurfaceOfAVolume" alt="" coords="234,397,491,457"/>
+<area shape="rect" id="node13" href="$dc/d93/classG4AdjointPrimaryGenerator.html#a50ec03c4d53ddd8021debfa4800be75c" title="G4AdjointPrimaryGenerator\l::SetSphericalAdjointPrimarySource" alt="" coords="232,483,493,527"/>
+<area shape="rect" id="node5" href="$d4/d34/classG4AdjointPrimaryGeneratorAction.html#a159749d1cb5a47a017be08d70c26ff0f" title="G4AdjointPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="569,141,778,185"/>
+<area shape="rect" id="node10" href="$d4/d34/classG4AdjointPrimaryGeneratorAction.html#a4891902297e9ec612d9621be95204a0f" title="G4AdjointPrimaryGenerator\lAction::SetAdjointPrimarySource\lOnAnExtSurfaceOfAVolume" alt="" coords="553,395,794,455"/>
+<area shape="rect" id="node11" href="$db/d16/classG4AdjointSimManager.html#a0f88a6e6f44ce8ff3f6b4a5197b4391a" title="G4AdjointSimManager\l::DefineAdjointSourceOnThe\lExtSurfaceOfAVolume" alt="" coords="875,395,1087,455"/>
+<area shape="rect" id="node12" href="$d6/d97/classG4AdjointSimMessenger.html#a5bfcad72a393216a5db8742d7d8556af" title="G4AdjointSimMessenger\l::SetNewValue" alt="" coords="1156,479,1344,523"/>
+<area shape="rect" id="node14" href="$d4/d34/classG4AdjointPrimaryGeneratorAction.html#a852fef858e5a8efbe9f8acbfa8ecc5e7" title="G4AdjointPrimaryGenerator\lAction::SetSphericalAdjointPrimary\lSource" alt="" coords="544,479,803,539"/>
+<area shape="rect" id="node15" href="$db/d16/classG4AdjointSimManager.html#aeeec416fca2525605988c2cb964019d9" title="G4AdjointSimManager\l::DefineSphericalAdjointSource" alt="" coords="865,479,1096,523"/>
+<area shape="rect" id="node16" href="$db/d16/classG4AdjointSimManager.html#a97615af626c34447f31a2ec1c5899b3b" title="G4AdjointSimManager\l::DefineSphericalAdjointSource\lWithCentreAtTheCentreOfAVolume" alt="" coords="853,547,1108,607"/>
+</map>

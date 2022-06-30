@@ -1,0 +1,51 @@
+<map id="GetIT" name="GetIT">
+<area shape="rect" id="node2" href="$d4/df2/classG4FastList.html#a8b1663bf5d6956cd8666d6350e18464d" title="SPECIFIC TO TRACKS." alt="" coords="157,315,318,359"/>
+<area shape="rect" id="node3" href="$d6/dfd/classG4ITTrackHolder.html#a30a1dcfe02ba9f6a8b9b103960015749" title="G4ITTrackHolder::_PushTrack" alt="" coords="431,5,647,33"/>
+<area shape="rect" id="node5" href="$db/dca/classG4DNABrownianTransportation.html#a19f09181e66367c59a8f0291b0a43bc8" title="G4DNABrownianTransportation\l::AlongStepDoIt" alt="" coords="716,1093,947,1137"/>
+<area shape="rect" id="node6" href="$df/d6e/classG4ITTransportation.html#aa113de2c3ac42aa7131d7097a3ba4738" title="G4ITTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="112,539,363,599"/>
+<area shape="rect" id="node8" href="$d9/d4e/classITTrackingInteractivity.html#aea78bd1cb2bc6195818594b942a1a655" title="ITTrackingInteractivity\l::AppendStep" alt="" coords="152,1001,323,1045"/>
+<area shape="rect" id="node9" href="$d4/d21/classG4ITModelProcessor.html#acefd373aafb27a90f31bdf84628c98cd" title="G4ITModelProcessor\l::CalculateMinTimeStep" alt="" coords="147,1137,328,1181"/>
+<area shape="rect" id="node11" href="$d4/df2/classG4FastList.html#a80d38a57f9c33a7c1345a6e22d95d474" title="SPECIFIC TO TRACKS." alt="" coords="157,1273,318,1317"/>
+<area shape="rect" id="node12" href="$db/dca/classG4DNABrownianTransportation.html#a9224092743c863efb641eadc1c2cd7cd" title="G4DNABrownianTransportation\l::ComputeGeomLimit" alt="" coords="122,1341,353,1385"/>
+<area shape="rect" id="node13" href="$d0/d59/classG4ITStepProcessor.html#a75e21e60a5d0728ce71981510d41ff0c" title="G4ITStepProcessor::\lComputeInteractionLength" alt="" coords="137,1205,338,1249"/>
+<area shape="rect" id="node14" href="$db/dca/classG4DNABrownianTransportation.html#a720ab1aeb7278a2a9984649099765c1c" title="G4DNABrownianTransportation\l::ComputeStep" alt="" coords="424,141,655,185"/>
+<area shape="rect" id="node15" href="$d4/d21/classG4ITModelProcessor.html#ad29ef6e5f709fd3e97c49817a4da7e6b" title="G4ITModelProcessor\l::ComputeTrackReaction" alt="" coords="145,1069,330,1113"/>
+<area shape="rect" id="node16" href="$db/d48/classG4FastListNode.html#ab6dc1e1688efd570b579b59671960ec7" title="G4FastListNode\&lt; G4Track\l \&gt;::DetachYourSelf" alt="" coords="139,1409,335,1453"/>
+<area shape="rect" id="node17" href="$db/dca/classG4DNABrownianTransportation.html#a309d8e0d7e495acfe2457975b2f40253" title="G4DNABrownianTransportation\l::Diffusion" alt="" coords="424,1093,655,1137"/>
+<area shape="rect" id="node18" href="$d0/d59/classG4ITStepProcessor.html#a0b6421c974df99cb2c5221af378ffdd7" title="G4ITStepProcessor::\lDoStepping" alt="" coords="159,1477,315,1521"/>
+<area shape="rect" id="node19" href="$d9/d4e/classITTrackingInteractivity.html#aa5032db2851e7da6c87298f04bc47da9" title="ITTrackingInteractivity\l::EndTracking" alt="" coords="152,1545,323,1589"/>
+<area shape="rect" id="node20" href="$d4/df2/classG4FastList.html#a57d76d62fd7041a7320d6c1c89542104" title="SPECIFIC TO TRACKS." alt="" coords="157,1613,318,1657"/>
+<area shape="rect" id="node21" href="$d4/df2/classG4FastList.html#afa7a2e54ecec57ce11aff2ce22e1c33a" title="SPECIFIC TO TRACKS." alt="" coords="157,1681,318,1725"/>
+<area shape="rect" id="node22" href="$d2/dd5/G4Molecule_8cc.html#a75a27630387017f1e6bce5a322b6be12" title="GetMolecule" alt="" coords="185,675,290,703"/>
+<area shape="rect" id="node35" href="$d9/d66/classG4Molecule.html#a1f8413c756994e4e923ba3a9ae44acb0" title="G4Molecule::GetMolecule" alt="" coords="141,1749,334,1777"/>
+<area shape="rect" id="node36" href="$d4/df2/classG4FastList.html#a8914148703da073c0c7ad0d43c0dbd48" title="SPECIFIC TO TRACKS." alt="" coords="157,1801,318,1845"/>
+<area shape="rect" id="node37" href="$d4/df2/classG4FastList.html#a6210c9c61a5556a57535a8aedc313afa" title="SPECIFIC TO TRACKS." alt="" coords="157,1869,318,1913"/>
+<area shape="rect" id="node38" href="$d6/dfd/classG4ITTrackHolder.html#ad2c8eca6136bfaaeaee8958ff415fd6e" title="G4ITTrackHolder::KillTracks" alt="" coords="135,1937,339,1965"/>
+<area shape="rect" id="node39" href="$d6/d8a/classG4ITSteppingVerbose.html#a4bcd857e1003d3f68108e08fbf3ee6d4" title="G4ITSteppingVerbose\l::PostStepVerbose" alt="" coords="153,1989,321,2033"/>
+<area shape="rect" id="node40" href="$d7/d8b/classG4ITLeadingTracks.html#ac929930a6fc0ae9cf53dd26cfad00555" title="G4ITLeadingTracks::\lPrepareLeadingTracks" alt="" coords="153,2057,322,2101"/>
+<area shape="rect" id="node41" href="$d6/d8a/classG4ITSteppingVerbose.html#a5f15ebe3c8064096b84d6cacd4f495f9" title="G4ITSteppingVerbose\l::PreStepVerbose" alt="" coords="153,2125,321,2169"/>
+<area shape="rect" id="node42" href="$d5/df9/classG4AllITFinder.html#af327c3e50776c12e68d4e9705e75f8d0" title="G4AllITFinder::Push" alt="" coords="161,2193,313,2221"/>
+<area shape="rect" id="node43" href="$d6/dfd/classG4ITTrackHolder.html#ade8c5c438682a0013e8fd52b0dd92af2" title="G4ITTrackHolder::PushDelayed" alt="" coords="123,487,351,515"/>
+<area shape="rect" id="node44" href="$d6/dfd/classG4ITTrackHolder.html#a852fa37310e5a128497cbe76ac6dbabc" title="G4ITTrackHolder::PushTo" alt="" coords="144,383,331,411"/>
+<area shape="rect" id="node45" href="$d7/d8b/classG4ITLeadingTracks.html#a9c176f423044ff37b16d391236cac727" title="G4ITLeadingTracks::\lReset" alt="" coords="159,2245,315,2289"/>
+<area shape="rect" id="node46" href="$d0/d59/classG4ITStepProcessor.html#a69cbc6d180738962e24e365e7cfbca6d" title="G4ITStepProcessor::\lSetTrack" alt="" coords="159,2313,315,2357"/>
+<area shape="rect" id="node47" href="$d9/d4e/classITTrackingInteractivity.html#ae1e8c00701e2b328e66cfe83a69d7193" title="ITTrackingInteractivity\l::StartTracking" alt="" coords="152,2381,323,2425"/>
+<area shape="rect" id="node48" href="$df/d6e/classG4ITTransportation.html#afa8acd56ba4cf19d1180ac9d44ccebc5" title="G4ITTransportation\l::StartTracking" alt="" coords="465,2467,614,2511"/>
+<area shape="rect" id="node49" href="$d9/d54/classG4VITProcess.html#a093733b89041823332def64a349ecae0" title="G4VITProcess::StartTracking" alt="" coords="132,2501,343,2529"/>
+<area shape="rect" id="node50" href="$d6/d8a/classG4ITSteppingVerbose.html#a25e068e40ab91bd984f42f06c77f0665" title="G4ITSteppingVerbose\l::TrackingStarted" alt="" coords="153,2553,321,2597"/>
+<area shape="rect" id="node4" href="$d6/dfd/classG4ITTrackHolder.html#a95384ffc227122f9d0d0bccb15d1055c" title="G4ITTrackHolder::Push" alt="" coords="745,5,917,33"/>
+<area shape="rect" id="node7" href="$db/dca/classG4DNABrownianTransportation.html#aa53408a5f576d0577dea100a2d42041d" title="G4DNABrownianTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="414,57,665,117"/>
+<area shape="rect" id="node10" href="$de/dcb/classG4Scheduler.html#a7db35adaeda0f6b54af7dd353a1b35b3" title="G4Scheduler::Stepping" alt="" coords="451,1213,628,1241"/>
+<area shape="rect" id="node23" href="$d2/d3e/classG4DNAMolecularReaction.html#a669603b72392bdadcf0df54e0b0aaf26" title="G4DNAMolecularReaction\l::TestReactibility" alt="" coords="443,429,636,473"/>
+<area shape="rect" id="node24" href="$d2/d3e/classG4DNAMolecularReaction.html#a23f3fb65dda60110e05ec1dc15a5def4" title="G4DNAMolecularReaction\l::MakeReaction" alt="" coords="443,497,636,541"/>
+<area shape="rect" id="node25" href="$df/d2e/classG4DNAMoleculeEncounterStepper_1_1Utils.html#a6bba58ca7fd3cc381b72ae60b7124d94" title="G4DNAMoleculeEncounterStepper\l::Utils::Utils" alt="" coords="413,565,666,609"/>
+<area shape="rect" id="node26" href="$d6/d77/classG4DNAMoleculeEncounterStepper.html#a869114b03c041ed5f2f41497ba1f9414" title="G4DNAMoleculeEncounterStepper\l::CalculateStep" alt="" coords="413,633,666,677"/>
+<area shape="rect" id="node27" href="$d1/dab/classG4DNASmoluchowskiReactionModel.html#afe676b84c49afc9f11f26e81966946a7" title="G4DNASmoluchowskiReaction\lModel::FindReaction" alt="" coords="427,701,651,745"/>
+<area shape="rect" id="node28" href="$db/dca/classG4DNABrownianTransportation.html#abd6d18e7b7f483e4659e6b46bd67003f" title="G4DNABrownianTransportation\l::PostStepDoIt" alt="" coords="424,769,655,813"/>
+<area shape="rect" id="node29" href="$db/dfe/classG4DNAElectronHoleRecombination.html#a76c636d691e40716ec37549615aac305" title="G4DNAElectronHoleRecombination\l::MakeReaction" alt="" coords="411,837,668,881"/>
+<area shape="rect" id="node30" href="$db/dfe/classG4DNAElectronHoleRecombination.html#af91672c536bc59fa447dcf43b0e3b7c6" title="G4DNAElectronHoleRecombination\l::FindReactant" alt="" coords="411,905,668,949"/>
+<area shape="rect" id="node31" href="$df/d00/classG4DNAMolecularDissociation.html#a656195ef5b96b505aa966c0c55dcc4d6" title="G4DNAMolecularDissociation\l::GetMeanLifeTime" alt="" coords="431,973,648,1017"/>
+<area shape="rect" id="node32" href="$df/d00/classG4DNAMolecularDissociation.html#a37b5127bc62b3817f830f5a4bd4b8f56" title="G4DNAMolecularDissociation\l::DecayIt" alt="" coords="431,209,648,253"/>
+<area shape="rect" id="node33" href="$df/da7/classG4DNASecondOrderReaction.html#a2007860fdac74fb5af76fa6c4852e98a" title="G4DNASecondOrderReaction\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="419,277,660,337"/>
+<area shape="rect" id="node34" href="$df/da7/classG4DNASecondOrderReaction.html#ae389eede1677c6fdb47252e707819c96" title="G4DNASecondOrderReaction\l::PostStepDoIt" alt="" coords="431,361,647,405"/>
+</map>

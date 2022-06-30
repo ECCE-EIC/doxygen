@@ -1,0 +1,30 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/geometry/biasing/include/G4GeometryCellComp.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/geometry/biasing/include/G4GeometryCellComp.hh">
+<area shape="rect" id="node2" href="$da/d29/B02PVolumeStore_8hh.html" title="Definition of the B02PVolumeStore class." alt="" coords="1490,129,1713,205"/>
+<area shape="rect" id="node8" href="$d5/d83/B03PVolumeStore_8hh.html" title="Definition of the B03PVolumeStore class." alt="" coords="2417,129,2639,205"/>
+<area shape="rect" id="node14" href="$de/d76/G4GeometryCellImportance_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/include\l/G4GeometryCellImportance.hh" alt="" coords="2044,129,2281,205"/>
+<area shape="rect" id="node24" href="$d2/d6b/G4GeometryCellWeight_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/include\l/G4GeometryCellWeight.hh" alt="" coords="1110,129,1317,205"/>
+<area shape="rect" id="node29" href="$da/d83/G4GeometryCellComp_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/src\l/G4GeometryCellComp.cc" alt="" coords="2664,129,2861,205"/>
+<area shape="rect" id="node3" href="$de/de6/B02ImportanceDetectorConstruction_8hh.html" title="Definition of the B02ImportanceDetectorConstruction class." alt="" coords="1479,253,1723,345"/>
+<area shape="rect" id="node7" href="$d2/d02/B02PVolumeStore_8cc.html" title="Implementation of the B02PVolumeStore class." alt="" coords="1265,261,1455,337"/>
+<area shape="rect" id="node4" href="$d2/de4/exampleB02_8cc.html" title="Main program of the biasing/B02 example." alt="" coords="1614,393,1794,469"/>
+<area shape="rect" id="node5" href="$d1/d92/B02ImportanceDetectorConstruction_8cc.html" title="Implementation of the B02ImportanceDetectorConstruction class." alt="" coords="804,393,1121,469"/>
+<area shape="rect" id="node6" href="$da/dae/B02RunAction_8cc.html" title="Implementation of the B02RunAction class." alt="" coords="1410,393,1590,469"/>
+<area shape="rect" id="node9" href="$d7/d00/B03ImportanceDetectorConstruction_8hh.html" title="Definition of the B03ImportanceDetectorConstruction class." alt="" coords="3347,253,3591,345"/>
+<area shape="rect" id="node13" href="$db/db1/B03PVolumeStore_8cc.html" title="Implementation of the B03PVolumeStore class." alt="" coords="2490,261,2681,337"/>
+<area shape="rect" id="node10" href="$d0/df1/exampleB03_8cc.html" title="Main program of the biasing/B03 example." alt="" coords="3243,393,3423,469"/>
+<area shape="rect" id="node11" href="$db/d2d/B03ImportanceDetectorConstruction_8cc.html" title="Implementation of the B03ImportanceDetectorConstruction class." alt="" coords="3448,393,3765,469"/>
+<area shape="rect" id="node12" href="$db/df7/B03RunAction_8cc.html" title="Implementation of the B03RunAction class." alt="" coords="3790,393,3970,469"/>
+<area shape="rect" id="node15" href="$df/dbe/G4IStore_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/include\l/G4IStore.hh" alt="" coords="2007,261,2207,337"/>
+<area shape="rect" id="node23" href="$dc/d7f/G4GeometryCellImportance_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/src\l/G4GeometryCellImportance.cc" alt="" coords="2231,261,2465,337"/>
+<area shape="rect" id="node16" href="$d8/dc2/exampleB01_8cc.html" title="Main program of the biasing/B01 example." alt="" coords="2510,393,2690,469"/>
+<area shape="rect" id="node17" href="$d8/d2b/B01DetectorConstruction_8cc.html" title="Implementation of the B01DetectorConstruction class." alt="" coords="1145,393,1385,469"/>
+<area shape="rect" id="node18" href="$da/d42/B02DetectorConstruction_8cc.html" title="Implementation of the B02DetectorConstruction class." alt="" coords="2715,393,2955,469"/>
+<area shape="rect" id="node19" href="$d4/d3b/B03DetectorConstruction_8cc.html" title="Implementation of the B03DetectorConstruction class." alt="" coords="2979,393,3219,469"/>
+<area shape="rect" id="node20" href="$d3/ded/B03PhysicsList_8cc.html" title="Implementation of the B03PhysicsList class." alt="" coords="1818,393,1998,469"/>
+<area shape="rect" id="node21" href="$d2/dc6/G4IStore_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/src\l/G4IStore.cc" alt="" coords="2022,393,2191,469"/>
+<area shape="rect" id="node22" href="$d3/d96/G4ImportanceBiasing_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/physics_lists/constructors\l/limiters/src/G4ImportanceBiasing.cc" alt="" coords="2215,393,2486,469"/>
+<area shape="rect" id="node25" href="$de/dd5/G4WeightWindowStore_8hh.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/include\l/G4WeightWindowStore.hh" alt="" coords="695,261,899,337"/>
+<area shape="rect" id="node26" href="$d4/dda/G4WeightWindowStore_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/geometry/biasing/src\l/G4WeightWindowStore.cc" alt="" coords="259,393,461,469"/>
+<area shape="rect" id="node27" href="$d4/db1/G4WeightWindowBiasing_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/physics_lists/constructors\l/limiters/src/G4WeightWindowBiasing.cc" alt="" coords="485,393,779,469"/>
+<area shape="rect" id="node28" href="$d5/d7d/G4GeometrySampler_8cc.html" title="geant4/tree/geant4\l&#45;10.6&#45;release/source\l/processes/biasing/importance\l/src/G4GeometrySampler.cc" alt="" coords="5,393,235,469"/>
+</map>

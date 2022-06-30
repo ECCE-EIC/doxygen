@@ -1,0 +1,51 @@
+<map id="G4TransportationManager::GetPropagatorInField" name="G4TransportationManager::GetPropagatorInField">
+<area shape="rect" id="node2" href="$dc/d66/classG4DecayWithSpin.html#a789c12b2e8ad451a8f901e5818f4cad1" title="G4DecayWithSpin::AtRestDoIt" alt="" coords="272,5,496,33"/>
+<area shape="rect" id="node3" href="$d6/dfa/classG4BlineTracer.html#a101e07bb8610d82a5fb2b3b0fea44cf7" title="G4BlineTracer::ComputeBlines" alt="" coords="271,57,497,85"/>
+<area shape="rect" id="node5" href="$de/d03/classCCalDetectorConstruction.html#a8b6bebc7e4a806aab4e4da8efe9cd818" title="CCalDetectorConstruction\l::Construct" alt="" coords="286,109,482,153"/>
+<area shape="rect" id="node6" href="$df/de8/classF04GlobalField.html#a1998b67aa9a08c635ea3453041455c22" title="constructs all field tracking objects" alt="" coords="286,177,482,221"/>
+<area shape="rect" id="node9" href="$d7/dfb/classExUCNDetectorConstruction.html#a3e0dd407637979f70d430afdaf03da60" title="ExUCNDetectorConstruction\l::ConstructSDandField" alt="" coords="279,245,489,289"/>
+<area shape="rect" id="node10" href="$d7/d31/classF05DetectorConstruction.html#aca447fec8292695bf25a88a880e264d1" title="F05DetectorConstruction\l::ConstructSDandField" alt="" coords="289,313,479,357"/>
+<area shape="rect" id="node11" href="$df/d79/pymodG4geometry_8cc.html#a4f6d9d8e60baa6ff65931fd945b05c5c" title="export_G4TransportationManager" alt="" coords="260,381,508,409"/>
+<area shape="rect" id="node13" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a03f0a2b7a371616bee75f13243d9a4a3" title="PHG4OuterHcalSteppingAction\l::FieldChecker" alt="" coords="269,433,499,477"/>
+<area shape="rect" id="node15" href="$de/d27/classG4CoupledTransportation.html#abd4151ca37e8b7bdc8b4e49b7cf42583" title="G4CoupledTransportation\l::G4CoupledTransportation" alt="" coords="878,325,1081,369"/>
+<area shape="rect" id="node16" href="$df/d6e/classG4ITTransportation.html#aab7ecbce7c20c2240c2ac775c3f2fb06" title="G4ITTransportation\l::G4ITTransportation" alt="" coords="305,553,463,597"/>
+<area shape="rect" id="node17" href="$d2/d49/classG4MonopoleTransportation.html#ab80bddaf999144c1dee4c9ee1cdabfdd" title="G4MonopoleTransportation\l::G4MonopoleTransportation" alt="" coords="278,621,490,665"/>
+<area shape="rect" id="node18" href="$dd/dfc/classG4PathFinder.html#a805724305eff1e5cf615be90a5f3fff2" title="G4PathFinder::G4PathFinder" alt="" coords="279,689,489,717"/>
+<area shape="rect" id="node40" href="$d3/d05/classG4SynchrotronRadiation.html#a5d2fc1f40621c6c5eed49792e004d20a" title="G4SynchrotronRadiation\l::G4SynchrotronRadiation" alt="" coords="287,741,481,785"/>
+<area shape="rect" id="node41" href="$d9/d5c/classG4SynchrotronRadiationInMat.html#a679af185c7a31942fea7acbace6893bd" title="G4SynchrotronRadiationIn\lMat::G4SynchrotronRadiationInMat" alt="" coords="255,809,513,853"/>
+<area shape="rect" id="node42" href="$d6/ddc/classG4Transportation.html#ab3dbf666e4c65195669b0bea90957d7e" title="G4Transportation::G4Transportation" alt="" coords="252,877,516,905"/>
+<area shape="rect" id="node43" href="$dc/d5b/classDetectorConstruction.html#acae2389a76f4cbe3195b4d00cc66dd55" title="DetectorConstruction\l::SetMaxStepLength" alt="" coords="301,929,467,973"/>
+<area shape="rect" id="node44" href="$de/d57/classG4TrackingMessenger.html#af3f1ad5650e5ab3c9bd1a24937f57196" title="G4TrackingMessenger\l::SetNewValue" alt="" coords="299,997,469,1041"/>
+<area shape="rect" id="node45" href="$dd/d88/classG4ErrorPropagatorManager.html#a37caf9a0063a7d08ddddf97373aca164" title="G4ErrorPropagatorManager\l::StartNavigator" alt="" coords="281,1083,487,1127"/>
+<area shape="rect" id="node4" href="$d3/da7/classG4BlineTracerMessenger.html#acf8db65272c7e08eadae136c2cb710c9" title="G4BlineTracerMessenger\l::SetNewValue" alt="" coords="584,49,773,93"/>
+<area shape="rect" id="node7" href="$df/de8/classF04GlobalField.html#aa5dfbb1bf41f0eb8cc03bf4aa8f06a66" title="F04GlobalField::F04Global\lField" alt="" coords="579,177,778,221"/>
+<area shape="rect" id="node8" href="$df/de8/classF04GlobalField.html#a5ce1ad57d9c036bd7953934d1c4edfb6" title="F04GlobalField::GetObject" alt="" coords="880,185,1079,213"/>
+<area shape="rect" id="node12" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="581,381,776,409"/>
+<area shape="rect" id="node14" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="564,433,793,477"/>
+<area shape="rect" id="node19" href="$dd/dfc/classG4PathFinder.html#ae54089c53adb97b024eb522c9c42e35a" title="G4PathFinder::GetInstance" alt="" coords="578,689,779,717"/>
+<area shape="rect" id="node20" href="$df/dd1/classPar02FastSimModelTracker.html#a18180da7f5ef364354ef46364fc9f558" title="Par02FastSimModelTracker\l::DoIt" alt="" coords="878,393,1081,437"/>
+<area shape="rect" id="node21" href="$d0/d62/classG4FastSimulationManagerProcess.html#a3adc7ad47bdcb22d6b2d719bffe3abef" title="G4FastSimulationManagerProcess\l::G4FastSimulationManagerProcess" alt="" coords="850,461,1109,505"/>
+<area shape="rect" id="node22" href="$da/da9/classG4ImportanceProcess.html#aa27406cd4f983d6b8ed96ba3d8d7a90f" title="G4ImportanceProcess\l::G4ImportanceProcess" alt="" coords="891,529,1068,573"/>
+<area shape="rect" id="node23" href="$de/de9/classG4ParallelGeometriesLimiterProcess.html#a31d64a28f2bc6b147daa2c2b217e1711" title="G4ParallelGeometriesLimiter\lProcess::G4ParallelGeometriesLimiter\lProcess" alt="" coords="841,597,1117,657"/>
+<area shape="rect" id="node24" href="$de/dbf/classG4ParallelWorldProcess.html#ad0bd62098cdbdd31ca22e011f6a22f10" title="G4ParallelWorldProcess\l::G4ParallelWorldProcess" alt="" coords="885,681,1074,725"/>
+<area shape="rect" id="node25" href="$d7/d56/classG4ParallelWorldScoringProcess.html#a9af54fa82b70f19d8344ab440de4e27b" title="G4ParallelWorldScoringProcess\l::G4ParallelWorldScoringProcess" alt="" coords="859,749,1099,793"/>
+<area shape="rect" id="node26" href="$d7/d9d/classG4WeightCutOffProcess.html#a6348761c25acea6c99a079c13786486f" title="G4WeightCutOffProcess\l::G4WeightCutOffProcess" alt="" coords="884,817,1075,861"/>
+<area shape="rect" id="node27" href="$d6/d2e/classG4WeightWindowProcess.html#a3a0a6ec475a70d8d6d0aad1f5421d08f" title="G4WeightWindowProcess\l::G4WeightWindowProcess" alt="" coords="879,885,1080,929"/>
+<area shape="rect" id="node28" href="$db/d01/classG4ITSafetyHelper.html#a25004fc10f015a641fdf71e2abbb666a" title="G4ITSafetyHelper::Initialise\lNavigator" alt="" coords="877,953,1082,997"/>
+<area shape="rect" id="node33" href="$d3/db4/classG4SafetyHelper.html#a6543d870721bc279f531d97c908ef9ca" title="G4SafetyHelper::Initialise\lNavigator" alt="" coords="883,1021,1076,1065"/>
+<area shape="rect" id="node29" href="$db/d01/classG4ITSafetyHelper.html#a5036029c44a95b08784a20d93c4e93b8" title="G4ITSafetyHelper::Initialise\lHelper" alt="" coords="1165,821,1371,865"/>
+<area shape="rect" id="node30" href="$df/d6e/classG4ITTransportation.html#a4afeee5172756da5ae2c6bc2c5ce1f46" title="G4ITTransportation\l::BuildPhysicsTable" alt="" coords="1461,731,1610,775"/>
+<area shape="rect" id="node31" href="$db/dca/classG4DNABrownianTransportation.html#aed84bacab894568170dfb5120201669d" title="G4DNABrownianTransportation\l::BuildPhysicsTable" alt="" coords="1700,761,1931,805"/>
+<area shape="rect" id="node32" href="$dd/d11/classG4ITPathFinder.html#a4ac2df715a9eeada4e293e256c668b98" title="G4ITPathFinder::PrepareNew\lTrack" alt="" coords="1429,851,1642,895"/>
+<area shape="rect" id="node34" href="$d3/db4/classG4SafetyHelper.html#aafde72c197b74aa4cc85364fbb084c90" title="G4SafetyHelper::Initialise\lHelper" alt="" coords="1171,1021,1365,1065"/>
+<area shape="rect" id="node35" href="$da/d80/classG4VEnergyLossProcess.html#ad36fa5cb73ee1b04f4fe43da1bb0afab" title="G4VEnergyLossProcess\l::BuildPhysicsTable" alt="" coords="1447,919,1624,963"/>
+<area shape="rect" id="node36" href="$d1/d29/classG4MuNeutrinoNucleusProcess.html#a47e3c912d944b06cd778dccc46646183" title="G4MuNeutrinoNucleusProcess\l::G4MuNeutrinoNucleusProcess" alt="" coords="1419,987,1652,1031"/>
+<area shape="rect" id="node37" href="$d2/dd8/classG4NeutrinoElectronProcess.html#a4de7e0d211204effe8dc23b2bf0b6987" title="G4NeutrinoElectronProcess\l::G4NeutrinoElectronProcess" alt="" coords="1428,1055,1643,1099"/>
+<area shape="rect" id="node38" href="$d0/d99/classG4VMscModel.html#a46dc2095f99aa583d34e0609a8223d4b" title="G4VMscModel::GetParticle\lChangeForMSC" alt="" coords="1436,1123,1635,1167"/>
+<area shape="rect" id="node39" href="$dd/dfc/classG4PathFinder.html#acbaf382304cb89ff3ef5b313ebfc2b96" title="G4PathFinder::PrepareNew\lTrack" alt="" coords="1435,1191,1636,1235"/>
+<area shape="rect" id="node46" href="$dd/d88/classG4ErrorPropagatorManager.html#a507ca29da5b0d2cc2b471a21c5d76a79" title="G4ErrorPropagatorManager\l::G4ErrorPropagatorManager" alt="" coords="571,1116,787,1160"/>
+<area shape="rect" id="node47" href="$dd/d88/classG4ErrorPropagatorManager.html#acbb583db91cf185ab6b381961c84940f" title="G4ErrorPropagatorManager\l::GetErrorPropagatorManager" alt="" coords="869,1125,1090,1169"/>
+<area shape="rect" id="node48" href="$d3/dd6/errprop_8cc.html#a8fee61d7a783cade1a3d07fe86284d27" title="Finalize" alt="" coords="1232,1089,1304,1117"/>
+<area shape="rect" id="node49" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="1229,1141,1307,1169"/>
+<area shape="rect" id="node50" href="$d3/dd6/errprop_8cc.html#a0aa8f3a7acd1c667334594ded9b06a90" title="ProcessEvent" alt="" coords="1212,1193,1324,1221"/>
+</map>

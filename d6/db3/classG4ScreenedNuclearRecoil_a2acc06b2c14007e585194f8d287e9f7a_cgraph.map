@@ -1,0 +1,25 @@
+<map id="G4ScreenedNuclearRecoil::GetMeanFreePath" name="G4ScreenedNuclearRecoil::GetMeanFreePath">
+<area shape="rect" id="node2" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#a21351e02c8b9eccdea7ae30f2e7db3fe" title="G4ScreenedCoulombCrossSection\l::BuildMFPTables" alt="" coords="249,289,500,333"/>
+<area shape="rect" id="node11" href="$da/dc1/classc2__function.html#a7f3ac790b6659b2d137f4c90eadb6ef0" title="c2_function::xmax" alt="" coords="605,453,752,481"/>
+<area shape="rect" id="node12" href="$da/dc1/classc2__function.html#acddff2d033c7f3205658e246d806204b" title="c2_function::xmin" alt="" coords="608,505,749,533"/>
+<area shape="rect" id="node13" href="$d7/d5c/classG4DynamicParticle.html#a3595a77a2881a6dab2a3661440930496" title="G4DynamicParticle::\lGetDefinition" alt="" coords="296,556,453,600"/>
+<area shape="rect" id="node14" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="266,624,483,652"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="292,676,457,704"/>
+<area shape="rect" id="node16" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="296,728,453,772"/>
+<area shape="rect" id="node17" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="289,796,461,840"/>
+<area shape="rect" id="node18" href="$d1/d33/classG4Track.html#ad56ae318e0e1b343bc3e499d8dca8084" title="G4Track::GetMaterialCuts\lCouple" alt="" coords="278,864,471,908"/>
+<area shape="rect" id="node19" href="$d6/db3/classG4ScreenedNuclearRecoil.html#a971d6a4050bc8497389fdc68590e8e03" title="G4ScreenedNuclearRecoil\l::GetNewCrossSectionHandler" alt="" coords="262,932,487,976"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="297,1000,452,1044"/>
+<area shape="rect" id="node23" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="297,1068,452,1112"/>
+<area shape="rect" id="node24" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#a36f7010b3075c363a96c037b018cdfa5" title="G4ScreenedCoulombCrossSection\l::LoadData" alt="" coords="249,1136,500,1180"/>
+<area shape="rect" id="node3" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="565,245,793,273"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="569,297,788,325"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="548,349,809,377"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a367ef71701dd787b47c15c2a0c3167d7" title="G4Material::GetNumberOfMaterials" alt="" coords="549,401,809,429"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="564,5,793,49"/>
+<area shape="rect" id="node8" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="609,73,748,101"/>
+<area shape="rect" id="node9" href="$de/db8/classc2__factory.html#a18b0897567e472e50290fcb1834176d3" title="make a *new object" alt="" coords="590,125,767,169"/>
+<area shape="rect" id="node10" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="640,193,717,221"/>
+<area shape="rect" id="node20" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#a381cca52e9ba2c41cb838474334629ce" title="G4ScreenedCoulombCrossSection\l::create" alt="" coords="553,899,804,943"/>
+<area shape="rect" id="node21" href="$d9/d34/classG4ScreenedCoulombCrossSection.html#a8aff8c06482b63d344883107bf1a93d4" title="G4ScreenedCoulombCrossSection\l::SetVerbosity" alt="" coords="553,967,804,1011"/>
+</map>

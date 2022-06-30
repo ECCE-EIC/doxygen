@@ -1,0 +1,23 @@
+<map id="G4ProtonInelasticCrossSection::GetElementCrossSection" name="G4ProtonInelasticCrossSection::GetElementCrossSection">
+<area shape="rect" id="node2" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="315,88,472,132"/>
+<area shape="rect" id="node3" href="$d7/d9a/classG4ProtonInelasticCrossSection.html#ab79fc80eb2f68afb0d5da491abe797c7" title="G4ProtonInelasticCrossSection\l::GetProtonCrossSection" alt="" coords="280,156,507,200"/>
+<area shape="rect" id="node4" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="555,5,760,49"/>
+<area shape="rect" id="node6" href="$de/d0f/classG4Pow.html#a1606c8b5588e4236b12b03470dbf3b06" title="G4Pow::GetInstance" alt="" coords="579,73,736,101"/>
+<area shape="rect" id="node7" href="$de/d0f/classG4Pow.html#a3126d9209b8a1e11295f88fa72b5894e" title="G4Pow::powA" alt="" coords="601,203,714,231"/>
+<area shape="rect" id="node10" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1058,332,1125,360"/>
+<area shape="rect" id="node15" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1267,176,1331,204"/>
+<area shape="rect" id="node22" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="623,372,691,400"/>
+<area shape="rect" id="node5" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="808,5,979,49"/>
+<area shape="rect" id="node8" href="$de/d0f/classG4Pow.html#aa4be038dc94e3afd7940c52ae74fb9d2" title="G4Pow::expA" alt="" coords="838,268,949,296"/>
+<area shape="rect" id="node14" href="$de/d0f/classG4Pow.html#ada686e15b5c3f2eb359af734b900145c" title="G4Pow::logX" alt="" coords="840,203,947,231"/>
+<area shape="rect" id="node9" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1072,280,1111,308"/>
+<area shape="rect" id="node11" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1216,305,1381,333"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1204,357,1393,385"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1467,305,1655,333"/>
+<area shape="rect" id="node21" href="$de/d0f/classG4Pow.html#ac13480ec4002760d19472b52e517933b" title="G4Pow::logBase" alt="" coords="1027,228,1156,256"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1465,176,1657,204"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1465,228,1657,256"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1441,124,1681,152"/>
+<area shape="rect" id="node19" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1729,99,1917,127"/>
+<area shape="rect" id="node20" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1729,151,1917,179"/>
+</map>

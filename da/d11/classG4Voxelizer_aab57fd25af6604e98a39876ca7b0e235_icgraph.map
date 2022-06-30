@@ -1,0 +1,29 @@
+<map id="G4Voxelizer::MinDistanceToBox" name="G4Voxelizer::MinDistanceToBox">
+<area shape="rect" id="node2" href="$da/d11/classG4Voxelizer.html#ad04c0591283d49f3a0710ff44e89ab00" title="G4Voxelizer::DistanceToBoundingBox" alt="" coords="247,199,520,227"/>
+<area shape="rect" id="node6" href="$da/db4/classG4TessellatedSolid.html#a66b45d87e7494cc1b5a12b44c91e7506" title="G4TessellatedSolid\l::MinDistanceFacet" alt="" coords="309,271,458,315"/>
+<area shape="rect" id="node3" href="$d9/df1/classG4MultiUnion.html#ac9128792d9baed96a5a3f0aa089aebd7" title="G4MultiUnion::DistanceToIn" alt="" coords="568,147,775,175"/>
+<area shape="rect" id="node4" href="$da/db4/classG4TessellatedSolid.html#a2b19efa9403f6d68d09ad69ed7213753" title="G4TessellatedSolid\l::SafetyFromOutside" alt="" coords="1041,267,1199,311"/>
+<area shape="rect" id="node5" href="$da/db4/classG4TessellatedSolid.html#a133fb9e39fe43cb345c702bdfda750a8" title="G4TessellatedSolid\l::DistanceToIn" alt="" coords="1311,267,1459,311"/>
+<area shape="rect" id="node7" href="$da/db4/classG4TessellatedSolid.html#acc3621a45f8ab77e21b630dc29111879" title="G4TessellatedSolid\l::Normal" alt="" coords="823,111,971,155"/>
+<area shape="rect" id="node22" href="$da/db4/classG4TessellatedSolid.html#a7f6f485e88cc8bfb159a08d768704a3b" title="G4TessellatedSolid\l::SafetyFromInside" alt="" coords="597,382,745,426"/>
+<area shape="rect" id="node8" href="$da/db4/classG4TessellatedSolid.html#af8b9f12b38b64020c942548a874644ee" title="G4TessellatedSolid\l::DistanceToOutCore" alt="" coords="2099,177,2257,221"/>
+<area shape="rect" id="node10" href="$da/db4/classG4TessellatedSolid.html#ab6609a3a093754f6ee2dbfdc4a70d0ad" title="G4TessellatedSolid\l::DistanceToOutNoVoxels" alt="" coords="1841,370,2031,414"/>
+<area shape="rect" id="node11" href="$da/db4/classG4TessellatedSolid.html#a783eaef38f6a0bd51084c5d035b1c14e" title="G4TessellatedSolid\l::SurfaceNormal" alt="" coords="1046,106,1194,150"/>
+<area shape="rect" id="node9" href="$da/db4/classG4TessellatedSolid.html#a1a271a7120ae6bfd9fb127cd78ea3ade" title="G4TessellatedSolid\l::DistanceToOut" alt="" coords="2305,177,2453,221"/>
+<area shape="rect" id="node12" href="$d6/dd3/classG4GenericTrap.html#ada0685d7d7a689128ce3c248e3943b2a" title="G4GenericTrap::NormalToPlane" alt="" coords="1269,163,1500,191"/>
+<area shape="rect" id="node20" href="$d6/dd3/classG4GenericTrap.html#a646044cbf6a091c267c06b4fd57794ba" title="G4GenericTrap::SurfaceNormal" alt="" coords="1269,43,1500,71"/>
+<area shape="rect" id="node21" href="$da/d21/classG4ExtrudedSolid.html#a8f08a943ec1ebcd9662c5e18ff933bb1" title="G4ExtrudedSolid::Surface\lNormal" alt="" coords="1287,95,1483,139"/>
+<area shape="rect" id="node13" href="$d6/dd3/classG4GenericTrap.html#a8c78cdfda9bb2c66629aa7f5b0df08f6" title="G4GenericTrap::DistanceToOut" alt="" coords="1821,162,2051,190"/>
+<area shape="rect" id="node14" href="$d6/dd3/classG4GenericTrap.html#a9bba8562afd21e020c0cb5983a9dfe4a" title="G4GenericTrap::DistToPlane" alt="" coords="1557,318,1765,346"/>
+<area shape="rect" id="node16" href="$d6/dd3/classG4GenericTrap.html#aadd0e531ab14550120d44e1f346ffc02" title="G4GenericTrap::DistToTriangle" alt="" coords="1548,111,1773,139"/>
+<area shape="rect" id="node17" href="$d6/dd3/classG4GenericTrap.html#a81940ed52af22aebf4952702283566ce" title="G4GenericTrap::SafetyToFace" alt="" coords="1551,266,1770,294"/>
+<area shape="rect" id="node15" href="$d6/dd3/classG4GenericTrap.html#ae9c250edc45b4758cb7e3a04d162b112" title="G4GenericTrap::DistanceToIn" alt="" coords="1828,318,2044,346"/>
+<area shape="rect" id="node18" href="$d6/dd3/classG4GenericTrap.html#acac2157eab6c615ebac8f13daf8cb578" title="G4GenericTrap::DistanceToIn" alt="" coords="1828,266,2044,294"/>
+<area shape="rect" id="node19" href="$d6/dd3/classG4GenericTrap.html#a714a4cd2306aab654bc1b1aed71b0391" title="G4GenericTrap::DistanceToOut" alt="" coords="1821,214,2051,242"/>
+<area shape="rect" id="node23" href="$da/db4/classG4TessellatedSolid.html#ab7e578142e64fbc7d7845f72c44b3831" title="G4TessellatedSolid\l::DistanceToOut" alt="" coords="823,382,971,426"/>
+<area shape="rect" id="node24" href="$da/db4/classG4TessellatedSolid.html#aefd838c4cb07074c79b5e22dd8e963f5" title="G4TessellatedSolid\l::DistanceToInNoVoxels" alt="" coords="1031,455,1209,499"/>
+<area shape="rect" id="node28" href="$da/d21/classG4ExtrudedSolid.html#a76fb37ff34e3bd69d8f79a985758baf6" title="G4ExtrudedSolid::Distance\lToOut" alt="" coords="1019,387,1221,431"/>
+<area shape="rect" id="node25" href="$da/db4/classG4TessellatedSolid.html#aadd67a3142258d2622fca162efb6829c" title="G4TessellatedSolid\l::DistanceToInCore" alt="" coords="1311,449,1459,493"/>
+<area shape="rect" id="node26" href="$da/db4/classG4TessellatedSolid.html#a596337989bde58ba374079f0aedf14e6" title="G4TessellatedSolid\l::DistanceToIn" alt="" coords="1587,442,1735,486"/>
+<area shape="rect" id="node27" href="$da/d21/classG4ExtrudedSolid.html#ad3af9c37b94fca1afe8ba6cee5970be0" title="G4ExtrudedSolid::DistanceToIn" alt="" coords="1821,450,2051,478"/>
+</map>

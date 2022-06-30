@@ -1,0 +1,44 @@
+<map id="G4ScoringManager::GetMesh" name="G4ScoringManager::GetMesh">
+<area shape="rect" id="node2" href="$d2/d11/classGammaKnifeController.html#ad847930a87465f3afbb716bd103666ab" title="GammaKnifeController\l::AccumulateAllHits" alt="" coords="611,5,787,49"/>
+<area shape="rect" id="node5" href="$da/d94/classG4VSceneHandler.html#aab1c38c4b0caac998c2eec13bcf7d7ee" title="G4VSceneHandler::AddCompound" alt="" coords="275,429,527,457"/>
+<area shape="rect" id="node6" href="$d1/dcb/classG4MPIscorerMerger.html#a29440beb7cda32c8ebbebd3035c49804" title="G4MPIscorerMerger::\lCalculatePackSize" alt="" coords="321,481,482,525"/>
+<area shape="rect" id="node11" href="$d3/db3/classG4WorkerRunManager.html#a0727aaf46d47b8c040e182f53fa51fab" title="G4WorkerRunManager\l::ConstructScoringWorlds" alt="" coords="305,669,497,713"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#af84469108bb21f3f5f3ae4b69bd52caf" title="G4RunManager::ConstructScoring\lWorlds" alt="" coords="277,357,526,401"/>
+<area shape="rect" id="node29" href="$d8/d8d/classG4PSHitsModel.html#a253c90100f7e7eafbe6b7f02d0f5d0ca" title="G4PSHitsModel::DescribeYourselfTo" alt="" coords="272,737,531,765"/>
+<area shape="rect" id="node30" href="$dc/dd7/classPHG4ScoringManager.html#a39091d7b61e10293db093fd15055c459" title="based on G4VScoreWriter::DumpAllQuantitiesToFile()" alt="" coords="303,789,499,833"/>
+<area shape="rect" id="node32" href="$df/d55/classG4ScoringManager.html#aedec7854d4cbe28333b6fec89001c8b8" title="G4ScoringManager::Merge" alt="" coords="301,857,502,885"/>
+<area shape="rect" id="node36" href="$d1/dcb/classG4MPIscorerMerger.html#acb928ec684d56921e46d32c0606a2801" title="Pack all meshes into buffer." alt="" coords="305,549,498,577"/>
+<area shape="rect" id="node38" href="$d2/d11/classGammaKnifeController.html#a702caeeae690c554cf9d511fadc385a0" title="GammaKnifeController\l::PrepareHitsAccumulation" alt="" coords="599,73,799,117"/>
+<area shape="rect" id="node39" href="$d2/d11/classGammaKnifeController.html#a14b72d9bf69673baa31d68e7166bdf33" title="GammaKnifeController\l::RotateBack" alt="" coords="611,141,787,185"/>
+<area shape="rect" id="node40" href="$d2/d11/classGammaKnifeController.html#a58fea0a7541d189b4594184d57371fcb" title="GammaKnifeController\l::RotateForward" alt="" coords="313,208,489,252"/>
+<area shape="rect" id="node41" href="$d2/d11/classGammaKnifeController.html#ae6fb51ae71420e700cb9f17280686b06" title="GammaKnifeController\l::StoreHits" alt="" coords="313,280,489,324"/>
+<area shape="rect" id="node42" href="$d1/dcb/classG4MPIscorerMerger.html#afe28e74b83ac5099d86f6c89c5d56a9a" title="G4MPIscorerMerger::\lUnPackAndMerge" alt="" coords="321,601,482,645"/>
+<area shape="rect" id="node3" href="$d2/d11/classGammaKnifeController.html#a9c6d1498cab6c2e2e801760c995ba7aa" title="GammaKnifeController\l::BeamOn" alt="" coords="899,73,1075,117"/>
+<area shape="rect" id="node4" href="$dd/dfe/classGammaKnifeMessenger.html#ab8e6d15aefdd7f105ab498174587a53e" title="GammaKnifeMessenger\l::SetNewValue" alt="" coords="1167,57,1351,101"/>
+<area shape="rect" id="node7" href="$d1/dcb/classG4MPIscorerMerger.html#a2b7cdc6176fe0ddf8b0c0596417d920c" title="G4MPIscorerMerger::\lCalculatePackSize" alt="" coords="619,484,780,528"/>
+<area shape="rect" id="node8" href="$d1/dcb/classG4MPIscorerMerger.html#a2f88c6ae92de22d512a56fbcae018400" title="G4MPIscorerMerger::Send" alt="" coords="602,552,797,580"/>
+<area shape="rect" id="node9" href="$d1/dcb/classG4MPIscorerMerger.html#ac45a6730554f3c8904b3a60ff82290e4" title="G4MPIscorerMerger::\lMerge" alt="" coords="906,623,1067,667"/>
+<area shape="rect" id="node10" href="$d8/df4/classRunActionMaster.html#a13676e8917530fbc29664072adb81cbb" title="RunActionMaster::EndOfRun\lAction" alt="" coords="1153,623,1364,667"/>
+<area shape="rect" id="node12" href="$d9/d56/classtbbWorkerRunManager.html#a1dbad92e58b90845e3b47ccfc5ad3af5" title="tbbWorkerRunManager\l::ConstructScoringWorlds" alt="" coords="603,724,795,768"/>
+<area shape="rect" id="node14" href="$d4/daa/classG4RunManager.html#a2e8622295d194ab03d48a9447c22521c" title="G4RunManager::BeamOn" alt="" coords="603,312,795,340"/>
+<area shape="rect" id="node27" href="$d7/dcf/classG4RunMessenger.html#aeef7c7062232da161237e3642a24fbf2" title="G4RunMessenger::SetNewValue" alt="" coords="868,537,1105,565"/>
+<area shape="rect" id="node28" href="$de/d16/classG4MTRunManager.html#aaed6b0333ff14c072ae5153d74083e33" title="G4MTRunManager::Construct\lScoringWorlds" alt="" coords="589,416,809,460"/>
+<area shape="rect" id="node15" href="$d6/dfa/classG4BlineTracer.html#a101e07bb8610d82a5fb2b3b0fea44cf7" title="G4BlineTracer::ComputeBlines" alt="" coords="873,141,1100,169"/>
+<area shape="rect" id="node17" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="899,193,1074,237"/>
+<area shape="rect" id="node19" href="$dd/d36/pymodG4run_8cc.html#a40df4755f58bb0bd961be91b7372bd01" title="export_G4RunManager" alt="" coords="898,261,1075,289"/>
+<area shape="rect" id="node21" href="$de/d16/classG4MTRunManager.html#a940295ba3e5d03a139c4cee22a9bf95a" title="G4MTRunManager::Initialize" alt="" coords="881,313,1092,341"/>
+<area shape="rect" id="node23" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="959,365,1014,393"/>
+<area shape="rect" id="node24" href="$d0/d78/classPHG4Reco.html#a6d817542976ebb31fc3577289e9e77b0" title="event processing method" alt="" coords="887,417,1086,445"/>
+<area shape="rect" id="node25" href="$db/d16/classG4AdjointSimManager.html#a36783373c75cd61d440156d98abe6473" title="G4AdjointSimManager\l::RunAdjointSimulation" alt="" coords="899,469,1075,513"/>
+<area shape="rect" id="node16" href="$d3/da7/classG4BlineTracerMessenger.html#acf8db65272c7e08eadae136c2cb710c9" title="G4BlineTracerMessenger\l::SetNewValue" alt="" coords="1164,125,1353,169"/>
+<area shape="rect" id="node18" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="1165,193,1353,237"/>
+<area shape="rect" id="node20" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="1161,261,1356,289"/>
+<area shape="rect" id="node22" href="$dc/d7e/extended_2parallel_2TBB_2B2b_2exampleB2b_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1231,313,1286,341"/>
+<area shape="rect" id="node26" href="$d6/d97/classG4AdjointSimMessenger.html#a5bfcad72a393216a5db8742d7d8556af" title="G4AdjointSimMessenger\l::SetNewValue" alt="" coords="1165,469,1353,513"/>
+<area shape="rect" id="node31" href="$dc/dd7/classPHG4ScoringManager.html#a9f1122e27b63ccb02a176f608c702695" title="end of run method" alt="" coords="598,797,801,825"/>
+<area shape="rect" id="node33" href="$de/d16/classG4MTRunManager.html#aedca6c6cd7867230916dd17ade6839dd" title="G4MTRunManager::MergeScores" alt="" coords="579,857,820,885"/>
+<area shape="rect" id="node34" href="$d3/db3/classG4WorkerRunManager.html#a77f9f9cdd6d99e1e77f738904e9eb6ca" title="G4WorkerRunManager\l::MergePartialResults" alt="" coords="899,849,1074,893"/>
+<area shape="rect" id="node35" href="$d3/db3/classG4WorkerRunManager.html#a1801b51ed0cd79a8b435fed854f6709f" title="G4WorkerRunManager\l::RunTermination" alt="" coords="1171,849,1346,893"/>
+<area shape="rect" id="node37" href="$d1/dcb/classG4MPIscorerMerger.html#a0070063bef1abb2950aef0d0596739cb" title="Pack a single mesh." alt="" coords="603,604,796,632"/>
+<area shape="rect" id="node43" href="$d1/dcb/classG4MPIscorerMerger.html#aa97896e81b0450be41e3a8006bb22b79" title="G4MPIscorerMerger::\lReceive" alt="" coords="619,656,780,700"/>
+</map>

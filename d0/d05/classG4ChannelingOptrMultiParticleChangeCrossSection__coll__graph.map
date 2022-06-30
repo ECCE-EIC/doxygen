@@ -1,0 +1,43 @@
+<map id="G4ChannelingOptrMultiParticleChangeCrossSection" name="G4ChannelingOptrMultiParticleChangeCrossSection">
+<area shape="rect" id="node2" href="$d1/d27/classG4VBiasingOperator.html" title="G4VBiasingOperator" alt="" coords="2787,634,2947,662"/>
+<area shape="rect" id="node40" href="$db/dd0/classG4ChannelingOptrChangeCrossSection.html" title="G4ChannelingOptrChangeCross\lSection" alt="" coords="3632,793,3868,837"/>
+<area shape="rect" id="node3" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4BiasingOperator\lStateNotifier * \&gt;" alt="" coords="1897,373,2125,417"/>
+<area shape="rect" id="node4" href="$da/d8c/classG4CacheReference.html" title="G4CacheReference\&lt; value\l_type \&gt;" alt="" coords="1171,389,1373,433"/>
+<area shape="rect" id="node21" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; std::vector\l\&lt; G4VBiasingOperator * \&gt; \&gt;" alt="" coords="1657,405,1873,449"/>
+<area shape="rect" id="node23" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; std::map\&lt;\l const G4LogicalVolume\l *,G4VBiasingOperator * \&gt; \&gt;" alt="" coords="1656,473,1873,533"/>
+<area shape="rect" id="node45" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; G4bool \&gt;" alt="" coords="1931,861,2092,889"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="397,1045,477,1073"/>
+<area shape="rect" id="node9" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="1695,774,1834,802"/>
+<area shape="rect" id="node11" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="760,486,931,514"/>
+<area shape="rect" id="node14" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="804,577,887,605"/>
+<area shape="rect" id="node17" href="$d9/d11/classG4UserLimits.html" title="G4UserLimits" alt="" coords="789,898,901,926"/>
+<area shape="rect" id="node18" href="$d1/d35/classG4Region.html" title="G4Region" alt="" coords="1229,831,1315,859"/>
+<area shape="rect" id="node25" href="$d7/dd6/classG4VBiasingOperation.html" title="G4VBiasingOperation" alt="" coords="2194,245,2361,273"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="768,1631,923,1659"/>
+<area shape="rect" id="node30" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="1714,1615,1815,1643"/>
+<area shape="rect" id="node33" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="2215,1255,2340,1283"/>
+<area shape="rect" id="node36" href="$da/d2b/classG4IonTable.html" title="G4IonTable" alt="" coords="1003,1205,1099,1233"/>
+<area shape="rect" id="node43" href="$d9/d47/classG4ParticleChangeForOccurenceBiasing.html" title="G4ParticleChangeForOccurence\lBiasing" alt="" coords="1397,1345,1632,1389"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="197,1045,287,1073"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,1037,148,1081"/>
+<area shape="rect" id="node47" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="2239,1479,2315,1507"/>
+<area shape="rect" id="node10" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="761,777,929,805"/>
+<area shape="rect" id="node13" href="$d5/db4/classG4LVData.html" title="G4LVData" alt="" coords="1229,522,1315,550"/>
+<area shape="rect" id="node12" href="$d0/dcf/classG4SmartVoxelHeader.html" title="G4SmartVoxelHeader" alt="" coords="1188,883,1356,911"/>
+<area shape="rect" id="node15" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="779,657,911,685"/>
+<area shape="rect" id="node16" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="1209,975,1335,1003"/>
+<area shape="rect" id="node20" href="$da/d85/classG4VectorCache.html" title="G4VectorCache\&lt; G4VBiasing\lOperator * \&gt;" alt="" coords="2168,494,2387,538"/>
+<area shape="rect" id="node22" href="$d6/df6/classG4MapCache.html" title="G4MapCache\&lt; const G4Logical\lVolume *, G4VBiasingOperator * \&gt;" alt="" coords="2149,607,2405,651"/>
+<area shape="rect" id="node42" href="$d6/d72/classG4BiasingProcessInterface.html" title="G4BiasingProcessInterface" alt="" coords="2767,1377,2968,1405"/>
+<area shape="rect" id="node48" href="$d0/d17/classG4BOptnChangeCrossSection.html" title="G4BOptnChangeCrossSection" alt="" coords="2757,77,2978,105"/>
+<area shape="rect" id="node28" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="1196,1874,1348,1902"/>
+<area shape="rect" id="node29" href="$d9/d8c/classG4ProcessManagerMessenger.html" title="G4ProcessManagerMessenger" alt="" coords="2755,1901,2980,1929"/>
+<area shape="rect" id="node37" href="$db/d05/classG4ParticleMessenger.html" title="G4ParticleMessenger" alt="" coords="2785,1263,2949,1291"/>
+<area shape="rect" id="node39" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="1213,1623,1331,1651"/>
+<area shape="rect" id="node31" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="778,2061,913,2089"/>
+<area shape="rect" id="node32" title="STL class." alt="" coords="371,1998,503,2026"/>
+<area shape="rect" id="node35" href="$d4/d96/classG4ParticleTableIterator.html" title="G4ParticleTableIterator\l\&lt; K, V \&gt;" alt="" coords="1677,1290,1853,1334"/>
+<area shape="rect" id="node38" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="371,1631,503,1659"/>
+<area shape="rect" id="node44" href="$df/d11/classG4ParticleChangeForNothing.html" title="G4ParticleChangeForNothing" alt="" coords="2169,1410,2385,1438"/>
+<area shape="rect" id="node46" href="$dd/d2b/classG4InteractionLawPhysical.html" title="G4InteractionLawPhysical" alt="" coords="2180,354,2375,382"/>
+</map>

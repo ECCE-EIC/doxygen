@@ -1,0 +1,32 @@
+<map id="ITTrackingInteractivity::EndTracking" name="ITTrackingInteractivity::EndTracking">
+<area shape="rect" id="node2" href="$da/d44/classG4EventManager.html#aacf5223cc2c7b5a1b1fc699eed9b0ff2" title="G4EventManager::GetEvent\lManager" alt="" coords="241,5,452,49"/>
+<area shape="rect" id="node3" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="317,73,376,101"/>
+<area shape="rect" id="node5" href="$da/d44/classG4EventManager.html#a141ce16d9b5d2846bf2b3a2088b67231" title="G4EventManager::GetNonconst\lCurrentEvent" alt="" coords="229,125,464,169"/>
+<area shape="rect" id="node6" href="$d3/d7e/classG4IT.html#ac74cab7f6c97318b4a580e11e7f96b47" title="G4IT::GetTrackingInfo" alt="" coords="264,193,429,221"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a44735402a6a688d2904d76dbfc632de3" title="G4Track::GetTrackStatus" alt="" coords="253,245,440,273"/>
+<area shape="rect" id="node8" href="$d9/d0a/classG4TrackingInformation.html#a78a7ad02e92e00194584a627f4077d71" title="G4TrackingInformation\l::GetTrajectory_Lock" alt="" coords="259,297,434,341"/>
+<area shape="rect" id="node9" href="$d5/de2/classG4Event.html#a676590e87bb23b83a7f132d7df2a7046" title="G4Event::GetTrajectoryContainer" alt="" coords="224,365,469,393"/>
+<area shape="rect" id="node10" href="$d2/dcc/classG4TrajectoryContainer.html#a6dd40ca48fd98122ef5063b6cb14f263" title="G4TrajectoryContainer\l::insert" alt="" coords="260,417,433,461"/>
+<area shape="rect" id="node12" href="$d4/d9f/classG4UserTrackingAction.html#a08a90667c9272694243510b9106af623" title="G4UserTrackingAction\l::PostUserTrackingAction" alt="" coords="253,485,440,529"/>
+<area shape="rect" id="node13" href="$d9/d0a/classG4TrackingInformation.html#a01065e57cb8ce4640a06c552b6e4049c" title="G4TrackingInformation\l::SetTrajectory_Lock" alt="" coords="259,553,434,597"/>
+<area shape="rect" id="node14" href="$d5/de2/classG4Event.html#af7a3b187683c6fbe37681c417f6c71f1" title="G4Event::SetTrajectoryContainer" alt="" coords="225,621,469,649"/>
+<area shape="rect" id="node15" href="$d6/d48/classG4VTrajectory.html#a5ae8c99ee3317729b0d56e916854cbf6" title="G4VTrajectory::ShowTrajectory" alt="" coords="233,673,461,701"/>
+<area shape="rect" id="node22" href="$d4/d3b/classG4ITTrackingInteractivity.html#af3489f0a2964eb0a36690c9e145ae682" title="G4ITTrackingInteractivity\l::TrackBanner" alt="" coords="252,911,441,955"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="523,73,741,101"/>
+<area shape="rect" id="node11" href="$d2/dcc/classG4TrajectoryContainer.html#aba2feb6504a80e2bb07ce5c3ad3cd217" title="G4TrajectoryContainer\l::push_back" alt="" coords="545,409,719,453"/>
+<area shape="rect" id="node16" href="$dc/de3/classG4VTrajectoryPoint.html#a57c58597efeb944ff81b5a8e0c359f37" title="G4VTrajectoryPoint\l::CreateAttValues" alt="" coords="557,477,707,521"/>
+<area shape="rect" id="node17" href="$d6/d48/classG4VTrajectory.html#abfbc652c30e5864413a37d2edbb8d285" title="G4VTrajectory::CreateAtt\lValues" alt="" coords="537,545,727,589"/>
+<area shape="rect" id="node18" href="$dc/de3/classG4VTrajectoryPoint.html#a8c07b47196e792ad483e13aebc8427f9" title="G4VTrajectoryPoint\l::GetAttDefs" alt="" coords="557,613,707,657"/>
+<area shape="rect" id="node19" href="$d6/d48/classG4VTrajectory.html#ac4b469e66c240f206e440c8e01e695a5" title="G4VTrajectory::GetAttDefs" alt="" coords="533,681,731,709"/>
+<area shape="rect" id="node20" href="$d6/d48/classG4VTrajectory.html#af24b1594738121b40eaca28a5192114c" title="G4VTrajectory::GetPoint" alt="" coords="541,733,723,761"/>
+<area shape="rect" id="node21" href="$d6/d48/classG4VTrajectory.html#a294b787d4ad00d3fdb95881a9125963a" title="G4VTrajectory::GetPointEntries" alt="" coords="517,785,747,813"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="545,837,719,865"/>
+<area shape="rect" id="node24" href="$d1/d33/classG4Track.html#ab95cf561ef469d0122a65e232bc0ffa5" title="G4Track::GetParentID" alt="" coords="549,889,715,917"/>
+<area shape="rect" id="node25" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="555,941,709,985"/>
+<area shape="rect" id="node26" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="553,1009,711,1037"/>
+<area shape="rect" id="node27" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="591,1061,673,1089"/>
+<area shape="rect" id="node28" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="795,985,1011,1029"/>
+<area shape="rect" id="node29" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="797,1053,1009,1097"/>
+<area shape="rect" id="node30" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="797,1121,1008,1165"/>
+<area shape="rect" id="node31" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1059,1121,1227,1165"/>
+</map>

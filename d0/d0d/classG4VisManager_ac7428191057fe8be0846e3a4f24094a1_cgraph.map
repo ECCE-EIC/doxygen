@@ -1,0 +1,34 @@
+<map id="G4VisManager::NotifyHandlers" name="G4VisManager::NotifyHandlers">
+<area shape="rect" id="node2" href="$d9/d52/classG4Scene.html#a122c09e2e561bf0b439b71d68820803d" title="G4Scene::CalculateExtent" alt="" coords="307,411,506,439"/>
+<area shape="rect" id="node20" href="$da/d94/classG4VSceneHandler.html#ae4c98cad9124e5199f0d5ce0a2df2475" title="G4VSceneHandler::ClearStore" alt="" coords="295,463,519,491"/>
+<area shape="rect" id="node21" href="$da/d94/classG4VSceneHandler.html#a178952f8baeb7156bb4c47124bbc4e43" title="G4VSceneHandler::ClearTransient\lStore" alt="" coords="281,515,532,559"/>
+<area shape="rect" id="node22" href="$d3/dbf/classG4VViewer.html#ad5b72af7fd53d9851c8f9f639063880e" title="G4VViewer::ClearView" alt="" coords="321,583,493,611"/>
+<area shape="rect" id="node23" href="$d3/dbf/classG4VViewer.html#abf345bdf81c925c403d63db36516c4d4" title="G4VViewer::FinishView" alt="" coords="319,635,495,663"/>
+<area shape="rect" id="node24" href="$d9/d52/classG4Scene.html#a8cd9e5be734ceb4a05144983f85bf7fd" title="G4Scene::GetName" alt="" coords="329,687,484,715"/>
+<area shape="rect" id="node25" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="301,739,512,767"/>
+<area shape="rect" id="node32" href="$d3/dbf/classG4VViewer.html#a8b2202c4b26ec99895e418a774cd770c" title="G4VViewer::NeedKernelVisit" alt="" coords="301,791,513,819"/>
+<area shape="rect" id="node33" href="$d3/dbf/classG4VViewer.html#aefebe32dbfcd15e8ac02073e665cd875" title="G4VViewer::SetView" alt="" coords="327,843,486,871"/>
+<area shape="rect" id="node3" href="$d0/d6c/classG4BoundingExtentScene.html#a04a4aca6327e045679c7d20e2b670bff" title="G4BoundingExtentScene\l::AccrueBoundingExtent" alt="" coords="606,283,797,327"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="648,351,755,379"/>
+<area shape="rect" id="node17" href="$d0/d6c/classG4BoundingExtentScene.html#a08a266a0859e89ca66f46341fa40692d" title="G4BoundingExtentScene\l::GetBoundingExtent" alt="" coords="606,403,797,447"/>
+<area shape="rect" id="node18" href="$df/d57/classG4VisExtent.html#a2c1338fd19ad0eda628b463a565f8e69" title="G4VisExtent::GetExtentCentre" alt="" coords="589,471,814,499"/>
+<area shape="rect" id="node19" href="$df/d57/classG4VisExtent.html#ab2250da251e69719131c3bedb120d041" title="G4VisExtent::GetExtentRadius" alt="" coords="588,523,815,551"/>
+<area shape="rect" id="node4" href="$df/d57/classG4VisExtent.html#a9977d8cc978b6500a7b1c52e26fc2869" title="G4VisExtent::GetXmax" alt="" coords="910,5,1086,33"/>
+<area shape="rect" id="node5" href="$df/d57/classG4VisExtent.html#a1efd60652bd513ab337957f4d6e56099" title="G4VisExtent::GetXmin" alt="" coords="913,57,1083,85"/>
+<area shape="rect" id="node6" href="$df/d57/classG4VisExtent.html#a320453683fd6d92671168104a8eecf6e" title="G4VisExtent::GetYmax" alt="" coords="911,109,1085,137"/>
+<area shape="rect" id="node7" href="$df/d57/classG4VisExtent.html#ac904d0c16bb9b143bfe6a7539a402357" title="G4VisExtent::GetYmin" alt="" coords="913,161,1083,189"/>
+<area shape="rect" id="node8" href="$df/d57/classG4VisExtent.html#ab55df2715f34134817508862d081319f" title="G4VisExtent::GetZmax" alt="" coords="910,213,1086,241"/>
+<area shape="rect" id="node9" href="$df/d57/classG4VisExtent.html#a7bcc285d1edc41080f7f4cd9ca5588e1" title="G4VisExtent::GetZmin" alt="" coords="912,265,1084,293"/>
+<area shape="rect" id="node10" href="$df/d57/classG4VisExtent.html#a625b0426742e6f0e155ef281a72f8b84" title="G4VisExtent::SetXmax" alt="" coords="911,317,1085,345"/>
+<area shape="rect" id="node11" href="$df/d57/classG4VisExtent.html#a998c5cd9c0da1e1b32a3d7a211fce357" title="G4VisExtent::SetXmin" alt="" coords="913,369,1083,397"/>
+<area shape="rect" id="node12" href="$df/d57/classG4VisExtent.html#a5eb346b767fed8aaec9ade2ca3cd1063" title="G4VisExtent::SetYmax" alt="" coords="911,421,1085,449"/>
+<area shape="rect" id="node13" href="$df/d57/classG4VisExtent.html#a2834624c7d55438ce2239ae899338ff1" title="G4VisExtent::SetYmin" alt="" coords="913,473,1083,501"/>
+<area shape="rect" id="node14" href="$df/d57/classG4VisExtent.html#a9db49e5412d58d50cfb014f692d8afe2" title="G4VisExtent::SetZmax" alt="" coords="911,525,1085,553"/>
+<area shape="rect" id="node15" href="$df/d57/classG4VisExtent.html#affc4d8c7d52e3cce589dfaccc5172f19" title="G4VisExtent::SetZmin" alt="" coords="913,577,1083,605"/>
+<area shape="rect" id="node26" href="$d8/def/classG4UImanager.html#a3e92dbf1941e2e850e9090060fd429d3" title="G4UImanager::CreateMessenger" alt="" coords="580,657,823,685"/>
+<area shape="rect" id="node27" href="$d8/def/classG4UImanager.html#aaf9882646bb6ec655c5c8becffe98772" title="G4UImanager::fUImanager" alt="" coords="599,709,803,737"/>
+<area shape="rect" id="node28" href="$d8/def/classG4UImanager.html#aedc7f38c4d4db62a0871da5cfc8d2dec" title="G4UImanager::fUImanagerHas\lBeenKilled" alt="" coords="587,761,816,805"/>
+<area shape="rect" id="node29" href="$d8/def/classG4UImanager.html#ae4d4d81368fb46e5006bf03646da897b" title="G4UImanager::G4UImanager" alt="" coords="592,829,811,857"/>
+<area shape="rect" id="node30" href="$d8/def/classG4UImanager.html#a18c91362ccd08d23b96b834da174e5c0" title="G4UImanager::SetCoutDestination" alt="" coords="871,829,1125,857"/>
+<area shape="rect" id="node31" href="$d2/dce/classG4strstreambuf.html#a88d7accfe65495690b4b41b08fffb723" title="G4strstreambuf::SetDestination" alt="" coords="1173,829,1408,857"/>
+</map>

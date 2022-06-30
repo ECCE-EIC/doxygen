@@ -1,0 +1,18 @@
+<map id="G4VParticleChange::SetParentWeightByProcess" name="G4VParticleChange::SetParentWeightByProcess">
+<area shape="rect" id="node2" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#ab63fcf25d2b2f52c5f1331af50dab5f7" title="G4AdjointForcedInteraction\lForGamma::AlongStepDoIt" alt="" coords="271,5,476,49"/>
+<area shape="rect" id="node3" href="$db/dca/classG4AdjointAlongStepWeightCorrection.html#ac30500fe187798fff02695e2f8ac4926" title="G4AdjointAlongStepWeight\lCorrection::AlongStepDoIt" alt="" coords="271,73,476,117"/>
+<area shape="rect" id="node4" href="$df/d03/classG4ContinuousGainOfEnergy.html#a8274612225f225916d412c7b2b903f98" title="G4ContinuousGainOfEnergy\l::AlongStepDoIt" alt="" coords="268,141,479,185"/>
+<area shape="rect" id="node5" href="$d6/d9d/classG4AdjointPhotoElectricModel.html#a523be18494da7d7769e6fa19ee063ede" title="G4AdjointPhotoElectricModel\l::CorrectPostStepWeight" alt="" coords="265,209,481,253"/>
+<area shape="rect" id="node7" href="$d6/d89/classG4AdjointIonIonisationModel.html#ae6c6255c85cd4a6adcfb7d081fe4f2c0" title="G4AdjointIonIonisationModel\l::CorrectPostStepWeight" alt="" coords="266,277,481,321"/>
+<area shape="rect" id="node9" href="$df/d40/classG4VEmAdjointModel.html#a57a8144c49da7051db2d848a42bc9b94" title="G4VEmAdjointModel::\lCorrectPostStepWeight" alt="" coords="285,465,462,509"/>
+<area shape="rect" id="node11" href="$d5/dbf/classG4AdjointeIonisationModel.html#adef5a78045061be3719fdecc639175f5" title="G4AdjointeIonisationModel\l::SampleSecondaries" alt="" coords="555,423,757,467"/>
+<area shape="rect" id="node14" href="$d3/d59/classG4AdjointForcedInteractionForGamma.html#a36436e7285a79b213f3890fe8b3fc8de" title="G4AdjointForcedInteraction\lForGamma::PostStepDoIt" alt="" coords="271,669,476,713"/>
+<area shape="rect" id="node15" href="$d0/ddc/classG4AdjointComptonModel.html#a5cd0157806b2cfd4c5baa5f14f721813" title="G4AdjointComptonModel\l::RapidSampleSecondaries" alt="" coords="272,345,475,389"/>
+<area shape="rect" id="node16" href="$dc/d41/classG4AdjointBremsstrahlungModel.html#a425e091dfb3336532e7628c8d69c9744" title="G4AdjointBremsstrahlungModel\l::RapidSampleSecondaries" alt="" coords="256,533,491,577"/>
+<area shape="rect" id="node17" href="$d5/d26/classG4AdjointhIonisationModel.html#ae8d835e8e051846bfc8e3210388cac17" title="G4AdjointhIonisationModel\l::RapidSampleSecondaries" alt="" coords="272,601,475,645"/>
+<area shape="rect" id="node6" href="$d6/d9d/classG4AdjointPhotoElectricModel.html#a45aaac13e67febb3501cef5253d3c437" title="G4AdjointPhotoElectricModel\l::SampleSecondaries" alt="" coords="548,209,764,253"/>
+<area shape="rect" id="node8" href="$d6/d89/classG4AdjointIonIonisationModel.html#ac05938d927010a2012fc9079d1672651" title="G4AdjointIonIonisationModel\l::SampleSecondaries" alt="" coords="549,277,763,321"/>
+<area shape="rect" id="node10" href="$d0/ddc/classG4AdjointComptonModel.html#a1a74ce9cb3675b6fd4c72bbbd0ffd59e" title="G4AdjointComptonModel\l::SampleSecondaries" alt="" coords="561,348,751,392"/>
+<area shape="rect" id="node12" href="$dc/d41/classG4AdjointBremsstrahlungModel.html#a0a200f6d1d2be32d5fabcef8135f8b17" title="G4AdjointBremsstrahlungModel\l::SampleSecondaries" alt="" coords="539,504,773,548"/>
+<area shape="rect" id="node13" href="$d5/d26/classG4AdjointhIonisationModel.html#aadcb5e8f9bf972793dc8e6c7c2e2bd25" title="G4AdjointhIonisationModel\l::SampleSecondaries" alt="" coords="555,597,757,641"/>
+</map>

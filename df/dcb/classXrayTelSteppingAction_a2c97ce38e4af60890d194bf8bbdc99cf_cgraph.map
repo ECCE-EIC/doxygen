@@ -1,0 +1,25 @@
+<map id="XrayTelSteppingAction::UserSteppingAction" name="XrayTelSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$df/d60/classXrayTelAnalysis.html#aeea0941e033cc43064f6c9d1045e7f21" title="XrayTelAnalysis::analyse\lStepping" alt="" coords="247,373,435,417"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="525,5,728,33"/>
+<area shape="rect" id="node15" href="$d3/d85/namespacestatic__analysis__results.html#a399d24c616a32604e69daf1c42fffeeb" title="static_analysis_results.analysis" alt="" coords="225,553,456,581"/>
+<area shape="rect" id="node17" href="$d7/d23/namespaceG4Threading.html#abe617631a97dac681b4bf698ad98a82f" title="G4Threading::G4GetThreadId" alt="" coords="231,605,451,633"/>
+<area shape="rect" id="node18" href="$df/d60/classXrayTelAnalysis.html#afb5dc8c718a9858e0035e180b53ebd2f" title="XrayTelAnalysis::getInstance" alt="" coords="233,657,448,685"/>
+<area shape="rect" id="node20" href="$d1/d28/classG4VPhysicalVolume.html#a58405900b1878b174d4b5630dc449d4d" title="G4VPhysicalVolume::\lGetName" alt="" coords="259,709,423,753"/>
+<area shape="rect" id="node21" href="$d1/d33/classG4Track.html#af6527c112dbcab9daf56547efa196cb1" title="G4Track::GetNextVolume" alt="" coords="245,777,436,805"/>
+<area shape="rect" id="node22" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="271,829,411,857"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html#a1134eeff5c5b312f844336f17906850f" title="G4Track::GetVolume" alt="" coords="261,881,420,909"/>
+<area shape="rect" id="node24" href="$df/d60/classXrayTelAnalysis.html#ac9c679ee262b755c98169f1a2661b5d5" title="XrayTelAnalysis::Update" alt="" coords="249,933,433,961"/>
+<area shape="rect" id="node3" href="$d8/d9b/classG4VAnalysisManager.html#a37f6d468137190916538e7b4e1b2b8e9" title="G4VAnalysisManager\l::AddNtupleRow" alt="" coords="544,57,709,101"/>
+<area shape="rect" id="node4" href="$d8/d9b/classG4VAnalysisManager.html#a978368567c1dca5d45598cca6e580bff" title="G4VAnalysisManager\l::FillH1" alt="" coords="544,125,709,169"/>
+<area shape="rect" id="node5" href="$d8/d9b/classG4VAnalysisManager.html#a3e6f846c8c89c4f77b782c8a37e33ea1" title="G4VAnalysisManager\l::FillH2" alt="" coords="544,193,709,237"/>
+<area shape="rect" id="node6" href="$d8/d9b/classG4VAnalysisManager.html#a4fea5eb9e0e252794fd2d872e79b1012" title="G4VAnalysisManager\l::FillNtupleDColumn" alt="" coords="544,261,709,305"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="504,329,749,357"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="546,381,707,409"/>
+<area shape="rect" id="node10" href="$d9/dc0/classG4ToolsAnalysisManager.html#a629081b912115346cca665f41e274c74" title="G4ToolsAnalysisManager\l::Instance" alt="" coords="531,433,722,477"/>
+<area shape="rect" id="node11" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="604,501,649,529"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="542,553,711,581"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="542,605,711,633"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="543,657,711,685"/>
+<area shape="rect" id="node16" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="607,709,647,737"/>
+<area shape="rect" id="node19" href="$df/d60/classXrayTelAnalysis.html#a5609abb72efa2ca26bd3d367896a6479" title="XrayTelAnalysis::XrayTel\lAnalysis" alt="" coords="535,761,719,805"/>
+</map>

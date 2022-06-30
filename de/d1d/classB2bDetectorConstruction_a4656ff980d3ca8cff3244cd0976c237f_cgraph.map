@@ -1,0 +1,29 @@
+<map id="B2bDetectorConstruction::ConstructSDandField" name="B2bDetectorConstruction::ConstructSDandField">
+<area shape="rect" id="node2" href="$d9/d6b/classG4SDManager.html#a8380c44487a009e4f53bb0a998bc8c31" title="G4SDManager::AddNewDetector" alt="" coords="245,220,487,248"/>
+<area shape="rect" id="node21" href="$d9/d6b/classG4SDManager.html#a08beb9db9dbec2cae46d06717f6369f7" title="G4SDManager::GetSDMpointer" alt="" coords="251,612,481,640"/>
+<area shape="rect" id="node23" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="275,664,457,692"/>
+<area shape="rect" id="node25" href="$d6/df8/classG4VUserDetectorConstruction.html#a48f53b0bb2e30b9e4cfd4554153a610e" title="G4VUserDetectorConstruction\l::SetSensitiveDetector" alt="" coords="547,545,771,589"/>
+<area shape="rect" id="node28" href="$d9/d64/classG4GlobalMagFieldMessenger.html#a1ed85373249f737aee8f949bb787a15f" title="G4GlobalMagFieldMessenger\l::SetVerboseLevel" alt="" coords="257,716,475,760"/>
+<area shape="rect" id="node3" href="$df/dbc/classG4VSensitiveDetector.html#adc3da7f953edcd724965a11626fe8012" title="G4VSensitiveDetector\l::GetNumberOfCollections" alt="" coords="561,177,758,221"/>
+<area shape="rect" id="node4" href="$df/dbc/classG4VSensitiveDetector.html#a51333874c30591c54e7f03c859d0ed2f" title="G4VSensitiveDetector\l::GetPathName" alt="" coords="574,245,745,289"/>
+<area shape="rect" id="node5" href="$d5/d72/classG4String.html#a80e22772096d15941cc0a729d133e555" title="G4String::prepend" alt="" coords="883,77,1028,105"/>
+<area shape="rect" id="node6" href="$d1/d43/classG4SDStructure.html#af288d528ebb206e5dd190623b4858f9d" title="G4SDStructure::AddNewDetector" alt="" coords="537,337,782,365"/>
+<area shape="rect" id="node15" href="$df/dbc/classG4VSensitiveDetector.html#a3f90d67d18015a44c8daaa10859ae5a3" title="G4VSensitiveDetector\l::GetName" alt="" coords="870,545,1041,589"/>
+<area shape="rect" id="node18" href="$df/dbc/classG4VSensitiveDetector.html#a818f380e2e5fb712bfccb92a3b0b7053" title="G4VSensitiveDetector\l::GetCollectionName" alt="" coords="574,57,745,101"/>
+<area shape="rect" id="node19" href="$d9/d6b/classG4SDManager.html#afe0d8d6f95484177f0b4d4212d9e44bb" title="G4SDManager::AddNewCollection" alt="" coords="535,5,784,33"/>
+<area shape="rect" id="node7" href="$d5/d72/classG4String.html#afb274c4b23618f6ac01f89880e5069b9" title="G4String::remove" alt="" coords="1127,337,1268,365"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html#ab37edd5326efe646514318907798d264" title="G4String::isNull" alt="" coords="892,441,1019,469"/>
+<area shape="rect" id="node9" href="$d1/d43/classG4SDStructure.html#a02f143832c4920436d2b5c9a2dacb0fd" title="G4SDStructure::ExtractDirName" alt="" coords="837,285,1074,313"/>
+<area shape="rect" id="node11" href="$d1/d43/classG4SDStructure.html#a8fad749a23eb1253aefb4208038354f2" title="G4SDStructure::FindSubDirectory" alt="" coords="832,129,1079,157"/>
+<area shape="rect" id="node12" href="$d1/d43/classG4SDStructure.html#aa1cf9d96ea3cd63d599fcc8bc667c8aa" title="G4SDStructure::G4SDStructure" alt="" coords="840,389,1071,417"/>
+<area shape="rect" id="node14" href="$d1/d43/classG4SDStructure.html#a3d39e0d54816e3b2416ddf2b5d524a73" title="G4SDStructure::GetSD" alt="" coords="869,181,1042,209"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="902,493,1009,521"/>
+<area shape="rect" id="node17" href="$d1/d43/classG4SDStructure.html#a45f91ed781f1a6d0bfc7de6675af5557" title="G4SDStructure::RemoveSD" alt="" coords="853,233,1057,261"/>
+<area shape="rect" id="node10" href="$d5/d72/classG4String.html#ab6261a741b9eef5c5731c3a0523f08da" title="G4String::first" alt="" coords="1139,285,1256,313"/>
+<area shape="rect" id="node13" href="$d5/d72/classG4String.html#a736140ddd90de6db79a3d4036eb41d85" title="G4String::last" alt="" coords="1140,389,1255,417"/>
+<area shape="rect" id="node20" href="$de/dd7/classG4HCtable.html#a3690a802698825fdb174050cd9831120" title="G4HCtable::Registor" alt="" coords="875,5,1035,33"/>
+<area shape="rect" id="node22" href="$d9/d6b/classG4SDManager.html#a56303fb2a382670fba72f15beff2834c" title="G4SDManager::G4SDManager" alt="" coords="547,613,772,641"/>
+<area shape="rect" id="node24" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="566,665,753,709"/>
+<area shape="rect" id="node26" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="869,613,1042,657"/>
+<area shape="rect" id="node27" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="933,681,978,709"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="G4Mag_EqRhs::FCof" name="G4Mag_EqRhs::FCof">
+<area shape="rect" id="node2" href="$d5/d53/classG4MagHelicalStepper.html#a33b29ffe111f4ca57aed5d530a8ad745" title="G4MagHelicalStepper\l::AdvanceHelix" alt="" coords="239,300,409,344"/>
+<area shape="rect" id="node12" href="$d6/db0/classG4BFieldIntegrationDriver.html#a4b190b77826bbfd8f8ddbf41006144e6" title="G4BFieldIntegrationDriver\l::CurvatureRadius" alt="" coords="225,588,423,632"/>
+<area shape="rect" id="node14" href="$da/d48/classG4ErrorMag__UsualEqRhs.html#afbd971efbbefdd3fe0736539721686aa" title="G4ErrorMag_UsualEqRhs\l::EvaluateRhsGivenB" alt="" coords="499,695,687,739"/>
+<area shape="rect" id="node15" href="$d7/d85/classG4Mag__UsualEqRhs.html#ad8ae675956036496a65feedabed07a45" title="G4Mag_UsualEqRhs::Evaluate\lRhsGivenB" alt="" coords="212,708,436,752"/>
+<area shape="rect" id="node16" href="$dd/d32/classG4Mag__SpinEqRhs.html#abe61ed5fb6e9105a2df73096084dbc09" title="G4Mag_SpinEqRhs::Evaluate\lRhsGivenB" alt="" coords="216,776,432,820"/>
+<area shape="rect" id="node17" href="$d9/d37/classG4ConstRK4.html#ac3555ea854af236f69306e9754cfc39f" title="G4ConstRK4::RightHandSide\lConst" alt="" coords="216,844,432,888"/>
+<area shape="rect" id="node3" href="$d5/d6e/classG4ExactHelixStepper.html#aa9d96b6473dac229b8bf7bb81f2ca243" title="G4ExactHelixStepper\l::Stepper" alt="" coords="510,5,677,49"/>
+<area shape="rect" id="node4" href="$d5/d6e/classG4ExactHelixStepper.html#a35555cbea39421ec7bfb9bfbb3bbe3d6" title="G4ExactHelixStepper\l::DumbStepper" alt="" coords="510,73,677,117"/>
+<area shape="rect" id="node5" href="$df/d69/classG4HelixExplicitEuler.html#acb690e33bdad2b9383580b270a113334" title="G4HelixExplicitEuler\l::Stepper" alt="" coords="513,141,673,185"/>
+<area shape="rect" id="node6" href="$df/d69/classG4HelixExplicitEuler.html#acdea1d6b3a923e3167439dd896abfb6d" title="G4HelixExplicitEuler\l::DumbStepper" alt="" coords="513,209,673,253"/>
+<area shape="rect" id="node7" href="$d6/d22/classG4HelixHeum.html#a39a2ce8905a2dbef25bc016205ad750c" title="G4HelixHeum::DumbStepper" alt="" coords="484,277,703,305"/>
+<area shape="rect" id="node8" href="$dd/d06/classG4HelixImplicitEuler.html#a34656d549d27dfd9e57e9fe8b520da0c" title="G4HelixImplicitEuler\l::DumbStepper" alt="" coords="513,329,673,373"/>
+<area shape="rect" id="node9" href="$d7/d14/classG4HelixMixedStepper.html#a3dfb7c6995d2cb79f6eef268ffed10e0" title="G4HelixMixedStepper\l::Stepper" alt="" coords="509,397,678,441"/>
+<area shape="rect" id="node10" href="$d7/d14/classG4HelixMixedStepper.html#a93666a69327864d1510c61724b9363ee" title="G4HelixMixedStepper\l::DumbStepper" alt="" coords="509,465,678,509"/>
+<area shape="rect" id="node11" href="$d6/d4b/classG4HelixSimpleRunge.html#a9ffc12e6bfebfcbeca8e3f2880f5ed17" title="G4HelixSimpleRunge\l::DumbStepper" alt="" coords="511,533,675,577"/>
+<area shape="rect" id="node13" href="$d6/db0/classG4BFieldIntegrationDriver.html#abde4ee6289bae3604abe57ef24a4d479" title="G4BFieldIntegrationDriver\l::AdvanceChordLimited" alt="" coords="495,601,692,645"/>
+<area shape="rect" id="node18" href="$d9/d37/classG4ConstRK4.html#a1bb54e205fccdf862580a429a33dac19" title="G4ConstRK4::DumbStepper" alt="" coords="489,825,698,853"/>
+<area shape="rect" id="node19" href="$d9/d37/classG4ConstRK4.html#a734461174700546a9ef79f82ce8a3ba0" title="G4ConstRK4::Stepper" alt="" coords="751,852,920,880"/>
+</map>

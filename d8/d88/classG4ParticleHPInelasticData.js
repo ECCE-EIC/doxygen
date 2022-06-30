@@ -1,0 +1,25 @@
+var classG4ParticleHPInelasticData =
+[
+    [ "G4ParticleHPInelasticData", "d8/d88/classG4ParticleHPInelasticData.html#a78ea03ccc8787b91ab49af8ea9172b0a", null ],
+    [ "~G4ParticleHPInelasticData", "d8/d88/classG4ParticleHPInelasticData.html#a7452c5e11116da649b1525b361162ce9", null ],
+    [ "BuildPhysicsTable", "d8/d88/classG4ParticleHPInelasticData.html#ad9ef801edc3ffec254fa8b3027793843", null ],
+    [ "CrossSectionDescription", "d8/d88/classG4ParticleHPInelasticData.html#a0223792024da64c014bf9ba040de83ec", null ],
+    [ "DumpPhysicsTable", "d8/d88/classG4ParticleHPInelasticData.html#a5af1f4a27c44e89f73851d91a7a151ac", null ],
+    [ "EnableOnFlightDopplerBroadening", "d8/d88/classG4ParticleHPInelasticData.html#a58ca32dea6cc816d94f11bbbcb137659", null ],
+    [ "GetCrossSection", "d8/d88/classG4ParticleHPInelasticData.html#ab5247f0c8aeef9ceebec964e50d22950", null ],
+    [ "GetIsoCrossSection", "d8/d88/classG4ParticleHPInelasticData.html#a5ce4dc514cfcff50cca9fd85c629ba55", null ],
+    [ "GetProjectile", "d8/d88/classG4ParticleHPInelasticData.html#a191d96d1d64a1b2aabca5fba28942302", null ],
+    [ "GetVerboseLevel", "d8/d88/classG4ParticleHPInelasticData.html#aa18528c16f81f991dd73bc219adbb0ff", null ],
+    [ "IgnoreOnFlightDopplerBroadening", "d8/d88/classG4ParticleHPInelasticData.html#a1480e7ece89182cd43a3675cfdd3cc3c", null ],
+    [ "IsIsoApplicable", "d8/d88/classG4ParticleHPInelasticData.html#a0b94ae6f624076c606a79e840eb7afc3", null ],
+    [ "SetVerboseLevel", "d8/d88/classG4ParticleHPInelasticData.html#a5d9d3ab8f592cf713e792950cc07e340", null ],
+    [ "element_cache", "d8/d88/classG4ParticleHPInelasticData.html#aeb60fa31ae77d1fe59d7d3a6ddc39cda", null ],
+    [ "instanceOfWorker", "d8/d88/classG4ParticleHPInelasticData.html#a66e57945f08de35a8f54b49d34936e75", null ],
+    [ "ke_cache", "d8/d88/classG4ParticleHPInelasticData.html#a842e0b6b8952e555f4a18b5e78f3e85e", null ],
+    [ "material_cache", "d8/d88/classG4ParticleHPInelasticData.html#ac7d5e125685232819dbaeeb24c31b60e", null ],
+    [ "onFlightDB", "d8/d88/classG4ParticleHPInelasticData.html#a73971156f567a60b30b4ed5f7305a9cf", null ],
+    [ "theCrossSections", "d8/d88/classG4ParticleHPInelasticData.html#a971da77d18da7c60fda27c78f6209f53", null ],
+    [ "theHPData", "d8/d88/classG4ParticleHPInelasticData.html#af3105cdcc3e0f005c2fd6ac03535366b", null ],
+    [ "theProjectile", "d8/d88/classG4ParticleHPInelasticData.html#adafb2c8fbe31d3abb39f3e9ef45e3b5d", null ],
+    [ "xs_cache", "d8/d88/classG4ParticleHPInelasticData.html#a7b452c0a1644616a4d5a73799dc4556c", null ]
+];

@@ -1,0 +1,27 @@
+var classG4BGGNucleonInelasticXS =
+[
+    [ "G4BGGNucleonInelasticXS", "d9/dc6/classG4BGGNucleonInelasticXS.html#abf30de837d3ebdd058e153e6d313dbf2", null ],
+    [ "~G4BGGNucleonInelasticXS", "d9/dc6/classG4BGGNucleonInelasticXS.html#a59446feea5a4cfe253ef8894beee0540", null ],
+    [ "G4BGGNucleonInelasticXS", "d9/dc6/classG4BGGNucleonInelasticXS.html#a083576bc732c7e47b0db56e76d989271", null ],
+    [ "BuildPhysicsTable", "d9/dc6/classG4BGGNucleonInelasticXS.html#ae2d41e366236743275e7c3a8595f856b", null ],
+    [ "CoulombFactor", "d9/dc6/classG4BGGNucleonInelasticXS.html#af05f1f168e121ef0306d0b911f3e6a5e", null ],
+    [ "CrossSectionDescription", "d9/dc6/classG4BGGNucleonInelasticXS.html#abf3308b65300cdb28f2c9d4a3ba32745", null ],
+    [ "GetElementCrossSection", "d9/dc6/classG4BGGNucleonInelasticXS.html#aad6991616362fce51d104502806f9aa1", null ],
+    [ "GetIsoCrossSection", "d9/dc6/classG4BGGNucleonInelasticXS.html#afe1850d3f4066ab1801fc9f32eb7d391", null ],
+    [ "IsElementApplicable", "d9/dc6/classG4BGGNucleonInelasticXS.html#a076987f019bdf9b1429854e7a56aab56", null ],
+    [ "IsIsoApplicable", "d9/dc6/classG4BGGNucleonInelasticXS.html#a487ced79937148532aaed988946ae2d7", null ],
+    [ "operator=", "d9/dc6/classG4BGGNucleonInelasticXS.html#aaa46f3b476305df9ebaaf916a1f458a6", null ],
+    [ "fGlauber", "d9/dc6/classG4BGGNucleonInelasticXS.html#afb7827abcf86c41aaee0715b159e9b63", null ],
+    [ "fGlauberEnergy", "d9/dc6/classG4BGGNucleonInelasticXS.html#a92c3dcf0c346b8b95f18b24d19551023", null ],
+    [ "fHadron", "d9/dc6/classG4BGGNucleonInelasticXS.html#a1a8013afab4bf0930b7d4a444c67c017", null ],
+    [ "fLowEnergy", "d9/dc6/classG4BGGNucleonInelasticXS.html#abc38c678a33251617976269d30d8d498", null ],
+    [ "fNucleon", "d9/dc6/classG4BGGNucleonInelasticXS.html#a5793ba5be30ce8cf6de2f5a657736134", null ],
+    [ "isMaster", "d9/dc6/classG4BGGNucleonInelasticXS.html#a30611bdc5e702a7adbdfc78b828236b1", null ],
+    [ "isProton", "d9/dc6/classG4BGGNucleonInelasticXS.html#a1fd70efc682412477e05dfa4bd26595d", null ],
+    [ "theA", "d9/dc6/classG4BGGNucleonInelasticXS.html#a6eac939c71f0c46b63cd9d4e37b23ba6", null ],
+    [ "theCoulombFacN", "d9/dc6/classG4BGGNucleonInelasticXS.html#aa5005fd7c27055862fba4708f012ce07", null ],
+    [ "theCoulombFacP", "d9/dc6/classG4BGGNucleonInelasticXS.html#a9a701a42d31db86bbdb94bd2bd5f3a78", null ],
+    [ "theGlauberFacN", "d9/dc6/classG4BGGNucleonInelasticXS.html#ad7e234d31b581fb634673d002adfdbf0", null ],
+    [ "theGlauberFacP", "d9/dc6/classG4BGGNucleonInelasticXS.html#ae7ce837b54b4f12e7973a5113ba489de", null ],
+    [ "theProton", "d9/dc6/classG4BGGNucleonInelasticXS.html#a14e010c8b211a468bd3a79ad0b4992f6", null ]
+];

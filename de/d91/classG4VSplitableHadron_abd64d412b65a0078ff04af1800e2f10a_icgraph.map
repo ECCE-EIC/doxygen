@@ -1,0 +1,26 @@
+<map id="G4VSplitableHadron::Get4Momentum" name="G4VSplitableHadron::Get4Momentum">
+<area shape="rect" id="node2" href="$dd/dbb/classG4FTFModel.html#af516f33380646db4248c448efcb6d94c" title="G4FTFModel::AdjustNucleons" alt="" coords="537,380,755,408"/>
+<area shape="rect" id="node5" href="$dd/dbb/classG4FTFModel.html#a7d5073dd86bce37df3439f8580a87bf6" title="G4FTFModel::AdjustNucleons\lAlgorithm_beforeSampling" alt="" coords="239,363,458,407"/>
+<area shape="rect" id="node6" href="$d8/dd5/classG4FTFAnnihilation.html#a73fd21db8de0633e0e7af843c41e6daf" title="G4FTFAnnihilation::\lAnnihilate" alt="" coords="818,417,970,461"/>
+<area shape="rect" id="node7" href="$dd/dbb/classG4FTFModel.html#a6872cd0711188eeda466554313947ce3" title="G4FTFModel::BuildStrings" alt="" coords="549,72,743,100"/>
+<area shape="rect" id="node8" href="$d9/d3a/classG4DiffractiveExcitation.html#ac6e20158059b1db06bf0dfd4a45600ff" title="G4DiffractiveExcitation\l::CreateStrings" alt="" coords="260,5,437,49"/>
+<area shape="rect" id="node9" href="$d0/d64/classG4QGSParticipants.html#a46b4a1f70cb402a7a36267eb67dab61b" title="G4QGSParticipants::\lDeterminePartonMomenta" alt="" coords="547,844,745,888"/>
+<area shape="rect" id="node11" href="$d0/df3/classG4QGSMSplitableHadron.html#a92793688bfb14c87a6adfaf05f6490c4" title="G4QGSMSplitableHadron\l::DiffractiveSplitUp" alt="" coords="254,295,443,339"/>
+<area shape="rect" id="node13" href="$d5/dae/classG4ElasticHNScattering.html#a8956696bb1301e6f1720cbd1fde2d17c" title="G4ElasticHNScattering\l::ElasticScattering" alt="" coords="262,227,435,271"/>
+<area shape="rect" id="node14" href="$d9/d3a/classG4DiffractiveExcitation.html#a9f7286ef3f7ce183bcf3931e474aa223" title="G4DiffractiveExcitation\l::ExciteParticipants_doCharge\lExchange" alt="" coords="535,176,757,236"/>
+<area shape="rect" id="node15" href="$d9/d3a/classG4DiffractiveExcitation.html#ae959f7e204e5a422bb748c06abce366f" title="G4DiffractiveExcitation\l::ExciteParticipants" alt="" coords="805,184,983,228"/>
+<area shape="rect" id="node16" href="$db/d5f/classG4QuarkExchange.html#a5191772dedecc968e89e801b368ad58a" title="G4QuarkExchange::ExciteParticipants" alt="" coords="211,737,487,765"/>
+<area shape="rect" id="node17" href="$d0/d64/classG4QGSParticipants.html#a756a38cfaaa2ebc1a10b211954da5ad1" title="G4QGSParticipants::\lPerformDiffractiveCollisions" alt="" coords="542,699,750,743"/>
+<area shape="rect" id="node18" href="$da/d6b/classG4SingleDiffractiveExcitation.html#aba4926b28514e044fdeef099c87cfeae" title="G4SingleDiffractiveExcitation\l::ExciteParticipants" alt="" coords="239,601,458,645"/>
+<area shape="rect" id="node19" href="$da/d8f/classG4QGSDiffractiveExcitation.html#a7d7243a17a96e924b139a661880ccd23" title="G4QGSDiffractiveExcitation\l::ExciteParticipants" alt="" coords="245,669,452,713"/>
+<area shape="rect" id="node20" href="$de/d91/classG4VSplitableHadron.html#a8d4d71ba77e21304fb9f657de30832e0" title="G4VSplitableHadron\l::G4VSplitableHadron" alt="" coords="265,841,432,885"/>
+<area shape="rect" id="node21" href="$d0/d64/classG4QGSParticipants.html#a75a2a3e12ff69f5ac6bd99d3dd8eface" title="G4QGSParticipants::\lGenerateDeltaIsobar" alt="" coords="267,533,430,577"/>
+<area shape="rect" id="node23" href="$dd/dbb/classG4FTFModel.html#a38c5cfc642d1dd4b99b39175b94b9a13" title="G4FTFModel::GenerateDelta\lIsobar" alt="" coords="243,1012,455,1056"/>
+<area shape="rect" id="node24" href="$dd/dbb/classG4FTFModel.html#a6a698b32a89e896210bffff1eb6eac80" title="G4FTFModel::PutOnMassShell" alt="" coords="535,960,757,988"/>
+<area shape="rect" id="node25" href="$da/d8f/classG4QGSDiffractiveExcitation.html#a86229cf3ac632b0d2c460e246115b629" title="G4QGSDiffractiveExcitation\l::String" alt="" coords="245,1080,452,1124"/>
+<area shape="rect" id="node3" href="$dd/dbb/classG4FTFModel.html#a8b7187dbefc0137e849b83ec23690966" title="G4FTFModel::ExciteParticipants" alt="" coords="1031,303,1264,331"/>
+<area shape="rect" id="node4" href="$dd/dbb/classG4FTFModel.html#ae51a4d0d59f37d979b53116356e63f49" title="G4FTFModel::GetStrings" alt="" coords="1312,303,1497,331"/>
+<area shape="rect" id="node10" href="$d0/d64/classG4QGSParticipants.html#adc7327c3052afdcff70994d87cd906a3" title="G4QGSParticipants::\lBuildInteractions" alt="" coords="815,699,973,743"/>
+<area shape="rect" id="node12" href="$d0/df3/classG4QGSMSplitableHadron.html#a8e89768ca4ae70ea48514e0020dbdca5" title="G4QGSMSplitableHadron\l::SplitUp" alt="" coords="551,312,741,356"/>
+<area shape="rect" id="node22" href="$d0/d64/classG4QGSParticipants.html#af2acf2ceb09b3ab4d4605ca1681b081b" title="G4QGSParticipants::\lPutOnMassShell" alt="" coords="567,581,725,625"/>
+</map>

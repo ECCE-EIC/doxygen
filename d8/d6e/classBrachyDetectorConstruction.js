@@ -1,0 +1,28 @@
+var classBrachyDetectorConstruction =
+[
+    [ "BrachyDetectorConstruction", "d8/d6e/classBrachyDetectorConstruction.html#af02ddc49df079191c31b365fab0ec1c7", null ],
+    [ "~BrachyDetectorConstruction", "d8/d6e/classBrachyDetectorConstruction.html#a5786abcbc4eb5c6d37ec96cb3a71356c", null ],
+    [ "Construct", "d8/d6e/classBrachyDetectorConstruction.html#ac5f446747e9e79266d8e73bec309dee9", null ],
+    [ "ConstructPhantom", "d8/d6e/classBrachyDetectorConstruction.html#a6474656e2ee80efbe68b10814ea07877", null ],
+    [ "PrintDetectorParameters", "d8/d6e/classBrachyDetectorConstruction.html#a1e75e6f9f246bc8aace8213183ffc39e", null ],
+    [ "SelectBrachytherapicSeed", "d8/d6e/classBrachyDetectorConstruction.html#abe24768a900ce0964ca61d0848b369c7", null ],
+    [ "SetPhantomMaterial", "d8/d6e/classBrachyDetectorConstruction.html#a87a2d7c134093bc16c7d16b04c8dacd0", null ],
+    [ "SwitchBrachytherapicSeed", "d8/d6e/classBrachyDetectorConstruction.html#a347fccc53709bcd963389f3eea12ed3f", null ],
+    [ "detectorChoice", "d8/d6e/classBrachyDetectorConstruction.html#a349e72debbd9cfd302f464310e16828a", null ],
+    [ "detectorMessenger", "d8/d6e/classBrachyDetectorConstruction.html#af2902f7d9ab08e87f706e9843e74260b", null ],
+    [ "factory", "d8/d6e/classBrachyDetectorConstruction.html#a317330dbe73bea337d710d8d9af1cdaf", null ],
+    [ "Phantom", "d8/d6e/classBrachyDetectorConstruction.html#adddc19511ac00902826295b498aa822e", null ],
+    [ "phantomAbsorberMaterial", "d8/d6e/classBrachyDetectorConstruction.html#aacc5ee1ba0c82789a7da537023d4bd41", null ],
+    [ "PhantomLog", "d8/d6e/classBrachyDetectorConstruction.html#a133a75024b8cf030ebfb45472efcb260", null ],
+    [ "PhantomPhys", "d8/d6e/classBrachyDetectorConstruction.html#ab20c15eca96af2066a76419935f41470", null ],
+    [ "phantomSizeX", "d8/d6e/classBrachyDetectorConstruction.html#a00c43cd3d390e66d611e3c68b62d0999", null ],
+    [ "phantomSizeY", "d8/d6e/classBrachyDetectorConstruction.html#a7905f0d098c07420d9919aa0aca54ea3", null ],
+    [ "phantomSizeZ", "d8/d6e/classBrachyDetectorConstruction.html#adc633c3e93c8603dd76f3f43dc683fbf", null ],
+    [ "pMaterial", "d8/d6e/classBrachyDetectorConstruction.html#aa1c679cba8ff1ac80cea5ebcfc1238c6", null ],
+    [ "World", "d8/d6e/classBrachyDetectorConstruction.html#a67697bb24915fe3ecac3f0781e41adec", null ],
+    [ "WorldLog", "d8/d6e/classBrachyDetectorConstruction.html#af7f4506b0536555a3d3393b5f91d8919", null ],
+    [ "WorldPhys", "d8/d6e/classBrachyDetectorConstruction.html#ae8f2978489c276e050162e4063411db0", null ],
+    [ "worldSizeX", "d8/d6e/classBrachyDetectorConstruction.html#a2c073215f75d97aad1355d1cad6650f9", null ],
+    [ "worldSizeY", "d8/d6e/classBrachyDetectorConstruction.html#a304f804dea02bbec1a1e32f6b97c1298", null ],
+    [ "worldSizeZ", "d8/d6e/classBrachyDetectorConstruction.html#ab3610756889493e1f0e2bab2f37a8293", null ]
+];

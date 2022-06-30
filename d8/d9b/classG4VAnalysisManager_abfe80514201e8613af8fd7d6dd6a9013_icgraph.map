@@ -1,0 +1,25 @@
+<map id="G4VAnalysisManager::CreateNtuple" name="G4VAnalysisManager::CreateNtuple">
+<area shape="rect" id="node2" href="$df/db9/classGammaRayTelAnalysis.html#a5a6774ec2c62f32a5eb0a2c5890ead2c" title="GammaRayTelAnalysis\l::BeginOfRun" alt="" coords="253,11,427,55"/>
+<area shape="rect" id="node4" href="$d6/d05/classCCalRunAction.html#a0254ffd3aeaeebf8249a464d68fb376b" title="CCalRunAction::Book" alt="" coords="258,84,422,112"/>
+<area shape="rect" id="node6" href="$d7/d08/classXrayFluoAnalysisManager.html#aa17d6eb9eb3c113d2d3057c6e9ad1e50" title="XrayFluoAnalysisManager\l::book" alt="" coords="242,139,438,183"/>
+<area shape="rect" id="node8" href="$df/d60/classXrayTelAnalysis.html#a86d625d2bc62b628b0c843c54f96ab28" title="XrayTelAnalysis::book" alt="" coords="255,207,425,235"/>
+<area shape="rect" id="node10" href="$d4/d05/classHisto.html#ab9a792d132366278c0be9f6695918c85" title="Histo::Book" alt="" coords="291,259,389,287"/>
+<area shape="rect" id="node11" href="$d8/def/classPurgMagRunAction.html#a9d03e99a510b558834607ca3f02dff20" title="PurgMagRunAction::Book" alt="" coords="244,311,436,339"/>
+<area shape="rect" id="node13" href="$de/d11/classDMXRunAction.html#a2412fcfd54fc00714064743a00d070e2" title="DMXRunAction::Book" alt="" coords="258,363,422,391"/>
+<area shape="rect" id="node15" href="$d7/df6/classRunAction.html#ad31e8f4b4cbaeeb320b3db1ab65c9f5a" title="RunAction::CreateHistogram" alt="" coords="233,415,447,443"/>
+<area shape="rect" id="node18" href="$d7/df6/classRunAction.html#aef306a531bfcf8226ace7107e4eaa489" title="RunAction::CreateNtuple" alt="" coords="247,467,433,495"/>
+<area shape="rect" id="node19" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#a8253fab12d3b991b209c6a22a9514c9f" title="G4PhysChemIO::G4Analysis\l::InitializeFile" alt="" coords="235,519,445,563"/>
+<area shape="rect" id="node22" href="$dc/d6d/classHadrontherapyLet.html#a877e3e91cd8f7c0574810cd0cbb9475d" title="HadrontherapyLet::StoreLet\lAscii" alt="" coords="235,587,445,631"/>
+<area shape="rect" id="node23" href="$db/d4a/classScoreSpecies.html#ae9ef020c78efa9544cec5bd4d57e0ac1" title="ScoreSpecies::WriteWithAnalysis\lManager" alt="" coords="219,655,461,699"/>
+<area shape="rect" id="node3" href="$dc/dde/classGammaRayTelRunAction.html#a84e2ca92f9818fdc8694a35dce6b1c94" title="GammaRayTelRunAction\l::BeginOfRunAction" alt="" coords="531,5,717,49"/>
+<area shape="rect" id="node5" href="$d6/d05/classCCalRunAction.html#a85e0143773545847e4aa9c3361fb4f75" title="CCalRunAction::BeginOfRun\lAction" alt="" coords="519,73,729,117"/>
+<area shape="rect" id="node7" href="$d9/d1f/classXrayFluoRunAction.html#ab7e3d17c925333a1c522c8a79febd7d9" title="XrayFluoRunAction::\lBeginOfRunAction" alt="" coords="545,141,703,185"/>
+<area shape="rect" id="node9" href="$de/dc3/classXrayTelRunAction.html#a340b2b055f21ca3585ffe6d3983a6aab" title="XrayTelRunAction::BeginOf\lRunAction" alt="" coords="523,209,725,253"/>
+<area shape="rect" id="node12" href="$d8/def/classPurgMagRunAction.html#a7e2da5d0bbc2adc3cd9543ad04e6caac" title="PurgMagRunAction::BeginOf\lRunAction" alt="" coords="518,279,730,323"/>
+<area shape="rect" id="node14" href="$de/d11/classDMXRunAction.html#abc2c266355c8222deefbc92b76f51363" title="DMXRunAction::BeginOfRun\lAction" alt="" coords="519,347,729,391"/>
+<area shape="rect" id="node16" href="$d7/df6/classRunAction.html#aca71b36db3aac405b8f8ab552da7981e" title="RunAction::BeginMaster" alt="" coords="532,415,716,443"/>
+<area shape="rect" id="node17" href="$d7/df6/classRunAction.html#abfa8d33061c661644f05a8259d17b1b4" title="RunAction::BeginWorker" alt="" coords="531,467,717,495"/>
+<area shape="rect" id="node20" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#a2d7ae494288503c1af6c2baf91b568aa" title="G4PhysChemIO::G4Analysis\l::CreateWaterMolecule" alt="" coords="519,519,729,563"/>
+<area shape="rect" id="node21" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#a0a0f823b32a7004d41f33474f29126f1" title="G4PhysChemIO::G4Analysis\l::CreateSolvatedElectron" alt="" coords="519,587,729,631"/>
+<area shape="rect" id="node24" href="$db/d4a/classScoreSpecies.html#aef0e2beef0f1cfa39ea61155f50e1161" title="ScoreSpecies::OutputAndClear" alt="" coords="509,663,739,691"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="G4NistMessenger::SetNewValue" name="G4NistMessenger::SetNewValue">
+<area shape="rect" id="node2" href="$d6/d69/classG4IonisParamMat.html#a6f926dccf3bd9b786816961d4ac9a31d" title="G4IonisParamMat::GetDensity\lEffectData" alt="" coords="299,93,523,137"/>
+<area shape="rect" id="node3" href="$d0/da4/classG4UIcmdWithAnInteger.html#a212ef79a8938822de8f971d135cc22b0" title="G4UIcmdWithAnInteger\l::GetNewIntValue" alt="" coords="321,161,502,205"/>
+<area shape="rect" id="node5" href="$d2/d00/classG4NistManager.html#aac0a1c9663200733f10b57d57f8cfe7c" title="G4NistManager::ListMaterials" alt="" coords="301,229,521,257"/>
+<area shape="rect" id="node14" href="$d2/d38/classG4DensityEffectData.html#a4231ab24a2cec65cda9cdaa25ab730c9" title="G4DensityEffectData\l::PrintData" alt="" coords="330,281,493,325"/>
+<area shape="rect" id="node17" href="$d2/d00/classG4NistManager.html#af555685e143159178221f739f948451b" title="G4NistManager::PrintElement" alt="" coords="301,353,522,381"/>
+<area shape="rect" id="node20" href="$d2/d00/classG4NistManager.html#a429e3a56be048a7703b5d6b189a148a4" title="G4NistManager::PrintG4Element" alt="" coords="291,413,532,441"/>
+<area shape="rect" id="node23" href="$d2/d00/classG4NistManager.html#a112ca20b58d06aac88533d171b7f2954" title="G4NistManager::PrintG4Material" alt="" coords="292,517,531,545"/>
+<area shape="rect" id="node26" href="$d2/d00/classG4NistManager.html#a394feeab81cf81fed0b51c2a2ba02c1e" title="G4NistManager::SetDensity\lEffectCalculatorFlag" alt="" coords="307,587,515,631"/>
+<area shape="rect" id="node29" href="$d2/d00/classG4NistManager.html#ade14f43f7de5abba3022b4f91d599414" title="G4NistManager::SetVerbose" alt="" coords="306,673,517,701"/>
+<area shape="rect" id="node4" href="$d2/dd2/classG4UIcommand.html#abb2bd08fd64bc218be8bc10292c160ca" title="G4UIcommand::ConvertToInt" alt="" coords="581,89,799,117"/>
+<area shape="rect" id="node6" href="$df/d8e/classG4NistMaterialBuilder.html#a90a6fc192193e008ae84fd819877630c" title="G4NistMaterialBuilder\l::ListMaterials" alt="" coords="605,141,775,185"/>
+<area shape="rect" id="node7" href="$df/d8e/classG4NistMaterialBuilder.html#a76f2a377c840dde0f8e24884a38ec516" title="G4NistMaterialBuilder\l::ListBioChemicalMaterials" alt="" coords="855,5,1055,49"/>
+<area shape="rect" id="node9" href="$df/d8e/classG4NistMaterialBuilder.html#a778391e130afa412568da9513aac3ad1" title="G4NistMaterialBuilder\l::ListHepMaterials" alt="" coords="870,73,1041,117"/>
+<area shape="rect" id="node10" href="$df/d8e/classG4NistMaterialBuilder.html#a4a8e5c3f5cf5db04604fde14b748fd86" title="G4NistMaterialBuilder\l::ListNistCompoundMaterials" alt="" coords="848,141,1063,185"/>
+<area shape="rect" id="node11" href="$df/d8e/classG4NistMaterialBuilder.html#a062bcc6ab9012934d3f44775d91ffb3d" title="G4NistMaterialBuilder\l::ListNistSimpleMaterials" alt="" coords="861,277,1049,321"/>
+<area shape="rect" id="node13" href="$df/d8e/classG4NistMaterialBuilder.html#ac6458ec5dc0dd33df78fe2b12b434973" title="G4NistMaterialBuilder\l::ListSpaceMaterials" alt="" coords="870,209,1041,253"/>
+<area shape="rect" id="node8" href="$df/d8e/classG4NistMaterialBuilder.html#a2e180cc7f324c5fb521cc1d43d9fc701" title="G4NistMaterialBuilder\l::DumpMix" alt="" coords="1135,108,1305,152"/>
+<area shape="rect" id="node12" href="$df/d8e/classG4NistMaterialBuilder.html#aa1bd84ae48ebdd865eeef4752af9f439" title="G4NistMaterialBuilder\l::DumpElm" alt="" coords="1135,277,1305,321"/>
+<area shape="rect" id="node15" href="$d2/d38/classG4DensityEffectData.html#a13ff58192b9de57e203f4908cf298b93" title="G4DensityEffectData\l::DumpData" alt="" coords="609,209,771,253"/>
+<area shape="rect" id="node16" href="$d2/d38/classG4DensityEffectData.html#a9a67e5eefa63d9391b5c3a0b80faeba8" title="G4DensityEffectData\l::GetIndex" alt="" coords="609,277,771,321"/>
+<area shape="rect" id="node18" href="$d9/df3/classG4NistElementBuilder.html#a340ff34eb0d3cd40153364d8dbac695d" title="G4NistElementBuilder\l::PrintElement" alt="" coords="605,345,775,389"/>
+<area shape="rect" id="node19" href="$d9/df3/classG4NistElementBuilder.html#a0226653ce08ca39b9b9a6c836743253a" title="G4NistElementBuilder\l::GetAtomicMass" alt="" coords="870,345,1041,389"/>
+<area shape="rect" id="node21" href="$de/d80/classG4Element.html#a057a1bd738df9f6245f6a38701740eb0" title="G4Element::GetElementTable" alt="" coords="580,413,800,441"/>
+<area shape="rect" id="node22" href="$de/d80/classG4Element.html#a0bcbf2b47ad07b5b806078c46112fc6a" title="G4Element::GetName" alt="" coords="605,465,775,493"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="1111,553,1329,581"/>
+<area shape="rect" id="node25" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="606,569,774,597"/>
+<area shape="rect" id="node27" href="$d2/d00/classG4NistManager.html#aa9912fdccdae030131c1a8197b997ef0" title="G4NistManager::FindMaterial" alt="" coords="582,621,798,649"/>
+<area shape="rect" id="node28" href="$df/d8e/classG4NistMaterialBuilder.html#a84be2df2dc470cbc5afd0d2a3540dac0" title="G4NistMaterialBuilder\l::FindMaterial" alt="" coords="870,583,1041,627"/>
+<area shape="rect" id="node30" href="$d9/df3/classG4NistElementBuilder.html#aef9bcec98474774d2da85d0872b08a5d" title="G4NistElementBuilder\l::SetVerbose" alt="" coords="870,695,1041,739"/>
+<area shape="rect" id="node31" href="$df/d8e/classG4NistMaterialBuilder.html#a6491182ebcd0a1721c6a75b5dfc52acc" title="G4NistMaterialBuilder\l::SetVerbose" alt="" coords="605,725,775,769"/>
+</map>

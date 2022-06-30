@@ -1,0 +1,31 @@
+<map id="G4PenelopeOscillator::SetParentZ" name="G4PenelopeOscillator::SetParentZ">
+<area shape="rect" id="node2" href="$d4/dee/classG4PenelopeOscillatorManager.html#a70596db703f4c4b889f2dfbcba5ae0aa" title="G4PenelopeOscillatorManager\l::BuildOscillatorTable" alt="" coords="220,425,447,469"/>
+<area shape="rect" id="node3" href="$d4/dee/classG4PenelopeOscillatorManager.html#a8d7994bca9c7faaebbc96efc8473b785" title="G4PenelopeOscillatorManager\l::GetTotalZ" alt="" coords="510,357,737,401"/>
+<area shape="rect" id="node13" href="$d4/dee/classG4PenelopeOscillatorManager.html#aeaf4c70d724c8db0daf391fbc2ee0050" title="Returns the total A for the molecule." alt="" coords="510,629,737,673"/>
+<area shape="rect" id="node14" href="$d4/dee/classG4PenelopeOscillatorManager.html#a79992c5c184c4344e5101b50b11fb5de" title="G4PenelopeOscillatorManager\l::GetOscillatorTableIonisation" alt="" coords="510,493,737,537"/>
+<area shape="rect" id="node21" href="$d4/dee/classG4PenelopeOscillatorManager.html#a41cecebb5d66f80e0eb5fdd746bb5cee" title="G4PenelopeOscillatorManager\l::GetOscillatorTableCompton" alt="" coords="510,145,737,189"/>
+<area shape="rect" id="node25" href="$d4/dee/classG4PenelopeOscillatorManager.html#a99c8f078437336b07be49eb362a4814d" title="Returns the mean excitation energy." alt="" coords="510,697,737,741"/>
+<area shape="rect" id="node26" href="$d4/dee/classG4PenelopeOscillatorManager.html#a7f00921d051cc49f338e982938107893" title="Returns the squared plasma energy." alt="" coords="510,425,737,469"/>
+<area shape="rect" id="node27" href="$d4/dee/classG4PenelopeOscillatorManager.html#a25d1ca6ee0502ff11e78bf792de06f51" title="Returns the total number of atoms per molecule." alt="" coords="807,314,1033,358"/>
+<area shape="rect" id="node30" href="$d4/dee/classG4PenelopeOscillatorManager.html#a1a88c380b00fe07ea89a58f8ea2cc7ef" title="G4PenelopeOscillatorManager\l::GetNumberOfZAtomsPerMolecule" alt="" coords="495,561,752,605"/>
+<area shape="rect" id="node4" href="$db/d2c/classG4PenelopeComptonModel.html#ae9f9c281423ad00cd8703e90b75cd874" title="G4PenelopeComptonModel\l::SampleSecondaries" alt="" coords="818,178,1022,222"/>
+<area shape="rect" id="node5" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#ac6a47313fd4eb3a9b2c4349bf5ce953f" title="G4PenelopeIonisationXSHandler\l::BuildDeltaTable" alt="" coords="800,382,1040,426"/>
+<area shape="rect" id="node6" href="$d8/d69/classG4PenelopeIonisationXSHandler.html#a4faf9b67f14aa576e1a1a6c57db8b8fc" title="This can be inkoved only by the master." alt="" coords="1089,442,1329,486"/>
+<area shape="rect" id="node7" href="$d9/dd7/classG4PenelopeIonisationModel.html#a1875233d9eb7d1ee3dd448e2daaade8d" title="G4PenelopeIonisationModel\l::ComputeDEDXPerVolume" alt="" coords="1379,353,1588,397"/>
+<area shape="rect" id="node8" href="$d1/d17/classG4PenelopeIonisationCrossSection.html#ababc4ea53495de872de3de3c5b9ed1fc" title="G4PenelopeIonisationCross\lSection::CrossSection" alt="" coords="1381,543,1586,587"/>
+<area shape="rect" id="node11" href="$d9/dd7/classG4PenelopeIonisationModel.html#a18f677df7d9f92e8f8d0b61ff2517f2a" title="G4PenelopeIonisationModel\l::CrossSectionPerVolume" alt="" coords="1379,274,1588,318"/>
+<area shape="rect" id="node12" href="$d9/dd7/classG4PenelopeIonisationModel.html#a03183df020f3e2bbae2004929b190609" title="G4PenelopeIonisationModel\l::Initialise" alt="" coords="1379,442,1588,486"/>
+<area shape="rect" id="node9" href="$d1/d17/classG4PenelopeIonisationCrossSection.html#a30e71816fb49e4a5171f755fea8ab184" title="G4PenelopeIonisationCross\lSection::GetCrossSection" alt="" coords="1636,543,1841,587"/>
+<area shape="rect" id="node10" href="$d1/d17/classG4PenelopeIonisationCrossSection.html#a6d4aed83192f42eef8286739a3d85c01" title="G4PenelopeIonisationCross\lSection::Probabilities" alt="" coords="1889,543,2095,587"/>
+<area shape="rect" id="node15" href="$d1/d17/classG4PenelopeIonisationCrossSection.html#a73d868c5d937563af962ccdd44befd9c" title="G4PenelopeIonisationCross\lSection::FindShellIDIndex" alt="" coords="1107,510,1312,554"/>
+<area shape="rect" id="node16" href="$d9/dd7/classG4PenelopeIonisationModel.html#a13dab58e0d23f51275d2b0f626accd3e" title="G4PenelopeIonisationModel\l::SampleSecondaries" alt="" coords="1105,671,1314,715"/>
+<area shape="rect" id="node17" href="$d9/dd7/classG4PenelopeIonisationModel.html#a352c74649a4367e71d8dde36b76e90e6" title="G4PenelopeIonisationModel\l::SampleFinalStateElectron" alt="" coords="815,603,1025,647"/>
+<area shape="rect" id="node18" href="$d9/dd7/classG4PenelopeIonisationModel.html#ac23891c47c414d416fc218bd698b1107" title="G4PenelopeIonisationModel\l::SampleFinalStatePositron" alt="" coords="815,671,1025,715"/>
+<area shape="rect" id="node19" href="$d4/dee/classG4PenelopeOscillatorManager.html#aa55645a9e77df4aa54838dea23625c9b" title="G4PenelopeOscillatorManager\l::Dump" alt="" coords="807,246,1033,290"/>
+<area shape="rect" id="node20" href="$d4/dee/classG4PenelopeOscillatorManager.html#ac04a9c2a74e6bcf49621c75cbd1ebcbc" title="G4PenelopeOscillatorManager\l::GetOscillatorIonisation" alt="" coords="1096,578,1323,622"/>
+<area shape="rect" id="node22" href="$db/d2c/classG4PenelopeComptonModel.html#aebb770507f5063b3251f20683377f368" title="G4PenelopeComptonModel\l::CrossSectionPerVolume" alt="" coords="1107,110,1311,154"/>
+<area shape="rect" id="node23" href="$db/d2c/classG4PenelopeComptonModel.html#a9229e9d3dac9a7887e7ad0325b131ecd" title="G4PenelopeComptonModel\l::KleinNishinaCrossSection" alt="" coords="818,110,1022,154"/>
+<area shape="rect" id="node24" href="$d4/dee/classG4PenelopeOscillatorManager.html#ac4f4888d7ecb6b7293475e46e547b872" title="G4PenelopeOscillatorManager\l::GetOscillatorCompton" alt="" coords="807,42,1033,86"/>
+<area shape="rect" id="node28" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a1942d4a7fdf74c77f2ad1359cb8a3328" title="G4PenelopeBremsstrahlung\lModel::CrossSectionPerVolume" alt="" coords="1095,374,1324,418"/>
+<area shape="rect" id="node29" href="$df/d15/classG4PenelopeBremsstrahlungModel.html#a32c722ecbb7f08fd61bfcde191a3e15f" title="G4PenelopeBremsstrahlung\lModel::ComputeDEDXPerVolume" alt="" coords="1088,203,1331,247"/>
+</map>

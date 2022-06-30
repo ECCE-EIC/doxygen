@@ -1,0 +1,13 @@
+<map id="G4VUserMPIrunMerger::Receive" name="G4VUserMPIrunMerger::Receive">
+<area shape="rect" id="node2" href="$d3/d24/classG4MPImanager.html#aabd091512038a614cb79192b8cc8dec3" title="G4MPImanager::GetComm" alt="" coords="236,5,437,33"/>
+<area shape="rect" id="node3" href="$d3/d24/classG4MPImanager.html#a27c9cc26013409107f35d092bb236674" title="G4MPImanager::GetManager" alt="" coords="228,57,445,85"/>
+<area shape="rect" id="node5" href="$d2/d10/classG4Run.html#a734457863869609e32e0d7d58883faea" title="G4Run::GetNumberOfEvent" alt="" coords="233,109,441,137"/>
+<area shape="rect" id="node6" href="$d2/d10/classG4Run.html#a83fad19c4a64f0e0888743b3063eaba8" title="G4Run::Merge" alt="" coords="278,161,395,189"/>
+<area shape="rect" id="node7" href="$dc/dd4/dummy__mpi_8h.html#a2cad76c7866daecb486bba2231a5257a" title="MPI_Unpack" alt="" coords="285,213,388,241"/>
+<area shape="rect" id="node8" href="$de/d38/classG4VUserMPIrunMerger.html#a0fcbcd28c9ad2ffdb1d81f9254558476" title="G4VUserMPIrunMerger\l::OutputUserData" alt="" coords="249,265,424,309"/>
+<area shape="rect" id="node9" href="$d2/d10/classG4Run.html#a878b66980a009070e91ea5872f09d53b" title="G4Run::RecordEvent" alt="" coords="256,333,417,361"/>
+<area shape="rect" id="node10" href="$de/d38/classG4VUserMPIrunMerger.html#ae1762fe863f608eafea9ef9c1c6069dc" title="G4VUserMPIrunMerger\l::SetupOutputBuffer" alt="" coords="249,385,424,429"/>
+<area shape="rect" id="node11" href="$d6/dd1/G4RichTrajectoryPoint_8cc.html#ae3c801c7b9a877cc12a7d060eaf49ff2" title="Status" alt="" coords="305,453,369,481"/>
+<area shape="rect" id="node12" href="$de/d38/classG4VUserMPIrunMerger.html#aabb079adccf9c7902a4fe4e7a0aca991" title="G4VUserMPIrunMerger\l::UnPack" alt="" coords="249,505,424,549"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="493,57,600,85"/>
+</map>

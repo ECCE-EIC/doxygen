@@ -1,0 +1,45 @@
+<map id="G4IonDEDXScalingICRU73::ScalingFactorDEDX" name="G4IonDEDXScalingICRU73::ScalingFactorDEDX">
+<area shape="rect" id="node2" href="$d9/d9e/classG4IonDEDXScalingICRU73.html#adfec60929c9fc9eaa96005abd73e4b2b" title="G4IonDEDXScalingICRU73\l::CreateReferenceParticles" alt="" coords="251,473,451,517"/>
+<area shape="rect" id="node37" href="$d9/d9e/classG4IonDEDXScalingICRU73.html#a6dfc896de7fd282fad26d59dbade7d2d" title="G4IonDEDXScalingICRU73\l::EquilibriumCharge" alt="" coords="252,704,449,748"/>
+<area shape="rect" id="node42" href="$d9/d9e/classG4IonDEDXScalingICRU73.html#af0db15688e5ae777ae415b8c446f17d2" title="G4IonDEDXScalingICRU73\l::UpdateCacheMaterial" alt="" coords="252,772,449,816"/>
+<area shape="rect" id="node44" href="$d9/d9e/classG4IonDEDXScalingICRU73.html#a951f2d56a8eae199ddb22ef707acca35" title="G4IonDEDXScalingICRU73\l::UpdateCacheParticle" alt="" coords="252,840,449,884"/>
+<area shape="rect" id="node3" href="$da/d2b/classG4IonTable.html#a7405485382dbbedc263aae8d2e5112d7" title="G4IonTable::GetIonMass" alt="" coords="499,481,683,509"/>
+<area shape="rect" id="node35" href="$da/d2b/classG4IonTable.html#a4f0f1a9463c5af2bc314904b485fad97" title="G4IonTable::GetIonTable" alt="" coords="499,57,684,85"/>
+<area shape="rect" id="node4" href="$da/d2b/classG4IonTable.html#a37415257755a988fd7c319df070d2d6f" title="G4IonTable::GetNucleusMass" alt="" coords="732,481,949,509"/>
+<area shape="rect" id="node5" href="$da/d2b/classG4IonTable.html#a7b66f00a9bb4e77db26564d546787ea7" title="G4IonTable::GetVerboseLevel" alt="" coords="1011,324,1229,352"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2583,468,2689,496"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a00af513eaa496c4681e7a9c6a0abc4b6" title="G4IonTable::GetLightIon" alt="" coords="1307,177,1491,205"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1322,572,1477,616"/>
+<area shape="rect" id="node18" href="$d3/df1/classG4NucleiProperties.html#acfcf06bdfd3034735124c76e06dd3794" title="G4NucleiProperties\l::GetNuclearMass" alt="" coords="1324,504,1475,548"/>
+<area shape="rect" id="node23" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="2617,609,2655,637"/>
+<area shape="rect" id="node25" href="$da/d2b/classG4IonTable.html#a8a605ef54d4d35959ec22c209482e921" title="G4IonTable::GetNucleusEncoding" alt="" coords="997,665,1243,693"/>
+<area shape="rect" id="node26" href="$d5/d38/classG4ParticleDefinition.html#a0f10c50f4f54b66eb46f0ad8c6f913ed" title="G4ParticleDefinition\l::GetAtomicNumber" alt="" coords="1042,717,1198,761"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html#af6c9bdf842d9fff4f4a0c0622b366be4" title="G4ParticleDefinition\l::GetAtomicMass" alt="" coords="1043,785,1197,829"/>
+<area shape="rect" id="node28" href="$da/d2b/classG4IonTable.html#aeab6f7e33acace49b3f70d5c4d74a2dd" title="G4IonTable::FindIsotope" alt="" coords="1029,251,1211,279"/>
+<area shape="rect" id="node30" href="$d2/d12/classG4IsotopeProperty.html#a93589c9020b5416b4f17632903dae50e" title="G4IsotopeProperty::\lGetEnergy" alt="" coords="1043,376,1197,420"/>
+<area shape="rect" id="node31" href="$d0/dac/classG4HyperNucleiProperties.html#a92bc10b7fcea955c9b8eab344a565397" title="G4HyperNucleiProperties\l::GetNuclearMass" alt="" coords="1025,444,1215,488"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1755,276,1963,320"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#ad751b231baeb1271a43530b130ada38e" title="G4ParticleTable::GetVerbose\lLevel" alt="" coords="1293,333,1505,377"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="2026,279,2227,323"/>
+<area shape="rect" id="node8" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="2325,212,2501,256"/>
+<area shape="rect" id="node9" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="2325,280,2501,324"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="2321,416,2504,444"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="2335,348,2490,392"/>
+<area shape="rect" id="node12" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="2299,160,2527,188"/>
+<area shape="rect" id="node16" href="$d6/dba/namespacelightions.html#a763cb8b557fe2f015c3cebcf134d1281" title="lightions::Init" alt="" coords="1576,203,1687,231"/>
+<area shape="rect" id="node19" href="$d3/df1/classG4NucleiProperties.html#a84f621a35ef0b3c6cfffba0c4b4bd79c" title="G4NucleiProperties\l::NuclearMass" alt="" coords="1556,504,1707,548"/>
+<area shape="rect" id="node20" href="$d3/df1/classG4NucleiProperties.html#aee1660bc4a3c6d59e2a1af5406410422" title="G4NucleiProperties\l::AtomicMass" alt="" coords="1783,504,1934,548"/>
+<area shape="rect" id="node21" href="$da/d39/classG4NucleiPropertiesTableAME12.html#ad495a18931051e6c1ba10bfde6d31c97" title="G4NucleiPropertiesTableAME12\l::GetMassExcess" alt="" coords="2011,504,2243,548"/>
+<area shape="rect" id="node24" href="$d3/df1/classG4NucleiProperties.html#ac66a063606af1c1d4518dcd10221eb49" title="G4NucleiProperties\l::BindingEnergy" alt="" coords="2051,572,2202,616"/>
+<area shape="rect" id="node22" href="$da/d39/classG4NucleiPropertiesTableAME12.html#a6c90fbe73e1ff7c54df96d044efa3af7" title="G4NucleiPropertiesTableAME12\l::GetIndex" alt="" coords="2297,572,2529,616"/>
+<area shape="rect" id="node29" href="$dc/de0/classG4VIsotopeTable.html#a5fafb990205215d7b8ec72510355ebc9" title="G4VIsotopeTable::GetIsotope" alt="" coords="1291,229,1508,257"/>
+<area shape="rect" id="node32" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="2021,452,2233,480"/>
+<area shape="rect" id="node33" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="2291,468,2535,496"/>
+<area shape="rect" id="node34" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="2301,520,2525,548"/>
+<area shape="rect" id="node36" href="$d8/dd3/classG4ParticleTable.html#a56e8ae902c7fd223310a13dadd6c577d" title="G4ParticleTable::GetIonTable" alt="" coords="733,5,948,33"/>
+<area shape="rect" id="node38" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="558,720,625,748"/>
+<area shape="rect" id="node39" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="758,720,923,748"/>
+<area shape="rect" id="node41" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="746,772,935,800"/>
+<area shape="rect" id="node40" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1026,853,1214,881"/>
+<area shape="rect" id="node43" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="553,780,630,808"/>
+</map>

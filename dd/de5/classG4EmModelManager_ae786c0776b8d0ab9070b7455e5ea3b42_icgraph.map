@@ -1,0 +1,27 @@
+<map id="G4EmModelManager::GetModel" name="G4EmModelManager::GetModel">
+<area shape="rect" id="node2" href="$d9/d2a/classG4VMultipleScattering.html#a08abb881177dbe5d98599b8859695c96" title="G4VMultipleScattering\l::GetModelByIndex" alt="" coords="319,141,491,185"/>
+<area shape="rect" id="node8" href="$d0/dfb/classG4VEmProcess.html#a2bbaf49bfa65bd041e4458bd5fda337e" title="G4VEmProcess::GetModelBy\lIndex" alt="" coords="298,359,511,403"/>
+<area shape="rect" id="node20" href="$da/d80/classG4VEnergyLossProcess.html#a2122fc29bf707132d0065a1c47dc1bed" title="G4VEnergyLossProcess\l::GetModelByIndex" alt="" coords="316,427,493,471"/>
+<area shape="rect" id="node23" href="$d0/dfb/classG4VEmProcess.html#adb2fdd2a9790a3564945d2913963046e" title="G4VEmProcess::PreparePhysics\lTable" alt="" coords="288,495,521,539"/>
+<area shape="rect" id="node25" href="$da/d80/classG4VEnergyLossProcess.html#a1776ce9b1b19e211bbacb83f7e8a3db8" title="G4VEnergyLossProcess\l::PreparePhysicsTable" alt="" coords="316,563,493,607"/>
+<area shape="rect" id="node26" href="$d9/d2a/classG4VMultipleScattering.html#ac0bb7fb3698c8000811c13304d304612" title="G4VMultipleScattering\l::StorePhysicsTable" alt="" coords="319,631,491,675"/>
+<area shape="rect" id="node3" href="$d9/d2a/classG4VMultipleScattering.html#a4bcbbda3d850ab62aa8ede71dd54286a" title="G4VMultipleScattering\l::PreparePhysicsTable" alt="" coords="629,5,801,49"/>
+<area shape="rect" id="node4" href="$d9/d2a/classG4VMultipleScattering.html#a51a97e843a94a95974f39721545db3ac" title="G4VMultipleScattering\l::BuildPhysicsTable" alt="" coords="629,73,801,117"/>
+<area shape="rect" id="node5" href="$d9/d2a/classG4VMultipleScattering.html#a3de28367f6ebe866d019282953b0aeb9" title="G4VMultipleScattering\l::StartTracking" alt="" coords="629,141,801,185"/>
+<area shape="rect" id="node7" href="$d9/d2a/classG4VMultipleScattering.html#a04cce6f56bf52ff5368296d42f0c279b" title="G4VMultipleScattering\l::SetIonisation" alt="" coords="629,209,801,253"/>
+<area shape="rect" id="node6" href="$d0/dcb/classG4eAdjointMultipleScattering.html#a6bd0a0172c4f18054b80ee9b0f583af4" title="G4eAdjointMultipleScattering\l::StartTracking" alt="" coords="944,141,1163,185"/>
+<area shape="rect" id="node9" href="$de/dc4/classG4EmCalculator.html#a41cc976ea2bc833a07b7271ae83925af" title="G4EmCalculator::ComputeNuclearDEDX" alt="" coords="569,277,860,305"/>
+<area shape="rect" id="node16" href="$d0/dfb/classG4VEmProcess.html#a36c2d57d2c5e0f29b67cf3aba283592c" title="G4VEmProcess::BuildPhysics\lTable" alt="" coords="607,359,823,403"/>
+<area shape="rect" id="node10" href="$de/dc4/classG4EmCalculator.html#aaac0a8d138a947924b748fdec5d525ec" title="G4EmCalculator::ComputeNuclearDEDX" alt="" coords="908,217,1199,245"/>
+<area shape="rect" id="node11" href="$de/dc4/classG4EmCalculator.html#a1c20abcde7445540769060a2f690e2c9" title="G4EmCalculator::ComputeTotalDEDX" alt="" coords="918,269,1189,297"/>
+<area shape="rect" id="node12" href="$de/dc4/classG4EmCalculator.html#ac508cb0a692d89dd15e71fb63259d280" title="G4EmCalculator::ComputeTotalDEDX" alt="" coords="1247,176,1517,204"/>
+<area shape="rect" id="node13" href="$d7/df6/classRunAction.html#a7fd2cbdf03bbb26d4bbdad5784721430" title="RunAction::GetEnergyFrom\lCSDARange" alt="" coords="1281,228,1483,272"/>
+<area shape="rect" id="node14" href="$d4/d54/classHadrontherapyInteractionParameters.html#a3d589623e4da13a1b93e08acc6262f32" title="HadrontherapyInteraction\lParameters::GetStopping" alt="" coords="1284,296,1480,340"/>
+<area shape="rect" id="node15" href="$d4/d54/classHadrontherapyInteractionParameters.html#a8ceab53090d32ea4f027b798f321043c" title="HadrontherapyInteraction\lParameters::GetStoppingTable" alt="" coords="1269,364,1495,408"/>
+<area shape="rect" id="node17" href="$dd/d59/classG4GammaGeneralProcess.html#a4474a28ad49b0e36cc173c865a26f16c" title="G4GammaGeneralProcess\l::BuildPhysicsTable" alt="" coords="954,321,1153,365"/>
+<area shape="rect" id="node18" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a597271f70dbcf4f4d23cde4b954aae62" title="G4eplusPolarizedAnnihilation\l::BuildPhysicsTable" alt="" coords="944,389,1163,433"/>
+<area shape="rect" id="node19" href="$d1/d92/classG4PolarizedCompton.html#a69ca427d4c341e99c538c4d2d334b74e" title="G4PolarizedCompton\l::BuildPhysicsTable" alt="" coords="972,457,1135,501"/>
+<area shape="rect" id="node21" href="$da/d80/classG4VEnergyLossProcess.html#ad36fa5cb73ee1b04f4fe43da1bb0afab" title="G4VEnergyLossProcess\l::BuildPhysicsTable" alt="" coords="626,427,803,471"/>
+<area shape="rect" id="node22" href="$d7/d95/classG4ePolarizedIonisation.html#aeba0704cb84ce75a681097053be08a8a" title="G4ePolarizedIonisation\l::BuildPhysicsTable" alt="" coords="965,525,1141,569"/>
+<area shape="rect" id="node24" href="$dd/d59/classG4GammaGeneralProcess.html#aa6901fec160111cf8a00fbdc2f969cc5" title="G4GammaGeneralProcess\l::PreparePhysicsTable" alt="" coords="615,495,814,539"/>
+</map>

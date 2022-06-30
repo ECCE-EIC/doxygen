@@ -1,0 +1,19 @@
+<map id="G4PolarizationHelper::GetParticleFrameY" name="G4PolarizationHelper::GetParticleFrameY">
+<area shape="rect" id="node2" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a46ddd483a8301eda5a3b269eeaffda98" title="G4eplusPolarizedAnnihilation\l::ComputeSaturationFactor" alt="" coords="231,89,450,133"/>
+<area shape="rect" id="node5" href="$d7/d95/classG4ePolarizedIonisation.html#a9af2d5a24c10c9a83fc7e70fdbdf32f3" title="G4ePolarizedIonisation\l::ComputeSaturationFactor" alt="" coords="239,241,443,285"/>
+<area shape="rect" id="node8" href="$d0/d42/classG4PolarizationHelper.html#ae402960c50ba78b5c0cefbebc335288a" title="G4PolarizationHelper\l::GetRandomFrame" alt="" coords="258,357,423,401"/>
+<area shape="rect" id="node10" href="$dd/d1d/classG4StokesVector.html#a9f9a35ba716af7374a10a549f7d0114b" title="G4StokesVector::InvRotateAz" alt="" coords="523,564,740,592"/>
+<area shape="rect" id="node16" href="$dd/d1d/classG4StokesVector.html#ad8e504e2bd6553e8224b8eb5c45f045e" title="G4StokesVector::RotateAz" alt="" coords="242,488,439,516"/>
+<area shape="rect" id="node17" href="$d0/d42/classG4PolarizationHelper.html#a5d677ad5f78578f769c42126427dea44" title="G4PolarizationHelper\l::TestPolarizationTransformations" alt="" coords="219,643,463,687"/>
+<area shape="rect" id="node3" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a164405d7bf8e415485389529ac333b60" title="G4eplusPolarizedAnnihilation\l::GetMeanFreePath" alt="" coords="522,89,741,133"/>
+<area shape="rect" id="node4" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a6180087ff93b415df9fa06f82366cf91" title="G4eplusPolarizedAnnihilation\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="511,5,752,65"/>
+<area shape="rect" id="node6" href="$d7/d95/classG4ePolarizedIonisation.html#ac7583d257f650c1085d36ac1fdc1fdc5" title="G4ePolarizedIonisation\l::GetMeanFreePath" alt="" coords="543,241,719,285"/>
+<area shape="rect" id="node7" href="$d7/d95/classG4ePolarizedIonisation.html#a6f34d0d5ff1f2514cbef53a9af0a5ee7" title="G4ePolarizedIonisation\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="511,157,752,217"/>
+<area shape="rect" id="node9" href="$d8/d20/classG4PolarizedPEEffectModel.html#ae49e0cea270316b11174463dc8d7c901" title="G4PolarizedPEEffectModel\l::SampleSecondaries" alt="" coords="819,335,1016,379"/>
+<area shape="rect" id="node11" href="$d8/dd5/classG4ePolarizedBremsstrahlungModel.html#a2f05e3979ca7631cf70efeb4dd6f7a5d" title="G4ePolarizedBremsstrahlung\lModel::SampleSecondaries" alt="" coords="809,539,1026,583"/>
+<area shape="rect" id="node12" href="$da/d31/classG4PolarizedAnnihilationModel.html#a4a52526df8a95e5febe4b799b5063e68" title="G4PolarizedAnnihilationModel\l::SampleSecondaries" alt="" coords="806,675,1029,719"/>
+<area shape="rect" id="node13" href="$d8/ddd/classG4PolarizedComptonModel.html#a0d92a5a8a34939ecc398ac2f37ed19a6" title="G4PolarizedComptonModel\l::SampleSecondaries" alt="" coords="815,403,1019,447"/>
+<area shape="rect" id="node14" href="$db/d3f/classG4PolarizedGammaConversionModel.html#a4fc062964a159bc31c8b730d4188c399" title="G4PolarizedGammaConversion\lModel::SampleSecondaries" alt="" coords="802,471,1033,515"/>
+<area shape="rect" id="node15" href="$d9/df1/classG4PolarizedMollerBhabhaModel.html#a0fd505243c6abca26fa258418142dcfa" title="G4PolarizedMollerBhabhaModel\l::SampleSecondaries" alt="" coords="800,607,1035,651"/>
+<area shape="rect" id="node18" href="$dc/d4f/classG4PolarizationMessenger.html#a5720d25ad46f3fa7d9d6b02d51ee2d81" title="G4PolarizationMessenger\l::SetNewValue" alt="" coords="535,719,728,763"/>
+</map>

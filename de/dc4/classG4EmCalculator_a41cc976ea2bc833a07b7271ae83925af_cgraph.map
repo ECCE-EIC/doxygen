@@ -1,0 +1,16 @@
+<map id="G4EmCalculator::ComputeNuclearDEDX" name="G4EmCalculator::ComputeNuclearDEDX">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#ac9c15eda9b9b1c1f1ed99a08f1ccbf9c" title="G4VEmModel::ComputeDEDXPer\lVolume" alt="" coords="346,5,589,49"/>
+<area shape="rect" id="node3" href="$de/dc4/classG4EmCalculator.html#ad1cf399d3ae69285b0ccd1f13fae8486" title="G4EmCalculator::FindDiscrete\lProcess" alt="" coords="356,73,579,117"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="377,141,557,169"/>
+<area shape="rect" id="node12" href="$d0/dfb/classG4VEmProcess.html#a2bbaf49bfa65bd041e4458bd5fda337e" title="G4VEmProcess::GetModelBy\lIndex" alt="" coords="361,193,574,237"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="973,253,1128,297"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a6c61305ac25650db6205df16c779bf20" title="G4VEmModel::SetFluctuationFlag" alt="" coords="344,313,591,341"/>
+<area shape="rect" id="node4" href="$d9/d78/classG4LossTableManager.html#a3699ad8b6e96e4cc7baf8cff553f0e3b" title="G4LossTableManager\l::GetEmProcessVector" alt="" coords="671,64,841,108"/>
+<area shape="rect" id="node5" href="$de/dc4/classG4EmCalculator.html#a9c41d64b25dc6832516084639160f82d" title="G4EmCalculator::ActiveFor\lParticle" alt="" coords="655,132,857,176"/>
+<area shape="rect" id="node6" href="$d5/d2e/classG4ProcessManager.html#a074f535936aac0cb8b5e30fcf65cd349" title="G4ProcessManager::GetProcess\lActivation" alt="" coords="933,13,1168,57"/>
+<area shape="rect" id="node8" href="$d5/d2e/classG4ProcessManager.html#ac626c1a0a98c410780ea9bf2bde009a4" title="G4ProcessManager::GetProcessList" alt="" coords="921,81,1180,109"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="968,133,1133,177"/>
+<area shape="rect" id="node10" href="$d5/da4/classG4ProcessVector.html#a69e9b8948639870fb11412c66b4ad24d" title="G4ProcessVector::size" alt="" coords="966,201,1135,229"/>
+<area shape="rect" id="node7" href="$d5/d2e/classG4ProcessManager.html#a86fa6d1da65aaf05282760ddee51c37d" title="G4ProcessManager::GetProcess\lIndex" alt="" coords="1228,13,1463,57"/>
+<area shape="rect" id="node13" href="$dd/de5/classG4EmModelManager.html#ae786c0776b8d0ab9070b7455e5ea3b42" title="G4EmModelManager::GetModel" alt="" coords="639,204,873,232"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G4VModularPhysicsList::TerminateWorker" name="G4VModularPhysicsList::TerminateWorker">
+<area shape="rect" id="node2" href="$d5/d8b/classG4VUserPhysicsList.html#a31fe12d05342eb7968fb25892531a976" title="G4VUserPhysicsList\l::TerminateWorker" alt="" coords="232,189,387,233"/>
+<area shape="rect" id="node3" href="$d5/d8b/classG4VUserPhysicsList.html#aea9770962168337cf82ee40fab461c23" title="G4VUserPhysicsList\l::RemoveProcessManager" alt="" coords="435,189,631,233"/>
+<area shape="rect" id="node4" href="$d5/d38/classG4ParticleDefinition.html#a4676c0a2f618babc1592c28e01ed4ecd" title="G4ParticleDefinition\l::GetInstanceID" alt="" coords="684,5,839,49"/>
+<area shape="rect" id="node5" href="$d9/d62/classG4PDefManager.html#a42178db2844da3d6835c335cbdac39e4" title="G4PDefManager::slavetotalspace" alt="" coords="1725,124,1971,152"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#a4c463e08e928a594eb5996bfb43c2191" title="G4ParticleDefinition\l::GetParticleSubType" alt="" coords="681,223,842,267"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="684,291,839,335"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="679,359,844,403"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#af2efce53ae88eb6648879d2d87a278e3" title="G4ParticleDefinition\l::SetProcessManager" alt="" coords="680,155,843,199"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1795,364,1901,392"/>
+<area shape="rect" id="node11" href="$d7/d23/namespaceG4Threading.html#abe617631a97dac681b4bf698ad98a82f" title="G4Threading::G4GetThreadId" alt="" coords="892,163,1112,191"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#a4b03bed5a2cae69f6c5d81f933af6ce0" title="G4ParticleDefinition\l::SetParticleDefinitionID" alt="" coords="911,229,1093,273"/>
+<area shape="rect" id="node13" href="$d9/d62/classG4PDefManager.html#a0ef7d382dd735fd3ae2db8d54f0563b6" title="G4PDefManager::CreateSub\lInstance" alt="" coords="1160,229,1371,273"/>
+<area shape="rect" id="node14" href="$d7/d27/classG4TemplateAutoLock.html#a602b9f6e1be6c2798aa1a2d55a33e21d" title="G4TemplateAutoLock\l::lock" alt="" coords="1465,176,1631,220"/>
+<area shape="rect" id="node15" href="$d9/d62/classG4PDefManager.html#ad512525cdc2cfc83f12e1e9d6442cd52" title="G4PDefManager::NewSubInstances" alt="" coords="1419,312,1677,340"/>
+<area shape="rect" id="node18" href="$d7/d27/classG4TemplateAutoLock.html#a1fc2695a8c9b5527f9f3c62b32a2c172" title="G4TemplateAutoLock\l::unlock" alt="" coords="1465,244,1631,288"/>
+<area shape="rect" id="node16" href="$d3/ddb/classG4PDefData.html#a1585c1d3e72056fbd2af14f1cb5407e4" title="G4PDefData::initialize" alt="" coords="1763,312,1933,340"/>
+<area shape="rect" id="node17" href="$d9/d62/classG4PDefManager.html#a5e13e4d773e89e684960429cb3ba7b1d" title="G4PDefManager::offset" alt="" coords="1759,260,1937,288"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G4INCL::InteractionAvatar::shouldUseLocalEnergy" name="G4INCL::InteractionAvatar::shouldUseLocalEnergy">
+<area shape="rect" id="node2" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#a6d1151348ef6128ccc9916d17e0991d5" title="Enforce energy conservation." alt="" coords="255,71,473,115"/>
+<area shape="rect" id="node6" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af59776dad28c0c7f17415dd5b6e9e2c8" title="Apply local&#45;energy transformation, if appropriate." alt="" coords="260,140,468,184"/>
+<area shape="rect" id="node10" href="$de/d20/classG4INCL_1_1InteractionAvatar_1_1ViolationEMomentumFunctor.html#a6b880223a021c60fddbeb01f4cdaa023" title="Scale the momenta of the modified and created particles." alt="" coords="251,208,477,268"/>
+<area shape="rect" id="node11" href="$dd/dfe/classG4INCL_1_1InteractionAvatar_1_1ViolationEEnergyFunctor.html#a2f9284a89e8fb9fd4fae79072e0709d1" title="Set the energy of the particle." alt="" coords="265,292,463,352"/>
+<area shape="rect" id="node3" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#a87418f6177e792cb84b66b8075c2b9da" title="G4INCL::DecayAvatar\l::postInteraction" alt="" coords="800,5,967,49"/>
+<area shape="rect" id="node4" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ac8a019a080acc89c5c2ac6dbb339a750" title="G4INCL::InteractionAvatar\l::postInteraction" alt="" coords="525,71,723,115"/>
+<area shape="rect" id="node5" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a7a875ce633f6452bf1948ed61c903ce3" title="G4INCL::BinaryCollisionAvatar\l::postInteraction" alt="" coords="771,73,996,117"/>
+<area shape="rect" id="node7" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="525,141,723,185"/>
+<area shape="rect" id="node8" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#adbdf2218ffff261051eaaa09026bb583" title="G4INCL::DecayAvatar\l::preInteraction" alt="" coords="800,141,967,185"/>
+<area shape="rect" id="node9" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="771,209,996,253"/>
+</map>

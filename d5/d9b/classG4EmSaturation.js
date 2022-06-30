@@ -1,0 +1,27 @@
+var classG4EmSaturation =
+[
+    [ "G4EmSaturation", "d5/d9b/classG4EmSaturation.html#acdbcd58a6ab0c5f59f54c5963ad78cb6", null ],
+    [ "~G4EmSaturation", "d5/d9b/classG4EmSaturation.html#a21624efd043908d909807993c304cefe", null ],
+    [ "G4EmSaturation", "d5/d9b/classG4EmSaturation.html#ae884df12799f1f88e3f366155635abfc", null ],
+    [ "DumpBirksCoefficients", "d5/d9b/classG4EmSaturation.html#a82aba7c47fe3ed1c8c0155b80d4417da", null ],
+    [ "DumpG4BirksCoefficients", "d5/d9b/classG4EmSaturation.html#abd3daa13db99c0a9fbc3140b95f6a889", null ],
+    [ "FindG4BirksCoefficient", "d5/d9b/classG4EmSaturation.html#a7d18330b4c51ff1da23a59c990016bae", null ],
+    [ "InitialiseBirksCoefficient", "d5/d9b/classG4EmSaturation.html#af714182922b2393cc2a132b37a0f1b38", null ],
+    [ "InitialiseG4materials", "d5/d9b/classG4EmSaturation.html#a56e9d5c90cbdf60a8a85551007b4f5f3", null ],
+    [ "InitialiseG4Saturation", "d5/d9b/classG4EmSaturation.html#ab5d5d147c49daadc0b33633922157078", null ],
+    [ "operator=", "d5/d9b/classG4EmSaturation.html#a295bb4e2e1a1f69d54943790e0b1b48c", null ],
+    [ "SetVerbose", "d5/d9b/classG4EmSaturation.html#a2ae48f0f43f3a932a4887191b33c0ecc", null ],
+    [ "VisibleEnergyDeposition", "d5/d9b/classG4EmSaturation.html#a7b9a89e31151884340b7979b2cc2e784", null ],
+    [ "VisibleEnergyDepositionAtAStep", "d5/d9b/classG4EmSaturation.html#a023ce26719f1efdd30e888e3e969ebbd", null ],
+    [ "effCharges", "d5/d9b/classG4EmSaturation.html#af4b0ae39a992a1ad942ed2695b7b305d", null ],
+    [ "electron", "d5/d9b/classG4EmSaturation.html#a5aaf9d26f04d7c17bab97eb1fba845b1", null ],
+    [ "g4MatData", "d5/d9b/classG4EmSaturation.html#a6136b5689d3504a538dabb831a14d72b", null ],
+    [ "g4MatNames", "d5/d9b/classG4EmSaturation.html#aa5023e8e7bd91f2547b2174c5c5c0a3e", null ],
+    [ "massFactors", "d5/d9b/classG4EmSaturation.html#ab41a3e010cc1de433d33924b46af7831", null ],
+    [ "nG4Birks", "d5/d9b/classG4EmSaturation.html#a1e0530b32c887022576211c85b8f78c9", null ],
+    [ "nist", "d5/d9b/classG4EmSaturation.html#a8a80fd6446e860d8a0a241bd6766b054", null ],
+    [ "nMaterials", "d5/d9b/classG4EmSaturation.html#a1ab09a69435fbd4bc85f0a64d6cd7a66", null ],
+    [ "nWarnings", "d5/d9b/classG4EmSaturation.html#a7e2edb9b0f2cf3aecaabe9c0fee4256b", null ],
+    [ "proton", "d5/d9b/classG4EmSaturation.html#ae8bf19a3e59dd4ce7b42580bc46bfab1", null ],
+    [ "verbose", "d5/d9b/classG4EmSaturation.html#a8dc31c95bb9e1881aad0b6e3bf32415b", null ]
+];

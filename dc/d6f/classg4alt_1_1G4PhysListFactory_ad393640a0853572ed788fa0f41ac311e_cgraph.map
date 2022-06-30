@@ -1,0 +1,28 @@
+<map id="g4alt::G4PhysListFactory::GetReferencePhysList" name="g4alt::G4PhysListFactory::GetReferencePhysList">
+<area shape="rect" id="node2" href="$db/dcf/classG4PhysListRegistry.html#ab777ec48e3b88f0dc3a28adfd0538dd5" title="G4PhysListRegistry\l::GetModularPhysicsList" alt="" coords="241,635,424,679"/>
+<area shape="rect" id="node24" href="$db/dcf/classG4PhysListRegistry.html#a96a044c75254f49eff4d570338e683e1" title="G4PhysListRegistry\l::Instance" alt="" coords="257,891,408,935"/>
+<area shape="rect" id="node3" href="$db/dcf/classG4PhysListRegistry.html#ab9492a22b66dfbfbf6b2a50d730a7dde" title="G4PhysListRegistry\l::DeconstructPhysListName" alt="" coords="481,228,687,272"/>
+<area shape="rect" id="node9" href="$d7/d95/classG4PhysicsConstructorRegistry.html#aab17ba354f257c519e78f8576b7702c5" title="G4PhysicsConstructorRegistry\l::Instance" alt="" coords="746,397,970,441"/>
+<area shape="rect" id="node12" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="805,755,911,783"/>
+<area shape="rect" id="node13" href="$d7/d95/classG4PhysicsConstructorRegistry.html#a85942feb3d6e7348d599a358e93f5f72" title="G4PhysicsConstructorRegistry\l::GetPhysicsConstructor" alt="" coords="472,823,696,867"/>
+<area shape="rect" id="node14" href="$dc/d2e/classG4VModularPhysicsList.html#ab252613c25f9e8407c27e0c2ceecdb93" title="G4VModularPhysicsList\l::GetVerboseLevel" alt="" coords="495,635,673,679"/>
+<area shape="rect" id="node15" href="$dc/d2e/classG4VModularPhysicsList.html#a749b7064b776c809d258bcb4a95e9916" title="G4VModularPhysicsList\l::RegisterPhysics" alt="" coords="495,499,673,543"/>
+<area shape="rect" id="node22" href="$dc/d2e/classG4VModularPhysicsList.html#acd6050c16d624c777380b91f7b36b3cc" title="G4VModularPhysicsList\l::ReplacePhysics" alt="" coords="495,567,673,611"/>
+<area shape="rect" id="node23" href="$dc/d2e/classG4VModularPhysicsList.html#a24f4328684c0fc6a6f4736815a719d91" title="G4VModularPhysicsList\l::SetVerboseLevel" alt="" coords="495,703,673,747"/>
+<area shape="rect" id="node4" href="$d7/d95/classG4PhysicsConstructorRegistry.html#ac8423467d9c8d625f163f87ce4e465a1" title="G4PhysicsConstructorRegistry\l::AvailablePhysicsConstructors" alt="" coords="744,261,972,305"/>
+<area shape="rect" id="node5" href="$db/dcf/classG4PhysListRegistry.html#ad15d531b58d272e5bb7acc43cdb4bc4f" title="G4PhysListRegistry\l::AvailablePhysicsExtensions" alt="" coords="750,329,966,373"/>
+<area shape="rect" id="node6" href="$db/dcf/classG4PhysListRegistry.html#ada905d06eeed656aa9e1c677cd5b9861" title="G4PhysListRegistry\l::AvailablePhysLists" alt="" coords="781,5,935,49"/>
+<area shape="rect" id="node7" href="$d5/d72/classG4String.html#a3317b840ea50faeee9104d379f1e29cf" title="G4String::data" alt="" coords="798,73,918,101"/>
+<area shape="rect" id="node8" href="$db/dcf/classG4PhysListRegistry.html#a76bdb94799873d56e1864ed9f4bc8c5e" title="G4PhysListRegistry\l::FindLongestMatch" alt="" coords="782,125,934,169"/>
+<area shape="rect" id="node11" href="$d7/d95/classG4PhysicsConstructorRegistry.html#ae06804d074baa5b962c084e65c9dd1eb" title="G4PhysicsConstructorRegistry\l::IsKnownPhysicsConstructor" alt="" coords="746,193,970,237"/>
+<area shape="rect" id="node10" href="$d7/d95/classG4PhysicsConstructorRegistry.html#adad42bab13b678a1affbea6aae2d7a3e" title="G4PhysicsConstructorRegistry\l::G4PhysicsConstructorRegistry" alt="" coords="1033,397,1266,441"/>
+<area shape="rect" id="node16" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="749,601,967,645"/>
+<area shape="rect" id="node17" href="$d1/d2f/classG4VPhysicsConstructor.html#a79beb456199fd30b7ceaea70c0171339" title="G4VPhysicsConstructor\l::GetPhysicsName" alt="" coords="769,669,947,713"/>
+<area shape="rect" id="node18" href="$d1/d2f/classG4VPhysicsConstructor.html#a58a22988c11e11cb12fe75fd2c5e22e7" title="G4VPhysicsConstructor\l::GetPhysicsType" alt="" coords="769,465,947,509"/>
+<area shape="rect" id="node19" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="757,533,959,577"/>
+<area shape="rect" id="node20" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="1020,541,1279,569"/>
+<area shape="rect" id="node21" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1327,541,1468,569"/>
+<area shape="rect" id="node25" href="$db/dcf/classG4PhysListRegistry.html#ae50fe1f524ebdf283d83491986306d75" title="G4PhysListRegistry\l::AddPhysicsExtension" alt="" coords="498,891,670,935"/>
+<area shape="rect" id="node26" href="$db/dcf/classG4PhysListRegistry.html#aadbee44474832a9a01626a16c034b301" title="G4PhysListRegistry\l::G4PhysListRegistry" alt="" coords="504,959,664,1003"/>
+<area shape="rect" id="node27" href="$db/dcf/classG4PhysListRegistry.html#a72d8e257dea3a218d8180f9b9288bba4" title="G4PhysListRegistry\l::SetUserDefaultPhysList" alt="" coords="764,959,952,1003"/>
+</map>

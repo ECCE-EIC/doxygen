@@ -1,0 +1,11 @@
+<map id="G4AdjointBremsstrahlungModel::DiffCrossSectionPerVolumePrimToSecondApproximated1" name="G4AdjointBremsstrahlungModel::DiffCrossSectionPerVolumePrimToSecondApproximated1">
+<area shape="rect" id="node2" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="328,156,536,200"/>
+<area shape="rect" id="node9" href="$df/d40/classG4VEmAdjointModel.html#a3a70c844a4425b64c6dad91d679fad02" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMaxForProd\lToProjCase" alt="" coords="311,224,553,284"/>
+<area shape="rect" id="node10" href="$df/d40/classG4VEmAdjointModel.html#a8d3c99e8b40d0dde12fdc4a94abf5953" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMinForProd\lToProjCase" alt="" coords="313,308,551,368"/>
+<area shape="rect" id="node3" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="614,5,850,33"/>
+<area shape="rect" id="node4" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="655,57,809,101"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="617,125,847,169"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="601,193,863,221"/>
+<area shape="rect" id="node7" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="622,245,842,289"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="639,313,825,341"/>
+</map>

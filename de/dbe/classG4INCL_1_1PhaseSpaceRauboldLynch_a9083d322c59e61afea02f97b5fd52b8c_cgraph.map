@@ -1,0 +1,17 @@
+<map id="G4INCL::PhaseSpaceRauboldLynch::generate" name="G4INCL::PhaseSpaceRauboldLynch::generate">
+<area shape="rect" id="node2" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#ab9c682bb8c9377a93230174a3284dfdf" title="Compute the maximum possible weight using parametrizations." alt="" coords="269,12,555,56"/>
+<area shape="rect" id="node9" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#ae0ffd1e4d44b3b5e0de5630a821a0e21" title="Compute the maximum possible weight." alt="" coords="635,73,851,117"/>
+<area shape="rect" id="node10" href="$d5/d11/namespaceG4INCL_1_1Random.html#aad2134de367e586ed59d4ebc233f65ae" title="G4INCL::Random::shoot" alt="" coords="933,141,1115,169"/>
+<area shape="rect" id="node11" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#a7ffe84be61c3d674909c523f8879d495" title="Generate an event." alt="" coords="304,237,520,281"/>
+<area shape="rect" id="node16" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#a1e55af4d3adc30ef72a577462f21e1c0" title="Initialize internal structures (masses and sum of masses)" alt="" coords="304,356,520,400"/>
+<area shape="rect" id="node3" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#ac94f28fa79eb4e0644edd6b967aae147" title="Compute the maximum possible weight using a naive algorithm." alt="" coords="603,5,884,49"/>
+<area shape="rect" id="node4" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acc0f81fccd1735f59b9dbf8a4471e564" title="gives the momentum in the CM frame of two particles." alt="" coords="932,73,1116,117"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="1185,300,1380,328"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1179,29,1387,57"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1164,81,1401,109"/>
+<area shape="rect" id="node8" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa30743ac6a72bc2943cdce1f49665281" title="G4INCL::ThreeVector::dot" alt="" coords="1186,133,1379,161"/>
+<area shape="rect" id="node12" href="$d5/d11/namespaceG4INCL_1_1Random.html#a0d9e4bdbfe25ceeb7cd3f786da732386" title="G4INCL::Random::normVector" alt="" coords="631,193,855,221"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="625,245,861,273"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#a8c2f1e65aebb3c8fe07f0b01d637af6f" title="Recompute the energy to match the momentum." alt="" coords="653,297,834,341"/>
+<area shape="rect" id="node15" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="943,323,1105,367"/>
+</map>

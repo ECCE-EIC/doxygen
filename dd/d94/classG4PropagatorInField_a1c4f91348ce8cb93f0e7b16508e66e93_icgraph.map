@@ -1,0 +1,14 @@
+<map id="G4PropagatorInField::GetCurrentEquationOfMotion" name="G4PropagatorInField::GetCurrentEquationOfMotion">
+<area shape="rect" id="node2" href="$d6/ddc/classG4Transportation.html#a1d2c2ecc617f1b573e01f00267a6248e" title="G4Transportation::AlongStep\lGetPhysicalInteractionLength" alt="" coords="294,75,513,119"/>
+<area shape="rect" id="node3" href="$de/d27/classG4CoupledTransportation.html#ae740ca312a3927518be8b5775f3419c0" title="G4CoupledTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="862,5,1113,65"/>
+<area shape="rect" id="node4" href="$dd/dfc/classG4PathFinder.html#a6f941323bcef37a86926476f63921790" title="G4PathFinder::DoNextCurvedStep" alt="" coords="279,195,528,223"/>
+<area shape="rect" id="node5" href="$dd/dfc/classG4PathFinder.html#a6b71f99bb9503ace815095ed81135f0b" title="G4PathFinder::ComputeStep" alt="" coords="576,316,788,344"/>
+<area shape="rect" id="node6" href="$d7/d9d/classG4WeightCutOffProcess.html#acc8c741d09875cd067c89b468facb85e" title="G4WeightCutOffProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="862,89,1113,149"/>
+<area shape="rect" id="node7" href="$de/dbf/classG4ParallelWorldProcess.html#ac90399ea0d751d20f9a021f78990e181" title="G4ParallelWorldProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="862,173,1113,233"/>
+<area shape="rect" id="node8" href="$da/da9/classG4ImportanceProcess.html#a257d4cdefb86d13a6fade51a589e33d4" title="G4ImportanceProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="862,257,1113,317"/>
+<area shape="rect" id="node9" href="$d7/d56/classG4ParallelWorldScoringProcess.html#a65ae0bbb9eca9b9476bee1360319f0b2" title="G4ParallelWorldScoringProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="862,341,1113,401"/>
+<area shape="rect" id="node10" href="$d6/d2e/classG4WeightWindowProcess.html#a61cc6b1ab9c07cd600ed3b0f716ee248" title="G4WeightWindowProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="862,425,1113,485"/>
+<area shape="rect" id="node11" href="$d0/d62/classG4FastSimulationManagerProcess.html#a09edecfc73894c5accc3bd40c7816ecd" title="G4FastSimulationManagerProcess\l::AlongStepGetPhysicalInteractionLength" alt="" coords="839,509,1136,553"/>
+<area shape="rect" id="node12" href="$de/de9/classG4ParallelGeometriesLimiterProcess.html#aa3307335c695d03a704c2476516dc7aa" title="G4ParallelGeometriesLimiter\lProcess::AlongStepGetPhysicalInteraction\lLength" alt="" coords="836,577,1139,637"/>
+<area shape="rect" id="node13" href="$df/dd1/classPar02FastSimModelTracker.html#a18180da7f5ef364354ef46364fc9f558" title="Par02FastSimModelTracker\l::DoIt" alt="" coords="886,661,1089,705"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="G4MuBetheBlochModel::SampleSecondaries" name="G4MuBetheBlochModel::SampleSecondaries">
+<area shape="rect" id="node2" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="326,84,390,112"/>
+<area shape="rect" id="node8" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="573,161,731,205"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="267,221,449,265"/>
+<area shape="rect" id="node10" href="$d3/dc1/classG4VEmModel.html#ae3dc7d90d3e2876864816bbb3a5c91b7" title="G4VEmModel::MaxSecondary\lKinEnergy" alt="" coords="247,289,469,333"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="278,357,438,401"/>
+<area shape="rect" id="node17" href="$dd/dc0/classG4ParticleChangeForLoss.html#a6fbdb90e6a6bbdafc52888288760182e" title="G4ParticleChangeForLoss\l::SetProposedKineticEnergy" alt="" coords="254,425,462,469"/>
+<area shape="rect" id="node18" href="$dd/dc0/classG4ParticleChangeForLoss.html#abf9c7d43c5194e5ec62cfa955e5de2e8" title="G4ParticleChangeForLoss\l::SetProposedMomentumDirection" alt="" coords="232,493,484,537"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="264,561,452,589"/>
+<area shape="rect" id="node3" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="556,5,748,33"/>
+<area shape="rect" id="node4" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="556,57,748,85"/>
+<area shape="rect" id="node5" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="532,109,772,137"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="820,84,1008,112"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="820,136,1008,164"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#ae9242b5a5372462109c438f3ce624363" title="G4VEmModel::MaxSecondary\lEnergy" alt="" coords="541,229,763,273"/>
+<area shape="rect" id="node12" href="$d7/d5c/classG4DynamicParticle.html#a4af3d8c60e82b21a321f5f90264a7017" title="G4DynamicParticle::\lGetParticleDefinition" alt="" coords="572,297,732,341"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="567,365,737,393"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="567,417,737,445"/>
+<area shape="rect" id="node16" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="568,469,736,497"/>
+</map>

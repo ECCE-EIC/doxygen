@@ -1,0 +1,25 @@
+var classG4NeutronPHPBuilder =
+[
+    [ "G4NeutronPHPBuilder", "d2/d19/classG4NeutronPHPBuilder.html#ae435e02c0049cd8c92ec6575689cdba2", null ],
+    [ "~G4NeutronPHPBuilder", "d2/d19/classG4NeutronPHPBuilder.html#aeb41ffb16c9c039e004c728bc3b39f0e", null ],
+    [ "Build", "d2/d19/classG4NeutronPHPBuilder.html#a9d49e6c7779cbdf5bbea93ad6128df0b", null ],
+    [ "Build", "d2/d19/classG4NeutronPHPBuilder.html#a70d4a9dd62e2f1d3c679964e34c5908f", null ],
+    [ "Build", "d2/d19/classG4NeutronPHPBuilder.html#a4767f70cd1b5b8c614c8faf2e60be7ee", null ],
+    [ "Build", "d2/d19/classG4NeutronPHPBuilder.html#add0b9d59c71bf53c2d65619d7547e5de", null ],
+    [ "SetMaxEnergy", "d2/d19/classG4NeutronPHPBuilder.html#af2a5facfd2ce725fc86e4ea82d84a89b", null ],
+    [ "SetMaxInelasticEnergy", "d2/d19/classG4NeutronPHPBuilder.html#a1a96113dd1110d356ad6f0bf3e58104d", null ],
+    [ "SetMinEnergy", "d2/d19/classG4NeutronPHPBuilder.html#ad977f4b54d8fbeb583d380d72e334b3f", null ],
+    [ "SetMinInelasticEnergy", "d2/d19/classG4NeutronPHPBuilder.html#a3e3d566c154e8bcb576d8e56c80c719e", null ],
+    [ "theHPCapture", "d2/d19/classG4NeutronPHPBuilder.html#a142612d4ccd984cc241fc38ffb75671e", null ],
+    [ "theHPCaptureData", "d2/d19/classG4NeutronPHPBuilder.html#a05bd7c2462995d4fc948a89a7900f050", null ],
+    [ "theHPElastic", "d2/d19/classG4NeutronPHPBuilder.html#a9bd689dadcf24905d0344b6f79f92c43", null ],
+    [ "theHPElasticData", "d2/d19/classG4NeutronPHPBuilder.html#a589ac39c534437f7f88bae115dd7cb98", null ],
+    [ "theHPFission", "d2/d19/classG4NeutronPHPBuilder.html#ac3aedefe64ecc2ca918ee8601bb429af", null ],
+    [ "theHPFissionData", "d2/d19/classG4NeutronPHPBuilder.html#a0b8990ba8368f19335731244b89b9489", null ],
+    [ "theHPInelastic", "d2/d19/classG4NeutronPHPBuilder.html#a238dd259c04b076850f0a05e7f8dd2c8", null ],
+    [ "theHPInelasticData", "d2/d19/classG4NeutronPHPBuilder.html#a9710e1f75217e6d593b1b664f9cf4e80", null ],
+    [ "theIMax", "d2/d19/classG4NeutronPHPBuilder.html#a3105891f2553a59ee81f8cb48a80e23c", null ],
+    [ "theIMin", "d2/d19/classG4NeutronPHPBuilder.html#ab2c4798c3587892f7626edfc8de052d5", null ],
+    [ "theMax", "d2/d19/classG4NeutronPHPBuilder.html#afa6bf25179d41e406613ecfff3f744c8", null ],
+    [ "theMin", "d2/d19/classG4NeutronPHPBuilder.html#ac6ac8bec5c8c3f1a070f174fc54faa35", null ]
+];

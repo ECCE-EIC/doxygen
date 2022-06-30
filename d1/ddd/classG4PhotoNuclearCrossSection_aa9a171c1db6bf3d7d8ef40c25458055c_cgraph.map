@@ -1,0 +1,37 @@
+<map id="G4PhotoNuclearCrossSection::GetIsoCrossSection" name="G4PhotoNuclearCrossSection::GetIsoCrossSection">
+<area shape="rect" id="node2" href="$d1/ddd/classG4PhotoNuclearCrossSection.html#a8469544ac838749cb4569a40b442ae5c" title="G4PhotoNuclearCrossSection\l::EquLinearFit" alt="" coords="536,52,753,96"/>
+<area shape="rect" id="node3" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="613,120,677,148"/>
+<area shape="rect" id="node9" href="$d1/ddd/classG4PhotoNuclearCrossSection.html#ad4127a7323c36e9125eca47df0642227" title="G4PhotoNuclearCrossSection\l::GetElementCrossSection" alt="" coords="271,224,488,268"/>
+<area shape="rect" id="node19" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="566,360,723,404"/>
+<area shape="rect" id="node20" href="$d1/ddd/classG4PhotoNuclearCrossSection.html#ade7e4137dfff4f62542d80503bcafaca" title="G4PhotoNuclearCrossSection\l::ThresholdEnergy" alt="" coords="536,428,753,472"/>
+<area shape="rect" id="node4" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="825,5,1017,33"/>
+<area shape="rect" id="node5" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="825,57,1017,85"/>
+<area shape="rect" id="node6" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="801,109,1041,137"/>
+<area shape="rect" id="node7" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1089,57,1277,85"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1089,109,1277,137"/>
+<area shape="rect" id="node10" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="611,172,678,200"/>
+<area shape="rect" id="node14" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="542,224,747,268"/>
+<area shape="rect" id="node16" href="$d1/ddd/classG4PhotoNuclearCrossSection.html#ab272be2193fac961d885c03004437419" title="G4PhotoNuclearCrossSection\l::GetFunctions" alt="" coords="536,292,753,336"/>
+<area shape="rect" id="node11" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="839,161,1004,189"/>
+<area shape="rect" id="node13" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="827,213,1016,241"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1089,161,1277,189"/>
+<area shape="rect" id="node15" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="836,265,1007,309"/>
+<area shape="rect" id="node17" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="866,333,977,361"/>
+<area shape="rect" id="node18" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1095,333,1271,361"/>
+<area shape="rect" id="node21" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="2175,389,2214,417"/>
+<area shape="rect" id="node22" href="$d3/df1/classG4NucleiProperties.html#ab7ba01fced8943f053611163c0a734f4" title="G4NucleiProperties\l::IsInStableTable" alt="" coords="846,505,997,549"/>
+<area shape="rect" id="node23" href="$d3/df1/classG4NucleiProperties.html#acfcf06bdfd3034735124c76e06dd3794" title="G4NucleiProperties\l::GetNuclearMass" alt="" coords="846,437,997,481"/>
+<area shape="rect" id="node24" href="$d3/df1/classG4NucleiProperties.html#a84f621a35ef0b3c6cfffba0c4b4bd79c" title="G4NucleiProperties\l::NuclearMass" alt="" coords="1108,472,1259,516"/>
+<area shape="rect" id="node25" href="$d3/df1/classG4NucleiProperties.html#aee1660bc4a3c6d59e2a1af5406410422" title="G4NucleiProperties\l::AtomicMass" alt="" coords="1354,472,1505,516"/>
+<area shape="rect" id="node30" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1325,556,1533,600"/>
+<area shape="rect" id="node26" href="$d3/df1/classG4NucleiProperties.html#ac66a063606af1c1d4518dcd10221eb49" title="G4NucleiProperties\l::BindingEnergy" alt="" coords="1622,505,1773,549"/>
+<area shape="rect" id="node27" href="$da/d39/classG4NucleiPropertiesTableAME12.html#ad495a18931051e6c1ba10bfde6d31c97" title="G4NucleiPropertiesTableAME12\l::GetMassExcess" alt="" coords="1581,437,1813,481"/>
+<area shape="rect" id="node28" href="$da/d39/classG4NucleiPropertiesTableAME12.html#a6c90fbe73e1ff7c54df96d044efa3af7" title="G4NucleiPropertiesTableAME12\l::GetIndex" alt="" coords="1861,437,2093,481"/>
+<area shape="rect" id="node29" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2141,445,2248,473"/>
+<area shape="rect" id="node31" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1597,607,1798,651"/>
+<area shape="rect" id="node32" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1886,761,2069,789"/>
+<area shape="rect" id="node33" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1900,505,2055,549"/>
+<area shape="rect" id="node34" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1889,573,2065,617"/>
+<area shape="rect" id="node35" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1889,641,2065,685"/>
+<area shape="rect" id="node36" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1863,709,2091,737"/>
+</map>

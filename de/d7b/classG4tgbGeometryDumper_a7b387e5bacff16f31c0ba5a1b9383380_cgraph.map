@@ -1,0 +1,29 @@
+<map id="G4tgbGeometryDumper::DumpMaterial" name="G4tgbGeometryDumper::DumpMaterial">
+<area shape="rect" id="node2" href="$de/d7b/classG4tgbGeometryDumper.html#a5dc0bc429552d485450574fb92b239b0" title="G4tgbGeometryDumper\l::AddQuotes" alt="" coords="856,5,1041,49"/>
+<area shape="rect" id="node3" href="$de/d7b/classG4tgbGeometryDumper.html#ab98411554337b8d1ffb7262e76fc2235" title="G4tgbGeometryDumper\l::DumpElement" alt="" coords="277,305,462,349"/>
+<area shape="rect" id="node7" href="$de/d7b/classG4tgbGeometryDumper.html#a97bbde507a37a376c85e69b38cf794e8" title="G4tgbGeometryDumper\l::GetObjectName" alt="" coords="856,229,1041,273"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a7aba50a565ce4d53baf71d8f7a6ad212" title="G4Material::GetA" alt="" coords="300,616,439,644"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="279,668,459,696"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="255,720,483,748"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="257,772,482,800"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="273,824,466,852"/>
+<area shape="rect" id="node23" href="$d6/d69/classG4IonisParamMat.html#a4fefdfbba759144ef70b9923ea225a13" title="G4IonisParamMat::GetMean\lExcitationEnergy" alt="" coords="265,876,474,920"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="239,944,500,972"/>
+<area shape="rect" id="node25" href="$d5/de4/classG4Material.html#a9a527e7c9fd3197bfb525d8b6751983b" title="G4Material::GetPressure" alt="" coords="277,996,462,1024"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a799afb574dc04d80f5a27c081a0dfaa3" title="G4Material::GetState" alt="" coords="287,1048,451,1076"/>
+<area shape="rect" id="node27" href="$d5/de4/classG4Material.html#a9c66e8742ee9e8491a269df8bef35687" title="G4Material::GetTemperature" alt="" coords="263,1100,476,1128"/>
+<area shape="rect" id="node28" href="$d5/de4/classG4Material.html#a419c5aced8395f8ae4a4f3544dfd1c6f" title="G4Material::GetZ" alt="" coords="301,1152,438,1180"/>
+<area shape="rect" id="node4" href="$de/d7b/classG4tgbGeometryDumper.html#a2857b89227b0b8ee54ae9499f92df874" title="G4tgbGeometryDumper\l::DumpIsotope" alt="" coords="585,116,771,160"/>
+<area shape="rect" id="node11" href="$de/d80/classG4Element.html#acd081e1705555cd8dce5081291c7a3f9" title="G4Element::GetA" alt="" coords="609,236,747,264"/>
+<area shape="rect" id="node12" href="$de/d80/classG4Element.html#a4f0946e5ae3f963321e1e14153aa4e37" title="G4Element::GetIsotopeVector" alt="" coords="567,288,789,316"/>
+<area shape="rect" id="node13" href="$de/d80/classG4Element.html#a8db620c908d7ef03465ebcd094d9af1a" title="G4Element::GetNumberOfIsotopes" alt="" coords="550,340,806,368"/>
+<area shape="rect" id="node14" href="$de/d80/classG4Element.html#a53f6ad00e10dbc5aeb9eb8020bc7fb51" title="G4Element::GetRelativeAbundance\lVector" alt="" coords="548,392,808,436"/>
+<area shape="rect" id="node15" href="$de/d80/classG4Element.html#a2b14f9fe2da360e3af30b7defed2a13d" title="G4Element::GetSymbol" alt="" coords="588,460,768,488"/>
+<area shape="rect" id="node16" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="609,512,747,540"/>
+<area shape="rect" id="node5" href="$d8/d66/classG4Isotope.html#a0bf589a3259f2bcd7ce7612186836238" title="G4Isotope::GetA" alt="" coords="882,73,1015,101"/>
+<area shape="rect" id="node6" href="$d8/d66/classG4Isotope.html#ab76a4582cdd212ce4ccda3b5d373a21b" title="G4Isotope::GetN" alt="" coords="883,125,1015,153"/>
+<area shape="rect" id="node10" href="$d8/d66/classG4Isotope.html#a288db701d3b8fbd9b155ac9d3b146207" title="G4Isotope::GetZ" alt="" coords="883,177,1015,205"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html#ab6261a741b9eef5c5731c3a0523f08da" title="G4String::first" alt="" coords="1150,211,1267,239"/>
+<area shape="rect" id="node9" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="1089,263,1328,291"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="625,884,731,912"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4INCL::ThreeVector::dot" name="G4INCL::ThreeVector::dot">
+<area shape="rect" id="node2" href="$dd/d83/classG4INCL_1_1Particle.html#acfa99b24e8281198b39de56d77c12121" title="G4INCL::Particle::boost" alt="" coords="307,236,485,264"/>
+<area shape="rect" id="node10" href="$dd/d6a/classG4INCL_1_1ClusteringModelIntercomparison.html#aab97f07588fe0140b5ec58c4781711a7" title="G4INCL::ClusteringModelIntercomparison\l::clusterCanEscape" alt="" coords="247,1349,545,1393"/>
+<area shape="rect" id="node11" href="$d9/d99/classG4INCL_1_1CoulombNonRelativistic.html#ab11c36dc87629ed26472dd86056789cd" title="Modify the momenta of the outgoing particles." alt="" coords="276,1417,516,1461"/>
+<area shape="rect" id="node12" href="$d4/df0/classG4INCL_1_1ReflectionChannel.html#a1456313aec1c11b5d848cb6de88196a4" title="G4INCL::ReflectionChannel\l::fillFinalState" alt="" coords="295,1485,497,1529"/>
+<area shape="rect" id="node13" href="$d0/d9d/classG4INCL_1_1NDeltaEtaProductionChannel.html#a6686bfff36657de457b5033537f8592b" title="G4INCL::NDeltaEtaProduction\lChannel::fillFinalState" alt="" coords="287,1553,505,1597"/>
+<area shape="rect" id="node14" href="$d1/d52/classG4INCL_1_1NDeltaOmegaProductionChannel.html#a4c9f72ffec30740393c43c353a1d0b48" title="G4INCL::NDeltaOmegaProduction\lChannel::fillFinalState" alt="" coords="273,1621,519,1665"/>
+<area shape="rect" id="node15" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a70ad321a32fd3b9f3ef76d0f54691a25" title="G4INCL::BinaryCollisionAvatar\l::getChannel" alt="" coords="283,1689,509,1733"/>
+<area shape="rect" id="node16" href="$dd/d6a/classG4INCL_1_1ClusteringModelIntercomparison.html#af7da5a49c25a09c3fd6366a7a3de762f" title="G4INCL::ClusteringModelIntercomparison\l::getCluster" alt="" coords="247,1757,545,1801"/>
+<area shape="rect" id="node17" href="$dd/d83/classG4INCL_1_1Particle.html#afa7070eff738e3d4e645d20245ede536" title="Get the cosine of the angle between position and momentum." alt="" coords="303,1825,489,1869"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#a86ac0b7c12896f9ed6192dee21d7ff2e" title="Get the the particle invariant mass." alt="" coords="269,1893,523,1921"/>
+<area shape="rect" id="node23" href="$dd/d83/classG4INCL_1_1Particle.html#a3545e1e2fd21a365d6f95c244531353d" title="Longitudinal component of the position w.r.t. the momentum." alt="" coords="274,1945,518,1989"/>
+<area shape="rect" id="node26" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ac182e8187a8e4d9245ccd3a4e0ed196e" title="G4INCL::StandardPropagation\lModel::getTime" alt="" coords="285,2013,507,2057"/>
+<area shape="rect" id="node28" href="$dd/d83/classG4INCL_1_1Particle.html#a420ec15554b7fb99e85c371f08ba316d" title="Lorentz&#45;contract the particle position around some center." alt="" coords="303,2081,489,2125"/>
+<area shape="rect" id="node29" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acc0f81fccd1735f59b9dbf8a4471e564" title="gives the momentum in the CM frame of two particles." alt="" coords="304,941,488,985"/>
+<area shape="rect" id="node49" href="$d8/d5c/classG4INCL_1_1TransmissionChannel.html#a6a236024a7831612c139e906a8b711ff" title="Modify particle that leaves the nucleus." alt="" coords="285,2149,507,2193"/>
+<area shape="rect" id="node50" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a9f2df985ad30c8279f962c54964c64ff" title="Rotate the vector by a given angle around a given axis." alt="" coords="315,2217,477,2261"/>
+<area shape="rect" id="node3" href="$d0/d7f/classG4INCL_1_1Cluster.html#a06e060b6ea2f3c353efe3ead2d0d5012" title="Boost the cluster with the indicated velocity." alt="" coords="647,73,821,101"/>
+<area shape="rect" id="node4" href="$d7/db0/classG4INCL_1_1Nucleus.html#af840b4d956b404aa9647c14b303b558c" title="Compute the recoil kinematics for a 1&#45;nucleon remnant." alt="" coords="625,125,843,169"/>
+<area shape="rect" id="node5" href="$d7/db0/classG4INCL_1_1Nucleus.html#af982baf8c2967ec4bb12d728c1c5c6b5" title="Force the decay of outgoing deltas." alt="" coords="611,193,857,237"/>
+<area shape="rect" id="node6" href="$d7/db0/classG4INCL_1_1Nucleus.html#a88bf848e220605619d88a079cefc1692" title="Force the decay of outgoing PionResonances (eta/omega)." alt="" coords="611,261,857,305"/>
+<area shape="rect" id="node7" href="$d7/db0/classG4INCL_1_1Nucleus.html#afd2a6108175cf3be267f5c3f2e32da3a" title="Force the decay of outgoing Neutral Sigma." alt="" coords="611,329,857,373"/>
+<area shape="rect" id="node8" href="$df/d7f/classG4INCL_1_1PhaseSpaceKopylov.html#a8ee1457566b5a11136269f9a596004a3" title="Generate momenta according to a uniform, non&#45;Lorentz&#45;invariant phase&#45;space model." alt="" coords="627,397,841,441"/>
+<area shape="rect" id="node9" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="635,5,833,49"/>
+<area shape="rect" id="node18" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a2b21c9870e68528a863c28d48f2be4f5" title="G4INCL::SurfaceAvatar\l::initializeRefractionVariables" alt="" coords="625,1825,843,1869"/>
+<area shape="rect" id="node19" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#a8a1824ffd5272e7dcc81e443edc17af7" title="Modify particle that enters the nucleus." alt="" coords="624,1757,844,1801"/>
+<area shape="rect" id="node21" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2d839f0367ad2cf99d948bf32640222a" title="Finalise the projectile remnant." alt="" coords="639,1945,829,1989"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#a91623f7fef4a94ed6c31ef163818372e" title="G4INCL::Particle::Particle" alt="" coords="640,1893,828,1921"/>
+<area shape="rect" id="node24" href="$d9/d99/classG4INCL_1_1CoulombNonRelativistic.html#adc288df19cdbe2215625e406d72fe82c" title="Perform Coulomb deviation." alt="" coords="923,2036,1163,2080"/>
+<area shape="rect" id="node25" href="$dd/d83/classG4INCL_1_1Particle.html#a756d9a0aca8e977a92ef39c6ad9e1236" title="Transverse component of the position w.r.t. the momentum." alt="" coords="617,2065,851,2109"/>
+<area shape="rect" id="node27" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="595,2133,873,2177"/>
+<area shape="rect" id="node30" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a8fd926ece0aa4bf40a1e57c18bb59fd3" title="Cross sections for mesonic resonance absorption on nucleon &#45; piN Channel." alt="" coords="614,737,854,781"/>
+<area shape="rect" id="node31" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a2695621c09e1ba8213e576fe19d5707a" title="Cross section for OmegaN&#45;&gt;PiN." alt="" coords="601,805,867,849"/>
+<area shape="rect" id="node32" href="$de/d02/classG4INCL_1_1DeltaDecayChannel.html#a70529d1d3764e517a72df32449d73ad4" title="G4INCL::DeltaDecayChannel\l::computeDecayTime" alt="" coords="627,873,841,917"/>
+<area shape="rect" id="node33" href="$de/d02/classG4INCL_1_1DeltaDecayChannel.html#aee240817d571ac9a23f54dadc5b30b59" title="G4INCL::DeltaDecayChannel\l::fillFinalState" alt="" coords="627,941,841,985"/>
+<area shape="rect" id="node34" href="$d2/d01/classG4INCL_1_1DeltaProductionChannel.html#a835867c4f006ca14a8ffb275368b672d" title="G4INCL::DeltaProductionChannel\l::fillFinalState" alt="" coords="613,1009,855,1053"/>
+<area shape="rect" id="node35" href="$df/d29/classG4INCL_1_1NKbElasticChannel.html#a33d9be88738ea68d6eae783da9215188" title="G4INCL::NKbElasticChannel\l::KaonMomentum" alt="" coords="631,1077,837,1121"/>
+<area shape="rect" id="node36" href="$d1/d72/classG4INCL_1_1NKbToLpiChannel.html#aa026a9652d70d5e8992ac201432119e9" title="G4INCL::NKbToLpiChannel\l::fillFinalState" alt="" coords="635,1145,833,1189"/>
+<area shape="rect" id="node37" href="$d1/dcb/classG4INCL_1_1NKbToNKbChannel.html#afdc20ece837c35e2860bb8d39eac4c01" title="G4INCL::NKbToNKbChannel\l::fillFinalState" alt="" coords="632,1213,836,1257"/>
+<area shape="rect" id="node38" href="$db/dad/classG4INCL_1_1NKbToSpiChannel.html#aeb3d431a79db26e98eb527c29aba4ead" title="G4INCL::NKbToSpiChannel\l::fillFinalState" alt="" coords="635,1281,833,1325"/>
+<area shape="rect" id="node39" href="$d1/d88/classG4INCL_1_1NKElasticChannel.html#a84cf17ae67afb6f6968d3142c0dc9480" title="G4INCL::NKElasticChannel\l::fillFinalState" alt="" coords="635,1349,833,1393"/>
+<area shape="rect" id="node40" href="$dc/dcf/classG4INCL_1_1NKToNKChannel.html#ac353286e5d9af116e11c1d45705d5041" title="G4INCL::NKToNKChannel\l::fillFinalState" alt="" coords="641,1417,827,1461"/>
+<area shape="rect" id="node41" href="$d5/d33/classG4INCL_1_1NpiToLKChannel.html#a77f78c2aeb4bc4d37cc4fbd76528d84d" title="G4INCL::NpiToLKChannel\l::fillFinalState" alt="" coords="640,1485,828,1529"/>
+<area shape="rect" id="node42" href="$d1/d51/classG4INCL_1_1NpiToSKChannel.html#a3ae1238d9c88f7f4e2e68ea8b0db560f" title="G4INCL::NpiToSKChannel\l::fillFinalState" alt="" coords="639,1553,829,1597"/>
+<area shape="rect" id="node43" href="$d0/d29/classG4INCL_1_1NYElasticChannel.html#a77b5c0574fe411d16a08dca22837ff29" title="G4INCL::NYElasticChannel\l::fillFinalState" alt="" coords="635,1621,833,1665"/>
+<area shape="rect" id="node44" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#ac94f28fa79eb4e0644edd6b967aae147" title="Compute the maximum possible weight using a naive algorithm." alt="" coords="593,1689,875,1733"/>
+<area shape="rect" id="node45" href="$de/dbe/classG4INCL_1_1PhaseSpaceRauboldLynch.html#ae0ffd1e4d44b3b5e0de5630a821a0e21" title="Compute the maximum possible weight." alt="" coords="626,465,842,509"/>
+<area shape="rect" id="node46" href="$dc/d52/classG4INCL_1_1PionResonanceDecayChannel.html#ab0be3079b2d26721919492e192adbdc5" title="G4INCL::PionResonanceDecay\lChannel::fillFinalState" alt="" coords="622,533,846,577"/>
+<area shape="rect" id="node47" href="$df/d00/classG4INCL_1_1RecombinationChannel.html#a83d9b851c89df77592a9cb02b09da5ec" title="G4INCL::RecombinationChannel\l::fillFinalState" alt="" coords="616,601,852,645"/>
+<area shape="rect" id="node48" href="$da/d1d/classG4INCL_1_1SigmaZeroDecayChannel.html#afc41766de3da53df20ba228eeec51bd7" title="G4INCL::SigmaZeroDecayChannel\l::fillFinalState" alt="" coords="609,669,859,713"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G4AdjointSimManager::SetAdjointPrimaryRunAndStackingActions" name="G4AdjointSimManager::SetAdjointPrimaryRunAndStackingActions">
+<area shape="rect" id="node2" href="$db/d16/classG4AdjointSimManager.html#ace47942b1af5e72b7b792217ca3f04cc" title="G4AdjointSimManager\l::DefineUserActions" alt="" coords="333,193,507,237"/>
+<area shape="rect" id="node3" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="576,5,820,33"/>
+<area shape="rect" id="node11" href="$d1/d92/classG4AdjointStackingAction.html#a3e8a7186cb5019fa53790540bc3fd637" title="G4AdjointStackingAction\l::SetUserFwdStackingAction" alt="" coords="315,261,525,305"/>
+<area shape="rect" id="node4" href="$d4/daa/classG4RunManager.html#af08fd22435118a478726a8fdba0ec45a" title="G4RunManager::GetUserEvent\lAction" alt="" coords="584,57,812,101"/>
+<area shape="rect" id="node5" href="$d4/daa/classG4RunManager.html#ab152d49c2a203b74649f15074302cdf2" title="G4RunManager::GetUserPrimary\lGeneratorAction" alt="" coords="577,125,819,169"/>
+<area shape="rect" id="node6" href="$d4/daa/classG4RunManager.html#aefce94076e3d83c43d1bc6bf7bfcda39" title="G4RunManager::GetUserRun\lAction" alt="" coords="591,193,805,237"/>
+<area shape="rect" id="node7" href="$d4/daa/classG4RunManager.html#aaf7cde9a37e45dcb97953165f95b7193" title="G4RunManager::GetUserStacking\lAction" alt="" coords="575,261,821,305"/>
+<area shape="rect" id="node8" href="$d4/daa/classG4RunManager.html#aeeb23a808d1d28bfffb90f110f462a0e" title="G4RunManager::GetUserStepping\lAction" alt="" coords="573,329,823,373"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#ac123d4d53bf454c766c079ddb64e33b4" title="G4RunManager::GetUserTracking\lAction" alt="" coords="575,397,821,441"/>
+<area shape="rect" id="node10" href="$db/d09/classG4AdjointSteppingAction.html#a7b3c897326f6d05fe1449309043a3b68" title="G4AdjointSteppingAction\l::SetUserForwardSteppingAction" alt="" coords="578,465,818,509"/>
+</map>

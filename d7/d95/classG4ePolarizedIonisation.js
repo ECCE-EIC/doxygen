@@ -1,0 +1,26 @@
+var classG4ePolarizedIonisation =
+[
+    [ "G4ePolarizedIonisation", "d7/d95/classG4ePolarizedIonisation.html#a2cf0a9b59b7b414ad23b44b7b50a8e46", null ],
+    [ "~G4ePolarizedIonisation", "d7/d95/classG4ePolarizedIonisation.html#ad759b296ab76c0577e1c35b8de18ecbe", null ],
+    [ "G4ePolarizedIonisation", "d7/d95/classG4ePolarizedIonisation.html#a3d33cbf674c3f56b9c1b1caa1740a5ba", null ],
+    [ "BuildAsymmetryTables", "d7/d95/classG4ePolarizedIonisation.html#af1df0510a6683e54e1a2309d86ad88dd", null ],
+    [ "BuildPhysicsTable", "d7/d95/classG4ePolarizedIonisation.html#aeba0704cb84ce75a681097053be08a8a", null ],
+    [ "CleanTables", "d7/d95/classG4ePolarizedIonisation.html#ae6835cf27e136f8fba11c9953d5d2fdf", null ],
+    [ "ComputeAsymmetry", "d7/d95/classG4ePolarizedIonisation.html#a8aa1aef0685cf01550ec1a48577e70f0", null ],
+    [ "ComputeSaturationFactor", "d7/d95/classG4ePolarizedIonisation.html#a9af2d5a24c10c9a83fc7e70fdbdf32f3", null ],
+    [ "GetMeanFreePath", "d7/d95/classG4ePolarizedIonisation.html#ac7583d257f650c1085d36ac1fdc1fdc5", null ],
+    [ "InitialiseEnergyLossProcess", "d7/d95/classG4ePolarizedIonisation.html#af812e1ca6844891178932226458ae9b4", null ],
+    [ "IsApplicable", "d7/d95/classG4ePolarizedIonisation.html#ad44326ce755eb45bd13b75eceafb2124", null ],
+    [ "MinPrimaryEnergy", "d7/d95/classG4ePolarizedIonisation.html#a4d45f2930f2872c59c2689fba31adc1f", null ],
+    [ "operator=", "d7/d95/classG4ePolarizedIonisation.html#abf112211dcba13338b96d70d34e20050", null ],
+    [ "PostStepGetPhysicalInteractionLength", "d7/d95/classG4ePolarizedIonisation.html#a6f34d0d5ff1f2514cbef53a9af0a5ee7", null ],
+    [ "PrintInfo", "d7/d95/classG4ePolarizedIonisation.html#a2ffc6f32dde1e82ba51566e927e915cf", null ],
+    [ "emModel", "d7/d95/classG4ePolarizedIonisation.html#aa0f90c797c8eeb9bbdc03c64b43d349a", null ],
+    [ "flucModel", "d7/d95/classG4ePolarizedIonisation.html#a9d1cf36ddefca30841e5e86e21c17a1a", null ],
+    [ "isElectron", "d7/d95/classG4ePolarizedIonisation.html#ab254c20c3dccc46ce544d75e6be66785", null ],
+    [ "isInitialised", "d7/d95/classG4ePolarizedIonisation.html#a2276d804b24909ba1463a110c8f4e337", null ],
+    [ "theAsymmetryTable", "d7/d95/classG4ePolarizedIonisation.html#a597a0a9c9700f8d2919cb54afd5e334c", null ],
+    [ "theElectron", "d7/d95/classG4ePolarizedIonisation.html#a9f07247b0b12c9466309b5680864f972", null ],
+    [ "theTargetPolarization", "d7/d95/classG4ePolarizedIonisation.html#adaf88da9b4a4273ac39e2e0b1babd38d", null ],
+    [ "theTransverseAsymmetryTable", "d7/d95/classG4ePolarizedIonisation.html#a2e65c9dbec6a517121b7226c9729b047", null ]
+];

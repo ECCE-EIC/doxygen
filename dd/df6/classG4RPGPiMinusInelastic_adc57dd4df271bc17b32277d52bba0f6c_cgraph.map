@@ -1,0 +1,25 @@
+<map id="G4RPGPiMinusInelastic::InitialCollision" name="G4RPGPiMinusInelastic::InitialCollision">
+<area shape="rect" id="node2" href="$d1/dd5/classG4RPGInelastic.html#a66f5b1ad84c0f374307388d1d75d7485" title="G4RPGInelastic::CheckQnums" alt="" coords="229,217,452,245"/>
+<area shape="rect" id="node5" href="$dd/d77/classG4ReactionProduct.html#a3476b2f98185c2d8ba183ea832fa8c58" title="G4ReactionProduct::\lGetDefinition" alt="" coords="511,5,670,49"/>
+<area shape="rect" id="node9" href="$d7/d89/classG4RPGPionInelastic.html#acea948cefa9a88af0a90376c80bac58f" title="G4RPGPionInelastic\l::GetFSPartTypesForPimN" alt="" coords="246,413,435,457"/>
+<area shape="rect" id="node14" href="$d7/d89/classG4RPGPionInelastic.html#a9ee7e8be34515068393733c76daafde5" title="G4RPGPionInelastic\l::GetFSPartTypesForPimP" alt="" coords="246,481,435,525"/>
+<area shape="rect" id="node16" href="$dd/d77/classG4ReactionProduct.html#aed72a5f036086adf48ba677f09ff62d8" title="G4ReactionProduct::\lGetKineticEnergy" alt="" coords="261,652,420,696"/>
+<area shape="rect" id="node17" href="$d7/d89/classG4RPGPionInelastic.html#a345aad264241a7f43c45f6362e50c5a1" title="G4RPGPionInelastic\l::GetMultiplicityT12" alt="" coords="514,549,667,593"/>
+<area shape="rect" id="node18" href="$d7/d89/classG4RPGPionInelastic.html#a4814ef7feb05a776d2dd583fff7e7f4a" title="G4RPGPionInelastic\l::GetMultiplicityT32" alt="" coords="514,617,667,661"/>
+<area shape="rect" id="node19" href="$dd/d77/classG4ReactionProduct.html#ab7067e9f9aeccb47db6b5e80ddd1f220" title="G4ReactionProduct::\lSetDefinition" alt="" coords="261,720,420,764"/>
+<area shape="rect" id="node22" href="$d4/d53/classG4FastVector.html#a59873a26ef71e2ef3c810495b8657c50" title="G4FastVector::SetElement" alt="" coords="242,788,439,816"/>
+<area shape="rect" id="node23" href="$dd/d77/classG4ReactionProduct.html#a3b11f6c63b2f49eee6f3d5d960f3f3bf" title="G4ReactionProduct::\lSetMayBeKilled" alt="" coords="261,840,420,884"/>
+<area shape="rect" id="node24" href="$dd/d77/classG4ReactionProduct.html#a7633bdc2dc595d004fddc72873d05ba9" title="G4ReactionProduct::\lSetSide" alt="" coords="261,908,420,952"/>
+<area shape="rect" id="node3" href="$d5/d38/classG4ParticleDefinition.html#a7b813c3ce700225434c1818d3037ab5f" title="G4ParticleDefinition\l::GetAntiQuarkContent" alt="" coords="503,141,679,185"/>
+<area shape="rect" id="node4" href="$d5/d38/classG4ParticleDefinition.html#a48ebd992c974d96c776e3d6e41ca8ff5" title="G4ParticleDefinition\l::GetBaryonNumber" alt="" coords="512,209,669,253"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="513,277,668,321"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="513,345,668,389"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a4720685575e9c4d0d38c1af1258474a6" title="G4ParticleDefinition\l::GetQuarkContent" alt="" coords="513,73,668,117"/>
+<area shape="rect" id="node10" href="$d7/d89/classG4RPGPionInelastic.html#afb96a645bb215e798a52e01da4826d27" title="G4RPGPionInelastic\l::GetFSPartTypesForT32" alt="" coords="500,413,681,457"/>
+<area shape="rect" id="node11" href="$d1/dd5/classG4RPGInelastic.html#a033a6dd1368c98255a536fc352671e01" title="G4RPGInelastic::interpolate\lEnergy" alt="" coords="730,545,938,589"/>
+<area shape="rect" id="node12" href="$dc/de5/PHG4mRICHDetector_8cc.html#a10e6010f5f8222befd1273192d72ddf5" title="start" alt="" coords="807,431,861,459"/>
+<area shape="rect" id="node13" href="$d1/dd5/classG4RPGInelastic.html#a211aba039acd2272a20abff6dd45d24e" title="G4RPGInelastic::sampleFlat" alt="" coords="729,492,939,520"/>
+<area shape="rect" id="node15" href="$d7/d89/classG4RPGPionInelastic.html#af9b197ecefe4d8bb5207a2e57db5f276" title="G4RPGPionInelastic\l::GetFSPartTypesForT12" alt="" coords="500,481,681,525"/>
+<area shape="rect" id="node20" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="513,703,668,747"/>
+<area shape="rect" id="node21" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="513,771,668,815"/>
+</map>

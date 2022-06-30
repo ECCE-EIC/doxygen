@@ -1,0 +1,48 @@
+<map id="LXeSteppingAction" name="LXeSteppingAction">
+<area shape="rect" id="node50" href="$dd/d44/classLXeSteppingMessenger.html" title="LXeSteppingMessenger" alt="" coords="3708,2159,3888,2187"/>
+<area shape="rect" id="node2" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="2773,1713,2946,1741"/>
+<area shape="rect" id="node3" href="$d0/dd0/classG4SteppingManager.html" title="G4SteppingManager" alt="" coords="1579,1619,1740,1647"/>
+<area shape="rect" id="node32" href="$da/d01/classG4VSteppingVerbose.html" title="G4VSteppingVerbose" alt="" coords="711,1805,875,1833"/>
+<area shape="rect" id="node35" href="$da/d44/classG4EventManager.html" title="G4EventManager" alt="" coords="3604,1805,3742,1833"/>
+<area shape="rect" id="node17" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="1576,1523,1648,1551"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="1663,819,1739,847"/>
+<area shape="rect" id="node13" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="836,1035,977,1063"/>
+<area shape="rect" id="node6" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="1450,595,1544,623"/>
+<area shape="rect" id="node19" href="$df/d47/classG4StepPoint.html" title="G4StepPoint" alt="" coords="930,1349,1035,1377"/>
+<area shape="rect" id="node29" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="1112,955,1284,983"/>
+<area shape="rect" id="node42" href="$da/d38/classLXeDetectorConstruction.html" title="LXeDetectorConstruction" alt="" coords="2900,1035,3089,1063"/>
+<area shape="rect" id="node7" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="1838,471,2036,499"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="2345,193,2425,221"/>
+<area shape="rect" id="node9" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="932,1159,1033,1187"/>
+<area shape="rect" id="node16" href="$df/de2/classG4VUserTrackInformation.html" title="G4VUserTrackInformation" alt="" coords="2230,399,2423,427"/>
+<area shape="rect" id="node20" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="1476,471,1646,499"/>
+<area shape="rect" id="node21" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="1806,311,1908,339"/>
+<area shape="rect" id="node22" href="$d5/d11/classG4VReadOutGeometry.html" title="G4VReadOutGeometry" alt="" coords="1933,311,2109,339"/>
+<area shape="rect" id="node23" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="2529,819,2684,847"/>
+<area shape="rect" id="node26" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="2725,595,2864,623"/>
+<area shape="rect" id="node37" href="$d7/d0e/classG4UImessenger.html" title="G4UImessenger" alt="" coords="3320,311,3450,339"/>
+<area shape="rect" id="node39" href="$d2/dd2/classG4UIcommand.html" title="G4UIcommand" alt="" coords="3246,471,3367,499"/>
+<area shape="rect" id="node49" href="$de/d80/classG4Element.html" title="G4Element" alt="" coords="3983,533,4080,561"/>
+<area shape="rect" id="node10" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="525,1035,677,1063"/>
+<area shape="rect" id="node11" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="307,819,442,847"/>
+<area shape="rect" id="node12" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="878,819,1028,847"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="1152,5,1306,33"/>
+<area shape="rect" id="node27" href="$d9/d53/classG4Navigator.html" title="G4Navigator" alt="" coords="429,193,536,221"/>
+<area shape="rect" id="node33" href="$d8/dfb/classLXeEventAction.html" title="LXeEventAction" alt="" coords="3898,1975,4024,2003"/>
+<area shape="rect" id="node15" href="$dc/d99/classG4PhysicsOrderedFreeVector.html" title="G4PhysicsOrderedFreeVector" alt="" coords="1690,595,1907,623"/>
+<area shape="rect" id="node24" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="2888,595,2978,623"/>
+<area shape="rect" id="node25" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="2566,471,2734,499"/>
+<area shape="rect" id="node47" href="$d2/dbb/classLXeMainVolume.html" title="LXeMainVolume" alt="" coords="2361,1159,2489,1187"/>
+<area shape="rect" id="node28" href="$df/d6f/classG4CollectionNameVector.html" title="G4CollectionNameVector" alt="" coords="1326,311,1516,339"/>
+<area shape="rect" id="node30" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="814,587,1028,631"/>
+<area shape="rect" id="node36" href="$d4/df4/classLXeEventMessenger.html" title="LXeEventMessenger" alt="" coords="3854,819,4012,847"/>
+<area shape="rect" id="node34" href="$de/d75/classG4UserEventAction.html" title="G4UserEventAction" alt="" coords="3709,1897,3861,1925"/>
+<area shape="rect" id="node45" href="$d2/d93/classLXeDetectorMessenger.html" title="LXeDetectorMessenger" alt="" coords="3158,819,3335,847"/>
+<area shape="rect" id="node38" href="$d3/dd7/classG4UIdirectory.html" title="G4UIdirectory" alt="" coords="3276,595,3390,623"/>
+<area shape="rect" id="node40" href="$d0/da4/classG4UIcmdWithAnInteger.html" title="G4UIcmdWithAnInteger" alt="" coords="3593,595,3774,623"/>
+<area shape="rect" id="node41" href="$d8/d06/classG4UIcmdWithABool.html" title="G4UIcmdWithABool" alt="" coords="3415,595,3568,623"/>
+<area shape="rect" id="node43" href="$d6/df8/classG4VUserDetectorConstruction.html" title="G4VUserDetectorConstruction" alt="" coords="2909,819,3133,847"/>
+<area shape="rect" id="node44" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; LXeScintSD * \&gt;" alt="" coords="3360,819,3560,847"/>
+<area shape="rect" id="node46" href="$da/dc8/classG4Cache.html" title="G4Cache\&lt; LXePMTSD * \&gt;" alt="" coords="3584,819,3778,847"/>
+<area shape="rect" id="node48" href="$d0/d5a/classG4Box.html" title="G4Box" alt="" coords="2388,819,2454,847"/>
+</map>

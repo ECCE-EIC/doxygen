@@ -1,0 +1,26 @@
+<map id="CexmcTrackPointsDigitizer::Digitize" name="CexmcTrackPointsDigitizer::Digitize">
+<area shape="rect" id="node2" href="$d0/daf/classCexmcTrackPointsInCalorimeter.html#a71629b09fb0eaeeb99e5333e497b6556" title="CexmcTrackPointsInCalorimeter\l::GetColumn" alt="" coords="269,68,505,112"/>
+<area shape="rect" id="node3" href="$d1/d3f/classG4DigiManager.html#a69eb6cec88234d3e54db7ff3334409bf" title="G4DigiManager::GetDMpointer" alt="" coords="272,136,501,164"/>
+<area shape="rect" id="node8" href="$d1/d3f/classG4DigiManager.html#a23609d8435bb1464c2c033d48b92d773" title="G4DigiManager::GetHitsCollection" alt="" coords="261,188,513,216"/>
+<area shape="rect" id="node13" href="$d1/d3f/classG4DigiManager.html#a5449f1c8bb69cea76296b5bdf4f19a49" title="G4DigiManager::GetHitsCollectionID" alt="" coords="253,240,520,268"/>
+<area shape="rect" id="node17" href="$d0/daf/classCexmcTrackPointsInCalorimeter.html#a6d94296da5dbb9ebd923127f7b557f78" title="CexmcTrackPointsInCalorimeter\l::GetRow" alt="" coords="269,292,505,336"/>
+<area shape="rect" id="node18" href="$d0/d74/classCexmcTrackPointsInLeftRightSet.html#aecec584515a55c000412148f790b047c" title="CexmcTrackPointsInLeftRight\lSet::GetSide" alt="" coords="278,360,495,404"/>
+<area shape="rect" id="node19" href="$d7/d12/classCexmcTrackPointsDigitizer.html#a85e149b249fc7226fbb8d9ff6fc79e3a" title="CexmcTrackPointsDigitizer\l::InitializeData" alt="" coords="287,428,487,472"/>
+<area shape="rect" id="node21" href="$dd/d38/structCexmcTrackPointInfo.html#a8f993bc4b86e6150d930902d0cfade6c" title="CexmcTrackPointInfo\l::IsValid" alt="" coords="306,496,467,540"/>
+<area shape="rect" id="node22" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="291,564,482,592"/>
+<area shape="rect" id="node23" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="291,616,482,644"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="302,668,471,696"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="302,720,471,748"/>
+<area shape="rect" id="node4" href="$d1/d3f/classG4DigiManager.html#a09274505ebe67551f39b5d9331323678" title="G4DigiManager::G4DigiManager" alt="" coords="568,31,809,59"/>
+<area shape="rect" id="node5" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="857,5,1101,33"/>
+<area shape="rect" id="node6" href="$d9/d6b/classG4SDManager.html#a08beb9db9dbec2cae46d06717f6369f7" title="G4SDManager::GetSDMpointer" alt="" coords="864,57,1095,85"/>
+<area shape="rect" id="node7" href="$d9/d6b/classG4SDManager.html#a56303fb2a382670fba72f15beff2834c" title="G4SDManager::G4SDManager" alt="" coords="1149,57,1375,85"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#ad169a9d8a8e67bc76716fcb09185247d" title="G4RunManager::GetCurrent\lEvent" alt="" coords="584,83,793,127"/>
+<area shape="rect" id="node10" href="$d4/daa/classG4RunManager.html#ab3144e7a4cfa84a59f02dc19dc2dcc47" title="G4RunManager::GetPrevious\lEvent" alt="" coords="581,151,797,195"/>
+<area shape="rect" id="node11" href="$d5/de2/classG4Event.html#af216440baba19b50643a7c38dafd0af7" title="G4Event::GetHCofThisEvent" alt="" coords="583,219,795,247"/>
+<area shape="rect" id="node12" href="$d7/db4/classG4HCofThisEvent.html#a3c69c3568faa219a214e3d892325f992" title="G4HCofThisEvent::GetHC" alt="" coords="593,271,785,299"/>
+<area shape="rect" id="node14" href="$d9/d6b/classG4SDManager.html#a9b1b726ac4340092a45f16aea25b241e" title="G4SDManager::GetCollectionID" alt="" coords="573,323,805,351"/>
+<area shape="rect" id="node15" href="$de/dd7/classG4HCtable.html#abb4b13f5c296512f00406935f619435c" title="G4HCtable::GetCollectionID" alt="" coords="875,323,1083,351"/>
+<area shape="rect" id="node16" href="$d5/d72/classG4String.html#acf651813ef2b99ae348f378717100d6c" title="G4String::index" alt="" coords="1199,323,1325,351"/>
+<area shape="rect" id="node20" href="$de/dcc/CexmcCommon_8hh.html#ae7bfef599a6e24294b4dfa2492002a50" title="CexmcInvalidTrackId" alt="" coords="609,469,769,497"/>
+</map>

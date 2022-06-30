@@ -1,0 +1,12 @@
+<map id="PDBlib::ComputeMatchEdepDNA" name="PDBlib::ComputeMatchEdepDNA">
+<area shape="rect" id="node2" href="$d0/d66/classPDBlib.html#a71d0e611630ba4b93cbcf5a32a106e48" title="return distance between two 3D points" alt="" coords="295,5,513,33"/>
+<area shape="rect" id="node3" href="$dc/d81/classResidue.html#a0c78d4155a268c294bf5f1ecd2c21b79" title="Get the first atom." alt="" coords="335,57,473,85"/>
+<area shape="rect" id="node4" href="$db/d4c/classMolecule.html#aa755c1967f76c515e3b4ba49ef2e464a" title="Get the first Residue." alt="" coords="332,109,476,137"/>
+<area shape="rect" id="node5" href="$d6/dbc/classBarycenter.html#a26b4cc1835ee55ca04fcf74f0f74cd50" title="Get the next Barycenter." alt="" coords="324,161,484,189"/>
+<area shape="rect" id="node6" href="$db/d4c/classMolecule.html#acb6fb063b24023b608fd4586b65a852a" title="information about molecule (not implemented)" alt="" coords="331,213,477,241"/>
+<area shape="rect" id="node7" href="$dc/d81/classResidue.html#a9b46a2961baeb59391030eae37db2803" title="Get the next residue." alt="" coords="334,265,474,293"/>
+<area shape="rect" id="node8" href="$d2/dce/classAtom.html#ab820a047d3f03a3f684e91373a37b847" title="Returns the next Atom." alt="" coords="343,317,465,345"/>
+<area shape="rect" id="node9" href="$d2/dce/classAtom.html#a48289286d6d7dc211bb9c1f5b73e4a18" title="Return the X position for the Atom." alt="" coords="354,369,454,397"/>
+<area shape="rect" id="node10" href="$d2/dce/classAtom.html#aee2e42002675d2bb40637cb5cad32ff0" title="Return the Y position for the Atom." alt="" coords="354,421,454,449"/>
+<area shape="rect" id="node11" href="$d2/dce/classAtom.html#acbd3989aae06f235818660979e20c153" title="Return the Z position for the Atom." alt="" coords="354,473,454,501"/>
+</map>

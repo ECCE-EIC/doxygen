@@ -1,0 +1,23 @@
+<map id="G4HadronicProcessStore::GetFissionCrossSectionPerVolume" name="G4HadronicProcessStore::GetFissionCrossSectionPerVolume">
+<area shape="rect" id="node2" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="638,109,793,153"/>
+<area shape="rect" id="node3" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="329,169,557,197"/>
+<area shape="rect" id="node4" href="$da/d41/classG4HadronicProcessStore.html#a876248017bb9152268b981e4a7552dc9" title="G4HadronicProcessStore\l::GetFissionCrossSectionPerAtom" alt="" coords="321,221,565,265"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="312,289,573,317"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="328,341,557,385"/>
+<area shape="rect" id="node5" href="$da/d41/classG4HadronicProcessStore.html#a2ae00aae58246e08adde75d3121c83c9" title="G4HadronicProcessStore\l::FindProcess" alt="" coords="622,177,809,221"/>
+<area shape="rect" id="node15" href="$de/dc6/classG4HadronicProcess.html#a3467a1b75a32dc42b2b7dba6cc517b53" title="G4HadronicProcess::\lGetElementCrossSection" alt="" coords="621,271,809,315"/>
+<area shape="rect" id="node20" href="$d7/d5c/classG4DynamicParticle.html#af5832863fb446e5520dd744f9b8c84fd" title="G4DynamicParticle::\lSetKineticEnergy" alt="" coords="637,339,794,383"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#a48ebd992c974d96c776e3d6e41ca8ff5" title="G4ParticleDefinition\l::GetBaryonNumber" alt="" coords="899,5,1057,49"/>
+<area shape="rect" id="node7" href="$d5/d38/classG4ParticleDefinition.html#aa0faf146fb655e885ca2ac249bafda83" title="G4ParticleDefinition\l::GetParticleType" alt="" coords="901,73,1055,117"/>
+<area shape="rect" id="node8" href="$d2/d84/classG4VProcess.html#ad18bffaccb5c39d2e318dfd436ee9b66" title="G4VProcess::GetProcessSubType" alt="" coords="857,141,1099,169"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#a46f4ef4286dce7d8accf722f0dfb7bd2" title="G4DynamicParticle::\lSetDefinition" alt="" coords="899,193,1057,237"/>
+<area shape="rect" id="node10" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1170,57,1325,101"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="1170,125,1325,169"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#aae0eeabb077d52fa68ad6ad955714724" title="G4ParticleDefinition\l::GetPDGMagneticMoment" alt="" coords="1147,193,1348,237"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="1170,261,1325,305"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="1170,329,1325,373"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="925,261,1031,289"/>
+<area shape="rect" id="node17" href="$de/da5/classG4CrossSectionDataStore.html#aaa97d8f6b436fb0488f643837f083390" title="G4CrossSectionDataStore\l::GetCrossSection" alt="" coords="881,313,1075,357"/>
+<area shape="rect" id="node18" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="866,381,1090,409"/>
+<area shape="rect" id="node19" href="$de/d80/classG4Element.html#ac5960b7377f4d3b3aefd1e5c9aad601c" title="G4Element::GetZasInt" alt="" coords="892,433,1064,461"/>
+</map>

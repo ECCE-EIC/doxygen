@@ -1,0 +1,29 @@
+<map id="G4NormalNavigation::ComputeSafety" name="G4NormalNavigation::ComputeSafety">
+<area shape="rect" id="node2" href="$d7/d97/classG4RegularNavigation.html#a9e8f42c843df846240a502a0ae0cbc74" title="G4RegularNavigation\l::ComputeSafety" alt="" coords="215,403,380,447"/>
+<area shape="rect" id="node3" href="$d9/d53/classG4Navigator.html#a31527cbdf5725183fd2af29bf99ceb6b" title="G4Navigator::ComputeSafety" alt="" coords="439,384,659,412"/>
+<area shape="rect" id="node27" href="$dd/dc9/classG4ITNavigator1.html#a732d5bcf7afb8581b2342ec0a98bc542" title="G4ITNavigator1::ComputeSafety" alt="" coords="428,437,669,465"/>
+<area shape="rect" id="node28" href="$d2/d29/classG4ITNavigator2.html#a3051c16ea52b6760e1c7946520fedfe3" title="G4ITNavigator2::ComputeSafety" alt="" coords="428,492,669,520"/>
+<area shape="rect" id="node4" href="$d6/ddc/classG4Transportation.html#a1d2c2ecc617f1b573e01f00267a6248e" title="G4Transportation::AlongStep\lGetPhysicalInteractionLength" alt="" coords="733,79,952,123"/>
+<area shape="rect" id="node5" href="$d2/d49/classG4MonopoleTransportation.html#a2c734afb9b2315b297f28a4ce621232e" title="G4MonopoleTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="717,147,968,207"/>
+<area shape="rect" id="node6" href="$de/dbf/classG4ParallelWorldProcess.html#ac90399ea0d751d20f9a021f78990e181" title="G4ParallelWorldProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1321,5,1571,65"/>
+<area shape="rect" id="node7" href="$d7/d9d/classG4WeightCutOffProcess.html#acc8c741d09875cd067c89b468facb85e" title="G4WeightCutOffProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1321,89,1571,149"/>
+<area shape="rect" id="node8" href="$da/da9/classG4ImportanceProcess.html#a257d4cdefb86d13a6fade51a589e33d4" title="G4ImportanceProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1321,173,1571,233"/>
+<area shape="rect" id="node9" href="$d7/d56/classG4ParallelWorldScoringProcess.html#a65ae0bbb9eca9b9476bee1360319f0b2" title="G4ParallelWorldScoringProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1321,493,1571,553"/>
+<area shape="rect" id="node10" href="$d6/d2e/classG4WeightWindowProcess.html#a61cc6b1ab9c07cd600ed3b0f716ee248" title="G4WeightWindowProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1321,577,1571,637"/>
+<area shape="rect" id="node11" href="$d0/d62/classG4FastSimulationManagerProcess.html#a09edecfc73894c5accc3bd40c7816ecd" title="G4FastSimulationManagerProcess\l::AlongStepGetPhysicalInteractionLength" alt="" coords="1297,661,1595,705"/>
+<area shape="rect" id="node12" href="$da/d15/classG4ErrorPropagationNavigator.html#aba40d233a7dc481d12e4f648b2823be7" title="G4ErrorPropagationNavigator\l::ComputeSafety" alt="" coords="732,589,953,633"/>
+<area shape="rect" id="node13" href="$d3/db4/classG4SafetyHelper.html#a11f8ff735d2ab59e677c5ee297d51367" title="G4SafetyHelper::ComputeSafety" alt="" coords="721,869,964,897"/>
+<area shape="rect" id="node22" href="$dd/dfc/classG4PathFinder.html#a6f941323bcef37a86926476f63921790" title="G4PathFinder::DoNextCurvedStep" alt="" coords="718,384,967,412"/>
+<area shape="rect" id="node14" href="$d0/d99/classG4VMscModel.html#ad6478b61c17da3935a41df21931062f1" title="G4VMscModel::ComputeSafety" alt="" coords="1016,840,1247,868"/>
+<area shape="rect" id="node20" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="1043,892,1220,936"/>
+<area shape="rect" id="node21" href="$d9/d2a/classG4VMultipleScattering.html#abd351071e38614aaf52f885a6684e140" title="G4VMultipleScattering\l::AlongStepDoIt" alt="" coords="1045,960,1217,1004"/>
+<area shape="rect" id="node15" href="$db/dfc/classG4UrbanAdjointMscModel.html#ae7a844555aab4e856ec528f2f53c026c" title="G4UrbanAdjointMscModel\l::ComputeTruePathLengthLimit" alt="" coords="1331,865,1561,909"/>
+<area shape="rect" id="node16" href="$d4/d8e/classG4LowEWentzelVIModel.html#abb79f918337f06fc12ffdc5afbb28d7d" title="G4LowEWentzelVIModel\l::ComputeTruePathLengthLimit" alt="" coords="1331,933,1561,977"/>
+<area shape="rect" id="node17" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a0de90a47374946419b4f1d4d37521b3c" title="G4GoudsmitSaundersonMscModel\l::ComputeTruePathLengthLimit" alt="" coords="1320,1001,1572,1045"/>
+<area shape="rect" id="node18" href="$d4/da8/classG4UrbanMscModel.html#aea643fad3aceb315f928ed32b62446b8" title="G4UrbanMscModel::Compute\lTruePathLengthLimit" alt="" coords="1337,729,1555,773"/>
+<area shape="rect" id="node19" href="$d8/d2f/classG4WentzelVIModel.html#a2c800adcd96eb414b0827d208bfb46ee" title="G4WentzelVIModel::Compute\lTruePathLengthLimit" alt="" coords="1337,797,1555,841"/>
+<area shape="rect" id="node23" href="$dd/dfc/classG4PathFinder.html#a6b71f99bb9503ace815095ed81135f0b" title="G4PathFinder::ComputeStep" alt="" coords="1025,384,1237,412"/>
+<area shape="rect" id="node24" href="$df/dd1/classPar02FastSimModelTracker.html#a18180da7f5ef364354ef46364fc9f558" title="Par02FastSimModelTracker\l::DoIt" alt="" coords="1345,257,1547,301"/>
+<area shape="rect" id="node25" href="$de/de9/classG4ParallelGeometriesLimiterProcess.html#aa3307335c695d03a704c2476516dc7aa" title="G4ParallelGeometriesLimiter\lProcess::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1295,325,1597,385"/>
+<area shape="rect" id="node26" href="$de/d27/classG4CoupledTransportation.html#ae740ca312a3927518be8b5775f3419c0" title="G4CoupledTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="1321,409,1571,469"/>
+</map>

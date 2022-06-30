@@ -1,0 +1,14 @@
+<map id="G4Navigator::ComputeStep" name="G4Navigator::ComputeStep">
+<area shape="rect" id="node2" href="$d6/ddc/classG4Transportation.html#a1d2c2ecc617f1b573e01f00267a6248e" title="G4Transportation::AlongStep\lGetPhysicalInteractionLength" alt="" coords="285,5,503,49"/>
+<area shape="rect" id="node3" href="$d2/d49/classG4MonopoleTransportation.html#a2c734afb9b2315b297f28a4ce621232e" title="G4MonopoleTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="269,73,519,133"/>
+<area shape="rect" id="node4" href="$d9/d53/classG4Navigator.html#ac1f1c9d57008fffc6c8b72405a1742d9" title="G4Navigator::CheckNextStep" alt="" coords="285,157,503,185"/>
+<area shape="rect" id="node12" href="$dc/d93/classG4AdjointPrimaryGenerator.html#ae9ff517a36accc8bc435505d20ac2bbd" title="G4AdjointPrimaryGenerator\l::ComputeAccumulatedDepthVector\lAlongBackRay" alt="" coords="261,209,527,269"/>
+<area shape="rect" id="node13" href="$da/d15/classG4ErrorPropagationNavigator.html#a06adfc6868a1396876049e4945896ef4" title="G4ErrorPropagationNavigator\l::ComputeStep" alt="" coords="283,293,505,337"/>
+<area shape="rect" id="node5" href="$d3/db4/classG4SafetyHelper.html#a41d1df57344ba7b719257a643d9f9c7d" title="G4SafetyHelper::CheckNextStep" alt="" coords="575,157,815,185"/>
+<area shape="rect" id="node6" href="$d0/d99/classG4VMscModel.html#a2c0f2785a378171f0230bc1103e8ced8" title="G4VMscModel::ComputeGeom\lLimit" alt="" coords="863,149,1089,193"/>
+<area shape="rect" id="node7" href="$db/dfc/classG4UrbanAdjointMscModel.html#ae7a844555aab4e856ec528f2f53c026c" title="G4UrbanAdjointMscModel\l::ComputeTruePathLengthLimit" alt="" coords="1148,13,1379,57"/>
+<area shape="rect" id="node8" href="$d4/d8e/classG4LowEWentzelVIModel.html#abb79f918337f06fc12ffdc5afbb28d7d" title="G4LowEWentzelVIModel\l::ComputeTruePathLengthLimit" alt="" coords="1148,81,1379,125"/>
+<area shape="rect" id="node9" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a0de90a47374946419b4f1d4d37521b3c" title="G4GoudsmitSaundersonMscModel\l::ComputeTruePathLengthLimit" alt="" coords="1137,149,1389,193"/>
+<area shape="rect" id="node10" href="$d4/da8/classG4UrbanMscModel.html#aea643fad3aceb315f928ed32b62446b8" title="G4UrbanMscModel::Compute\lTruePathLengthLimit" alt="" coords="1154,217,1373,261"/>
+<area shape="rect" id="node11" href="$d8/d2f/classG4WentzelVIModel.html#a2c800adcd96eb414b0827d208bfb46ee" title="G4WentzelVIModel::Compute\lTruePathLengthLimit" alt="" coords="1154,285,1373,329"/>
+</map>

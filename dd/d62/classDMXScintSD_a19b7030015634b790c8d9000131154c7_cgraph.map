@@ -1,0 +1,33 @@
+<map id="DMXScintSD::ProcessHits" name="DMXScintSD::ProcessHits">
+<area shape="rect" id="node2" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="275,5,449,33"/>
+<area shape="rect" id="node3" href="$df/d47/classG4StepPoint.html#a9fda15b094b851c9fd8cda6311cecf0c" title="G4StepPoint::GetGlobalTime" alt="" coords="255,57,469,85"/>
+<area shape="rect" id="node4" href="$df/d47/classG4StepPoint.html#a7463d186dd17798616e411b770040ead" title="G4StepPoint::GetKineticEnergy" alt="" coords="246,109,478,137"/>
+<area shape="rect" id="node5" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="285,161,439,205"/>
+<area shape="rect" id="node6" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="285,229,439,273"/>
+<area shape="rect" id="node7" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="267,297,457,325"/>
+<area shape="rect" id="node8" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="263,349,461,377"/>
+<area shape="rect" id="node9" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="267,401,457,429"/>
+<area shape="rect" id="node10" href="$d9/d7a/classG4Step.html#a620ff37431d6c3c0129c06b7d3fa9f5d" title="G4Step::GetStepLength" alt="" coords="271,453,453,481"/>
+<area shape="rect" id="node11" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="244,505,480,533"/>
+<area shape="rect" id="node12" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="292,557,432,585"/>
+<area shape="rect" id="node13" href="$d5/d58/classG4THitsCollection.html#ab5314c7da12c8553099ff67b4f300896" title="G4THitsCollection::\linsert" alt="" coords="287,609,437,653"/>
+<area shape="rect" id="node14" href="$d9/d8f/classG4OpticalPhoton.html#aeb0ed88b098ae013f33cb7da36281183" title="G4OpticalPhoton::Optical\lPhotonDefinition" alt="" coords="266,677,458,721"/>
+<area shape="rect" id="node28" href="$d1/dde/classDMXScintHit.html#aa83f14c8415d5534b08b833bc64c0c1a" title="DMXScintHit::SetEdep" alt="" coords="277,745,447,773"/>
+<area shape="rect" id="node29" href="$d1/dde/classDMXScintHit.html#ab02b6870405b912ac0067c08a34e07b2" title="DMXScintHit::SetParticle" alt="" coords="269,797,455,825"/>
+<area shape="rect" id="node30" href="$d1/dde/classDMXScintHit.html#a94465edad422f9585833b40ac3f1ba48" title="DMXScintHit::SetParticle\lEnergy" alt="" coords="269,849,455,893"/>
+<area shape="rect" id="node31" href="$d1/dde/classDMXScintHit.html#a29d0b20fde5882e1bcf36ef8d03689a1" title="DMXScintHit::SetPos" alt="" coords="283,917,441,945"/>
+<area shape="rect" id="node32" href="$d1/dde/classDMXScintHit.html#a7fca83b39676bcf4c87389707a9d6ba0" title="DMXScintHit::SetTime" alt="" coords="277,969,447,997"/>
+<area shape="rect" id="node15" href="$d9/d8f/classG4OpticalPhoton.html#ad5f9dee90e3534015eb1904836b08edd" title="G4OpticalPhoton::Definition" alt="" coords="528,685,737,713"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="787,592,995,636"/>
+<area shape="rect" id="node23" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="785,685,997,713"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="809,759,973,803"/>
+<area shape="rect" id="node17" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1067,540,1268,584"/>
+<area shape="rect" id="node18" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1363,391,1539,435"/>
+<area shape="rect" id="node19" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1363,459,1539,503"/>
+<area shape="rect" id="node20" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1360,647,1543,675"/>
+<area shape="rect" id="node21" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1374,527,1529,571"/>
+<area shape="rect" id="node22" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1337,595,1565,623"/>
+<area shape="rect" id="node24" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1045,685,1289,713"/>
+<area shape="rect" id="node26" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1055,737,1279,765"/>
+<area shape="rect" id="node25" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1398,724,1505,752"/>
+</map>

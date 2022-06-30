@@ -1,0 +1,28 @@
+var G4CrossSectionDataSetRegistry_8cc =
+[
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#aa5406a258a43c96e4c9fb045ce830f6e", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a0a75e26f57398b37d1ee43e2cc5241fe", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a0b059db8ad93a28e834d5e22e0a23b1a", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a6ad60a3e36a88bcfd98ae286d942762d", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#ac10a2a70c84c26d7d664590901dc9769", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#ad96c3e9c91bf51a6802633ec109c418e", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a3f76080c17c47e04632bbc4e3df58dfa", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#aaeb9c54e63b87e590c41aa9754134932", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a16f2e8a8aed69cca75dfa11c98beb19f", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a5207e36f1e562a52715bb174b818c1f1", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#adcb3fb5ad987e02abbc97a6fc32a4e15", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a69170719874499be30005b4e094ca620", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#ac8c8c629dd71bd3a65e394d7bdbdf984", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a7ad19f49177e78422e3ac12d9633bab1", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a5065baa8b7e4c96200265a3b7152216b", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a356614055cfcc019b5fe630134a1ac66", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#acc84a98cb4f600421c3662147c7ab124", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a2ae12ab30df6882740403c0743f291c4", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#ae31ab2916ae4fdca03e6add410925c7c", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#aa53230f4ab2b285c43227076b99824fb", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a7084d34be1811f30cf48ea340b48fdb3", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a7c79ffe617642b0acac5adfed5301b9b", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a2fb83e69e6bae44e83fb6f26965d3a73", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#a5416f29c6e3a3baaac9918903f211d9b", null ],
+    [ "G4_REFERENCE_XS_FACTORY", "de/d69/G4CrossSectionDataSetRegistry_8cc.html#af8aced017bca1d58711a7c31b13522e9", null ]
+];

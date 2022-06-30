@@ -1,0 +1,47 @@
+<map id="G4LENDBertiniGammaElectroNuclearBuilder" name="G4LENDBertiniGammaElectroNuclearBuilder">
+<area shape="rect" id="node2" href="$d4/d8a/classG4BertiniElectroNuclearBuilder.html" title="G4BertiniElectroNuclearBuilder" alt="" coords="2761,851,2993,879"/>
+<area shape="rect" id="node3" href="$d9/d06/classG4GeneratorPrecompoundInterface.html" title="G4GeneratorPrecompoundInterface" alt="" coords="1740,311,2001,339"/>
+<area shape="rect" id="node4" href="$d2/d50/classG4VIntraNuclearTransportModel.html" title="G4VIntraNuclearTransport\lModel" alt="" coords="1303,238,1500,282"/>
+<area shape="rect" id="node22" href="$dc/d8b/classG4CascadeInterface.html" title="G4CascadeInterface" alt="" coords="1792,753,1949,781"/>
+<area shape="rect" id="node37" href="$d4/d28/classG4TheoFSGenerator.html" title="G4TheoFSGenerator" alt="" coords="1791,202,1951,230"/>
+<area shape="rect" id="node5" href="$db/d92/classG4HadronicInteraction.html" title="G4HadronicInteraction" alt="" coords="505,233,679,261"/>
+<area shape="rect" id="node19" href="$d3/de7/classG4VPreCompoundModel.html" title="G4VPreCompoundModel" alt="" coords="919,245,1104,273"/>
+<area shape="rect" id="node21" href="$d8/d6b/classG4ElectroVDNuclearModel.html" title="G4ElectroVDNuclearModel" alt="" coords="2283,609,2481,637"/>
+<area shape="rect" id="node40" href="$d0/d72/classG4VHighEnergyGenerator.html" title="G4VHighEnergyGenerator" alt="" coords="1303,366,1500,394"/>
+<area shape="rect" id="node6" href="$dd/d4a/classG4HadFinalState.html" title="G4HadFinalState" alt="" coords="71,17,206,45"/>
+<area shape="rect" id="node10" href="$d8/d46/classG4HadronicInteractionRegistry.html" title="G4HadronicInteractionRegistry" alt="" coords="24,318,253,346"/>
+<area shape="rect" id="node11" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="99,558,179,586"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="515,822,669,850"/>
+<area shape="rect" id="node17" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="949,978,1074,1006"/>
+<area shape="rect" id="node34" href="$da/d21/classG4VCrossSectionDataSet.html" title="G4VCrossSectionDataSet" alt="" coords="1305,554,1497,582"/>
+<area shape="rect" id="node13" href="$da/d11/classG4HadProjectile.html" title="G4HadProjectile" alt="" coords="947,518,1076,546"/>
+<area shape="rect" id="node15" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="935,834,1087,862"/>
+<area shape="rect" id="node18" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="953,730,1070,758"/>
+<area shape="rect" id="node32" href="$d5/d97/classG4VLongitudinalStringDecay.html" title="G4VLongitudinalStringDecay" alt="" coords="1293,1078,1509,1106"/>
+<area shape="rect" id="node16" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="73,1105,205,1133"/>
+<area shape="rect" id="node20" href="$d4/d9e/classG4V3DNucleus.html" title="G4V3DNucleus" alt="" coords="950,133,1073,161"/>
+<area shape="rect" id="node38" href="$d9/db3/classG4QuasiElasticChannel.html" title="G4QuasiElasticChannel" alt="" coords="1312,126,1491,154"/>
+<area shape="rect" id="node23" href="$d2/d5e/classG4InuclElementaryParticle.html" title="G4InuclElementaryParticle" alt="" coords="1301,805,1501,833"/>
+<area shape="rect" id="node24" href="$d9/da2/classG4InuclParticle.html" title="G4InuclParticle" alt="" coords="950,782,1073,810"/>
+<area shape="rect" id="node28" href="$d6/dbd/classG4InuclNuclei.html" title="G4InuclNuclei" alt="" coords="1344,753,1459,781"/>
+<area shape="rect" id="node25" href="$d8/dfe/classG4CascadeCheckBalance.html" title="G4CascadeCheckBalance" alt="" coords="1305,961,1498,989"/>
+<area shape="rect" id="node26" href="$db/d1e/classG4CollisionOutput.html" title="G4CollisionOutput" alt="" coords="939,886,1084,914"/>
+<area shape="rect" id="node27" href="$da/d7b/classG4LightTargetCollider.html" title="G4LightTargetCollider" alt="" coords="1317,857,1485,885"/>
+<area shape="rect" id="node29" href="$d4/d24/classG4InuclCollider.html" title="G4InuclCollider" alt="" coords="1339,909,1464,937"/>
+<area shape="rect" id="node30" href="$d9/d44/classG4ExcitedStringDecay.html" title="G4ExcitedStringDecay" alt="" coords="1784,857,1957,885"/>
+<area shape="rect" id="node31" href="$dc/d7a/classG4VStringFragmentation.html" title="G4VStringFragmentation" alt="" coords="1307,1143,1495,1171"/>
+<area shape="rect" id="node46" href="$d4/d1a/classG4VPartonStringModel.html" title="G4VPartonStringModel" alt="" coords="1784,1001,1957,1029"/>
+<area shape="rect" id="node36" href="$d9/d84/classG4LundStringFragmentation.html" title="G4LundStringFragmentation" alt="" coords="1765,805,1977,833"/>
+<area shape="rect" id="node41" href="$d4/dc9/classG4QGSMFragmentation.html" title="G4QGSMFragmentation" alt="" coords="2029,1205,2209,1233"/>
+<area shape="rect" id="node33" href="$d1/ddd/classG4PhotoNuclearCrossSection.html" title="G4PhotoNuclearCrossSection" alt="" coords="1762,589,1979,617"/>
+<area shape="rect" id="node35" href="$dd/dea/classG4ElectroNuclearCrossSection.html" title="G4ElectroNuclearCrossSection" alt="" coords="1758,537,1983,565"/>
+<area shape="rect" id="node39" href="$d5/dfc/classG4DecayStrongResonances.html" title="G4DecayStrongResonances" alt="" coords="1297,178,1505,206"/>
+<area shape="rect" id="node42" href="$db/d3b/classG4ElectronNuclearProcess.html" title="G4ElectronNuclearProcess" alt="" coords="2283,895,2481,923"/>
+<area shape="rect" id="node43" href="$d8/d13/classG4HadronInelasticProcess.html" title="G4HadronInelasticProcess" alt="" coords="1772,909,1969,937"/>
+<area shape="rect" id="node44" href="$d6/d97/classG4PositronNuclearProcess.html" title="G4PositronNuclearProcess" alt="" coords="2283,947,2481,975"/>
+<area shape="rect" id="node50" href="$d3/d9f/classG4PhotoNuclearProcess.html" title="G4PhotoNuclearProcess" alt="" coords="2291,999,2473,1027"/>
+<area shape="rect" id="node45" href="$df/d4a/classG4QGSModel.html" title="G4QGSModel\&lt; G4GammaParticipants \&gt;" alt="" coords="2236,1053,2528,1081"/>
+<area shape="rect" id="node47" href="$dd/d41/classG4SoftStringBuilder.html" title="G4SoftStringBuilder" alt="" coords="1793,1053,1949,1081"/>
+<area shape="rect" id="node48" href="$d9/d6d/classG4DiffractiveStringBuilder.html" title="G4DiffractiveStringBuilder" alt="" coords="1771,1105,1971,1133"/>
+<area shape="rect" id="node49" href="$dc/d85/classG4GammaParticipants.html" title="G4GammaParticipants" alt="" coords="1784,1157,1957,1185"/>
+</map>

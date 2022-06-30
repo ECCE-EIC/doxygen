@@ -1,0 +1,31 @@
+<map id="G4TessellatedSolid::AddFacet" name="G4TessellatedSolid::AddFacet">
+<area shape="rect" id="node2" href="$da/d21/classG4ExtrudedSolid.html#ab535b8c8d17d3138f8b01c3619234c7b" title="G4ExtrudedSolid::AddGeneral\lPolygonFacets" alt="" coords="225,8,449,52"/>
+<area shape="rect" id="node3" href="$da/d21/classG4ExtrudedSolid.html#a7280757103445b37d7f93d2b193a094c" title="G4ExtrudedSolid::MakeFacets" alt="" coords="529,13,751,41"/>
+<area shape="rect" id="node6" href="$da/db4/classG4TessellatedSolid.html#a25c4056e77b96ba95ce312c73ec9e0ec" title="G4TessellatedSolid\l::CopyObjects" alt="" coords="263,133,411,177"/>
+<area shape="rect" id="node10" href="$d6/dd3/classG4GenericTrap.html#a7cc2d83dcbef8644c3321572d2a09844" title="G4GenericTrap::CreateTessellated\lSolid" alt="" coords="213,219,462,263"/>
+<area shape="rect" id="node14" href="$d1/d78/classG4tgbVolume.html#a34a7fb748295146fd013c3536ec0fd89" title="G4tgbVolume::FindOrConstruct\lG4Solid" alt="" coords="221,296,453,340"/>
+<area shape="rect" id="node28" href="$da/db4/classG4TessellatedSolid.html#a5e13373c339bc69a2a237a149bb1f912" title="G4TessellatedSolid\l::operator+=" alt="" coords="263,364,411,408"/>
+<area shape="rect" id="node29" href="$d4/db9/classG4GDMLReadSolids.html#aba018e0556f24f212485efaa1864d23d" title="G4GDMLReadSolids::TessellatedRead" alt="" coords="201,444,473,472"/>
+<area shape="rect" id="node4" href="$da/d21/classG4ExtrudedSolid.html#ad1a1805311f8ae1b91e9085e92906b9e" title="G4ExtrudedSolid::G4Extruded\lSolid" alt="" coords="807,5,1031,49"/>
+<area shape="rect" id="node5" href="$da/d21/classG4ExtrudedSolid.html#a2693c22a4c1a0d2a6ee9d2576279f23b" title="G4ExtrudedSolid::Clone" alt="" coords="1125,13,1307,41"/>
+<area shape="rect" id="node7" href="$da/db4/classG4TessellatedSolid.html#a08a3a0d6f522b046a3fffe5f0e3d1d73" title="G4TessellatedSolid\l::G4TessellatedSolid" alt="" coords="561,65,719,109"/>
+<area shape="rect" id="node8" href="$da/db4/classG4TessellatedSolid.html#a417163d25faed45d428645c1665802c7" title="G4TessellatedSolid\l::operator=" alt="" coords="566,133,714,177"/>
+<area shape="rect" id="node9" href="$da/d21/classG4ExtrudedSolid.html#a29ff377f9cf5e4492b86457c995d35a7" title="G4ExtrudedSolid::operator=" alt="" coords="813,141,1025,169"/>
+<area shape="rect" id="node11" href="$d6/dd3/classG4GenericTrap.html#ae3000a4617d4e18a9a50e633e68d3e85" title="G4GenericTrap::G4GenericTrap" alt="" coords="524,201,756,229"/>
+<area shape="rect" id="node13" href="$d6/dd3/classG4GenericTrap.html#a1d1121456fa65c4d0011ecffb981d0e0" title="G4GenericTrap::operator=" alt="" coords="541,253,739,281"/>
+<area shape="rect" id="node12" href="$d6/dd3/classG4GenericTrap.html#a6f2362fc442ed8076aa64d7b210a5402" title="G4GenericTrap::Clone" alt="" coords="834,201,1003,229"/>
+<area shape="rect" id="node15" href="$d4/dd5/classDicomIntersectVolume.html#a4482d477ef1c29431533d272d240066a" title="DicomIntersectVolume\l::BuildUserSolid" alt="" coords="553,305,727,349"/>
+<area shape="rect" id="node17" href="$d1/d78/classG4tgbVolume.html#a914b6aefd21c8a951b8d863b12170f61" title="G4tgbVolume::ConstructG4\lVolumes" alt="" coords="537,397,743,441"/>
+<area shape="rect" id="node16" href="$d4/dd5/classDicomIntersectVolume.html#a5218293e05b7412eaf00274a70fc7136" title="DicomIntersectVolume\l::SetNewValue" alt="" coords="832,261,1005,305"/>
+<area shape="rect" id="node18" href="$d9/d6c/classG4tgbDetectorBuilder.html#aa7113e3f68d1d769caad5cfa89bc0244" title="G4tgbDetectorBuilder\l::ConstructDetector" alt="" coords="833,329,1004,373"/>
+<area shape="rect" id="node26" href="$da/d27/classG4tgbDetectorConstruction.html#a7853d57e0b71d49746d04bc716d725c3" title="G4tgbDetectorConstruction\l::Construct" alt="" coords="815,397,1022,441"/>
+<area shape="rect" id="node27" href="$d1/d78/classG4tgbVolume.html#a0cc2371fc97f047c9f0ac69f791fd8f7" title="G4tgbVolume::ConstructG4\lPhysVol" alt="" coords="815,465,1022,509"/>
+<area shape="rect" id="node19" href="$db/df1/classExTGRCDetectorBuilder.html#a1ebdf86f4ee2d4d102c10e1dd5601de1" title="ExTGRCDetectorBuilder\l::ConstructDetector" alt="" coords="1125,279,1307,323"/>
+<area shape="rect" id="node21" href="$de/dd0/classG4tgbVolumeMgr.html#a93803d6bb5fccb055fae6c61d57cd701" title="G4tgbVolumeMgr::ReadAndConstruct\lDetector" alt="" coords="1079,380,1353,424"/>
+<area shape="rect" id="node20" href="$d2/df7/classExTGDetectorConstructionWithCuts.html#abf59f7df480dc283c3c0db9ff401dd01" title="ExTGDetectorConstruction\lWithCuts::Construct" alt="" coords="1401,244,1601,288"/>
+<area shape="rect" id="node22" href="$de/d16/classEICG4dRICHDetector.html#adba1c475f57b8c1a9491350a9efc99af" title="construct" alt="" coords="1420,312,1583,356"/>
+<area shape="rect" id="node23" href="$d1/d9e/classExTGDetectorConstruction.html#ad1890aaa7d14667f91da538a415f2f6f" title="ExTGDetectorConstruction\l::Construct" alt="" coords="1401,380,1601,424"/>
+<area shape="rect" id="node24" href="$da/d45/classExTGDetectorConstructionWithCpp.html#ac70c77fdcf1806ced6b5132d801b37c5" title="ExTGDetectorConstruction\lWithCpp::Construct" alt="" coords="1401,448,1601,492"/>
+<area shape="rect" id="node25" href="$dd/d04/classExTGDetectorConstructionWithSD.html#a5c23eff76ef15a2939eb7dd855f544d1" title="ExTGDetectorConstruction\lWithSD::Construct" alt="" coords="1401,516,1601,560"/>
+<area shape="rect" id="node30" href="$d4/db9/classG4GDMLReadSolids.html#aaa40a604da13ce30b7e99c45277e30e7" title="G4GDMLReadSolids::SolidsRead" alt="" coords="521,465,759,493"/>
+</map>

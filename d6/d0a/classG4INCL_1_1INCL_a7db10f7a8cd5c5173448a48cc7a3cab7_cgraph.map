@@ -1,0 +1,51 @@
+<map id="G4INCL::INCL::processEvent" name="G4INCL::INCL::processEvent">
+<area shape="rect" id="node2" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a7a3fd2ee3ccde123d5b0a89a2af67014" title="G4INCL::CascadeAction\l::afterCascadeAction" alt="" coords="293,73,471,117"/>
+<area shape="rect" id="node5" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a3e391fc2755aea8cf9b630e537646ac1" title="G4INCL::CascadeAction\l::beforeCascadeAction" alt="" coords="293,209,471,253"/>
+<area shape="rect" id="node8" href="$d6/d0a/classG4INCL_1_1INCL.html#acde1be31793296d7a8cb8a67cc577c40" title="The actual cascade loop." alt="" coords="295,592,469,620"/>
+<area shape="rect" id="node21" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="279,1695,485,1723"/>
+<area shape="rect" id="node48" href="$d6/d0a/classG4INCL_1_1INCL.html#aefba2fb58f0b79eafb2ea20f18007d58" title="Initialise the cascade." alt="" coords="859,2516,1057,2544"/>
+<area shape="rect" id="node49" href="$d6/d0a/classG4INCL_1_1INCL.html#a22c4c885bc3bea582cfddaa29c4507fc" title="G4INCL::INCL::prepareReaction" alt="" coords="267,2671,497,2699"/>
+<area shape="rect" id="node50" href="$d6/d0a/classG4INCL_1_1INCL.html#ad791b570820885689251e669ceed43ec" title="Update global counters and other members of theGlobalInfo object." alt="" coords="264,2723,500,2751"/>
+<area shape="rect" id="node3" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a3cfab94c9f63094778028c222c02ac0b" title="G4INCL::CascadeAction\l::afterCascadeDefaultAction" alt="" coords="566,73,777,117"/>
+<area shape="rect" id="node4" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a5ce69db55e575827f74a8062ea9c4bc1" title="G4INCL::CascadeAction\l::afterCascadeUserAction" alt="" coords="575,5,767,49"/>
+<area shape="rect" id="node6" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a3800f332326190345ec0bd2d7ad2393c" title="G4INCL::CascadeAction\l::beforeCascadeDefaultAction" alt="" coords="560,209,783,253"/>
+<area shape="rect" id="node7" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a3f0b2602d377ee3a0052273cfe33ee21" title="G4INCL::CascadeAction\l::beforeCascadeUserAction" alt="" coords="569,141,773,185"/>
+<area shape="rect" id="node9" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a44b02ff056b898207b5ac4043149498b" title="G4INCL::CascadeAction\l::afterAvatarAction" alt="" coords="582,617,761,661"/>
+<area shape="rect" id="node10" href="$d1/da4/classG4INCL_1_1CascadeAction.html#a52fe1132d1d5073070d82a7764847ce6" title="G4INCL::CascadeAction\l::afterPropagationAction" alt="" coords="579,685,764,729"/>
+<area shape="rect" id="node11" href="$d7/db0/classG4INCL_1_1Nucleus.html#a614d4c123c0f697c91dc7d088d56eeae" title="G4INCL::Nucleus::applyFinal\lState" alt="" coords="853,956,1063,1000"/>
+<area shape="rect" id="node13" href="$d1/da4/classG4INCL_1_1CascadeAction.html#ae4cb9e2adbc529c78dd32b06bb853b6e" title="G4INCL::CascadeAction\l::beforeAvatarAction" alt="" coords="582,345,761,389"/>
+<area shape="rect" id="node14" href="$d1/da4/classG4INCL_1_1CascadeAction.html#af22dbab1653b40bc70ba52170978c1b2" title="G4INCL::CascadeAction\l::beforePropagationAction" alt="" coords="573,413,769,457"/>
+<area shape="rect" id="node15" href="$d6/d0a/classG4INCL_1_1INCL.html#a5d052adb8eda299d93fd6983251be7bd" title="Stopping criterion for the cascade." alt="" coords="554,805,789,833"/>
+<area shape="rect" id="node18" href="$dd/d90/classG4INCL_1_1IAvatar.html#a1ddcbeece788c2bbf8601c722bb2e0e3" title="G4INCL::IAvatar::fillFinal\lState" alt="" coords="579,481,763,525"/>
+<area shape="rect" id="node19" href="$d7/d66/classG4INCL_1_1IPropagationModel.html#a5184476f1d9692ab949730d64191187e" title="G4INCL::IPropagationModel\l::propagate" alt="" coords="569,549,774,593"/>
+<area shape="rect" id="node20" href="$da/d83/classG4INCL_1_1FinalState.html#aeb089246f3bae289b50f6a5065207061" title="G4INCL::FinalState\l::reset" alt="" coords="598,277,745,321"/>
+<area shape="rect" id="node12" href="$d0/d7f/classG4INCL_1_1Cluster.html#a2f25af692bc76144d5e71e9780fe2567" title="G4INCL::Cluster::getParticles" alt="" coords="1121,859,1336,887"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="1143,1612,1314,1640"/>
+<area shape="rect" id="node17" href="$d7/d66/classG4INCL_1_1IPropagationModel.html#a4a7a8eb01d553f597986d2017925afad" title="G4INCL::IPropagationModel\l::getCurrentTime" alt="" coords="855,871,1061,915"/>
+<area shape="rect" id="node22" href="$d5/dd3/classG4INCL_1_1Store.html#a9cdfa70cef400b00fa17c8c841d94a2b" title="Clear the incoming list." alt="" coords="561,1028,781,1056"/>
+<area shape="rect" id="node23" href="$d7/db0/classG4INCL_1_1Nucleus.html#ae6424ec57684a1ce4abd23036b9dc40a" title="Compute the current excitation energy." alt="" coords="570,1080,773,1124"/>
+<area shape="rect" id="node24" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2a52bd7a50d3ace82ababf837535632a" title="Compute the recoil momentum and spin of the nucleus." alt="" coords="570,2279,773,2323"/>
+<area shape="rect" id="node25" href="$d5/dd3/classG4INCL_1_1Store.html#aad5dde18c393a7dc64c941abc51bf12f" title="G4INCL::Store::getOutgoing\lParticles" alt="" coords="854,2312,1062,2356"/>
+<area shape="rect" id="node26" href="$d7/db0/classG4INCL_1_1Nucleus.html#af450ca0bcc0b0d2fb4c1f194eb4e285f" title="Returns true if the nucleus contains any anti Kaons." alt="" coords="571,1148,771,1192"/>
+<area shape="rect" id="node27" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2f039a27aee2ab0fada27a7d51c23350" title="Returns true if the nucleus contains any deltas." alt="" coords="571,1216,771,1260"/>
+<area shape="rect" id="node28" href="$d7/db0/classG4INCL_1_1Nucleus.html#a72b84988ab070e20dfab90462915cfdd" title="Returns true if the nucleus contains any Kaons." alt="" coords="555,1284,788,1312"/>
+<area shape="rect" id="node29" href="$d7/db0/classG4INCL_1_1Nucleus.html#ab113794518591ba9f8052b155135c87a" title="Returns true if the nucleus contains any Lambda." alt="" coords="571,1336,771,1380"/>
+<area shape="rect" id="node30" href="$d7/db0/classG4INCL_1_1Nucleus.html#a0b4c7ac4f35a0293ad6fd7c93030a894" title="Returns true if the nucleus contains any Sigma." alt="" coords="571,1575,771,1619"/>
+<area shape="rect" id="node31" href="$d7/db0/classG4INCL_1_1Nucleus.html#a298541884fc27de276e6429a211b36fc" title="Force the decay of deltas inside the nucleus." alt="" coords="559,960,783,1004"/>
+<area shape="rect" id="node32" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad04c5fdb4f44d66bd818728cf07c26e3" title="Force the transformation of strange particles into a Lambda;." alt="" coords="559,1404,783,1448"/>
+<area shape="rect" id="node33" href="$d7/db0/classG4INCL_1_1Nucleus.html#a7b914cc53f1445c43aef88fc64b999a8" title="Force emission of all strange particles inside the nucleus." alt="" coords="851,1455,1065,1499"/>
+<area shape="rect" id="node34" href="$d7/db0/classG4INCL_1_1Nucleus.html#a1c62156a79917226697f2b6130da3298" title="Force the phase&#45;space decay of the Nucleus." alt="" coords="570,1747,773,1775"/>
+<area shape="rect" id="node35" href="$d7/db0/classG4INCL_1_1Nucleus.html#ac3df3527091471e22f1d83d53158bc14" title="Force the decay of unstable outgoing clusters." alt="" coords="549,2347,794,2391"/>
+<area shape="rect" id="node36" href="$d7/db0/classG4INCL_1_1Nucleus.html#af982baf8c2967ec4bb12d728c1c5c6b5" title="Force the decay of outgoing deltas." alt="" coords="549,2415,794,2459"/>
+<area shape="rect" id="node37" href="$d7/db0/classG4INCL_1_1Nucleus.html#a09ef2f2893258955e21315479e446db6" title="Force the transformation of outgoing Neutral Kaon into propation eigenstate." alt="" coords="549,2483,794,2527"/>
+<area shape="rect" id="node38" href="$d7/db0/classG4INCL_1_1Nucleus.html#a88bf848e220605619d88a079cefc1692" title="Force the decay of outgoing PionResonances (eta/omega)." alt="" coords="549,2551,794,2595"/>
+<area shape="rect" id="node39" href="$d7/db0/classG4INCL_1_1Nucleus.html#afd2a6108175cf3be267f5c3f2e32da3a" title="Force the decay of outgoing Neutral Sigma." alt="" coords="549,2159,794,2203"/>
+<area shape="rect" id="node40" href="$d5/dd3/classG4INCL_1_1Store.html#a24d6b246b15f9c79db1d79ed52ea98ae" title="Clear the incoming list and delete the particles." alt="" coords="557,1799,786,1827"/>
+<area shape="rect" id="node41" href="$d2/d8b/namespaceG4INCL_1_1CoulombDistortion.html#a73066d913ac0e26f6b247ff075e826d0" title="Modify the momentum of an outgoing particle." alt="" coords="569,1851,774,1895"/>
+<area shape="rect" id="node42" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5020a863b24169ea2bcdfb3caef20de9" title="Force emission of all Kaon inside the nucleus." alt="" coords="548,1919,795,1947"/>
+<area shape="rect" id="node43" href="$d7/db0/classG4INCL_1_1Nucleus.html#acb04ec2e232fc8222b7eca375d121fd7" title="Force emission of all Lambda (desexitation code with strangeness not implanted yet)" alt="" coords="851,1925,1065,1969"/>
+<area shape="rect" id="node44" href="$d7/db0/classG4INCL_1_1Nucleus.html#a194bb6f2e56053abcd3978457e84f684" title="G4INCL::Nucleus::fillEventInfo" alt="" coords="560,1695,783,1723"/>
+<area shape="rect" id="node45" href="$d7/db0/classG4INCL_1_1Nucleus.html#a90a17cfc3803170178e3100bad22be15" title="Get the excitation energy of the nucleus." alt="" coords="843,1631,1073,1675"/>
+<area shape="rect" id="node46" href="$da/d4f/classG4INCL_1_1Config.html#ada42039e717084d0dab9d266a8dce000" title="Get the decay time threshold time." alt="" coords="573,1971,770,2015"/>
+<area shape="rect" id="node47" href="$d7/db0/classG4INCL_1_1Nucleus.html#a83a07031f63cb1a616fd539ec89b565a" title="Get the projectile remnant." alt="" coords="558,2039,785,2083"/>
+</map>

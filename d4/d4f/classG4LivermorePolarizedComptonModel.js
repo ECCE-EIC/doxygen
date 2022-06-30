@@ -1,0 +1,28 @@
+var classG4LivermorePolarizedComptonModel =
+[
+    [ "G4LivermorePolarizedComptonModel", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a0d42e6c1f89861874826d4070c4b2e55", null ],
+    [ "~G4LivermorePolarizedComptonModel", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a0d731d117aa0e8d3894bd30885ea5c6d", null ],
+    [ "G4LivermorePolarizedComptonModel", "d4/d4f/classG4LivermorePolarizedComptonModel.html#aeddae302eeba7901dff69154b7c681aa", null ],
+    [ "ComputeCrossSectionPerAtom", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a55fd847cf1c8c9ea02315298c6cdc9a6", null ],
+    [ "GetPerpendicularPolarization", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ab378e1180f7d9e91aff62dfd08d22b5b", null ],
+    [ "GetRandomPolarization", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ae26d57a03a3f5d3d855a832eb8462ae2", null ],
+    [ "Initialise", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a06ce3208279d902296e914aeeda19519", null ],
+    [ "InitialiseForElement", "d4/d4f/classG4LivermorePolarizedComptonModel.html#aec75b076053437348404d630d8db9235", null ],
+    [ "InitialiseLocal", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a630f6b055ee66b8b0295f1430f8dd9fe", null ],
+    [ "operator=", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a8f578a9206745cf86fa1b49431a9e7df", null ],
+    [ "ReadData", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ab019313a7be9a970379ad74ecc850235", null ],
+    [ "SampleSecondaries", "d4/d4f/classG4LivermorePolarizedComptonModel.html#afe29cb2adfc75a5eb73e476c7d73ecfa", null ],
+    [ "SetNewPolarization", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ad4719bb4ca5947b14ac8dc0af7cb337f", null ],
+    [ "SetPerpendicularVector", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a85a1b66a09680d7b7e545cb278bf5883", null ],
+    [ "SetPhi", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a786ce2dac62ffeba49e0c91a7f1f235e", null ],
+    [ "SystemOfRefChange", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ad35fc7af9e224d17e8c14aa98a2d6f1f", null ],
+    [ "data", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a3b35eb22a03e65472ff4a7fdf158b7a4", null ],
+    [ "fAtomDeexcitation", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ab710db984d8d17e9681dcac2875e269b", null ],
+    [ "fParticleChange", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a143e86c210f3229fc693115428d433da", null ],
+    [ "isInitialised", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ad471711c69f1f036be440b4386a44605", null ],
+    [ "maxZ", "d4/d4f/classG4LivermorePolarizedComptonModel.html#aa2c299f50905f6feca18ccfb775265fb", null ],
+    [ "profileData", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ad1830ab3060dcbfaf4c028b662ffd38d", null ],
+    [ "scatterFunctionData", "d4/d4f/classG4LivermorePolarizedComptonModel.html#ad71d119e54b9639735442cc5855f0d30", null ],
+    [ "shellData", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a53f36973c85c239e917b421e65d76d5b", null ],
+    [ "verboseLevel", "d4/d4f/classG4LivermorePolarizedComptonModel.html#a9f02f3f02a64a026c4a60036b632dc6e", null ]
+];

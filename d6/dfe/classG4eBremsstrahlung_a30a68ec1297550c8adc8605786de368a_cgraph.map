@@ -1,0 +1,17 @@
+<map id="G4eBremsstrahlung::InitialiseEnergyLossProcess" name="G4eBremsstrahlung::InitialiseEnergyLossProcess">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#aab335b4e1c433094f00a206d2b098fe9" title="G4VEnergyLossProcess\l::AddEmModel" alt="" coords="306,23,483,67"/>
+<area shape="rect" id="node6" href="$dc/d54/classG4EmParameters.html#adc80d2ec451fda66c832e380f49ce844" title="G4EmParameters::BremsstrahlungTh" alt="" coords="259,91,531,119"/>
+<area shape="rect" id="node7" href="$da/d80/classG4VEnergyLossProcess.html#ade2897e7973936a49808acb814c4af70" title="G4VEnergyLossProcess\l::EmModel" alt="" coords="306,143,483,187"/>
+<area shape="rect" id="node8" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="292,211,497,239"/>
+<area shape="rect" id="node9" href="$dc/d54/classG4EmParameters.html#a4e774ff02acd5ba6ff27dd7088f33d1c" title="G4EmParameters::LPM" alt="" coords="307,263,482,291"/>
+<area shape="rect" id="node10" href="$dc/d54/classG4EmParameters.html#a67fb789cf4d122524cc8122b648c9fea" title="G4EmParameters::MaxKinEnergy" alt="" coords="272,315,517,343"/>
+<area shape="rect" id="node11" href="$dc/d54/classG4EmParameters.html#a1caef9134899c9b2936c4c095ed029d9" title="G4EmParameters::MinKinEnergy" alt="" coords="274,367,515,395"/>
+<area shape="rect" id="node12" href="$da/d80/classG4VEnergyLossProcess.html#a6851d65374706f753194b745ad53bde4" title="G4VEnergyLossProcess\l::SetEmModel" alt="" coords="306,419,483,463"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="283,487,506,531"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="286,555,503,599"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a6c864321ee211a28aae7fbecde9a2c80" title="G4VEmModel::SetLPMFlag" alt="" coords="295,623,494,651"/>
+<area shape="rect" id="node16" href="$d3/dc1/classG4VEmModel.html#a4a4be909fc4d45de5d04c9e979c453f6" title="G4VEmModel::SetSecondary\lThreshold" alt="" coords="287,675,502,719"/>
+<area shape="rect" id="node3" href="$dd/de5/classG4EmModelManager.html#a07a87cc0684d520becd4ab68472eded0" title="G4EmModelManager::AddEmModel" alt="" coords="579,5,837,33"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="586,57,830,85"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a8a0058208f810612a43b141f61242a98" title="G4VEmModel::DefineForRegion" alt="" coords="885,5,1117,33"/>
+</map>

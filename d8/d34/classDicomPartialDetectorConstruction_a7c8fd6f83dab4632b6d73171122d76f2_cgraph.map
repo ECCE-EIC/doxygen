@@ -1,0 +1,45 @@
+<map id="DicomPartialDetectorConstruction::Construct" name="DicomPartialDetectorConstruction::Construct">
+<area shape="rect" id="node2" href="$d8/d34/classDicomPartialDetectorConstruction.html#a59851cf939fd475f7db4ec29093ab1c2" title="DicomPartialDetectorConstruction\l::ConstructPhantom" alt="" coords="304,541,555,585"/>
+<area shape="rect" id="node16" href="$d8/d34/classDicomPartialDetectorConstruction.html#ae3a3beac7a885b873681d298a869ed7d" title="DicomPartialDetectorConstruction\l::ConstructPhantomContainer" alt="" coords="304,872,555,916"/>
+<area shape="rect" id="node17" href="$d8/d5f/classDicomDetectorConstruction.html#add386aab991defaa99d5cd9a9a748fc6" title="DicomDetectorConstruction\l::InitialisationOfMaterials" alt="" coords="325,273,533,317"/>
+<area shape="rect" id="node34" href="$d8/d34/classDicomPartialDetectorConstruction.html#aac5585a53af5022da1d4d560399e2f80" title="DicomPartialDetectorConstruction\l::ReadPhantomData" alt="" coords="304,804,555,848"/>
+<area shape="rect" id="node3" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="603,609,859,637"/>
+<area shape="rect" id="node4" href="$da/dc4/classG4LogicalVolume.html#a02f361ff197ec4afa92d8df7f6b2a4f6" title="G4LogicalVolume::SetSmartless" alt="" coords="613,661,849,689"/>
+<area shape="rect" id="node5" href="$d6/da1/classG4PhantomParameterisation.html#a1285f1c50b47e36b14d59ca9ec0880c0" title="G4PhantomParameterisation\l::SetMaterials" alt="" coords="624,713,839,757"/>
+<area shape="rect" id="node6" href="$d6/da1/classG4PhantomParameterisation.html#a059a54042a58cf720bfa1349af0d465e" title="G4PhantomParameterisation\l::SetVoxelDimensions" alt="" coords="624,781,839,825"/>
+<area shape="rect" id="node7" href="$d6/da1/classG4PhantomParameterisation.html#a568632d20deadd52c21a22e9007ab124" title="G4PhantomParameterisation\l::SetNoVoxel" alt="" coords="624,201,839,245"/>
+<area shape="rect" id="node8" href="$d6/da1/classG4PhantomParameterisation.html#ae6b1602ebece8f7d34c786e8678ee2ff" title="G4PhantomParameterisation\l::SetMaterialIndices" alt="" coords="624,269,839,313"/>
+<area shape="rect" id="node9" href="$d8/d74/classG4PartialPhantomParameterisation.html#a2b276605ea444b68c7bec5b9c8d18f42" title="G4PartialPhantomParameterisation\l::SetFilledIDs" alt="" coords="603,337,860,381"/>
+<area shape="rect" id="node10" href="$d8/d74/classG4PartialPhantomParameterisation.html#a562c6fb620254da43ab8fa37b8476f4a" title="G4PartialPhantomParameterisation\l::SetFilledMins" alt="" coords="603,405,860,449"/>
+<area shape="rect" id="node11" href="$d8/d74/classG4PartialPhantomParameterisation.html#acb2a6b27c8c40fd9ab2d1a74ba2d120f" title="G4PartialPhantomParameterisation\l::BuildContainerWalls" alt="" coords="603,473,860,517"/>
+<area shape="rect" id="node12" href="$d6/da1/classG4PhantomParameterisation.html#a4fb4f3930caab9d67782399256e5e593" title="G4PhantomParameterisation\l::SetSkipEqualMaterials" alt="" coords="624,541,839,585"/>
+<area shape="rect" id="node13" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="987,864,1093,892"/>
+<area shape="rect" id="node14" href="$de/ded/classG4PVParameterised.html#acd0344e106f96b604d890a52bdea1d27" title="G4PVParameterised::\lSetRegularStructureId" alt="" coords="647,133,816,177"/>
+<area shape="rect" id="node15" href="$de/d93/classG4PVReplica.html#a14e79ae56841eba12b638015aa4e6093" title="G4PVReplica::SetRegularStructureId" alt="" coords="908,141,1172,169"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a6787765bd3b0ef535161b887e7462417" title="G4Material::AddElement" alt="" coords="638,81,825,109"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a2bbaa762349b9a4617cbc985fb0c3a08" title="G4Material::ComputeDerived\lQuantities" alt="" coords="931,73,1149,117"/>
+<area shape="rect" id="node20" href="$d0/dbe/classG4AtomicShells.html#ae1b641e18a447a64472d179b3e07e221" title="G4AtomicShells::GetNumber\lOfFreeElectrons" alt="" coords="1245,5,1461,49"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#ac70cfa5fc8988777cd9acb1b379d6101" title="G4Material::ComputeRadiation\lLength" alt="" coords="1239,73,1468,117"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#ac3dead710232898aed1c79b784856028" title="G4Material::ComputeNuclear\lInterLength" alt="" coords="1244,141,1463,185"/>
+<area shape="rect" id="node23" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1646,97,1685,125"/>
+<area shape="rect" id="node24" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1632,149,1699,177"/>
+<area shape="rect" id="node28" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1633,227,1697,255"/>
+<area shape="rect" id="node25" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1881,149,2047,177"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1869,97,2059,125"/>
+<area shape="rect" id="node26" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="2132,149,2320,177"/>
+<area shape="rect" id="node29" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1868,201,2060,229"/>
+<area shape="rect" id="node30" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1868,253,2060,281"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1844,305,2084,333"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="2132,331,2320,359"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="2132,279,2320,307"/>
+<area shape="rect" id="node35" href="$d8/d34/classDicomPartialDetectorConstruction.html#a316bb3e13b09065333aa0b89fe433f78" title="DicomPartialDetectorConstruction\l::ReadPhantomDataFile" alt="" coords="606,952,857,996"/>
+<area shape="rect" id="node36" href="$d2/dd2/classG4UIcommand.html#a7077e02d61d600dd306afd89e4025f3e" title="G4UIcommand::ConvertToString" alt="" coords="1234,933,1473,961"/>
+<area shape="rect" id="node37" href="$d8/d34/classDicomPartialDetectorConstruction.html#a504aa22c9165f6fd1a2fbe37ad3c3212" title="DicomPartialDetectorConstruction\l::ReadVoxelDensitiesPartial" alt="" coords="915,1008,1165,1052"/>
+<area shape="rect" id="node38" href="$d2/dd2/classG4UIcommand.html#ad77b7ee0e99df3dd7d543b385f68a49b" title="G4UIcommand::ConvertToDouble" alt="" coords="1230,1157,1477,1185"/>
+<area shape="rect" id="node39" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="1263,985,1443,1013"/>
+<area shape="rect" id="node40" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1269,1037,1437,1065"/>
+<area shape="rect" id="node41" href="$d8/d5f/classDicomDetectorConstruction.html#a4dddcb0f2046e44ad33432a4bdd794a8" title="DicomDetectorConstruction\l::BuildMaterialWithChangingDensity" alt="" coords="1220,1089,1487,1133"/>
+<area shape="rect" id="node42" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="1573,1045,1758,1073"/>
+<area shape="rect" id="node43" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="1553,1097,1778,1125"/>
+<area shape="rect" id="node44" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1535,1149,1796,1177"/>
+</map>

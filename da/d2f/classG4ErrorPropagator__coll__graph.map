@@ -1,0 +1,46 @@
+<map id="G4ErrorPropagator" name="G4ErrorPropagator">
+<area shape="rect" id="node2" href="$d0/dd0/classG4SteppingManager.html" title="G4SteppingManager" alt="" coords="2026,1149,2188,1177"/>
+<area shape="rect" id="node45" href="$dd/d17/classG4UserSteppingAction.html" title="G4UserSteppingAction" alt="" coords="1982,1257,2155,1285"/>
+<area shape="rect" id="node46" href="$da/d01/classG4VSteppingVerbose.html" title="G4VSteppingVerbose" alt="" coords="2149,1349,2313,1377"/>
+<area shape="rect" id="node17" href="$d9/d7a/classG4Step.html" title="G4Step" alt="" coords="988,359,1060,387"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="1001,535,1077,563"/>
+<area shape="rect" id="node13" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="1475,687,1616,715"/>
+<area shape="rect" id="node47" href="$d5/dbb/classG4ErrorTrajState.html" title="G4ErrorTrajState" alt="" coords="494,687,626,715"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="2414,359,2509,387"/>
+<area shape="rect" id="node19" href="$df/d47/classG4StepPoint.html" title="G4StepPoint" alt="" coords="2429,1007,2534,1035"/>
+<area shape="rect" id="node39" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="2409,631,2581,659"/>
+<area shape="rect" id="node6" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="3279,5,3359,33"/>
+<area shape="rect" id="node8" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="1712,815,1814,843"/>
+<area shape="rect" id="node16" href="$df/de2/classG4VUserTrackInformation.html" title="G4VUserTrackInformation" alt="" coords="286,171,480,199"/>
+<area shape="rect" id="node20" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="3476,225,3647,253"/>
+<area shape="rect" id="node21" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="3268,107,3370,135"/>
+<area shape="rect" id="node22" href="$d5/d11/classG4VReadOutGeometry.html" title="G4VReadOutGeometry" alt="" coords="4834,1149,5010,1177"/>
+<area shape="rect" id="node23" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="3354,687,3508,715"/>
+<area shape="rect" id="node26" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="3524,359,3663,387"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="1950,225,2082,253"/>
+<area shape="rect" id="node9" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="1742,687,1894,715"/>
+<area shape="rect" id="node10" href="$d5/da4/classG4ProcessVector.html" title="G4ProcessVector" alt="" coords="1934,535,2069,563"/>
+<area shape="rect" id="node11" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="1758,535,1909,563"/>
+<area shape="rect" id="node12" href="$d4/d53/classG4FastVector.html" title="G4FastVector\&lt; Type, N \&gt;" alt="" coords="1779,359,1968,387"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="1385,107,1538,135"/>
+<area shape="rect" id="node27" href="$d9/d53/classG4Navigator.html" title="G4Navigator" alt="" coords="3747,1007,3854,1035"/>
+<area shape="rect" id="node37" href="$d7/d98/structG4Navigator_1_1G4SaveNavigatorState.html" title="G4Navigator::G4SaveNavigator\lState" alt="" coords="3075,807,3310,851"/>
+<area shape="rect" id="node43" href="$d7/d5c/classG4DynamicParticle.html" title="G4DynamicParticle" alt="" coords="1242,287,1391,315"/>
+<area shape="rect" id="node15" href="$dc/d99/classG4PhysicsOrderedFreeVector.html" title="G4PhysicsOrderedFreeVector" alt="" coords="321,359,538,387"/>
+<area shape="rect" id="node24" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="3386,535,3476,563"/>
+<area shape="rect" id="node25" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="3258,225,3426,253"/>
+<area shape="rect" id="node32" href="$db/de4/classG4VoxelSafety.html" title="G4VoxelSafety" alt="" coords="4122,535,4242,563"/>
+<area shape="rect" id="node28" href="$d7/d8b/classG4ReplicaNavigation.html" title="G4ReplicaNavigation" alt="" coords="4110,815,4272,843"/>
+<area shape="rect" id="node29" href="$dd/dff/classG4ParameterisedNavigation.html" title="G4ParameterisedNavigation" alt="" coords="4670,815,4880,843"/>
+<area shape="rect" id="node30" href="$d6/da7/classG4VoxelNavigation.html" title="G4VoxelNavigation" alt="" coords="4279,687,4428,715"/>
+<area shape="rect" id="node33" href="$d7/d97/classG4RegularNavigation.html" title="G4RegularNavigation" alt="" coords="3466,815,3631,843"/>
+<area shape="rect" id="node34" href="$d5/d14/classG4NormalNavigation.html" title="G4NormalNavigation" alt="" coords="3686,687,3848,715"/>
+<area shape="rect" id="node35" href="$d4/d78/classG4VExternalNavigation.html" title="G4VExternalNavigation" alt="" coords="4416,815,4595,843"/>
+<area shape="rect" id="node36" href="$d4/d3b/classG4NavigationHistory.html" title="G4NavigationHistory" alt="" coords="3656,815,3817,843"/>
+<area shape="rect" id="node38" href="$df/d6f/classG4CollectionNameVector.html" title="G4CollectionNameVector" alt="" coords="3394,107,3585,135"/>
+<area shape="rect" id="node40" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="2655,351,2868,395"/>
+<area shape="rect" id="node41" href="$d8/ded/classG4CountedObject.html" title="G4CountedObject\&lt; G4VTouchable \&gt;" alt="" coords="2600,225,2868,253"/>
+<area shape="rect" id="node48" href="$d4/db6/classHepGeom_1_1Point3D.html" title="HepGeom::Point3D\&lt; G4double \&gt;" alt="" coords="343,535,588,563"/>
+<area shape="rect" id="node49" href="$d1/d85/classG4ErrorSymMatrix.html" title="G4ErrorSymMatrix" alt="" coords="613,535,758,563"/>
+<area shape="rect" id="node50" href="$dc/d3c/classHepGeom_1_1Vector3D.html" title="HepGeom::Vector3D\&lt;\l G4double \&gt;" alt="" coords="148,527,319,571"/>
+</map>

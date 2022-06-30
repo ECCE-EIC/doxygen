@@ -1,0 +1,51 @@
+<map id="G4INCL::Particle::getA" name="G4INCL::Particle::getA">
+<area shape="rect" id="node2" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a670d8c76208774e0a3d37628fb840a52" title="Add back a nucleon to the projectile remnant." alt="" coords="272,9,475,53"/>
+<area shape="rect" id="node4" href="$d0/d7f/classG4INCL_1_1Cluster.html#ab281b65085083566eba65d6d0aa8cf98" title="G4INCL::Cluster::addParticle" alt="" coords="268,81,479,109"/>
+<area shape="rect" id="node7" href="$dd/d6a/classG4INCL_1_1ClusteringModelIntercomparison.html#aab97f07588fe0140b5ec58c4781711a7" title="G4INCL::ClusteringModelIntercomparison\l::clusterCanEscape" alt="" coords="224,133,523,177"/>
+<area shape="rect" id="node8" href="$d7/db0/classG4INCL_1_1Nucleus.html#af840b4d956b404aa9647c14b303b558c" title="Compute the recoil kinematics for a 1&#45;nucleon remnant." alt="" coords="611,297,829,341"/>
+<area shape="rect" id="node10" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="1188,1123,1393,1151"/>
+<area shape="rect" id="node11" href="$d6/d0a/classG4INCL_1_1INCL.html#a5d052adb8eda299d93fd6983251be7bd" title="Stopping criterion for the cascade." alt="" coords="256,340,491,368"/>
+<area shape="rect" id="node13" href="$dc/d21/namespaceG4INCL_1_1ClusterDecay.html#a0ca6931ef2e54d65d6addd4871d8f956" title="Carries out a cluster decay." alt="" coords="288,735,459,779"/>
+<area shape="rect" id="node26" href="$d7/db0/classG4INCL_1_1Nucleus.html#acb04ec2e232fc8222b7eca375d121fd7" title="Force emission of all Lambda (desexitation code with strangeness not implanted yet)" alt="" coords="922,1115,1135,1159"/>
+<area shape="rect" id="node27" href="$d7/db0/classG4INCL_1_1Nucleus.html#a7b914cc53f1445c43aef88fc64b999a8" title="Force emission of all strange particles inside the nucleus." alt="" coords="922,1183,1135,1227"/>
+<area shape="rect" id="node28" href="$d7/db0/classG4INCL_1_1Nucleus.html#a194bb6f2e56053abcd3978457e84f684" title="G4INCL::Nucleus::fillEventInfo" alt="" coords="917,1251,1140,1279"/>
+<area shape="rect" id="node29" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#abf44c365082f5001071c3c658a611503" title="G4INCL::ParticleEntryChannel\l::fillFinalState" alt="" coords="610,1848,830,1892"/>
+<area shape="rect" id="node30" href="$d8/d5c/classG4INCL_1_1TransmissionChannel.html#a60bffb0de6bc33292c7aef689e45f01d" title="G4INCL::TransmissionChannel\l::fillFinalState" alt="" coords="262,1371,485,1415"/>
+<area shape="rect" id="node31" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2d839f0367ad2cf99d948bf32640222a" title="Finalise the projectile remnant." alt="" coords="278,1439,469,1483"/>
+<area shape="rect" id="node32" href="$dd/d6a/classG4INCL_1_1ClusteringModelIntercomparison.html#a6652ce29208727d73443ed71e8ee2fd1" title="G4INCL::ClusteringModelIntercomparison\l::findClusterStartingFrom" alt="" coords="224,1303,523,1347"/>
+<area shape="rect" id="node33" href="$dd/d6a/classG4INCL_1_1ClusteringModelIntercomparison.html#af7da5a49c25a09c3fd6366a7a3de762f" title="G4INCL::ClusteringModelIntercomparison\l::getCluster" alt="" coords="571,1401,869,1445"/>
+<area shape="rect" id="node34" href="$dc/dc0/classG4INCL_1_1PauliStandard.html#abcf158a01ec0675f41137180084953f1" title="G4INCL::PauliStandard\l::getBlockingProbability" alt="" coords="283,1609,464,1653"/>
+<area shape="rect" id="node35" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5dc670c8feb78dd16725796a3afd993b" title="Compute charge, mass, energy and momentum balance." alt="" coords="247,1677,500,1721"/>
+<area shape="rect" id="node36" href="$d9/d99/classG4INCL_1_1CoulombNonRelativistic.html#a99079122fb5ed3cff188fc9e431a122b" title="Get the Coulomb radius for a given particle." alt="" coords="253,1745,493,1789"/>
+<area shape="rect" id="node37" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a6ac2a241e5f105227b8b571c068d61ea" title="Calculate the transmission probability for the particle." alt="" coords="267,1813,479,1857"/>
+<area shape="rect" id="node38" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#af678d9a6c1791845b43ac3b96ceca26b" title="The radius used for calculating the transmission coefficient." alt="" coords="281,1881,466,1925"/>
+<area shape="rect" id="node39" href="$d8/d5c/classG4INCL_1_1TransmissionChannel.html#a239832f53c48f31e47cf1f45ccf2c395" title="Kinetic energy of the transmitted particle." alt="" coords="257,1949,489,1993"/>
+<area shape="rect" id="node40" href="$d7/db0/classG4INCL_1_1Nucleus.html#a718ef4fb3d95aad593610385e95cb513" title="Insert a new particle (e.g. a projectile) in the nucleus." alt="" coords="258,2017,489,2045"/>
+<area shape="rect" id="node41" href="$dc/d21/namespaceG4INCL_1_1ClusterDecay.html#a1b5518c4ad4585687c3656f3c06f0633" title="True if the cluster is stable." alt="" coords="288,2069,459,2113"/>
+<area shape="rect" id="node42" href="$d6/d0a/classG4INCL_1_1INCL.html#aefba2fb58f0b79eafb2ea20f18007d58" title="Initialise the cascade." alt="" coords="274,2137,473,2165"/>
+<area shape="rect" id="node43" href="$df/da7/classG4INCL_1_1INCL_1_1RecoilCMFunctor.html#a419ddca3c99ad94716cc0c817c908281" title="Prepare for calling the () operator and scaleParticleEnergies." alt="" coords="257,2189,489,2233"/>
+<area shape="rect" id="node44" href="$db/d1a/classG4INCL_1_1INCL_1_1RecoilFunctor.html#a5621f8a4da95fb173d66abb21aa6ae31" title="Prepare for calling the () operator and scaleParticleEnergies." alt="" coords="268,2257,479,2301"/>
+<area shape="rect" id="node45" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a196e7b7369ff5a96c9451337ee41eaed" title="Remove a nucleon from the projectile remnant." alt="" coords="272,2325,475,2369"/>
+<area shape="rect" id="node46" href="$df/da7/classG4INCL_1_1INCL_1_1RecoilCMFunctor.html#ae11578fc3ed9b4b5ab8adb5f7a33943d" title="Scale the kinetic energies of the outgoing particles." alt="" coords="257,2393,489,2437"/>
+<area shape="rect" id="node47" href="$db/d1a/classG4INCL_1_1INCL_1_1RecoilFunctor.html#ab5ddb9cbf9f002a5a9895760e817cc38" title="Scale the kinetic energies of the outgoing particles." alt="" coords="268,2461,479,2505"/>
+<area shape="rect" id="node48" href="$de/d20/classG4INCL_1_1InteractionAvatar_1_1ViolationEMomentumFunctor.html#a6b880223a021c60fddbeb01f4cdaa023" title="Scale the momenta of the modified and created particles." alt="" coords="260,2529,487,2589"/>
+<area shape="rect" id="node49" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#abd1c8a055a0c106754b21f0393e20a58" title="G4INCL::StandardPropagation\lModel::shootComposite" alt="" coords="263,2613,484,2657"/>
+<area shape="rect" id="node50" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="263,2681,484,2725"/>
+<area shape="rect" id="node3" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#ad46668b98bc40524da6985f06283aef3" title="Add back dynamical spectators to the projectile remnant." alt="" coords="619,5,821,49"/>
+<area shape="rect" id="node5" href="$d0/d7f/classG4INCL_1_1Cluster.html#a9ddcecbaa97e6df7a9962a2be357e7eb" title="G4INCL::Cluster::Cluster" alt="" coords="627,141,813,169"/>
+<area shape="rect" id="node6" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#af62f37ad32ab81c185cf2c02b7492b31" title="Reset the projectile remnant to the state at the beginning of the cascade." alt="" coords="619,73,821,117"/>
+<area shape="rect" id="node9" href="$d7/db0/classG4INCL_1_1Nucleus.html#a2a52bd7a50d3ace82ababf837535632a" title="Compute the recoil momentum and spin of the nucleus." alt="" coords="927,672,1130,716"/>
+<area shape="rect" id="node12" href="$d6/d0a/classG4INCL_1_1INCL.html#acde1be31793296d7a8cb8a67cc577c40" title="The actual cascade loop." alt="" coords="633,245,807,273"/>
+<area shape="rect" id="node14" href="$d4/d06/classDecayFinder.html#a3187bea8cf2bea9bff5d42df5d8fa301" title="DecayFinder::printNode" alt="" coords="630,1097,810,1125"/>
+<area shape="rect" id="node15" href="$dc/d02/classDecayFinderContainer__v1.html#a4e5ff651a316cdb687c1f46d05f320bf" title="DecayFinderContainer\l_v1::DecayFinderContainer_v1" alt="" coords="606,365,834,409"/>
+<area shape="rect" id="node16" href="$dc/d02/classDecayFinderContainer__v1.html#a9de44e5631cd1e624a0f181bea06188d" title="DecayFinderContainer\l_v1::operator=" alt="" coords="634,433,806,477"/>
+<area shape="rect" id="node17" href="$db/d73/classP6DExtDecayerPhysics.html#a4f01f2ff0034668cfb45591372d8f1b4" title="P6DExtDecayerPhysics\l::ConstructProcess" alt="" coords="632,501,808,545"/>
+<area shape="rect" id="node18" href="$d0/ddf/classF04PhysicsList.html#a41c3346e3da12094199b0200783bd380" title="F04PhysicsList::Construct\lProcess" alt="" coords="623,569,817,613"/>
+<area shape="rect" id="node19" href="$d1/d3b/classG4SpinDecayPhysics.html#a22951c34c9df656f0919101de5758e74" title="G4SpinDecayPhysics\l::ConstructProcess" alt="" coords="639,637,801,681"/>
+<area shape="rect" id="node20" href="$df/d76/classG4MolecularDissociationTable.html#a5dda26ce50604d315b99fdc1bf57e468" title="G4MolecularDissociationTable\l::CheckDataConsistency" alt="" coords="609,705,831,749"/>
+<area shape="rect" id="node21" href="$d0/d72/classG4BinaryCascade.html#a8cb949ade0dc2dbac02d409d159f798f" title="G4BinaryCascade::Propagate" alt="" coords="611,773,829,801"/>
+<area shape="rect" id="node22" href="$d0/d72/classG4BinaryCascade.html#a53e01cf04cc50c0c104fcd03e3a3e2b6" title="G4BinaryCascade::DecayVoid\lNucleus" alt="" coords="609,825,831,869"/>
+<area shape="rect" id="node23" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a1c8c78222bbf7168a6b7345f1723696c" title="G4GeneratorPrecompoundInterface\l::Propagate" alt="" coords="589,893,851,937"/>
+<area shape="rect" id="node24" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a5863f08fdf69872a6a903894a6f7f426" title="G4GeneratorPrecompoundInterface\l::PropagateNuclNucl" alt="" coords="589,961,851,1005"/>
+<area shape="rect" id="node25" href="$dc/d8b/classG4CascadeInterface.html#ab8f6e4c678c2908475a4bca6dbc7bcb1" title="G4CascadeInterface\l::Propagate" alt="" coords="641,1029,799,1073"/>
+</map>

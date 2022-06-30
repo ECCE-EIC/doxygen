@@ -1,0 +1,28 @@
+var classG4RepleteEofM =
+[
+    [ "G4RepleteEofM", "dd/d4f/classG4RepleteEofM.html#a581062b5bdaff0b18493c78dab1693fd", null ],
+    [ "~G4RepleteEofM", "dd/d4f/classG4RepleteEofM.html#acf50df8648be310b3ad073792e60b4dd", null ],
+    [ "EvaluateRhsGivenB", "dd/d4f/classG4RepleteEofM.html#a0a4f3fd502c4aca9b0ac61da9e0ad3e4", null ],
+    [ "GetAnomaly", "dd/d4f/classG4RepleteEofM.html#a0d94805d62731411022a27634f63ee6d", null ],
+    [ "SetAnomaly", "dd/d4f/classG4RepleteEofM.html#a30a1e8f1f326aaef47051238d3239cff", null ],
+    [ "SetBField", "dd/d4f/classG4RepleteEofM.html#ae33ff8c919b5fcf1789e4f8698146f87", null ],
+    [ "SetChargeMomentumMass", "dd/d4f/classG4RepleteEofM.html#aac8648202b8250232f1fd3fcebe9b368", null ],
+    [ "SetEField", "dd/d4f/classG4RepleteEofM.html#af5a44426c7a2b2a5a48cfa10c5a59bc2", null ],
+    [ "SetgradB", "dd/d4f/classG4RepleteEofM.html#a22a941bc968fdcf5a9e67a64babfb1a4", null ],
+    [ "SetSpin", "dd/d4f/classG4RepleteEofM.html#afd33c5971f7a051ab6d7da1f9ec1b6e7", null ],
+    [ "anomaly", "dd/d4f/classG4RepleteEofM.html#adecd15418160bd2a4f692be29e1ac3d3", null ],
+    [ "beta", "dd/d4f/classG4RepleteEofM.html#a2c5236f103d5b00d912c2d3ead33a73b", null ],
+    [ "charge", "dd/d4f/classG4RepleteEofM.html#ac5e01aec5db48480cfa863d2fb196c0c", null ],
+    [ "ElectroMagCof", "dd/d4f/classG4RepleteEofM.html#aad359c11c1ac6bdf2e87b883fb8034ec", null ],
+    [ "fBfield", "dd/d4f/classG4RepleteEofM.html#aee4bf20a17a696d14b55a026f093fd1a", null ],
+    [ "fEfield", "dd/d4f/classG4RepleteEofM.html#a53ac2c430e81cd13ec1de968a5156b9e", null ],
+    [ "fGfield", "dd/d4f/classG4RepleteEofM.html#a2e102521d1bd4554850123d3957ca3e4", null ],
+    [ "fgradB", "dd/d4f/classG4RepleteEofM.html#a2bdde66c4c5dfa8f2b9aa7468572f9a7", null ],
+    [ "fNvar", "dd/d4f/classG4RepleteEofM.html#a4e2049eb0fe01d7e424cd65a30a9a4d7", null ],
+    [ "fSpin", "dd/d4f/classG4RepleteEofM.html#aa24dedd93a0ef5ecc1ec7e0a9827f53b", null ],
+    [ "gamma", "dd/d4f/classG4RepleteEofM.html#a2c3f96a16e76a38963fd4f8dbb3d6493", null ],
+    [ "magMoment", "dd/d4f/classG4RepleteEofM.html#a28c522d1c481716d58c873d2dbc92e10", null ],
+    [ "mass", "dd/d4f/classG4RepleteEofM.html#acb78259f5ffcff472215a33f864c34cc", null ],
+    [ "omegac", "dd/d4f/classG4RepleteEofM.html#a17953e8ce573e9dbe3b8eeec04384349", null ],
+    [ "spin", "dd/d4f/classG4RepleteEofM.html#a65902afaf15d52522a5067d38c879679", null ]
+];

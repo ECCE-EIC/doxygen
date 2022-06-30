@@ -1,0 +1,28 @@
+var classG4VoxelLimits =
+[
+    [ "G4VoxelLimits", "de/d33/classG4VoxelLimits.html#a305e20a7d047c4147181081f205c5f61", null ],
+    [ "~G4VoxelLimits", "de/d33/classG4VoxelLimits.html#af2a80879ee8aaa2d9606834eec350906", null ],
+    [ "AddLimit", "de/d33/classG4VoxelLimits.html#a52928ba45f12213dc173c364c4956443", null ],
+    [ "ClipToLimits", "de/d33/classG4VoxelLimits.html#ae95697c476faa41ffebdf8cb79702e91", null ],
+    [ "GetMaxExtent", "de/d33/classG4VoxelLimits.html#a9a868c022381e926d4bbd92d10b63785", null ],
+    [ "GetMaxXExtent", "de/d33/classG4VoxelLimits.html#ad982ce8d41bec9c36ae9b99fa72ca0e3", null ],
+    [ "GetMaxYExtent", "de/d33/classG4VoxelLimits.html#a9b908be10f5966508775ec59bd3e2478", null ],
+    [ "GetMaxZExtent", "de/d33/classG4VoxelLimits.html#aaae87c6414118c3074d2dfd548e66b2f", null ],
+    [ "GetMinExtent", "de/d33/classG4VoxelLimits.html#afa19831db36db860f16e0c42ea94d9cc", null ],
+    [ "GetMinXExtent", "de/d33/classG4VoxelLimits.html#a342a33e0628cb216f65eb54c242183e7", null ],
+    [ "GetMinYExtent", "de/d33/classG4VoxelLimits.html#a081f6988445efb1668caea121cfaa6ce", null ],
+    [ "GetMinZExtent", "de/d33/classG4VoxelLimits.html#aa51e33a19a8fb329871dcd66ec391e37", null ],
+    [ "Inside", "de/d33/classG4VoxelLimits.html#a7e073f2557ccc37a57f7f778f13f81ad", null ],
+    [ "IsLimited", "de/d33/classG4VoxelLimits.html#a61d3a8cc8e97f0a892f86f127eb4f80a", null ],
+    [ "IsLimited", "de/d33/classG4VoxelLimits.html#ab6697c14aa11efdb6c4ea75389e76f7f", null ],
+    [ "IsXLimited", "de/d33/classG4VoxelLimits.html#a6af8fae2e9e2384af46508bc65d46134", null ],
+    [ "IsYLimited", "de/d33/classG4VoxelLimits.html#a4f3f327fec63d9c01311cd9753fe1942", null ],
+    [ "IsZLimited", "de/d33/classG4VoxelLimits.html#a67748d5050acd667591f7d5f7593996f", null ],
+    [ "OutCode", "de/d33/classG4VoxelLimits.html#a08620168cb0d6d4430a5d412a7f85753", null ],
+    [ "fxAxisMax", "de/d33/classG4VoxelLimits.html#aad960c9b325fed108f00e294cf0d1e09", null ],
+    [ "fxAxisMin", "de/d33/classG4VoxelLimits.html#a27f0962cd7506bb896a88d9fabd18a1f", null ],
+    [ "fyAxisMax", "de/d33/classG4VoxelLimits.html#abe5259f222dd4706c3c37065a3271ccc", null ],
+    [ "fyAxisMin", "de/d33/classG4VoxelLimits.html#ac6fb746805174597620ce5a5eabd33e0", null ],
+    [ "fzAxisMax", "de/d33/classG4VoxelLimits.html#a0ffc390e2744a4389aa2f89b4e15d019", null ],
+    [ "fzAxisMin", "de/d33/classG4VoxelLimits.html#a19e17144869ca5a40cfe3121c15dbf85", null ]
+];

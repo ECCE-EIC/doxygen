@@ -1,0 +1,25 @@
+<map id="G4MuIonisation::ProcessDescription" name="G4MuIonisation::ProcessDescription">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#a3bdf047f727a3e5fc1e111bf4cc263b1" title="G4VEnergyLossProcess\l::ProcessDescription" alt="" coords="316,192,493,236"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#adf0c2b885202fe1852df3ca9bb88ba21" title="G4VEnergyLossProcess\l::StreamInfo" alt="" coords="541,192,719,236"/>
+<area shape="rect" id="node4" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="793,20,1017,48"/>
+<area shape="rect" id="node5" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="827,72,982,116"/>
+<area shape="rect" id="node6" href="$d2/d84/classG4VProcess.html#ad18bffaccb5c39d2e318dfd436ee9b66" title="G4VProcess::GetProcessSubType" alt="" coords="784,140,1025,168"/>
+<area shape="rect" id="node7" href="$dc/d54/classG4EmParameters.html#a7ade7750c8b8c61e26ac7b353ce2ce0f" title="G4EmParameters::NumberOf\lBinsPerDecade" alt="" coords="795,192,1014,236"/>
+<area shape="rect" id="node8" href="$dc/d54/classG4EmParameters.html#a8f4026ba0168a2a14986f3c299b8883f" title="G4EmParameters::Spline" alt="" coords="810,260,999,288"/>
+<area shape="rect" id="node9" href="$da/d80/classG4VEnergyLossProcess.html#a8a71cfb6030580b0a67a7d92933d4dc3" title="G4VEnergyLossProcess\l::StreamProcessInfo" alt="" coords="816,312,993,356"/>
+<area shape="rect" id="node10" href="$dd/de5/classG4EmModelManager.html#a2a2c19ffb4a3d8ece590b4d3cb061ec1" title="G4EmModelManager::DumpModelList" alt="" coords="767,380,1043,408"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#a3fa2d263b722272c15127211cdde6838" title="G4VEmModel::DeexcitationFlag" alt="" coords="1111,5,1346,33"/>
+<area shape="rect" id="node12" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="1134,57,1323,85"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#a24cb4beb9a3f415e2825d36bc739ddeb" title="G4VEmModel::GetAngularDistribution" alt="" coords="1091,109,1367,137"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#acca7777fc90a97ca59848a2034b47762" title="G4VEmModel::GetCrossSection\lTable" alt="" coords="1113,161,1345,205"/>
+<area shape="rect" id="node15" href="$da/d90/classG4VEmAngularDistribution.html#a4aa02f623b8ba5d3e627b0ca4b107aa5" title="G4VEmAngularDistribution\l::GetName" alt="" coords="1127,229,1330,273"/>
+<area shape="rect" id="node16" href="$d1/d35/classG4Region.html#a5e646e799ed5b44988e30ee5cd2fa582" title="G4Region::GetName" alt="" coords="1149,297,1309,325"/>
+<area shape="rect" id="node17" href="$d3/dc1/classG4VEmModel.html#a130128c3e374c1cc5236a6b8575ce415" title="G4VEmModel::GetName" alt="" coords="1136,349,1321,377"/>
+<area shape="rect" id="node18" href="$d7/d2c/classG4PhysicsVector.html#a2f8f9e7e7d2d6ca8b5f8daae9380afca" title="G4PhysicsVector::GetVector\lLength" alt="" coords="1124,401,1333,445"/>
+<area shape="rect" id="node19" href="$d3/dc1/classG4VEmModel.html#a5e6271212d187dc611754dd5f8056c9f" title="G4VEmModel::HighEnergyActivation\lLimit" alt="" coords="1095,469,1362,513"/>
+<area shape="rect" id="node20" href="$db/d1d/classG4RegionModels.html#a613228ff9832624b3432b6536073dd69" title="G4RegionModels::LowEdgeEnergy" alt="" coords="1103,537,1355,565"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#ad04bed85114aa4585ad1e6b46abbeee6" title="G4VEmModel::LowEnergyActivation\lLimit" alt="" coords="1098,589,1359,633"/>
+<area shape="rect" id="node22" href="$db/d1d/classG4RegionModels.html#ac603834506e46afa8200bc76c09d6cda" title="G4RegionModels::ModelIndex" alt="" coords="1118,657,1339,685"/>
+<area shape="rect" id="node23" href="$db/d1d/classG4RegionModels.html#ad3616fd8e28be88cba5ecddbb4f776fb" title="G4RegionModels::NumberOf\lModels" alt="" coords="1121,709,1336,753"/>
+<area shape="rect" id="node24" href="$db/d1d/classG4RegionModels.html#aca4116713a6092a65973962760545c11" title="G4RegionModels::Region" alt="" coords="1134,777,1323,805"/>
+</map>

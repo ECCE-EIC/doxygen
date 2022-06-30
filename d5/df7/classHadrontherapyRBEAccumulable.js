@@ -1,0 +1,25 @@
+var classHadrontherapyRBEAccumulable =
+[
+    [ "array_type", "d5/df7/classHadrontherapyRBEAccumulable.html#a9a07261debbe0747349fd8f97fcfa951", null ],
+    [ "HadrontherapyRBEAccumulable", "d5/df7/classHadrontherapyRBEAccumulable.html#ab1c8ce0aed6bd419a172a45dd92f8249", null ],
+    [ "HadrontherapyRBEAccumulable", "d5/df7/classHadrontherapyRBEAccumulable.html#af8e8b264f715e4d0c0246b05ee8c8f0b", null ],
+    [ "Accumulate", "d5/df7/classHadrontherapyRBEAccumulable.html#a449f9bf713acdf41e7ee1a968dd9f215", null ],
+    [ "GetAlphaNumerator", "d5/df7/classHadrontherapyRBEAccumulable.html#a07fc71abace6021670020dfaacab616f", null ],
+    [ "GetBetaNumerator", "d5/df7/classHadrontherapyRBEAccumulable.html#a63289f2f56a890e48ba174fe638f52ce", null ],
+    [ "GetDenominator", "d5/df7/classHadrontherapyRBEAccumulable.html#afd975515e1291db4409a24f6cf057cad", null ],
+    [ "GetEnergyDeposit", "d5/df7/classHadrontherapyRBEAccumulable.html#ab882ea14f1c051346642c7765b3b3beb", null ],
+    [ "GetIndex", "d5/df7/classHadrontherapyRBEAccumulable.html#a0f6da5376041a28aedf7cb8a6e817f9e", null ],
+    [ "GetVerboseLevel", "d5/df7/classHadrontherapyRBEAccumulable.html#aca6a636f87c102f1a5716224c9c44bd6", null ],
+    [ "Initialize", "d5/df7/classHadrontherapyRBEAccumulable.html#afb402936a9d4a3eac54e1df04660534e", null ],
+    [ "Merge", "d5/df7/classHadrontherapyRBEAccumulable.html#a3496dfa35dd02180b01d86c78defe4dc", null ],
+    [ "Reset", "d5/df7/classHadrontherapyRBEAccumulable.html#a9ab690a9f5d75dfb6fb0fba3af844184", null ],
+    [ "fAlphaNumerator", "d5/df7/classHadrontherapyRBEAccumulable.html#ae80076c229c7296319f49fa52b056035", null ],
+    [ "fBetaNumerator", "d5/df7/classHadrontherapyRBEAccumulable.html#a76037b2c086de2fad19729049f7c2de6", null ],
+    [ "fDenominator", "d5/df7/classHadrontherapyRBEAccumulable.html#a2847804849480b5a730cc36611c5c415", null ],
+    [ "fEnergyDeposit", "d5/df7/classHadrontherapyRBEAccumulable.html#a3be50944df219c5293b0e13f876f7db0", null ],
+    [ "fInitialized", "d5/df7/classHadrontherapyRBEAccumulable.html#acfe25334e29b2843462c705791863e79", null ],
+    [ "fVoxels", "d5/df7/classHadrontherapyRBEAccumulable.html#a663ed4bc0468cb5658a56fd4c3e1e847", null ],
+    [ "fVoxelsAlongX", "d5/df7/classHadrontherapyRBEAccumulable.html#a2db10e052faedde37e64ef96c2a8d952", null ],
+    [ "fVoxelsAlongY", "d5/df7/classHadrontherapyRBEAccumulable.html#a521b6c8dc81229484d13715c0a3ef24b", null ],
+    [ "fVoxelsAlongZ", "d5/df7/classHadrontherapyRBEAccumulable.html#a1adce34ff14ad012557073e2d3a0607a", null ]
+];

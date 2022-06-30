@@ -1,0 +1,26 @@
+var classG4ParticleChangeForGamma =
+[
+    [ "G4ParticleChangeForGamma", "d7/dcb/classG4ParticleChangeForGamma.html#aec6a817f04b1593081e1951693268ab9", null ],
+    [ "~G4ParticleChangeForGamma", "d7/dcb/classG4ParticleChangeForGamma.html#a726357e065d9d85c919e62a745ee9d46", null ],
+    [ "G4ParticleChangeForGamma", "d7/dcb/classG4ParticleChangeForGamma.html#a181c455caca4c0516ece7d71af816609", null ],
+    [ "AddSecondary", "d7/dcb/classG4ParticleChangeForGamma.html#ab7550705cb0248aa873407b8c2468cae", null ],
+    [ "CheckIt", "d7/dcb/classG4ParticleChangeForGamma.html#ab2d12522be2fc710def16f2c6b40aefb", null ],
+    [ "DumpInfo", "d7/dcb/classG4ParticleChangeForGamma.html#a77950655e672c4e3f4afe18a024e88dd", null ],
+    [ "GetCurrentTrack", "d7/dcb/classG4ParticleChangeForGamma.html#a017373ee7ed38d1835949ef7c31a158a", null ],
+    [ "GetProposedKineticEnergy", "d7/dcb/classG4ParticleChangeForGamma.html#a8363166d9daff8c107f33409427ce1e5", null ],
+    [ "GetProposedMomentumDirection", "d7/dcb/classG4ParticleChangeForGamma.html#a5601a647f24a4bd3427c8ebe5110e85e", null ],
+    [ "GetProposedPolarization", "d7/dcb/classG4ParticleChangeForGamma.html#a10896e4f243aa165c7b1d230c2735e04", null ],
+    [ "InitializeForPostStep", "d7/dcb/classG4ParticleChangeForGamma.html#a0d95ec02f8cc182d7dd18e64b1e687de", null ],
+    [ "operator=", "d7/dcb/classG4ParticleChangeForGamma.html#a9b4fdf72643b9e3a4c6d47ce8683fdf4", null ],
+    [ "ProposeMomentumDirection", "d7/dcb/classG4ParticleChangeForGamma.html#a5494c2e7ae8b22708714102687e46abc", null ],
+    [ "ProposeMomentumDirection", "d7/dcb/classG4ParticleChangeForGamma.html#a6c5021b52cf70b532f02b4a3852a67ee", null ],
+    [ "ProposePolarization", "d7/dcb/classG4ParticleChangeForGamma.html#a135e990d93dfc18793180ee70528e0cc", null ],
+    [ "ProposePolarization", "d7/dcb/classG4ParticleChangeForGamma.html#ac2655902f81627a29ae5c444ad8e30a4", null ],
+    [ "SetProposedKineticEnergy", "d7/dcb/classG4ParticleChangeForGamma.html#a0cbf2cef9ac0e7572ba2da0f9df7c852", null ],
+    [ "UpdateStepForAtRest", "d7/dcb/classG4ParticleChangeForGamma.html#a72ea4ea5d3483df40aeabd33750c201a", null ],
+    [ "UpdateStepForPostStep", "d7/dcb/classG4ParticleChangeForGamma.html#ac18ec4dba3467bf4266488433d29e35a", null ],
+    [ "currentTrack", "d7/dcb/classG4ParticleChangeForGamma.html#a2df2f33e46eaf7f9d45f7c4ab2440839", null ],
+    [ "proposedKinEnergy", "d7/dcb/classG4ParticleChangeForGamma.html#af6298f49268f45656d871b2018fff06c", null ],
+    [ "proposedMomentumDirection", "d7/dcb/classG4ParticleChangeForGamma.html#a939786220272d533a3a031d70eb98851", null ],
+    [ "proposedPolarization", "d7/dcb/classG4ParticleChangeForGamma.html#aa755232dcb286036acdb04731345cdae", null ]
+];

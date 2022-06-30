@@ -1,0 +1,34 @@
+<map id="G4Voxelizer::GetCandidatesVoxelArray" name="G4Voxelizer::GetCandidatesVoxelArray">
+<area shape="rect" id="node2" href="$da/d11/classG4Voxelizer.html#ac06d22ea7dbd02b86ac4a607a56b65e9" title="G4Voxelizer::BuildEmpty" alt="" coords="283,72,471,100"/>
+<area shape="rect" id="node21" href="$da/d11/classG4Voxelizer.html#af82851e071c5493f1d32623341560279" title="G4Voxelizer::CreateMiniVoxels" alt="" coords="264,124,489,152"/>
+<area shape="rect" id="node23" href="$d9/df1/classG4MultiUnion.html#ab7bb670c2e760d47af6481a7ec8ac6bc" title="G4MultiUnion::DistanceToIn" alt="" coords="273,176,480,204"/>
+<area shape="rect" id="node24" href="$d9/df1/classG4MultiUnion.html#a538ea602f5350e806c6959806d4c04a2" title="G4MultiUnion::DistanceToOut" alt="" coords="267,228,487,256"/>
+<area shape="rect" id="node25" href="$d9/df1/classG4MultiUnion.html#a6b61513eb084e3763042c363a7a4b6df" title="G4MultiUnion::DistanceTo\lOutVoxels" alt="" coords="537,383,732,427"/>
+<area shape="rect" id="node27" href="$da/d11/classG4Voxelizer.html#abae27de9ba4db15254c10288750af237" title="G4Voxelizer::GetCandidates\lVoxel" alt="" coords="271,332,482,376"/>
+<area shape="rect" id="node28" href="$da/d11/classG4Voxelizer.html#ab92d00b4c1e939b8456cfabf9380a8cd" title="G4Voxelizer::GetCandidates\lVoxelArray" alt="" coords="271,400,482,444"/>
+<area shape="rect" id="node29" href="$d9/df1/classG4MultiUnion.html#a9fec17d167a85b2490afd4c9f60e7579" title="G4MultiUnion::InsideWith\lExclusion" alt="" coords="281,468,473,512"/>
+<area shape="rect" id="node33" href="$d9/df1/classG4MultiUnion.html#a1ca004d67179e95a1a5e3c92fb749c6b" title="G4MultiUnion::SurfaceNormal" alt="" coords="266,536,487,564"/>
+<area shape="rect" id="node3" href="$da/d11/classG4Voxelizer.html#ae60d488b2d2f3f72ceba475b2f21ea28" title="G4Voxelizer::Voxelize" alt="" coords="552,72,717,100"/>
+<area shape="rect" id="node4" href="$d9/df1/classG4MultiUnion.html#a78c42178a9ec2fc8e11e8c780e338cab" title="G4MultiUnion::Voxelize" alt="" coords="809,29,986,57"/>
+<area shape="rect" id="node7" href="$da/db4/classG4TessellatedSolid.html#a510e1a78ce50cd3fbb543a001c03a73d" title="G4TessellatedSolid\l::Voxelize" alt="" coords="823,107,971,151"/>
+<area shape="rect" id="node5" href="$d4/db9/classG4GDMLReadSolids.html#a92b3f1eb078098c7137cd9744d1cf34a" title="G4GDMLReadSolids::MultiUnionRead" alt="" coords="1063,15,1332,43"/>
+<area shape="rect" id="node6" href="$d4/db9/classG4GDMLReadSolids.html#aaa40a604da13ce30b7e99c45277e30e7" title="G4GDMLReadSolids::SolidsRead" alt="" coords="1700,5,1937,33"/>
+<area shape="rect" id="node8" href="$da/db4/classG4TessellatedSolid.html#a907a016a90286b62ce1692b5e28db182" title="G4TessellatedSolid\l::SetSolidClosed" alt="" coords="1123,113,1271,157"/>
+<area shape="rect" id="node9" href="$da/db4/classG4TessellatedSolid.html#a25c4056e77b96ba95ce312c73ec9e0ec" title="G4TessellatedSolid\l::CopyObjects" alt="" coords="1442,113,1590,157"/>
+<area shape="rect" id="node13" href="$d6/dd3/classG4GenericTrap.html#a7cc2d83dcbef8644c3321572d2a09844" title="G4GenericTrap::CreateTessellated\lSolid" alt="" coords="1391,185,1641,229"/>
+<area shape="rect" id="node17" href="$da/d21/classG4ExtrudedSolid.html#a7280757103445b37d7f93d2b193a094c" title="G4ExtrudedSolid::MakeFacets" alt="" coords="1405,279,1627,307"/>
+<area shape="rect" id="node20" href="$d4/db9/classG4GDMLReadSolids.html#aba018e0556f24f212485efaa1864d23d" title="G4GDMLReadSolids::TessellatedRead" alt="" coords="1380,60,1652,88"/>
+<area shape="rect" id="node10" href="$da/db4/classG4TessellatedSolid.html#a08a3a0d6f522b046a3fffe5f0e3d1d73" title="G4TessellatedSolid\l::G4TessellatedSolid" alt="" coords="1740,57,1897,101"/>
+<area shape="rect" id="node11" href="$da/db4/classG4TessellatedSolid.html#a417163d25faed45d428645c1665802c7" title="G4TessellatedSolid\l::operator=" alt="" coords="1745,125,1893,169"/>
+<area shape="rect" id="node12" href="$da/d21/classG4ExtrudedSolid.html#a29ff377f9cf5e4492b86457c995d35a7" title="G4ExtrudedSolid::operator=" alt="" coords="1985,133,2197,161"/>
+<area shape="rect" id="node14" href="$d6/dd3/classG4GenericTrap.html#ae3000a4617d4e18a9a50e633e68d3e85" title="G4GenericTrap::G4GenericTrap" alt="" coords="1703,193,1935,221"/>
+<area shape="rect" id="node16" href="$d6/dd3/classG4GenericTrap.html#a1d1121456fa65c4d0011ecffb981d0e0" title="G4GenericTrap::operator=" alt="" coords="1719,245,1918,273"/>
+<area shape="rect" id="node15" href="$d6/dd3/classG4GenericTrap.html#a6f2362fc442ed8076aa64d7b210a5402" title="G4GenericTrap::Clone" alt="" coords="2007,193,2176,221"/>
+<area shape="rect" id="node18" href="$da/d21/classG4ExtrudedSolid.html#ad1a1805311f8ae1b91e9085e92906b9e" title="G4ExtrudedSolid::G4Extruded\lSolid" alt="" coords="1707,297,1931,341"/>
+<area shape="rect" id="node19" href="$da/d21/classG4ExtrudedSolid.html#a2693c22a4c1a0d2a6ee9d2576279f23b" title="G4ExtrudedSolid::Clone" alt="" coords="2000,305,2183,333"/>
+<area shape="rect" id="node22" href="$da/d11/classG4Voxelizer.html#afda8e51dec76c3b7576f7e733451fdbe" title="G4Voxelizer::Voxelize" alt="" coords="552,124,717,152"/>
+<area shape="rect" id="node26" href="$d9/df1/classG4MultiUnion.html#a3bdb04181f4a46f6c37ac58fc1e0248b" title="G4MultiUnion::DistanceToOut" alt="" coords="787,391,1007,419"/>
+<area shape="rect" id="node30" href="$d9/df1/classG4MultiUnion.html#a70575f56c8f8f1905fa59648f9223696" title="G4MultiUnion::Inside" alt="" coords="553,476,716,504"/>
+<area shape="rect" id="node31" href="$d9/df1/classG4MultiUnion.html#a45616ac4630ac9867245aa23b3806cd6" title="G4MultiUnion::GetCubicVolume" alt="" coords="780,459,1015,487"/>
+<area shape="rect" id="node32" href="$d9/df1/classG4MultiUnion.html#aa7a89c79227c77af08e3e07ee047c859" title="G4MultiUnion::GetPointOn\lSurface" alt="" coords="798,511,997,555"/>
+</map>

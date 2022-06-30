@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/include/G4INCLNucleus.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/inclxx/incl_physics/include/G4INCLNucleus.hh">
+<area shape="rect" id="node2" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2105,981,2196,1009"/>
+<area shape="rect" id="node20" href="$d2/d20/G4INCLParticle_8hh.html" title="G4INCLParticle.hh" alt="" coords="1284,449,1425,477"/>
+<area shape="rect" id="node23" href="$d6/d58/G4INCLParticleTable_8hh.html" title="G4INCLParticleTable.hh" alt="" coords="2746,525,2923,553"/>
+<area shape="rect" id="node29" href="$d6/d89/G4INCLGlobals_8hh.html" title="G4INCLGlobals.hh" alt="" coords="2654,829,2797,857"/>
+<area shape="rect" id="node30" href="$d6/d6d/G4INCLConfig_8hh.html" title="G4INCLConfig.hh" alt="" coords="1597,753,1733,781"/>
+<area shape="rect" id="node31" href="$d3/d45/G4INCLConfigEnums_8hh.html" title="G4INCLConfigEnums.hh" alt="" coords="1816,829,1997,857"/>
+<area shape="rect" id="node39" href="$df/d60/G4INCLEventInfo_8hh.html" title="Simple container for output of event results." alt="" coords="2073,829,2229,857"/>
+<area shape="rect" id="node40" href="$df/d62/G4INCLCluster_8hh.html" title="G4INCLCluster.hh" alt="" coords="3928,373,4067,401"/>
+<area shape="rect" id="node43" href="$d6/d0d/G4INCLFinalState_8hh.html" title="G4INCLFinalState.hh" alt="" coords="1158,373,1317,401"/>
+<area shape="rect" id="node44" href="$dd/d5a/G4INCLStore_8hh.html" title="G4INCLStore.hh" alt="" coords="1193,145,1321,173"/>
+<area shape="rect" id="node48" href="$d0/d61/G4INCLProjectileRemnant_8hh.html" title="Class for constructing a projectile&#45;like remnant." alt="" coords="3570,297,3785,325"/>
+<area shape="rect" id="node3" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2009,1209,2090,1237"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2223,1285,2323,1313"/>
+<area shape="rect" id="node10" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="2115,1209,2216,1237"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1622,1057,1733,1085"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="2087,1133,2215,1161"/>
+<area shape="rect" id="node16" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1859,1057,2037,1085"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="2151,1361,2209,1389"/>
+<area shape="rect" id="node21" href="$dc/d41/G4INCLThreeVector_8hh.html" title="G4INCLThreeVector.hh" alt="" coords="819,829,989,857"/>
+<area shape="rect" id="node25" href="$df/d0c/G4INCLParticleType_8hh.html" title="G4INCLParticleType.hh" alt="" coords="2465,905,2637,933"/>
+<area shape="rect" id="node26" href="$d9/d8d/G4INCLParticleSpecies_8hh.html" title="G4INCLParticleSpecies.hh" alt="" coords="1547,829,1741,857"/>
+<area shape="rect" id="node27" href="$d8/d3e/G4INCLLogger_8hh.html" title="G4INCLLogger.hh" alt="" coords="1081,601,1218,629"/>
+<area shape="rect" id="node37" href="$de/dbf/G4INCLUnorderedVector_8hh.html" title="G4INCLUnorderedVector.hh" alt="" coords="1014,829,1218,857"/>
+<area shape="rect" id="node38" href="$da/d04/G4INCLAllocationPool_8hh.html" title="Singleton for recycling allocation of instances of a given class." alt="" coords="1753,525,1940,553"/>
+<area shape="rect" id="node33" href="$d8/d11/G4INCLHFB_8hh.html" title="G4INCLHFB.hh" alt="" coords="2923,829,3042,857"/>
+<area shape="rect" id="node34" href="$d2/daf/G4IonTable_8hh.html" title="G4IonTable.hh" alt="" coords="3523,829,3640,857"/>
+<area shape="rect" id="node35" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="3645,905,3792,933"/>
+<area shape="rect" id="node36" href="$d1/d70/G4INCLNaturalIsotopicDistributions_8hh.html" title="Classes that stores isotopic abundances." alt="" coords="3117,829,3397,857"/>
+<area shape="rect" id="node28" href="$d5/dcb/G4INCLRandom_8hh.html" title="G4INCLRandom.hh" alt="" coords="2015,677,2163,705"/>
+<area shape="rect" id="node32" href="$dc/de7/G4INCLRandomSeedVector_8hh.html" title="G4INCLRandomSeedVector.hh" alt="" coords="2253,829,2477,857"/>
+<area shape="rect" id="node41" href="$de/da2/G4INCLNuclearDensityFactory_8hh.html" title="G4INCLNuclearDensityFactory.hh" alt="" coords="3765,449,4008,477"/>
+<area shape="rect" id="node42" href="$d5/df4/G4INCLParticleSampler_8hh.html" title="Class for sampling particles in a nucleus." alt="" coords="3918,525,4114,553"/>
+<area shape="rect" id="node46" href="$d4/dc2/G4INCLIAvatar_8hh.html" title="G4INCLIAvatar.hh" alt="" coords="1119,297,1257,325"/>
+<area shape="rect" id="node47" href="$d7/d41/G4INCLBook_8hh.html" title="G4INCLBook.hh" alt="" coords="1079,221,1204,249"/>
+</map>

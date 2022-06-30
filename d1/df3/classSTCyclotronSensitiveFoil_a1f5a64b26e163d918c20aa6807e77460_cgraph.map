@@ -1,0 +1,23 @@
+<map id="STCyclotronSensitiveFoil::ProcessHits" name="STCyclotronSensitiveFoil::ProcessHits">
+<area shape="rect" id="node2" href="$d2/db2/classSTCyclotronRun.html#a808c76f2cc072942d2e63af85488f5d5" title="STCyclotronRun::EnergyDepositionFoil" alt="" coords="240,5,519,33"/>
+<area shape="rect" id="node3" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="293,57,466,85"/>
+<area shape="rect" id="node4" href="$de/ddf/classSTCyclotronDetectorConstruction.html#a513ba749091e8e39e24df65bc456cd8a" title="STCyclotronDetectorConstruction\l::GetFoilThickness" alt="" coords="257,109,502,153"/>
+<area shape="rect" id="node5" href="$de/ddf/classSTCyclotronDetectorConstruction.html#afec466f1d25124c1d16b6b8d13646686" title="STCyclotronDetectorConstruction\l::GetFoilVolume" alt="" coords="257,177,502,221"/>
+<area shape="rect" id="node6" href="$df/d47/classG4StepPoint.html#a7463d186dd17798616e411b770040ead" title="G4StepPoint::GetKineticEnergy" alt="" coords="263,245,495,273"/>
+<area shape="rect" id="node7" href="$df/d47/classG4StepPoint.html#a6bb1e7841c0b9ae2ea16a78fac7d77ad" title="G4StepPoint::GetMomentum\lDirection" alt="" coords="272,297,487,341"/>
+<area shape="rect" id="node8" href="$d4/daa/classG4RunManager.html#a256b1270d7d7e2489e05df9393257dae" title="G4RunManager::GetNonConst\lCurrentRun" alt="" coords="267,365,491,409"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="302,433,457,477"/>
+<area shape="rect" id="node10" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="284,501,475,529"/>
+<area shape="rect" id="node11" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="281,553,478,581"/>
+<area shape="rect" id="node12" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="284,605,475,633"/>
+<area shape="rect" id="node13" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="257,657,501,685"/>
+<area shape="rect" id="node14" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="261,709,497,737"/>
+<area shape="rect" id="node15" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="309,761,449,789"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="300,813,459,841"/>
+<area shape="rect" id="node17" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3613549b742e2eb4a24fe65491e25cca" title="CLHEP::Hep3Vector::getX" alt="" coords="283,865,476,893"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a8ffa37518294768554dfc7c44b57ee57" title="CLHEP::Hep3Vector::getY" alt="" coords="283,917,475,945"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac078905f29dfb5db508223cfd6a5c68a" title="CLHEP::Hep3Vector::getZ" alt="" coords="283,969,476,997"/>
+<area shape="rect" id="node20" href="$d9/dc0/classG4ToolsAnalysisManager.html#a629081b912115346cca665f41e274c74" title="G4ToolsAnalysisManager\l::Instance" alt="" coords="284,1021,475,1065"/>
+<area shape="rect" id="node21" href="$d2/db2/classSTCyclotronRun.html#a60a26b098565a288200e531b842be249" title="STCyclotronRun::SetFoilThickness" alt="" coords="255,1089,504,1117"/>
+<area shape="rect" id="node22" href="$d2/db2/classSTCyclotronRun.html#abeea6c93161b6a80e7a758d914f9c803" title="STCyclotronRun::SetFoilVolume" alt="" coords="263,1141,495,1169"/>
+</map>

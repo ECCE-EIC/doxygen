@@ -1,0 +1,26 @@
+var classRE05StackingAction =
+[
+    [ "RE05StackingAction", "d0/d0f/classRE05StackingAction.html#a956e5bb5a1e4d1c8b1d1689f60cc6837", null ],
+    [ "~RE05StackingAction", "d0/d0f/classRE05StackingAction.html#af3c0b9ea0ecf5e1916f4bbc83e38d756", null ],
+    [ "ClassifyNewTrack", "d0/d0f/classRE05StackingAction.html#aae702388fc21f61141de9f4f94e0e96b", null ],
+    [ "GetCollection", "d0/d0f/classRE05StackingAction.html#a383c7ea197e029b36b39b03f4429f371", null ],
+    [ "GetNIsolation", "d0/d0f/classRE05StackingAction.html#ab79298eb04daf27df1377e82083fe6de", null ],
+    [ "GetNRequestIsoMuon", "d0/d0f/classRE05StackingAction.html#a46006267c9088ed6474ed6077d702006", null ],
+    [ "GetNRequestMuon", "d0/d0f/classRE05StackingAction.html#a31296208f84cda431d3aa936fd63747c", null ],
+    [ "GetRoIAngle", "d0/d0f/classRE05StackingAction.html#a365cb1a5b842ed7aacb83be59fada68b", null ],
+    [ "InsideRoI", "d0/d0f/classRE05StackingAction.html#a31549c7420df8cba14584c217fb0e5ab", null ],
+    [ "NewStage", "d0/d0f/classRE05StackingAction.html#a225e6d9700d3e87651e3d2ec70c6b25a", null ],
+    [ "PrepareNewEvent", "d0/d0f/classRE05StackingAction.html#a85d39895fb6ae635cf2177cc1b5326af", null ],
+    [ "SetNIsolation", "d0/d0f/classRE05StackingAction.html#a4ada94da67792147c8634b1928072bb0", null ],
+    [ "SetNRequestIsoMuon", "d0/d0f/classRE05StackingAction.html#acdc1d26fcf3ea88bf915e74b961cdb87", null ],
+    [ "SetNRequestMuon", "d0/d0f/classRE05StackingAction.html#a1c6f16be4f8078f92a5547a2cdc848b5", null ],
+    [ "SetRoIAngle", "d0/d0f/classRE05StackingAction.html#abbc134d0ef0dde7ef2e354505e35fe83", null ],
+    [ "fAngRoI", "d0/d0f/classRE05StackingAction.html#a9911914fdf5426c2c1a9d038347d18b2", null ],
+    [ "fMessenger", "d0/d0f/classRE05StackingAction.html#af4050f47997377466ecf579a6c8d76ec", null ],
+    [ "fMuonHits", "d0/d0f/classRE05StackingAction.html#a354a2a869028a1b2148064cb5097a36c", null ],
+    [ "fReqIso", "d0/d0f/classRE05StackingAction.html#ab4077c4b5116be56da7689116168c28f", null ],
+    [ "fReqIsoMuon", "d0/d0f/classRE05StackingAction.html#a6bb2fbb696aa727cfa37ac04b6e416d8", null ],
+    [ "fReqMuon", "d0/d0f/classRE05StackingAction.html#a4626b3ebf09a7db4cfc4e95d81087f96", null ],
+    [ "fStage", "d0/d0f/classRE05StackingAction.html#a98311f29924a4ef9a73883e56c5ecc49", null ],
+    [ "fTrkHits", "d0/d0f/classRE05StackingAction.html#a60b6ec724a65551845431e9a9eaab4d5", null ]
+];

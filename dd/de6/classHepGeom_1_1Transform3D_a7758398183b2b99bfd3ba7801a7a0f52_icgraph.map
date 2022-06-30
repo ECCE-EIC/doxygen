@@ -1,0 +1,51 @@
+<map id="HepGeom::Transform3D::xy" name="HepGeom::Transform3D::xy">
+<area shape="rect" id="node2" href="$dc/d31/classG4BoundingEnvelope.html#ab9edf66cecab598fa62dbf1afa672138" title="G4BoundingEnvelope\l::CalculateExtent" alt="" coords="545,769,713,813"/>
+<area shape="rect" id="node29" href="$dc/d31/classG4BoundingEnvelope.html#a820c39d51db067f2b72615c16d9b4a44" title="G4BoundingEnvelope\l::FindScaleFactor" alt="" coords="285,769,453,813"/>
+<area shape="rect" id="node31" href="$d3/d4a/classG4GDMLWriteSolids.html#a4c8fb61e04b60c7f22c0ca6ebd4850df" title="G4GDMLWriteSolids::\lMultiUnionWrite" alt="" coords="287,1433,450,1477"/>
+<area shape="rect" id="node33" href="$d0/d0e/namespaceHepGeom.html#afad442609b969f866216a950b7e5d06b" title="HepGeom::operator*" alt="" coords="287,1549,450,1577"/>
+<area shape="rect" id="node34" href="$d7/d21/G4PhysicalVolumeModel_8cc.html#aa2d944cf765361b6bdb4c67cae5d9e27" title="operator\&lt;\&lt;" alt="" coords="318,1601,419,1629"/>
+<area shape="rect" id="node35" href="$d6/dcf/pythia6425mod_8f.html#ae0f16bcefd12eb1fa5d163c95050c8bb" title="pygaga" alt="" coords="333,1653,404,1681"/>
+<area shape="rect" id="node42" href="$d6/dcf/pythia6425mod_8f.html#a3ccdee32be69df9daf5605283165a012" title="pysigh" alt="" coords="336,1705,401,1733"/>
+<area shape="rect" id="node45" href="$d2/da3/classHepGeom_1_1Vector3D_3_01float_01_4.html#ad0a82776406d94cd4bfc0a7c36fd1c45" title="HepGeom::Vector3D\&lt;\l float \&gt;::transform" alt="" coords="283,1757,454,1801"/>
+<area shape="rect" id="node46" href="$dc/d3c/classHepGeom_1_1Normal3D_3_01float_01_4.html#a06a3b7e04c2e708eea328e7067d810fe" title="HepGeom::Normal3D\&lt;\l float \&gt;::transform" alt="" coords="281,1825,457,1869"/>
+<area shape="rect" id="node47" href="$d3/dcd/classHepGeom_1_1Point3D_3_01float_01_4.html#acddc34cf84b68c6a4030e6c74fc619d8" title="HepGeom::Point3D\&lt; float\l \&gt;::transform" alt="" coords="270,1893,467,1937"/>
+<area shape="rect" id="node48" href="$dc/d75/classHepGeom_1_1Vector3D_3_01double_01_4.html#acde6985ab27e6bc4aed4c96531c6855f" title="HepGeom::Vector3D\&lt;\l double \&gt;::transform" alt="" coords="283,1961,454,2005"/>
+<area shape="rect" id="node49" href="$da/d9f/classHepGeom_1_1Normal3D_3_01double_01_4.html#a89d7cbeddfce264b0f388074e1c8ad09" title="HepGeom::Normal3D\&lt;\l double \&gt;::transform" alt="" coords="281,2029,457,2073"/>
+<area shape="rect" id="node50" href="$d5/d0e/classHepGeom_1_1Point3D_3_01double_01_4.html#a6560be637baff6d9b17db73dc17e0156" title="HepGeom::Point3D\&lt; double\l \&gt;::transform" alt="" coords="263,2097,475,2141"/>
+<area shape="rect" id="node3" href="$d0/dc1/classG4ScaledSolid.html#a11ff46862aea3edb67df4ff1f65a3605" title="G4ScaledSolid::Calculate\lExtent" alt="" coords="803,985,994,1029"/>
+<area shape="rect" id="node4" href="$d0/d5a/classG4Box.html#aabbe39d2903da9f1cf94729adc48a505" title="G4Box::CalculateExtent" alt="" coords="807,1053,990,1081"/>
+<area shape="rect" id="node5" href="$d4/d92/classG4VTwistedFaceted.html#a706568c9cdc3b9e3aef09775da1072b9" title="G4VTwistedFaceted::\lCalculateExtent" alt="" coords="819,1105,979,1149"/>
+<area shape="rect" id="node6" href="$d8/d8b/classG4EllipticalTube.html#a7ca96c0f0a0808dd6d27a0bd9f0fd8e8" title="G4EllipticalTube::Calculate\lExtent" alt="" coords="798,537,999,581"/>
+<area shape="rect" id="node7" href="$dd/d9a/classG4Orb.html#ae60953cee782023dbae7f0d9e8c769ff" title="G4Orb::CalculateExtent" alt="" coords="808,605,989,633"/>
+<area shape="rect" id="node8" href="$dc/d33/classG4GenericPolycone.html#ae7853c041ac4ebbaab3d9d5941568c71" title="G4GenericPolycone::\lCalculateExtent" alt="" coords="818,657,979,701"/>
+<area shape="rect" id="node9" href="$d0/d1a/classG4Hype.html#a7c1a479e3ae8ee36502b5e81b184b694" title="G4Hype::CalculateExtent" alt="" coords="803,1173,995,1201"/>
+<area shape="rect" id="node10" href="$d6/d81/classG4Ellipsoid.html#a4847445a0d1a6b18d6ec16bcebfc3624" title="G4Ellipsoid::CalculateExtent" alt="" coords="792,1225,1005,1253"/>
+<area shape="rect" id="node11" href="$d2/d69/classG4Paraboloid.html#a95f030cdcc0a7fde35dc604b5b416626" title="G4Paraboloid::CalculateExtent" alt="" coords="785,1277,1013,1305"/>
+<area shape="rect" id="node12" href="$de/d99/classG4Tet.html#a2d07ef295765bddb93c2c2375263aa22" title="G4Tet::CalculateExtent" alt="" coords="810,725,987,753"/>
+<area shape="rect" id="node13" href="$db/db5/classG4TwistedTubs.html#a6215ca2327b25782db29fdcf63e737e8" title="G4TwistedTubs::Calculate\lExtent" alt="" coords="802,1329,995,1373"/>
+<area shape="rect" id="node14" href="$d9/de5/classG4Polycone.html#aa6f34f5dbdbb3f38737951169a73e4aa" title="G4Polycone::CalculateExtent" alt="" coords="790,777,1007,805"/>
+<area shape="rect" id="node15" href="$d2/d5a/classG4Polyhedra.html#a8f1df9a92df7655f53e6b1e4a2ec18eb" title="G4Polyhedra::CalculateExtent" alt="" coords="787,829,1011,857"/>
+<area shape="rect" id="node16" href="$d7/d40/classG4CutTubs.html#ad8e31258930703dcb23de4def6637be0" title="G4CutTubs::CalculateExtent" alt="" coords="793,881,1004,909"/>
+<area shape="rect" id="node17" href="$d0/d50/classG4Trd.html#aacd59dd41ccf5cd775487572091e8e80" title="G4Trd::CalculateExtent" alt="" coords="810,933,987,961"/>
+<area shape="rect" id="node18" href="$d9/df1/classG4MultiUnion.html#a0925f1545ab4a189290f1335291b4d48" title="G4MultiUnion::CalculateExtent" alt="" coords="784,1397,1013,1425"/>
+<area shape="rect" id="node19" href="$d6/dd3/classG4GenericTrap.html#af09bc154fb8b3e0b5cd55b942ec27dc9" title="G4GenericTrap::Calculate\lExtent" alt="" coords="802,5,995,49"/>
+<area shape="rect" id="node20" href="$df/d2e/classG4EllipticalCone.html#aabcc8982e4e4429ab031e5948fa69313" title="G4EllipticalCone::Calculate\lExtent" alt="" coords="797,73,1001,117"/>
+<area shape="rect" id="node21" href="$d0/d28/classG4Tubs.html#af208d16d2bd636f3dc02d3d28aad8788" title="G4Tubs::CalculateExtent" alt="" coords="805,141,993,169"/>
+<area shape="rect" id="node22" href="$d3/d6a/classG4Para.html#aec87ada71814782281497a29c6ff08c1" title="G4Para::CalculateExtent" alt="" coords="805,193,992,221"/>
+<area shape="rect" id="node23" href="$da/d0a/classG4Torus.html#ae8cc97bb48a0d30390f3975259f3bded" title="G4Torus::CalculateExtent" alt="" coords="802,245,995,273"/>
+<area shape="rect" id="node24" href="$da/d21/classG4ExtrudedSolid.html#a20de5b645568c66b94274e70fd608039" title="G4ExtrudedSolid::Calculate\lExtent" alt="" coords="795,297,1002,341"/>
+<area shape="rect" id="node25" href="$de/d0d/classG4Cons.html#a50f854d3821f5aad7099450b35c45d6a" title="G4Cons::CalculateExtent" alt="" coords="803,365,994,393"/>
+<area shape="rect" id="node26" href="$da/dd6/classG4Sphere.html#ae15bac0a5869549228363885e9d91ade" title="G4Sphere::CalculateExtent" alt="" coords="796,1449,1001,1477"/>
+<area shape="rect" id="node27" href="$da/db4/classG4TessellatedSolid.html#a52506c4b22f03939c2520a88302c60d1" title="G4TessellatedSolid\l::CalculateExtent" alt="" coords="825,417,973,461"/>
+<area shape="rect" id="node28" href="$d7/df4/classG4Trap.html#a5871619ed3ac3d6e9fe6ede6edea8e4b" title="G4Trap::CalculateExtent" alt="" coords="805,485,992,513"/>
+<area shape="rect" id="node30" href="$dc/d31/classG4BoundingEnvelope.html#ace4ace8ea97236d0049ad6dfcccb52b3" title="G4BoundingEnvelope\l::BoundingBoxVsVoxelLimits" alt="" coords="523,508,736,552"/>
+<area shape="rect" id="node32" href="$d3/d4a/classG4GDMLWriteSolids.html#a56cd57edf94eaef073ea210babfdf642" title="G4GDMLWriteSolids::\lAddSolid" alt="" coords="548,1433,711,1477"/>
+<area shape="rect" id="node36" href="$d6/dcf/pythia6425mod_8f.html#ac81fa418f8cd77b0873b2de2a4140933" title="pyevnt" alt="" coords="1184,1809,1253,1837"/>
+<area shape="rect" id="node37" href="$d6/dcf/pythia6425mod_8f.html#a83ae6561ab82fd7af8b1b3e511f477ac" title="pyevnw" alt="" coords="1061,1757,1136,1785"/>
+<area shape="rect" id="node38" href="$d6/dcf/pythia6425mod_8f.html#aac00ac3ccd923c2c3dc37e2b89a9f025" title="pyinit" alt="" coords="869,1756,929,1784"/>
+<area shape="rect" id="node39" href="$d6/dcf/pythia6425mod_8f.html#aa9cb6f1467302508501201a0e38959d1" title="pymaxi" alt="" coords="594,1756,665,1784"/>
+<area shape="rect" id="node40" href="$d6/dcf/pythia6425mod_8f.html#a2d74d5dd64881524212b3720af2696de" title="pyrand" alt="" coords="865,1808,933,1836"/>
+<area shape="rect" id="node41" href="$d6/dcf/pythia6425mod_8f.html#ae7cb37215e5a38b3fb0529c9996646e6" title="pyupev" alt="" coords="1063,1629,1135,1657"/>
+<area shape="rect" id="node43" href="$d6/dcf/pythia6425mod_8f.html#a5c7e2372fde451d6f2253ef044e01364" title="pymign" alt="" coords="593,1912,665,1940"/>
+<area shape="rect" id="node44" href="$d6/dcf/pythia6425mod_8f.html#a4ae1a9148440832c122abdaedf3555a7" title="pymult" alt="" coords="595,1808,664,1836"/>
+</map>

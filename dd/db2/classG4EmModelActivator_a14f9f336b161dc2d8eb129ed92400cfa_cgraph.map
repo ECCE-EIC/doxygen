@@ -1,0 +1,17 @@
+<map id="G4EmModelActivator::AddStandardScattering" name="G4EmModelActivator::AddStandardScattering">
+<area shape="rect" id="node2" href="$dd/db2/classG4EmModelActivator.html#a392fd22befdb99b756234c6ce099eb72" title="G4EmModelActivator\l::FindOrAddProcess" alt="" coords="264,125,428,169"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="269,193,423,237"/>
+<area shape="rect" id="node9" href="$d8/d7e/pmonitor_8h.html#a0ed5f59873a9d7cfded6e67cfdfa7d4e" title="pname" alt="" coords="312,261,380,289"/>
+<area shape="rect" id="node10" href="$d3/dc1/classG4VEmModel.html#a2219fdb60cda20faafd87585596abcfe" title="G4VEmModel::SetActivation\lLowEnergyLimit" alt="" coords="241,313,451,357"/>
+<area shape="rect" id="node11" href="$d9/df6/classG4EmConfigurator.html#a23f9b691bdfd6422fcac7c27cd767ca8" title="G4EmConfigurator::SetExtra\lEmModel" alt="" coords="240,381,452,425"/>
+<area shape="rect" id="node16" href="$d3/dc1/classG4VEmModel.html#aa34ebb9b420b3aa7f106200f408aefa0" title="G4VEmModel::SetLocked" alt="" coords="251,449,441,477"/>
+<area shape="rect" id="node3" href="$d5/d38/classG4ParticleDefinition.html#a521580d7f34f68e8475b519aa8650f9b" title="G4ParticleDefinition\l::GetProcessManager" alt="" coords="547,5,712,49"/>
+<area shape="rect" id="node4" href="$d5/d2e/classG4ProcessManager.html#ac626c1a0a98c410780ea9bf2bde009a4" title="G4ProcessManager::GetProcessList" alt="" coords="500,73,759,101"/>
+<area shape="rect" id="node5" href="$d5/d2e/classG4ProcessManager.html#af3d8f224071c1aa4a3590eaebfd76873" title="G4ProcessManager::GetProcess\lListLength" alt="" coords="512,125,747,169"/>
+<area shape="rect" id="node6" href="$d0/dfb/classG4VEmProcess.html#a65ecb15476092305a4680112085c268b" title="G4VEmProcess::SetEmModel" alt="" coords="521,193,737,221"/>
+<area shape="rect" id="node7" href="$d5/d2e/classG4ProcessManager.html#a1f3bf2141ef9c5a354c8b030bfa864f0" title="G4ProcessManager::AddDiscrete\lProcess" alt="" coords="509,245,750,289"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a130128c3e374c1cc5236a6b8575ce415" title="G4VEmModel::GetName" alt="" coords="537,325,722,353"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="512,377,747,405"/>
+<area shape="rect" id="node14" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="515,429,744,457"/>
+<area shape="rect" id="node15" href="$d3/dc1/classG4VEmModel.html#a9f2862957d25be3f4ddbbc925d8801f7" title="G4VEmModel::SetActivation\lHighEnergyLimit" alt="" coords="524,481,735,525"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="G4VEmProcess::DefineMaterial" name="G4VEmProcess::DefineMaterial">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#aa0d339367d7fcb9a43987f79ef31e88c" title="G4VEmProcess::CrossSection\lPerVolume" alt="" coords="284,239,503,283"/>
+<area shape="rect" id="node9" href="$d0/dfb/classG4VEmProcess.html#a208306f526c21ee6fdfce3be0db5d5da" title="G4VEmProcess::CurrentSetup" alt="" coords="283,487,504,515"/>
+<area shape="rect" id="node25" href="$d0/dfb/classG4VEmProcess.html#a8a2a453f6cff772fe8aeb87c28f10c53" title="G4VEmProcess::PostStepGet\lPhysicalInteractionLength" alt="" coords="286,641,501,685"/>
+<area shape="rect" id="node3" href="$de/dc4/classG4EmCalculator.html#a9970629c1c39eb18671d9c506027a71c" title="G4EmCalculator::GetCross\lSectionPerVolume" alt="" coords="573,85,773,129"/>
+<area shape="rect" id="node4" href="$d7/df6/classRunAction.html#a14b3433a6875194c4adfe1c222884f0d" title="RunAction::BeginOfRunAction" alt="" coords="1165,41,1385,69"/>
+<area shape="rect" id="node5" href="$de/db2/classRun.html#a798b741fa444a02c3bd4517b5dc01f0b" title="Run::EndOfRun" alt="" coords="909,33,1031,61"/>
+<area shape="rect" id="node6" href="$de/dc4/classG4EmCalculator.html#adbf15a638b12e4b8cb8e6e10042cbabb" title="G4EmCalculator::GetCross\lSectionPerVolume" alt="" coords="870,85,1070,129"/>
+<area shape="rect" id="node7" href="$de/dc4/classG4EmCalculator.html#aeb7a0b6d97e815043c1441d41c39d330" title="G4EmCalculator::GetMeanFreePath" alt="" coords="841,153,1099,181"/>
+<area shape="rect" id="node8" href="$de/dc4/classG4EmCalculator.html#af9f6fa046b4f9fa3329d09172d8b48de" title="G4EmCalculator::GetMeanFreePath" alt="" coords="1147,153,1404,181"/>
+<area shape="rect" id="node10" href="$d0/dfb/classG4VEmProcess.html#ac241f578bb49489935aaf802bbcf1d1a" title="G4VEmProcess::GetLambda" alt="" coords="568,349,777,377"/>
+<area shape="rect" id="node17" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="1176,430,1375,474"/>
+<area shape="rect" id="node19" href="$d0/dfb/classG4VEmProcess.html#a1928bbb6627cec047667a167083c65fe" title="G4VEmProcess::MeanFreePath" alt="" coords="560,513,785,541"/>
+<area shape="rect" id="node24" href="$d0/dfb/classG4VEmProcess.html#a095c6869f2de4814a9b7f26ead2cdad0" title="G4VEmProcess::Recalculate\lLambda" alt="" coords="568,565,777,609"/>
+<area shape="rect" id="node11" href="$dd/d59/classG4GammaGeneralProcess.html#a4474a28ad49b0e36cc173c865a26f16c" title="G4GammaGeneralProcess\l::BuildPhysicsTable" alt="" coords="871,205,1069,249"/>
+<area shape="rect" id="node12" href="$dd/d59/classG4GammaGeneralProcess.html#a8834823ed76d655aeeacf09c0a5efa22" title="G4GammaGeneralProcess\l::TotalCrossSectionPerVolume" alt="" coords="859,273,1081,317"/>
+<area shape="rect" id="node14" href="$d0/ddc/classG4AdjointComptonModel.html#a5cd0157806b2cfd4c5baa5f14f721813" title="G4AdjointComptonModel\l::RapidSampleSecondaries" alt="" coords="869,341,1071,385"/>
+<area shape="rect" id="node16" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="861,409,1079,437"/>
+<area shape="rect" id="node13" href="$dd/d59/classG4GammaGeneralProcess.html#a2ce5ec3095872edbbf10e962c79077b6" title="G4GammaGeneralProcess\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="1155,261,1396,321"/>
+<area shape="rect" id="node15" href="$d0/ddc/classG4AdjointComptonModel.html#a1a74ce9cb3675b6fd4c72bbbd0ffd59e" title="G4AdjointComptonModel\l::SampleSecondaries" alt="" coords="1181,345,1370,389"/>
+<area shape="rect" id="node18" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="1452,430,1651,474"/>
+<area shape="rect" id="node20" href="$dd/d59/classG4GammaGeneralProcess.html#a87594197eae32c1ba275567b0916c191" title="G4GammaGeneralProcess\l::GetMeanFreePath" alt="" coords="871,513,1069,557"/>
+<area shape="rect" id="node21" href="$d0/dfb/classG4VEmProcess.html#af0972619b8db91c8700438f0e209cfc6" title="G4VEmProcess::GetMeanFreePath" alt="" coords="845,581,1095,609"/>
+<area shape="rect" id="node22" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a164405d7bf8e415485389529ac333b60" title="G4eplusPolarizedAnnihilation\l::GetMeanFreePath" alt="" coords="1166,538,1385,582"/>
+<area shape="rect" id="node23" href="$d1/d92/classG4PolarizedCompton.html#aacb0c89e2647b632cb6cf9c80531a8d2" title="G4PolarizedCompton\l::GetMeanFreePath" alt="" coords="1194,606,1357,650"/>
+<area shape="rect" id="node26" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a6180087ff93b415df9fa06f82366cf91" title="G4eplusPolarizedAnnihilation\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="552,633,793,693"/>
+<area shape="rect" id="node27" href="$d1/d92/classG4PolarizedCompton.html#a9c0fcbfd9e9e4cdf6f597d25b25eae89" title="G4PolarizedCompton\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="552,717,793,777"/>
+</map>

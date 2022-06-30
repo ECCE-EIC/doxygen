@@ -1,0 +1,25 @@
+<map id="G4PhysChemIO::G4Analysis::CreateSolvatedElectron" name="G4PhysChemIO::G4Analysis::CreateSolvatedElectron">
+<area shape="rect" id="node2" href="$d8/d9b/classG4VAnalysisManager.html#a37f6d468137190916538e7b4e1b2b8e9" title="G4VAnalysisManager\l::AddNtupleRow" alt="" coords="287,5,452,49"/>
+<area shape="rect" id="node3" href="$d8/d9b/classG4VAnalysisManager.html#a4fea5eb9e0e252794fd2d872e79b1012" title="G4VAnalysisManager\l::FillNtupleDColumn" alt="" coords="287,73,452,117"/>
+<area shape="rect" id="node4" href="$d8/d9b/classG4VAnalysisManager.html#a5d12fef2d180855e9115cc70bf95b2a2" title="G4VAnalysisManager\l::FillNtupleIColumn" alt="" coords="287,141,452,185"/>
+<area shape="rect" id="node5" href="$d8/d9b/classG4VAnalysisManager.html#a16a6661f84b3560af2ec7a40ce3097f9" title="G4VAnalysisManager\l::FillNtupleSColumn" alt="" coords="287,209,452,253"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="268,277,471,305"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="289,329,450,357"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#a94a0f60712ca9284908d20670e0d0824" title="G4Track::GetTrackID" alt="" coords="290,381,449,409"/>
+<area shape="rect" id="node9" href="$df/de9/classG4PhysChemIO_1_1G4Analysis.html#a8253fab12d3b991b209c6a22a9514c9f" title="G4PhysChemIO::G4Analysis\l::InitializeFile" alt="" coords="264,433,475,477"/>
+<area shape="rect" id="node22" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="285,501,454,529"/>
+<area shape="rect" id="node23" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="285,553,454,581"/>
+<area shape="rect" id="node24" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="285,605,453,633"/>
+<area shape="rect" id="node10" href="$d8/d9b/classG4VAnalysisManager.html#abfe80514201e8613af8fd7d6dd6a9013" title="G4VAnalysisManager\l::CreateNtuple" alt="" coords="531,365,696,409"/>
+<area shape="rect" id="node14" href="$d8/d9b/classG4VAnalysisManager.html#a36b9a9647127e3025ab2acaced46254f" title="G4VAnalysisManager\l::CreateNtupleIColumn" alt="" coords="526,297,701,341"/>
+<area shape="rect" id="node16" href="$d8/d9b/classG4VAnalysisManager.html#a8a1d7ad86dcb9fec6cb511d6294d5aeb" title="G4VAnalysisManager\l::CreateNtupleSColumn" alt="" coords="524,433,703,477"/>
+<area shape="rect" id="node18" href="$d8/d9b/classG4VAnalysisManager.html#a3a3f226033f099ebd2c633dd5230d37d" title="G4VAnalysisManager\l::CreateNtupleDColumn" alt="" coords="523,501,704,545"/>
+<area shape="rect" id="node20" href="$d8/d9b/classG4VAnalysisManager.html#ab59b94509f09e99b12e510c0e3f1ff9c" title="G4VAnalysisManager\l::FinishNtuple" alt="" coords="531,569,696,613"/>
+<area shape="rect" id="node11" href="$d4/dcd/namespaceG4Analysis.html#aec5eb095e912526541925c83f1efaa72" title="G4Analysis::CheckName" alt="" coords="762,381,949,409"/>
+<area shape="rect" id="node13" href="$d7/db9/classG4VNtupleManager.html#ab86d5ff4054727612b8252b584c8f4bc" title="G4VNtupleManager::Create\lNtuple" alt="" coords="752,313,959,357"/>
+<area shape="rect" id="node12" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1007,381,1113,409"/>
+<area shape="rect" id="node15" href="$d7/db9/classG4VNtupleManager.html#a95ec214454e406a4c21ba77d9a31d7aa" title="G4VNtupleManager::Create\lNtupleIColumn" alt="" coords="752,245,959,289"/>
+<area shape="rect" id="node17" href="$d7/db9/classG4VNtupleManager.html#abd2a0b029cc204ad62f1deceb74fdc77" title="G4VNtupleManager::Create\lNtupleSColumn" alt="" coords="752,433,959,477"/>
+<area shape="rect" id="node19" href="$d7/db9/classG4VNtupleManager.html#a401c0708d1b411924a781d12dfafdfa6" title="G4VNtupleManager::Create\lNtupleDColumn" alt="" coords="752,501,959,545"/>
+<area shape="rect" id="node21" href="$d7/db9/classG4VNtupleManager.html#af0bf63e1239b902a3567df032eb1e56c" title="G4VNtupleManager::Finish\lNtuple" alt="" coords="755,569,955,613"/>
+</map>

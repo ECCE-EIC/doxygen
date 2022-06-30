@@ -1,0 +1,7 @@
+<map id="G4VDNAModel::GetLowELimit" name="G4VDNAModel::GetLowELimit">
+<area shape="rect" id="node2" href="$da/dd5/classG4DNAPTBExcitationModel.html#a8a82b18ca4ac5ee613dc47f405d466e2" title="CrossSectionPerVolume Retrieve the cross section corresponding to the current material, particle and energy." alt="" coords="275,5,477,49"/>
+<area shape="rect" id="node3" href="$df/d41/classG4DNAPTBElasticModel.html#a241c892823c1cb9c03bc2e9118e46ec4" title="CrossSectionPerVolume This method is mandatory for any model class. It finds and return the cross sec..." alt="" coords="281,73,471,117"/>
+<area shape="rect" id="node4" href="$dc/d67/classG4DNAPTBIonisationModel.html#a42644ef22d0c90fef734755962da0e3d" title="CrossSectionPerVolume Mandatory for every model the CrossSectionPerVolume method is in charge of retu..." alt="" coords="275,141,477,185"/>
+<area shape="rect" id="node5" href="$df/d41/classG4DNAPTBElasticModel.html#a483c862cf37b262fe6134ac251d21796" title="SampleSecondaries Method called after CrossSectionPerVolume if the process is the one which is select..." alt="" coords="286,209,466,253"/>
+<area shape="rect" id="node6" href="$dc/d67/classG4DNAPTBIonisationModel.html#a8a595f102d28b8463fac0f38a1a44cd2" title="SampleSecondaries If the model is selected for the ModelInterface then SampleSecondaries will be call..." alt="" coords="275,277,477,321"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="G4EmParameters::SetEmSaturation" name="G4EmParameters::SetEmSaturation">
+<area shape="rect" id="node2" href="$dc/d54/classG4EmParameters.html#a82d320dbaa2dbf4015c7d2d986ec4dab" title="G4EmParameters::SetBirks\lActive" alt="" coords="315,117,519,161"/>
+<area shape="rect" id="node3" href="$d5/d9b/classG4EmSaturation.html#ab5d5d147c49daadc0b33633922157078" title="G4EmSaturation::Initialise\lG4Saturation" alt="" coords="567,117,765,161"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#a367ef71701dd787b47c15c2a0c3167d7" title="G4Material::GetNumberOfMaterials" alt="" coords="813,5,1073,33"/>
+<area shape="rect" id="node5" href="$d5/d9b/classG4EmSaturation.html#a56e9d5c90cbdf60a8a85551007b4f5f3" title="G4EmSaturation::Initialise\lG4materials" alt="" coords="844,57,1043,101"/>
+<area shape="rect" id="node6" href="$d5/d9b/classG4EmSaturation.html#af714182922b2393cc2a132b37a0f1b38" title="G4EmSaturation::Initialise\lBirksCoefficient" alt="" coords="844,499,1043,543"/>
+<area shape="rect" id="node29" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="1143,81,1361,109"/>
+<area shape="rect" id="node30" href="$d5/d9b/classG4EmSaturation.html#a82aba7c47fe3ed1c8c0155b80d4417da" title="G4EmSaturation::DumpBirks\lCoefficients" alt="" coords="835,177,1051,221"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1148,649,1356,693"/>
+<area shape="rect" id="node14" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1146,717,1358,745"/>
+<area shape="rect" id="node16" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1783,769,1890,797"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="1155,185,1349,213"/>
+<area shape="rect" id="node19" href="$d6/d69/classG4IonisParamMat.html#ad8ecbf2b0c1db6da201d9a67beb73bc3" title="G4IonisParamMat::GetBirks\lConstant" alt="" coords="1149,237,1355,281"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1168,305,1336,333"/>
+<area shape="rect" id="node21" href="$d6/d69/classG4IonisParamMat.html#ad37f7466b49288b7a46b210fe5fa6c92" title="G4IonisParamMat::SetBirks\lConstant" alt="" coords="1150,848,1354,892"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="1138,916,1366,944"/>
+<area shape="rect" id="node23" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="1137,357,1367,401"/>
+<area shape="rect" id="node24" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1121,425,1383,453"/>
+<area shape="rect" id="node25" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="1183,477,1321,505"/>
+<area shape="rect" id="node26" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="1149,529,1355,573"/>
+<area shape="rect" id="node28" href="$d5/de4/classG4Material.html#aadd1e3a943e48bc048e40dd2ea08b7e5" title="G4Material::GetIndex" alt="" coords="1169,597,1335,625"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1452,572,1653,616"/>
+<area shape="rect" id="node9" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1749,564,1925,608"/>
+<area shape="rect" id="node10" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1749,632,1925,676"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1745,700,1928,728"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1759,444,1914,488"/>
+<area shape="rect" id="node13" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1723,512,1951,540"/>
+<area shape="rect" id="node15" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1431,744,1675,772"/>
+<area shape="rect" id="node17" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1441,640,1665,668"/>
+<area shape="rect" id="node27" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="1467,504,1638,548"/>
+<area shape="rect" id="node31" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="1162,133,1342,161"/>
+</map>

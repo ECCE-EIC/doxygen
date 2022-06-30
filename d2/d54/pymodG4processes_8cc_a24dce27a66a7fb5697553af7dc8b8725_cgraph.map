@@ -1,0 +1,31 @@
+<map id="export_G4VCrossSectionHandler" name="export_G4VCrossSectionHandler">
+<area shape="rect" id="node2" href="$d6/d94/classG4VCrossSectionHandler.html#a23a4d6a135207ce15adbb0e41081442f" title="G4VCrossSectionHandler\l::Clear" alt="" coords="295,18,485,62"/>
+<area shape="rect" id="node13" href="$d6/d94/classG4VCrossSectionHandler.html#ad7bdbcd59522136db0c0050a493b087e" title="G4VCrossSectionHandler\l::Initialise" alt="" coords="295,745,485,789"/>
+<area shape="rect" id="node15" href="$d6/d94/classG4VCrossSectionHandler.html#a6ff4b85d97cc8732a2ab7a6cab5dbc0f" title="G4VCrossSectionHandler\l::LoadData" alt="" coords="295,498,485,542"/>
+<area shape="rect" id="node17" href="$d6/d94/classG4VCrossSectionHandler.html#a243f8f5862daee76225d2cc3be806b45" title="G4VCrossSectionHandler\l::LoadShellData" alt="" coords="295,651,485,695"/>
+<area shape="rect" id="node19" href="$d6/d94/classG4VCrossSectionHandler.html#a30e53e8f27444ecfa5d36758fa250e95" title="G4VCrossSectionHandler\l::PrintData" alt="" coords="295,86,485,130"/>
+<area shape="rect" id="node21" href="$d6/d94/classG4VCrossSectionHandler.html#ac558af1764e2c5edcf33eea5766037f1" title="G4VCrossSectionHandler\l::SelectRandomElement" alt="" coords="553,583,743,627"/>
+<area shape="rect" id="node27" href="$d6/d94/classG4VCrossSectionHandler.html#ab3f81653b74e1af531b92205494fbb8b" title="G4VCrossSectionHandler\l::SelectRandomShell" alt="" coords="295,201,485,245"/>
+<area shape="rect" id="node29" href="$d6/d94/classG4VCrossSectionHandler.html#a29604ab5c93fe34952e39ffe1eefd7e0" title="G4VCrossSectionHandler\l::ValueForMaterial" alt="" coords="295,430,485,474"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="919,41,964,69"/>
+<area shape="rect" id="node4" href="$d6/d94/classG4VCrossSectionHandler.html#a27a7eb09d2d6599d58398c4c19a1c28f" title="G4VCrossSectionHandler\l::ActiveElements" alt="" coords="553,345,743,389"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#abfa83cce2e474310e98da5ac80d37bb4" title="G4Material::GetMaterialTable" alt="" coords="832,167,1051,195"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="888,115,995,143"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a367ef71701dd787b47c15c2a0c3167d7" title="G4Material::GetNumberOfMaterials" alt="" coords="811,219,1071,247"/>
+<area shape="rect" id="node8" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="903,427,980,455"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="827,479,1055,507"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="811,531,1072,559"/>
+<area shape="rect" id="node11" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="872,323,1011,351"/>
+<area shape="rect" id="node12" href="$de/d4e/classG4DataVector.html#af21c3a04df8fe64b502f1d48d8b47866" title="G4DataVector::contains" alt="" coords="851,375,1032,403"/>
+<area shape="rect" id="node14" href="$d6/d94/classG4VCrossSectionHandler.html#aff63b7db3b0c2dd9687d05a8dc58801d" title="G4VCrossSectionHandler\l::CreateInterpolation" alt="" coords="553,771,743,815"/>
+<area shape="rect" id="node16" href="$df/d2d/classG4VDataSetAlgorithm.html#a252f4a900c59db59f5381482c09180e9" title="G4VDataSetAlgorithm\l::Clone" alt="" coords="563,651,733,695"/>
+<area shape="rect" id="node18" href="$d0/d71/classG4VEMDataSet.html#adbd04f68a1c45bae3b38b4b18cb19ce9" title="G4VEMDataSet::LoadData" alt="" coords="550,719,746,747"/>
+<area shape="rect" id="node20" href="$d0/d71/classG4VEMDataSet.html#afd1d8155652cb46265aeb7e9fa81fee3" title="G4VEMDataSet::PrintData" alt="" coords="551,70,745,98"/>
+<area shape="rect" id="node22" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="855,583,1027,627"/>
+<area shape="rect" id="node23" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="855,651,1027,695"/>
+<area shape="rect" id="node24" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="864,719,1019,763"/>
+<area shape="rect" id="node25" href="$d0/d71/classG4VEMDataSet.html#a608f0e9c09fb7cce7a2346708d65ea81" title="G4VEMDataSet::GetComponent" alt="" coords="823,787,1059,815"/>
+<area shape="rect" id="node26" href="$d0/d71/classG4VEMDataSet.html#ac4ac23e990269222e7b926e799009638" title="G4VEMDataSet::FindValue" alt="" coords="842,271,1041,299"/>
+<area shape="rect" id="node28" href="$d6/d94/classG4VCrossSectionHandler.html#abda766fb8267044bc4422585eab34f50" title="G4VCrossSectionHandler\l::FindValue" alt="" coords="553,225,743,269"/>
+<area shape="rect" id="node30" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="533,515,763,559"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="G4DataVector::contains" name="G4DataVector::contains">
+<area shape="rect" id="node2" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a7801040cf82b35bb03ec73f96a4153d5" title="G4RDVCrossSectionHandler\l::ActiveElements" alt="" coords="260,176,471,220"/>
+<area shape="rect" id="node10" href="$d6/d94/classG4VCrossSectionHandler.html#a27a7eb09d2d6599d58398c4c19a1c28f" title="G4VCrossSectionHandler\l::ActiveElements" alt="" coords="270,397,461,441"/>
+<area shape="rect" id="node19" href="$d1/d57/classG4PixeCrossSectionHandler.html#a81c161b55b2aad273b4247ffe53abeb1" title="G4PixeCrossSectionHandler\l::ActiveElements" alt="" coords="261,505,470,549"/>
+<area shape="rect" id="node22" href="$dc/d63/classG4RDAugerData.html#a352269bb1bb7b87577e1e473715df50c" title="G4RDAugerData::BuildAuger\lTransitionTable" alt="" coords="257,573,473,617"/>
+<area shape="rect" id="node24" href="$d2/d6b/classG4AugerData.html#a05bd75a4627534bba647be9ceb55e084" title="G4AugerData::BuildAugerTransition\lTable" alt="" coords="235,641,496,685"/>
+<area shape="rect" id="node26" href="$df/d4b/classG4eIonisationParameters.html#ae4c0541225703972ea4cb6ff632a27d1" title="G4eIonisationParameters\l::LoadData" alt="" coords="269,709,461,753"/>
+<area shape="rect" id="node28" href="$df/db5/classG4RDBremsstrahlungParameters.html#a24f8c89b04be9ea561b49bd82b70a9d0" title="G4RDBremsstrahlungParameters\l::LoadData" alt="" coords="243,777,487,821"/>
+<area shape="rect" id="node30" href="$d7/d02/classG4RDeIonisationParameters.html#ab1cf3ff8bca1d77c89b5a0af6ededa56" title="G4RDeIonisationParameters\l::LoadData" alt="" coords="260,845,471,889"/>
+<area shape="rect" id="node32" href="$d8/d1a/classG4BremsstrahlungParameters.html#a6f72cbd1b1e36b3dc9defff4a6ff8aef" title="G4BremsstrahlungParameters\l::LoadData" alt="" coords="253,913,478,957"/>
+<area shape="rect" id="node3" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a7a32655b8081d3915dcebbd37601450e" title="G4RDVCrossSectionHandler\l::G4RDVCrossSectionHandler" alt="" coords="561,108,780,152"/>
+<area shape="rect" id="node4" href="$dc/d2b/classG4RDVCrossSectionHandler.html#a69a3064bc1e9ee96066abbda136c5b00" title="G4RDVCrossSectionHandler\l::Clear" alt="" coords="565,176,776,220"/>
+<area shape="rect" id="node5" href="$da/d28/classG4LowEnergyCompton.html#a7f13cc7dfe83bb2ad3c1f84139da205f" title="G4LowEnergyCompton\l::BuildPhysicsTable" alt="" coords="879,5,1054,49"/>
+<area shape="rect" id="node6" href="$d8/d3d/classG4LowEnergyGammaConversion.html#a47b6915899ccba20adcefdf4d49467f2" title="G4LowEnergyGammaConversion\l::BuildPhysicsTable" alt="" coords="845,73,1088,117"/>
+<area shape="rect" id="node7" href="$dc/d0d/classG4LowEnergyPhotoElectric.html#a38748b0ac78de699083054ee517c4a09" title="G4LowEnergyPhotoElectric\l::BuildPhysicsTable" alt="" coords="865,141,1068,185"/>
+<area shape="rect" id="node8" href="$dc/d65/classG4LowEnergyPolarizedCompton.html#a56e7e236580af515b33d5f484b7c4d54" title="G4LowEnergyPolarizedCompton\l::BuildPhysicsTable" alt="" coords="849,209,1085,253"/>
+<area shape="rect" id="node9" href="$dd/d94/classG4LowEnergyRayleigh.html#a8aa245931d79c7de6e1d9da636dc4aad" title="G4LowEnergyRayleigh\l::BuildPhysicsTable" alt="" coords="881,277,1053,321"/>
+<area shape="rect" id="node11" href="$d6/d94/classG4VCrossSectionHandler.html#aa51754bc77340ce6b791b2dd5424ee3c" title="G4VCrossSectionHandler\l::G4VCrossSectionHandler" alt="" coords="571,329,771,373"/>
+<area shape="rect" id="node12" href="$d6/d94/classG4VCrossSectionHandler.html#a23a4d6a135207ce15adbb0e41081442f" title="G4VCrossSectionHandler\l::Clear" alt="" coords="575,397,766,441"/>
+<area shape="rect" id="node13" href="$d2/d54/pymodG4processes_8cc.html#a24dce27a66a7fb5697553af7dc8b8725" title="export_G4VCrossSectionHandler" alt="" coords="846,345,1087,373"/>
+<area shape="rect" id="node15" href="$d3/d97/classG4LivermoreComptonModifiedModel.html#a9ab1e7e95060bd000aae087c5f279697" title="G4LivermoreComptonModified\lModel::Initialise" alt="" coords="853,397,1080,441"/>
+<area shape="rect" id="node16" href="$d1/d9b/classG4LivermoreIonisationCrossSection.html#a7300bf8a4c82b6a96f5646651f6f0546" title="G4LivermoreIonisationCross\lSection::Initialise" alt="" coords="861,465,1072,509"/>
+<area shape="rect" id="node18" href="$dc/d61/classG4LivermoreIonisationModel.html#a6821d6c45da85d6322ef0e8ab7d02e26" title="G4LivermoreIonisationModel\l::Initialise" alt="" coords="859,533,1074,577"/>
+<area shape="rect" id="node14" href="$d2/d54/pymodG4processes_8cc.html#a3ce3fc869ed5449cae86f7210253bf7e" title="BOOST_PYTHON_MODULE" alt="" coords="1155,345,1350,373"/>
+<area shape="rect" id="node17" href="$d1/d9b/classG4LivermoreIonisationCrossSection.html#ab986d90b87a530fa6d27cfc8563fda86" title="G4LivermoreIonisationCross\lSection::G4LivermoreIonisation\lCrossSection" alt="" coords="1136,457,1369,517"/>
+<area shape="rect" id="node20" href="$d1/d57/classG4PixeCrossSectionHandler.html#ad2b026294e25056648d43c4173c64e00" title="G4PixeCrossSectionHandler\l::G4PixeCrossSectionHandler" alt="" coords="561,465,780,509"/>
+<area shape="rect" id="node21" href="$d1/d57/classG4PixeCrossSectionHandler.html#aa3e7d98d55b8832010f80f2f57a0a9e6" title="G4PixeCrossSectionHandler\l::Clear" alt="" coords="566,533,775,577"/>
+<area shape="rect" id="node23" href="$dc/d63/classG4RDAugerData.html#ab1a7a1ee4343f39762efcc2cc99bd09d" title="G4RDAugerData::G4RDAugerData" alt="" coords="545,601,796,629"/>
+<area shape="rect" id="node25" href="$d2/d6b/classG4AugerData.html#a66ad530321f79a4382a6251348c57870" title="G4AugerData::G4AugerData" alt="" coords="565,653,777,681"/>
+<area shape="rect" id="node27" href="$df/d4b/classG4eIonisationParameters.html#a713dc2e109f0ebc9dd7ec6728ff9f5cc" title="G4eIonisationParameters\l::G4eIonisationParameters" alt="" coords="570,709,771,753"/>
+<area shape="rect" id="node29" href="$df/db5/classG4RDBremsstrahlungParameters.html#a64489cac391b4fa2d0efaf4ccace269a" title="G4RDBremsstrahlungParameters\l::G4RDBremsstrahlungParameters" alt="" coords="544,777,797,821"/>
+<area shape="rect" id="node31" href="$d7/d02/classG4RDeIonisationParameters.html#aa95c0209a0323c619dd08edf2085c64a" title="G4RDeIonisationParameters\l::G4RDeIonisationParameters" alt="" coords="561,845,781,889"/>
+<area shape="rect" id="node33" href="$d8/d1a/classG4BremsstrahlungParameters.html#a7b171f1e14951a550432b7209a7fa8a0" title="G4BremsstrahlungParameters\l::G4BremsstrahlungParameters" alt="" coords="554,913,787,957"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G4VisCommandSceneAddUserAction::SetNewValue" name="G4VisCommandSceneAddUserAction::SetNewValue">
+<area shape="rect" id="node2" href="$d8/d2c/classG4VVisCommand.html#a405b0cd0c62e05730621eaf0972d8df5" title="G4VVisCommand::CheckScene\lAndNotifyHandlers" alt="" coords="285,55,516,99"/>
+<area shape="rect" id="node3" href="$d0/d0d/classG4VisManager.html#aa0e16695f2aa218f67abdcecc014071d" title="G4VisManager::GetVerbosity" alt="" coords="568,5,784,33"/>
+<area shape="rect" id="node12" href="$d0/d0d/classG4VisManager.html#a0af953e1209da433fd6220db096f0602" title="G4VisManager::GetCurrent\lScene" alt="" coords="299,123,502,167"/>
+<area shape="rect" id="node13" href="$d0/d0d/classG4VisManager.html#a9b281f60e26fbb1847c88e4ac334051d" title="G4VisManager::GetEndOfEvent\lUserVisActions" alt="" coords="284,191,517,235"/>
+<area shape="rect" id="node14" href="$d0/d0d/classG4VisManager.html#af9a4f1174334e95dd248111c8ddd2e2f" title="G4VisManager::GetEndOfRun\lUserVisActions" alt="" coords="291,259,510,303"/>
+<area shape="rect" id="node15" href="$d0/d0d/classG4VisManager.html#a320265bfcd14db38a6c153e53b9dba8b" title="G4VisManager::GetRunDuration\lUserVisActions" alt="" coords="283,327,519,371"/>
+<area shape="rect" id="node4" href="$da/d94/classG4VSceneHandler.html#a2551757fe296027960d3ad9bded80924" title="G4VSceneHandler::GetScene" alt="" coords="567,61,785,89"/>
+<area shape="rect" id="node5" href="$d8/def/classG4UImanager.html#acdbb899618bfca924527db37576291d1" title="G4UImanager::GetUIpointer" alt="" coords="571,113,781,141"/>
+<area shape="rect" id="node6" href="$d8/def/classG4UImanager.html#a3e92dbf1941e2e850e9090060fd429d3" title="G4UImanager::CreateMessenger" alt="" coords="833,31,1076,59"/>
+<area shape="rect" id="node7" href="$d8/def/classG4UImanager.html#aaf9882646bb6ec655c5c8becffe98772" title="G4UImanager::fUImanager" alt="" coords="853,83,1057,111"/>
+<area shape="rect" id="node8" href="$d8/def/classG4UImanager.html#aedc7f38c4d4db62a0871da5cfc8d2dec" title="G4UImanager::fUImanagerHas\lBeenKilled" alt="" coords="840,135,1069,179"/>
+<area shape="rect" id="node9" href="$d8/def/classG4UImanager.html#ae4d4d81368fb46e5006bf03646da897b" title="G4UImanager::G4UImanager" alt="" coords="845,203,1064,231"/>
+<area shape="rect" id="node10" href="$d8/def/classG4UImanager.html#a18c91362ccd08d23b96b834da174e5c0" title="G4UImanager::SetCoutDestination" alt="" coords="1124,203,1379,231"/>
+<area shape="rect" id="node11" href="$d2/dce/classG4strstreambuf.html#a88d7accfe65495690b4b41b08fffb723" title="G4strstreambuf::SetDestination" alt="" coords="1427,203,1661,231"/>
+</map>

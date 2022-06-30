@@ -1,0 +1,42 @@
+<map id="G4ParticleHPVector::Merge" name="G4ParticleHPVector::Merge">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="255,8,366,36"/>
+<area shape="rect" id="node4" href="$dc/d8c/classG4InterpolationManager.html#a084ac9bfb532dd7792c0663c11caf7af" title="G4InterpolationManager\l::AppendScheme" alt="" coords="217,63,404,107"/>
+<area shape="rect" id="node5" href="$dc/df1/classG4ParticleHPVector.html#a0a935bf9964d88fcabdd38ef50ab9d7d" title="G4ParticleHPVector\l::CleanUp" alt="" coords="235,131,387,175"/>
+<area shape="rect" id="node8" href="$dc/df1/classG4ParticleHPVector.html#a5fb74169899e6ca86136232372099fa1" title="G4ParticleHPVector\l::GetEnergy" alt="" coords="728,116,880,160"/>
+<area shape="rect" id="node10" href="$dc/df1/classG4ParticleHPVector.html#ab21974515509f7035772cebfa958512c" title="G4ParticleHPVector\l::GetLabel" alt="" coords="235,492,387,536"/>
+<area shape="rect" id="node11" href="$dc/df1/classG4ParticleHPVector.html#a0575a0c3e12bcedbf9777c94af6be308" title="G4ParticleHPVector\l::GetScheme" alt="" coords="235,560,387,604"/>
+<area shape="rect" id="node13" href="$dc/df1/classG4ParticleHPVector.html#a6fc15c55773ab98939ba26e1718c5d9c" title="G4ParticleHPVector\l::GetVectorLength" alt="" coords="999,229,1151,273"/>
+<area shape="rect" id="node14" href="$dc/df1/classG4ParticleHPVector.html#a47ec4e6de05f7e5dbab83686e6af8cb8" title="G4ParticleHPVector\l::GetXsec" alt="" coords="999,335,1151,379"/>
+<area shape="rect" id="node16" href="$d8/dd6/classG4ParticleHPInterpolator.html#aff4d8db516ff61dac37f666d3b9eda3b" title="G4ParticleHPInterpolator\l::Interpolate" alt="" coords="217,680,405,724"/>
+<area shape="rect" id="node32" href="$d3/dae/classG4ParticleHPHash.html#a153c5b0e07c3714cab32f1c850c7ea00" title="G4ParticleHPHash::Prepared" alt="" coords="205,748,416,776"/>
+<area shape="rect" id="node33" href="$dc/df1/classG4ParticleHPVector.html#af0c496beda9a3479ccd4f14ff605c589" title="G4ParticleHPVector\l::ReHash" alt="" coords="235,199,387,243"/>
+<area shape="rect" id="node40" href="$dc/df1/classG4ParticleHPVector.html#a26a020e11050f63c18364bccf4085928" title="G4ParticleHPVector\l::SetData" alt="" coords="235,424,387,468"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="471,5,647,33"/>
+<area shape="rect" id="node6" href="$dc/d8c/classG4InterpolationManager.html#a279b59eedf4ffce02c1eb35e8175dad0" title="G4InterpolationManager\l::CleanUp" alt="" coords="465,57,652,101"/>
+<area shape="rect" id="node7" href="$d3/dae/classG4ParticleHPHash.html#a74a4ae15695b621ac4068591b77b63e5" title="G4ParticleHPHash::Clear" alt="" coords="465,149,653,177"/>
+<area shape="rect" id="node9" href="$d7/d30/classG4ParticleHPDataPoint.html#a1a80eaaa6c7d429dad5fc2b72a9c9fd4" title="G4ParticleHPDataPoint\l::GetX" alt="" coords="987,132,1162,176"/>
+<area shape="rect" id="node12" href="$dc/d8c/classG4InterpolationManager.html#abc4817885d22ee49f792ee8b7ea3c1e9" title="G4InterpolationManager\l::GetScheme" alt="" coords="465,560,652,604"/>
+<area shape="rect" id="node15" href="$d7/d30/classG4ParticleHPDataPoint.html#a98ec935410c526f7ce9e1f8bdf887cac" title="G4ParticleHPDataPoint\l::GetY" alt="" coords="1249,335,1424,379"/>
+<area shape="rect" id="node17" href="$d8/dd6/classG4ParticleHPInterpolator.html#a85f228d82308c21dce034b24107fb0c0" title="G4ParticleHPInterpolator\l::LinearLinear" alt="" coords="710,683,898,727"/>
+<area shape="rect" id="node18" href="$d8/dd6/classG4ParticleHPInterpolator.html#a9a766d9588e13ea0a46d709d3c67cfa3" title="G4ParticleHPInterpolator\l::LinearLogarithmic" alt="" coords="465,680,653,724"/>
+<area shape="rect" id="node25" href="$d8/dd6/classG4ParticleHPInterpolator.html#a57672a4e11fe09dcc6a067469400f5ef" title="G4ParticleHPInterpolator\l::LogarithmicLinear" alt="" coords="465,748,653,792"/>
+<area shape="rect" id="node30" href="$d8/dd6/classG4ParticleHPInterpolator.html#a830dc7f54a5e5b02c41e5792ac1c84f5" title="G4ParticleHPInterpolator\l::LogarithmicLogarithmic" alt="" coords="464,816,653,860"/>
+<area shape="rect" id="node31" href="$d8/dd6/classG4ParticleHPInterpolator.html#aa275c8d5e8b42cc3b7923cd73c7b26f5" title="G4ParticleHPInterpolator\l::Random" alt="" coords="465,884,653,928"/>
+<area shape="rect" id="node19" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="772,752,836,780"/>
+<area shape="rect" id="node20" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="979,668,1171,696"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="979,720,1171,748"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="955,772,1195,800"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1243,720,1431,748"/>
+<area shape="rect" id="node24" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1243,772,1431,800"/>
+<area shape="rect" id="node26" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="771,824,837,852"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="992,824,1157,852"/>
+<area shape="rect" id="node29" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="980,876,1169,904"/>
+<area shape="rect" id="node28" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1243,824,1431,852"/>
+<area shape="rect" id="node34" href="$dc/df1/classG4ParticleHPVector.html#a08c655522ad8865b1af473992f32660d" title="G4ParticleHPVector\l::Hash" alt="" coords="483,253,635,297"/>
+<area shape="rect" id="node35" href="$dc/df1/classG4ParticleHPVector.html#ad9ee22427d0d2d8319a6fc28fc5e014f" title="G4ParticleHPVector\l::GetX" alt="" coords="728,184,880,228"/>
+<area shape="rect" id="node36" href="$dc/df1/classG4ParticleHPVector.html#a9197c79bb642cb9f452385f96740eac2" title="G4ParticleHPVector\l::GetY" alt="" coords="728,304,880,348"/>
+<area shape="rect" id="node37" href="$d3/dae/classG4ParticleHPHash.html#a130e71a12e1eddfcb62aef6b49559755" title="G4ParticleHPHash::SetData" alt="" coords="701,448,907,476"/>
+<area shape="rect" id="node38" href="$d3/dae/classG4ParticleHPHash.html#a82ba518a0eb5c14ce00dd568cd4cdbb7" title="G4ParticleHPHash::G4Particle\lHPHash" alt="" coords="965,424,1185,468"/>
+<area shape="rect" id="node39" href="$d7/d30/classG4ParticleHPDataPoint.html#aba9392893ce9d2da647a5f0e97d4a442" title="G4ParticleHPDataPoint\l::SetData" alt="" coords="987,492,1162,536"/>
+<area shape="rect" id="node41" href="$dc/df1/classG4ParticleHPVector.html#a624945edee0b3f882c42c4e3d5251e38" title="G4ParticleHPVector\l::Check" alt="" coords="483,492,635,536"/>
+</map>

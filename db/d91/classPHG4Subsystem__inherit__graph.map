@@ -1,0 +1,50 @@
+<map id="PHG4Subsystem" name="PHG4Subsystem">
+<area shape="rect" id="node4" href="$df/dee/classPHG4CEmcTestBeamSubsystem.html" title="PHG4CEmcTestBeamSubsystem" alt="" coords="488,109,725,137"/>
+<area shape="rect" id="node5" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html" title="PHG4DetectorGroupSubsystem" alt="" coords="490,161,723,189"/>
+<area shape="rect" id="node11" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="511,993,703,1021"/>
+<area shape="rect" id="node43" href="$d1/d86/classPHG4EnvelopeSubsystem.html" title="PHG4EnvelopeSubsystem" alt="" coords="509,1045,705,1073"/>
+<area shape="rect" id="node44" href="$d3/db0/classPHG4FCalSubsystem.html" title="PHG4FCalSubsystem" alt="" coords="525,1097,688,1125"/>
+<area shape="rect" id="node45" href="$df/d77/classPHG4FPbScSubsystem.html" title="PHG4FPbScSubsystem" alt="" coords="520,1149,693,1177"/>
+<area shape="rect" id="node46" href="$db/dfa/classPHG4HcalSubsystem.html" title="PHG4HcalSubsystem" alt="" coords="525,1201,688,1229"/>
+<area shape="rect" id="node47" href="$d7/dcc/classPHG4RICHSubsystem.html" title="Fun4All module to simulate the RICH detector." alt="" coords="524,1253,689,1281"/>
+<area shape="rect" id="node48" href="$da/dca/classPHG4SectorSubsystem.html" title="PHG4SectorSubsystem" alt="" coords="519,1305,695,1333"/>
+<area shape="rect" id="node49" href="$d5/d85/classPHG4TruthSubsystem.html" title="PHG4TruthSubsystem" alt="" coords="523,1357,691,1385"/>
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="157,1124,259,1152"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="5,1124,109,1152"/>
+<area shape="rect" id="node6" href="$da/ded/classG4JLeicVTXSubsystem.html" title="Fun4All module to simulate the Barrel PSTOF detector." alt="" coords="825,5,997,33"/>
+<area shape="rect" id="node7" href="$d3/d9f/classPHG4EICMvtxSubsystem.html" title="PHG4EICMvtxSubsystem" alt="" coords="817,57,1005,85"/>
+<area shape="rect" id="node8" href="$d6/d09/classPHG4InttSubsystem.html" title="PHG4InttSubsystem" alt="" coords="833,109,989,137"/>
+<area shape="rect" id="node9" href="$d9/dbf/classPHG4MvtxSubsystem.html" title="PHG4MvtxSubsystem" alt="" coords="828,161,993,189"/>
+<area shape="rect" id="node10" href="$dd/d21/classPHG4PSTOFSubsystem.html" title="Fun4All module to simulate the Barrel PSTOF detector." alt="" coords="823,213,999,241"/>
+<area shape="rect" id="node12" href="$dd/d9e/classAllSi__Al__support__Subsystem.html" title="Detector Subsystem module." alt="" coords="805,265,1017,293"/>
+<area shape="rect" id="node13" href="$db/d23/classAllSiliconTrackerSubsystem.html" title="Detector Subsystem module." alt="" coords="807,317,1014,345"/>
+<area shape="rect" id="node14" href="$dd/d2a/classBeamLineMagnetSubsystem.html" title="BeamLineMagnetSubsystem" alt="" coords="804,369,1017,397"/>
+<area shape="rect" id="node15" href="$d1/dfe/classBeastMagnetSubsystem.html" title="Detector Subsystem module." alt="" coords="819,421,1003,449"/>
+<area shape="rect" id="node16" href="$df/d48/classEicFRichSubsystem.html" title="Detector Subsystem module." alt="" coords="835,473,987,501"/>
+<area shape="rect" id="node17" href="$d3/d6e/classEICG4B0ECALSubsystem.html" title="Detector Subsystem module." alt="" coords="816,525,1005,553"/>
+<area shape="rect" id="node18" href="$d2/d7c/classEICG4B0Subsystem.html" title="Detector Subsystem module." alt="" coords="833,577,988,605"/>
+<area shape="rect" id="node19" href="$dc/da4/classEICG4BwdSubsystem.html" title="Detector Subsystem module." alt="" coords="828,629,993,657"/>
+<area shape="rect" id="node20" href="$dd/db7/classEICG4dRICHSubsystem.html" title="Detector Subsystem module." alt="" coords="821,681,1000,709"/>
+<area shape="rect" id="node21" href="$d0/db6/classEICG4LumiSubsystem.html" title="Detector Subsystem module." alt="" coords="826,733,995,761"/>
+<area shape="rect" id="node22" href="$d5/d77/classEICG4RPSubsystem.html" title="Detector Subsystem module." alt="" coords="833,785,988,813"/>
+<area shape="rect" id="node23" href="$df/df4/classEICG4ZDCSubsystem.html" title="Detector Subsystem module." alt="" coords="828,837,993,865"/>
+<area shape="rect" id="node24" href="$d2/d76/classG4EicDircSubsystem.html" title="example Fun4All module" alt="" coords="830,889,991,917"/>
+<area shape="rect" id="node25" href="$d8/d65/classG4JLeicBeamLineMagnetSubsystem.html" title="G4JLeicBeamLineMagnetSubsystem" alt="" coords="779,941,1042,969"/>
+<area shape="rect" id="node26" href="$d3/d23/classG4JLeicDIRCSubsystem.html" title="Fun4All module to simulate the Barrel PSTOF detector." alt="" coords="822,993,999,1021"/>
+<area shape="rect" id="node27" href="$db/d6c/classG4LBLVtxSubsystem.html" title="G4LBLVtxSubsystem is a generic detector built from a GDML import." alt="" coords="831,1045,991,1073"/>
+<area shape="rect" id="node28" href="$d3/d3e/classPHG4BackwardHcalSubsystem.html" title="PHG4BackwardHcalSubsystem" alt="" coords="797,1097,1025,1125"/>
+<area shape="rect" id="node29" href="$dc/d72/classPHG4BarrelEcalSubsystem.html" title="PHG4BarrelEcalSubsystem" alt="" coords="810,1149,1011,1177"/>
+<area shape="rect" id="node30" href="$d4/dd0/classPHG4BbcSubsystem.html" title="Fun4All module to simulate the BBC detector, aka MBD." alt="" coords="831,1201,990,1229"/>
+<area shape="rect" id="node31" href="$d5/de1/classPHG4BeamlineMagnetSubsystem.html" title="PHG4BeamlineMagnetSubsystem" alt="" coords="787,1253,1035,1281"/>
+<area shape="rect" id="node32" href="$df/d14/classPHG4BlockSubsystem.html" title="PHG4BlockSubsystem" alt="" coords="826,1305,995,1333"/>
+<area shape="rect" id="node33" href="$d8/d6e/classPHG4ConeSubsystem.html" title="PHG4ConeSubsystem" alt="" coords="827,1357,995,1385"/>
+<area shape="rect" id="node34" href="$dc/d10/classPHG4CrystalCalorimeterSubsystem.html" title="PHG4CrystalCalorimeterSubsystem" alt="" coords="781,1409,1041,1437"/>
+<area shape="rect" id="node35" href="$d2/de0/classPHG4CylinderStripSubsystem.html" title="PHG4CylinderStripSubsystem" alt="" coords="800,1461,1021,1489"/>
+<area shape="rect" id="node36" href="$db/dc5/classPHG4CylinderSubsystem.html" title="PHG4CylinderSubsystem" alt="" coords="816,1513,1005,1541"/>
+<area shape="rect" id="node37" href="$d3/db6/classPHG4ECAPToFSubsystem.html" title="PHG4ECAPToFSubsystem" alt="" coords="815,1565,1006,1593"/>
+<area shape="rect" id="node38" href="$d2/d10/classPHG4EPDSubsystem.html" title="PHG4EPDSubsystem" alt="" coords="831,1617,991,1645"/>
+<area shape="rect" id="node39" href="$d9/d20/classPHG4ForwardDualReadoutSubsystem.html" title="PHG4ForwardDualReadoutSubsystem" alt="" coords="773,1669,1048,1697"/>
+<area shape="rect" id="node40" href="$d8/dce/classPHG4ForwardEcalSubsystem.html" title="PHG4ForwardEcalSubsystem" alt="" coords="803,1721,1019,1749"/>
+<area shape="rect" id="node41" href="$df/d58/classPHG4ForwardHcalSubsystem.html" title="PHG4ForwardHcalSubsystem" alt="" coords="802,1773,1019,1801"/>
+<area shape="rect" id="node42" href="$df/db1/classPHG4GDMLSubsystem.html" title="PHG4GDMLSubsystem is a generic detector built from a GDML import." alt="" coords="824,1825,997,1853"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="PHG4OuterHcalDetector" name="PHG4OuterHcalDetector">
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="2699,933,2816,961"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="2504,831,2637,859"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="2520,719,2621,747"/>
+<area shape="rect" id="node5" href="$da/dc4/classG4LogicalVolume.html" title="G4LogicalVolume" alt="" coords="1621,719,1760,747"/>
+<area shape="rect" id="node25" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="1212,831,1367,859"/>
+<area shape="rect" id="node33" href="$d6/d0d/classG4AssemblyTriplet.html" title="G4AssemblyTriplet" alt="" coords="983,1153,1131,1181"/>
+<area shape="rect" id="node47" href="$d1/da4/classPHG4OuterHcalDisplayAction.html" title="PHG4OuterHcalDisplayAction" alt="" coords="1788,933,2007,961"/>
+<area shape="rect" id="node6" href="$d2/d40/classG4GeomSplitter.html" title="G4GeomSplitter\&lt; T \&gt;" alt="" coords="1093,613,1261,641"/>
+<area shape="rect" id="node7" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="1536,503,1707,531"/>
+<area shape="rect" id="node12" href="$d5/db4/classG4LVData.html" title="G4LVData" alt="" coords="1435,613,1522,641"/>
+<area shape="rect" id="node8" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="2032,369,2112,397"/>
+<area shape="rect" id="node13" href="$da/d34/classG4VSolid.html" title="G4VSolid" alt="" coords="1759,503,1841,531"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="2683,213,2773,241"/>
+<area shape="rect" id="node28" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="2541,369,2616,397"/>
+<area shape="rect" id="node41" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="3034,503,3150,531"/>
+<area shape="rect" id="node48" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="2398,439,2549,467"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="2657,97,2799,141"/>
+<area shape="rect" id="node11" href="$d0/dcf/classG4SmartVoxelHeader.html" title="G4SmartVoxelHeader" alt="" coords="1867,613,2035,641"/>
+<area shape="rect" id="node14" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="1093,503,1225,531"/>
+<area shape="rect" id="node36" href="$d6/dcd/classPHG4OuterHcalFieldSetup.html" title="PHG4OuterHcalFieldSetup following Geant4 example F03FieldSetup." alt="" coords="769,613,967,641"/>
+<area shape="rect" id="node15" href="$df/d7d/classG4ChordFinder.html" title="G4ChordFinder" alt="" coords="577,369,700,397"/>
+<area shape="rect" id="node17" href="$d3/df3/classG4MagIntegratorStepper.html" title="G4MagIntegratorStepper" alt="" coords="661,213,851,241"/>
+<area shape="rect" id="node18" href="$d0/ddc/classG4EquationOfMotion.html" title="G4EquationOfMotion" alt="" coords="819,105,981,133"/>
+<area shape="rect" id="node38" href="$db/d59/classG4Mag__EqRhs.html" title="G4Mag_EqRhs" alt="" coords="995,213,1114,241"/>
+<area shape="rect" id="node19" href="$d6/d64/classG4Field.html" title="G4Field" alt="" coords="864,5,936,33"/>
+<area shape="rect" id="node22" href="$d8/d9d/classG4MagneticField.html" title="G4MagneticField" alt="" coords="261,105,395,133"/>
+<area shape="rect" id="node20" href="$d3/d58/classG4VIntegrationDriver.html" title="G4VIntegrationDriver" alt="" coords="43,213,210,241"/>
+<area shape="rect" id="node21" href="$de/d08/classG4CachedMagneticField.html" title="G4CachedMagneticField" alt="" coords="235,213,419,241"/>
+<area shape="rect" id="node23" href="$dc/df1/classG4VisAttributes.html" title="G4VisAttributes" alt="" coords="2110,613,2237,641"/>
+<area shape="rect" id="node31" href="$d8/d10/classG4AssemblyVolume.html" title="G4AssemblyVolume" alt="" coords="861,1061,1017,1089"/>
+<area shape="rect" id="node26" href="$dd/dc3/classG4PVData.html" title="G4PVData" alt="" coords="1287,719,1377,747"/>
+<area shape="rect" id="node27" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="2663,613,2809,641"/>
+<area shape="rect" id="node29" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="2505,503,2698,531"/>
+<area shape="rect" id="node35" href="$dd/de6/classHepGeom_1_1Transform3D.html" title="HepGeom::Transform3D" alt="" coords="833,831,1017,859"/>
+<area shape="rect" id="node37" href="$d7/d85/classG4Mag__UsualEqRhs.html" title="G4Mag_UsualEqRhs" alt="" coords="929,439,1085,467"/>
+<area shape="rect" id="node42" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="3495,369,3579,397"/>
+<area shape="rect" id="node43" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="3499,213,3575,241"/>
+</map>

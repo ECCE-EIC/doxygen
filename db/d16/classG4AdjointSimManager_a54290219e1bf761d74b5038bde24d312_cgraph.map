@@ -1,0 +1,13 @@
+<map id="G4AdjointSimManager::SetAdjointActions" name="G4AdjointSimManager::SetAdjointActions">
+<area shape="rect" id="node2" href="$db/d16/classG4AdjointSimManager.html#ace47942b1af5e72b7b792217ca3f04cc" title="G4AdjointSimManager\l::DefineUserActions" alt="" coords="257,193,431,237"/>
+<area shape="rect" id="node3" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="512,5,756,33"/>
+<area shape="rect" id="node11" href="$d5/dde/classG4AdjointTrackingAction.html#adcfc5e0de67a705609ff6deec31de0fc" title="G4AdjointTrackingAction\l::SetUserForwardTrackingAction" alt="" coords="227,261,461,305"/>
+<area shape="rect" id="node12" href="$d1/d92/classG4AdjointStackingAction.html#a3e8a7186cb5019fa53790540bc3fd637" title="G4AdjointStackingAction\l::SetUserFwdStackingAction" alt="" coords="239,329,449,373"/>
+<area shape="rect" id="node4" href="$d4/daa/classG4RunManager.html#af08fd22435118a478726a8fdba0ec45a" title="G4RunManager::GetUserEvent\lAction" alt="" coords="520,57,748,101"/>
+<area shape="rect" id="node5" href="$d4/daa/classG4RunManager.html#ab152d49c2a203b74649f15074302cdf2" title="G4RunManager::GetUserPrimary\lGeneratorAction" alt="" coords="513,125,755,169"/>
+<area shape="rect" id="node6" href="$d4/daa/classG4RunManager.html#aefce94076e3d83c43d1bc6bf7bfcda39" title="G4RunManager::GetUserRun\lAction" alt="" coords="527,193,741,237"/>
+<area shape="rect" id="node7" href="$d4/daa/classG4RunManager.html#aaf7cde9a37e45dcb97953165f95b7193" title="G4RunManager::GetUserStacking\lAction" alt="" coords="511,261,757,305"/>
+<area shape="rect" id="node8" href="$d4/daa/classG4RunManager.html#aeeb23a808d1d28bfffb90f110f462a0e" title="G4RunManager::GetUserStepping\lAction" alt="" coords="509,329,759,373"/>
+<area shape="rect" id="node9" href="$d4/daa/classG4RunManager.html#ac123d4d53bf454c766c079ddb64e33b4" title="G4RunManager::GetUserTracking\lAction" alt="" coords="511,397,757,441"/>
+<area shape="rect" id="node10" href="$db/d09/classG4AdjointSteppingAction.html#a7b3c897326f6d05fe1449309043a3b68" title="G4AdjointSteppingAction\l::SetUserForwardSteppingAction" alt="" coords="514,465,754,509"/>
+</map>

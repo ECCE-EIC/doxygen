@@ -1,0 +1,23 @@
+<map id="G4WentzelVIModel::ComputeSecondMoment" name="G4WentzelVIModel::ComputeSecondMoment">
+<area shape="rect" id="node2" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a2aa56f643286a9e852f81df608910b53" title="G4WentzelOKandVIxSection\l::ComputeSecondTransportMoment" alt="" coords="272,5,533,49"/>
+<area shape="rect" id="node3" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="289,73,517,101"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="272,125,533,153"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="288,177,517,221"/>
+<area shape="rect" id="node6" href="$d9/d5f/classG4WentzelOKandVIxSection.html#ab03f20d52d033b6c4ae0a04c9da3afc6" title="G4WentzelOKandVIxSection\l::SetupKinematic" alt="" coords="297,245,508,289"/>
+<area shape="rect" id="node9" href="$d8/d2f/classG4WentzelVIModel.html#aef69d833ac66fd85c5ea8c9c1e52357c" title="G4WentzelVIModel::SetupParticle" alt="" coords="279,313,526,341"/>
+<area shape="rect" id="node16" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a00593ce3c58366b18ea5e42251f3e654" title="G4WentzelOKandVIxSection\l::SetupTarget" alt="" coords="297,441,508,485"/>
+<area shape="rect" id="node7" href="$d6/d69/classG4IonisParamMat.html#ad52a35cd2b3e498a63f9e842d2e2806a" title="G4IonisParamMat::GetInvA23" alt="" coords="594,201,813,229"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="607,253,800,281"/>
+<area shape="rect" id="node10" href="$d9/d5f/classG4WentzelOKandVIxSection.html#aabec975387987565bf4a2324b9fa2978" title="G4WentzelOKandVIxSection\l::SetupParticle" alt="" coords="598,305,809,349"/>
+<area shape="rect" id="node11" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="903,185,1014,213"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="881,237,1036,281"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="881,305,1036,349"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#a41db289a1e553511da19c15e8875a3e6" title="G4ParticleDefinition\l::GetPDGSpin" alt="" coords="881,373,1036,417"/>
+<area shape="rect" id="node12" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1092,185,1268,213"/>
+<area shape="rect" id="node17" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a37c71a61c37f399bb4cc1f575162f957" title="G4WentzelOKandVIxSection\l::ComputeMaxElectronScattering" alt="" coords="581,373,825,417"/>
+<area shape="rect" id="node18" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="601,441,806,485"/>
+<area shape="rect" id="node20" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a031c21558a93bdab8a9e5985fdad9a6a" title="G4WentzelOKandVIxSection\l::SetTargetMass" alt="" coords="598,509,809,553"/>
+<area shape="rect" id="node21" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="653,577,754,605"/>
+<area shape="rect" id="node19" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="873,441,1044,485"/>
+<area shape="rect" id="node22" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="908,577,1009,605"/>
+</map>

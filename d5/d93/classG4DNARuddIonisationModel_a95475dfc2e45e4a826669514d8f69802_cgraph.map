@@ -1,0 +1,36 @@
+<map id="G4DNARuddIonisationModel::DifferentialCrossSection" name="G4DNARuddIonisationModel::DifferentialCrossSection">
+<area shape="rect" id="node2" href="$d5/d93/classG4DNARuddIonisationModel.html#ae2edc1f1745d6dc65f11d2f6e35ade7a" title="G4DNARuddIonisationModel\l::CorrectionFactor" alt="" coords="277,312,488,356"/>
+<area shape="rect" id="node3" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="631,149,697,177"/>
+<area shape="rect" id="node7" href="$dd/d86/classG4DNAGenericIonsManager.html#aeb195b45713e97a9fd2866348ab66605" title="G4DNAGenericIonsManager\l::GetIon" alt="" coords="559,243,769,287"/>
+<area shape="rect" id="node8" href="$dd/d86/classG4DNAGenericIonsManager.html#aa2c4199bc05fccf76348e1e520327d80" title="G4DNAGenericIonsManager\l::Instance" alt="" coords="559,363,769,407"/>
+<area shape="rect" id="node27" href="$d5/d38/classG4ParticleDefinition.html#a49690d1676e108396dfc28c6cc4e3470" title="G4ParticleDefinition\l::GetLeptonNumber" alt="" coords="305,483,460,527"/>
+<area shape="rect" id="node28" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="305,551,460,595"/>
+<area shape="rect" id="node29" href="$d1/d1e/classG4DNAWaterIonisationStructure.html#af587fa834f29419600234b0faf039a00" title="G4DNAWaterIonisationStructure\l::IonisationEnergy" alt="" coords="264,619,501,663"/>
+<area shape="rect" id="node30" href="$d2/dd8/classG4Proton.html#a16a4c07451ddd7d28dc065be0a2840d8" title="G4Proton::ProtonDefinition" alt="" coords="1093,427,1295,455"/>
+<area shape="rect" id="node31" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a78a47533cb7a50cbc6a737462fe90407" title="S" alt="" coords="363,687,402,715"/>
+<area shape="rect" id="node32" href="$d5/d93/classG4DNARuddIonisationModel.html#ab1a6a30aba200dbd7de3b301147986c6" title="G4DNARuddIonisationModel\l::S_1s" alt="" coords="277,5,488,49"/>
+<area shape="rect" id="node34" href="$d5/d93/classG4DNARuddIonisationModel.html#a58a4207c4d3132002a3ae3d863fcdc7d" title="G4DNARuddIonisationModel\l::S_2p" alt="" coords="277,73,488,117"/>
+<area shape="rect" id="node35" href="$d5/d93/classG4DNARuddIonisationModel.html#a0cbce59ad2e29c8e16b9a6ffff1a114c" title="G4DNARuddIonisationModel\l::S_2s" alt="" coords="277,141,488,185"/>
+<area shape="rect" id="node24" href="$d2/dd8/classG4Proton.html#afffe02e45f5ea9edcf9f3e85d3a965ce" title="G4Proton::Proton" alt="" coords="868,311,1004,339"/>
+<area shape="rect" id="node4" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="853,176,1019,204"/>
+<area shape="rect" id="node6" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="841,124,1031,152"/>
+<area shape="rect" id="node5" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1100,176,1288,204"/>
+<area shape="rect" id="node9" href="$dd/d86/classG4DNAGenericIonsManager.html#aa5065cd49587bb58aa99b931b4842957" title="G4DNAGenericIonsManager\l::G4DNAGenericIonsManager" alt="" coords="827,363,1045,407"/>
+<area shape="rect" id="node10" href="$dc/d9e/classG4Alpha.html#aa1650aa28172e900e599389e6ab8eaf9" title="G4Alpha::Alpha" alt="" coords="1131,371,1257,399"/>
+<area shape="rect" id="node11" href="$dc/d9e/classG4Alpha.html#a6775b51f1bda0a28a4c36910a447b3c7" title="G4Alpha::Definition" alt="" coords="1345,371,1498,399"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="1548,311,1760,339"/>
+<area shape="rect" id="node17" href="$df/d1a/classG4Ions.html#ae983e0b83e4ab01690f4e778fc97a50e" title="G4Ions::G4Ions" alt="" coords="1592,431,1716,459"/>
+<area shape="rect" id="node18" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1550,363,1758,407"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1808,233,2052,261"/>
+<area shape="rect" id="node15" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1818,285,2042,313"/>
+<area shape="rect" id="node16" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="2123,311,2305,339"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2161,233,2267,261"/>
+<area shape="rect" id="node19" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1829,405,2031,449"/>
+<area shape="rect" id="node20" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="2126,483,2302,527"/>
+<area shape="rect" id="node21" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="2126,551,2302,595"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="2137,363,2291,407"/>
+<area shape="rect" id="node23" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="2100,431,2328,459"/>
+<area shape="rect" id="node25" href="$d2/dd8/classG4Proton.html#a599298d143353675ad23093d308d347d" title="G4Proton::Definition" alt="" coords="1343,425,1500,453"/>
+<area shape="rect" id="node26" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="1555,483,1753,527"/>
+<area shape="rect" id="node33" href="$d5/d93/classG4DNARuddIonisationModel.html#ad7da8361889b9047338ea23c9862df42" title="G4DNARuddIonisationModel::R" alt="" coords="549,81,779,109"/>
+</map>

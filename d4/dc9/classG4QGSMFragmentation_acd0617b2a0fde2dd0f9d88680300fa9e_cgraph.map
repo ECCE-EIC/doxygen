@@ -1,0 +1,27 @@
+<map id="G4QGSMFragmentation::DiQuarkSplitup" name="G4QGSMFragmentation::DiQuarkSplitup">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="815,94,925,122"/>
+<area shape="rect" id="node4" href="$d0/d2a/classG4HadronBuilder.html#a2b56ca0c8072ac8005ec51c26b8ebc7c" title="G4HadronBuilder::Build" alt="" coords="253,223,433,251"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1353,90,1507,134"/>
+<area shape="rect" id="node21" href="$d5/d97/classG4VLongitudinalStringDecay.html#ab58a107ba99188c5194ec9cbe8797841" title="G4VLongitudinalStringDecay\l::CreatePartonPair" alt="" coords="235,331,451,375"/>
+<area shape="rect" id="node24" href="$d5/d97/classG4VLongitudinalStringDecay.html#a278d539114f00795beb223374188e006" title="G4VLongitudinalStringDecay\l::FindParticle" alt="" coords="500,334,716,378"/>
+<area shape="rect" id="node25" href="$d5/d97/classG4VLongitudinalStringDecay.html#a317672f15e252dac78cf58d560c70bab" title="G4VLongitudinalStringDecay\l::GetStrangeSuppress" alt="" coords="235,399,451,443"/>
+<area shape="rect" id="node26" href="$d5/d97/classG4VLongitudinalStringDecay.html#a93cf84bb0bf954e8ebc030f67b3d64f5" title="G4VLongitudinalStringDecay\l::SetStrangenessSuppression" alt="" coords="233,467,452,511"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1058,94,1234,122"/>
+<area shape="rect" id="node5" href="$d0/d2a/classG4HadronBuilder.html#a57a2b973eab8683ecfdb3850cfac9d2d" title="G4HadronBuilder::Barion" alt="" coords="513,282,703,310"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#a4c463e08e928a594eb5996bfb43c2191" title="G4ParticleDefinition\l::GetParticleSubType" alt="" coords="527,214,689,258"/>
+<area shape="rect" id="node20" href="$d0/d2a/classG4HadronBuilder.html#a36bcf78bfd3dcfcf8311d0d52b16ed7a" title="G4HadronBuilder::Meson" alt="" coords="513,162,703,190"/>
+<area shape="rect" id="node6" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="764,402,976,430"/>
+<area shape="rect" id="node11" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="793,214,947,258"/>
+<area shape="rect" id="node12" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="766,334,974,378"/>
+<area shape="rect" id="node18" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="793,146,947,190"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1024,454,1268,482"/>
+<area shape="rect" id="node9" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1339,402,1521,430"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1034,506,1258,534"/>
+<area shape="rect" id="node8" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1377,454,1483,482"/>
+<area shape="rect" id="node13" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1045,334,1247,378"/>
+<area shape="rect" id="node15" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1342,334,1518,378"/>
+<area shape="rect" id="node16" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1342,214,1518,258"/>
+<area shape="rect" id="node17" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1316,282,1544,310"/>
+<area shape="rect" id="node22" href="$d5/d97/classG4VLongitudinalStringDecay.html#a16fe769473ef671d438b4e226062cc60" title="G4VLongitudinalStringDecay\l::SampleQuarkFlavor" alt="" coords="500,423,716,467"/>
+<area shape="rect" id="node23" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="850,454,890,482"/>
+</map>

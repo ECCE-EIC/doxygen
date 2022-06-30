@@ -1,0 +1,51 @@
+<map id="G4INCL::Particle::setINCLMass" name="G4INCL::Particle::setINCLMass">
+<area shape="rect" id="node2" href="$d0/d7f/classG4INCL_1_1Cluster.html#a64bd5ec792f4462bac8ae6d749686d7e" title="Standard Cluster constructor." alt="" coords="580,73,765,101"/>
+<area shape="rect" id="node3" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#a8a1824ffd5272e7dcc81e443edc17af7" title="Modify particle that enters the nucleus." alt="" coords="278,348,498,392"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#aca534164eea2b6e5a39ce0e335ef30b0" title="G4INCL::Particle::setType" alt="" coords="293,1493,483,1521"/>
+<area shape="rect" id="node50" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="277,1545,499,1589"/>
+<area shape="rect" id="node4" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#abf44c365082f5001071c3c658a611503" title="G4INCL::ParticleEntryChannel\l::fillFinalState" alt="" coords="563,5,783,49"/>
+<area shape="rect" id="node6" href="$dc/d21/namespaceG4INCL_1_1ClusterDecay.html#a0ca6931ef2e54d65d6addd4871d8f956" title="Carries out a cluster decay." alt="" coords="587,261,758,305"/>
+<area shape="rect" id="node7" href="$de/d02/classG4INCL_1_1DeltaDecayChannel.html#aee240817d571ac9a23f54dadc5b30b59" title="G4INCL::DeltaDecayChannel\l::fillFinalState" alt="" coords="566,329,779,373"/>
+<area shape="rect" id="node8" href="$d2/d01/classG4INCL_1_1DeltaProductionChannel.html#a835867c4f006ca14a8ffb275368b672d" title="G4INCL::DeltaProductionChannel\l::fillFinalState" alt="" coords="551,397,794,441"/>
+<area shape="rect" id="node9" href="$d9/d47/classG4INCL_1_1ElasticChannel.html#a88d943e7f3e9d9033f368595f66373f0" title="G4INCL::ElasticChannel\l::fillFinalState" alt="" coords="583,465,762,509"/>
+<area shape="rect" id="node10" href="$d0/d64/classG4INCL_1_1EtaNToPiNChannel.html#a260b1c49c14d8a849dff87ab3d0244c3" title="G4INCL::EtaNToPiNChannel\l::fillFinalState" alt="" coords="571,533,774,577"/>
+<area shape="rect" id="node11" href="$d1/df8/classG4INCL_1_1EtaNToPiPiNChannel.html#a6e29d91099ca7e074cfa66356cd0fe30" title="G4INCL::EtaNToPiPiNChannel\l::fillFinalState" alt="" coords="565,601,780,645"/>
+<area shape="rect" id="node12" href="$d0/d9d/classG4INCL_1_1NDeltaEtaProductionChannel.html#a6686bfff36657de457b5033537f8592b" title="G4INCL::NDeltaEtaProduction\lChannel::fillFinalState" alt="" coords="563,669,782,713"/>
+<area shape="rect" id="node13" href="$d1/d52/classG4INCL_1_1NDeltaOmegaProductionChannel.html#a4c9f72ffec30740393c43c353a1d0b48" title="G4INCL::NDeltaOmegaProduction\lChannel::fillFinalState" alt="" coords="550,737,795,781"/>
+<area shape="rect" id="node14" href="$d0/dd1/classG4INCL_1_1NDeltaToDeltaLKChannel.html#a2999c06b01ccb962ef42143b8058c389" title="G4INCL::NDeltaToDeltaLKChannel\l::fillFinalState" alt="" coords="549,805,796,849"/>
+<area shape="rect" id="node15" href="$de/dac/classG4INCL_1_1NDeltaToDeltaSKChannel.html#a68338c90d8638d4a9040d0a078831e9e" title="G4INCL::NDeltaToDeltaSKChannel\l::fillFinalState" alt="" coords="549,873,797,917"/>
+<area shape="rect" id="node16" href="$d2/d65/classG4INCL_1_1NDeltaToNLKChannel.html#a5b5be18fc10a5ca1faf974ce8844e5f2" title="G4INCL::NDeltaToNLKChannel\l::fillFinalState" alt="" coords="562,941,783,985"/>
+<area shape="rect" id="node17" href="$d5/dbb/classG4INCL_1_1NDeltaToNNKKbChannel.html#a4b7a5107038ae39040575ef9f1cb9b80" title="G4INCL::NDeltaToNNKKbChannel\l::fillFinalState" alt="" coords="552,1009,793,1053"/>
+<area shape="rect" id="node18" href="$db/da1/classG4INCL_1_1NDeltaToNSKChannel.html#a1f98b63010f05bc06e37cc16eaa10d29" title="G4INCL::NDeltaToNSKChannel\l::fillFinalState" alt="" coords="561,1077,784,1121"/>
+<area shape="rect" id="node19" href="$da/d0f/classG4INCL_1_1NeutralKaonDecayChannel.html#a89fa948019c28ffc9f4dd82cd85c39a7" title="G4INCL::NeutralKaonDecay\lChannel::fillFinalState" alt="" coords="570,1145,775,1189"/>
+<area shape="rect" id="node20" href="$de/db6/classG4INCL_1_1NKbToL2piChannel.html#a95dcd42b02adf9b86b8c68715563f960" title="G4INCL::NKbToL2piChannel\l::fillFinalState" alt="" coords="570,1213,775,1257"/>
+<area shape="rect" id="node21" href="$d1/d72/classG4INCL_1_1NKbToLpiChannel.html#aa026a9652d70d5e8992ac201432119e9" title="G4INCL::NKbToLpiChannel\l::fillFinalState" alt="" coords="574,1281,771,1325"/>
+<area shape="rect" id="node22" href="$dc/dd1/classG4INCL_1_1NKbToNKb2piChannel.html#a127ee062ba0e0de7c6b997741caced86" title="G4INCL::NKbToNKb2piChannel\l::fillFinalState" alt="" coords="560,1349,785,1393"/>
+<area shape="rect" id="node23" href="$d1/dcb/classG4INCL_1_1NKbToNKbChannel.html#afdc20ece837c35e2860bb8d39eac4c01" title="G4INCL::NKbToNKbChannel\l::fillFinalState" alt="" coords="571,1417,775,1461"/>
+<area shape="rect" id="node24" href="$d6/de0/classG4INCL_1_1NKbToNKbpiChannel.html#a02c282c10c84067688c937f1ed7aee91" title="G4INCL::NKbToNKbpiChannel\l::fillFinalState" alt="" coords="564,1485,781,1529"/>
+<area shape="rect" id="node25" href="$d8/d71/classG4INCL_1_1NKbToS2piChannel.html#abc8589de7f6dc50940aa8b2d24aecd50" title="G4INCL::NKbToS2piChannel\l::fillFinalState" alt="" coords="569,1553,776,1597"/>
+<area shape="rect" id="node26" href="$db/dad/classG4INCL_1_1NKbToSpiChannel.html#aeb3d431a79db26e98eb527c29aba4ead" title="G4INCL::NKbToSpiChannel\l::fillFinalState" alt="" coords="573,1621,772,1665"/>
+<area shape="rect" id="node27" href="$d6/d3e/classG4INCL_1_1NKToNK2piChannel.html#ad2c6f599d9f66abb7e86a01b57d0472d" title="G4INCL::NKToNK2piChannel\l::fillFinalState" alt="" coords="569,1689,777,1733"/>
+<area shape="rect" id="node28" href="$dc/dcf/classG4INCL_1_1NKToNKChannel.html#ac353286e5d9af116e11c1d45705d5041" title="G4INCL::NKToNKChannel\l::fillFinalState" alt="" coords="580,1757,765,1801"/>
+<area shape="rect" id="node29" href="$d6/df5/classG4INCL_1_1NKToNKpiChannel.html#a492ee31dadf5d7c6fef43a21f970b807" title="G4INCL::NKToNKpiChannel\l::fillFinalState" alt="" coords="573,1825,772,1869"/>
+<area shape="rect" id="node30" href="$d6/dc4/classG4INCL_1_1NLToNSChannel.html#ae984d659f764cfb0acaa9671c9e9fca4" title="G4INCL::NLToNSChannel\l::fillFinalState" alt="" coords="581,1893,765,1937"/>
+<area shape="rect" id="node31" href="$d7/d74/classG4INCL_1_1NNEtaToMultiPionsChannel.html#ad84c41f091a7d72c5c43ef1811da87c6" title="G4INCL::NNEtaToMultiPions\lChannel::fillFinalState" alt="" coords="570,1961,775,2005"/>
+<area shape="rect" id="node32" href="$d1/d80/classG4INCL_1_1NNOmegaToMultiPionsChannel.html#a1b1df93b9236d4a82049907bc6532e9d" title="G4INCL::NNOmegaToMultiPions\lChannel::fillFinalState" alt="" coords="557,2029,789,2073"/>
+<area shape="rect" id="node33" href="$d5/deb/classG4INCL_1_1NNToMissingStrangenessChannel.html#a05927a9b8848b5e83a0d5675f25ffecd" title="G4INCL::NNToMissingStrangeness\lChannel::fillFinalState" alt="" coords="548,2097,797,2141"/>
+<area shape="rect" id="node34" href="$d6/de5/classG4INCL_1_1NNToMultiPionsChannel.html#a3066a884bfb7e89d5254848f043296a5" title="G4INCL::NNToMultiPionsChannel\l::fillFinalState" alt="" coords="554,2165,791,2209"/>
+<area shape="rect" id="node35" href="$df/d71/classG4INCL_1_1NNToNLK2piChannel.html#af4d1376dea12cfdb4e2d04fa16c19b17" title="G4INCL::NNToNLK2piChannel\l::fillFinalState" alt="" coords="564,2233,781,2277"/>
+<area shape="rect" id="node36" href="$d2/d74/classG4INCL_1_1NNToNLKChannel.html#a231c3d0943fffb88636b84b1542ea995" title="G4INCL::NNToNLKChannel\l::fillFinalState" alt="" coords="575,2301,770,2345"/>
+<area shape="rect" id="node37" href="$d2/dff/classG4INCL_1_1NNToNLKpiChannel.html#a7474847906d9d79c5619bb2d74f3e4f2" title="G4INCL::NNToNLKpiChannel\l::fillFinalState" alt="" coords="569,2369,777,2413"/>
+<area shape="rect" id="node38" href="$df/db0/classG4INCL_1_1NNToNNEtaChannel.html#a8b86fc8832285d35fa33188cdc218870" title="G4INCL::NNToNNEtaChannel\l::fillFinalState" alt="" coords="567,2437,778,2481"/>
+<area shape="rect" id="node39" href="$db/d4d/classG4INCL_1_1NNToNNKKbChannel.html#a1ab9d1b181d0ea05c404d966d98c5603" title="G4INCL::NNToNNKKbChannel\l::fillFinalState" alt="" coords="565,2505,781,2549"/>
+<area shape="rect" id="node40" href="$d9/d74/classG4INCL_1_1NNToNNOmegaChannel.html#ac70bd25cfb1faaf8b6f105ad66c782f3" title="G4INCL::NNToNNOmegaChannel\l::fillFinalState" alt="" coords="553,2573,792,2617"/>
+<area shape="rect" id="node41" href="$d8/d90/classG4INCL_1_1NNToNSK2piChannel.html#a31e6df8666335aeb09339389867354f0" title="G4INCL::NNToNSK2piChannel\l::fillFinalState" alt="" coords="563,2641,782,2685"/>
+<area shape="rect" id="node42" href="$dc/d29/classG4INCL_1_1NNToNSKChannel.html#a0ca44a775c58ad72e7d7124aba872ac4" title="G4INCL::NNToNSKChannel\l::fillFinalState" alt="" coords="575,2709,771,2753"/>
+<area shape="rect" id="node43" href="$d3/d90/classG4INCL_1_1NNToNSKpiChannel.html#a72172e922f4fdea1553e00275c317092" title="G4INCL::NNToNSKpiChannel\l::fillFinalState" alt="" coords="568,2777,777,2821"/>
+<area shape="rect" id="node44" href="$d7/dd0/classG4INCL_1_1NpiToLK2piChannel.html#a976fbd0e550af3b320497a4964d06390" title="G4INCL::NpiToLK2piChannel\l::fillFinalState" alt="" coords="568,2845,777,2889"/>
+<area shape="rect" id="node45" href="$d5/d33/classG4INCL_1_1NpiToLKChannel.html#a77f78c2aeb4bc4d37cc4fbd76528d84d" title="G4INCL::NpiToLKChannel\l::fillFinalState" alt="" coords="579,2913,767,2957"/>
+<area shape="rect" id="node46" href="$d8/d1c/classG4INCL_1_1NpiToLKpiChannel.html#aa4aea41ae61e1fe0e03f74ec5cb777a7" title="G4INCL::NpiToLKpiChannel\l::fillFinalState" alt="" coords="572,2981,773,3025"/>
+<area shape="rect" id="node47" href="$d4/d1a/classG4INCL_1_1NpiToMissingStrangenessChannel.html#a1e29a4a9f76b3d4a1d5eee1693b90281" title="G4INCL::NpiToMissingStrangeness\lChannel::fillFinalState" alt="" coords="547,3049,799,3093"/>
+<area shape="rect" id="node48" href="$da/d50/classG4INCL_1_1NpiToNKKbChannel.html#a834462c745968e7e7184742482fdd91d" title="G4INCL::NpiToNKKbChannel\l::fillFinalState" alt="" coords="569,125,777,169"/>
+<area shape="rect" id="node49" href="$de/d8a/classG4INCL_1_1NpiToSK2piChannel.html#ad8dc91a90d3669baaa126139ea2c5e92" title="G4INCL::NpiToSK2piChannel\l::fillFinalState" alt="" coords="567,193,778,237"/>
+</map>

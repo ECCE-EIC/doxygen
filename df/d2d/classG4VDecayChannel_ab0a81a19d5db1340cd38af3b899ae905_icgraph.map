@@ -1,0 +1,23 @@
+<map id="G4VDecayChannel::DumpInfo" name="G4VDecayChannel::DumpInfo">
+<area shape="rect" id="node2" href="$d9/d69/classG4PhaseSpaceDecayChannel.html#a48154fdcd70e34021c73aafc6f9b9c59" title="G4PhaseSpaceDecayChannel\l::DecayIt" alt="" coords="276,88,496,132"/>
+<area shape="rect" id="node3" href="$da/ddf/classG4GeneralPhaseSpaceDecay.html#ae2165d05fa03ea0d801972d66f081d79" title="G4GeneralPhaseSpaceDecay\l::DecayIt" alt="" coords="277,156,495,200"/>
+<area shape="rect" id="node22" href="$da/d71/classG4KL3DecayChannel.html#ada9ea11edeee644cfc26c8fa30cdca01" title="G4KL3DecayChannel::\lG4KL3DecayChannel" alt="" coords="300,224,472,268"/>
+<area shape="rect" id="node4" href="$d4/db0/classG4KineticTrack.html#a22b3513443f27b6597ac51a079c07799" title="G4KineticTrack::Decay" alt="" coords="544,164,717,192"/>
+<area shape="rect" id="node5" href="$d6/d6c/classG4LMsdGenerator.html#a9212a3ad845890c384654302f6be04bc" title="G4LMsdGenerator::ApplyYourself" alt="" coords="765,5,1009,33"/>
+<area shape="rect" id="node6" href="$d7/d66/classG4QMDCollision.html#a31a085266432d6662e7d73f2e9aafff2" title="G4QMDCollision::CalKinematics\lOfBinaryCollisions" alt="" coords="770,57,1005,101"/>
+<area shape="rect" id="node8" href="$db/d5f/classG4DecayKineticTracks.html#abd9aa125c9a69818030e6974c15957a3" title="G4DecayKineticTracks\l::Decay" alt="" coords="802,125,973,169"/>
+<area shape="rect" id="node15" href="$d6/de8/classG4NeutrinoNucleusModel.html#ad79e03b5fab0a8ea33aab4525d732b1e" title="G4NeutrinoNucleusModel\l::FinalBarion" alt="" coords="1077,193,1271,237"/>
+<area shape="rect" id="node19" href="$d6/de8/classG4NeutrinoNucleusModel.html#a85dbefcb61bba4e9696314215d2d3445" title="G4NeutrinoNucleusModel\l::FinalMeson" alt="" coords="791,245,984,289"/>
+<area shape="rect" id="node21" href="$d4/dc4/classG4BCDecay.html#a24e40ff90508fa76fe2d57790c15e877" title="G4BCDecay::GetFinalState" alt="" coords="787,313,987,341"/>
+<area shape="rect" id="node7" href="$d4/d51/classG4QMDReaction.html#a786ddd982eab326e687eb864c8030886" title="G4QMDReaction::ApplyYourself" alt="" coords="1057,5,1291,33"/>
+<area shape="rect" id="node9" href="$d0/d72/classG4BinaryCascade.html#aff9a08dc1e0e2d92f1cc057eddc87183" title="G4BinaryCascade::FillVoid\lNucleusProducts" alt="" coords="1075,57,1273,101"/>
+<area shape="rect" id="node14" href="$db/d5f/classG4DecayKineticTracks.html#a20f7852fdad3df9a0cbbe6524813b6e6" title="G4DecayKineticTracks\l::G4DecayKineticTracks" alt="" coords="1084,125,1264,169"/>
+<area shape="rect" id="node10" href="$d0/d72/classG4BinaryCascade.html#a8cb949ade0dc2dbac02d409d159f798f" title="G4BinaryCascade::Propagate" alt="" coords="1339,65,1557,93"/>
+<area shape="rect" id="node11" href="$d0/d72/classG4BinaryCascade.html#a819ef318496ad0fc9ada18470447a6fa" title="G4BinaryCascade::ApplyYourself" alt="" coords="1605,35,1848,63"/>
+<area shape="rect" id="node12" href="$dd/d18/classG4BinaryLightIonReaction.html#a38327ae889e8e418224d4a9d3b4ac2d1" title="G4BinaryLightIonReaction\l::Interact" alt="" coords="1629,87,1825,131"/>
+<area shape="rect" id="node13" href="$dd/d18/classG4BinaryLightIonReaction.html#a7ebd9d632f36d7cdcab5a07202cb765f" title="G4BinaryLightIonReaction\l::ApplyYourself" alt="" coords="1896,87,2092,131"/>
+<area shape="rect" id="node16" href="$d7/d09/classG4NuMuNucleusCcModel.html#a2ed4cf9e2d2fbcdfdc1ca34ae670fca3" title="G4NuMuNucleusCcModel\l::ApplyYourself" alt="" coords="1632,193,1821,237"/>
+<area shape="rect" id="node17" href="$d6/de8/classG4NeutrinoNucleusModel.html#ad10a303609b9ca746037f961ef3eb9f9" title="G4NeutrinoNucleusModel\l::ClusterDecay" alt="" coords="1351,257,1545,301"/>
+<area shape="rect" id="node18" href="$da/da7/classG4NuMuNucleusNcModel.html#a790e8687db2d4dc62c21d21b3e4988d4" title="G4NuMuNucleusNcModel\l::ApplyYourself" alt="" coords="1631,261,1822,305"/>
+<area shape="rect" id="node20" href="$d6/de8/classG4NeutrinoNucleusModel.html#a7da86190ed8cb5bcc389d19a29f6f85f" title="G4NeutrinoNucleusModel\l::MesonDecay" alt="" coords="1077,261,1271,305"/>
+</map>

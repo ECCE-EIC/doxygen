@@ -1,0 +1,36 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/electromagnetic/standard/src/G4HeatedKleinNishinaCompton.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/electromagnetic/standard/src/G4HeatedKleinNishinaCompton.cc">
+<area shape="rect" id="node2" href="$d6/d7b/G4HeatedKleinNishinaCompton_8hh.html" title="G4HeatedKleinNishinaCompton.hh" alt="" coords="2235,145,2491,173"/>
+<area shape="rect" id="node5" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2449,449,2539,477"/>
+<area shape="rect" id="node31" href="$d4/d2b/G4PhysicalConstants_8hh.html" title="G4PhysicalConstants.hh" alt="" coords="1971,145,2155,173"/>
+<area shape="rect" id="node32" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="1853,221,2015,249"/>
+<area shape="rect" id="node33" href="$db/d84/G4RandomDirection_8hh.html" title="G4RandomDirection.hh" alt="" coords="2095,297,2274,325"/>
+<area shape="rect" id="node34" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="787,373,905,401"/>
+<area shape="rect" id="node44" href="$db/dfe/G4Log_8hh.html" title="G4Log.hh" alt="" coords="1602,525,1687,553"/>
+<area shape="rect" id="node46" href="$d0/dcc/G4Exp_8hh.html" title="G4Exp.hh" alt="" coords="1712,525,1799,553"/>
+<area shape="rect" id="node47" href="$d6/d69/G4Electron_8hh.html" title="G4Electron.hh" alt="" coords="2479,297,2597,325"/>
+<area shape="rect" id="node48" href="$d1/d48/G4Gamma_8hh.html" title="G4Gamma.hh" alt="" coords="2626,297,2741,325"/>
+<area shape="rect" id="node49" href="$da/d71/G4ParticleChangeForGamma_8hh.html" title="G4ParticleChangeForGamma.hh" alt="" coords="2853,297,3090,325"/>
+<area shape="rect" id="node3" href="$df/d7a/G4KleinNishinaCompton_8hh.html" title="G4KleinNishinaCompton.hh" alt="" coords="2265,221,2472,249"/>
+<area shape="rect" id="node4" href="$d0/d59/G4VEmModel_8hh.html" title="G4VEmModel.hh" alt="" coords="2309,297,2442,325"/>
+<area shape="rect" id="node28" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="2413,373,2591,401"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2801,677,2883,705"/>
+<area shape="rect" id="node7" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1963,753,2063,781"/>
+<area shape="rect" id="node13" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="2230,677,2331,705"/>
+<area shape="rect" id="node18" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="2069,525,2180,553"/>
+<area shape="rect" id="node21" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="2067,601,2195,629"/>
+<area shape="rect" id="node23" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="2391,525,2568,553"/>
+<area shape="rect" id="node10" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1890,829,1949,857"/>
+<area shape="rect" id="node22" href="$d9/d05/G4VExceptionHandler_8hh.html" title="G4VExceptionHandler.hh" alt="" coords="2017,677,2206,705"/>
+<area shape="rect" id="node29" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="1979,449,2222,477"/>
+<area shape="rect" id="node30" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="1823,525,2045,553"/>
+<area shape="rect" id="node43" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="2197,373,2338,401"/>
+<area shape="rect" id="node35" href="$d5/dea/Randomize_8h.html" title="CLHEP/Random/Randomize.h" alt="" coords="659,449,876,477"/>
+<area shape="rect" id="node36" href="$dd/d8b/RandExponential_8h.html" title="CLHEP/Random/RandExponential.h" alt="" coords="1065,525,1323,553"/>
+<area shape="rect" id="node37" href="$db/df5/RandFlat_8h.html" title="CLHEP/Random/RandFlat.h" alt="" coords="273,601,475,629"/>
+<area shape="rect" id="node38" href="$d4/d47/RandBit_8h.html" title="CLHEP/Random/RandBit.h" alt="" coords="277,525,471,553"/>
+<area shape="rect" id="node39" href="$dd/df9/RandGamma_8h.html" title="CLHEP/Random/RandGamma.h" alt="" coords="1347,525,1577,553"/>
+<area shape="rect" id="node40" href="$d9/db8/RandGaussQ_8h.html" title="CLHEP/Random/RandGaussQ.h" alt="" coords="23,525,253,553"/>
+<area shape="rect" id="node41" href="$db/db0/RandGeneral_8h.html" title="CLHEP/Random/RandGeneral.h" alt="" coords="496,525,727,553"/>
+<area shape="rect" id="node42" href="$dd/d36/RandPoissonQ_8h.html" title="CLHEP/Random/RandPoissonQ.h" alt="" coords="803,525,1041,553"/>
+<area shape="rect" id="node50" href="$d6/d6a/G4VParticleChange_8hh.html" title="G4VParticleChange.hh" alt="" coords="2920,373,3092,401"/>
+</map>

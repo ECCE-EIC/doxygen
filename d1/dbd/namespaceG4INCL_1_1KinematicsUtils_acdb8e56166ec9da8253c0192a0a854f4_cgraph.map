@@ -1,0 +1,23 @@
+<map id="G4INCL::KinematicsUtils::getLocalEnergy" name="G4INCL::KinematicsUtils::getLocalEnergy">
+<area shape="rect" id="node2" href="$d7/db0/classG4INCL_1_1Nucleus.html#a7703835a62951f66ee3345426890cbb0" title="Getter for theDensity." alt="" coords="275,59,491,87"/>
+<area shape="rect" id="node3" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a079107f4cfa22326214bbd3ad53d3762" title="Return the Fermi momentum for a particle." alt="" coords="237,111,528,155"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="885,177,1077,205"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="609,177,804,205"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a8ec20398365f8dbdf6b9363cbfd15820" title="Get the particle kinetic energy." alt="" coords="279,281,486,325"/>
+<area shape="rect" id="node9" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#a32053a29013b9b9e2d66c58466e6d035" title="G4INCL::NuclearDensity\l::getMaximumRadius" alt="" coords="291,349,474,393"/>
+<area shape="rect" id="node10" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#a1c8997fd8baa73bb95a039c774bafe96" title="Get the maximum allowed radius for a given momentum." alt="" coords="291,417,474,461"/>
+<area shape="rect" id="node11" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#adc67482ebab7d67e33836634cba86289" title="G4INCL::NuclearDensity\l::getMinPFromR" alt="" coords="291,485,474,529"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="264,553,501,581"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#a5575330878a28b978dc2b40df39cc6f9" title="G4INCL::Particle::getPosition" alt="" coords="276,605,489,633"/>
+<area shape="rect" id="node14" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad71bbf80385e53f0abb607e2a34a20b3" title="Getter for thePotential." alt="" coords="271,657,495,685"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#a2b7dc0e28320c39bf6d8de3cfa48d0c2" title="Get the particle potential energy." alt="" coords="273,709,492,753"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#a4f769eabec20136ed087435132b3abe2" title="Return the reflection momentum." alt="" coords="269,777,496,821"/>
+<area shape="rect" id="node17" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="607,807,807,835"/>
+<area shape="rect" id="node18" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#aa4df414d57eafb6c60d80fb6b0a8c8fa" title="Return the separation energy for a particle." alt="" coords="582,869,831,929"/>
+<area shape="rect" id="node19" href="$d7/db0/classG4INCL_1_1Nucleus.html#a80055cc5d8cb317edec8679c4cc86645" title="Getter for theUniverseRadius." alt="" coords="271,948,495,992"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#a7b8ff5b6d05059e45730c1ce83d6a862" title="G4INCL::Particle::print" alt="" coords="297,1016,468,1044"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="615,5,799,33"/>
+<area shape="rect" id="node5" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a9226b224bc55cd14cba268d662574a36" title="Return the Fermi energy for a particle." alt="" coords="576,57,837,101"/>
+<area shape="rect" id="node21" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a8ca754711723a486ef5f4beac603500a" title="Get the native INCL name of the particle." alt="" coords="625,973,789,1017"/>
+<area shape="rect" id="node22" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a30af3810cc634b9407049a08cd639e75" title="G4INCL::ThreeVector\l::print" alt="" coords="625,1041,788,1085"/>
+</map>

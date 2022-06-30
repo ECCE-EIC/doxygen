@@ -1,0 +1,33 @@
+<map id="G4ParticleHPChannelList::Register" name="G4ParticleHPChannelList::Register">
+<area shape="rect" id="node2" href="$da/de9/classG4ParticleHPChannel.html#a641e4e5f7fa917fe2a1914381e0a9024" title="G4ParticleHPChannel\l::Init" alt="" coords="241,416,405,460"/>
+<area shape="rect" id="node3" href="$da/de9/classG4ParticleHPChannel.html#ac9a3de74e603fdb3741158851f6877b0" title="G4ParticleHPChannel\l::Register" alt="" coords="241,484,405,528"/>
+<area shape="rect" id="node4" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="564,5,603,33"/>
+<area shape="rect" id="node5" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="549,57,617,85"/>
+<area shape="rect" id="node6" href="$d7/d13/classG4StableIsotopes.html#a20430f17a2f55e0a9723d62b8204a882" title="G4StableIsotopes::GetAbundance" alt="" coords="459,109,708,137"/>
+<area shape="rect" id="node7" href="$d7/d13/classG4StableIsotopes.html#acada599fa61984916c2e3afb5a0fc32b" title="G4StableIsotopes::GetFirst\lIsotope" alt="" coords="482,161,685,205"/>
+<area shape="rect" id="node8" href="$de/d80/classG4Element.html#a234032e9239515c70a4637535cbe46ed" title="G4Element::GetIsotope" alt="" coords="494,229,673,257"/>
+<area shape="rect" id="node9" href="$d7/d13/classG4StableIsotopes.html#af3536caba0c30b909df5198334f20ea5" title="G4StableIsotopes::GetIsotope\lNucleonCount" alt="" coords="472,281,695,325"/>
+<area shape="rect" id="node10" href="$d8/d66/classG4Isotope.html#a7373bb016e06196ae25950adf3ee1ee0" title="G4Isotope::Getm" alt="" coords="515,349,651,377"/>
+<area shape="rect" id="node11" href="$d8/d66/classG4Isotope.html#ab76a4582cdd212ce4ccda3b5d373a21b" title="G4Isotope::GetN" alt="" coords="517,401,649,429"/>
+<area shape="rect" id="node12" href="$d7/d13/classG4StableIsotopes.html#ae2f333c1c319835f8383122e0235ac79" title="G4StableIsotopes::GetNumber\lOfIsotopes" alt="" coords="469,453,697,497"/>
+<area shape="rect" id="node13" href="$de/d80/classG4Element.html#a8db620c908d7ef03465ebcd094d9af1a" title="G4Element::GetNumberOfIsotopes" alt="" coords="455,521,711,549"/>
+<area shape="rect" id="node14" href="$de/d80/classG4Element.html#a53f6ad00e10dbc5aeb9eb8020bc7fb51" title="G4Element::GetRelativeAbundance\lVector" alt="" coords="453,573,713,617"/>
+<area shape="rect" id="node15" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="514,641,653,669"/>
+<area shape="rect" id="node16" href="$da/de9/classG4ParticleHPChannel.html#a8099014aa16066464690d761293f3758" title="G4ParticleHPChannel\l::HasDataInAnyFinalState" alt="" coords="487,693,680,737"/>
+<area shape="rect" id="node19" href="$dc/df1/classG4ParticleHPVector.html#a08c655522ad8865b1af473992f32660d" title="G4ParticleHPVector\l::Hash" alt="" coords="507,761,659,805"/>
+<area shape="rect" id="node29" href="$df/d5c/classG4ParticleHPFinalState.html#a17ad9b694526c6f25fc5c7085907e787" title="G4ParticleHPFinalState::New" alt="" coords="477,829,690,857"/>
+<area shape="rect" id="node30" href="$df/d5c/classG4ParticleHPFinalState.html#a628314e3abf7c48b67006cb0a1d740b6" title="G4ParticleHPFinalState\l::SetA_Z" alt="" coords="496,881,671,925"/>
+<area shape="rect" id="node31" href="$df/d5c/classG4ParticleHPFinalState.html#ac84d147075612211fd252130ec9a64d2" title="G4ParticleHPFinalState\l::SetProjectile" alt="" coords="496,949,671,993"/>
+<area shape="rect" id="node32" href="$da/de9/classG4ParticleHPChannel.html#a2e3fea1aeb6148a1bb0d017fb9f84234" title="G4ParticleHPChannel\l::UpdateData" alt="" coords="501,1041,665,1085"/>
+<area shape="rect" id="node17" href="$da/de9/classG4ParticleHPChannel.html#a22ea6b4495c57168cd54b64aa1ff78a5" title="G4ParticleHPChannel\l::HasAnyData" alt="" coords="782,631,946,675"/>
+<area shape="rect" id="node18" href="$df/d5c/classG4ParticleHPFinalState.html#ace5532438a6e3a77a8e0c597ad1cda3d" title="G4ParticleHPFinalState\l::HasAnyData" alt="" coords="1037,600,1212,644"/>
+<area shape="rect" id="node20" href="$dc/df1/classG4ParticleHPVector.html#ad9ee22427d0d2d8319a6fc28fc5e014f" title="G4ParticleHPVector\l::GetX" alt="" coords="788,728,940,772"/>
+<area shape="rect" id="node23" href="$dc/df1/classG4ParticleHPVector.html#a9197c79bb642cb9f452385f96740eac2" title="G4ParticleHPVector\l::GetY" alt="" coords="788,796,940,840"/>
+<area shape="rect" id="node26" href="$d3/dae/classG4ParticleHPHash.html#a130e71a12e1eddfcb62aef6b49559755" title="G4ParticleHPHash::SetData" alt="" coords="761,888,967,916"/>
+<area shape="rect" id="node21" href="$dc/df1/classG4ParticleHPVector.html#a6fc15c55773ab98939ba26e1718c5d9c" title="G4ParticleHPVector\l::GetVectorLength" alt="" coords="1049,668,1201,712"/>
+<area shape="rect" id="node22" href="$d7/d30/classG4ParticleHPDataPoint.html#a1a80eaaa6c7d429dad5fc2b72a9c9fd4" title="G4ParticleHPDataPoint\l::GetX" alt="" coords="1037,736,1212,780"/>
+<area shape="rect" id="node24" href="$dc/df1/classG4ParticleHPVector.html#a47ec4e6de05f7e5dbab83686e6af8cb8" title="G4ParticleHPVector\l::GetXsec" alt="" coords="1049,804,1201,848"/>
+<area shape="rect" id="node25" href="$d7/d30/classG4ParticleHPDataPoint.html#a98ec935410c526f7ce9e1f8bdf887cac" title="G4ParticleHPDataPoint\l::GetY" alt="" coords="1283,804,1457,848"/>
+<area shape="rect" id="node27" href="$d7/d30/classG4ParticleHPDataPoint.html#aba9392893ce9d2da647a5f0e97d4a442" title="G4ParticleHPDataPoint\l::SetData" alt="" coords="1037,876,1212,920"/>
+<area shape="rect" id="node28" href="$d3/dae/classG4ParticleHPHash.html#a82ba518a0eb5c14ce00dd568cd4cdbb7" title="G4ParticleHPHash::G4Particle\lHPHash" alt="" coords="1015,944,1235,988"/>
+</map>

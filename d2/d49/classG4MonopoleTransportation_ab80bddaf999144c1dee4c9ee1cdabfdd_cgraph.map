@@ -1,0 +1,19 @@
+<map id="G4MonopoleTransportation::G4MonopoleTransportation" name="G4MonopoleTransportation::G4MonopoleTransportation">
+<area shape="rect" id="node2" href="$dc/d5b/classDetectorConstruction.html#adfaef0ef727dcac2915746e218a27aff" title="DetectorConstruction\l::GetMonopoleFieldSetup" alt="" coords="294,5,485,49"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a6939093ee6b1270721ce60875664722a" title="G4TransportationManager\l::GetNavigatorForTracking" alt="" coords="290,73,489,117"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#aa7ba13e916a88e7f90c6ff59209b0e2d" title="G4TransportationManager\l::GetPropagatorInField" alt="" coords="290,141,489,185"/>
+<area shape="rect" id="node6" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="267,209,511,237"/>
+<area shape="rect" id="node7" href="$d1/dd0/classG4TransportationManager.html#a1b094f8e5aba16999bd47b951241dd8a" title="G4TransportationManager\l::GetSafetyHelper" alt="" coords="290,261,489,305"/>
+<area shape="rect" id="node8" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="283,329,495,373"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#aaf4237e7b51f2077509003ce633e945a" title="G4RunManager::GetUserDetector\lConstruction" alt="" coords="265,397,513,441"/>
+<area shape="rect" id="node16" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="279,465,500,493"/>
+<area shape="rect" id="node17" href="$d7/d23/namespaceG4Threading.html#a758c2bb8cc25d5961ccff43546c368f5" title="G4Threading::IsMultithreaded\lApplication" alt="" coords="278,517,501,561"/>
+<area shape="rect" id="node18" href="$d2/d84/classG4VProcess.html#a9602614111341ee644e4d1452e2b3792" title="G4VProcess::SetProcessSubType" alt="" coords="269,585,509,613"/>
+<area shape="rect" id="node3" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="607,13,723,41"/>
+<area shape="rect" id="node9" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="561,329,768,373"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="877,217,983,245"/>
+<area shape="rect" id="node11" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="833,269,1027,313"/>
+<area shape="rect" id="node12" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="853,337,1007,365"/>
+<area shape="rect" id="node13" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="845,389,1015,417"/>
+<area shape="rect" id="node14" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="816,441,1044,469"/>
+</map>

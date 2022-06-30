@@ -1,0 +1,19 @@
+<map id="G4PathFinder::ComputeSafety" name="G4PathFinder::ComputeSafety">
+<area shape="rect" id="node2" href="$de/d27/classG4CoupledTransportation.html#ae740ca312a3927518be8b5775f3419c0" title="G4CoupledTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="279,240,529,300"/>
+<area shape="rect" id="node3" href="$d3/db4/classG4SafetyHelper.html#a11f8ff735d2ab59e677c5ee297d51367" title="G4SafetyHelper::ComputeSafety" alt="" coords="283,324,525,352"/>
+<area shape="rect" id="node12" href="$db/d01/classG4ITSafetyHelper.html#a9831bb09cab52576e642a4a7502bcd6d" title="G4ITSafetyHelper::Compute\lSafety" alt="" coords="299,376,509,420"/>
+<area shape="rect" id="node13" href="$dd/dfc/classG4PathFinder.html#a11b898dc40e6b14240af2c7764c21dcf" title="G4PathFinder::ReLocate" alt="" coords="313,448,495,476"/>
+<area shape="rect" id="node4" href="$d0/d99/classG4VMscModel.html#ad6478b61c17da3935a41df21931062f1" title="G4VMscModel::ComputeSafety" alt="" coords="577,184,808,212"/>
+<area shape="rect" id="node10" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="604,285,781,329"/>
+<area shape="rect" id="node11" href="$d9/d2a/classG4VMultipleScattering.html#abd351071e38614aaf52f885a6684e140" title="G4VMultipleScattering\l::AlongStepDoIt" alt="" coords="896,345,1068,389"/>
+<area shape="rect" id="node5" href="$db/dfc/classG4UrbanAdjointMscModel.html#ae7a844555aab4e856ec528f2f53c026c" title="G4UrbanAdjointMscModel\l::ComputeTruePathLengthLimit" alt="" coords="867,5,1097,49"/>
+<area shape="rect" id="node6" href="$d4/d8e/classG4LowEWentzelVIModel.html#abb79f918337f06fc12ffdc5afbb28d7d" title="G4LowEWentzelVIModel\l::ComputeTruePathLengthLimit" alt="" coords="867,73,1097,117"/>
+<area shape="rect" id="node7" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a0de90a47374946419b4f1d4d37521b3c" title="G4GoudsmitSaundersonMscModel\l::ComputeTruePathLengthLimit" alt="" coords="856,141,1108,185"/>
+<area shape="rect" id="node8" href="$d4/da8/classG4UrbanMscModel.html#aea643fad3aceb315f928ed32b62446b8" title="G4UrbanMscModel::Compute\lTruePathLengthLimit" alt="" coords="873,209,1091,253"/>
+<area shape="rect" id="node9" href="$d8/d2f/classG4WentzelVIModel.html#a2c800adcd96eb414b0827d208bfb46ee" title="G4WentzelVIModel::Compute\lTruePathLengthLimit" alt="" coords="873,277,1091,321"/>
+<area shape="rect" id="node14" href="$d3/db4/classG4SafetyHelper.html#aa77afbc1285c00fdf363efaf7a0177b7" title="G4SafetyHelper::ReLocate\lWithinVolume" alt="" coords="593,409,792,453"/>
+<area shape="rect" id="node17" href="$db/d01/classG4ITSafetyHelper.html#a300aa5b2f83fa3a6060b276d88da80c0" title="G4ITSafetyHelper::ReLocate\lWithinVolume" alt="" coords="587,477,798,521"/>
+<area shape="rect" id="node18" href="$de/d27/classG4CoupledTransportation.html#a4b9eb814354a9be6f862c2cd9e350cf0" title="G4CoupledTransportation\l::PostStepDoIt" alt="" coords="596,545,789,589"/>
+<area shape="rect" id="node15" href="$d1/d29/classG4MuNeutrinoNucleusProcess.html#aa9b59409a76e85a604a3a574de89fd48" title="G4MuNeutrinoNucleusProcess\l::PostStepDoIt" alt="" coords="870,413,1094,457"/>
+<area shape="rect" id="node16" href="$d2/dd8/classG4NeutrinoElectronProcess.html#a17871ae57859a29e6508e9c3ef9960d5" title="G4NeutrinoElectronProcess\l::PostStepDoIt" alt="" coords="879,481,1085,525"/>
+</map>

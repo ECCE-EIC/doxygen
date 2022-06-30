@@ -1,0 +1,21 @@
+<map id="G4VEmAdjointModel::ComputeAdjointCrossSectionVectorPerAtomForScatProj" name="G4VEmAdjointModel::ComputeAdjointCrossSectionVectorPerAtomForScatProj">
+<area shape="rect" id="node2" href="$df/d40/classG4VEmAdjointModel.html#aad2cf50272b40b848b6809740ae5d9e2" title="G4VEmAdjointModel::\lDiffCrossSectionFunction2" alt="" coords="293,91,491,135"/>
+<area shape="rect" id="node16" href="$df/d40/classG4VEmAdjointModel.html#a5ccc30019a755acf4c8251a7b31d14ff" title="G4VEmAdjointModel::\lGetLowEnergyLimit" alt="" coords="308,159,476,203"/>
+<area shape="rect" id="node17" href="$df/d40/classG4VEmAdjointModel.html#a771159b6e20eb6ba42b46bf68c3f89f3" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMaxForScat\lProjToProjCase" alt="" coords="271,227,513,287"/>
+<area shape="rect" id="node18" href="$df/d40/classG4VEmAdjointModel.html#afdc1375ec0e9c273aa2e3b2402e75888" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMinForScat\lProjToProjCase" alt="" coords="272,311,512,371"/>
+<area shape="rect" id="node19" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="372,395,412,423"/>
+<area shape="rect" id="node20" href="$d5/d82/classG4Integrator.html#a51a1142a525b2a2966e93eb3e08f2659" title="G4Integrator::Simpson" alt="" coords="305,447,479,475"/>
+<area shape="rect" id="node3" href="$df/d40/classG4VEmAdjointModel.html#a625bb4cc126936696f99d2fb1aba36f7" title="G4VEmAdjointModel::\lDiffCrossSectionPerAtomPrim\lToScatPrim" alt="" coords="569,41,788,101"/>
+<area shape="rect" id="node8" href="$df/d40/classG4VEmAdjointModel.html#a1e97060cefb1d7340cdce7e71d343610" title="G4VEmAdjointModel::\lDiffCrossSectionPerVolumePrim\lToScatPrim" alt="" coords="561,125,796,185"/>
+<area shape="rect" id="node4" href="$df/d40/classG4VEmAdjointModel.html#ad7711897aa5c7ae56d540feb7a4be143" title="G4VEmAdjointModel::\lDiffCrossSectionPerAtomPrim\lToSecond" alt="" coords="852,41,1071,101"/>
+<area shape="rect" id="node5" href="$df/d40/classG4VEmAdjointModel.html#a3a70c844a4425b64c6dad91d679fad02" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMaxForProd\lToProjCase" alt="" coords="1127,41,1369,101"/>
+<area shape="rect" id="node6" href="$df/d40/classG4VEmAdjointModel.html#a8d3c99e8b40d0dde12fdc4a94abf5953" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMinForProd\lToProjCase" alt="" coords="1129,125,1367,185"/>
+<area shape="rect" id="node7" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="1438,5,1658,49"/>
+<area shape="rect" id="node9" href="$df/d40/classG4VEmAdjointModel.html#a597678bbdf836731965a1142d61f06ca" title="G4VEmAdjointModel::\lDiffCrossSectionPerVolumePrim\lToSecond" alt="" coords="844,125,1079,185"/>
+<area shape="rect" id="node10" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="1144,209,1352,253"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="1430,269,1666,297"/>
+<area shape="rect" id="node12" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1471,321,1625,365"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="1433,97,1663,141"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1417,165,1679,193"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="1455,217,1641,245"/>
+</map>

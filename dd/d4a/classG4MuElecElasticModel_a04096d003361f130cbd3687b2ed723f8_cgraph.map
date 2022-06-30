@@ -1,0 +1,36 @@
+<map id="G4MuElecElasticModel::Initialise" name="G4MuElecElasticModel::Initialise">
+<area shape="rect" id="node2" href="$d3/d96/classG4Electron.html#a981418d4d6fdb59a467c7070c691e53b" title="G4Electron::ElectronDefinition" alt="" coords="237,352,463,380"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1426,451,1533,479"/>
+<area shape="rect" id="node17" href="$d3/dc1/classG4VEmModel.html#a33daba8fe8e5e6e65cead26b69149b23" title="G4VEmModel::GetParticleChange\lForGamma" alt="" coords="227,503,473,547"/>
+<area shape="rect" id="node19" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="273,571,427,615"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="233,639,467,667"/>
+<area shape="rect" id="node21" href="$de/da2/classG4MuElecCrossSectionDataSet.html#a62cf9efe9d1b0a2c4053401fa235f6ad" title="G4MuElecCrossSectionData\lSet::LoadData" alt="" coords="816,707,1023,751"/>
+<area shape="rect" id="node33" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="235,743,465,771"/>
+<area shape="rect" id="node34" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="239,795,461,839"/>
+<area shape="rect" id="node35" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="241,863,459,907"/>
+<area shape="rect" id="node3" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="558,305,729,333"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="813,305,1025,333"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="837,365,1001,409"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="815,156,1023,200"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="820,237,1019,281"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1073,296,1317,324"/>
+<area shape="rect" id="node7" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1083,348,1307,376"/>
+<area shape="rect" id="node8" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1388,261,1571,289"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1095,143,1296,187"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1391,57,1567,101"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1391,125,1567,169"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1402,193,1557,237"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1365,5,1593,33"/>
+<area shape="rect" id="node18" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="521,511,765,539"/>
+<area shape="rect" id="node22" href="$de/da2/classG4MuElecCrossSectionDataSet.html#a2419f8e1aa04bfdad74d91c0ebcbdb64" title="G4MuElecCrossSectionData\lSet::AddComponent" alt="" coords="1092,947,1299,991"/>
+<area shape="rect" id="node23" href="$de/da2/classG4MuElecCrossSectionDataSet.html#a2821bc6a92a75b770617e9a5ffb04f97" title="G4MuElecCrossSectionData\lSet::CleanUpComponents" alt="" coords="1092,503,1299,547"/>
+<area shape="rect" id="node24" href="$de/da2/classG4MuElecCrossSectionDataSet.html#a0639a2e4dc9572e48fe9e492423c42a9" title="G4MuElecCrossSectionData\lSet::FullFileName" alt="" coords="1092,571,1299,615"/>
+<area shape="rect" id="node25" href="$de/da2/classG4MuElecCrossSectionDataSet.html#a2c073fbdd56aab64e87a01e9ac2e93be" title="G4MuElecCrossSectionData\lSet::GetAlgorithm" alt="" coords="1092,639,1299,683"/>
+<area shape="rect" id="node26" href="$de/da2/classG4MuElecCrossSectionDataSet.html#ac93c68e7dd1f4b05f165059782079b0a" title="G4MuElecCrossSectionData\lSet::GetUnitData" alt="" coords="1092,707,1299,751"/>
+<area shape="rect" id="node27" href="$de/da2/classG4MuElecCrossSectionDataSet.html#a03b7fcb22490bf87b22dd597954b1f2f" title="G4MuElecCrossSectionData\lSet::GetUnitEnergies" alt="" coords="1092,775,1299,819"/>
+<area shape="rect" id="node28" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1154,895,1237,923"/>
+<area shape="rect" id="node29" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1371,819,1587,863"/>
+<area shape="rect" id="node30" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1373,887,1585,931"/>
+<area shape="rect" id="node31" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1374,955,1585,999"/>
+<area shape="rect" id="node32" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1641,955,1809,999"/>
+</map>

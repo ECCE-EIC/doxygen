@@ -1,0 +1,30 @@
+<map id="CexmcPrimaryGeneratorAction::GeneratePrimaries" name="CexmcPrimaryGeneratorAction::GeneratePrimaries">
+<area shape="rect" id="node2" href="$de/dcc/CexmcCommon_8hh.html#ae7ece4ca135312c2d95acc6a8ae56cd8" title="CexmcFwhmToStddev" alt="" coords="319,131,489,159"/>
+<area shape="rect" id="node3" href="$dc/ded/classG4ParticleGun.html#ae379db98a1089954ae61be18581b3042" title="G4ParticleGun::GeneratePrimary\lVertex" alt="" coords="283,359,525,403"/>
+<area shape="rect" id="node18" href="$d5/db1/classCexmcParticleGun.html#ac130e2ec24e331714677c45c186112fc" title="CexmcParticleGun::GetOrig\lDirection" alt="" coords="301,427,507,471"/>
+<area shape="rect" id="node19" href="$d5/db1/classCexmcParticleGun.html#a5c569d638f693b0460ed80ed5c8fbb91" title="CexmcParticleGun::GetOrig\lMomentumAmp" alt="" coords="301,495,507,539"/>
+<area shape="rect" id="node20" href="$d5/db1/classCexmcParticleGun.html#a62739d2a769518e7105d310378568d0d" title="CexmcParticleGun::GetOrig\lPosition" alt="" coords="301,563,507,607"/>
+<area shape="rect" id="node21" href="$d5/db1/classCexmcParticleGun.html#a3df9301afb658749f0ba6bcdf4a2adb7" title="CexmcParticleGun::Prepare\lForNewEvent" alt="" coords="301,631,507,675"/>
+<area shape="rect" id="node22" href="$dc/ded/classG4ParticleGun.html#ae6216b0614a12091f96027e2541846f3" title="G4ParticleGun::SetParticle\lMomentum" alt="" coords="305,183,503,227"/>
+<area shape="rect" id="node24" href="$dc/ded/classG4ParticleGun.html#a1cf3f060ee960071bfb26fcb3bed63b7" title="G4ParticleGun::SetParticle\lMomentumDirection" alt="" coords="305,699,503,743"/>
+<area shape="rect" id="node26" href="$db/d9d/classG4VPrimaryGenerator.html#aec08e7aabccac4a0c0089cc49178e59c" title="G4VPrimaryGenerator\l::SetParticlePosition" alt="" coords="319,767,489,811"/>
+<area shape="rect" id="node27" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="325,836,483,880"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="634,364,741,392"/>
+<area shape="rect" id="node5" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="610,73,765,117"/>
+<area shape="rect" id="node6" href="$df/d7e/classG4PrimaryParticle.html#a6bf5d884c9134b54923afa830ab0cae4" title="G4PrimaryParticle::\lSetKineticEnergy" alt="" coords="612,416,763,460"/>
+<area shape="rect" id="node7" href="$df/d7e/classG4PrimaryParticle.html#a9a1323191192c663fffe38cbefa315b1" title="G4PrimaryParticle::\lSetMass" alt="" coords="612,484,763,528"/>
+<area shape="rect" id="node8" href="$df/d7e/classG4PrimaryParticle.html#a95efb520a8f56abc60d22d891822ab4d" title="G4PrimaryParticle::\lSetMomentumDirection" alt="" coords="597,552,777,596"/>
+<area shape="rect" id="node9" href="$df/d7e/classG4PrimaryParticle.html#a2c742ead33c25cd673e069fe99dd57d1" title="G4PrimaryParticle::\lSetCharge" alt="" coords="612,620,763,664"/>
+<area shape="rect" id="node10" href="$df/d7e/classG4PrimaryParticle.html#a53b70d9a9f83c52bbbc267f2b458c8ed" title="G4PrimaryParticle::\lSetPolarization" alt="" coords="612,193,763,237"/>
+<area shape="rect" id="node11" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="864,229,1033,257"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="864,297,1033,325"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="865,175,1033,203"/>
+<area shape="rect" id="node14" href="$de/dbd/classG4PrimaryVertex.html#ab3554dca89ed5a3ad41fac6d16a71796" title="G4PrimaryVertex::SetPrimary" alt="" coords="578,688,797,716"/>
+<area shape="rect" id="node16" href="$d5/de2/classG4Event.html#aabf700be265d0bc4d4f9f273f061145d" title="G4Event::AddPrimaryVertex" alt="" coords="583,740,792,768"/>
+<area shape="rect" id="node15" href="$df/d7e/classG4PrimaryParticle.html#a5cc6ce76c958eaaccd8621cbf5328d69" title="G4PrimaryParticle::\lSetNext" alt="" coords="873,664,1024,708"/>
+<area shape="rect" id="node17" href="$de/dbd/classG4PrimaryVertex.html#a2ecd1d312d0f77ab258341007472e53c" title="G4PrimaryVertex::SetNext" alt="" coords="849,756,1048,784"/>
+<area shape="rect" id="node23" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="610,5,765,49"/>
+<area shape="rect" id="node25" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="593,792,781,820"/>
+<area shape="rect" id="node28" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="573,844,801,872"/>
+<area shape="rect" id="node29" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="856,869,1041,897"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="G4TwistBoxSide::DistanceToSurface" name="G4TwistBoxSide::DistanceToSurface">
+<area shape="rect" id="node2" href="$d1/d19/classG4VTwistSurface.html#a3bd71f96525627e90c54f8263e6d53a8" title="G4VTwistSurface::Compute\lGlobalPoint" alt="" coords="275,5,479,49"/>
+<area shape="rect" id="node3" href="$d1/d19/classG4VTwistSurface.html#aaef9531b1a05a89681d1f88e73505013" title="G4VTwistSurface::Compute\lLocalPoint" alt="" coords="275,73,479,117"/>
+<area shape="rect" id="node4" href="$d1/d19/classG4VTwistSurface.html#a202717245e7d4cbf6d920712d3ddc818" title="G4VTwistSurface::Distance\lToPlane" alt="" coords="275,141,478,185"/>
+<area shape="rect" id="node5" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a36a7aa9675d208157e6d93140694b911" title="G4VTwistSurface::Current\lStatus::GetAreacode" alt="" coords="279,209,474,253"/>
+<area shape="rect" id="node6" href="$d5/d01/classG4TwistBoxSide.html#a2f93e3aa7f80f436d5a12b96a83dae55" title="G4TwistBoxSide::GetBoundaryMax" alt="" coords="249,277,504,305"/>
+<area shape="rect" id="node8" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a5e49b52c8ebb9da160fc96e8005fa6af" title="G4VTwistSurface::Current\lStatus::GetDistance" alt="" coords="279,329,474,373"/>
+<area shape="rect" id="node9" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a85bae4e198e2bd111a195c460aabc453" title="G4VTwistSurface::Current\lStatus::GetNXX" alt="" coords="279,397,474,441"/>
+<area shape="rect" id="node10" href="$d5/d01/classG4TwistBoxSide.html#adedcde540c02ce52fc6c5b125fdf3d5e" title="G4TwistBoxSide::GetPhiUAtX" alt="" coords="269,465,484,493"/>
+<area shape="rect" id="node14" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a5434ab56b08aadc55d136fea88b3f233" title="G4VTwistSurface::Current\lStatus::GetXX" alt="" coords="279,517,474,561"/>
+<area shape="rect" id="node15" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#a5f7a8c52cae4087e2a63cdbdf5a532de" title="G4VTwistSurface::Current\lStatus::IsDone" alt="" coords="279,585,474,629"/>
+<area shape="rect" id="node16" href="$d5/d01/classG4TwistBoxSide.html#a463834192497070d1787be53ecbd95e3" title="G4TwistBoxSide::NormAng" alt="" coords="277,653,477,681"/>
+<area shape="rect" id="node18" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#aeb8f7882b23cb44c3cf43e96772c2b66" title="G4VTwistSurface::Current\lStatus::ResetfDone" alt="" coords="279,705,474,749"/>
+<area shape="rect" id="node19" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="285,773,468,801"/>
+<area shape="rect" id="node20" href="$d4/d94/classG4VTwistSurface_1_1CurrentStatus.html#aabedd975427a2506d89d38283023308a" title="G4VTwistSurface::Current\lStatus::SetCurrentStatus" alt="" coords="279,825,474,869"/>
+<area shape="rect" id="node22" href="$d5/d01/classG4TwistBoxSide.html#a27e88393f6919a422f2b87879f3e580f" title="G4TwistBoxSide::SurfacePoint" alt="" coords="265,893,488,921"/>
+<area shape="rect" id="node7" href="$d5/d01/classG4TwistBoxSide.html#a6c7c0369561b8a5f5bd52e84e555f70b" title="G4TwistBoxSide::GetValueB" alt="" coords="552,277,760,305"/>
+<area shape="rect" id="node11" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="572,413,740,441"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="571,465,741,493"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="571,517,741,545"/>
+<area shape="rect" id="node17" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="562,653,750,681"/>
+<area shape="rect" id="node21" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="603,833,709,861"/>
+<area shape="rect" id="node23" href="$d5/d01/classG4TwistBoxSide.html#a6b1cf08fc27a80e04bcd619fde048f39" title="G4TwistBoxSide::Xcoef" alt="" coords="568,893,744,921"/>
+<area shape="rect" id="node24" href="$d5/d01/classG4TwistBoxSide.html#abf982c0dcf9e9c9441b5c8afe8d22a3e" title="G4TwistBoxSide::GetValueA" alt="" coords="808,893,1016,921"/>
+</map>

@@ -1,0 +1,25 @@
+var classG4UnionSolid =
+[
+    [ "G4UnionSolid", "de/d18/classG4UnionSolid.html#a00a97618e18f15126726763bfd423a5a", null ],
+    [ "G4UnionSolid", "de/d18/classG4UnionSolid.html#a8421c9d12ae008151b5d2e7376791d39", null ],
+    [ "G4UnionSolid", "de/d18/classG4UnionSolid.html#adf1c033ab190168e94fd0044227f9136", null ],
+    [ "~G4UnionSolid", "de/d18/classG4UnionSolid.html#a1fbd89d9249afd43c997ccf130c3bbdb", null ],
+    [ "G4UnionSolid", "de/d18/classG4UnionSolid.html#a1aa182530556c75188a1f142f5e66793", null ],
+    [ "G4UnionSolid", "de/d18/classG4UnionSolid.html#afee5a282dce4088fa8a56205e43131b7", null ],
+    [ "BoundingLimits", "de/d18/classG4UnionSolid.html#a8d07c8902c567998888681c944dc704b", null ],
+    [ "CalculateExtent", "de/d18/classG4UnionSolid.html#a97c59c4892cc03b48cf520f1a383ef4f", null ],
+    [ "Clone", "de/d18/classG4UnionSolid.html#a5fdc3a2d6649179c9a9e129b9ecb9529", null ],
+    [ "ComputeDimensions", "de/d18/classG4UnionSolid.html#af0f3955fa71d0af9b12dc240609c0edb", null ],
+    [ "CreatePolyhedron", "de/d18/classG4UnionSolid.html#abde93ad40856d3a6dad59c129f3cd3d9", null ],
+    [ "DescribeYourselfTo", "de/d18/classG4UnionSolid.html#abda7b28dc0093ae8094305a4029adab6", null ],
+    [ "DistanceToIn", "de/d18/classG4UnionSolid.html#ac4c67f377dd98d0af7cb40d32177c106", null ],
+    [ "DistanceToIn", "de/d18/classG4UnionSolid.html#aa96b5d2bbfd4aa95fb976d2c1203db96", null ],
+    [ "DistanceToOut", "de/d18/classG4UnionSolid.html#a338742d6bef963093e5e167650794c17", null ],
+    [ "DistanceToOut", "de/d18/classG4UnionSolid.html#ae5e7ca403324e15eef993f77a849b666", null ],
+    [ "GetEntityType", "de/d18/classG4UnionSolid.html#ac9558df1eb0c46f5185702677a8509a0", null ],
+    [ "Inside", "de/d18/classG4UnionSolid.html#ad40953e1a4ca92ce0d417c81853bf202", null ],
+    [ "operator=", "de/d18/classG4UnionSolid.html#a3ced4c24e7799478a8596189be40d242", null ],
+    [ "SurfaceNormal", "de/d18/classG4UnionSolid.html#a5d01a3b7905602de19649824b5297a2b", null ],
+    [ "fPMax", "de/d18/classG4UnionSolid.html#a2ab8c6b3ad754fe4b697f9b18e34de10", null ],
+    [ "fPMin", "de/d18/classG4UnionSolid.html#aabc9eef0c20114c0b6e4333a9d72f2a5", null ]
+];

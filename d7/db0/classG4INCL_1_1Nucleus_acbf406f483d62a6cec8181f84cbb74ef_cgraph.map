@@ -1,0 +1,51 @@
+<map id="G4INCL::Nucleus::Nucleus" name="G4INCL::Nucleus::Nucleus">
+<area shape="rect" id="node2" href="$df/d2d/namespaceG4INCL_1_1NuclearDensityFactory.html#aeb3458233c67abd3001bd3d5c27be36d" title="G4INCL::NuclearDensityFactory\l::createDensity" alt="" coords="255,623,487,667"/>
+<area shape="rect" id="node24" href="$d0/da7/namespaceG4INCL_1_1NuclearPotential.html#a02bc6360aa312bbedeb94352dcd920d2" title="Create an INuclearPotential object." alt="" coords="276,691,467,735"/>
+<area shape="rect" id="node25" href="$da/d4f/classG4INCL_1_1Config.html#a72fa7e5f4a9e88ada62c8b61ae74d79b" title="Do we want the pion potential?" alt="" coords="251,759,492,787"/>
+<area shape="rect" id="node26" href="$da/d4f/classG4INCL_1_1Config.html#a2e3c113f8f5184b9f3ee50d4126c3b44" title="Get the type of the potential for nucleons." alt="" coords="249,811,493,839"/>
+<area shape="rect" id="node27" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#aa4df414d57eafb6c60d80fb6b0a8c8fa" title="Return the separation energy for a particle." alt="" coords="549,829,798,889"/>
+<area shape="rect" id="node29" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a625688b81175c9d245dcc22cf6fa6c57" title="Setter for theDensity." alt="" coords="278,915,465,959"/>
+<area shape="rect" id="node48" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a7ce9f2c45873422d2fc043098ac0efca" title="Setter for protonSeparationEnergy." alt="" coords="258,983,485,1027"/>
+<area shape="rect" id="node49" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a0086f69c41b791439a3bbe5e9912c66f" title="Setter for thePotential." alt="" coords="278,1051,465,1095"/>
+<area shape="rect" id="node50" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#ad28c89b2bf7d72fd7fc6deda6b8de222" title="Setter for protonSeparationEnergy." alt="" coords="264,1119,479,1163"/>
+<area shape="rect" id="node3" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="2181,551,2220,579"/>
+<area shape="rect" id="node4" href="$df/d2d/namespaceG4INCL_1_1NuclearDensityFactory.html#a091063bb10b77b218bdc98498722f404" title="G4INCL::NuclearDensityFactory\l::createRPCorrelationTable" alt="" coords="557,539,789,583"/>
+<area shape="rect" id="node5" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a46a87c3871f07858d95a7ddd5fa5f5c5" title="G4INCL::ParticleTable\l::getRadiusParameter" alt="" coords="1575,499,1743,543"/>
+<area shape="rect" id="node9" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#ab6ce8aa3f2f24696690fb2be8e410522" title="G4INCL::ParticleTable\l::getSurfaceDiffuseness" alt="" coords="1567,413,1750,457"/>
+<area shape="rect" id="node10" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a6f3b2bb4cb99f9f51e716d22cf115c3a" title="G4INCL::ParticleTable\l::getMaximumNuclearRadius" alt="" coords="885,508,1101,552"/>
+<area shape="rect" id="node12" href="$da/d7a/classG4INCL_1_1IFunction1D.html#a56b65643e66386b6ae02cec189be7e82" title="Return a pointer to the inverse of the CDF of this function." alt="" coords="913,269,1073,313"/>
+<area shape="rect" id="node17" href="$d1/dbe/namespaceG4INCL_1_1Math.html#a5294f050162c16a94ed95da5807b58cb" title="G4INCL::Math::pow13" alt="" coords="1575,1065,1742,1093"/>
+<area shape="rect" id="node18" href="$d5/d81/classG4INCL_1_1InterpolationTable.html#a0298ba048c32e38e971b72fa2e3bb181" title="G4INCL::InterpolationTable\l::print" alt="" coords="892,137,1093,181"/>
+<area shape="rect" id="node6" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a76025ec9abdf874fb975067a1dfbfc3f" title="Get the value of the r&#45;p correlation coefficient." alt="" coords="1877,405,2094,449"/>
+<area shape="rect" id="node7" href="$d1/dde/namespaceG4INCL_1_1HFB.html#aa734e794bb9a5d2787d44d01c725f709" title="Get the radius and diffuseness parameters from HFB calculations." alt="" coords="1845,473,2125,501"/>
+<area shape="rect" id="node8" href="$d1/dde/namespaceG4INCL_1_1HFB.html#a48739f247ee78c4848ffd04412a96946" title="G4INCL::HFB::getSurfaceDiffusenessHFB" alt="" coords="1837,353,2133,381"/>
+<area shape="rect" id="node11" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#aef86c3410e38c769321d2da25d6edc66" title="G4INCL::ParticleTable\l::getNuclearRadius" alt="" coords="1248,508,1412,552"/>
+<area shape="rect" id="node13" href="$da/d7a/classG4INCL_1_1IFunction1D.html#ad302a445aa9c714c0e5ec0706db1bef4" title="G4INCL::IFunction1D\l::IFunction1D" alt="" coords="1250,133,1410,177"/>
+<area shape="rect" id="node14" href="$da/d7a/classG4INCL_1_1IFunction1D.html#a973ea199c98822079b443c460caeba00" title="Return the minimum allowed value of the independent variable." alt="" coords="1250,201,1410,245"/>
+<area shape="rect" id="node15" href="$da/d7a/classG4INCL_1_1IFunction1D.html#adb10149badbb2d687c7f1a12959e78b4" title="Return the maximum allowed value of the independent variable." alt="" coords="1250,269,1410,313"/>
+<area shape="rect" id="node16" href="$da/d7a/classG4INCL_1_1IFunction1D.html#a231b738a04ffa12f6fa310a20f5c26e2" title="Compute the value of the function." alt="" coords="1250,337,1410,381"/>
+<area shape="rect" id="node19" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1289,81,1371,109"/>
+<area shape="rect" id="node20" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1551,73,1767,117"/>
+<area shape="rect" id="node21" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1553,141,1765,185"/>
+<area shape="rect" id="node22" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1553,5,1764,49"/>
+<area shape="rect" id="node23" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1901,5,2069,49"/>
+<area shape="rect" id="node28" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="1889,779,2081,807"/>
+<area shape="rect" id="node30" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#af23dda8fb528b65f547290c96193c557" title="G4INCL::ParticleSampler\l::updateSampleOneParticleMethods" alt="" coords="541,1051,805,1095"/>
+<area shape="rect" id="node31" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a807ef02b2d9a3ba05ffdeb8f01db7560" title="Sample one particle taking into account the rp&#45;correlation." alt="" coords="853,965,1132,1009"/>
+<area shape="rect" id="node43" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#aca46376cfd760fe3fb068e2780735560" title="Sample one particle with a fuzzy rp&#45;correlation." alt="" coords="880,1059,1105,1119"/>
+<area shape="rect" id="node47" href="$d4/d0c/classG4INCL_1_1ParticleSampler.html#a16048c085a776f8ff0e8bf976c7b36c3" title="Sample one particle not taking into account the rp&#45;correlation." alt="" coords="1180,1312,1480,1356"/>
+<area shape="rect" id="node32" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a079107f4cfa22326214bbd3ad53d3762" title="Return the Fermi momentum for a particle." alt="" coords="1185,780,1475,824"/>
+<area shape="rect" id="node36" href="$d5/d11/namespaceG4INCL_1_1Random.html#a4fcbde6d83379cf49dea7f18ccc0699a" title="G4INCL::Random::sphereVector" alt="" coords="1213,1140,1447,1168"/>
+<area shape="rect" id="node40" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="1230,900,1430,928"/>
+<area shape="rect" id="node41" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#a1c8997fd8baa73bb95a039c774bafe96" title="Get the maximum allowed radius for a given momentum." alt="" coords="1239,1020,1421,1064"/>
+<area shape="rect" id="node42" href="$dd/d83/classG4INCL_1_1Particle.html#a30e744f1e4f81a008244229bb2ce2f7a" title="Set the uncorrelated momentum." alt="" coords="1207,952,1453,996"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="1567,831,1751,859"/>
+<area shape="rect" id="node34" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a9226b224bc55cd14cba268d662574a36" title="Return the Fermi energy for a particle." alt="" coords="1528,935,1789,979"/>
+<area shape="rect" id="node35" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="1561,883,1756,911"/>
+<area shape="rect" id="node37" href="$d5/d11/namespaceG4INCL_1_1Random.html#a0d9e4bdbfe25ceeb7cd3f786da732386" title="G4INCL::Random::normVector" alt="" coords="1547,1289,1771,1317"/>
+<area shape="rect" id="node39" href="$d5/d11/namespaceG4INCL_1_1Random.html#a720dc01e17d4f17c748c981b6b93a8a7" title="G4INCL::Random::shoot0" alt="" coords="1563,1117,1754,1145"/>
+<area shape="rect" id="node38" href="$d5/d11/namespaceG4INCL_1_1Random.html#aad2134de367e586ed59d4ebc233f65ae" title="G4INCL::Random::shoot" alt="" coords="1894,1289,2077,1317"/>
+<area shape="rect" id="node44" href="$d5/d11/namespaceG4INCL_1_1Random.html#aea2cb591d7eb807ab95ca5c3aa6644a1" title="Generate pairs of correlated uniform random numbers." alt="" coords="1223,1192,1437,1236"/>
+<area shape="rect" id="node45" href="$d5/d11/namespaceG4INCL_1_1Random.html#ae06e1c0a2548a5b792b401338be64cd9" title="Generate pairs of correlated Gaussian random numbers." alt="" coords="1552,1221,1765,1265"/>
+<area shape="rect" id="node46" href="$d1/dbe/namespaceG4INCL_1_1Math.html#a3e7dd121606f1928a328eb2327a3882c" title="Cumulative distribution function for Gaussian." alt="" coords="1553,1169,1764,1197"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4FieldManager::SetChordFinder" name="G4FieldManager::SetChordFinder">
+<area shape="rect" id="node2" href="$de/d03/classCCalDetectorConstruction.html#a8b6bebc7e4a806aab4e4da8efe9cd818" title="CCalDetectorConstruction\l::Construct" alt="" coords="281,5,477,49"/>
+<area shape="rect" id="node3" href="$df/de8/classF04GlobalField.html#a1998b67aa9a08c635ea3453041455c22" title="constructs all field tracking objects" alt="" coords="281,73,477,117"/>
+<area shape="rect" id="node6" href="$de/ddc/classPHG4BeamlineMagnetDetector.html#a248f2983c53a1213681f7835b9379e6b" title="construct" alt="" coords="263,141,495,185"/>
+<area shape="rect" id="node7" href="$db/d20/classG4JLeicBeamLineMagnetDetector.html#ac3b86eef6ac7346fbcdce739a6d7b3ef" title="construct" alt="" coords="255,209,503,253"/>
+<area shape="rect" id="node8" href="$d7/dfb/classExUCNDetectorConstruction.html#a3e0dd407637979f70d430afdaf03da60" title="ExUCNDetectorConstruction\l::ConstructSDandField" alt="" coords="273,277,484,321"/>
+<area shape="rect" id="node9" href="$d7/d31/classF05DetectorConstruction.html#aca447fec8292695bf25a88a880e264d1" title="F05DetectorConstruction\l::ConstructSDandField" alt="" coords="284,345,473,389"/>
+<area shape="rect" id="node10" href="$df/dc1/classF06DetectorConstruction.html#abe62e126a19f57a23727808c1837056e" title="F06DetectorConstruction\l::ConstructSDandField" alt="" coords="284,413,473,457"/>
+<area shape="rect" id="node11" href="$d3/d9a/classLaserDrivenBeamLine.html#a445368c714759be0fe68ab2590b66e2c" title="LaserDrivenBeamLine\l::ConstructSDandField" alt="" coords="293,481,464,525"/>
+<area shape="rect" id="node12" href="$db/d6c/classF01FieldSetup.html#a2f8352135d0c914eeb7bb9ebc71caaeb" title="F01FieldSetup::CreateStepper\lAndChordFinder" alt="" coords="267,601,491,645"/>
+<area shape="rect" id="node13" href="$db/d6c/classF01FieldSetup.html#a9ef5de492a979520a10828f4f6fb2de6" title="F01FieldSetup::InitialiseAll" alt="" coords="577,513,775,541"/>
+<area shape="rect" id="node17" href="$df/d79/pymodG4geometry_8cc.html#a80e8e3a2dc0f19a747d6b50a82d2bc94" title="export_G4FieldManager" alt="" coords="287,669,470,697"/>
+<area shape="rect" id="node19" href="$dd/d88/classG4ErrorPropagatorManager.html#ac15bf24dbd29b84235f6a161f3be1bc4" title="G4ErrorPropagatorManager\l::InitFieldForBackwards" alt="" coords="275,721,482,765"/>
+<area shape="rect" id="node34" href="$d6/dcd/classPHG4OuterHcalFieldSetup.html#a01e9d69a6c6669bf97bccd2dffa84a0a" title="PHG4OuterHcalFieldSetup\l::PHG4OuterHcalFieldSetup" alt="" coords="275,789,482,833"/>
+<area shape="rect" id="node35" href="$df/d95/classBeamLineMagnetDetector.html#a779743977fe9f5749678a32f6d21068d" title="Optional PostConstruction call after all geometry is constructed." alt="" coords="279,857,478,901"/>
+<area shape="rect" id="node36" href="$d5/dac/classG4MonopoleFieldSetup.html#a5c90a9e679d9e6eb57d35efcdca0c1aa" title="G4MonopoleFieldSetup\l::SetStepperAndChordFinder" alt="" coords="271,925,486,969"/>
+<area shape="rect" id="node42" href="$d4/d2e/classG4TBMagneticFieldSetup.html#a7930ec66420896c9fbaa9c72cf7543fe" title="G4TBMagneticFieldSetup\l::UpdateField" alt="" coords="283,997,474,1041"/>
+<area shape="rect" id="node45" href="$d9/d21/classF03FieldSetup.html#a1503fcb2340b924d3e5b4e849769fe51" title="F03FieldSetup::UpdateField" alt="" coords="276,1133,481,1161"/>
+<area shape="rect" id="node48" href="$d0/d75/classF02ElectricFieldSetup.html#a52d15424e57942fc786b33b562e86a61" title="F02ElectricFieldSetup\l::UpdateIntegrator" alt="" coords="295,1253,462,1297"/>
+<area shape="rect" id="node4" href="$df/de8/classF04GlobalField.html#aa5dfbb1bf41f0eb8cc03bf4aa8f06a66" title="F04GlobalField::F04Global\lField" alt="" coords="577,73,775,117"/>
+<area shape="rect" id="node5" href="$df/de8/classF04GlobalField.html#a5ce1ad57d9c036bd7953934d1c4edfb6" title="F04GlobalField::GetObject" alt="" coords="861,81,1059,109"/>
+<area shape="rect" id="node15" href="$d3/d61/classF01FieldMessenger.html#adbe18e1508d636c9ca5ccc4c4ccd88f0" title="F01FieldMessenger::\lSetNewValue" alt="" coords="881,587,1039,631"/>
+<area shape="rect" id="node16" href="$db/d6c/classF01FieldSetup.html#a842ff7f825fba13d480d8418396ca451" title="F01FieldSetup::SetStepperType" alt="" coords="560,617,792,645"/>
+<area shape="rect" id="node14" href="$db/d6c/classF01FieldSetup.html#a2136a99930caca747c70d30d75fe0983" title="F01FieldSetup::F01FieldSetup" alt="" coords="849,513,1071,541"/>
+<area shape="rect" id="node18" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="579,669,773,697"/>
+<area shape="rect" id="node20" href="$dd/d88/classG4ErrorPropagatorManager.html#aa0e56394c96f87ecdd15709e9de6c8f7" title="G4ErrorPropagatorManager\l::InitGeant4e" alt="" coords="573,721,779,765"/>
+<area shape="rect" id="node21" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="921,703,999,731"/>
+<area shape="rect" id="node22" href="$d9/df8/classPHG4GDMLUtility.html#afcf39153171628039001dd7d5f34ee48" title="same as above but use default Geant functions as much as possible" alt="" coords="1159,492,1345,536"/>
+<area shape="rect" id="node24" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="1135,560,1369,588"/>
+<area shape="rect" id="node27" href="$d5/dc4/classG4GDMLParser.html#acfbec4923024be46b2d44e60d22429d4" title="G4GDMLParser::G4GDMLParser" alt="" coords="1136,612,1368,640"/>
+<area shape="rect" id="node28" href="$df/dda/gammaknife_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1225,664,1279,692"/>
+<area shape="rect" id="node29" href="$d2/d3b/classHepMCG4AsciiReaderMessenger.html#ab7cbaf09ff5ed12bb49d8be46467b37c" title="HepMCG4AsciiReaderMessenger\l::SetNewValue" alt="" coords="1131,716,1373,760"/>
+<area shape="rect" id="node30" href="$db/df7/classHadrontherapyDetectorConstruction.html#a1a59dea0a6ce7b6f77a8bd16c6f08e77" title="HadrontherapyDetectorConstruction\l::UpdateGeometry" alt="" coords="1119,784,1385,828"/>
+<area shape="rect" id="node32" href="$dc/d4b/ml2_8cc.html#a31ac0168d355ebbc2d5292645680a728" title="visio" alt="" coords="1226,852,1278,880"/>
+<area shape="rect" id="node23" href="$d0/d78/classPHG4Reco.html#a3b9a955d6f0e8960df1a6e8ac8303c93" title="PHG4Reco::Dump_G4_GDML" alt="" coords="1464,500,1679,528"/>
+<area shape="rect" id="node25" href="$d0/d78/classPHG4Reco.html#a490f5037508d384c5b60855ef0f7e227" title="PHG4Reco::Dump_GDML" alt="" coords="1477,560,1665,588"/>
+<area shape="rect" id="node26" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="1757,560,1904,588"/>
+<area shape="rect" id="node31" href="$db/df7/classHadrontherapyDetectorConstruction.html#aad7e8923e69986c17ebbf1376d480980" title="HadrontherapyDetectorConstruction\l::HadrontherapyDetectorConstruction" alt="" coords="1433,784,1709,828"/>
+<area shape="rect" id="node33" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1544,852,1599,880"/>
+<area shape="rect" id="node37" href="$d5/dac/classG4MonopoleFieldSetup.html#adeb2e13e55e5dd4001f5d5c0788b0f74" title="G4MonopoleFieldSetup\l::InitialiseAll" alt="" coords="587,845,765,889"/>
+<area shape="rect" id="node41" href="$d2/d49/classG4MonopoleTransportation.html#a2c734afb9b2315b297f28a4ce621232e" title="G4MonopoleTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="551,913,801,973"/>
+<area shape="rect" id="node38" href="$d5/dac/classG4MonopoleFieldSetup.html#afb8f8904dc297aceeaa26badd9e009e1" title="G4MonopoleFieldSetup\l::ConstructMagField" alt="" coords="871,872,1049,916"/>
+<area shape="rect" id="node39" href="$d5/dac/classG4MonopoleFieldSetup.html#a974b97f804bf7ccbbf334c8331099373" title="G4MonopoleFieldSetup\l::SetZMagFieldValue" alt="" coords="1163,904,1341,948"/>
+<area shape="rect" id="node40" href="$d0/d2d/classG4MonopoleFieldMessenger.html#a90a41c660b8a9f0e11a9c16b2d711a19" title="G4MonopoleFieldMessenger\l::SetNewValue" alt="" coords="1465,904,1677,948"/>
+<area shape="rect" id="node43" href="$df/d05/classG4TBFieldMessenger.html#a19d728472bcdc59229624f09ca650831" title="G4TBFieldMessenger\l::SetNewValue" alt="" coords="594,997,758,1041"/>
+<area shape="rect" id="node44" href="$d4/d2e/classG4TBMagneticFieldSetup.html#a219f4c199df5731549942737857ae65f" title="G4TBMagneticFieldSetup\l::G4TBMagneticFieldSetup" alt="" coords="576,1065,776,1109"/>
+<area shape="rect" id="node46" href="$d9/d21/classF03FieldSetup.html#ae6294fa3f06e5e61ef93c39c9c58dc12" title="F03FieldSetup::F03FieldSetup" alt="" coords="565,1133,787,1161"/>
+<area shape="rect" id="node47" href="$da/d90/classF03FieldMessenger.html#aa67a296c4c343658b8e89f74a49a512d" title="F03FieldMessenger::\lSetNewValue" alt="" coords="597,1185,755,1229"/>
+<area shape="rect" id="node49" href="$d0/d75/classF02ElectricFieldSetup.html#a864293e94c54cc7b7be47590adf395ad" title="F02ElectricFieldSetup\l::F02ElectricFieldSetup" alt="" coords="588,1253,764,1297"/>
+<area shape="rect" id="node50" href="$df/d3f/classF02FieldMessenger.html#a8d113fc1109dc8c0939a591b1dd3d426" title="F02FieldMessenger::\lSetNewValue" alt="" coords="597,1321,755,1365"/>
+</map>

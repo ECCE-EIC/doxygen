@@ -1,0 +1,27 @@
+var classG4XPDGTotal =
+[
+    [ "PairDoubleMap", "db/d17/classG4XPDGTotal.html#aa82bfb0300bd1a879d44df1f97c51d78", null ],
+    [ "G4XPDGTotal", "db/d17/classG4XPDGTotal.html#a7c2e957da273dae139e8dcfd2150fe35", null ],
+    [ "~G4XPDGTotal", "db/d17/classG4XPDGTotal.html#a73019eda2838fe6c79b12deacf379ae5", null ],
+    [ "G4XPDGTotal", "db/d17/classG4XPDGTotal.html#a83996a3df4b73a71b20ceabd79353ac2", null ],
+    [ "CrossSection", "db/d17/classG4XPDGTotal.html#a8faf4f88e1e3918bc580b290e69cba55", null ],
+    [ "GetComponents", "db/d17/classG4XPDGTotal.html#a9acea48dc8ce1d482e17c34ff816a6ad", null ],
+    [ "IsValid", "db/d17/classG4XPDGTotal.html#aa3a85ad58fbf402fc2841bb3c92dabaa", null ],
+    [ "LowLimit", "db/d17/classG4XPDGTotal.html#a2943bfcbef093432235aed533c9a8f1f", null ],
+    [ "Name", "db/d17/classG4XPDGTotal.html#a003385a74210c4e33b86cc7e6f50f500", null ],
+    [ "operator!=", "db/d17/classG4XPDGTotal.html#a8e56ece6cafb92e72d1eddb317d6bb4d", null ],
+    [ "operator=", "db/d17/classG4XPDGTotal.html#a6da65b9effd346c1b884688f580e5388", null ],
+    [ "operator==", "db/d17/classG4XPDGTotal.html#a75390023691f2d0c85d0eb9b65526014", null ],
+    [ "PDGTotal", "db/d17/classG4XPDGTotal.html#a2535cbac648ebd7dc5624b79a31d8777", null ],
+    [ "_highLimit", "db/d17/classG4XPDGTotal.html#af0796f8316041d5e63c9e8e242321695", null ],
+    [ "_lowLimit", "db/d17/classG4XPDGTotal.html#ac95c861910f7303f7dd85a5f48da7183", null ],
+    [ "gammagammaPDGFit", "db/d17/classG4XPDGTotal.html#a1b577ca3d8acfa5f8a81f4dc20c1d7d7", null ],
+    [ "gammapPDGFit", "db/d17/classG4XPDGTotal.html#ad6430a90b7fa7ec327b2816150bda4c7", null ],
+    [ "KnPDGFit", "db/d17/classG4XPDGTotal.html#abd1317d1b20915e1ecbce8675c4d1087", null ],
+    [ "KpPDGFit", "db/d17/classG4XPDGTotal.html#acd9cf5641d0f3ffd976d2e66b7ead4a2", null ],
+    [ "nFit", "db/d17/classG4XPDGTotal.html#a8affe24973854277ac9323d1d3fd3f97", null ],
+    [ "npPDGFit", "db/d17/classG4XPDGTotal.html#a816c1b57d786b3b230a28d21a2913073", null ],
+    [ "pipPDGFit", "db/d17/classG4XPDGTotal.html#ad3a408459104aeeca0dd0cb9a46e3339", null ],
+    [ "ppPDGFit", "db/d17/classG4XPDGTotal.html#ac35248cd7096569867c6d86acbf26808", null ],
+    [ "xMap", "db/d17/classG4XPDGTotal.html#aa8d7449089f8844637ec45436d1f9d9f", null ]
+];

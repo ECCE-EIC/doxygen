@@ -1,0 +1,37 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/DICOM2/src/Dicom2Run.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/medical/DICOM2/src/Dicom2Run.cc">
+<area shape="rect" id="node2" href="$de/dcc/Dicom2Run_8hh.html" title="Definition of the Dicom2Run class." alt="" coords="1549,205,1669,233"/>
+<area shape="rect" id="node34" href="$d1/d1e/DicomDetectorConstruction_8hh.html" title="Definition of the DicomDetectorConstruction class." alt="" coords="3119,357,3348,385"/>
+<area shape="rect" id="node38" href="$d3/d4b/G4SDManager_8hh.html" title="G4SDManager.hh" alt="" coords="324,129,463,157"/>
+<area shape="rect" id="node48" href="$d0/d8a/G4MultiFunctionalDetector_8hh.html" title="G4MultiFunctionalDetector.hh" alt="" coords="2440,205,2661,233"/>
+<area shape="rect" id="node49" href="$d6/d1d/G4VPrimitiveScorer_8hh.html" title="G4VPrimitiveScorer.hh" alt="" coords="2403,129,2575,157"/>
+<area shape="rect" id="node3" href="$dd/d4a/G4Run_8hh.html" title="G4Run.hh" alt="" coords="683,357,771,385"/>
+<area shape="rect" id="node10" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="1151,357,1251,385"/>
+<area shape="rect" id="node19" href="$d2/d0c/DicomRun_8hh.html" title="Definition of the DicomRun class." alt="" coords="1146,281,1257,309"/>
+<area shape="rect" id="node20" href="$d6/da9/G4THitsMap_8hh.html" title="G4THitsMap.hh" alt="" coords="2003,357,2127,385"/>
+<area shape="rect" id="node24" href="$de/dae/G4THitsVector_8hh.html" title="G4THitsVector.hh" alt="" coords="1793,281,1930,309"/>
+<area shape="rect" id="node26" href="$db/d79/G4StatAnalysis_8hh.html" title="G4StatAnalysis.hh" alt="" coords="3641,433,3786,461"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="2263,585,2353,613"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="3829,661,3910,689"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="3841,737,3941,765"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="3956,813,4015,841"/>
+<area shape="rect" id="node11" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="419,509,511,537"/>
+<area shape="rect" id="node12" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="1840,509,1960,537"/>
+<area shape="rect" id="node13" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="1725,433,1881,461"/>
+<area shape="rect" id="node16" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="906,433,1067,461"/>
+<area shape="rect" id="node17" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="689,433,882,461"/>
+<area shape="rect" id="node18" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="1092,433,1311,461"/>
+<area shape="rect" id="node14" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="2625,509,2767,537"/>
+<area shape="rect" id="node21" href="$de/d60/source_2digits__hits_2hits_2include_2G4THitsCollection_8hh.html" title="G4THitsCollection.hh" alt="" coords="2057,433,2220,461"/>
+<area shape="rect" id="node31" href="$dd/d2e/G4Timer_8hh.html" title="G4Timer.hh" alt="" coords="3904,585,4003,613"/>
+<area shape="rect" id="node35" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="2775,433,3020,461"/>
+<area shape="rect" id="node36" href="$df/d19/DicomPhantomZSliceHeader_8hh.html" title="Definition of the DicomPhantomZSliceHeader class." alt="" coords="3279,433,3513,461"/>
+<area shape="rect" id="node39" href="$d2/d88/G4SDStructure_8hh.html" title="G4SDStructure.hh" alt="" coords="267,205,410,233"/>
+<area shape="rect" id="node46" href="$d1/d3d/G4VSDFilter_8hh.html" title="G4VSDFilter.hh" alt="" coords="486,357,607,385"/>
+<area shape="rect" id="node47" href="$d2/d29/G4HCtable_8hh.html" title="G4HCtable.hh" alt="" coords="245,433,360,461"/>
+<area shape="rect" id="node40" href="$d4/de7/G4VSensitiveDetector_8hh.html" title="G4VSensitiveDetector.hh" alt="" coords="2389,281,2579,309"/>
+<area shape="rect" id="node41" href="$d3/d38/G4VHit_8hh.html" title="G4VHit.hh" alt="" coords="2488,357,2579,385"/>
+<area shape="rect" id="node42" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="3095,433,3187,461"/>
+<area shape="rect" id="node43" href="$d4/d95/G4VReadOutGeometry_8hh.html" title="G4VReadOutGeometry.hh" alt="" coords="2704,357,2899,385"/>
+<area shape="rect" id="node44" href="$dd/d71/G4TouchableHistory_8hh.html" title="G4TouchableHistory.hh" alt="" coords="2575,433,2751,461"/>
+<area shape="rect" id="node45" href="$d7/deb/G4CollectionNameVector_8hh.html" title="G4CollectionNameVector.hh" alt="" coords="2254,357,2463,385"/>
+</map>

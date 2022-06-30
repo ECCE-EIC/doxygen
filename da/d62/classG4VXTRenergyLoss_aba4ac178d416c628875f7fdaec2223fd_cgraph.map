@@ -1,0 +1,23 @@
+<map id="G4VXTRenergyLoss::BuildEnergyTable" name="G4VXTRenergyLoss::BuildEnergyTable">
+<area shape="rect" id="node2" href="$d7/d2c/classG4PhysicsVector.html#a665e74899c6067c0f1cf4500c93e542f" title="G4PhysicsVector::GetLowEdge\lEnergy" alt="" coords="296,5,523,49"/>
+<area shape="rect" id="node3" href="$da/d4f/classG4Timer.html#aeb325d4685d6de1e8fa538422a75f317" title="G4Timer::GetUserElapsed" alt="" coords="311,73,507,101"/>
+<area shape="rect" id="node5" href="$dd/d15/classG4PhysicsTable.html#a037cc4ad165591380b927ba0cf6aac38" title="G4PhysicsTable::insertAt" alt="" coords="315,125,503,153"/>
+<area shape="rect" id="node6" href="$d5/d82/classG4Integrator.html#a754f677b54a631e522bf5ebbfaee0b8b" title="G4Integrator::Legendre10" alt="" coords="311,177,507,205"/>
+<area shape="rect" id="node7" href="$d7/d2c/classG4PhysicsVector.html#ad923df7c7b31dc411b6ade3a3c739988" title="G4PhysicsVector::PutValue" alt="" coords="309,229,510,257"/>
+<area shape="rect" id="node8" href="$da/d62/classG4VXTRenergyLoss.html#ad719f69ff6cd9ee00ea4733ed3ef80bc" title="G4VXTRenergyLoss::Spectral\lXTRdEdx" alt="" coords="301,281,517,325"/>
+<area shape="rect" id="node21" href="$da/d4f/classG4Timer.html#adae9712ac750c9910b78ce8c14a6e6d1" title="G4Timer::Start" alt="" coords="349,349,470,377"/>
+<area shape="rect" id="node22" href="$da/d4f/classG4Timer.html#a2c8068c0f05c8a2d87a7461d5f85e90b" title="G4Timer::Stop" alt="" coords="350,401,469,429"/>
+<area shape="rect" id="node4" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="625,73,732,101"/>
+<area shape="rect" id="node9" href="$d5/d82/classG4Integrator.html#a2217dc7549db1fec0bdc476caa6d906e" title="G4Integrator::Legendre96" alt="" coords="581,319,777,347"/>
+<area shape="rect" id="node10" href="$da/d62/classG4VXTRenergyLoss.html#a8bc780bdad0ba067c7c42affe79b2f4a" title="G4VXTRenergyLoss::Spectral\lAngleXTRdEdx" alt="" coords="571,251,787,295"/>
+<area shape="rect" id="node11" href="$da/d62/classG4VXTRenergyLoss.html#af0606391190fada2e032b0c636194121" title="G4VXTRenergyLoss::GetStack\lFactor" alt="" coords="835,251,1057,295"/>
+<area shape="rect" id="node12" href="$da/d62/classG4VXTRenergyLoss.html#a778c97657d5008a4abba98f6bee2c0c1" title="G4VXTRenergyLoss::OneInterface\lXTRdEdx" alt="" coords="1105,251,1353,295"/>
+<area shape="rect" id="node13" href="$da/d62/classG4VXTRenergyLoss.html#a6efec1c217578687759d9fb5c354f6b3" title="G4VXTRenergyLoss::GetPlate\lComplexFZ" alt="" coords="1401,216,1620,260"/>
+<area shape="rect" id="node18" href="$da/d62/classG4VXTRenergyLoss.html#af839cd38ab3d721c41101c539e9a0391" title="G4VXTRenergyLoss::GetGas\lComplexFZ" alt="" coords="1405,284,1616,328"/>
+<area shape="rect" id="node14" href="$da/d62/classG4VXTRenergyLoss.html#aebcd42b92070d735e0c1c1563d3efaa2" title="G4VXTRenergyLoss::GetPlate\lFormationZone" alt="" coords="1668,148,1887,192"/>
+<area shape="rect" id="node15" href="$da/d62/classG4VXTRenergyLoss.html#a0008aa3aa0d619a12cd0f7b446867358" title="G4VXTRenergyLoss::GetPlate\lLinearPhotoAbs" alt="" coords="1668,216,1887,260"/>
+<area shape="rect" id="node16" href="$d2/d52/classG4SandiaTable.html#ae6e3b5f5a5e5e9919f7ec1e562cc9625" title="G4SandiaTable::GetSandia\lCofForMaterial" alt="" coords="1935,216,2136,260"/>
+<area shape="rect" id="node17" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1958,284,2113,328"/>
+<area shape="rect" id="node19" href="$da/d62/classG4VXTRenergyLoss.html#a54813431a6c904cc69aad88aa3d6c4a2" title="G4VXTRenergyLoss::GetGas\lFormationZone" alt="" coords="1672,352,1883,396"/>
+<area shape="rect" id="node20" href="$da/d62/classG4VXTRenergyLoss.html#aeca76a6a2c9d2a2746933724a933fa5c" title="G4VXTRenergyLoss::GetGas\lLinearPhotoAbs" alt="" coords="1672,284,1883,328"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="G4EmParameters::NuclearFormfactorType" name="G4EmParameters::NuclearFormfactorType">
+<area shape="rect" id="node2" href="$df/d59/classG4eSingleCoulombScatteringModel.html#aae6d7c5406bcb79bea3198fc6cc9d145" title="G4eSingleCoulombScattering\lModel::Initialise" alt="" coords="357,66,577,110"/>
+<area shape="rect" id="node3" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a53d2aa56a5128c80b6c04653c0f57089" title="G4WentzelOKandVIxSection\l::Initialise" alt="" coords="362,134,573,178"/>
+<area shape="rect" id="node4" href="$db/d99/classG4eCoulombScatteringModel.html#acbc812b1198eed6dd8796d4f97ec12b6" title="G4eCoulombScatteringModel\l::Initialise" alt="" coords="625,66,844,110"/>
+<area shape="rect" id="node5" href="$d8/d6d/classG4hCoulombScatteringModel.html#ae485199e19951e84a867ff48a8f561ba" title="G4hCoulombScatteringModel\l::Initialise" alt="" coords="625,134,844,178"/>
+<area shape="rect" id="node6" href="$d8/d2f/classG4WentzelVIModel.html#a776f3b62a8e5129361d5dc6636805356" title="G4WentzelVIModel::Initialise" alt="" coords="628,202,841,230"/>
+<area shape="rect" id="node7" href="$dc/dd9/classG4TablesForExtrapolator.html#a721be67f1a54942b53147602bbd023ba" title="G4TablesForExtrapolator\l::ComputeTrasportXS" alt="" coords="892,159,1080,203"/>
+<area shape="rect" id="node27" href="$df/d39/classG4WentzelVIRelModel.html#a99f0b7c6cf20e6b6e55e9fb81eb6647a" title="G4WentzelVIRelModel\l::Initialise" alt="" coords="901,227,1071,271"/>
+<area shape="rect" id="node8" href="$dc/dd9/classG4TablesForExtrapolator.html#a174966c4aab7851aec39cf223c04c49e" title="G4TablesForExtrapolator\l::Initialisation" alt="" coords="1128,159,1316,203"/>
+<area shape="rect" id="node9" href="$da/de2/classG4EnergyLossForExtrapolator.html#aa13b7b10633a6d8c33436d3073c5703a" title="G4EnergyLossForExtrapolator\l::BuildTables" alt="" coords="1364,125,1587,169"/>
+<area shape="rect" id="node26" href="$dc/dd9/classG4TablesForExtrapolator.html#a88db07b686cd332a9f712ed4a45d95c8" title="G4TablesForExtrapolator\l::G4TablesForExtrapolator" alt="" coords="1377,193,1574,237"/>
+<area shape="rect" id="node10" href="$da/de2/classG4EnergyLossForExtrapolator.html#a2469d740bba25f47a141a65707316dad" title="G4EnergyLossForExtrapolator\l::Initialisation" alt="" coords="1635,125,1857,169"/>
+<area shape="rect" id="node11" href="$da/de2/classG4EnergyLossForExtrapolator.html#ad14ca9754b75248c0d312cdb43720dae" title="G4EnergyLossForExtrapolator\l::EnergyAfterStep" alt="" coords="2988,246,3211,290"/>
+<area shape="rect" id="node15" href="$da/de2/classG4EnergyLossForExtrapolator.html#a696617cc14056b31669918a1f7db6b41" title="G4EnergyLossForExtrapolator\l::EnergyBeforeStep" alt="" coords="2988,382,3211,426"/>
+<area shape="rect" id="node17" href="$da/de2/classG4EnergyLossForExtrapolator.html#a0159186159b590367a48d4b85ec692e0" title="G4EnergyLossForExtrapolator\l::TrueStepLength" alt="" coords="2717,186,2940,230"/>
+<area shape="rect" id="node20" href="$da/de2/classG4EnergyLossForExtrapolator.html#a6fb85ecb8a42ff1180824cc76a26cb0f" title="G4EnergyLossForExtrapolator\l::SetupKinematics" alt="" coords="1905,243,2128,287"/>
+<area shape="rect" id="node12" href="$da/de2/classG4EnergyLossForExtrapolator.html#a9225030167b6d3784adfb14d2b5515c7" title="G4EnergyLossForExtrapolator\l::EnergyAfterStep" alt="" coords="3259,246,3481,290"/>
+<area shape="rect" id="node13" href="$d9/d11/classG4ErrorEnergyLoss.html#a6cd08338c876907863c78a7f830a3537" title="G4ErrorEnergyLoss::\lAlongStepDoIt" alt="" coords="3291,314,3449,358"/>
+<area shape="rect" id="node14" href="$d9/d11/classG4ErrorEnergyLoss.html#a50c6b03ec237ac098af4855402483115" title="G4ErrorEnergyLoss::\lGetContinuousStepLimit" alt="" coords="3277,382,3463,426"/>
+<area shape="rect" id="node16" href="$da/de2/classG4EnergyLossForExtrapolator.html#a7c8d34b3555e1710916257ef649112aa" title="G4EnergyLossForExtrapolator\l::EnergyBeforeStep" alt="" coords="3259,450,3481,494"/>
+<area shape="rect" id="node18" href="$da/d76/classG4EnergySplitter.html#ab21723d5a691168fffee8d7dc66539b9" title="G4EnergySplitter::SplitEnergy\lInVolumes" alt="" coords="2988,178,3211,222"/>
+<area shape="rect" id="node19" href="$dd/d79/classG4ScoreSplittingProcess.html#a360c639b35f911e9708a32b88a8e4aee" title="G4ScoreSplittingProcess\l::PostStepDoIt" alt="" coords="3277,178,3463,222"/>
+<area shape="rect" id="node21" href="$da/de2/classG4EnergyLossForExtrapolator.html#aa5117e9038b4b8035cbe8867ae22fa21" title="G4EnergyLossForExtrapolator\l::AverageScatteringAngle" alt="" coords="2176,213,2399,257"/>
+<area shape="rect" id="node24" href="$da/de2/classG4EnergyLossForExtrapolator.html#a10c4ae346f7dbd49b65c971f824c1522" title="G4EnergyLossForExtrapolator\l::EnergyDispersion" alt="" coords="2717,318,2940,362"/>
+<area shape="rect" id="node22" href="$da/de2/classG4EnergyLossForExtrapolator.html#a15587285d4f3df572c868e8c49b26a01" title="G4EnergyLossForExtrapolator\l::AverageScatteringAngle" alt="" coords="2447,145,2669,189"/>
+<area shape="rect" id="node23" href="$da/de2/classG4EnergyLossForExtrapolator.html#acd6e6295b395b59336c36ac92419c00f" title="G4EnergyLossForExtrapolator\l::ComputeTrueStep" alt="" coords="2447,213,2669,257"/>
+<area shape="rect" id="node25" href="$da/de2/classG4EnergyLossForExtrapolator.html#ae3e9f7e6d77d6e168ececda93f01b9b8" title="G4EnergyLossForExtrapolator\l::EnergyDispersion" alt="" coords="2988,314,3211,358"/>
+</map>

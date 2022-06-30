@@ -1,0 +1,25 @@
+<map id="G4Track::CalculateVelocityForOpticalPhoton" name="G4Track::CalculateVelocityForOpticalPhoton">
+<area shape="rect" id="node2" href="$df/d6e/classG4ITTransportation.html#a96fa1fc4e284d189c598cd5344cc3608" title="G4ITTransportation\l::AlongStepDoIt" alt="" coords="281,121,430,165"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#ae07f129ee3f806548d9f7861ce328cb1" title="G4Track::CalculateVelocity" alt="" coords="255,304,456,332"/>
+<area shape="rect" id="node3" href="$db/dca/classG4DNABrownianTransportation.html#a19f09181e66367c59a8f0291b0a43bc8" title="G4DNABrownianTransportation\l::AlongStepDoIt" alt="" coords="504,5,735,49"/>
+<area shape="rect" id="node5" href="$df/d6e/classG4ITTransportation.html#a36aec24af8d185c13d81db568fd2fe1d" title="G4ITTransportation\l::ComputeStep" alt="" coords="545,73,694,117"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a7ecd6d6d01e4952a3ff3e68477619197" title="G4Track::G4Track" alt="" coords="549,141,689,169"/>
+<area shape="rect" id="node18" href="$de/dbf/classG4ParallelWorldProcess.html#a65e089e2551ce0057da51e43a98491ba" title="G4ParallelWorldProcess\l::StartTracking" alt="" coords="529,193,709,237"/>
+<area shape="rect" id="node19" href="$dd/dc0/classG4ParticleChangeForLoss.html#adab61774439fcc51344244197b51852d" title="G4ParticleChangeForLoss\l::UpdateStepForAlongStep" alt="" coords="519,261,720,305"/>
+<area shape="rect" id="node20" href="$d2/d06/classG4ParticleChange.html#a9be50b3843b770b4697f55cd74f4e482" title="G4ParticleChange::Update\lStepForAlongStep" alt="" coords="519,329,719,373"/>
+<area shape="rect" id="node21" href="$d2/d06/classG4ParticleChange.html#a0c1dd30da915acf63451cd31478ff623" title="G4ParticleChange::Update\lStepForAtRest" alt="" coords="519,397,719,441"/>
+<area shape="rect" id="node22" href="$d7/dcb/classG4ParticleChangeForGamma.html#ac18ec4dba3467bf4266488433d29e35a" title="G4ParticleChangeForGamma\l::UpdateStepForPostStep" alt="" coords="511,465,727,509"/>
+<area shape="rect" id="node23" href="$dd/dc0/classG4ParticleChangeForLoss.html#a02e7a4083d0823f74b4ef4f1da3bf766" title="G4ParticleChangeForLoss\l::UpdateStepForPostStep" alt="" coords="523,533,716,577"/>
+<area shape="rect" id="node24" href="$d2/d06/classG4ParticleChange.html#a8ab47c5895622a8bd88ae90ad3d92131" title="G4ParticleChange::Update\lStepForPostStep" alt="" coords="519,601,719,645"/>
+<area shape="rect" id="node6" href="$d0/d59/classG4ITStepProcessor.html#a9822fb821e056a102a9b01fbca546e57" title="G4ITStepProcessor::\lDoDefinePhysicalStepLength" alt="" coords="783,73,999,117"/>
+<area shape="rect" id="node7" href="$d0/d59/classG4ITStepProcessor.html#aa5c7ae4c1b6e437891f65348b04e643e" title="G4ITStepProcessor::\lDefinePhysicalStepLength" alt="" coords="1047,73,1244,117"/>
+<area shape="rect" id="node8" href="$d0/d59/classG4ITStepProcessor.html#a75e21e60a5d0728ce71981510d41ff0c" title="G4ITStepProcessor::\lComputeInteractionLength" alt="" coords="1292,73,1493,117"/>
+<area shape="rect" id="node9" href="$de/dcb/classG4Scheduler.html#a7db35adaeda0f6b54af7dd353a1b35b3" title="G4Scheduler::Stepping" alt="" coords="1541,81,1719,109"/>
+<area shape="rect" id="node10" href="$de/dcb/classG4Scheduler.html#acf68309919b953323cbe984672ad9197" title="G4Scheduler::DoProcess" alt="" coords="1767,81,1953,109"/>
+<area shape="rect" id="node11" href="$de/dcb/classG4Scheduler.html#a0cbd65bc98d9bf21609d09af9c97af52" title="G4Scheduler::Synchronize\lTracks" alt="" coords="2001,73,2201,117"/>
+<area shape="rect" id="node12" href="$de/dcb/classG4Scheduler.html#aa05805cce156b61c245f1a63eb7145a5" title="G4Scheduler::Process" alt="" coords="2249,81,2417,109"/>
+<area shape="rect" id="node13" href="$dc/d37/classG4DNAChemistryManager.html#aed01301b67d0a5e1c50bcf992d48a837" title="G4DNAChemistryManager::Run" alt="" coords="2465,51,2697,79"/>
+<area shape="rect" id="node16" href="$d1/db4/classG4SchedulerMessenger.html#a03e3218b6582104487c39c504ebf5060" title="G4SchedulerMessenger\l::SetNewValue" alt="" coords="2490,103,2673,147"/>
+<area shape="rect" id="node14" href="$d4/d47/classStackingAction.html#af9f38d1665274246654f501fe63adfa7" title="StackingAction::NewStage" alt="" coords="2745,21,2944,49"/>
+<area shape="rect" id="node15" href="$dc/d37/classG4DNAChemistryManager.html#acd16799993dcce4bc4297b7d64b5652f" title="G4DNAChemistryManager\l::SetNewValue" alt="" coords="2745,73,2944,117"/>
+</map>

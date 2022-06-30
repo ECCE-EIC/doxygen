@@ -1,0 +1,21 @@
+<map id="G4INCL::CrossSectionsMultiPionsAndResonances::omegaNToPiPiN" name="G4INCL::CrossSectionsMultiPionsAndResonances::omegaNToPiPiN">
+<area shape="rect" id="node2" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a431f3b9ba5da80de57c9e6d835777730" title="Cross sections for mesonic resonance absorption on nucleon &#45; inelastic Channel." alt="" coords="643,79,928,123"/>
+<area shape="rect" id="node12" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#a2695621c09e1ba8213e576fe19d5707a" title="Cross section for OmegaN&#45;&gt;PiN." alt="" coords="329,189,595,233"/>
+<area shape="rect" id="node3" href="$dd/d83/classG4INCL_1_1Particle.html#af1faf21893e178d1b6a49c3a2f1dd0df" title="Is this an omega?" alt="" coords="976,128,1173,156"/>
+<area shape="rect" id="node4" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="983,300,1167,344"/>
+<area shape="rect" id="node11" href="$db/d32/namespaceG4InuclParticleNames.html#aab3a6382cc17b00ae41fc3618393b7b7" title="G4InuclParticleNames\l::nucleon" alt="" coords="990,60,1159,104"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="1221,300,1416,328"/>
+<area shape="rect" id="node6" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="1225,352,1413,396"/>
+<area shape="rect" id="node7" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="1464,180,1648,224"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1711,248,1919,276"/>
+<area shape="rect" id="node10" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="1475,300,1637,344"/>
+<area shape="rect" id="node9" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1696,159,1933,187"/>
+<area shape="rect" id="node13" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="703,5,867,49"/>
+<area shape="rect" id="node16" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acc0f81fccd1735f59b9dbf8a4471e564" title="gives the momentum in the CM frame of two particles." alt="" coords="983,180,1167,224"/>
+<area shape="rect" id="node18" href="$d7/d43/classG4INCL_1_1CrossSectionsMultiPionsAndResonances.html#affb12a6086e5e37e2dd63d0fd45b566b" title="G4INCL::CrossSectionsMulti\lPionsAndResonances::piMinuspTo\lOmegaN" alt="" coords="661,352,909,412"/>
+<area shape="rect" id="node20" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a874b82c4e5e033b4fdce70758f770e5e" title="G4INCL::KinematicsUtils\l::totalEnergyInCM" alt="" coords="983,472,1167,516"/>
+<area shape="rect" id="node14" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1019,8,1130,36"/>
+<area shape="rect" id="node15" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1231,8,1407,36"/>
+<area shape="rect" id="node17" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa30743ac6a72bc2943cdce1f49665281" title="G4INCL::ThreeVector::dot" alt="" coords="1222,188,1415,216"/>
+<area shape="rect" id="node19" href="$dd/d83/classG4INCL_1_1Particle.html#a750bf1c385c14c592f77dfc82929279a" title="Is this a pion?" alt="" coords="986,420,1163,448"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB03/src/GB03BOptrGeometryBasedBiasing.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/GB03/src/GB03BOptrGeometryBasedBiasing.cc">
+<area shape="rect" id="node2" href="$d4/df0/GB03BOptrGeometryBasedBiasing_8hh.html" title="Definition of the GB03BOptrGeometryBasedBiasing class." alt="" coords="1303,129,1579,157"/>
+<area shape="rect" id="node23" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="1029,357,1126,385"/>
+<area shape="rect" id="node45" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="533,205,694,233"/>
+<area shape="rect" id="node46" href="$df/d87/G4GenericMessenger_8hh.html" title="G4GenericMessenger.hh" alt="" coords="2584,433,2771,461"/>
+<area shape="rect" id="node3" href="$d0/d56/G4VBiasingOperator_8hh.html" title="G4VBiasingOperator.hh" alt="" coords="2740,661,2919,689"/>
+<area shape="rect" id="node18" href="$d1/da2/GB03BOptnSplitOrKillOnBoundary_8hh.html" title="Definition of the GB03BOptnSplitOrKillOnBoundary class." alt="" coords="1306,205,1577,233"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1245,737,1336,765"/>
+<area shape="rect" id="node14" href="$d1/d40/G4BiasingAppliedCase_8hh.html" title="G4BiasingAppliedCase.hh" alt="" coords="2724,737,2919,765"/>
+<area shape="rect" id="node15" href="$d2/d5f/G4Cache_8hh.html" title="G4Cache.hh" alt="" coords="2673,813,2777,841"/>
+<area shape="rect" id="node16" href="$d5/db9/G4VStateDependent_8hh.html" title="G4VStateDependent.hh" alt="" coords="3044,737,3225,765"/>
+<area shape="rect" id="node5" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1463,965,1545,993"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1545,1041,1645,1069"/>
+<area shape="rect" id="node8" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1004,965,1105,993"/>
+<area shape="rect" id="node9" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="1345,813,1455,841"/>
+<area shape="rect" id="node10" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1156,889,1284,917"/>
+<area shape="rect" id="node11" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1143,813,1321,841"/>
+<area shape="rect" id="node17" href="$d8/d65/G4ApplicationState_8hh.html" title="G4ApplicationState.hh" alt="" coords="3176,813,3349,841"/>
+<area shape="rect" id="node19" href="$d8/d3a/G4VBiasingOperation_8hh.html" title="G4VBiasingOperation.hh" alt="" coords="1354,357,1542,385"/>
+<area shape="rect" id="node20" href="$d9/de6/G4ParticleChange_8hh.html" title="G4ParticleChange.hh" alt="" coords="1235,281,1397,309"/>
+<area shape="rect" id="node44" href="$d5/d00/G4ParticleChangeForNothing_8hh.html" title="G4ParticleChangeForNothing.hh" alt="" coords="1479,281,1716,309"/>
+<area shape="rect" id="node21" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="705,661,847,689"/>
+<area shape="rect" id="node22" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="706,737,915,765"/>
+<area shape="rect" id="node25" href="$df/db6/trkdefs_8hh.html" title="trkdefs.hh" alt="" coords="251,889,341,917"/>
+<area shape="rect" id="node26" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="1719,433,1879,461"/>
+<area shape="rect" id="node30" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="1215,509,1391,537"/>
+<area shape="rect" id="node35" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="579,509,699,537"/>
+<area shape="rect" id="node36" href="$d3/dab/G4DynamicParticle_8hh.html" title="G4DynamicParticle.hh" alt="" coords="457,433,628,461"/>
+<area shape="rect" id="node38" href="$d8/dcd/G4TrackStatus_8hh.html" title="G4TrackStatus.hh" alt="" coords="825,433,965,461"/>
+<area shape="rect" id="node39" href="$dd/d1b/G4TouchableHandle_8hh.html" title="G4TouchableHandle.hh" alt="" coords="989,433,1166,461"/>
+<area shape="rect" id="node40" href="$d4/dca/G4VUserTrackInformation_8hh.html" title="G4VUserTrackInformation.hh" alt="" coords="757,585,971,613"/>
+<area shape="rect" id="node41" href="$df/d1d/G4PhysicsModelCatalog_8hh.html" title="G4PhysicsModelCatalog.hh" alt="" coords="871,661,1075,689"/>
+<area shape="rect" id="node42" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="2070,585,2186,613"/>
+<area shape="rect" id="node27" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="1870,585,1978,613"/>
+<area shape="rect" id="node29" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="1353,661,1503,689"/>
+<area shape="rect" id="node33" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="2079,661,2209,689"/>
+<area shape="rect" id="node31" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="1231,585,1340,613"/>
+<area shape="rect" id="node32" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="1047,585,1207,613"/>
+<area shape="rect" id="node37" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="144,509,365,537"/>
+<area shape="rect" id="node47" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="1577,661,1727,689"/>
+<area shape="rect" id="node48" href="$da/d5c/G4UIcommand_8hh.html" title="G4UIcommand.hh" alt="" coords="2370,585,2513,613"/>
+<area shape="rect" id="node49" href="$df/d81/G4AnyType_8hh.html" title="G4AnyType.hh" alt="" coords="2445,509,2563,537"/>
+<area shape="rect" id="node50" href="$dd/d9c/G4AnyMethod_8hh.html" title="G4AnyMethod.hh" alt="" coords="2740,509,2879,537"/>
+</map>

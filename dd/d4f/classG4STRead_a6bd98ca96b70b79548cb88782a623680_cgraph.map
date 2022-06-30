@@ -1,0 +1,28 @@
+<map id="G4STRead::Read" name="G4STRead::Read">
+<area shape="rect" id="node2" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="728,99,835,127"/>
+<area shape="rect" id="node3" href="$d0/d5a/classG4Box.html#a57ecdd3fd3a32274edfcf848330fc4a2" title="G4Box::GetXHalfLength" alt="" coords="187,700,368,728"/>
+<area shape="rect" id="node4" href="$d0/d5a/classG4Box.html#ab06d81091f3c8c77cc14ac4170b6767d" title="G4Box::GetYHalfLength" alt="" coords="187,752,367,780"/>
+<area shape="rect" id="node5" href="$d0/d5a/classG4Box.html#af6adc9bd51a72f46255f122ccc25c5f9" title="G4Box::GetZHalfLength" alt="" coords="187,804,368,832"/>
+<area shape="rect" id="node6" href="$dd/d4f/classG4STRead.html#a12505cb814fce8f34aaa68d783f2bd10" title="G4STRead::ReadGeom" alt="" coords="190,109,365,137"/>
+<area shape="rect" id="node9" href="$dd/d4f/classG4STRead.html#a7a6f3961c5c55c13b91e3b16d2b7ff77" title="G4STRead::ReadTree" alt="" coords="196,339,359,367"/>
+<area shape="rect" id="node16" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="697,427,866,455"/>
+<area shape="rect" id="node17" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="697,615,866,643"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="697,735,865,763"/>
+<area shape="rect" id="node19" href="$d0/d5a/classG4Box.html#ac294bf1fe30c68eb26e915bf675eaf2e" title="G4Box::SetXHalfLength" alt="" coords="188,391,367,419"/>
+<area shape="rect" id="node26" href="$d0/d5a/classG4Box.html#ac0aee998dce0464a468489efe4b79bf6" title="G4Box::SetYHalfLength" alt="" coords="188,443,367,471"/>
+<area shape="rect" id="node27" href="$d0/d5a/classG4Box.html#a87cd04543b09298414376c1438487d58" title="G4Box::SetZHalfLength" alt="" coords="188,495,367,523"/>
+<area shape="rect" id="node7" href="$dd/d4f/classG4STRead.html#ac212643fed9771b5a1f228b9bc018d1c" title="G4STRead::TessellatedRead" alt="" coords="416,135,625,163"/>
+<area shape="rect" id="node8" href="$dd/d4f/classG4STRead.html#a97b9e9abe0ff29e6436ac77eff8c93e3" title="G4STRead::FacetRead" alt="" coords="436,83,605,111"/>
+<area shape="rect" id="node10" href="$dd/d4f/classG4STRead.html#ae8247d2d033760a9f07810af6be150d7" title="G4STRead::PhysvolRead" alt="" coords="428,391,613,419"/>
+<area shape="rect" id="node11" href="$dd/d65/classCLHEP_1_1HepRotation.html#a3ad63a2341dccc0842435ad5418e7a7f" title="CLHEP::HepRotation\l::inverse" alt="" coords="703,203,860,247"/>
+<area shape="rect" id="node12" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="759,271,804,299"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="686,323,877,351"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="686,375,877,403"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="686,151,877,179"/>
+<area shape="rect" id="node20" href="$da/d34/classG4VSolid.html#a548fddaea6da32e16c9ed8402c1bba72" title="G4VSolid::GetName" alt="" coords="443,495,599,523"/>
+<area shape="rect" id="node21" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="479,443,562,471"/>
+<area shape="rect" id="node22" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="673,479,889,523"/>
+<area shape="rect" id="node23" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="675,547,887,591"/>
+<area shape="rect" id="node24" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="676,667,887,711"/>
+<area shape="rect" id="node25" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="937,667,1105,711"/>
+</map>

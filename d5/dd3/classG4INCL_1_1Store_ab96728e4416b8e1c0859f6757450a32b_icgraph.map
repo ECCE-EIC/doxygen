@@ -1,0 +1,19 @@
+<map id="G4INCL::Store::getConfig" name="G4INCL::Store::getConfig">
+<area shape="rect" id="node2" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a9d5f3f47c52970013230d078fac915fa" title="G4INCL::SurfaceAvatar\l::getChannel" alt="" coords="615,49,791,93"/>
+<area shape="rect" id="node4" href="$dd/d6a/classG4INCL_1_1ClusteringModelIntercomparison.html#af7da5a49c25a09c3fd6366a7a3de762f" title="G4INCL::ClusteringModelIntercomparison\l::getCluster" alt="" coords="243,45,541,89"/>
+<area shape="rect" id="node5" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#a6ac2a241e5f105227b8b571c068d61ea" title="Calculate the transmission probability for the particle." alt="" coords="286,113,498,157"/>
+<area shape="rect" id="node6" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#a8a1824ffd5272e7dcc81e443edc17af7" title="Modify particle that enters the nucleus." alt="" coords="282,181,502,225"/>
+<area shape="rect" id="node8" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ac8a019a080acc89c5c2ac6dbb339a750" title="G4INCL::InteractionAvatar\l::postInteraction" alt="" coords="864,241,1061,285"/>
+<area shape="rect" id="node11" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ae6430f84a2a5f3a5780957b818ac7b3e" title="true if the given avatar should use local energy" alt="" coords="293,369,491,413"/>
+<area shape="rect" id="node3" href="$d4/d6c/classG4INCL_1_1SurfaceAvatar.html#aea1ea953eb9853ef38624e58fcaa0278" title="G4INCL::SurfaceAvatar\l::fillFinalState" alt="" coords="875,49,1051,93"/>
+<area shape="rect" id="node7" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#abf44c365082f5001071c3c658a611503" title="G4INCL::ParticleEntryChannel\l::fillFinalState" alt="" coords="593,181,813,225"/>
+<area shape="rect" id="node9" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#a87418f6177e792cb84b66b8075c2b9da" title="G4INCL::DecayAvatar\l::postInteraction" alt="" coords="1139,301,1305,345"/>
+<area shape="rect" id="node10" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a7a875ce633f6452bf1948ed61c903ce3" title="G4INCL::BinaryCollisionAvatar\l::postInteraction" alt="" coords="1109,233,1335,277"/>
+<area shape="rect" id="node12" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#a6d1151348ef6128ccc9916d17e0991d5" title="Enforce energy conservation." alt="" coords="594,301,811,345"/>
+<area shape="rect" id="node13" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af59776dad28c0c7f17415dd5b6e9e2c8" title="Apply local&#45;energy transformation, if appropriate." alt="" coords="599,369,807,413"/>
+<area shape="rect" id="node17" href="$de/d20/classG4INCL_1_1InteractionAvatar_1_1ViolationEMomentumFunctor.html#a6b880223a021c60fddbeb01f4cdaa023" title="Scale the momenta of the modified and created particles." alt="" coords="589,437,816,497"/>
+<area shape="rect" id="node18" href="$dd/dfe/classG4INCL_1_1InteractionAvatar_1_1ViolationEEnergyFunctor.html#a2f9284a89e8fb9fd4fae79072e0709d1" title="Set the energy of the particle." alt="" coords="604,521,801,581"/>
+<area shape="rect" id="node14" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="864,369,1061,413"/>
+<area shape="rect" id="node15" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#adbdf2218ffff261051eaaa09026bb583" title="G4INCL::DecayAvatar\l::preInteraction" alt="" coords="1139,369,1305,413"/>
+<area shape="rect" id="node16" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="1109,437,1335,481"/>
+</map>

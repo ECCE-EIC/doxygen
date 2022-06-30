@@ -1,0 +1,17 @@
+<map id="G4INCL::EtaNElasticChannel::fillFinalState" name="G4INCL::EtaNElasticChannel::fillFinalState">
+<area shape="rect" id="node2" href="$da/d83/classG4INCL_1_1FinalState.html#a27332a731cfb4c89c3ee229ba21c99e3" title="G4INCL::FinalState\l::addModifiedParticle" alt="" coords="301,5,463,49"/>
+<area shape="rect" id="node3" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="289,73,475,101"/>
+<area shape="rect" id="node4" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1037,201,1245,229"/>
+<area shape="rect" id="node5" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="548,203,743,231"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="280,228,484,256"/>
+<area shape="rect" id="node7" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#aa6401a262696ee1703914b1a6f9ef8d9" title="gives the momentum in the lab frame of two particles." alt="" coords="290,280,474,324"/>
+<area shape="rect" id="node12" href="$d5/d11/namespaceG4INCL_1_1Random.html#a0d9e4bdbfe25ceeb7cd3f786da732386" title="G4INCL::Random::normVector" alt="" coords="270,348,494,376"/>
+<area shape="rect" id="node13" href="$d5/d11/namespaceG4INCL_1_1Random.html#aad2134de367e586ed59d4ebc233f65ae" title="G4INCL::Random::shoot" alt="" coords="554,373,737,401"/>
+<area shape="rect" id="node14" href="$db/d32/namespaceG4InuclParticleNames.html#aab3a6382cc17b00ae41fc3618393b7b7" title="G4InuclParticleNames\l::nucleon" alt="" coords="297,452,467,496"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#ac6ece0a46852fc251f788f5dd88e47e4" title="G4INCL::Particle::setEnergy" alt="" coords="279,520,485,548"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="264,572,500,600"/>
+<area shape="rect" id="node8" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="551,268,739,312"/>
+<area shape="rect" id="node9" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="791,253,975,297"/>
+<area shape="rect" id="node11" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="801,321,964,365"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="1023,261,1260,289"/>
+</map>

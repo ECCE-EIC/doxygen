@@ -1,0 +1,29 @@
+<map id="G4eBremParametrizedModel::ComputeDXSectionPerAtom" name="G4eBremParametrizedModel::ComputeDXSectionPerAtom">
+<area shape="rect" id="node2" href="$de/d1a/classG4eBremParametrizedModel.html#abfa0aa5d7fff5d81cec803e4face87d8" title="G4eBremParametrizedModel\l::ComputeParametrizedDXSection\lPerAtom" alt="" coords="272,206,523,266"/>
+<area shape="rect" id="node24" href="$de/d1a/classG4eBremParametrizedModel.html#a21e76721cb2449dfd2fda3bade5c17dd" title="G4eBremParametrizedModel\l::ScreenFunction1" alt="" coords="571,42,785,86"/>
+<area shape="rect" id="node25" href="$de/d1a/classG4eBremParametrizedModel.html#adfa82045e7ab274fb69e972c1c7e5714" title="G4eBremParametrizedModel\l::ScreenFunction2" alt="" coords="571,351,785,395"/>
+<area shape="rect" id="node26" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="320,343,475,387"/>
+<area shape="rect" id="node27" href="$d3/db9/namespacecheck__include__guards.html#a1e1c15f440c6a8cbd0d048c1833b4f9f" title="check_include_guards.main" alt="" coords="293,414,501,442"/>
+<area shape="rect" id="node3" href="$de/d1a/classG4eBremParametrizedModel.html#aa52d768fa55a99643d34c08187d8f2ee" title="G4eBremParametrizedModel\l::SetCurrentElement" alt="" coords="571,214,785,258"/>
+<area shape="rect" id="node4" href="$d2/d00/classG4NistManager.html#aeb46189f2eb6eeafeac0de40802419ac" title="G4NistManager::GetZ13" alt="" coords="867,100,1051,128"/>
+<area shape="rect" id="node13" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1471,283,1535,311"/>
+<area shape="rect" id="node23" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="644,110,712,138"/>
+<area shape="rect" id="node19" href="$d2/d00/classG4NistManager.html#a80fa0dcd1bf0b3c46146741da738686b" title="G4NistManager::GetLOGZ" alt="" coords="861,204,1057,232"/>
+<area shape="rect" id="node21" href="$d3/dc1/classG4VEmModel.html#a583d7bc71e076e156d4a541e459c8fb2" title="G4VEmModel::GetCurrentElement" alt="" coords="833,256,1085,284"/>
+<area shape="rect" id="node22" href="$de/d80/classG4Element.html#ac3e6b35667ad620d8e47deeb2c8ce035" title="G4Element::GetfCoulomb" alt="" coords="862,152,1057,180"/>
+<area shape="rect" id="node5" href="$de/d0f/classG4Pow.html#a7b6d5e23775381837d5d1fceec32d51a" title="G4Pow::A13" alt="" coords="1136,139,1237,167"/>
+<area shape="rect" id="node6" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1335,218,1374,246"/>
+<area shape="rect" id="node7" href="$de/d0f/classG4Pow.html#a3bfc336621a01fb1fcf200d8f7dae783" title="G4Pow::A13Low" alt="" coords="1290,166,1419,194"/>
+<area shape="rect" id="node8" href="$de/d0f/classG4Pow.html#ab667e62bac474227ed1696c8dfc108c0" title="G4Pow::A13High" alt="" coords="1288,114,1421,142"/>
+<area shape="rect" id="node9" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1469,114,1536,142"/>
+<area shape="rect" id="node10" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1621,139,1787,167"/>
+<area shape="rect" id="node12" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1609,87,1799,115"/>
+<area shape="rect" id="node11" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1872,139,2060,167"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1608,231,1800,259"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1608,283,1800,311"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1584,335,1824,363"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1872,360,2060,388"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1872,308,2060,336"/>
+<area shape="rect" id="node20" href="$de/d0f/classG4Pow.html#a1c3b51384558470c3ed8df040cea89d1" title="G4Pow::logZ" alt="" coords="1133,204,1240,232"/>
+<area shape="rect" id="node28" href="$d8/d03/G4ecpssrBaseKxsModel_8cc.html#afca89815e8ce05521ca0a7ec9bd17385" title="print" alt="" coords="651,419,705,447"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="G4MaterialPropertiesTable::AddConstProperty" name="G4MaterialPropertiesTable::AddConstProperty">
+<area shape="rect" id="node2" href="$dc/d5b/classDetectorConstruction.html#a28d4c1c1b1fc543b402beea29392aa5c" title="DetectorConstruction\l::AddSurfaceMPC" alt="" coords="310,5,475,49"/>
+<area shape="rect" id="node3" href="$dc/d5b/classDetectorConstruction.html#a90feb218d60e1e7b33ffb69c768f0df3" title="DetectorConstruction\l::AddTankMPC" alt="" coords="310,73,475,117"/>
+<area shape="rect" id="node4" href="$dc/d5b/classDetectorConstruction.html#ad2b55484ad4724f957fd91b62b767e9b" title="DetectorConstruction\l::AddWorldMPC" alt="" coords="310,141,475,185"/>
+<area shape="rect" id="node5" href="$dc/d97/classOpNoviceDetectorConstruction.html#aa6d7077f85684e552263fad644c2b79d" title="OpNoviceDetectorConstruction\l::Construct" alt="" coords="278,209,507,253"/>
+<area shape="rect" id="node6" href="$d1/d49/classWLSMaterials.html#a3ab0530608aebff84d9dfcae5e691662" title="WLSMaterials::CreateMaterials" alt="" coords="279,277,507,305"/>
+<area shape="rect" id="node10" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#ab73d59b7d86cc124b45bf5922326830b" title="PHG4HybridHomogeneousCalorimeter\lDetector::CrystalTable" alt="" coords="252,329,533,373"/>
+<area shape="rect" id="node13" href="$d7/dfb/classExUCNDetectorConstruction.html#a79ab836c2435ce1850d3d38f90c568a7" title="ExUCNDetectorConstruction\l::DefineMaterials" alt="" coords="617,441,827,485"/>
+<area shape="rect" id="node15" href="$da/d38/classLXeDetectorConstruction.html#aaf3c72647e520cad43865c43627824cc" title="LXeDetectorConstruction\l::DefineMaterials" alt="" coords="298,517,487,561"/>
+<area shape="rect" id="node17" href="$d0/d78/classPHG4Reco.html#a90115a5a7726db54ec46f7fa341e0e5c" title="PHG4Reco::DefineMaterials" alt="" coords="289,721,496,749"/>
+<area shape="rect" id="node19" href="$d4/dd9/classPHG4LFHcalDetector.html#a5f82df52f071dea0592477600b23840e" title="PHG4LFHcalDetector\l::GetScintillatorMaterial" alt="" coords="302,773,483,817"/>
+<area shape="rect" id="node22" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a1944dfc44b34c22d8ce21da3a6d5d46a" title="PHG4ForwardDualReadoutDetector\l::GetScintillatorMaterial" alt="" coords="263,909,522,953"/>
+<area shape="rect" id="node26" href="$d8/d23/classPHG4ForwardEcalDetector.html#abaea272f1412fba949fb71b871dd6005" title="PHG4ForwardEcalDetector\l::GetScintillatorMaterial" alt="" coords="293,977,493,1021"/>
+<area shape="rect" id="node29" href="$d8/d23/classPHG4ForwardEcalDetector.html#a960ac3ae869e8d9360c5352ae80eaba3" title="PHG4ForwardEcalDetector\l::GetWLSFiberFEMCMaterial" alt="" coords="289,1045,497,1089"/>
+<area shape="rect" id="node30" href="$d4/dd9/classPHG4LFHcalDetector.html#a2cd320bc53ed47d5f3dc050a920757e2" title="PHG4LFHcalDetector\l::GetWLSFiberMaterial" alt="" coords="307,841,478,885"/>
+<area shape="rect" id="node31" href="$db/d87/classG4GDMLReadMaterials.html#a084e2b85dc5ad66631a09588c0ae156b" title="G4GDMLReadMaterials\l::PropertyRead" alt="" coords="305,1113,481,1157"/>
+<area shape="rect" id="node34" href="$d4/db9/classG4GDMLReadSolids.html#a1c2e8228814791a0b0e62bb4a64bc9da" title="G4GDMLReadSolids::PropertyRead" alt="" coords="266,1181,519,1209"/>
+<area shape="rect" id="node37" href="$da/d38/classLXeDetectorConstruction.html#a83360c09148d278342530ac52d5a6c2c" title="LXeDetectorConstruction\l::SetDefaults" alt="" coords="298,585,487,629"/>
+<area shape="rect" id="node39" href="$da/d38/classLXeDetectorConstruction.html#a7ee6f9fbdfe37577b862d8025ce1b06b" title="LXeDetectorConstruction\l::SetMainScintYield" alt="" coords="298,1233,487,1277"/>
+<area shape="rect" id="node40" href="$d9/df3/classG4UCNMaterialPropertiesTable.html#a13b01c9a4d08d53419013de4862df4d1" title="G4UCNMaterialPropertiesTable\l::SetMicroRoughnessParameters" alt="" coords="273,449,513,493"/>
+<area shape="rect" id="node41" href="$da/d38/classLXeDetectorConstruction.html#a06fe5bbcc591de2c20c188e1a8b3eaa7" title="LXeDetectorConstruction\l::SetWLSScintYield" alt="" coords="298,653,487,697"/>
+<area shape="rect" id="node7" href="$d1/d49/classWLSMaterials.html#ae7d93c0e91abf366bfba8c06ac5d2edc" title="WLSMaterials::WLSMaterials" alt="" coords="615,277,829,305"/>
+<area shape="rect" id="node8" href="$d1/d49/classWLSMaterials.html#a355815c46a4d667902f6327e0b284be3" title="WLSMaterials::GetInstance" alt="" coords="950,277,1153,305"/>
+<area shape="rect" id="node9" href="$da/d61/classWLSDetectorConstruction.html#a7e93e97b4ff51ef1bbf99d6f211cc567" title="WLSDetectorConstruction\l::Construct" alt="" coords="1240,269,1435,313"/>
+<area shape="rect" id="node11" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a07bda1080900fd47c244a2ad521c1732" title="PHG4HybridHomogeneousCalorimeter\lDetector::ConstructTower" alt="" coords="581,329,863,373"/>
+<area shape="rect" id="node12" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a5fc8c0640b56ca93b7492615617ed59f" title="construct" alt="" coords="911,329,1192,373"/>
+<area shape="rect" id="node14" href="$d7/dfb/classExUCNDetectorConstruction.html#a29829db3046f0d2c5ec35729c70df3c8" title="ExUCNDetectorConstruction\l::ExUCNDetectorConstruction" alt="" coords="941,441,1161,485"/>
+<area shape="rect" id="node16" href="$da/d38/classLXeDetectorConstruction.html#a1e503c56176aeb342ea6aa0e9cd5fc6a" title="LXeDetectorConstruction\l::LXeDetectorConstruction" alt="" coords="623,527,821,571"/>
+<area shape="rect" id="node18" href="$d0/d78/classPHG4Reco.html#a7b10a263dd7671587b574526da6b2d7d" title="full initialization" alt="" coords="661,721,783,749"/>
+<area shape="rect" id="node20" href="$d4/dd9/classPHG4LFHcalDetector.html#a632a9e545bf50de85ea08769c75b205d" title="PHG4LFHcalDetector\l::ConstructTower" alt="" coords="641,781,803,825"/>
+<area shape="rect" id="node21" href="$d4/dd9/classPHG4LFHcalDetector.html#a6a6dd7e7623d6560cafc8ee4c7ca4e1c" title="construct" alt="" coords="970,781,1133,825"/>
+<area shape="rect" id="node23" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a7ca6d04e93df762b3ebc553f04aa1ebc" title="PHG4ForwardDualReadoutDetector\l::ConstructTower" alt="" coords="593,859,851,903"/>
+<area shape="rect" id="node25" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#aabe7f65cf7fc95c7092537acc12bf48b" title="PHG4ForwardDualReadoutDetector\l::ConstructTowerFCStyle" alt="" coords="593,927,851,971"/>
+<area shape="rect" id="node24" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#af489ada6e69392d781f317ac9ce17bfd" title="construct" alt="" coords="922,893,1181,937"/>
+<area shape="rect" id="node27" href="$d8/d23/classPHG4ForwardEcalDetector.html#a6cc111d6a9972cad82ed720d4f834f47" title="PHG4ForwardEcalDetector\l::ConstructTower" alt="" coords="622,1024,822,1068"/>
+<area shape="rect" id="node28" href="$d8/d23/classPHG4ForwardEcalDetector.html#a3930ced4da0fa3fd0c39d302fe6a84e5" title="construct" alt="" coords="951,1024,1151,1068"/>
+<area shape="rect" id="node32" href="$db/d87/classG4GDMLReadMaterials.html#aea2d34239b0d61bca0ea6a645f2b55f2" title="G4GDMLReadMaterials\l::MaterialRead" alt="" coords="634,1109,810,1153"/>
+<area shape="rect" id="node33" href="$db/d87/classG4GDMLReadMaterials.html#aa810ff8fc6c63b50a82825ccccd774e6" title="G4GDMLReadMaterials\l::MaterialsRead" alt="" coords="963,1109,1139,1153"/>
+<area shape="rect" id="node35" href="$d4/db9/classG4GDMLReadSolids.html#a62254bd86a50af4e261e414e6ef3c1a2" title="G4GDMLReadSolids::Optical\lSurfaceRead" alt="" coords="617,1177,827,1221"/>
+<area shape="rect" id="node36" href="$d4/db9/classG4GDMLReadSolids.html#aaa40a604da13ce30b7e99c45277e30e7" title="G4GDMLReadSolids::SolidsRead" alt="" coords="933,1185,1170,1213"/>
+<area shape="rect" id="node38" href="$d2/d93/classLXeDetectorMessenger.html#a90c80e6b610077b612c6c7efaae6e1ff" title="LXeDetectorMessenger\l::SetNewValue" alt="" coords="633,620,811,664"/>
+</map>

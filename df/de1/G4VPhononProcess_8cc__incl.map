@@ -1,0 +1,43 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/solidstate/phonon/src/G4VPhononProcess.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/solidstate/phonon/src/G4VPhononProcess.cc">
+<area shape="rect" id="node2" href="$d5/df6/G4VPhononProcess_8hh.html" title="G4VPhononProcess.hh" alt="" coords="1388,357,1560,385"/>
+<area shape="rect" id="node12" href="$d6/d7e/G4ExceptionSeverity_8hh.html" title="G4ExceptionSeverity.hh" alt="" coords="2497,661,2678,689"/>
+<area shape="rect" id="node14" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="705,433,846,461"/>
+<area shape="rect" id="node16" href="$d3/dab/G4DynamicParticle_8hh.html" title="G4DynamicParticle.hh" alt="" coords="2594,281,2765,309"/>
+<area shape="rect" id="node20" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="3164,357,3341,385"/>
+<area shape="rect" id="node30" href="$d5/df0/G4LatticeManager_8hh.html" title="G4LatticeManager.hh" alt="" coords="221,357,386,385"/>
+<area shape="rect" id="node32" href="$d6/d3a/G4LatticePhysical_8hh.html" title="Definition of the G4LatticePhysical class." alt="" coords="978,281,1141,309"/>
+<area shape="rect" id="node35" href="$d4/da0/G4PhononLong_8hh.html" title="G4PhononLong.hh" alt="" coords="2860,281,3005,309"/>
+<area shape="rect" id="node36" href="$dc/d9a/G4PhononPolarization_8hh.html" title="G4PhononPolarization.hh" alt="" coords="1528,129,1719,157"/>
+<area shape="rect" id="node37" href="$d5/d24/G4PhononTrackMap_8hh.html" title="G4PhononTrackMap.hh" alt="" coords="410,357,586,385"/>
+<area shape="rect" id="node38" href="$d1/d2c/G4PhononTransFast_8hh.html" title="G4PhononTransFast.hh" alt="" coords="3032,281,3207,309"/>
+<area shape="rect" id="node39" href="$da/da2/G4PhononTransSlow_8hh.html" title="G4PhononTransSlow.hh" alt="" coords="3159,129,3338,157"/>
+<area shape="rect" id="node40" href="$d7/da3/G4ProcessType_8hh.html" title="G4ProcessType.hh" alt="" coords="3657,129,3801,157"/>
+<area shape="rect" id="node41" href="$d2/d83/G4Track_8hh.html" title="G4Track.hh" alt="" coords="1760,129,1857,157"/>
+<area shape="rect" id="node3" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1953,509,2043,537"/>
+<area shape="rect" id="node13" href="$d2/d0c/G4VDiscreteProcess_8hh.html" title="G4VDiscreteProcess.hh" alt="" coords="2132,433,2309,461"/>
+<area shape="rect" id="node4" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2311,737,2392,765"/>
+<area shape="rect" id="node5" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1599,813,1699,841"/>
+<area shape="rect" id="node7" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="1699,737,1801,765"/>
+<area shape="rect" id="node8" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="2041,585,2152,613"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1909,661,2037,689"/>
+<area shape="rect" id="node10" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="1788,585,1965,613"/>
+<area shape="rect" id="node15" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="671,509,880,537"/>
+<area shape="rect" id="node18" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="2878,509,3099,537"/>
+<area shape="rect" id="node19" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="2809,433,3051,461"/>
+<area shape="rect" id="node24" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="2563,433,2683,461"/>
+<area shape="rect" id="node25" href="$d7/dd0/G4LorentzVector_8hh.html" title="G4LorentzVector.hh" alt="" coords="2385,433,2539,461"/>
+<area shape="rect" id="node26" href="$db/dfe/G4Log_8hh.html" title="G4Log.hh" alt="" coords="3707,509,3793,537"/>
+<area shape="rect" id="node27" href="$dc/d2b/G4ParticleMomentum_8hh.html" title="G4ParticleMomentum.hh" alt="" coords="1176,357,1364,385"/>
+<area shape="rect" id="node28" href="$d2/dbb/G4ElectronOccupancy_8hh.html" title="G4ElectronOccupancy.hh" alt="" coords="2703,357,2893,385"/>
+<area shape="rect" id="node22" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="3177,433,3328,461"/>
+<area shape="rect" id="node33" href="$da/d24/G4LatticeLogical_8hh.html" title="Definition of the G4LatticeLogical class." alt="" coords="997,357,1151,385"/>
+<area shape="rect" id="node34" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="813,357,973,385"/>
+<area shape="rect" id="node42" href="$df/db6/trkdefs_8hh.html" title="trkdefs.hh" alt="" coords="5,737,95,765"/>
+<area shape="rect" id="node43" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="1266,205,1426,233"/>
+<area shape="rect" id="node44" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="727,281,903,309"/>
+<area shape="rect" id="node45" href="$d8/dcd/G4TrackStatus_8hh.html" title="G4TrackStatus.hh" alt="" coords="1793,205,1933,233"/>
+<area shape="rect" id="node46" href="$dd/d1b/G4TouchableHandle_8hh.html" title="G4TouchableHandle.hh" alt="" coords="1957,205,2135,233"/>
+<area shape="rect" id="node47" href="$d4/dca/G4VUserTrackInformation_8hh.html" title="G4VUserTrackInformation.hh" alt="" coords="2333,205,2548,233"/>
+<area shape="rect" id="node48" href="$df/d1d/G4PhysicsModelCatalog_8hh.html" title="G4PhysicsModelCatalog.hh" alt="" coords="1687,357,1891,385"/>
+<area shape="rect" id="node49" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="1967,357,2083,385"/>
+</map>

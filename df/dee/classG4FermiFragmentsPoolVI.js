@@ -1,0 +1,28 @@
+var classG4FermiFragmentsPoolVI =
+[
+    [ "G4FermiFragmentsPoolVI", "df/dee/classG4FermiFragmentsPoolVI.html#a86261d727a789ef8fa4e3da6edc46dd6", null ],
+    [ "~G4FermiFragmentsPoolVI", "df/dee/classG4FermiFragmentsPoolVI.html#a696b4857e76b958a458c6126b86b0cd3", null ],
+    [ "ClosestChannels", "df/dee/classG4FermiFragmentsPoolVI.html#a9c93359d60c2a6150127f0f7562eb935", null ],
+    [ "Dump", "df/dee/classG4FermiFragmentsPoolVI.html#ab00ebf99a652828f48dab4f5cfce4cc3", null ],
+    [ "DumpFragment", "df/dee/classG4FermiFragmentsPoolVI.html#a68bbd3dc13ba3850dee9b08141d2b8a2", null ],
+    [ "FermiDecayProbability", "df/dee/classG4FermiFragmentsPoolVI.html#a1e8ed45ce2e2f0c914625c97b4b74b12", null ],
+    [ "GetEnergyLimit", "df/dee/classG4FermiFragmentsPoolVI.html#aa69e4df5e99143e8f05829e9a0ad6d4f", null ],
+    [ "GetMaxA", "df/dee/classG4FermiFragmentsPoolVI.html#aeaedf2c9fb834690742f5547e7ec958b", null ],
+    [ "GetMaxZ", "df/dee/classG4FermiFragmentsPoolVI.html#ac149cb747151c66f531b9b964357994e", null ],
+    [ "GetTolerance", "df/dee/classG4FermiFragmentsPoolVI.html#a16772a97ac65c3cee7db31573cb40897", null ],
+    [ "HasChannels", "df/dee/classG4FermiFragmentsPoolVI.html#aa6a5239453394c71dd2b76d87e518a2d", null ],
+    [ "Initialise", "df/dee/classG4FermiFragmentsPoolVI.html#a5755209872dd013f58502eaf33bc8573", null ],
+    [ "IsInPhysPairs", "df/dee/classG4FermiFragmentsPoolVI.html#a8bfa720ea17f4583add69b3e2579d8e5", null ],
+    [ "IsInThePool", "df/dee/classG4FermiFragmentsPoolVI.html#ac815992be1b90b3f0ed742ea3e224808", null ],
+    [ "IsInUnphysPairs", "df/dee/classG4FermiFragmentsPoolVI.html#aae717b57cb24d886aa8ba29b7e3de7af", null ],
+    [ "IsPhysical", "df/dee/classG4FermiFragmentsPoolVI.html#a90e7590af95b99317a9a56da5cd189e1", null ],
+    [ "elim", "df/dee/classG4FermiFragmentsPoolVI.html#a5b8907bdf462f5518acc447e3b0d0370", null ],
+    [ "elimf", "df/dee/classG4FermiFragmentsPoolVI.html#ad75d9219bc2bbfc2652cf17eee87519f", null ],
+    [ "fragment_pool", "df/dee/classG4FermiFragmentsPoolVI.html#a363c168912aad2419c61284edf07a0a8", null ],
+    [ "list_c", "df/dee/classG4FermiFragmentsPoolVI.html#a358e171681773cb26d03813619dbb567", null ],
+    [ "list_f", "df/dee/classG4FermiFragmentsPoolVI.html#a273b5ee8979e54dd14684fb2c5545f5a", null ],
+    [ "list_p", "df/dee/classG4FermiFragmentsPoolVI.html#ae4edc1cadad66e6a987eb8c974be438c", null ],
+    [ "theDecay", "df/dee/classG4FermiFragmentsPoolVI.html#a5ab93534469b4eae42fd6553d6db2611", null ],
+    [ "timelim", "df/dee/classG4FermiFragmentsPoolVI.html#a7e5e0ba5838a50c80b4563aa4674b7dc", null ],
+    [ "tolerance", "df/dee/classG4FermiFragmentsPoolVI.html#aa3a503037b2cf9e0f6e0c340587832b5", null ]
+];

@@ -1,0 +1,25 @@
+<map id="CML2PrimaryGenerationAction::GenerateFromCalculatedPhaseSpace" name="CML2PrimaryGenerationAction::GenerateFromCalculatedPhaseSpace">
+<area shape="rect" id="node2" href="$d0/d27/classCML2PrimaryGenerationAction.html#a11b2acbbe148c1d2b7031bd614f3f9ab" title="CML2PrimaryGenerationAction\l::fillParticlesContainer" alt="" coords="333,181,560,225"/>
+<area shape="rect" id="node19" href="$dc/ded/classG4ParticleGun.html#aae5df7aba65b5e621bf5fceea16e8c4e" title="G4ParticleGun::SetParticle\lDefinition" alt="" coords="347,352,546,396"/>
+<area shape="rect" id="node3" href="$d4/daa/classG4RunManager.html#a10200f5391f3e462c7614adc6eb9cfe5" title="G4RunManager::AbortRun" alt="" coords="632,111,828,139"/>
+<area shape="rect" id="node17" href="$d4/daa/classG4RunManager.html#a599e9d031d2b12680e80aee6df3dfa2a" title="G4RunManager::GetRunManager" alt="" coords="608,163,852,191"/>
+<area shape="rect" id="node18" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#abd8b55ba393986873db4fe1a9b709ff9" title="CLHEP::Hep3Vector::set" alt="" coords="639,215,821,243"/>
+<area shape="rect" id="node4" href="$de/dd6/classG4StateManager.html#a9e2e3ebb3df0c07330d50cb22c7ad98c" title="G4StateManager::GetState\lManager" alt="" coords="916,5,1119,49"/>
+<area shape="rect" id="node7" href="$de/dd6/classG4StateManager.html#a3100e316616b0f747601a23c220bd193" title="G4StateManager::GetCurrent\lState" alt="" coords="908,73,1127,117"/>
+<area shape="rect" id="node8" href="$d5/de2/classG4Event.html#aa07d1a55cc240c5eccc65656668465d4" title="G4Event::SetEventAborted" alt="" coords="916,141,1119,169"/>
+<area shape="rect" id="node9" href="$da/d44/classG4EventManager.html#a72c4cb963466f84b805b2c0a56ba4d2c" title="G4EventManager::AbortCurrent\lEvent" alt="" coords="900,193,1135,237"/>
+<area shape="rect" id="node5" href="$de/dd6/classG4StateManager.html#a68a238e60d06ac64a264239fb3d8ae24" title="G4StateManager::G4StateManager" alt="" coords="1183,13,1441,41"/>
+<area shape="rect" id="node6" href="$df/de9/G4ios_8hh.html#af64ccf1dd18073363753e820abe5b75d" title="G4iosInitialization" alt="" coords="1534,13,1675,41"/>
+<area shape="rect" id="node10" href="$d1/d93/classG4StackManager.html#a5ee965d4fab8e714c8a758519a31494a" title="G4StackManager::clear" alt="" coords="1222,171,1402,199"/>
+<area shape="rect" id="node15" href="$dd/d71/classG4TrackingManager.html#adc1a7e6b4d5ce0127ecce68d76f75632" title="G4TrackingManager::\lEventAborted" alt="" coords="1230,223,1394,267"/>
+<area shape="rect" id="node11" href="$d1/d93/classG4StackManager.html#a833b0bf1a8a92b1360e59fba61960b06" title="G4StackManager::ClearUrgent\lStack" alt="" coords="1491,95,1718,139"/>
+<area shape="rect" id="node14" href="$d1/d93/classG4StackManager.html#af84516e55b6c5819ddde1f6311726a0e" title="G4StackManager::ClearWaiting\lStack" alt="" coords="1489,163,1720,207"/>
+<area shape="rect" id="node12" href="$df/dd3/classG4TrackStack.html#a25935ffde741c820dfdc133471e3ab25" title="G4TrackStack::clearAndDestroy" alt="" coords="1768,137,2003,165"/>
+<area shape="rect" id="node13" href="$d8/deb/comparison__ascii_8C.html#a8802af9a869c2efe00b067a8fabb31b5" title="clear" alt="" coords="2051,137,2107,165"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a0a9a76ea090ffed99910bb848b113380" title="G4Track::SetTrackStatus" alt="" coords="1512,231,1697,259"/>
+<area shape="rect" id="node20" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="677,267,783,295"/>
+<area shape="rect" id="node21" href="$d5/d38/classG4ParticleDefinition.html#a4a0a0696d1465dda55b65777ce74fb9a" title="G4ParticleDefinition\l::IsShortLived" alt="" coords="653,319,807,363"/>
+<area shape="rect" id="node22" href="$d5/d38/classG4ParticleDefinition.html#a7ca09da9a21b3b5a1923bcbb02c8c7e9" title="G4ParticleDefinition\l::GetDecayTable" alt="" coords="653,387,807,431"/>
+<area shape="rect" id="node23" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="653,455,807,499"/>
+<area shape="rect" id="node24" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="653,523,807,567"/>
+</map>

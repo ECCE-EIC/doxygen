@@ -1,0 +1,38 @@
+<map id="G4Material::CopyPointersOfBaseMaterial" name="G4Material::CopyPointersOfBaseMaterial">
+<area shape="rect" id="node2" href="$d5/de4/classG4Material.html#ae6f9654aa7a2575eab20371cf57b3e7c" title="G4Material::ComputeDensity\lEffectOnFly" alt="" coords="263,101,481,145"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a3ed91631cc74a059a98f8014a7867766" title="G4Material::GetAtomsVector" alt="" coords="265,497,479,525"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="282,549,462,577"/>
+<area shape="rect" id="node10" href="$d6/d69/classG4IonisParamMat.html#aabe8cd1abaca433550b812e17a2288f8" title="G4IonisParamMat::GetDensity\lEffectCalculator" alt="" coords="260,601,484,645"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="821,229,1049,257"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#a23da391e189ffb53d87a944e8aa69c99" title="G4Material::GetFractionVector" alt="" coords="822,419,1047,447"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#a53f76dce5e3f50c6509b85f25b2eada7" title="G4Material::GetFreeElectron\lDensity" alt="" coords="266,669,478,713"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="275,737,469,765"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a484f9a43cb92efc16d9421d082b91f41" title="G4Material::GetMaterialProperties\lTable" alt="" coords="247,789,497,833"/>
+<area shape="rect" id="node16" href="$d6/d69/classG4IonisParamMat.html#a4fefdfbba759144ef70b9923ea225a13" title="G4IonisParamMat::GetMean\lExcitationEnergy" alt="" coords="267,857,477,901"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#a3c17c7a1a2d935a2be44191bb50727b3" title="G4Material::GetNuclearInter\lLength" alt="" coords="266,925,478,969"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a5884a0a3a2bf398a87fb9248f025d351" title="G4Material::GetRadlen" alt="" coords="285,993,459,1021"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#aaf8633235f31c430e2a740f0a7f9a3ca" title="G4Material::GetSandiaTable" alt="" coords="267,1045,477,1073"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#a799afb574dc04d80f5a27c081a0dfaa3" title="G4Material::GetState" alt="" coords="290,1097,454,1125"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a040844667f1a20d3a7f2f4eda1cb5694" title="G4Material::GetTotNbOfAtoms\lPerVolume" alt="" coords="260,1149,484,1193"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#a38b9b59afca7e7e4fd67dbd3638c5a05" title="G4Material::GetTotNbOfElect\lPerVolume" alt="" coords="264,1217,480,1261"/>
+<area shape="rect" id="node23" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="257,1285,487,1329"/>
+<area shape="rect" id="node24" href="$d6/d69/classG4IonisParamMat.html#ac1071d1716eb275f3327b5bbb3b7ed3f" title="G4IonisParamMat::SetMean\lExcitationEnergy" alt="" coords="269,333,475,377"/>
+<area shape="rect" id="node3" href="$d6/d69/classG4IonisParamMat.html#a7d903eda3cb52fce1e9d6939c1289d7e" title="G4IonisParamMat::Compute\lDensityEffectOnFly" alt="" coords="545,101,756,145"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="842,125,1027,153"/>
+<area shape="rect" id="node5" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="804,177,1065,205"/>
+<area shape="rect" id="node6" href="$d0/dbe/classG4AtomicShells.html#ac9ff8c0e5699b7579b57736b610e3acb" title="G4AtomicShells::GetNumber\lOfShells" alt="" coords="827,5,1043,49"/>
+<area shape="rect" id="node7" href="$de/d80/classG4Element.html#ac5960b7377f4d3b3aefd1e5c9aad601c" title="G4Element::GetZasInt" alt="" coords="849,73,1021,101"/>
+<area shape="rect" id="node25" href="$d6/d69/classG4IonisParamMat.html#a35608f674d493dd650595c67b7a30121" title="G4IonisParamMat::Compute\lFluctModel" alt="" coords="545,273,756,317"/>
+<area shape="rect" id="node30" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="903,341,967,369"/>
+<area shape="rect" id="node36" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="567,393,735,421"/>
+<area shape="rect" id="node37" href="$d2/d00/classG4NistManager.html#ad0dbad7785358d8c46139b4d808c65db" title="G4NistManager::Instance" alt="" coords="555,221,747,249"/>
+<area shape="rect" id="node26" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="901,281,968,309"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1151,281,1316,309"/>
+<area shape="rect" id="node29" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1139,229,1328,257"/>
+<area shape="rect" id="node28" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1401,281,1589,309"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1137,437,1329,465"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1137,333,1329,361"/>
+<area shape="rect" id="node33" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1113,385,1353,413"/>
+<area shape="rect" id="node34" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1401,360,1589,388"/>
+<area shape="rect" id="node35" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1401,412,1589,440"/>
+</map>

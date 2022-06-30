@@ -1,0 +1,14 @@
+<map id="G4V3DNucleus::GetMass" name="G4V3DNucleus::GetMass">
+<area shape="rect" id="node2" href="$d0/d62/classG4RKPropagation.html#ac21477511beef33db51dec4cbf15b351" title="G4RKPropagation::FieldTransport" alt="" coords="243,5,487,33"/>
+<area shape="rect" id="node3" href="$d0/d62/classG4RKPropagation.html#a7a3d85b6437ba380f8bddc05619933e5" title="G4RKPropagation::Transport" alt="" coords="549,5,763,33"/>
+<area shape="rect" id="node4" href="$d0/d72/classG4BinaryCascade.html#a8cb949ade0dc2dbac02d409d159f798f" title="G4BinaryCascade::Propagate" alt="" coords="255,109,474,137"/>
+<area shape="rect" id="node8" href="$d9/db3/classG4QuasiElasticChannel.html#a77c7ab32488569f2d1303132af2023a6" title="G4QuasiElasticChannel\l::Scatter" alt="" coords="275,169,454,213"/>
+<area shape="rect" id="node5" href="$d0/d72/classG4BinaryCascade.html#a819ef318496ad0fc9ada18470447a6fa" title="G4BinaryCascade::ApplyYourself" alt="" coords="535,57,777,85"/>
+<area shape="rect" id="node6" href="$dd/d18/classG4BinaryLightIonReaction.html#a38327ae889e8e418224d4a9d3b4ac2d1" title="G4BinaryLightIonReaction\l::Interact" alt="" coords="558,109,754,153"/>
+<area shape="rect" id="node7" href="$dd/d18/classG4BinaryLightIonReaction.html#a7ebd9d632f36d7cdcab5a07202cb765f" title="G4BinaryLightIonReaction\l::ApplyYourself" alt="" coords="827,109,1023,153"/>
+<area shape="rect" id="node9" href="$d4/d28/classG4TheoFSGenerator.html#ad24712a85688d9be2850b3b6e2a0157f" title="G4TheoFSGenerator::\lApplyYourself" alt="" coords="573,177,739,221"/>
+<area shape="rect" id="node10" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="825,177,1024,221"/>
+<area shape="rect" id="node12" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="826,245,1023,289"/>
+<area shape="rect" id="node11" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="1072,177,1271,221"/>
+<area shape="rect" id="node13" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="1077,245,1266,289"/>
+</map>

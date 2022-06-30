@@ -1,0 +1,26 @@
+var classG4RootMainNtupleManager =
+[
+    [ "NtupleDescriptionType", "dd/d28/classG4RootMainNtupleManager.html#a56b9e5fbf1e06e15863759652dd2edb8", null ],
+    [ "NtupleType", "dd/d28/classG4RootMainNtupleManager.html#ac704f0dd3acde31ec82e8cede3109bcd", null ],
+    [ "G4RootMainNtupleManager", "dd/d28/classG4RootMainNtupleManager.html#ae8f3606dcc293ef9bc25af12a2b6fa33", null ],
+    [ "~G4RootMainNtupleManager", "dd/d28/classG4RootMainNtupleManager.html#afd8f0fe27bf45bf1db02ad8596ce7fbe", null ],
+    [ "CreateNtuple", "dd/d28/classG4RootMainNtupleManager.html#af9497dfb36fadff08f76ca4bbff51262", null ],
+    [ "CreateNtuplesFromBooking", "dd/d28/classG4RootMainNtupleManager.html#a0547a5f2e9e15ea999315b4c6f3476ea", null ],
+    [ "GetBasketEntries", "dd/d28/classG4RootMainNtupleManager.html#ad6475f534bf8c6eb210ab14192d10133", null ],
+    [ "GetNtupleDescriptionVector", "dd/d28/classG4RootMainNtupleManager.html#aa32971a9c8e53730190ff18baf1c4058", null ],
+    [ "GetNtupleDirectory", "dd/d28/classG4RootMainNtupleManager.html#af6a9a4e8720b66e92d14f27506fc97e1", null ],
+    [ "GetNtupleFile", "dd/d28/classG4RootMainNtupleManager.html#a57845454e2e80b9f20575dbde5d6a533", null ],
+    [ "GetNtupleVector", "dd/d28/classG4RootMainNtupleManager.html#a806cb117c4112715a53428250bbd83a0", null ],
+    [ "Merge", "dd/d28/classG4RootMainNtupleManager.html#ab624f0275d12923843ca2053ab1689bd", null ],
+    [ "Reset", "dd/d28/classG4RootMainNtupleManager.html#a2450e45fef29c6f8f35bf39f0190a872", null ],
+    [ "SetNtupleDirectory", "dd/d28/classG4RootMainNtupleManager.html#ad62c03f3d4297fb83ee693afd8adabd1", null ],
+    [ "SetNtupleFile", "dd/d28/classG4RootMainNtupleManager.html#ad3b5677589b79df353aa2d81a002b136", null ],
+    [ "SetRowWise", "dd/d28/classG4RootMainNtupleManager.html#ae71b7e1b20a188dcb26901ddb875d488", null ],
+    [ "G4RootNtupleManager", "dd/d28/classG4RootMainNtupleManager.html#ac27d030824a7672f72767e524b8dbf83", null ],
+    [ "G4RootPNtupleManager", "dd/d28/classG4RootMainNtupleManager.html#a144bf5b8c965757743ba4d77d4295f59", null ],
+    [ "fNtupleBuilder", "dd/d28/classG4RootMainNtupleManager.html#a91382b76d4f35b12d357835f4b8ee5f5", null ],
+    [ "fNtupleDirectory", "dd/d28/classG4RootMainNtupleManager.html#a1e27bfa9151b761e0cd8e6648dc1158c", null ],
+    [ "fNtupleFile", "dd/d28/classG4RootMainNtupleManager.html#a67546d80a6abc58ddbd486999c9efe4f", null ],
+    [ "fNtupleVector", "dd/d28/classG4RootMainNtupleManager.html#a17cdc169925ccad762a1096c695e9440", null ],
+    [ "fRowWise", "dd/d28/classG4RootMainNtupleManager.html#ab16d1cd76f6ac0487904059af3efc0e1", null ]
+];

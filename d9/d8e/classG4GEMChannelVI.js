@@ -1,0 +1,25 @@
+var classG4GEMChannelVI =
+[
+    [ "G4GEMChannelVI", "d9/d8e/classG4GEMChannelVI.html#a14ed5b9f944eb64392d5dc7c58f8542c", null ],
+    [ "~G4GEMChannelVI", "d9/d8e/classG4GEMChannelVI.html#a84a32bb65a46b904e45b402617a2338f", null ],
+    [ "G4GEMChannelVI", "d9/d8e/classG4GEMChannelVI.html#a4a816eb5d71df40f0083dd3307cf574b", null ],
+    [ "Dump", "d9/d8e/classG4GEMChannelVI.html#a012b5ea2635f21771e5a4dc35e36f06c", null ],
+    [ "EmittedFragment", "d9/d8e/classG4GEMChannelVI.html#af53ae507bf4b95f28815d3792ef0d25a", null ],
+    [ "GetEmissionProbability", "d9/d8e/classG4GEMChannelVI.html#a191617e51a200d7b87ed2431506ce3ec", null ],
+    [ "operator!=", "d9/d8e/classG4GEMChannelVI.html#a162b05b992a0afc9db5596a21a5903eb", null ],
+    [ "operator=", "d9/d8e/classG4GEMChannelVI.html#a342a45d4442a1c1a7f74e859dcd40799", null ],
+    [ "operator==", "d9/d8e/classG4GEMChannelVI.html#ae13a82ad8b5df11c13a6eec9282a7a78", null ],
+    [ "A", "d9/d8e/classG4GEMChannelVI.html#ae68ebc83d92a1bbe9a77a9aecfd05f36", null ],
+    [ "cBarrier", "d9/d8e/classG4GEMChannelVI.html#a9a1967e70562f52b6393fd1b5d7eb924", null ],
+    [ "evapMass", "d9/d8e/classG4GEMChannelVI.html#a877e059d4f65d9385629981eb3e30dbe", null ],
+    [ "evapMass2", "d9/d8e/classG4GEMChannelVI.html#a5b03d4a46b4f2107030485b816254145", null ],
+    [ "fProbability", "d9/d8e/classG4GEMChannelVI.html#afcd5e6ce1ac7a9d39eeeef251f11cc02", null ],
+    [ "fragA", "d9/d8e/classG4GEMChannelVI.html#a2ec86d2d8bb53deccc2a11201556789e", null ],
+    [ "fragZ", "d9/d8e/classG4GEMChannelVI.html#a2bd46621063e8d9dd1d0e3177700f85d", null ],
+    [ "mass", "d9/d8e/classG4GEMChannelVI.html#a87ef74bbdeed1f342ca6fc19f550d94c", null ],
+    [ "pairingCorrection", "d9/d8e/classG4GEMChannelVI.html#a3292bb526bd2fc3e05a19c47d5205cfe", null ],
+    [ "resA", "d9/d8e/classG4GEMChannelVI.html#a6453c4076efd8cad5de5cda35f3a1e06", null ],
+    [ "resMass", "d9/d8e/classG4GEMChannelVI.html#a2c043ab8ed7b3dd4a60614afdb3ec7b0", null ],
+    [ "resZ", "d9/d8e/classG4GEMChannelVI.html#a81a5c35ad2f7174f595f4f8f24489dc7", null ],
+    [ "Z", "d9/d8e/classG4GEMChannelVI.html#af0d1eaf30719b545ee9b9106df86b173", null ]
+];

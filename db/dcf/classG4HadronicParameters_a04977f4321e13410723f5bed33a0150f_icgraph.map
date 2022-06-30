@@ -1,0 +1,29 @@
+<map id="G4HadronicParameters::GetMaxEnergyTransitionFTF_Cascade" name="G4HadronicParameters::GetMaxEnergyTransitionFTF_Cascade">
+<area shape="rect" id="node2" href="$d1/de1/classG4EmExtraPhysics.html#afe3e9b6d83e805a758e50ed9255fd537" title="G4EmExtraPhysics::Construct\lGammaElectroNuclear" alt="" coords="295,5,518,49"/>
+<area shape="rect" id="node4" href="$df/d98/classG4IonPhysicsPHP.html#a20bdefd3758e009836b47637df41e3c2" title="G4IonPhysicsPHP::Construct\lProcess" alt="" coords="301,73,513,117"/>
+<area shape="rect" id="node5" href="$d7/de0/classG4HadronInelasticQBBC.html#a99002456fb656da9ec669b9c99813f28" title="G4HadronInelasticQBBC\l::ConstructProcess" alt="" coords="315,141,499,185"/>
+<area shape="rect" id="node6" href="$d0/da0/classG4IonQMDPhysics.html#aa3727d7b8241d9d6582747a0a210a954" title="G4IonQMDPhysics::Construct\lProcess" alt="" coords="297,209,516,253"/>
+<area shape="rect" id="node7" href="$d2/d46/classG4HadronPhysicsQGSP__BIC__HP.html#a24b83e9e12ac1504a666a8dc98a593c2" title="G4HadronPhysicsQGSP\l_BIC_HP::CreateModels" alt="" coords="317,277,496,321"/>
+<area shape="rect" id="node9" href="$d3/d2b/classG4HadronPhysicsFTFQGSP__BERT.html#a55417c94612c5d24e2cdca99fec16173" title="G4HadronPhysicsFTFQGSP\l_BERT::CreateModels" alt="" coords="306,345,507,389"/>
+<area shape="rect" id="node11" href="$db/dbe/classG4BertiniKaonBuilder.html#ac3f540cd618dc827695e1925619258c8" title="G4BertiniKaonBuilder\l::G4BertiniKaonBuilder" alt="" coords="318,413,495,457"/>
+<area shape="rect" id="node12" href="$d5/d00/classG4BertiniNeutronBuilder.html#ab3ad2bb97cdb6488df17bf024682f0a9" title="G4BertiniNeutronBuilder\l::G4BertiniNeutronBuilder" alt="" coords="308,481,505,525"/>
+<area shape="rect" id="node13" href="$dd/dc3/classG4BertiniPiKBuilder.html#ab19a1a73b6b99fc8c6ccecac81cbab05" title="G4BertiniPiKBuilder\l::G4BertiniPiKBuilder" alt="" coords="325,549,488,593"/>
+<area shape="rect" id="node14" href="$d7/dbf/classG4BertiniPionBuilder.html#a7b3b83cd6b5240646d51f0c41c90f2a1" title="G4BertiniPionBuilder\l::G4BertiniPionBuilder" alt="" coords="321,617,492,661"/>
+<area shape="rect" id="node15" href="$d5/d1f/classG4BertiniProtonBuilder.html#a58234821a37a0794d901d4325e3de8d0" title="G4BertiniProtonBuilder\l::G4BertiniProtonBuilder" alt="" coords="313,685,500,729"/>
+<area shape="rect" id="node16" href="$df/da9/classG4BinaryAlphaBuilder.html#a6c6af30b2b79fea9936c453f8a43045a" title="G4BinaryAlphaBuilder\l::G4BinaryAlphaBuilder" alt="" coords="317,753,497,797"/>
+<area shape="rect" id="node17" href="$dc/dc1/classG4BinaryDeuteronBuilder.html#aedf31b2753115c484c6dff9cf722945e" title="G4BinaryDeuteronBuilder\l::G4BinaryDeuteronBuilder" alt="" coords="305,821,509,865"/>
+<area shape="rect" id="node18" href="$dd/d0c/classG4BinaryHe3Builder.html#aee3dcdd2959832bddcd50aad742711ee" title="G4BinaryHe3Builder\l::G4BinaryHe3Builder" alt="" coords="322,889,491,933"/>
+<area shape="rect" id="node19" href="$d2/da6/classG4BinaryNeutronBuilder.html#a032d0b4df145a1b231b72ae37e013f43" title="G4BinaryNeutronBuilder\l::G4BinaryNeutronBuilder" alt="" coords="309,957,505,1001"/>
+<area shape="rect" id="node20" href="$d2/d98/classG4BinaryProtonBuilder.html#a720f76282370f402bde93837b4a8078f" title="G4BinaryProtonBuilder\l::G4BinaryProtonBuilder" alt="" coords="314,1025,499,1069"/>
+<area shape="rect" id="node21" href="$d4/df2/classG4BinaryTritonBuilder.html#a210cb595c5ecbb7e414f4f2567b60f69" title="G4BinaryTritonBuilder\l::G4BinaryTritonBuilder" alt="" coords="317,1093,497,1137"/>
+<area shape="rect" id="node22" href="$df/df3/classG4HadronPhysicsFTF__BIC.html#ab72bab59a7fc450fc6c901ca607e3e77" title="G4HadronPhysicsFTF\l_BIC::G4HadronPhysicsFTF_BIC" alt="" coords="291,1161,523,1205"/>
+<area shape="rect" id="node23" href="$da/df3/classG4HadronPhysicsFTFP__BERT.html#ad617d9425f9fbc03a81759a1392367c9" title="G4HadronPhysicsFTFP\l_BERT::G4HadronPhysicsFTFP_BERT" alt="" coords="275,1229,538,1273"/>
+<area shape="rect" id="node24" href="$db/d24/classG4HadronPhysicsFTFP__BERT__TRV.html#a7eee4d9cd552f3263f6daf3fb6f33a71" title="G4HadronPhysicsFTFP\l_BERT_TRV::G4HadronPhysics\lFTFP_BERT_TRV" alt="" coords="295,1297,519,1357"/>
+<area shape="rect" id="node25" href="$d8/dbb/classG4HadronPhysicsQGS__BIC.html#a99863667c5654f56d55eb08b009db450" title="G4HadronPhysicsQGS\l_BIC::G4HadronPhysicsQGS_BIC" alt="" coords="287,1381,526,1425"/>
+<area shape="rect" id="node26" href="$d9/d14/classG4HadronPhysicsQGSP__BERT.html#a461d539f1a93513220e8fdec7973fdba" title="G4HadronPhysicsQGSP\l_BERT::G4HadronPhysicsQGSP_BERT" alt="" coords="272,1449,541,1493"/>
+<area shape="rect" id="node27" href="$d3/d9f/classG4HadronPhysicsQGSP__BIC.html#aaec0b7079b54776dcac87182d9c2daf6" title="G4HadronPhysicsQGSP\l_BIC::G4HadronPhysicsQGSP_BIC" alt="" coords="283,1517,530,1561"/>
+<area shape="rect" id="node28" href="$de/dff/classG4HadronPhysicsQGSP__FTFP__BERT.html#af3d9fa56fc5a0208bcc69e03e4a9e400" title="G4HadronPhysicsQGSP\l_FTFP_BERT::G4HadronPhysics\lQGSP_FTFP_BERT" alt="" coords="293,1585,521,1645"/>
+<area shape="rect" id="node3" href="$d1/de1/classG4EmExtraPhysics.html#a4c48942d6b9e2da0cae97c76babdabf9" title="G4EmExtraPhysics::Construct\lProcess" alt="" coords="589,5,812,49"/>
+<area shape="rect" id="node8" href="$d2/d46/classG4HadronPhysicsQGSP__BIC__HP.html#a2ed24795421b9624f683428e19a2881a" title="G4HadronPhysicsQGSP\l_BIC_HP::ConstructProcess" alt="" coords="600,277,801,321"/>
+<area shape="rect" id="node10" href="$d3/d2b/classG4HadronPhysicsFTFQGSP__BERT.html#a2ab54e472f8197096d0f22e51b8afa26" title="G4HadronPhysicsFTFQGSP\l_BERT::ConstructProcess" alt="" coords="600,345,801,389"/>
+</map>

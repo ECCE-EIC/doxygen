@@ -1,0 +1,15 @@
+<map id="G4AdjointPrimaryGenerator::SetAdjointPrimarySourceOnAnExtSurfaceOfAVolume" name="G4AdjointPrimaryGenerator::SetAdjointPrimarySourceOnAnExtSurfaceOfAVolume">
+<area shape="rect" id="node2" href="$d4/d0a/classG4AdjointPosOnPhysVolGenerator.html#a2a3385252353f154344c86d770622f5c" title="G4AdjointPosOnPhysVolGenerator\l::DefinePhysicalVolume1" alt="" coords="311,112,563,156"/>
+<area shape="rect" id="node11" href="$d9/d88/classG4SingleParticleSource.html#aed16200f6dc28073873b9ad955608c9e" title="G4SingleParticleSource\l::GetAngDist" alt="" coords="347,180,526,224"/>
+<area shape="rect" id="node12" href="$d9/d88/classG4SingleParticleSource.html#a33425f2cf820ba58a4a01f4467091304" title="G4SingleParticleSource\l::GetPosDist" alt="" coords="347,248,526,292"/>
+<area shape="rect" id="node13" href="$d7/d84/classG4SPSAngDistribution.html#ac0a7163ae4c05ed9b2f9f99cfde6feec" title="G4SPSAngDistribution\l::SetAngDistType" alt="" coords="351,316,522,360"/>
+<area shape="rect" id="node14" href="$dd/d43/classG4SPSPosDistribution.html#a28b21a4a9781f463c99a3e1ad08d80f2" title="G4SPSPosDistribution\l::SetPosDisType" alt="" coords="353,384,520,428"/>
+<area shape="rect" id="node3" href="$d4/d0a/classG4AdjointPosOnPhysVolGenerator.html#a292d7b935f0bda1deda008158444b2e5" title="G4AdjointPosOnPhysVolGenerator\l::DefinePhysicalVolume" alt="" coords="611,112,863,156"/>
+<area shape="rect" id="node4" href="$d4/d0a/classG4AdjointPosOnPhysVolGenerator.html#aca6b072a2f1fc47212083e6d9ff75d02" title="G4AdjointPosOnPhysVolGenerator\l::ComputeTransformationFromPhysVol\lToWorld" alt="" coords="911,65,1189,125"/>
+<area shape="rect" id="node6" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="1237,5,1419,49"/>
+<area shape="rect" id="node9" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="968,149,1132,193"/>
+<area shape="rect" id="node10" href="$da/dc4/classG4LogicalVolume.html#ad04312d21410ca4cf06be8cc2390acf3" title="G4LogicalVolume::GetSolid" alt="" coords="948,217,1152,245"/>
+<area shape="rect" id="node5" href="$d1/d28/classG4VPhysicalVolume.html#a05773cb99c2a35924a79c46819782449" title="G4VPhysicalVolume::\lGetFrameRotation" alt="" coords="1246,73,1410,117"/>
+<area shape="rect" id="node7" href="$d1/d28/classG4VPhysicalVolume.html#a3b3e462bc9a0a36dfa6b0628762c0a2b" title="G4VPhysicalVolume::\lGetMotherLogical" alt="" coords="1246,141,1410,185"/>
+<area shape="rect" id="node8" href="$d1/d28/classG4VPhysicalVolume.html#a8b719c8cd11b4288bea134a5c2afcb34" title="G4VPhysicalVolume::\lGetObjectTranslation" alt="" coords="1246,209,1410,253"/>
+</map>

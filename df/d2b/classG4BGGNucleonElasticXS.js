@@ -1,0 +1,27 @@
+var classG4BGGNucleonElasticXS =
+[
+    [ "G4BGGNucleonElasticXS", "df/d2b/classG4BGGNucleonElasticXS.html#a8f0f52a4090fc9bc4bbf40e64f936ff3", null ],
+    [ "~G4BGGNucleonElasticXS", "df/d2b/classG4BGGNucleonElasticXS.html#a2b337bf85cfdcd88e9ccc0b0ba6d0c16", null ],
+    [ "G4BGGNucleonElasticXS", "df/d2b/classG4BGGNucleonElasticXS.html#a398b3b7de224f83ed27fb49a26eb80d1", null ],
+    [ "BuildPhysicsTable", "df/d2b/classG4BGGNucleonElasticXS.html#a915427148508fb6b6cbee20a51bca953", null ],
+    [ "CoulombFactor", "df/d2b/classG4BGGNucleonElasticXS.html#a33dab2979ca902e88babf042c5a376f0", null ],
+    [ "CrossSectionDescription", "df/d2b/classG4BGGNucleonElasticXS.html#a43b457be2bb6f63274ba0719e88e4ed0", null ],
+    [ "GetElementCrossSection", "df/d2b/classG4BGGNucleonElasticXS.html#a78c4ae043a2b455e9c3ea3d466fdc5a0", null ],
+    [ "GetIsoCrossSection", "df/d2b/classG4BGGNucleonElasticXS.html#a4c1e8036b0bcc9f291a8beb81f9c0d3c", null ],
+    [ "IsElementApplicable", "df/d2b/classG4BGGNucleonElasticXS.html#afc2e909626d20c5cd1750877ec662fa9", null ],
+    [ "IsIsoApplicable", "df/d2b/classG4BGGNucleonElasticXS.html#aca7029ad1117aac7781bf1c267ae2fe4", null ],
+    [ "operator=", "df/d2b/classG4BGGNucleonElasticXS.html#a027c409c3e0a2e49b946838175cc2047", null ],
+    [ "fGlauber", "df/d2b/classG4BGGNucleonElasticXS.html#a91ca1d25e1916be526a1e57fd255a2bd", null ],
+    [ "fGlauberEnergy", "df/d2b/classG4BGGNucleonElasticXS.html#af5c80cee459ea07aa68a46d223c9fe02", null ],
+    [ "fHadron", "df/d2b/classG4BGGNucleonElasticXS.html#a2819fe31cb5bd08c9add472bfb201562", null ],
+    [ "fLowEnergy", "df/d2b/classG4BGGNucleonElasticXS.html#a073be0961bd9832bdc1955914d997802", null ],
+    [ "fNucleon", "df/d2b/classG4BGGNucleonElasticXS.html#a65dea6077dda76c4d6ae49d8477746da", null ],
+    [ "isMaster", "df/d2b/classG4BGGNucleonElasticXS.html#ad4a216fbf69e256c67bb29313b1e6716", null ],
+    [ "isProton", "df/d2b/classG4BGGNucleonElasticXS.html#a4adf59052696b286f7f0b058a17fa8f9", null ],
+    [ "theA", "df/d2b/classG4BGGNucleonElasticXS.html#a5bc6e8b9c859137354b6382af8930cf4", null ],
+    [ "theCoulombFacN", "df/d2b/classG4BGGNucleonElasticXS.html#afb81b16e4b121a80a5ef86adc799ee36", null ],
+    [ "theCoulombFacP", "df/d2b/classG4BGGNucleonElasticXS.html#ac405fc55cc1719b107f088729df4e9f3", null ],
+    [ "theGlauberFacN", "df/d2b/classG4BGGNucleonElasticXS.html#a56a600c8ca331b434119d6d0105114c8", null ],
+    [ "theGlauberFacP", "df/d2b/classG4BGGNucleonElasticXS.html#a091dd03a5b2ac8c327e097f7de44b92b", null ],
+    [ "theProton", "df/d2b/classG4BGGNucleonElasticXS.html#a3241722f5e1485a15278e00661429df0", null ]
+];

@@ -1,0 +1,26 @@
+var classG4StatMFParameters =
+[
+    [ "G4StatMFParameters", "d1/d3f/classG4StatMFParameters.html#a7d3610818d7a6eccead1b017f30c5c7a", null ],
+    [ "~G4StatMFParameters", "d1/d3f/classG4StatMFParameters.html#aff7872aec4551b8e575e973d6f4c7256", null ],
+    [ "Beta", "d1/d3f/classG4StatMFParameters.html#a5703e447ab1f51511d5717f21c76b8a7", null ],
+    [ "DBetaDT", "d1/d3f/classG4StatMFParameters.html#a0d93ff0a37d640ee19dddf3bcc4f397b", null ],
+    [ "GetBeta0", "d1/d3f/classG4StatMFParameters.html#a35705af01f65bd096d382055a85220e5", null ],
+    [ "GetCoulomb", "d1/d3f/classG4StatMFParameters.html#a6d6a8a6f40d31fc3fbe018768363ca23", null ],
+    [ "GetCriticalTemp", "d1/d3f/classG4StatMFParameters.html#abe7a0b641e0962c1aba77c320f4adfbd", null ],
+    [ "GetE0", "d1/d3f/classG4StatMFParameters.html#a373fd550babb33af16c4c782254845d8", null ],
+    [ "GetEpsilon0", "d1/d3f/classG4StatMFParameters.html#af001d6af28f3a73f5578e9de256f0d13", null ],
+    [ "GetGamma0", "d1/d3f/classG4StatMFParameters.html#a3d986c47201fea920fce8c551f0f3947", null ],
+    [ "GetKappa", "d1/d3f/classG4StatMFParameters.html#a35d0e7d40da96aa4a79b617f7bd8ef11", null ],
+    [ "GetKappaCoulomb", "d1/d3f/classG4StatMFParameters.html#aa99582e56240092a2a7ccc9744c768a8", null ],
+    [ "GetMaxAverageMultiplicity", "d1/d3f/classG4StatMFParameters.html#a0ba530091368256e9d7ef69cee350f2f", null ],
+    [ "Getr0", "d1/d3f/classG4StatMFParameters.html#a98c50d62940a2ea36539d55103276ff5", null ],
+    [ "fBeta0", "d1/d3f/classG4StatMFParameters.html#a3ca6d7dcdecd4be10e35f75aa7338dd0", null ],
+    [ "fCoulomb", "d1/d3f/classG4StatMFParameters.html#afb7e385b872495b6f487bd5028eb2685", null ],
+    [ "fCriticalTemp", "d1/d3f/classG4StatMFParameters.html#a7fc87af7f6469d09e0dd11e4bdc3d2a5", null ],
+    [ "fE0", "d1/d3f/classG4StatMFParameters.html#a1031cd869cb3f8651b4f4156480364dc", null ],
+    [ "fEpsilon0", "d1/d3f/classG4StatMFParameters.html#aa73365c4ba60c3b6ea1ac741064cf496", null ],
+    [ "fGamma0", "d1/d3f/classG4StatMFParameters.html#a85d91a87d25ec31dbaf36554c9e23338", null ],
+    [ "fKappa", "d1/d3f/classG4StatMFParameters.html#afe515732d0456a6c1e67af2f56e1cd3f", null ],
+    [ "fKappaCoulomb", "d1/d3f/classG4StatMFParameters.html#a1b4932abda6a68f279fdf9d81603f320", null ],
+    [ "fr0", "d1/d3f/classG4StatMFParameters.html#a1fd45aa0ffc16797846f4d423b50dd9b", null ]
+];

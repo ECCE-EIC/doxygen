@@ -1,0 +1,26 @@
+var classG4RDCompositeEMDataSet =
+[
+    [ "G4RDCompositeEMDataSet", "d9/d5d/classG4RDCompositeEMDataSet.html#a6903fdd3a172644dc28c6c253177d926", null ],
+    [ "~G4RDCompositeEMDataSet", "d9/d5d/classG4RDCompositeEMDataSet.html#a46906baf3bd0e78e2bb8f31c652af12e", null ],
+    [ "G4RDCompositeEMDataSet", "d9/d5d/classG4RDCompositeEMDataSet.html#a75fae61fb7e3664d6ace1a48609666f2", null ],
+    [ "G4RDCompositeEMDataSet", "d9/d5d/classG4RDCompositeEMDataSet.html#a425efdc94a657da0ac503368930b58db", null ],
+    [ "AddComponent", "d9/d5d/classG4RDCompositeEMDataSet.html#a6dc7a60f3afbf4810c0328067eaabff7", null ],
+    [ "CleanUpComponents", "d9/d5d/classG4RDCompositeEMDataSet.html#a114c81e788e5fecc5fcf7f68d6dd7a50", null ],
+    [ "FindValue", "d9/d5d/classG4RDCompositeEMDataSet.html#ab821c3cca53b0f313bf4168f6febfe72", null ],
+    [ "GetComponent", "d9/d5d/classG4RDCompositeEMDataSet.html#a264ea162cc0e7ca030f0e66e3261f30a", null ],
+    [ "GetData", "d9/d5d/classG4RDCompositeEMDataSet.html#a33c27d2ace745e9ae180b429b1d74485", null ],
+    [ "GetEnergies", "d9/d5d/classG4RDCompositeEMDataSet.html#a8cd48545ef7a9fd62a0ea8421016b948", null ],
+    [ "LoadData", "d9/d5d/classG4RDCompositeEMDataSet.html#aa4e0b709973e3472dfb477a0172e2625", null ],
+    [ "NumberOfComponents", "d9/d5d/classG4RDCompositeEMDataSet.html#a252c9da52a5bf7233749074d0ca1386a", null ],
+    [ "operator=", "d9/d5d/classG4RDCompositeEMDataSet.html#ac6b9547c5967467e9ebe05cf3feb1ff2", null ],
+    [ "PrintData", "d9/d5d/classG4RDCompositeEMDataSet.html#a5accb5a0913eadc74134f6c44b81b0bc", null ],
+    [ "RandomSelect", "d9/d5d/classG4RDCompositeEMDataSet.html#a4232ea12a8d5d4440752d24136d78a45", null ],
+    [ "SaveData", "d9/d5d/classG4RDCompositeEMDataSet.html#a4d3b8fabe58080a478e90d9b17c1bf8a", null ],
+    [ "SetEnergiesData", "d9/d5d/classG4RDCompositeEMDataSet.html#ae93b746d1728a9211d3f22dfebdae99c", null ],
+    [ "algorithm", "d9/d5d/classG4RDCompositeEMDataSet.html#aeffedbb00d373f56fbc1c8a6dd2e23ca", null ],
+    [ "components", "d9/d5d/classG4RDCompositeEMDataSet.html#aa0647b4cd665b38ba2659786bfcf0029", null ],
+    [ "maxZ", "d9/d5d/classG4RDCompositeEMDataSet.html#aaf824d5cf49bf0e39274f81b4bd404f0", null ],
+    [ "minZ", "d9/d5d/classG4RDCompositeEMDataSet.html#a0bc21cea7cf52aef9bbbd86d4e99a350", null ],
+    [ "unitData", "d9/d5d/classG4RDCompositeEMDataSet.html#a4ced0e639cca105d5716a8791d8b52c9", null ],
+    [ "unitEnergies", "d9/d5d/classG4RDCompositeEMDataSet.html#a1d2347935e0e1bf713890c59a99def28", null ]
+];

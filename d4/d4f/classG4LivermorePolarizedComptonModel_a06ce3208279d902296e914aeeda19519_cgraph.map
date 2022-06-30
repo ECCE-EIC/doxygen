@@ -1,0 +1,47 @@
+<map id="G4LivermorePolarizedComptonModel::Initialise" name="G4LivermorePolarizedComptonModel::Initialise">
+<area shape="rect" id="node2" href="$d9/d78/classG4LossTableManager.html#ab67de1e7c9200bdc5d9dd002613896c7" title="G4LossTableManager\l::AtomDeexcitation" alt="" coords="332,5,497,49"/>
+<area shape="rect" id="node3" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="381,73,449,101"/>
+<area shape="rect" id="node4" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="301,125,529,153"/>
+<area shape="rect" id="node5" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="919,175,1091,219"/>
+<area shape="rect" id="node6" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="622,200,809,244"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="284,656,545,684"/>
+<area shape="rect" id="node8" href="$d3/dc1/classG4VEmModel.html#a33daba8fe8e5e6e65cead26b69149b23" title="G4VEmModel::GetParticleChange\lForGamma" alt="" coords="291,708,538,752"/>
+<area shape="rect" id="node10" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="620,268,811,312"/>
+<area shape="rect" id="node11" href="$d5/dda/classG4ProductionCutsTable.html#a7b0040d3ae75f54e2df3ef0e8dc81cc0" title="G4ProductionCutsTable\l::GetTableSize" alt="" coords="627,664,804,708"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#aa48c8a19a2b7f89ff3d431c96117df77" title="G4VEmModel::HighEnergyLimit" alt="" coords="297,776,532,804"/>
+<area shape="rect" id="node13" href="$d3/dc1/classG4VEmModel.html#ad4d238a67f8d718ffb7ca5cea963ed8b" title="G4VEmModel::InitialiseElement\lSelectors" alt="" coords="297,485,532,529"/>
+<area shape="rect" id="node16" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="677,732,754,760"/>
+<area shape="rect" id="node28" href="$d9/d78/classG4LossTableManager.html#a2f26d6edfd1d62ac3a714ac9f6bd6b9c" title="G4LossTableManager\l::Instance" alt="" coords="332,828,497,872"/>
+<area shape="rect" id="node34" href="$d3/dc1/classG4VEmModel.html#a2a897478564632b78b66947fdb8fa5b4" title="G4VEmModel::IsMaster" alt="" coords="325,896,504,924"/>
+<area shape="rect" id="node35" href="$d7/dee/classG4ShellData.html#ac78d8e8d0315d9767d2cc8585a119e63" title="G4ShellData::LoadData" alt="" coords="325,948,504,976"/>
+<area shape="rect" id="node39" href="$df/d02/classG4CompositeEMDataSet.html#aed717e1bdb682861eed9bb5807c15af6" title="G4CompositeEMDataSet\l::LoadData" alt="" coords="321,1068,509,1112"/>
+<area shape="rect" id="node44" href="$d3/dc1/classG4VEmModel.html#a323df5bd3d50c098e106c63f2ac32de8" title="G4VEmModel::LowEnergyLimit" alt="" coords="300,1136,529,1164"/>
+<area shape="rect" id="node45" href="$d4/d4f/classG4LivermorePolarizedComptonModel.html#ab019313a7be9a970379ad74ecc850235" title="G4LivermorePolarizedCompton\lModel::ReadData" alt="" coords="299,1000,530,1044"/>
+<area shape="rect" id="node46" href="$d7/dee/classG4ShellData.html#a8282ab6691bae288a2f6e67057ec194c" title="G4ShellData::SetOccupancyData" alt="" coords="293,1188,536,1216"/>
+<area shape="rect" id="node9" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="593,784,837,812"/>
+<area shape="rect" id="node14" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="613,388,818,416"/>
+<area shape="rect" id="node15" href="$dc/d54/classG4EmParameters.html#a7ade7750c8b8c61e26ac7b353ce2ce0f" title="G4EmParameters::NumberOf\lBinsPerDecade" alt="" coords="606,440,825,484"/>
+<area shape="rect" id="node17" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="595,336,835,364"/>
+<area shape="rect" id="node20" href="$d3/dc1/classG4VEmModel.html#a13fe7e2323a00badc283cabaeb82dba4" title="G4VEmModel::MinPrimaryEnergy" alt="" coords="593,508,837,536"/>
+<area shape="rect" id="node21" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="683,560,747,588"/>
+<area shape="rect" id="node27" href="$d3/dc1/classG4VEmModel.html#ad6ff43f6f68220feae0513f9930b68f8" title="G4VEmModel::Initialise" alt="" coords="627,612,804,640"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="897,307,1113,335"/>
+<area shape="rect" id="node19" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="919,359,1091,403"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="909,508,1101,536"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="909,560,1101,588"/>
+<area shape="rect" id="node24" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="885,612,1125,640"/>
+<area shape="rect" id="node25" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1173,587,1361,615"/>
+<area shape="rect" id="node26" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1173,639,1361,667"/>
+<area shape="rect" id="node29" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="622,836,809,880"/>
+<area shape="rect" id="node30" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="947,792,1063,820"/>
+<area shape="rect" id="node31" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="949,844,1062,872"/>
+<area shape="rect" id="node32" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="915,896,1096,924"/>
+<area shape="rect" id="node33" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1174,888,1361,932"/>
+<area shape="rect" id="node36" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="952,952,1059,980"/>
+<area shape="rect" id="node37" href="$d7/dee/classG4ShellData.html#ad9011d92a5cf446ea6ba0a01e16bb657" title="G4ShellData::ShellIdVector" alt="" coords="613,956,817,984"/>
+<area shape="rect" id="node38" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="983,1004,1028,1032"/>
+<area shape="rect" id="node40" href="$df/d02/classG4CompositeEMDataSet.html#a795539f45d58bae7af8202d9df5640ea" title="G4CompositeEMDataSet\l::AddComponent" alt="" coords="621,1060,809,1104"/>
+<area shape="rect" id="node41" href="$df/d02/classG4CompositeEMDataSet.html#a76ddbde29e320e8c2df4b6140cd74c54" title="G4CompositeEMDataSet\l::CleanUpComponents" alt="" coords="621,1128,809,1172"/>
+<area shape="rect" id="node42" href="$df/d2d/classG4VDataSetAlgorithm.html#a252f4a900c59db59f5381482c09180e9" title="G4VDataSetAlgorithm\l::Clone" alt="" coords="630,1196,801,1240"/>
+<area shape="rect" id="node43" href="$d0/d71/classG4VEMDataSet.html#adbd04f68a1c45bae3b38b4b18cb19ce9" title="G4VEMDataSet::LoadData" alt="" coords="617,1264,813,1292"/>
+</map>

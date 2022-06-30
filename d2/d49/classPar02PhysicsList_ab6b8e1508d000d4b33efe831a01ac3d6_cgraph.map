@@ -1,0 +1,51 @@
+<map id="Par02PhysicsList::ConstructParticle" name="Par02PhysicsList::ConstructParticle">
+<area shape="rect" id="node2" href="$d2/d49/classPar02PhysicsList.html#a6a8750e19200a750344056ed9d4830bb" title="Constructs all barions." alt="" coords="275,1237,483,1281"/>
+<area shape="rect" id="node29" href="$d2/d49/classPar02PhysicsList.html#a07fece7f60df298adb55710e4497d3ed" title="Constructs bosons (including geantino)" alt="" coords="275,1395,483,1439"/>
+<area shape="rect" id="node38" href="$d2/d49/classPar02PhysicsList.html#a13d9e219be396b801dadb36b12d64b44" title="Constructs light ions." alt="" coords="261,1531,496,1559"/>
+<area shape="rect" id="node41" href="$d2/d49/classPar02PhysicsList.html#a650121e242ec9185a3b6e342806fd8df" title="Constructs all leptons." alt="" coords="275,1599,483,1643"/>
+<area shape="rect" id="node46" href="$d2/d49/classPar02PhysicsList.html#af8e995234994f604520b637d71ae28f6" title="Constructs all mesons." alt="" coords="275,1764,483,1808"/>
+<area shape="rect" id="node3" href="$dd/dc8/classG4BaryonConstructor.html#a5f5e24fd455615f362784720c36047e5" title="G4BaryonConstructor\l::ConstructParticle" alt="" coords="579,1147,747,1191"/>
+<area shape="rect" id="node4" href="$dd/dc8/classG4BaryonConstructor.html#adfba29904ed8c6fb9ee7bc00eeadc66e" title="G4BaryonConstructor\l::ConstructBottomBaryons" alt="" coords="838,473,1038,517"/>
+<area shape="rect" id="node19" href="$dd/dc8/classG4BaryonConstructor.html#a21c3140640364b580f73ddee4383e06b" title="G4BaryonConstructor\l::ConstructCharmBaryons" alt="" coords="841,1079,1035,1123"/>
+<area shape="rect" id="node27" href="$dd/dc8/classG4BaryonConstructor.html#a2f0eb04caca8d23648dd6f98a26675bc" title="G4BaryonConstructor\l::ConstructNucleons" alt="" coords="854,1147,1022,1191"/>
+<area shape="rect" id="node28" href="$dd/dc8/classG4BaryonConstructor.html#af268a7a5f1f9da0fca33eecec77a130a" title="G4BaryonConstructor\l::ConstructStrangeBaryons" alt="" coords="836,1215,1040,1259"/>
+<area shape="rect" id="node5" href="$d8/de3/classG4AntiLambdab.html#aecd5f25ef4e83d186335859f01964518" title="G4AntiLambdab::AntiLambdab\lDefinition" alt="" coords="1102,5,1331,49"/>
+<area shape="rect" id="node6" href="$d9/de4/classG4AntiOmegabMinus.html#a56fa4fa8c2145ded129cfef30d8a9ffa" title="G4AntiOmegabMinus::\lAntiOmegabMinusDefinition" alt="" coords="1111,73,1323,117"/>
+<area shape="rect" id="node7" href="$d6/d9e/classG4AntiSigmabMinus.html#ab16a21f0bc93087027515b0683bd108a" title="G4AntiSigmabMinus::\lAntiSigmabMinusDefinition" alt="" coords="1114,141,1319,185"/>
+<area shape="rect" id="node8" href="$db/deb/classG4AntiSigmabPlus.html#af301bedda5ac9241453540f1a02001fb" title="G4AntiSigmabPlus::AntiSigmab\lPlusDefinition" alt="" coords="1100,209,1333,253"/>
+<area shape="rect" id="node9" href="$d7/d56/classG4AntiSigmabZero.html#a709d8ddd258a84ae12ebc4056639c5ca" title="G4AntiSigmabZero::AntiSigmab\lZeroDefinition" alt="" coords="1098,277,1335,321"/>
+<area shape="rect" id="node10" href="$dd/d0b/classG4AntiXibMinus.html#a28b30f47c8ef1e30bc1e06083d1d4887" title="G4AntiXibMinus::AntiXibMinus\lDefinition" alt="" coords="1104,345,1329,389"/>
+<area shape="rect" id="node11" href="$df/d0d/classG4AntiXibZero.html#a3230e6415aad670c580a639138eac76a" title="G4AntiXibZero::AntiXibZero\lDefinition" alt="" coords="1113,413,1321,457"/>
+<area shape="rect" id="node12" href="$d9/daf/classG4Lambdab.html#aef4ae69de13f795c18a889b1070c905a" title="G4Lambdab::LambdabDefinition" alt="" coords="1096,481,1337,509"/>
+<area shape="rect" id="node13" href="$d2/de6/classG4OmegabMinus.html#ac527bb6abde1c790ed16ea1acdd236dc" title="G4OmegabMinus::OmegabMinus\lDefinition" alt="" coords="1095,533,1339,577"/>
+<area shape="rect" id="node14" href="$d7/dc7/classG4SigmabMinus.html#a405e8e8a4db2005a9ced962127728444" title="G4SigmabMinus::SigmabMinus\lDefinition" alt="" coords="1101,601,1333,645"/>
+<area shape="rect" id="node15" href="$d4/d3d/classG4SigmabPlus.html#a77b9f5051e23dd45ac2e9e146c856a0f" title="G4SigmabPlus::SigmabPlus\lDefinition" alt="" coords="1113,669,1320,713"/>
+<area shape="rect" id="node16" href="$d1/d8a/classG4SigmabZero.html#a858488c5090859cb302af547a27a79c1" title="G4SigmabZero::SigmabZero\lDefinition" alt="" coords="1110,737,1323,781"/>
+<area shape="rect" id="node17" href="$d5/dbc/classG4XibMinus.html#a07ebb56fdacf5a2a04465f7b72639711" title="G4XibMinus::XibMinusDefinition" alt="" coords="1098,805,1335,833"/>
+<area shape="rect" id="node18" href="$d4/d2e/classG4XibZero.html#a5fc345a15db5297975ad047a21d27362" title="G4XibZero::XibZeroDefinition" alt="" coords="1107,857,1327,885"/>
+<area shape="rect" id="node20" href="$d2/db6/classG4AntiLambdacPlus.html#a56bf0aaa95f86a6200c9c51058332f96" title="G4AntiLambdacPlus::\lAntiLambdacPlusDefinition" alt="" coords="1115,909,1319,953"/>
+<area shape="rect" id="node21" href="$de/dc3/classG4AntiOmegacZero.html#a3e52e76e4fc6465dbdd8af60ff71fde5" title="G4AntiOmegacZero::AntiOmegac\lZeroDefinition" alt="" coords="1093,977,1340,1021"/>
+<area shape="rect" id="node22" href="$d5/dfa/classG4AntiSigmacPlus.html#ad67104508526b3d442e4d0fd725e204d" title="G4AntiSigmacPlus::AntiSigmac\lPlusDefinition" alt="" coords="1101,1045,1332,1089"/>
+<area shape="rect" id="node23" href="$db/d70/classG4AntiSigmacPlusPlus.html#a651734efa2a9fb67146787e319a531d2" title="G4AntiSigmacPlusPlus\l::AntiSigmacPlusPlusDefinition" alt="" coords="1103,1113,1330,1157"/>
+<area shape="rect" id="node24" href="$de/da8/classG4AntiSigmacZero.html#a0c84531d0c6976c313c367e7cb0ada68" title="G4AntiSigmacZero::AntiSigmac\lZeroDefinition" alt="" coords="1099,1181,1334,1225"/>
+<area shape="rect" id="node25" href="$da/d54/classG4AntiXicPlus.html#a2277983a31d81aa8727ab3a9677af03e" title="G4AntiXicPlus::AntiXicPlus\lDefinition" alt="" coords="1117,1249,1316,1293"/>
+<area shape="rect" id="node26" href="$d7/d92/classG4AntiXicZero.html#ad0bc923788bd0632a458985607efa449" title="G4AntiXicZero::AntiXicZero\lDefinition" alt="" coords="1114,1317,1319,1361"/>
+<area shape="rect" id="node30" href="$d9/d2f/classG4ChargedGeantino.html#ad7b4935794a17f7ed64122ce30a629d5" title="G4ChargedGeantino::\lChargedGeantinoDefinition" alt="" coords="561,1283,766,1327"/>
+<area shape="rect" id="node32" href="$d0/d54/classG4Gamma.html#a1235a8efef0a9305c6659dbba282db6f" title="G4Gamma::GammaDefinition" alt="" coords="553,1351,774,1379"/>
+<area shape="rect" id="node34" href="$d1/df3/classG4Geantino.html#aba3a0c37206aea8dd6a6f12a293cdc8f" title="G4Geantino::GeantinoDefinition" alt="" coords="544,1403,783,1431"/>
+<area shape="rect" id="node36" href="$d9/d8f/classG4OpticalPhoton.html#aeb0ed88b098ae013f33cb7da36281183" title="G4OpticalPhoton::Optical\lPhotonDefinition" alt="" coords="567,1455,759,1499"/>
+<area shape="rect" id="node31" href="$d9/d2f/classG4ChargedGeantino.html#a1df3f1edea242b48cdf764527bf3f3d3" title="G4ChargedGeantino::\lDefinition" alt="" coords="854,1283,1022,1327"/>
+<area shape="rect" id="node33" href="$d0/d54/classG4Gamma.html#af48944ead345899927a66f64a1cb6b32" title="G4Gamma::Definition" alt="" coords="854,1351,1022,1379"/>
+<area shape="rect" id="node35" href="$d1/df3/classG4Geantino.html#a45c92bf12e916251b695db2c732c80a6" title="G4Geantino::Definition" alt="" coords="850,1403,1026,1431"/>
+<area shape="rect" id="node37" href="$d9/d8f/classG4OpticalPhoton.html#ad5f9dee90e3534015eb1904836b08edd" title="G4OpticalPhoton::Definition" alt="" coords="833,1459,1043,1487"/>
+<area shape="rect" id="node39" href="$d3/d46/classG4IonConstructor.html#abbb8e711607437137f447c5046b9fbb0" title="G4IonConstructor::Construct\lParticle" alt="" coords="556,1523,771,1567"/>
+<area shape="rect" id="node40" href="$d3/d46/classG4IonConstructor.html#a2dcb8c57b28c77b2d52c74a2c3dd31a3" title="G4IonConstructor::Construct\lLightIons" alt="" coords="831,1511,1045,1555"/>
+<area shape="rect" id="node42" href="$d5/d43/classG4LeptonConstructor.html#aad754e44135189ff2d18809ae8315f8f" title="G4LeptonConstructor\l::ConstructParticle" alt="" coords="580,1616,747,1660"/>
+<area shape="rect" id="node43" href="$d5/d43/classG4LeptonConstructor.html#a722fb44578ed86c4ff452f750509dda9" title="G4LeptonConstructor\l::ConstructELeptons" alt="" coords="855,1579,1021,1623"/>
+<area shape="rect" id="node44" href="$d5/d43/classG4LeptonConstructor.html#a5cfdd63b3e5dff43c671e6cbcaacd1a9" title="G4LeptonConstructor\l::ConstructMuLeptons" alt="" coords="853,1647,1023,1691"/>
+<area shape="rect" id="node45" href="$d5/d43/classG4LeptonConstructor.html#aa180d979aac002308a4135589bedea0a" title="G4LeptonConstructor\l::ConstructTauLeptons" alt="" coords="852,1715,1024,1759"/>
+<area shape="rect" id="node47" href="$d8/d9b/classG4MesonConstructor.html#a9a4c5974ded49b7fe2a7e897890be42c" title="G4MesonConstructor\l::ConstructParticle" alt="" coords="581,1817,745,1861"/>
+<area shape="rect" id="node48" href="$d8/d9b/classG4MesonConstructor.html#ae1fcb8aab30b562a05cf432e4d09d3db" title="G4MesonConstructor\l::ConstructBottomMesons" alt="" coords="840,1783,1036,1827"/>
+<area shape="rect" id="node49" href="$d8/d9b/classG4MesonConstructor.html#a84d64a06dcb783eb91207ce13b4b2fa0" title="G4MesonConstructor\l::ConstructCharmMesons" alt="" coords="843,1851,1033,1895"/>
+<area shape="rect" id="node50" href="$d8/d9b/classG4MesonConstructor.html#a42434490f1c87e411db05922a4e4ac54" title="G4MesonConstructor\l::ConstructLightMesons" alt="" coords="848,1919,1028,1963"/>
+</map>

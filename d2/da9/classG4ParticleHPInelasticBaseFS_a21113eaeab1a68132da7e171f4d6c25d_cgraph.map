@@ -1,0 +1,40 @@
+<map id="G4ParticleHPInelasticBaseFS::InitGammas" name="G4ParticleHPInelasticBaseFS::InitGammas">
+<area shape="rect" id="node2" href="$d3/df1/classG4NucleiProperties.html#abba4ae207884389dc08dac9a68003d2f" title="G4NucleiProperties\l::GetBindingEnergy" alt="" coords="276,321,429,365"/>
+<area shape="rect" id="node19" href="$d0/d4f/classG4ParticleHPDeExGammas.html#aba97ff805bf3bb2e48bb187f9e3a0a58" title="G4ParticleHPDeExGammas\l::Init" alt="" coords="251,757,455,801"/>
+<area shape="rect" id="node3" href="$d3/df1/classG4NucleiProperties.html#ac66a063606af1c1d4518dcd10221eb49" title="G4NucleiProperties\l::BindingEnergy" alt="" coords="543,389,694,433"/>
+<area shape="rect" id="node4" href="$dd/d6e/classG4NucleiPropertiesTheoreticalTable.html#a784f09858ddd3f1ecc0fe8045b82eda1" title="G4NucleiPropertiesTheoretical\lTable::GetBindingEnergy" alt="" coords="506,253,731,297"/>
+<area shape="rect" id="node7" href="$da/d39/classG4NucleiPropertiesTableAME12.html#ac36ae4b95c978f9e933855d800b4d5ec" title="G4NucleiPropertiesTableAME12\l::GetBindingEnergy" alt="" coords="503,321,735,365"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="515,117,723,161"/>
+<area shape="rect" id="node17" href="$dd/d6e/classG4NucleiPropertiesTheoreticalTable.html#a35ac70db54b0a013f5018e4900dfc69a" title="G4NucleiPropertiesTheoretical\lTable::IsInTable" alt="" coords="506,185,731,229"/>
+<area shape="rect" id="node18" href="$da/d39/classG4NucleiPropertiesTableAME12.html#a0a2b4506ab9842705d178dcd617e86ec" title="G4NucleiPropertiesTableAME12\l::IsInTable" alt="" coords="503,457,735,501"/>
+<area shape="rect" id="node5" href="$dd/d6e/classG4NucleiPropertiesTheoreticalTable.html#a4ecd095122c27d390480ef8e72d20929" title="G4NucleiPropertiesTheoretical\lTable::GetIndex" alt="" coords="786,253,1011,297"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1123,352,1230,380"/>
+<area shape="rect" id="node8" href="$da/d39/classG4NucleiPropertiesTableAME12.html#a6c90fbe73e1ff7c54df96d044efa3af7" title="G4NucleiPropertiesTableAME12\l::GetIndex" alt="" coords="783,420,1015,464"/>
+<area shape="rect" id="node9" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1157,512,1196,540"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="798,117,999,161"/>
+<area shape="rect" id="node12" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1089,177,1265,221"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1089,245,1265,289"/>
+<area shape="rect" id="node14" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1085,5,1268,33"/>
+<area shape="rect" id="node15" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1099,57,1254,101"/>
+<area shape="rect" id="node16" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1063,125,1291,153"/>
+<area shape="rect" id="node20" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="563,765,674,793"/>
+<area shape="rect" id="node22" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a52ed790cfb69e275fdf43ed0ba078867" title="epsilon" alt="" coords="584,713,653,741"/>
+<area shape="rect" id="node31" href="$d9/dbc/classG4ParticleHPGamma.html#aaf1f74604a5fff310b098aabe11aed3c" title="G4ParticleHPGamma::\lGetGammaEnergy" alt="" coords="533,817,704,861"/>
+<area shape="rect" id="node32" href="$da/dcb/classG4ParticleHPLevel.html#ae8b053bf67316d2eb0261d359fa3adc6" title="G4ParticleHPLevel::\lGetLevelEnergy" alt="" coords="823,903,975,947"/>
+<area shape="rect" id="node33" href="$d9/dbc/classG4ParticleHPGamma.html#aa2fae043adb9eb990335fa97dc09eab4" title="G4ParticleHPGamma::\lGetLevelEnergy" alt="" coords="813,997,984,1041"/>
+<area shape="rect" id="node34" href="$d0/d4f/classG4ParticleHPDeExGammas.html#aa4580ead28c4f0cacf4ef37cb1890e9b" title="G4ParticleHPDeExGammas\l::GetLevelEnergy" alt="" coords="517,937,721,981"/>
+<area shape="rect" id="node35" href="$d9/dbc/classG4ParticleHPGamma.html#a4638be0d03cc7a705dd8d0e632b4f4f7" title="G4ParticleHPGamma::Init" alt="" coords="522,593,715,621"/>
+<area shape="rect" id="node36" href="$da/dcb/classG4ParticleHPLevel.html#a7c6c75923bce1f1e58beff0359243aeb" title="G4ParticleHPLevel::\lSetGamma" alt="" coords="543,1057,695,1101"/>
+<area shape="rect" id="node38" href="$d9/dbc/classG4ParticleHPGamma.html#af25fd464dcc13f96f49c6964f78d010f" title="G4ParticleHPGamma::\lSetNext" alt="" coords="533,645,704,689"/>
+<area shape="rect" id="node39" href="$da/dcb/classG4ParticleHPLevel.html#ace46e98b63e0fd5506ae1a9e4ee45bc7" title="G4ParticleHPLevel::\lSetNumberOfGammas" alt="" coords="532,525,705,569"/>
+<area shape="rect" id="node21" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="811,792,987,820"/>
+<area shape="rect" id="node23" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="879,584,918,612"/>
+<area shape="rect" id="node25" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#af897c249c47cdbc05d8382d8f42c08be" title="D" alt="" coords="879,688,918,716"/>
+<area shape="rect" id="node26" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="865,740,932,768"/>
+<area shape="rect" id="node30" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a78a47533cb7a50cbc6a737462fe90407" title="S" alt="" coords="879,636,918,664"/>
+<area shape="rect" id="node24" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="1157,636,1196,664"/>
+<area shape="rect" id="node27" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1094,715,1259,743"/>
+<area shape="rect" id="node29" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1082,767,1271,795"/>
+<area shape="rect" id="node28" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1339,715,1527,743"/>
+<area shape="rect" id="node37" href="$da/dcb/classG4ParticleHPLevel.html#a04451d408c18e688d4a342ad30222fbf" title="G4ParticleHPLevel::\lSetLevelEnergy" alt="" coords="823,1065,975,1109"/>
+</map>

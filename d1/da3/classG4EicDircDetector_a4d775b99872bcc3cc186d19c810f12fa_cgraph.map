@@ -1,0 +1,44 @@
+<map id="G4EicDircDetector::ConstructMe" name="G4EicDircDetector::ConstructMe">
+<area shape="rect" id="node2" href="$d8/d10/classG4AssemblyVolume.html#a8c8da32e91dd3feb99c5f2959c0ea69f" title="G4AssemblyVolume::AddPlaced\lVolume" alt="" coords="214,160,450,204"/>
+<area shape="rect" id="node3" href="$da/dbc/classG4MaterialPropertiesTable.html#af8f630001ea7d2f78f339ac0d730bac2" title="G4MaterialPropertiesTable\l::AddProperty" alt="" coords="534,131,733,175"/>
+<area shape="rect" id="node14" href="$d1/da3/classG4EicDircDetector.html#a4135ce11d181f50cf98c48dbe89d0dd8" title="G4EicDircDetector::\lDefineMaterials" alt="" coords="255,280,409,324"/>
+<area shape="rect" id="node27" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="547,371,719,415"/>
+<area shape="rect" id="node31" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="232,400,432,444"/>
+<area shape="rect" id="node32" href="$d8/d10/classG4AssemblyVolume.html#a1c9929a4dfade86131b8ba8557e60061" title="G4AssemblyVolume::MakeImprint" alt="" coords="207,468,457,496"/>
+<area shape="rect" id="node33" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="221,520,443,548"/>
+<area shape="rect" id="node34" href="$dd/d65/classCLHEP_1_1HepRotation.html#aade1964498bb450b9d90a40977837e67" title="CLHEP::HepRotation\l::rotateX" alt="" coords="253,572,411,616"/>
+<area shape="rect" id="node35" href="$dd/d65/classCLHEP_1_1HepRotation.html#ac60c2a08a88c544733d840a166dcb7a8" title="CLHEP::HepRotation\l::rotateZ" alt="" coords="253,640,411,684"/>
+<area shape="rect" id="node36" href="$d4/d86/classG4OpticalSurface.html#a112d555d8e6ddf9e74bb7d9a2250d6ea" title="G4OpticalSurface::SetMaterial\lPropertiesTable" alt="" coords="219,708,445,752"/>
+<area shape="rect" id="node37" href="$d1/da3/classG4EicDircDetector.html#a4b5e28bc27853c64f1a8fb05b72d4ada" title="G4EicDircDetector::\lSetVisualization" alt="" coords="255,776,409,820"/>
+<area shape="rect" id="node43" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="237,844,427,872"/>
+<area shape="rect" id="node4" href="$da/dbc/classG4MaterialPropertiesTable.html#a59b10e3bdf0363b867694888c9c3bbf9" title="G4MaterialPropertiesTable\l::GetPropertyIndex" alt="" coords="819,131,1018,175"/>
+<area shape="rect" id="node6" href="$da/dbc/classG4MaterialPropertiesTable.html#a086f7d7eb71abeb9270dc37028d3d8b8" title="G4MaterialPropertiesTable\l::CalculateGROUPVEL" alt="" coords="819,63,1018,107"/>
+<area shape="rect" id="node5" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1137,131,1244,159"/>
+<area shape="rect" id="node7" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="1355,57,1419,85"/>
+<area shape="rect" id="node13" href="$dc/d99/classG4PhysicsOrderedFreeVector.html#a27c29e664f582dd93ee469bd001c9f7f" title="G4PhysicsOrderedFreeVector\l::InsertValues" alt="" coords="1082,63,1299,107"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1492,109,1684,137"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1492,5,1684,33"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1468,57,1708,85"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1756,84,1944,112"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1756,32,1944,60"/>
+<area shape="rect" id="node15" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="614,319,653,347"/>
+<area shape="rect" id="node18" href="$d5/de4/classG4Material.html#a6787765bd3b0ef535161b887e7462417" title="G4Material::AddElement" alt="" coords="540,199,727,227"/>
+<area shape="rect" id="node30" href="$d5/de4/classG4Material.html#ad2a6b8d0a0c309aee50c75760994fabe" title="G4Material::SetMaterialProperties\lTable" alt="" coords="509,251,758,295"/>
+<area shape="rect" id="node16" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1367,348,1406,376"/>
+<area shape="rect" id="node17" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="899,319,938,347"/>
+<area shape="rect" id="node19" href="$d5/de4/classG4Material.html#a2bbaa762349b9a4617cbc985fb0c3a08" title="G4Material::ComputeDerived\lQuantities" alt="" coords="809,251,1028,295"/>
+<area shape="rect" id="node20" href="$d0/dbe/classG4AtomicShells.html#ae1b641e18a447a64472d179b3e07e221" title="G4AtomicShells::GetNumber\lOfFreeElectrons" alt="" coords="1083,319,1299,363"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#ac70cfa5fc8988777cd9acb1b379d6101" title="G4Material::ComputeRadiation\lLength" alt="" coords="1076,183,1305,227"/>
+<area shape="rect" id="node22" href="$d5/de4/classG4Material.html#ac3dead710232898aed1c79b784856028" title="G4Material::ComputeNuclear\lInterLength" alt="" coords="1081,251,1300,295"/>
+<area shape="rect" id="node23" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="1353,259,1420,287"/>
+<area shape="rect" id="node24" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1505,285,1671,313"/>
+<area shape="rect" id="node26" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1493,233,1683,261"/>
+<area shape="rect" id="node25" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1756,285,1944,313"/>
+<area shape="rect" id="node28" href="$d0/d12/namespaceg4zmq.html#ac0a320baaea2957915124839b1e2be53" title="g4zmq.exit" alt="" coords="870,439,967,467"/>
+<area shape="rect" id="node29" href="$d8/d03/G4ecpssrBaseKxsModel_8cc.html#afca89815e8ce05521ca0a7ec9bd17385" title="print" alt="" coords="1164,439,1217,467"/>
+<area shape="rect" id="node38" href="$dc/df1/classG4VisAttributes.html#a51a6a995505b76828ea151f3aede4193" title="G4VisAttributes::SetForce\lWireframe" alt="" coords="536,716,731,760"/>
+<area shape="rect" id="node39" href="$da/dc4/classG4LogicalVolume.html#ac048c68d9aacf76073be2b29c257094e" title="G4LogicalVolume::SetVisAttributes" alt="" coords="505,784,761,812"/>
+<area shape="rect" id="node40" href="$dc/df1/classG4VisAttributes.html#a2c633b86c23dd2b32229db126885efd6" title="G4VisAttributes::SetVisibility" alt="" coords="526,836,741,864"/>
+<area shape="rect" id="node41" href="$dc/df1/classG4VisAttributes.html#a2a37373fb043df4effbaf918fa5002ee" title="G4VisAttributes::SetColour" alt="" coords="532,888,735,916"/>
+<area shape="rect" id="node42" href="$dc/df1/classG4VisAttributes.html#abd02e393157dda693addca38fab7fb63" title="G4VisAttributes::SetForce\lSolid" alt="" coords="536,648,731,692"/>
+</map>

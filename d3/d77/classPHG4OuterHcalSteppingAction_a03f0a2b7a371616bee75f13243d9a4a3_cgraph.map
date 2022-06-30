@@ -1,0 +1,38 @@
+<map id="PHG4OuterHcalSteppingAction::FieldChecker" name="PHG4OuterHcalSteppingAction::FieldChecker">
+<area shape="rect" id="node2" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="384,39,423,67"/>
+<area shape="rect" id="node3" href="$dd/d94/classG4PropagatorInField.html#a1302ae994e7656b62754b1fabff9183f" title="G4PropagatorInField\l::FindAndSetFieldManager" alt="" coords="304,91,503,135"/>
+<area shape="rect" id="node8" href="$dc/d5a/classG4FieldManager.html#a71d03f0660d835e8f7d7f99246fa5ddd" title="G4FieldManager::GetDetector\lField" alt="" coords="292,159,515,203"/>
+<area shape="rect" id="node9" href="$d6/d64/classG4Field.html#a8af787d2ecf139cb1f630ea7a28e63f8" title="G4Field::GetFieldValue" alt="" coords="317,227,490,255"/>
+<area shape="rect" id="node10" href="$df/d47/classG4StepPoint.html#a9fda15b094b851c9fd8cda6311cecf0c" title="G4StepPoint::GetGlobalTime" alt="" coords="296,279,511,307"/>
+<area shape="rect" id="node11" href="$da/d29/classFun4AllServer.html#a076cf04bf26e8a5bfc56e61e7cb90d60" title="Fun4AllServer::getHisto" alt="" coords="313,331,493,359"/>
+<area shape="rect" id="node15" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="308,383,499,411"/>
+<area shape="rect" id="node16" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="308,435,499,463"/>
+<area shape="rect" id="node17" href="$d1/dd0/classG4TransportationManager.html#aa7ba13e916a88e7f90c6ff59209b0e2d" title="G4TransportationManager\l::GetPropagatorInField" alt="" coords="304,487,503,531"/>
+<area shape="rect" id="node18" href="$df/d47/classG4StepPoint.html#a5bd15d44447c6a51f94c4b7b4ae6060f" title="G4StepPoint::GetTouchable\lHandle" alt="" coords="301,555,506,599"/>
+<area shape="rect" id="node19" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="297,623,509,667"/>
+<area shape="rect" id="node26" href="$d9/d81/classG4VTouchable.html#a50a059f59cf5a4c974ab560b64f9251d" title="G4VTouchable::GetVolume" alt="" coords="580,697,781,725"/>
+<area shape="rect" id="node27" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="313,743,494,771"/>
+<area shape="rect" id="node28" href="$da/d29/classFun4AllServer.html#a737e191e9187f364a741270be993baaa" title="Fun4AllServer::isHistoRegistered" alt="" coords="283,795,524,823"/>
+<area shape="rect" id="node30" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="308,847,499,875"/>
+<area shape="rect" id="node31" href="$da/d29/classFun4AllServer.html#a1d7daeb59511a7dc61a2566f4116a6ec" title="Fun4AllServer::registerHisto" alt="" coords="298,899,509,927"/>
+<area shape="rect" id="node35" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="319,951,488,979"/>
+<area shape="rect" id="node36" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="319,1003,488,1031"/>
+<area shape="rect" id="node37" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="319,1055,487,1083"/>
+<area shape="rect" id="node4" href="$d1/d35/classG4Region.html#a04a305c07aa59bbcd29e230f805606d1" title="G4Region::GetFieldManager" alt="" coords="575,5,786,33"/>
+<area shape="rect" id="node5" href="$da/dc4/classG4LogicalVolume.html#a1aeb61213433ed220b640151ed2441a6" title="G4LogicalVolume::GetField\lManager" alt="" coords="579,57,782,101"/>
+<area shape="rect" id="node6" href="$d1/d28/classG4VPhysicalVolume.html#ac9405fb42d546b5d545dae05a0ae7554" title="G4VPhysicalVolume::\lGetLogicalVolume" alt="" coords="599,125,763,169"/>
+<area shape="rect" id="node7" href="$da/dc4/classG4LogicalVolume.html#ac5ed1a269bc718f5acd258407d5f9459" title="G4LogicalVolume::GetRegion" alt="" coords="572,193,789,221"/>
+<area shape="rect" id="node12" href="$d3/d96/classFun4AllHistoManager.html#ae5401f032b650d41224dfa0e2f12d364" title="Fun4AllHistoManager\l::getHisto" alt="" coords="598,323,763,367"/>
+<area shape="rect" id="node13" href="$d3/d96/classFun4AllHistoManager.html#a78e6d7a95c28595e45b84db4c1542237" title="Fun4AllHistoManager\l::Print" alt="" coords="869,323,1034,367"/>
+<area shape="rect" id="node14" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="1113,331,1267,359"/>
+<area shape="rect" id="node20" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="577,616,784,660"/>
+<area shape="rect" id="node21" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="866,499,1037,527"/>
+<area shape="rect" id="node22" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="875,551,1028,579"/>
+<area shape="rect" id="node23" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="898,723,1005,751"/>
+<area shape="rect" id="node24" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="854,603,1049,647"/>
+<area shape="rect" id="node25" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="837,671,1065,699"/>
+<area shape="rect" id="node29" href="$d3/d96/classFun4AllHistoManager.html#af2d3721028bbdf8eca4c6f09de0b65dc" title="Fun4AllHistoManager\l::isHistoRegistered" alt="" coords="598,787,763,831"/>
+<area shape="rect" id="node32" href="$d3/d96/classFun4AllHistoManager.html#a7e1354855437fa28bb0d29dc0581d0a6" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="598,891,763,935"/>
+<area shape="rect" id="node33" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="929,872,974,900"/>
+<area shape="rect" id="node34" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="863,924,1039,952"/>
+</map>

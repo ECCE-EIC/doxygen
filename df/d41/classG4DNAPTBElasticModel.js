@@ -1,0 +1,25 @@
+var classG4DNAPTBElasticModel =
+[
+    [ "TriDimensionMap", "df/d41/classG4DNAPTBElasticModel.html#a73274a84904b8445a436223a7dedc4fb", null ],
+    [ "VecMap", "df/d41/classG4DNAPTBElasticModel.html#aedcbb0ddca6f42120c68d037430f69d2", null ],
+    [ "G4DNAPTBElasticModel", "df/d41/classG4DNAPTBElasticModel.html#a46f8aa1c04295624c0bfce72aaae3af2", null ],
+    [ "~G4DNAPTBElasticModel", "df/d41/classG4DNAPTBElasticModel.html#a65e9f92045f37e60b103374e1509247b", null ],
+    [ "G4DNAPTBElasticModel", "df/d41/classG4DNAPTBElasticModel.html#a283e664f090c82e596fa5af75572ad4f", null ],
+    [ "CrossSectionPerVolume", "df/d41/classG4DNAPTBElasticModel.html#a241c892823c1cb9c03bc2e9118e46ec4", null ],
+    [ "Initialise", "df/d41/classG4DNAPTBElasticModel.html#ac63a140c551e181d59d7f953ed90f07c", null ],
+    [ "LinLinInterpolate", "df/d41/classG4DNAPTBElasticModel.html#a9b17f60b3af6472dd203f1d60818383b", null ],
+    [ "LinLogInterpolate", "df/d41/classG4DNAPTBElasticModel.html#ad068540f26829c51203950d39ec5ba83", null ],
+    [ "LogLogInterpolate", "df/d41/classG4DNAPTBElasticModel.html#a76be070eee9c4b31de6976ed8182e21f", null ],
+    [ "operator=", "df/d41/classG4DNAPTBElasticModel.html#a83ecf19d259a0b4b122e9c8c73fd044e", null ],
+    [ "QuadInterpolator", "df/d41/classG4DNAPTBElasticModel.html#aaa213dfb36bec385ffc5ae5b7ba19369", null ],
+    [ "RandomizeCosTheta", "df/d41/classG4DNAPTBElasticModel.html#a3ce1f9e83f1732dc76c39a1321ce2e72", null ],
+    [ "ReadDiffCSFile", "df/d41/classG4DNAPTBElasticModel.html#a7889ba50a6dbcaf7fd5c02fd683f8d80", null ],
+    [ "SampleSecondaries", "df/d41/classG4DNAPTBElasticModel.html#a483c862cf37b262fe6134ac251d21796", null ],
+    [ "Theta", "df/d41/classG4DNAPTBElasticModel.html#a701dc95f1a03535a236ead33bfb428b4", null ],
+    [ "diffCrossSectionData", "df/d41/classG4DNAPTBElasticModel.html#a02c39d335dbb85c7d467cf7b2d3a8136", null ],
+    [ "eValuesVect", "df/d41/classG4DNAPTBElasticModel.html#a7399c13a45f15c2c3164b4cc69042650", null ],
+    [ "fKillBelowEnergy", "df/d41/classG4DNAPTBElasticModel.html#a9437be5bb9cad726bc04dec017acf746", null ],
+    [ "killBelowEnergyTable", "df/d41/classG4DNAPTBElasticModel.html#ab8b30f46b5d00b556d009a4aa4911ead", null ],
+    [ "tValuesVec", "df/d41/classG4DNAPTBElasticModel.html#a73045ee3555fee642b9b8a4c24ad7a90", null ],
+    [ "verboseLevel", "df/d41/classG4DNAPTBElasticModel.html#afe7f30657121a1383e2ee791a914acb5", null ]
+];

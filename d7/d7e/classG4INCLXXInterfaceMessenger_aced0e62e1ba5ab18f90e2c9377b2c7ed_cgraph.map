@@ -1,0 +1,51 @@
+<map id="G4INCLXXInterfaceMessenger::SetNewValue" name="G4INCLXXInterfaceMessenger::SetNewValue">
+<area shape="rect" id="node2" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#a53ff5432b9e7a1f42f80a995a4117561" title="G4UIcmdWithADoubleAndUnit\l::GetNewDoubleValue" alt="" coords="291,5,518,49"/>
+<area shape="rect" id="node17" href="$d0/da4/classG4UIcmdWithAnInteger.html#a212ef79a8938822de8f971d135cc22b0" title="G4UIcmdWithAnInteger\l::GetNewIntValue" alt="" coords="314,640,495,684"/>
+<area shape="rect" id="node19" href="$d8/d50/classG4INCLXXInterfaceStore.html#a23d99533398c071311fb37994201f38b" title="Setter for accurateProjectile." alt="" coords="313,73,497,117"/>
+<area shape="rect" id="node21" href="$d8/d50/classG4INCLXXInterfaceStore.html#a27c21625b6577be3531e0247035f6837" title="Setter for cascadeMinEnergyPerNucleon." alt="" coords="276,141,533,185"/>
+<area shape="rect" id="node22" href="$d8/d50/classG4INCLXXInterfaceStore.html#af569fc47744ab8d041d351db2dfc295e" title="Set the INCL physics." alt="" coords="313,572,497,616"/>
+<area shape="rect" id="node32" href="$d8/d50/classG4INCLXXInterfaceStore.html#ad7957c2bf52f57ac1b02b287bd77d998" title="Setter for the maximum cluster mass." alt="" coords="313,209,497,253"/>
+<area shape="rect" id="node36" href="$d5/d72/classG4String.html#ab80ed6fd5fbff1a7d6667435f73d59be" title="G4String::toLower" alt="" coords="333,708,477,736"/>
+<area shape="rect" id="node37" href="$d8/d50/classG4INCLXXInterfaceStore.html#abedd1c8502e11daec674b63afe969275" title="Set ABLA V3 to be the de&#45;excitation model to be used with INCL++." alt="" coords="313,1184,497,1228"/>
+<area shape="rect" id="node3" href="$d2/dd2/classG4UIcommand.html#ad91bf90bebe978537d8915e811b9bb08" title="G4UIcommand::ConvertToDimensioned\lDouble" alt="" coords="581,5,868,49"/>
+<area shape="rect" id="node4" href="$d2/dd2/classG4UIcommand.html#a3ae72a3c4295c3a683cdd176767f0a72" title="G4UIcommand::ValueOf" alt="" coords="920,239,1105,267"/>
+<area shape="rect" id="node5" href="$dd/db6/classG4UnitDefinition.html#aa2bc282875d27f9319e636c72f6d0d5d" title="G4UnitDefinition::GetValueOf" alt="" coords="1163,433,1383,461"/>
+<area shape="rect" id="node6" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="1436,396,1637,440"/>
+<area shape="rect" id="node9" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2245,464,2352,492"/>
+<area shape="rect" id="node12" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1495,592,1578,620"/>
+<area shape="rect" id="node7" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1687,396,1899,440"/>
+<area shape="rect" id="node10" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="2188,348,2409,376"/>
+<area shape="rect" id="node8" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1949,396,2140,440"/>
+<area shape="rect" id="node11" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="2195,404,2402,432"/>
+<area shape="rect" id="node13" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1685,516,1901,560"/>
+<area shape="rect" id="node14" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1687,584,1899,628"/>
+<area shape="rect" id="node15" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1688,652,1899,696"/>
+<area shape="rect" id="node16" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1961,652,2129,696"/>
+<area shape="rect" id="node18" href="$d2/dd2/classG4UIcommand.html#abb2bd08fd64bc218be8bc10292c160ca" title="G4UIcommand::ConvertToInt" alt="" coords="616,996,833,1024"/>
+<area shape="rect" id="node20" href="$d8/d50/classG4INCLXXInterfaceStore.html#a09d87d0c54b6b658296f2efa952ee764" title="Emit a BIG warning to G4cout." alt="" coords="633,73,817,117"/>
+<area shape="rect" id="node23" href="$da/d4f/classG4INCL_1_1Config.html#ad52aadecc35abc468ec314ebd9566484" title="Initialise the members." alt="" coords="647,772,802,800"/>
+<area shape="rect" id="node24" href="$da/d4f/classG4INCL_1_1Config.html#a94e6b284e475aafa5ea27bcd92c2de07" title="Set the type of the potential for nucleons." alt="" coords="603,824,846,852"/>
+<area shape="rect" id="node25" href="$da/d4f/classG4INCL_1_1Config.html#a8d3015144cf616b1d28337734a00f64d" title="Set the type of the potential for nucleons." alt="" coords="605,876,845,904"/>
+<area shape="rect" id="node26" href="$da/d4f/classG4INCL_1_1Config.html#add454485c077ffa49459f85e111969bd" title="Set the type of local energy for N&#45;N avatars." alt="" coords="631,928,818,972"/>
+<area shape="rect" id="node27" href="$da/d4f/classG4INCL_1_1Config.html#a2ce55c68aba9f36e500173e6c9c1bc4b" title="Set the type of local energy for N&#45;N avatars." alt="" coords="631,345,818,389"/>
+<area shape="rect" id="node28" href="$da/d4f/classG4INCL_1_1Config.html#a2dbd947dd33e4b6f45f214cc79dd8ac1" title="Set back&#45;to&#45;spectator." alt="" coords="625,413,825,457"/>
+<area shape="rect" id="node29" href="$da/d4f/classG4INCL_1_1Config.html#a0e5fcc089e3ffd95f96b8aef72635d9f" title="Set the clustering algorithm." alt="" coords="624,481,825,525"/>
+<area shape="rect" id="node30" href="$da/d4f/classG4INCL_1_1Config.html#a49b009eafbd6241eb800cc62794da607" title="Set the Coulomb&#45;distortion algorithm." alt="" coords="603,549,847,577"/>
+<area shape="rect" id="node31" href="$da/d4f/classG4INCL_1_1Config.html#aa7e576e263d7dab51864eda057122f2b" title="Set the Cross Section type." alt="" coords="630,601,819,645"/>
+<area shape="rect" id="node33" href="$da/d4f/classG4INCL_1_1Config.html#ad8f6822c763d1cfa4b8feaaad68dd2b7" title="Get the maximum mass for production of clusters." alt="" coords="623,209,826,253"/>
+<area shape="rect" id="node34" href="$d8/d50/classG4INCLXXInterfaceStore.html#a4bd27147a1d62448c98dc66257f10eea" title="Delete the INCL model engine." alt="" coords="633,277,817,321"/>
+<area shape="rect" id="node35" href="$da/d4f/classG4INCL_1_1Config.html#af753b2a90891cde4dcf57ef8c747f7e0" title="Set the maximum mass for production of clusters." alt="" coords="624,141,825,185"/>
+<area shape="rect" id="node38" href="$d8/d46/classG4HadronicInteractionRegistry.html#ab980e88d15834669735c7210ba6c7d9d" title="G4HadronicInteractionRegistry\l::Instance" alt="" coords="610,1116,839,1160"/>
+<area shape="rect" id="node44" href="$d8/d46/classG4HadronicInteractionRegistry.html#a04345320b3f1dafecb4a0b338776bbbb" title="G4HadronicInteractionRegistry\l::FindAllModels" alt="" coords="610,1184,839,1228"/>
+<area shape="rect" id="node45" href="$d8/d50/classG4INCLXXInterfaceStore.html#a16b4dec320906c1075fdc430512ddf6a" title="Get the singleton instance." alt="" coords="633,1252,817,1296"/>
+<area shape="rect" id="node48" href="$d8/d50/classG4INCLXXInterfaceStore.html#ad55185f3606b63f7b9d7a3e191c58ebc" title="G4INCLXXInterfaceStore\l::getINCLXXVersionName" alt="" coords="629,1320,820,1364"/>
+<area shape="rect" id="node49" href="$d8/d46/classG4HadronicInteractionRegistry.html#a382686febdc20766452a4f00558eda9d" title="G4HadronicInteractionRegistry\l::FindModel" alt="" coords="610,1388,839,1432"/>
+<area shape="rect" id="node50" href="$d2/d50/classG4VIntraNuclearTransportModel.html#aacd1bd25b7f64aab4ed1cae46687341d" title="G4VIntraNuclearTransport\lModel::SetDeExcitation" alt="" coords="626,1048,823,1092"/>
+<area shape="rect" id="node39" href="$d5/dd7/classG4ThreadLocalSingleton.html#a47059d0f59f2f9b8a970f73b6ec4c4c2" title="G4ThreadLocalSingleton\l::Instance" alt="" coords="919,1116,1106,1160"/>
+<area shape="rect" id="node40" href="$da/dc8/classG4Cache.html#a70890f74a94670d28d3282c1d8e60840" title="G4Cache::Get" alt="" coords="1215,1124,1331,1152"/>
+<area shape="rect" id="node41" href="$da/dc8/classG4Cache.html#af35fe0499dd94627a5119e1e82639016" title="G4Cache::Put" alt="" coords="1216,1176,1329,1204"/>
+<area shape="rect" id="node42" href="$dc/d02/namespaceG4AutoDelete.html#ad9f605c8057f73fbe433da3bbd7d3936" title="G4AutoDelete::Register" alt="" coords="1182,1072,1363,1100"/>
+<area shape="rect" id="node43" href="$d5/dd7/classG4ThreadLocalSingleton.html#ac51b4a79569468a146e91b3803f80d84" title="G4ThreadLocalSingleton\l::Register" alt="" coords="1443,1064,1630,1108"/>
+<area shape="rect" id="node46" href="$d8/d50/classG4INCLXXInterfaceStore.html#ad3a3df7a393c58fe8688f8ebd4cc1756" title="Private constructor." alt="" coords="916,1252,1109,1296"/>
+<area shape="rect" id="node47" href="$d8/d50/classG4INCLXXInterfaceStore.html#a7e38c3162bb065d946290e11f1851a03" title="G4INCLXXInterfaceStore\l::constructINCLXXVersionName" alt="" coords="1157,1252,1388,1296"/>
+</map>

@@ -1,0 +1,25 @@
+var classG4hNuclearStoppingModel =
+[
+    [ "G4hNuclearStoppingModel", "d5/d6e/classG4hNuclearStoppingModel.html#aa40e6baf36ca86c4a29aa6a3730b59c7", null ],
+    [ "~G4hNuclearStoppingModel", "d5/d6e/classG4hNuclearStoppingModel.html#a4cea6dbd5bf64bf937b2fddcfa929541", null ],
+    [ "G4hNuclearStoppingModel", "d5/d6e/classG4hNuclearStoppingModel.html#a974c9034f42e55acb05cf6c452d50bbb", null ],
+    [ "HighEnergyLimit", "d5/d6e/classG4hNuclearStoppingModel.html#a4d397a9b5a5f45da1e78ab76299cd179", null ],
+    [ "HighEnergyLimit", "d5/d6e/classG4hNuclearStoppingModel.html#a620a9c85b3dee2c191a0056757d66fb9", null ],
+    [ "InitializeMe", "d5/d6e/classG4hNuclearStoppingModel.html#afb46a70ca574e076a7c74bcd89afef44", null ],
+    [ "IsInCharge", "d5/d6e/classG4hNuclearStoppingModel.html#a2d299c50c2fd4d52e820093d442629a7", null ],
+    [ "IsInCharge", "d5/d6e/classG4hNuclearStoppingModel.html#a36df6270aa4ae8c6f721ea347510b6e5", null ],
+    [ "LowEnergyLimit", "d5/d6e/classG4hNuclearStoppingModel.html#abd5ae901281ebf771cb06f2d63661ceb", null ],
+    [ "LowEnergyLimit", "d5/d6e/classG4hNuclearStoppingModel.html#afef6d872cfcfc8d223d299d816d8ab4f", null ],
+    [ "operator=", "d5/d6e/classG4hNuclearStoppingModel.html#a7a5704966fe10a3a5a7a6e5f76277b59", null ],
+    [ "SetNuclearStoppingFluctuationsOff", "d5/d6e/classG4hNuclearStoppingModel.html#a400aca82f20163b57a7a5303c2243888", null ],
+    [ "SetNuclearStoppingFluctuationsOn", "d5/d6e/classG4hNuclearStoppingModel.html#a7c32e26746d452b3864e27bfd0e18859", null ],
+    [ "StoppingPower", "d5/d6e/classG4hNuclearStoppingModel.html#a76c0d2ef5357bb9fe97f7538e5b3b925", null ],
+    [ "TheValue", "d5/d6e/classG4hNuclearStoppingModel.html#ac6c165561e28c9b72b149003e9c2473a", null ],
+    [ "TheValue", "d5/d6e/classG4hNuclearStoppingModel.html#ae145532661de06ff4352455961f52063", null ],
+    [ "factorPDG2AMU", "d5/d6e/classG4hNuclearStoppingModel.html#af271a8752aba7e8600b95cd4d78faed8", null ],
+    [ "highEnergyLimit", "d5/d6e/classG4hNuclearStoppingModel.html#ad9d3e6087e6be721f96f2cc318b050b0", null ],
+    [ "lowEnergyLimit", "d5/d6e/classG4hNuclearStoppingModel.html#a06e63e8ae838d74082eb2d290434dff5", null ],
+    [ "modelName", "d5/d6e/classG4hNuclearStoppingModel.html#a0a1d3cb7cc2c2653e569fe5a1952f483", null ],
+    [ "nStopingPowerTable", "d5/d6e/classG4hNuclearStoppingModel.html#af0a193881a72cc4966464662358ae874", null ],
+    [ "theZieglerFactor", "d5/d6e/classG4hNuclearStoppingModel.html#a8d64013fb1eb0523c03899621b248feb", null ]
+];

@@ -1,0 +1,36 @@
+<map id="G4VAtomDeexcitation::GenerateParticles" name="G4VAtomDeexcitation::GenerateParticles">
+<area shape="rect" id="node2" href="$d2/d2c/classG4VAtomDeexcitation.html#ad757ef5d2d05f83f5e0c9a3b34b21b9d" title="G4VAtomDeexcitation\l::AlongStepDeexcitation" alt="" coords="269,5,453,49"/>
+<area shape="rect" id="node4" href="$db/d02/classG4ECDecay.html#ae4469e8131a35d02c55c83746528b355" title="G4ECDecay::DecayIt" alt="" coords="280,73,441,101"/>
+<area shape="rect" id="node5" href="$d0/db8/classG4ITDecay.html#ab762ec289eef7e6da4b9920b90c0e870" title="G4ITDecay::DecayIt" alt="" coords="283,125,438,153"/>
+<area shape="rect" id="node14" href="$d1/d96/classG4LivermorePolarizedPhotoElectricGDModel.html#a9284da42e00b1d7566f246e5c77ee3e3" title="G4LivermorePolarizedPhoto\lElectricGDModel::SampleSecondaries" alt="" coords="223,177,499,221"/>
+<area shape="rect" id="node15" href="$d9/de3/classG4DNARuddIonisationExtendedModel.html#a3aa2d65d5b31ec0e1acab89828abeed0" title="G4DNARuddIonisationExtended\lModel::SampleSecondaries" alt="" coords="243,245,478,289"/>
+<area shape="rect" id="node16" href="$d5/d93/classG4DNARuddIonisationModel.html#aacf670d2e82ad8dc8f57dc7ad00469d0" title="G4DNARuddIonisationModel\l::SampleSecondaries" alt="" coords="255,313,466,357"/>
+<area shape="rect" id="node17" href="$d7/d47/classG4DNABornIonisationModel2.html#a91280b5bc8dda13a92747fbf248f0ac3" title="G4DNABornIonisationModel2\l::SampleSecondaries" alt="" coords="253,381,469,425"/>
+<area shape="rect" id="node18" href="$dc/db0/classG4DNABornIonisationModel1.html#add3e46ff8c6c2abe7614ef16741151e9" title="G4DNABornIonisationModel1\l::SampleSecondaries" alt="" coords="253,449,469,493"/>
+<area shape="rect" id="node19" href="$d3/d97/classG4LivermoreComptonModifiedModel.html#a1740a6df40b1605d3e2d93b8e0520a9e" title="G4LivermoreComptonModified\lModel::SampleSecondaries" alt="" coords="247,517,474,561"/>
+<area shape="rect" id="node20" href="$de/dcc/classG4LivermoreComptonModel.html#a2eb642bf617028751360cef57135938b" title="G4LivermoreComptonModel\l::SampleSecondaries" alt="" coords="256,585,465,629"/>
+<area shape="rect" id="node21" href="$d2/d6f/classG4DNAEmfietzoglouIonisationModel.html#af0bf8601fc84d88f4f1d580b6fa06310" title="G4DNAEmfietzoglouIonisation\lModel::SampleSecondaries" alt="" coords="249,653,473,697"/>
+<area shape="rect" id="node22" href="$d4/dab/classG4LivermorePolarizedPhotoElectricModel.html#a8b56152f3fc9321a7d94f145a6d29ff7" title="G4LivermorePolarizedPhoto\lElectricModel::SampleSecondaries" alt="" coords="233,721,488,765"/>
+<area shape="rect" id="node23" href="$d2/d10/classG4LivermorePhotoElectricModel.html#a1421177de75614a637f410e1d241b3b4" title="G4LivermorePhotoElectric\lModel::SampleSecondaries" alt="" coords="258,789,463,833"/>
+<area shape="rect" id="node24" href="$d4/d4f/classG4LivermorePolarizedComptonModel.html#afe29cb2adfc75a5eb73e476c7d73ecfa" title="G4LivermorePolarizedCompton\lModel::SampleSecondaries" alt="" coords="245,857,476,901"/>
+<area shape="rect" id="node25" href="$dc/da4/classG4DNACPA100IonisationModel.html#ad176f1ac17a890c4979e4070e06e052b" title="G4DNACPA100IonisationModel\l::SampleSecondaries" alt="" coords="247,925,474,969"/>
+<area shape="rect" id="node26" href="$d9/d44/classG4PenelopePhotoElectricModel.html#a9b7e849318b1b33d443a519d4ee276b8" title="G4PenelopePhotoElectricModel\l::SampleSecondaries" alt="" coords="245,993,476,1037"/>
+<area shape="rect" id="node27" href="$d5/df7/classG4KleinNishinaModel.html#aba7847211a5c2371b0920299b5451c6e" title="G4KleinNishinaModel\l::SampleSecondaries" alt="" coords="279,1061,443,1105"/>
+<area shape="rect" id="node28" href="$dc/dbd/classG4MuElecInelasticModel.html#aec387230ac28c550b695f294c3ef491a" title="G4MuElecInelasticModel\l::SampleSecondaries" alt="" coords="268,1129,453,1173"/>
+<area shape="rect" id="node29" href="$db/da5/classG4MicroElecInelasticModel.html#ab67765fd5a4c7ea033f1690a6320e9bc" title="G4MicroElecInelasticModel\l::SampleSecondaries" alt="" coords="260,1197,461,1241"/>
+<area shape="rect" id="node30" href="$da/dad/classG4PEEffectFluoModel.html#a3652a49c34eb2df17c509109cb147cf4" title="G4PEEffectFluoModel\l::SampleSecondaries" alt="" coords="278,1265,443,1309"/>
+<area shape="rect" id="node32" href="$db/d2c/classG4PenelopeComptonModel.html#ae9f9c281423ad00cd8703e90b75cd874" title="G4PenelopeComptonModel\l::SampleSecondaries" alt="" coords="259,1333,463,1377"/>
+<area shape="rect" id="node33" href="$d9/dd7/classG4PenelopeIonisationModel.html#a13dab58e0d23f51275d2b0f626accd3e" title="G4PenelopeIonisationModel\l::SampleSecondaries" alt="" coords="256,1401,465,1445"/>
+<area shape="rect" id="node34" href="$dc/d4b/classG4LowEPComptonModel.html#a78e3b5147a80319902f3f1fcae5cfddb" title="G4LowEPComptonModel\l::SampleSecondaries" alt="" coords="268,1469,453,1513"/>
+<area shape="rect" id="node35" href="$d1/da3/classG4LowEPPolarizedComptonModel.html#a83f411e7e168bb8023cb8e4082252f22" title="G4LowEPPolarizedComptonModel\l::SampleSecondaries" alt="" coords="237,1537,484,1581"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="572,5,749,49"/>
+<area shape="rect" id="node6" href="$d0/dfa/classG4Radioactivation.html#a21195ac4d0526e5233867397201c137d" title="G4Radioactivation::\lAddDeexcitationSpectrumFor\lBiasMode" alt="" coords="550,91,771,151"/>
+<area shape="rect" id="node10" href="$df/d5e/classG4RadioactiveDecay.html#ae8ef8b60a2cc957bc81c539527e55ffc" title="G4RadioactiveDecay\l::AddDeexcitationSpectrumFor\lBiasMode" alt="" coords="547,175,775,235"/>
+<area shape="rect" id="node7" href="$d0/dfa/classG4Radioactivation.html#a5f3f52eb546d59390dd2e633ebc1918f" title="G4Radioactivation::\lDecayIt" alt="" coords="827,99,981,143"/>
+<area shape="rect" id="node8" href="$d0/dfa/classG4Radioactivation.html#a5e992a9701e77174b5815b47b8aea8a4" title="G4Radioactivation::\lAtRestDoIt" alt="" coords="1038,39,1191,83"/>
+<area shape="rect" id="node9" href="$d0/dfa/classG4Radioactivation.html#a9346a1112a2666c53aa9cf34646494ff" title="G4Radioactivation::\lPostStepDoIt" alt="" coords="1038,107,1191,151"/>
+<area shape="rect" id="node11" href="$df/d5e/classG4RadioactiveDecay.html#a99665f00c3be293c00a1e94108faf7fb" title="G4RadioactiveDecay\l::DecayIt" alt="" coords="823,183,985,227"/>
+<area shape="rect" id="node12" href="$df/d5e/classG4RadioactiveDecay.html#a0fb4257aca98bf87d751a0021dcf4639" title="G4RadioactiveDecay\l::AtRestDoIt" alt="" coords="1033,179,1196,223"/>
+<area shape="rect" id="node13" href="$df/d5e/classG4RadioactiveDecay.html#aff9187bc33e0500c36b77d5fe7ffeb95" title="G4RadioactiveDecay\l::PostStepDoIt" alt="" coords="1033,247,1196,291"/>
+<area shape="rect" id="node31" href="$d8/d20/classG4PolarizedPEEffectModel.html#ae49e0cea270316b11174463dc8d7c901" title="G4PolarizedPEEffectModel\l::SampleSecondaries" alt="" coords="562,1265,759,1309"/>
+</map>

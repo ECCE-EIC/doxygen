@@ -1,0 +1,51 @@
+<map id="G4OpticalPhoton::Definition" name="G4OpticalPhoton::Definition">
+<area shape="rect" id="node2" href="$d9/d8f/classG4OpticalPhoton.html#afbd816a90b699720b640658fc64a9906" title="G4OpticalPhoton::Optical\lPhoton" alt="" coords="263,1689,455,1733"/>
+<area shape="rect" id="node20" href="$d9/d8f/classG4OpticalPhoton.html#aeb0ed88b098ae013f33cb7da36281183" title="G4OpticalPhoton::Optical\lPhotonDefinition" alt="" coords="263,721,455,765"/>
+<area shape="rect" id="node50" href="$d9/d8e/classUltraPMTSD.html#a65a524de3c35c3d94fb183694f230570" title="UltraPMTSD::ProcessHits" alt="" coords="265,1757,452,1785"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="559,1645,706,1673"/>
+<area shape="rect" id="node8" href="$d3/d65/classG4EicDircOpBoundaryProcess.html#abf66a6bd290312c265a262b7f5c978c8" title="G4EicDircOpBoundaryProcess\l::IsApplicable" alt="" coords="521,1577,744,1621"/>
+<area shape="rect" id="node9" href="$dc/d72/classWLSSteppingAction.html#a117f4232ce75ae376123f3fcaeb7a3eb" title="WLSSteppingAction::\lUserSteppingAction" alt="" coords="838,1384,999,1428"/>
+<area shape="rect" id="node10" href="$d1/dbc/classG4OpticalPhysics.html#a9e07f95fd620e8e3b06cd883bb63e18c" title="G4OpticalPhysics::Construct\lProcess" alt="" coords="812,1819,1025,1863"/>
+<area shape="rect" id="node11" href="$db/d01/classG4Cerenkov.html#a3ab546533bd304848b3bbfadb5e60667" title="G4Cerenkov::PostStepDoIt" alt="" coords="533,1697,733,1725"/>
+<area shape="rect" id="node12" href="$d5/d96/classG4Scintillation.html#a9c97b9abcea6f11fb7534de21b7bedf0" title="G4Scintillation::PostStepDoIt" alt="" coords="525,1973,741,2001"/>
+<area shape="rect" id="node14" href="$dc/df8/classG4OpAbsorption.html#a13e0f1a486537d2e7082c61687f8c876" title="G4OpAbsorption::IsApplicable" alt="" coords="521,1817,745,1845"/>
+<area shape="rect" id="node15" href="$dc/d81/classG4OpBoundaryProcess.html#a564e9a509fbffada853795f0f2cb0981" title="G4OpBoundaryProcess\l::IsApplicable" alt="" coords="545,1749,721,1793"/>
+<area shape="rect" id="node16" href="$dd/ddb/classG4OpMieHG.html#a2554400f19290f974a6e91fe95785689" title="G4OpMieHG::IsApplicable" alt="" coords="535,1921,730,1949"/>
+<area shape="rect" id="node17" href="$d3/dff/classG4OpRayleigh.html#a38ad66848199f09f218948a54573847a" title="G4OpRayleigh::IsApplicable" alt="" coords="528,2025,737,2053"/>
+<area shape="rect" id="node18" href="$d4/dee/classG4OpWLS.html#a11bd5339673903b45268baf670cf4c3c" title="G4OpWLS::IsApplicable" alt="" coords="543,1473,723,1501"/>
+<area shape="rect" id="node19" href="$d4/dee/classG4OpWLS.html#aa901a42c3aaf37f3a2d68e4500885ae5" title="G4OpWLS::PostStepDoIt" alt="" coords="540,1525,725,1553"/>
+<area shape="rect" id="node4" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="887,1568,950,1596"/>
+<area shape="rect" id="node5" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="873,1620,964,1648"/>
+<area shape="rect" id="node6" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="817,1672,1020,1700"/>
+<area shape="rect" id="node7" href="$d9/d1d/matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="879,1724,958,1752"/>
+<area shape="rect" id="node13" href="$d5/d96/classG4Scintillation.html#a1cbc17abbb7e8f4fe1236b639ba970b1" title="G4Scintillation::AtRestDoIt" alt="" coords="819,1973,1019,2001"/>
+<area shape="rect" id="node21" href="$da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a925607fe783017e6dc0d77317666eb52" title="stepping action" alt="" coords="503,977,763,1021"/>
+<area shape="rect" id="node22" href="$d7/d34/classG4EicDircStackingAction.html#a0d30ffa3822f1e80c2296e2e5fbf31b3" title="stacking action. This gets called by the stacking action when a new track is generated" alt="" coords="539,1045,726,1089"/>
+<area shape="rect" id="node23" href="$de/d4d/classPHG4RICHSteppingAction.html#a4716fb322202f7b6a84215f05a088795" title="PHG4RICHSteppingAction\l::UserSteppingAction" alt="" coords="536,1113,729,1157"/>
+<area shape="rect" id="node24" href="$d2/daa/classPhysicsList.html#af7906507122c985d2da3e61c56efe60e" title="PhysicsList::ConstructParticle" alt="" coords="523,1181,742,1209"/>
+<area shape="rect" id="node25" href="$dc/d12/classPurgMagPhysicsList.html#af6141239e607fecd1da6a8f0cec3b600" title="PurgMagPhysicsList\l::ConstructBosons" alt="" coords="555,721,710,765"/>
+<area shape="rect" id="node27" href="$de/d5e/classDMXPhysicsList.html#a63ad4a4cb8eb9a2cfc75980c359d8b88" title="DMXPhysicsList::Construct\lMyBosons" alt="" coords="533,909,733,953"/>
+<area shape="rect" id="node29" href="$dd/d62/classDMXScintSD.html#a19b7030015634b790c8d9000131154c7" title="DMXScintSD::ProcessHits" alt="" coords="537,1301,728,1329"/>
+<area shape="rect" id="node30" href="$d0/d9b/classXrayTelPhysicsList.html#a6461741e4d5d965fe0ed888c540007a3" title="XrayTelPhysicsList\l::ConstructBosons" alt="" coords="561,1233,705,1277"/>
+<area shape="rect" id="node32" href="$d4/dd5/classG4AdjointPhysicsList.html#af50e42247d49550777c0b236095882df" title="G4AdjointPhysicsList\l::ConstructBosons" alt="" coords="551,5,714,49"/>
+<area shape="rect" id="node34" href="$d2/d0d/classLXePMTSD.html#a9b3b8c4d60e8d1e704fc79de718e7769" title="LXePMTSD::ProcessHits\l_constStep" alt="" coords="543,125,722,169"/>
+<area shape="rect" id="node35" href="$d8/d38/classLXeSteppingAction.html#a4227d906a7b0e9d86a48740a7ad9f05b" title="LXeSteppingAction::\lUserSteppingAction" alt="" coords="841,95,997,139"/>
+<area shape="rect" id="node36" href="$d7/d54/classLXeStackingAction.html#a760111f9558a97dd7a8f40f1a8f02188" title="LXeStackingAction::\lClassifyNewTrack" alt="" coords="555,245,710,289"/>
+<area shape="rect" id="node37" href="$d9/d1d/classLXeTrackingAction.html#a46cde2af76ac77bc6fb63c7317f29b66" title="LXeTrackingAction::\lPostUserTrackingAction" alt="" coords="543,313,722,357"/>
+<area shape="rect" id="node38" href="$d5/da8/classLXeTrajectory.html#a1266399c12b5e41bda7ea8388436b41a" title="LXeTrajectory::DrawTrajectory" alt="" coords="522,193,743,221"/>
+<area shape="rect" id="node40" href="$de/dbe/classOpNoviceStackingAction.html#a4892eae223e9598a5d6c4f0f3e1c89d8" title="OpNoviceStackingAction\l::ClassifyNewTrack" alt="" coords="539,449,726,493"/>
+<area shape="rect" id="node41" href="$df/d03/classOpNoviceSteppingAction.html#afdfb65d7084a7610b87698330b6d243e" title="OpNoviceSteppingAction\l::UserSteppingAction" alt="" coords="539,517,727,561"/>
+<area shape="rect" id="node42" href="$d9/dc7/classWLSPhotonDetSD.html#a4b3d8836e20d741e8fe3ac5d400b248d" title="WLSPhotonDetSD::ProcessHits\l_constStep" alt="" coords="519,1353,746,1397"/>
+<area shape="rect" id="node43" href="$de/da3/classWLSStackingAction.html#a5f1618dc7fe8111478d0300d9b075bfa" title="WLSStackingAction::\lClassifyNewTrack" alt="" coords="553,585,713,629"/>
+<area shape="rect" id="node44" href="$d2/d49/classPar02PhysicsList.html#a07fece7f60df298adb55710e4497d3ed" title="Constructs bosons (including geantino)" alt="" coords="529,381,737,425"/>
+<area shape="rect" id="node46" href="$da/ded/classG4BosonConstructor.html#a044cfca773f98edce9584075cb3f8d41" title="G4BosonConstructor\l::ConstructParticle" alt="" coords="552,653,713,697"/>
+<area shape="rect" id="node48" href="$d1/dbc/classG4OpticalPhysics.html#a9e4f7f42fa74c00c071bb16e6057100e" title="G4OpticalPhysics::Construct\lParticle" alt="" coords="526,789,739,833"/>
+<area shape="rect" id="node49" href="$d4/d5a/classLBE.html#afca277b05621329c8eaf09d4c59ea770" title="LBE::ConstructMyBosons" alt="" coords="538,857,727,885"/>
+<area shape="rect" id="node26" href="$dc/d12/classPurgMagPhysicsList.html#a51d07c0a652132d409b3598d2304d07d" title="PurgMagPhysicsList\l::ConstructParticle" alt="" coords="841,721,996,765"/>
+<area shape="rect" id="node28" href="$de/d5e/classDMXPhysicsList.html#a7cb54df62c3efc03698cc986d8af3c7a" title="DMXPhysicsList::Construct\lParticle" alt="" coords="819,909,1019,953"/>
+<area shape="rect" id="node31" href="$d0/d9b/classXrayTelPhysicsList.html#a1968e904024068ac6c265a708c1726d1" title="XrayTelPhysicsList\l::ConstructParticle" alt="" coords="846,1233,991,1277"/>
+<area shape="rect" id="node33" href="$d4/dd5/classG4AdjointPhysicsList.html#a05249dac715c992fd2cc522a6621f6c7" title="G4AdjointPhysicsList\l::ConstructParticle" alt="" coords="837,5,1000,49"/>
+<area shape="rect" id="node39" href="$d8/dfb/classLXeEventAction.html#af67e879df0c262a7f1d6e726584ad27c" title="LXeEventAction::EndOfEvent\lAction" alt="" coords="811,185,1027,229"/>
+<area shape="rect" id="node45" href="$d2/d49/classPar02PhysicsList.html#ab6b8e1508d000d4b33efe831a01ac3d6" title="Constructs particles: bosons, leptons, mesons, baryons and ions." alt="" coords="815,381,1023,425"/>
+<area shape="rect" id="node47" href="$d4/d90/classB03PhysicsList.html#aa6b33b5a6a5bc53150403bfbeb3b928c" title="B03PhysicsList::Construct\lAllBosons" alt="" coords="821,653,1017,697"/>
+</map>

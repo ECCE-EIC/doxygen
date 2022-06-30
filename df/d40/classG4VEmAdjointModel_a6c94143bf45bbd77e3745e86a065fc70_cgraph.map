@@ -1,0 +1,25 @@
+<map id="G4VEmAdjointModel::SampleAdjSecEnergyFromCSMatrix" name="G4VEmAdjointModel::SampleAdjSecEnergyFromCSMatrix">
+<area shape="rect" id="node2" href="$df/d40/classG4VEmAdjointModel.html#a74145162508742d32d6c6e438d005f45" title="G4VEmAdjointModel::\lSampleAdjSecEnergyFromCSMatrix" alt="" coords="312,469,571,513"/>
+<area shape="rect" id="node22" href="$df/d40/classG4VEmAdjointModel.html#a533abf9f4fea10281966733a8e8a3624" title="G4VEmAdjointModel::\lSelectCSMatrix" alt="" coords="357,845,525,889"/>
+<area shape="rect" id="node3" href="$dd/dd0/classG4AdjointInterpolator.html#ab69eed95cd7e63262bc28be10d2cd0ae" title="G4AdjointInterpolator\l::FindPositionForLogVector" alt="" coords="909,585,1109,629"/>
+<area shape="rect" id="node5" href="$d1/d5a/classG4AdjointCSMatrix.html#a5f4a9f423fccaaaf3f63351725d31df4" title="G4AdjointCSMatrix::\lGetData" alt="" coords="662,717,818,761"/>
+<area shape="rect" id="node6" href="$dd/dd0/classG4AdjointInterpolator.html#a945ca844d64138bcecd236765491a246" title="G4AdjointInterpolator\l::GetInstance" alt="" coords="656,785,824,829"/>
+<area shape="rect" id="node8" href="$d1/d5a/classG4AdjointCSMatrix.html#ac2f0cbdf414820c6133622cd982f04b7" title="G4AdjointCSMatrix::\lGetLogPrimEnergyVector" alt="" coords="645,5,835,49"/>
+<area shape="rect" id="node9" href="$df/d40/classG4VEmAdjointModel.html#a3a70c844a4425b64c6dad91d679fad02" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMaxForProd\lToProjCase" alt="" coords="619,73,861,133"/>
+<area shape="rect" id="node10" href="$df/d40/classG4VEmAdjointModel.html#a771159b6e20eb6ba42b46bf68c3f89f3" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMaxForScat\lProjToProjCase" alt="" coords="619,157,861,217"/>
+<area shape="rect" id="node11" href="$df/d40/classG4VEmAdjointModel.html#a8d3c99e8b40d0dde12fdc4a94abf5953" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMinForProd\lToProjCase" alt="" coords="621,241,859,301"/>
+<area shape="rect" id="node12" href="$df/d40/classG4VEmAdjointModel.html#afdc1375ec0e9c273aa2e3b2402e75888" title="G4VEmAdjointModel::\lGetSecondAdjEnergyMinForScat\lProjToProjCase" alt="" coords="620,325,860,385"/>
+<area shape="rect" id="node13" href="$dd/dd0/classG4AdjointInterpolator.html#a7667a990fbac97af51b23bbbc15b1422" title="G4AdjointInterpolator\l::Interpolate" alt="" coords="656,649,824,693"/>
+<area shape="rect" id="node18" href="$dd/dd0/classG4AdjointInterpolator.html#a3403ef2c08cff6872ed79f398d69a62a" title="G4AdjointInterpolator\l::LinearInterpolation" alt="" coords="1401,644,1569,688"/>
+<area shape="rect" id="node20" href="$dd/dd0/classG4AdjointInterpolator.html#aee058997bd3495e6ed759ace3b58bc73" title="G4AdjointInterpolator\l::InterpolateForLogVector" alt="" coords="643,529,837,573"/>
+<area shape="rect" id="node21" href="$d1/d5a/classG4AdjointCSMatrix.html#a766869ad7fbfe032e108825867e9f4bb" title="G4AdjointCSMatrix::\lIsScatProjToProjCase" alt="" coords="661,409,819,453"/>
+<area shape="rect" id="node4" href="$dd/dd0/classG4AdjointInterpolator.html#a995e780fdfcc73598426a7407e64ecb9" title="G4AdjointInterpolator\l::FindPosition" alt="" coords="1171,585,1339,629"/>
+<area shape="rect" id="node7" href="$dd/dd0/classG4AdjointInterpolator.html#a914127b833374a2a398cdb17f6f13bc9" title="G4AdjointInterpolator\l::G4AdjointInterpolator" alt="" coords="921,785,1098,829"/>
+<area shape="rect" id="node14" href="$dd/dd0/classG4AdjointInterpolator.html#a22fd9d1d41b3e860391da2d499dad036" title="G4AdjointInterpolator\l::Interpolation" alt="" coords="925,705,1093,749"/>
+<area shape="rect" id="node15" href="$dd/dd0/classG4AdjointInterpolator.html#a5b9233dfe11aeef3ed13b683a0b189f4" title="G4AdjointInterpolator\l::ExponentialInterpolation" alt="" coords="1157,773,1353,817"/>
+<area shape="rect" id="node19" href="$dd/dd0/classG4AdjointInterpolator.html#aec7cf2c028d376035a7cbf95dc2800c5" title="G4AdjointInterpolator\l::LogarithmicInterpolation" alt="" coords="1157,705,1353,749"/>
+<area shape="rect" id="node16" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1466,776,1505,804"/>
+<area shape="rect" id="node17" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="1466,716,1505,744"/>
+<area shape="rect" id="node23" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="647,853,833,881"/>
+<area shape="rect" id="node24" href="$de/d80/classG4Element.html#a94eb59b38b9a39e1970420381380ee77" title="G4Element::GetIndex" alt="" coords="657,905,823,933"/>
+</map>

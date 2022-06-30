@@ -1,0 +1,11 @@
+<map id="G4INCL::RootFinder::solve" name="G4INCL::RootFinder::solve">
+<area shape="rect" id="node2" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#a6d1151348ef6128ccc9916d17e0991d5" title="Enforce energy conservation." alt="" coords="213,65,430,109"/>
+<area shape="rect" id="node6" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#a8a1824ffd5272e7dcc81e443edc17af7" title="Modify particle that enters the nucleus." alt="" coords="211,133,431,177"/>
+<area shape="rect" id="node8" href="$d6/d0a/classG4INCL_1_1INCL.html#aebfbfc4b889f788b92e2fd345ba7d9c8" title="Rescale the energies of the outgoing particles." alt="" coords="207,201,436,245"/>
+<area shape="rect" id="node3" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#a87418f6177e792cb84b66b8075c2b9da" title="G4INCL::DecayAvatar\l::postInteraction" alt="" coords="781,5,948,49"/>
+<area shape="rect" id="node4" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#ac8a019a080acc89c5c2ac6dbb339a750" title="G4INCL::InteractionAvatar\l::postInteraction" alt="" coords="495,65,693,109"/>
+<area shape="rect" id="node5" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#a7a875ce633f6452bf1948ed61c903ce3" title="G4INCL::BinaryCollisionAvatar\l::postInteraction" alt="" coords="752,73,977,117"/>
+<area shape="rect" id="node7" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#abf44c365082f5001071c3c658a611503" title="G4INCL::ParticleEntryChannel\l::fillFinalState" alt="" coords="484,133,704,177"/>
+<area shape="rect" id="node9" href="$d6/d0a/classG4INCL_1_1INCL.html#ae7b2d2864caca29ad0a9f3e2fe42a62e" title="Finalise the cascade and clean up." alt="" coords="491,209,697,237"/>
+<area shape="rect" id="node10" href="$d6/d0a/classG4INCL_1_1INCL.html#a7db10f7a8cd5c5173448a48cc7a3cab7" title="G4INCL::INCL::processEvent" alt="" coords="759,209,970,237"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="G4VEnergyLossProcess::BuildLambdaTable" name="G4VEnergyLossProcess::BuildLambdaTable">
+<area shape="rect" id="node2" href="$dd/de5/classG4EmModelManager.html#a838c50226d6aa005cf3064318e95f727" title="G4EmModelManager::FillLambda\lVector" alt="" coords="231,443,473,487"/>
+<area shape="rect" id="node14" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1154,485,1326,529"/>
+<area shape="rect" id="node18" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="570,752,725,796"/>
+<area shape="rect" id="node24" href="$d7/d2c/classG4PhysicsVector.html#aaf35369666419821e80d4736a3bc8142" title="G4PhysicsVector::FillSecond\lDerivatives" alt="" coords="247,921,457,965"/>
+<area shape="rect" id="node27" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="320,989,384,1017"/>
+<area shape="rect" id="node33" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="318,1041,386,1069"/>
+<area shape="rect" id="node34" href="$d3/d1d/classG4LossTableBuilder.html#a731e90509123f9b969190d06dcc50ea9" title="G4LossTableBuilder\l::GetCoupleIndexes" alt="" coords="275,1093,429,1137"/>
+<area shape="rect" id="node35" href="$d3/d1d/classG4LossTableBuilder.html#a2db5e2c03ca693f05f620c1713a21905" title="G4LossTableBuilder\l::GetDensityFactors" alt="" coords="275,1161,429,1205"/>
+<area shape="rect" id="node36" href="$d3/d1d/classG4LossTableBuilder.html#a7e81d76d16a4510b03e227bf2a8bd351" title="G4LossTableBuilder\l::GetFlag" alt="" coords="275,1281,429,1325"/>
+<area shape="rect" id="node39" href="$d5/dda/classG4ProductionCutsTable.html#a7fdd7ef01434b05cb2de89fe27d265a6" title="G4ProductionCutsTable\l::GetMaterialCutsCouple" alt="" coords="848,1157,1035,1201"/>
+<area shape="rect" id="node41" href="$d5/dda/classG4ProductionCutsTable.html#ae16e900827b6e8c4d97d157f605e5ba3" title="G4ProductionCutsTable\l::GetProductionCutsTable" alt="" coords="846,1345,1037,1389"/>
+<area shape="rect" id="node42" href="$d5/dda/classG4ProductionCutsTable.html#a7b0040d3ae75f54e2df3ef0e8dc81cc0" title="G4ProductionCutsTable\l::GetTableSize" alt="" coords="853,1413,1030,1457"/>
+<area shape="rect" id="node43" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="240,1452,464,1480"/>
+<area shape="rect" id="node44" href="$d9/d78/classG4LossTableManager.html#a50e0a595d4bb72d3c0f39b3d441b84b0" title="G4LossTableManager\l::GetTableBuilder" alt="" coords="269,1504,435,1548"/>
+<area shape="rect" id="node45" href="$da/d80/classG4VEnergyLossProcess.html#a596c69a6332d6801b8093c5241459b78" title="G4VEnergyLossProcess\l::MinPrimaryEnergy" alt="" coords="263,1572,441,1616"/>
+<area shape="rect" id="node46" href="$dc/d97/classG4PhysicsTableHelper.html#a0302c170d4a968e95de39145bee68f3e" title="G4PhysicsTableHelper\l::SetPhysicsVector" alt="" coords="267,1640,437,1684"/>
+<area shape="rect" id="node49" href="$d7/d2c/classG4PhysicsVector.html#aba40887d022724e54654532e8bfef1cc" title="G4PhysicsVector::SetSpline" alt="" coords="249,1708,455,1736"/>
+<area shape="rect" id="node50" href="$dc/d54/classG4EmParameters.html#a8f4026ba0168a2a14986f3c299b8883f" title="G4EmParameters::Spline" alt="" coords="257,1760,447,1788"/>
+<area shape="rect" id="node3" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="1163,5,1317,49"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#aa5195d8e5275f48279af12f61077f3f8" title="G4VEmModel::CrossSection" alt="" coords="543,321,751,349"/>
+<area shape="rect" id="node13" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1154,417,1326,461"/>
+<area shape="rect" id="node15" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="553,476,742,504"/>
+<area shape="rect" id="node16" href="$d7/d2c/classG4PhysicsVector.html#a6be57e12523d0f72b42ed368c11ef96f" title="G4PhysicsVector::GetMaxEnergy" alt="" coords="527,528,768,556"/>
+<area shape="rect" id="node17" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="563,580,731,608"/>
+<area shape="rect" id="node19" href="$d7/d2c/classG4PhysicsVector.html#a2f8f9e7e7d2d6ca8b5f8daae9380afca" title="G4PhysicsVector::GetVector\lLength" alt="" coords="543,632,752,676"/>
+<area shape="rect" id="node20" href="$db/d1d/classG4RegionModels.html#a613228ff9832624b3432b6536073dd69" title="G4RegionModels::LowEdgeEnergy" alt="" coords="521,700,773,728"/>
+<area shape="rect" id="node21" href="$db/d1d/classG4RegionModels.html#ac603834506e46afa8200bc76c09d6cda" title="G4RegionModels::ModelIndex" alt="" coords="537,63,758,91"/>
+<area shape="rect" id="node22" href="$db/d1d/classG4RegionModels.html#ad3616fd8e28be88cba5ecddbb4f776fb" title="G4RegionModels::NumberOf\lModels" alt="" coords="540,115,755,159"/>
+<area shape="rect" id="node23" href="$d7/d2c/classG4PhysicsVector.html#ad923df7c7b31dc411b6ade3a3c739988" title="G4PhysicsVector::PutValue" alt="" coords="547,183,748,211"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="837,253,1045,297"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#a51adf718819d0e4194e5b003f6b7f0c4" title="G4VEmModel::SetCurrentCouple" alt="" coords="821,321,1061,349"/>
+<area shape="rect" id="node6" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="1130,193,1350,237"/>
+<area shape="rect" id="node7" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="1147,261,1333,289"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="1109,313,1371,341"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="1125,73,1355,117"/>
+<area shape="rect" id="node10" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="1122,141,1358,169"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#add94cd657fc6a5839c3cff95955f04a9" title="G4Material::GetBaseMaterial" alt="" coords="1132,365,1348,393"/>
+<area shape="rect" id="node25" href="$d7/d2c/classG4PhysicsVector.html#aadd5f909cf32df812808fe6b381a47dc" title="G4PhysicsVector::Compute\lSecDerivatives" alt="" coords="546,872,749,916"/>
+<area shape="rect" id="node26" href="$d7/d2c/classG4PhysicsVector.html#a73a675619c3e2606ace9a9f1252c9393" title="G4PhysicsVector::SplinePossible" alt="" coords="822,911,1061,939"/>
+<area shape="rect" id="node28" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="551,992,743,1020"/>
+<area shape="rect" id="node29" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="551,1044,743,1072"/>
+<area shape="rect" id="node30" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="527,1096,767,1124"/>
+<area shape="rect" id="node31" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="847,1045,1035,1073"/>
+<area shape="rect" id="node32" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="847,1097,1035,1125"/>
+<area shape="rect" id="node37" href="$d3/d1d/classG4LossTableBuilder.html#a6c0de8bf8056594817840aae9abb9d05" title="G4LossTableBuilder\l::InitialiseBaseMaterials" alt="" coords="557,1281,738,1325"/>
+<area shape="rect" id="node38" href="$dd/d15/classG4PhysicsTable.html#ac51cfd096f887aa6466b8337a7413110" title="G4PhysicsTable::GetFlag" alt="" coords="848,1225,1035,1253"/>
+<area shape="rect" id="node40" href="$d9/dc9/classG4MaterialCutsCouple.html#a87cf0bfb24794bbae9cfb2db101c20d8" title="G4MaterialCutsCouple\l::GetProductionCuts" alt="" coords="855,1277,1027,1321"/>
+<area shape="rect" id="node47" href="$dd/d15/classG4PhysicsTable.html#ac0b2e148091bc3f4f99fac136d5c5f97" title="G4PhysicsTable::ClearFlag" alt="" coords="549,1675,746,1703"/>
+<area shape="rect" id="node48" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="594,1623,701,1651"/>
+</map>

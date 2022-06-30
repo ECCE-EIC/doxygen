@@ -1,0 +1,37 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/electromagnetic/utils/src/G4EmParametersMessenger.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/electromagnetic/utils/src/G4EmParametersMessenger.cc">
+<area shape="rect" id="node2" href="$d4/def/G4EmParametersMessenger_8hh.html" title="G4EmParametersMessenger.hh" alt="" coords="245,129,477,157"/>
+<area shape="rect" id="node20" href="$d1/d47/G4UIdirectory_8hh.html" title="G4UIdirectory.hh" alt="" coords="519,281,652,309"/>
+<area shape="rect" id="node21" href="$da/d5c/G4UIcommand_8hh.html" title="G4UIcommand.hh" alt="" coords="582,357,725,385"/>
+<area shape="rect" id="node22" href="$dd/d3f/G4UIparameter_8hh.html" title="G4UIparameter.hh" alt="" coords="581,433,726,461"/>
+<area shape="rect" id="node28" href="$d4/d28/G4UIcmdWithABool_8hh.html" title="G4UIcmdWithABool.hh" alt="" coords="470,205,645,233"/>
+<area shape="rect" id="node29" href="$db/d96/G4UIcmdWithAnInteger_8hh.html" title="G4UIcmdWithAnInteger.hh" alt="" coords="669,205,869,233"/>
+<area shape="rect" id="node30" href="$d5/db1/G4UIcmdWithADouble_8hh.html" title="G4UIcmdWithADouble.hh" alt="" coords="893,205,1085,233"/>
+<area shape="rect" id="node31" href="$d9/d90/G4UIcmdWithADoubleAndUnit_8hh.html" title="G4UIcmdWithADoubleAndUnit.hh" alt="" coords="730,129,977,157"/>
+<area shape="rect" id="node32" href="$d9/dcf/G4UIcmdWithAString_8hh.html" title="G4UIcmdWithAString.hh" alt="" coords="1001,129,1186,157"/>
+<area shape="rect" id="node33" href="$d3/dea/G4UIcmdWith3VectorAndUnit_8hh.html" title="G4UIcmdWith3VectorAndUnit.hh" alt="" coords="1099,281,1341,309"/>
+<area shape="rect" id="node34" href="$d6/de9/G4UImanager_8hh.html" title="G4UImanager.hh" alt="" coords="94,509,229,537"/>
+<area shape="rect" id="node39" href="$d6/dec/G4MscStepLimitType_8hh.html" title="G4MscStepLimitType.hh" alt="" coords="801,357,983,385"/>
+<area shape="rect" id="node40" href="$d1/dd0/G4NuclearFormfactorType_8hh.html" title="G4NuclearFormfactorType.hh" alt="" coords="1007,357,1225,385"/>
+<area shape="rect" id="node41" href="$d4/d30/G4EmParameters_8hh.html" title="G4EmParameters.hh" alt="" coords="1467,281,1627,309"/>
+<area shape="rect" id="node3" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="856,585,947,613"/>
+<area shape="rect" id="node19" href="$dc/d09/G4UImessenger_8hh.html" title="G4UImessenger.hh" alt="" coords="245,205,395,233"/>
+<area shape="rect" id="node4" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="1150,813,1231,841"/>
+<area shape="rect" id="node5" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="927,889,1027,917"/>
+<area shape="rect" id="node11" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="772,813,873,841"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="678,661,789,689"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="761,737,889,765"/>
+<area shape="rect" id="node16" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="813,661,990,689"/>
+<area shape="rect" id="node8" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="855,965,913,993"/>
+<area shape="rect" id="node23" href="$d7/deb/G4UItokenNum_8hh.html" title="G4UItokenNum.hh" alt="" coords="691,509,837,537"/>
+<area shape="rect" id="node24" href="$d8/d65/G4ApplicationState_8hh.html" title="G4ApplicationState.hh" alt="" coords="163,661,336,689"/>
+<area shape="rect" id="node26" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="1016,509,1157,537"/>
+<area shape="rect" id="node27" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="1629,737,1838,765"/>
+<area shape="rect" id="node36" href="$d5/d97/icomsdefs_8hh.html" title="icomsdefs.hh" alt="" coords="581,813,691,841"/>
+<area shape="rect" id="node37" href="$d5/db9/G4VStateDependent_8hh.html" title="G4VStateDependent.hh" alt="" coords="401,585,583,613"/>
+<area shape="rect" id="node38" href="$da/da0/G4UIcommandStatus_8hh.html" title="G4UIcommandStatus.hh" alt="" coords="94,585,279,613"/>
+<area shape="rect" id="node42" href="$df/dee/G4DNAModelSubType_8hh.html" title="G4DNAModelSubType.hh" alt="" coords="1402,357,1590,385"/>
+<area shape="rect" id="node43" href="$db/d10/G4EmSaturation_8hh.html" title="G4EmSaturation.hh" alt="" coords="1614,357,1767,385"/>
+<area shape="rect" id="node46" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1776,509,1907,537"/>
+<area shape="rect" id="node44" href="$dd/d3e/G4Step_8hh.html" title="G4Step.hh" alt="" coords="1234,433,1326,461"/>
+<area shape="rect" id="node45" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1386,509,1563,537"/>
+</map>

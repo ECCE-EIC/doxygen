@@ -1,0 +1,17 @@
+<map id="F03FieldSetup::SetFieldValue" name="F03FieldSetup::SetFieldValue">
+<area shape="rect" id="node2" href="$d9/d21/classF03FieldSetup.html#aa33cddf28a13032f8e606df54f4373df" title="F03FieldSetup::GetGlobal\lFieldManager" alt="" coords="285,120,478,164"/>
+<area shape="rect" id="node11" href="$dc/d5a/classG4FieldManager.html#a2618b5f6ce6fc3ea47f26b5dd7c9ae37" title="G4FieldManager::SetDetector\lField" alt="" coords="271,324,492,368"/>
+<area shape="rect" id="node16" href="$d0/ddc/classG4EquationOfMotion.html#ad7637efdd6d7b24537c9e93fc01ef92d" title="G4EquationOfMotion\l::SetFieldObj" alt="" coords="573,444,735,488"/>
+<area shape="rect" id="node3" href="$d1/dd0/classG4TransportationManager.html#a92e20607e000abded9a09241f42fcbbf" title="G4TransportationManager\l::GetFieldManager" alt="" coords="555,120,753,164"/>
+<area shape="rect" id="node4" href="$d1/dd0/classG4TransportationManager.html#a411fd384eb969e98b4f60774f56f1e47" title="G4TransportationManager\l::GetTransportationManager" alt="" coords="548,52,760,96"/>
+<area shape="rect" id="node5" href="$d1/dd0/classG4TransportationManager.html#a02de759c75d40127b74ec9ffc9864549" title="G4TransportationManager\l::G4TransportationManager" alt="" coords="816,87,1023,131"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1131,279,1238,307"/>
+<area shape="rect" id="node7" href="$d9/d53/classG4Navigator.html#adc1a5429cee638bf04f6cf82cfe5aef5" title="G4Navigator::GetExternal\lNavigation" alt="" coords="1087,57,1282,101"/>
+<area shape="rect" id="node8" href="$d9/d53/classG4Navigator.html#a929e99a7169bfb803dfcf879ce9fe27b" title="G4Navigator::Clone" alt="" coords="1108,125,1261,153"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a3eadef8abad101e32706de7ab1334325" title="G4Navigator::Activate" alt="" coords="1099,177,1270,205"/>
+<area shape="rect" id="node10" href="$d9/d53/classG4Navigator.html#a0bcb93bfc62e7761384bf3507ad7c592" title="G4Navigator::GetWorldVolume" alt="" coords="1071,5,1299,33"/>
+<area shape="rect" id="node12" href="$dc/d5a/classG4FieldManager.html#a7cd3183ab17d53d66451d161de31c307" title="G4FieldManager::Initialise\lFieldChangesEnergy" alt="" coords="556,188,752,232"/>
+<area shape="rect" id="node14" href="$df/d7d/classG4ChordFinder.html#a2fb6f49587f866c5302e3f775a0a14e2" title="G4ChordFinder::GetIntegration\lDriver" alt="" coords="540,256,768,300"/>
+<area shape="rect" id="node15" href="$d3/d58/classG4VIntegrationDriver.html#a54996858fdf230737b26930b64209281" title="G4VIntegrationDriver\l::GetEquationOfMotion" alt="" coords="567,324,741,368"/>
+<area shape="rect" id="node13" href="$d6/d64/classG4Field.html#aa1dad6fb04242543c33c02386469f9ba" title="G4Field::DoesFieldChange\lEnergy" alt="" coords="821,188,1018,232"/>
+</map>

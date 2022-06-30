@@ -1,0 +1,49 @@
+<map id="G4ITTransportation" name="G4ITTransportation">
+<area shape="rect" id="node2" href="$d9/d54/classG4VITProcess.html" title="G4VITProcess" alt="" coords="1315,663,1429,691"/>
+<area shape="rect" id="node3" href="$d2/d84/classG4VProcess.html" title="G4VProcess" alt="" coords="1348,439,1449,467"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html" title="G4Track" alt="" coords="1422,583,1498,611"/>
+<area shape="rect" id="node4" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="1209,263,1361,291"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="841,97,973,125"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="643,439,738,467"/>
+<area shape="rect" id="node6" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="891,5,971,33"/>
+<area shape="rect" id="node19" href="$df/dbc/classG4VSensitiveDetector.html" title="G4VSensitiveDetector" alt="" coords="317,733,488,761"/>
+<area shape="rect" id="node20" href="$d5/d2d/classG4VSDFilter.html" title="G4VSDFilter" alt="" coords="279,159,382,187"/>
+<area shape="rect" id="node21" href="$d5/d11/classG4VReadOutGeometry.html" title="G4VReadOutGeometry" alt="" coords="2732,583,2908,611"/>
+<area shape="rect" id="node24" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="4429,97,4584,125"/>
+<area shape="rect" id="node7" href="$d6/d6c/classG4VParticleChange.html" title="G4VParticleChange" alt="" coords="1645,263,1795,291"/>
+<area shape="rect" id="node8" href="$d2/d06/classG4ParticleChange.html" title="G4ParticleChange" alt="" coords="1644,733,1785,761"/>
+<area shape="rect" id="node18" href="$d6/d31/classG4ParticleChangeForTransport.html" title="G4ParticleChangeForTransport" alt="" coords="1051,825,1277,853"/>
+<area shape="rect" id="node11" href="$d2/d52/classG4SandiaTable.html" title="G4SandiaTable" alt="" coords="961,583,1084,611"/>
+<area shape="rect" id="node14" href="$d6/d69/classG4IonisParamMat.html" title="G4IonisParamMat" alt="" coords="574,583,714,611"/>
+<area shape="rect" id="node35" href="$d9/dc9/classG4MaterialCutsCouple.html" title="G4MaterialCutsCouple" alt="" coords="43,583,215,611"/>
+<area shape="rect" id="node13" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="505,263,703,291"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="2325,97,2478,125"/>
+<area shape="rect" id="node22" href="$d2/dc3/classG4TouchableHistory.html" title="G4TouchableHistory" alt="" coords="2709,439,2867,467"/>
+<area shape="rect" id="node25" href="$d9/d53/classG4Navigator.html" title="G4Navigator" alt="" coords="3412,439,3519,467"/>
+<area shape="rect" id="node33" href="$d7/d98/structG4Navigator_1_1G4SaveNavigatorState.html" title="G4Navigator::G4SaveNavigator\lState" alt="" coords="3327,255,3561,299"/>
+<area shape="rect" id="node41" href="$dd/dfc/classG4PathFinder.html" title="G4PathFinder" alt="" coords="3056,1017,3168,1045"/>
+<area shape="rect" id="node46" href="$dd/d94/classG4PropagatorInField.html" title="G4PropagatorInField" alt="" coords="2668,733,2825,761"/>
+<area shape="rect" id="node49" href="$d5/d40/classG4FieldTrack.html" title="G4FieldTrack" alt="" coords="2357,583,2465,611"/>
+<area shape="rect" id="node50" href="$dc/d0d/classG4MultiNavigator.html" title="G4MultiNavigator" alt="" coords="3573,917,3713,945"/>
+<area shape="rect" id="node16" href="$d4/d7f/classG4ReferenceCountedHandle.html" title="G4ReferenceCountedHandle\l\&lt; G4VTouchable \&gt;" alt="" coords="1057,431,1271,475"/>
+<area shape="rect" id="node17" href="$d8/ded/classG4CountedObject.html" title="G4CountedObject\&lt; G4VTouchable \&gt;" alt="" coords="917,263,1185,291"/>
+<area shape="rect" id="node47" href="$d1/d32/classG4VIntersectionLocator.html" title="G4VIntersectionLocator" alt="" coords="2937,583,3117,611"/>
+<area shape="rect" id="node23" href="$d4/d3b/classG4NavigationHistory.html" title="G4NavigationHistory" alt="" coords="2603,263,2765,291"/>
+<area shape="rect" id="node42" href="$d1/dd0/classG4TransportationManager.html" title="G4TransportationManager" alt="" coords="3277,825,3475,853"/>
+<area shape="rect" id="node26" href="$d7/d8b/classG4ReplicaNavigation.html" title="G4ReplicaNavigation" alt="" coords="3788,263,3951,291"/>
+<area shape="rect" id="node27" href="$dd/dff/classG4ParameterisedNavigation.html" title="G4ParameterisedNavigation" alt="" coords="4145,263,4356,291"/>
+<area shape="rect" id="node28" href="$d6/da7/classG4VoxelNavigation.html" title="G4VoxelNavigation" alt="" coords="4032,97,4181,125"/>
+<area shape="rect" id="node29" href="$db/de4/classG4VoxelSafety.html" title="G4VoxelSafety" alt="" coords="3968,5,4088,33"/>
+<area shape="rect" id="node30" href="$d7/d97/classG4RegularNavigation.html" title="G4RegularNavigation" alt="" coords="3137,263,3303,291"/>
+<area shape="rect" id="node31" href="$d5/d14/classG4NormalNavigation.html" title="G4NormalNavigation" alt="" coords="2997,97,3158,125"/>
+<area shape="rect" id="node32" href="$d4/d78/classG4VExternalNavigation.html" title="G4VExternalNavigation" alt="" coords="3585,263,3764,291"/>
+<area shape="rect" id="node34" href="$df/d6f/classG4CollectionNameVector.html" title="G4CollectionNameVector" alt="" coords="307,583,498,611"/>
+<area shape="rect" id="node36" href="$d4/d1f/classG4ProductionCuts.html" title="G4ProductionCuts" alt="" coords="43,439,186,467"/>
+<area shape="rect" id="node48" href="$d8/de2/classG4VCurvedTrajectoryFilter.html" title="G4VCurvedTrajectoryFilter" alt="" coords="2134,583,2333,611"/>
+<area shape="rect" id="node38" href="$db/d01/classG4ITSafetyHelper.html" title="G4ITSafetyHelper" alt="" coords="3041,1117,3183,1145"/>
+<area shape="rect" id="node39" href="$d4/d3c/classG4TrackStateDependent.html" title="G4TrackStateDependent\l\&lt; G4ITSafetyHelper \&gt;" alt="" coords="4341,1009,4528,1053"/>
+<area shape="rect" id="node40" href="$df/d99/classG4VTrackStateDependent.html" title="G4VTrackStateDependent" alt="" coords="4750,917,4946,945"/>
+<area shape="rect" id="node43" href="$dc/d5a/classG4FieldManager.html" title="G4FieldManager" alt="" coords="3285,583,3417,611"/>
+<area shape="rect" id="node44" href="$df/d7d/classG4ChordFinder.html" title="G4ChordFinder" alt="" coords="3068,439,3191,467"/>
+<area shape="rect" id="node45" href="$d6/d64/classG4Field.html" title="G4Field" alt="" coords="3593,439,3665,467"/>
+</map>

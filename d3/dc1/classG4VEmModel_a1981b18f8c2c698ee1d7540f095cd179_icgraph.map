@@ -1,0 +1,13 @@
+<map id="G4VEmModel::GetModelOfFluctuations" name="G4VEmModel::GetModelOfFluctuations">
+<area shape="rect" id="node2" href="$df/d03/classG4ContinuousGainOfEnergy.html#a8274612225f225916d412c7b2b903f98" title="G4ContinuousGainOfEnergy\l::AlongStepDoIt" alt="" coords="357,5,568,49"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="374,73,551,117"/>
+<area shape="rect" id="node4" href="$d0/dd3/classG4AtimaEnergyLossModel.html#a0676eda16232834f93d36a6f9aa45106" title="G4AtimaEnergyLossModel\l::CorrectionsAlongStep" alt="" coords="364,141,561,185"/>
+<area shape="rect" id="node5" href="$d6/d8c/classG4LindhardSorensenIonModel.html#a45735aa5f2e7162a35ae535d173da1e0" title="G4LindhardSorensenIonModel\l::CorrectionsAlongStep" alt="" coords="351,209,575,253"/>
+<area shape="rect" id="node6" href="$d7/df6/classG4BetheBlochModel.html#a31edac150f72cbd4bee5e1c8cf63fc85" title="G4BetheBlochModel::\lCorrectionsAlongStep" alt="" coords="379,277,547,321"/>
+<area shape="rect" id="node7" href="$d1/d4d/classG4BraggIonModel.html#a42722e83162308e89301c676cb4c91bb" title="G4BraggIonModel::Corrections\lAlongStep" alt="" coords="349,345,577,389"/>
+<area shape="rect" id="node8" href="$de/d12/classG4IonParametrisedLossModel.html#ad891de14d1de573be9f4e9c41eed4c12" title="G4IonParametrisedLossModel\l::CorrectionsAlongStep" alt="" coords="353,413,573,457"/>
+<area shape="rect" id="node9" href="$d4/d77/classG4BraggModel.html#a8eb9982024775c9d8ef6a8f71780784a" title="G4BraggModel::GetChargeSquare\lRatio" alt="" coords="337,481,588,525"/>
+<area shape="rect" id="node10" href="$da/d80/classG4VEnergyLossProcess.html#adb3702324f75c9d33458e3abc8d3b995" title="G4VEnergyLossProcess\l::GetDEDXDispersion" alt="" coords="374,549,551,593"/>
+<area shape="rect" id="node12" href="$dd/dd2/classG4EmMultiModel.html#a87ca92f146a4e0c064eeb085485ff486" title="G4EmMultiModel::Initialise" alt="" coords="362,617,563,645"/>
+<area shape="rect" id="node11" href="$d9/d78/classG4LossTableManager.html#adddfdcfcdbb8783f1b133e72d6872bfe" title="G4LossTableManager\l::GetDEDXDispersion" alt="" coords="636,549,801,593"/>
+</map>

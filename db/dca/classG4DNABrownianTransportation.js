@@ -1,0 +1,28 @@
+var classG4DNABrownianTransportation =
+[
+    [ "G4ITBrownianState", "da/d2e/structG4DNABrownianTransportation_1_1G4ITBrownianState.html", "da/d2e/structG4DNABrownianTransportation_1_1G4ITBrownianState" ],
+    [ "G4DNABrownianTransportation", "db/dca/classG4DNABrownianTransportation.html#a55af2fb618e89a5fd7e48b0ca116af5e", null ],
+    [ "~G4DNABrownianTransportation", "db/dca/classG4DNABrownianTransportation.html#adcffd1fb505161c83f2d98d047b604ac", null ],
+    [ "G4DNABrownianTransportation", "db/dca/classG4DNABrownianTransportation.html#a877505a354e96d21af1ebc9be7a1ee7d", null ],
+    [ "AlongStepDoIt", "db/dca/classG4DNABrownianTransportation.html#a19f09181e66367c59a8f0291b0a43bc8", null ],
+    [ "AlongStepGetPhysicalInteractionLength", "db/dca/classG4DNABrownianTransportation.html#aa53408a5f576d0577dea100a2d42041d", null ],
+    [ "BuildPhysicsTable", "db/dca/classG4DNABrownianTransportation.html#aed84bacab894568170dfb5120201669d", null ],
+    [ "ComputeGeomLimit", "db/dca/classG4DNABrownianTransportation.html#a9224092743c863efb641eadc1c2cd7cd", null ],
+    [ "ComputeStep", "db/dca/classG4DNABrownianTransportation.html#a720ab1aeb7278a2a9984649099765c1c", null ],
+    [ "Diffusion", "db/dca/classG4DNABrownianTransportation.html#a309d8e0d7e495acfe2457975b2f40253", null ],
+    [ "operator=", "db/dca/classG4DNABrownianTransportation.html#a2540414365336efcd34aacf955ecd5d5", null ],
+    [ "PostStepDoIt", "db/dca/classG4DNABrownianTransportation.html#abd6d18e7b7f483e4659e6b46bd67003f", null ],
+    [ "SetBrownianAction", "db/dca/classG4DNABrownianTransportation.html#aa83736206b749b9bda02e470bb9771fa", null ],
+    [ "SpeedLevel", "db/dca/classG4DNABrownianTransportation.html#acdfe33175589fc971d38a69b78d609d1", null ],
+    [ "StartTracking", "db/dca/classG4DNABrownianTransportation.html#aa251715485bfa1c296f0a9d171691507", null ],
+    [ "UseCumulativeDensitFunction", "db/dca/classG4DNABrownianTransportation.html#a9977472d7ae1fce1c10096cdde00159e", null ],
+    [ "UseLimitingTimeSteps", "db/dca/classG4DNABrownianTransportation.html#abf4452f6e1616125dcf6e2daa5174976", null ],
+    [ "UseMaximumTimeBeforeReachingBoundary", "db/dca/classG4DNABrownianTransportation.html#a76047cbb8db47e631de7fd47b2ed65d8", null ],
+    [ "fInternalMinTimeStep", "db/dca/classG4DNABrownianTransportation.html#abfc19ef9414336554063cdeb0f345c7d", null ],
+    [ "fNistWater", "db/dca/classG4DNABrownianTransportation.html#ac51c700415afe8ede054c80751228dcb", null ],
+    [ "fpBrownianAction", "db/dca/classG4DNABrownianTransportation.html#a1bdb5ff6a01aceaac2f4e780a08a98cf", null ],
+    [ "fpWaterDensity", "db/dca/classG4DNABrownianTransportation.html#a6c63bd369bb2b5b168c4934bc705cef8", null ],
+    [ "fSpeedMeUp", "db/dca/classG4DNABrownianTransportation.html#a428aeca0d640f9520c659350dbd32f80", null ],
+    [ "fUseMaximumTimeBeforeReachingBoundary", "db/dca/classG4DNABrownianTransportation.html#ac0916c20f0329d29f7d8264106575948", null ],
+    [ "fUseSchedulerMinTimeSteps", "db/dca/classG4DNABrownianTransportation.html#a44e96ca1299af7e1f39ed863995860b8", null ]
+];

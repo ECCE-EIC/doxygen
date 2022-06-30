@@ -1,0 +1,35 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/parton_string/hadronization/include/G4ExcitedStringDecay.hh" name="geant4/tree/geant4&#45;10.6&#45;release/source/processes/hadronic/models/parton_string/hadronization/include/G4ExcitedStringDecay.hh">
+<area shape="rect" id="node2" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="764,829,855,857"/>
+<area shape="rect" id="node27" href="$d2/dab/G4VStringFragmentation_8hh.html" title="G4VStringFragmentation.hh" alt="" coords="1391,297,1601,325"/>
+<area shape="rect" id="node28" href="$dc/d1b/G4ExcitedStringVector_8hh.html" title="G4ExcitedStringVector.hh" alt="" coords="1542,373,1735,401"/>
+<area shape="rect" id="node46" href="$d8/dc2/G4KineticTrackVector_8hh.html" title="G4KineticTrackVector.hh" alt="" coords="1053,449,1237,477"/>
+<area shape="rect" id="node47" href="$dd/d0d/G4LundStringFragmentation_8hh.html" title="G4LundStringFragmentation.hh" alt="" coords="1046,145,1279,173"/>
+<area shape="rect" id="node3" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="934,1057,1015,1085"/>
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="757,1133,857,1161"/>
+<area shape="rect" id="node10" href="$d2/df2/source_2global_2management_2include_2G4String_8hh.html" title="G4String.hh" alt="" coords="524,1057,625,1085"/>
+<area shape="rect" id="node15" href="$d2/d54/templates_8hh.html" title="templates.hh" alt="" coords="370,905,481,933"/>
+<area shape="rect" id="node18" href="$d5/d4f/G4Exception_8hh.html" title="G4Exception.hh" alt="" coords="1193,981,1321,1009"/>
+<area shape="rect" id="node21" href="$dc/d3a/G4EnvironmentUtils_8hh.html" title="G4EnvironmentUtils.hh" alt="" coords="859,905,1037,933"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="684,1209,743,1237"/>
+<area shape="rect" id="node19" href="$d9/d05/G4VExceptionHandler_8hh.html" title="G4VExceptionHandler.hh" alt="" coords="1132,1057,1321,1085"/>
+<area shape="rect" id="node20" href="$d6/d7e/G4ExceptionSeverity_8hh.html" title="G4ExceptionSeverity.hh" alt="" coords="1176,1133,1357,1161"/>
+<area shape="rect" id="node29" href="$d3/d59/G4ExcitedString_8hh.html" title="G4ExcitedString.hh" alt="" coords="1563,449,1715,477"/>
+<area shape="rect" id="node30" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="1119,753,1260,781"/>
+<area shape="rect" id="node32" href="$d7/dd0/G4LorentzVector_8hh.html" title="G4LorentzVector.hh" alt="" coords="847,753,1001,781"/>
+<area shape="rect" id="node33" href="$de/d2e/G4LorentzRotation_8hh.html" title="G4LorentzRotation.hh" alt="" coords="1479,601,1647,629"/>
+<area shape="rect" id="node34" href="$dc/dc1/G4Parton_8hh.html" title="G4Parton.hh" alt="" coords="1722,677,1827,705"/>
+<area shape="rect" id="node36" href="$db/dee/G4PartonVector_8hh.html" title="G4PartonVector.hh" alt="" coords="1823,601,1969,629"/>
+<area shape="rect" id="node38" href="$d0/d4f/G4KineticTrack_8hh.html" title="G4KineticTrack.hh" alt="" coords="898,525,1041,553"/>
+<area shape="rect" id="node45" href="$d8/d79/G4HadronicException_8hh.html" title="G4HadronicException.hh" alt="" coords="1362,525,1550,553"/>
+<area shape="rect" id="node31" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="1447,905,1657,933"/>
+<area shape="rect" id="node35" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="1535,753,1652,781"/>
+<area shape="rect" id="node39" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="196,829,439,857"/>
+<area shape="rect" id="node40" href="$d7/de7/G4VKineticNucleon_8hh.html" title="G4VKineticNucleon.hh" alt="" coords="925,677,1097,705"/>
+<area shape="rect" id="node41" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="543,753,721,781"/>
+<area shape="rect" id="node42" href="$d8/dfd/G4Nucleon_8hh.html" title="G4Nucleon.hh" alt="" coords="874,601,990,629"/>
+<area shape="rect" id="node43" href="$de/d32/G4VDecayChannel_8hh.html" title="G4VDecayChannel.hh" alt="" coords="1325,677,1494,705"/>
+<area shape="rect" id="node44" href="$db/dfe/G4Log_8hh.html" title="G4Log.hh" alt="" coords="36,829,121,857"/>
+<area shape="rect" id="node48" href="$dc/df1/G4VLongitudinalStringDecay_8hh.html" title="G4VLongitudinalStringDecay.hh" alt="" coords="1028,221,1263,249"/>
+<area shape="rect" id="node49" href="$d3/dab/G4DynamicParticle_8hh.html" title="G4DynamicParticle.hh" alt="" coords="143,677,313,705"/>
+<area shape="rect" id="node50" href="$d3/d0d/G4HadronBuilder_8hh.html" title="G4HadronBuilder.hh" alt="" coords="489,677,647,705"/>
+</map>

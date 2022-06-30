@@ -1,0 +1,28 @@
+<map id="G4RPGReaction::Rotate" name="G4RPGReaction::Rotate">
+<area shape="rect" id="node2" href="$d2/d33/classG4RPGTwoCluster.html#a47037d3b11a2e22be49c84a906ac630d" title="G4RPGTwoCluster::Reaction\lStage" alt="" coords="233,720,441,764"/>
+<area shape="rect" id="node3" href="$d1/dd5/classG4RPGInelastic.html#a7d138daa28d129df9e5d27863bbc6b4c" title="G4RPGInelastic::Calculate\lMomenta" alt="" coords="489,720,685,764"/>
+<area shape="rect" id="node4" href="$dd/df6/classG4RPGPiMinusInelastic.html#a4bf9ed510631d0770b1837fbe3593c42" title="G4RPGPiMinusInelastic\l::ApplyYourself" alt="" coords="765,5,941,49"/>
+<area shape="rect" id="node5" href="$d6/d77/classG4RPGPiPlusInelastic.html#a1744c35271ab7fba50eb0680b2a0510f" title="G4RPGPiPlusInelastic\l::ApplyYourself" alt="" coords="771,73,935,117"/>
+<area shape="rect" id="node6" href="$de/dc3/classG4RPGKMinusInelastic.html#aa312b1791a0c4f4b1642bf2690170dd6" title="G4RPGKMinusInelastic\l::ApplyYourself" alt="" coords="767,141,940,185"/>
+<area shape="rect" id="node7" href="$d2/d5f/classG4RPGProtonInelastic.html#a1678640647f4bd14c907ac1f88769a89" title="G4RPGProtonInelastic\l::ApplyYourself" alt="" coords="769,209,937,253"/>
+<area shape="rect" id="node8" href="$d6/df8/classG4RPGNeutronInelastic.html#adba5d23a0362b1e539dedf29211220d4" title="G4RPGNeutronInelastic\l::ApplyYourself" alt="" coords="764,277,943,321"/>
+<area shape="rect" id="node9" href="$d4/d55/classG4RPGXiMinusInelastic.html#a34d3fe5afa0ae6e404d7cb411af028a4" title="G4RPGXiMinusInelastic\l::ApplyYourself" alt="" coords="765,345,942,389"/>
+<area shape="rect" id="node10" href="$da/d6f/classG4RPGAntiLambdaInelastic.html#ac03e79b4fa34e26161f495128c271078" title="G4RPGAntiLambdaInelastic\l::ApplyYourself" alt="" coords="751,413,956,457"/>
+<area shape="rect" id="node11" href="$d5/d1a/classG4RPGAntiProtonInelastic.html#acf30044a6c153b704c5b4f7455da2f20" title="G4RPGAntiProtonInelastic\l::ApplyYourself" alt="" coords="756,481,951,525"/>
+<area shape="rect" id="node12" href="$d9/d66/classG4RPGSigmaPlusInelastic.html#adc9e450c3feb644905489f102ada7381" title="G4RPGSigmaPlusInelastic\l::ApplyYourself" alt="" coords="756,549,951,593"/>
+<area shape="rect" id="node13" href="$d3/d09/classG4RPGAntiSigmaPlusInelastic.html#a6d989a4b9cee0e743425d9917904705b" title="G4RPGAntiSigmaPlusInelastic\l::ApplyYourself" alt="" coords="743,617,964,661"/>
+<area shape="rect" id="node14" href="$d9/db6/classG4RPGOmegaMinusInelastic.html#a948f3dc9e36de246a4a9840d275f30aa" title="G4RPGOmegaMinusInelastic\l::ApplyYourself" alt="" coords="747,685,960,729"/>
+<area shape="rect" id="node15" href="$d4/d63/classG4RPGAntiOmegaMinusInelastic.html#a0130a5e1c6bc76c08a7b7244faadefdc" title="G4RPGAntiOmegaMinusInelastic\l::ApplyYourself" alt="" coords="733,753,973,797"/>
+<area shape="rect" id="node16" href="$d2/dcd/classG4RPGAntiXiMinusInelastic.html#a9a2f8c3a066398848266312d745e29bb" title="G4RPGAntiXiMinusInelastic\l::ApplyYourself" alt="" coords="751,821,955,865"/>
+<area shape="rect" id="node17" href="$db/d76/classG4RPGAntiSigmaMinusInelastic.html#a4c1b6fc20c5a3879c862bfc2c9f12e53" title="G4RPGAntiSigmaMinusInelastic\l::ApplyYourself" alt="" coords="737,889,970,933"/>
+<area shape="rect" id="node18" href="$d2/dfa/classG4RPGAntiNeutronInelastic.html#acbc2e41efe84f36db8fbb7f51f1190eb" title="G4RPGAntiNeutronInelastic\l::ApplyYourself" alt="" coords="751,957,956,1001"/>
+<area shape="rect" id="node19" href="$dc/d0e/classG4RPGKZeroInelastic.html#a38d655a9dea8c689901ecb1d071497a9" title="G4RPGKZeroInelastic\l::ApplyYourself" alt="" coords="771,1025,935,1069"/>
+<area shape="rect" id="node22" href="$df/d0e/classG4RPGLambdaInelastic.html#a4e7ddf36630e446c4fd34e6bf2cec5ae" title="G4RPGLambdaInelastic\l::ApplyYourself" alt="" coords="764,1161,943,1205"/>
+<area shape="rect" id="node23" href="$dc/dcf/classG4RPGSigmaMinusInelastic.html#ab1603f4eded7d315fe76c53ff2f1c6c7" title="G4RPGSigmaMinusInelastic\l::ApplyYourself" alt="" coords="750,1229,957,1273"/>
+<area shape="rect" id="node24" href="$d2/d05/classG4RPGKPlusInelastic.html#ab567724fee13dcf0003fa28f5f09921b" title="G4RPGKPlusInelastic\l::ApplyYourself" alt="" coords="773,1297,934,1341"/>
+<area shape="rect" id="node25" href="$dc/d23/classG4RPGAntiXiZeroInelastic.html#a415f619c26824fbcebc4883251a7c345" title="G4RPGAntiXiZeroInelastic\l::ApplyYourself" alt="" coords="756,1365,951,1409"/>
+<area shape="rect" id="node26" href="$d4/da6/classG4RPGXiZeroInelastic.html#a2357cb2a02c3ddb6ca03c8bda790ccd9" title="G4RPGXiZeroInelastic\l::ApplyYourself" alt="" coords="769,1433,937,1477"/>
+<area shape="rect" id="node27" href="$d1/d7f/classG4RPGAntiKZeroInelastic.html#a904f082af389b721281686449f6979b4" title="G4RPGAntiKZeroInelastic\l::ApplyYourself" alt="" coords="757,1093,949,1137"/>
+<area shape="rect" id="node20" href="$de/dc9/classG4RPGKShortInelastic.html#ad577c004b4511ce8a9398f9356917eaa" title="G4RPGKShortInelastic\l::ApplyYourself" alt="" coords="1021,1025,1191,1069"/>
+<area shape="rect" id="node21" href="$d7/d74/classG4RPGKLongInelastic.html#a5653d69266ed59d796bf0420ca3f27d5" title="G4RPGKLongInelastic\l::ApplyYourself" alt="" coords="1023,1093,1189,1137"/>
+</map>

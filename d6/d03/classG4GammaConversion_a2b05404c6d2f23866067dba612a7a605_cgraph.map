@@ -1,0 +1,25 @@
+<map id="G4GammaConversion::InitialiseProcess" name="G4GammaConversion::InitialiseProcess">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#a5b1b315b02dd87ebdadd447fd8dea9e4" title="G4VEmProcess::AddEmModel" alt="" coords="245,31,465,59"/>
+<area shape="rect" id="node6" href="$d0/dfb/classG4VEmProcess.html#aaad5c7689934ea4abd0edcaae783452a" title="G4VEmProcess::EmModel" alt="" coords="259,83,452,111"/>
+<area shape="rect" id="node7" href="$dc/d54/classG4EmParameters.html#a1d95771d48a26806a1bc223eec74367c" title="G4EmParameters::Instance" alt="" coords="253,135,458,163"/>
+<area shape="rect" id="node8" href="$dc/d54/classG4EmParameters.html#a67fb789cf4d122524cc8122b648c9fea" title="G4EmParameters::MaxKinEnergy" alt="" coords="834,185,1079,213"/>
+<area shape="rect" id="node9" href="$dc/d54/classG4EmParameters.html#a1caef9134899c9b2936c4c095ed029d9" title="G4EmParameters::MinKinEnergy" alt="" coords="836,237,1077,265"/>
+<area shape="rect" id="node10" href="$d0/dfb/classG4VEmProcess.html#a65ecb15476092305a4680112085c268b" title="G4VEmProcess::SetEmModel" alt="" coords="247,341,463,369"/>
+<area shape="rect" id="node11" href="$d3/dc1/classG4VEmModel.html#a163a7fa4f7997bbf129cc511c7d69e61" title="G4VEmModel::SetHighEnergy\lLimit" alt="" coords="244,393,467,437"/>
+<area shape="rect" id="node12" href="$d3/dc1/classG4VEmModel.html#a9ac4bf8ba1510237ec331d4c56f3f512" title="G4VEmModel::SetLowEnergy\lLimit" alt="" coords="247,461,464,505"/>
+<area shape="rect" id="node13" href="$d0/dfb/classG4VEmProcess.html#a4b32da06bd3f4b175f9cd4c0c0c80315" title="G4VEmProcess::SetMinKinEnergy" alt="" coords="232,289,479,317"/>
+<area shape="rect" id="node3" href="$dd/de5/classG4EmModelManager.html#a07a87cc0684d520becd4ab68472eded0" title="G4EmModelManager::AddEmModel" alt="" coords="527,5,785,33"/>
+<area shape="rect" id="node5" href="$d3/dc1/classG4VEmModel.html#a65e38f3efa7a1a83dea9e7aebaf425d1" title="G4VEmModel::SetParticleChange" alt="" coords="534,57,778,85"/>
+<area shape="rect" id="node4" href="$d3/dc1/classG4VEmModel.html#a8a0058208f810612a43b141f61242a98" title="G4VEmModel::DefineForRegion" alt="" coords="841,5,1073,33"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="622,341,690,369"/>
+<area shape="rect" id="node15" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="624,471,688,499"/>
+<area shape="rect" id="node21" href="$d0/dfb/classG4VEmProcess.html#a76f081bd1e2c3032ba8f0cacb636767a" title="G4VEmProcess::PrintWarning" alt="" coords="547,289,765,317"/>
+<area shape="rect" id="node16" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="861,445,1053,473"/>
+<area shape="rect" id="node17" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="861,497,1053,525"/>
+<area shape="rect" id="node18" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="837,549,1077,577"/>
+<area shape="rect" id="node19" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1128,523,1316,551"/>
+<area shape="rect" id="node20" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1128,575,1316,603"/>
+<area shape="rect" id="node22" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="845,289,1069,317"/>
+<area shape="rect" id="node23" href="$dc/d54/classG4EmParameters.html#a519f50aac09833a2f8c34001d4230354" title="G4EmParameters::NumberOfBins" alt="" coords="833,341,1080,369"/>
+<area shape="rect" id="node24" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="903,393,1010,421"/>
+</map>

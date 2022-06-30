@@ -1,0 +1,16 @@
+<map id="G4ElectronIonPair::MeanNumberOfIonsAlongStep" name="G4ElectronIonPair::MeanNumberOfIonsAlongStep">
+<area shape="rect" id="node2" href="$df/d47/classG4StepPoint.html#aa7f820c34092f94a7f7ce42984158f1d" title="G4StepPoint::GetMaterial" alt="" coords="301,5,493,33"/>
+<area shape="rect" id="node3" href="$d9/d7a/classG4Step.html#a504385279cbcf2ce0f1bf885b0d80ed9" title="G4Step::GetNonIonizingEnergy\lDeposit" alt="" coords="281,57,513,101"/>
+<area shape="rect" id="node4" href="$d1/d33/classG4Track.html#a86961e4e580944b946cfd88b82ac5524" title="G4Track::GetParticleDefinition" alt="" coords="285,125,509,153"/>
+<area shape="rect" id="node5" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="301,177,492,205"/>
+<area shape="rect" id="node6" href="$d9/d7a/classG4Step.html#a53221b0c07cba053384557ff03f0742e" title="G4Step::GetTotalEnergyDeposit" alt="" coords="279,229,515,257"/>
+<area shape="rect" id="node7" href="$d9/d7a/classG4Step.html#a16f0fc39fe4f0f2b5615d7de1c586451" title="G4Step::GetTrack" alt="" coords="327,281,467,309"/>
+<area shape="rect" id="node8" href="$d2/d2a/classG4ElectronIonPair.html#a545aa54a34796442058eb7bf643b929a" title="G4ElectronIonPair::\lMeanNumberOfIonsAlongStep" alt="" coords="284,333,509,377"/>
+<area shape="rect" id="node9" href="$d2/d2a/classG4ElectronIonPair.html#a7f64087d13b3f6dc401ff5a476aa0ed1" title="G4ElectronIonPair::\lFindG4MeanEnergyPerIonPair" alt="" coords="563,265,783,309"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="837,216,1031,244"/>
+<area shape="rect" id="node13" href="$d6/d69/classG4IonisParamMat.html#a2847d5eefd64f6b8a55799def08eb550" title="G4IonisParamMat::GetMean\lEnergyPerIonPair" alt="" coords="568,333,777,377"/>
+<area shape="rect" id="node14" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="595,401,750,445"/>
+<area shape="rect" id="node15" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="634,469,711,497"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="850,272,1018,300"/>
+<area shape="rect" id="node12" href="$d6/d69/classG4IonisParamMat.html#adf65831540ec2b739cbf22f1306da392" title="G4IonisParamMat::SetMean\lEnergyPerIonPair" alt="" coords="831,324,1037,368"/>
+</map>

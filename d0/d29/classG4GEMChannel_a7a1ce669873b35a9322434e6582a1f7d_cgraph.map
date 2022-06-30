@@ -1,0 +1,51 @@
+<map id="G4GEMChannel::EmittedFragment" name="G4GEMChannel::EmittedFragment">
+<area shape="rect" id="node2" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a2a6aac189de495232a7a4ef3b0945903" title="CLHEP::HepLorentzVector\l::boost" alt="" coords="326,75,521,119"/>
+<area shape="rect" id="node3" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a4bf2074d0469443c61ccac560657d114" title="CLHEP::HepLorentzVector\l::boostVector" alt="" coords="326,143,521,187"/>
+<area shape="rect" id="node6" href="$db/d84/G4RandomDirection_8hh.html#a4443665124c96cff96548814539083ea" title="G4RandomDirection" alt="" coords="345,288,502,316"/>
+<area shape="rect" id="node7" href="$df/d5d/classG4Fragment.html#ad3ee6013d2ecd4a6c7901f67c2d1ee80" title="G4Fragment::GetMomentum" alt="" coords="316,340,531,368"/>
+<area shape="rect" id="node8" href="$d0/d29/classG4GEMChannel.html#af174d974395514df573699a7462f3e58" title="G4GEMChannel::SampleKinetic\lEnergy" alt="" coords="307,392,540,436"/>
+<area shape="rect" id="node35" href="$df/d5d/classG4Fragment.html#ab6742f3c1d0d3b06f5157b386b3db591" title="G4Fragment::SetMomentum" alt="" coords="317,560,529,588"/>
+<area shape="rect" id="node39" href="$df/d5d/classG4Fragment.html#ae8df51405271cf4df85e8155797ae665" title="G4Fragment::SetZandA\l_asInt" alt="" coords="333,812,513,856"/>
+<area shape="rect" id="node4" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="609,73,809,101"/>
+<area shape="rect" id="node5" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a3f9d79afe78a2a9c3a2cb424d64335e1" title="CLHEP::HepLorentzVector\l::restMass2" alt="" coords="612,5,807,49"/>
+<area shape="rect" id="node9" href="$df/d5d/classG4Fragment.html#a955c932293c02b54b5de570150f6baab" title="G4Fragment::GetExcitation\lEnergy" alt="" coords="1179,504,1383,548"/>
+<area shape="rect" id="node10" href="$d6/de2/classG4GEMProbability.html#a0dafb93b669d17115f619b5c5404c01d" title="G4GEMProbability::CalcAlpha\lParam" alt="" coords="890,504,1107,548"/>
+<area shape="rect" id="node11" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="1230,400,1331,428"/>
+<area shape="rect" id="node12" href="$df/d5d/classG4Fragment.html#af1209ab905b48c4fac6c006cd2199c70" title="G4Fragment::GetA_asInt" alt="" coords="1187,692,1375,720"/>
+<area shape="rect" id="node17" href="$df/d5d/classG4Fragment.html#a5a707b5c62397f90a097700964f9d9a4" title="G4Fragment::GetZ_asInt" alt="" coords="1187,572,1375,600"/>
+<area shape="rect" id="node18" href="$d6/de2/classG4GEMProbability.html#a85ecc213186105c87dbb4d1f96a68f60" title="G4GEMProbability::CalcBeta\lParam" alt="" coords="605,504,814,548"/>
+<area shape="rect" id="node22" href="$d8/dd6/classG4NuclearLevelData.html#ac1224efb2df3aa8cfb5a1fc086ebd4bc" title="G4NuclearLevelData\l::GetPairingCorrection" alt="" coords="1196,765,1365,809"/>
+<area shape="rect" id="node23" href="$de/d71/classG4VLevelDensityParameter.html#a6bac3fc0f31dbbb621f37d08f7927f4b" title="G4VLevelDensityParameter\l::LevelDensityParameter" alt="" coords="606,125,813,169"/>
+<area shape="rect" id="node24" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="677,193,741,221"/>
+<area shape="rect" id="node30" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="676,245,743,273"/>
+<area shape="rect" id="node34" href="$d6/de2/classG4GEMProbability.html#a1a3b21c152846b247613f174e79d0921" title="G4GEMProbability::GetSpin" alt="" coords="607,297,811,325"/>
+<area shape="rect" id="node13" href="$d6/de2/classG4GEMProbability.html#aa87a0cf5aef57090434e121c28f36ad1" title="G4GEMProbability::CCoeficient" alt="" coords="1167,452,1395,480"/>
+<area shape="rect" id="node14" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#ab42bda1d2fdb27a0805df2018646485d" title="C" alt="" coords="1527,452,1566,480"/>
+<area shape="rect" id="node15" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#acd7c90d16eed59d534d702f94b65af4c" title="A" alt="" coords="1795,477,1834,505"/>
+<area shape="rect" id="node16" href="$d8/d78/G4DNAElectronHoleRecombination_8cc.html#a0a45f4b6e4ca7ef6fbc7b39610bbe8b6" title="B" alt="" coords="1795,425,1834,453"/>
+<area shape="rect" id="node19" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="948,452,1049,480"/>
+<area shape="rect" id="node20" href="$d6/de2/classG4GEMProbability.html#ac9b3e5f1b9590dd55f4c6ac7c9ff8453" title="G4GEMProbability::GetCoulomb\lBarrier" alt="" coords="881,624,1116,668"/>
+<area shape="rect" id="node21" href="$d1/dd8/classG4VCoulombBarrier.html#a5d4e63dc08180d5c02070cfce9fcb060" title="G4VCoulombBarrier::\lGetCoulombBarrier" alt="" coords="1199,624,1363,668"/>
+<area shape="rect" id="node25" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="903,193,1095,221"/>
+<area shape="rect" id="node26" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="903,89,1095,117"/>
+<area shape="rect" id="node27" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="879,141,1119,169"/>
+<area shape="rect" id="node28" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1187,168,1375,196"/>
+<area shape="rect" id="node29" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1187,116,1375,144"/>
+<area shape="rect" id="node31" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="916,297,1081,325"/>
+<area shape="rect" id="node33" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="904,245,1093,273"/>
+<area shape="rect" id="node32" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1187,297,1375,325"/>
+<area shape="rect" id="node36" href="$df/d5d/classG4Fragment.html#a25873240a7de93907e352f3cc733f389" title="G4Fragment::CalculateExcitation\lEnergy" alt="" coords="588,845,831,889"/>
+<area shape="rect" id="node37" href="$df/d5d/classG4Fragment.html#a13829fbb86665b4709cbd8810b9e7370" title="G4Fragment::ExcitationEnergy\lWarning" alt="" coords="885,897,1113,941"/>
+<area shape="rect" id="node38" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a08ea2b7ac45f401f3a2f403b4572c614" title="CLHEP::HepLorentzVector::mag" alt="" coords="883,845,1115,873"/>
+<area shape="rect" id="node40" href="$df/d5d/classG4Fragment.html#af4b23346911ab6425d4eb73a0d3d76ec" title="G4Fragment::CalculateGround\lStateMass" alt="" coords="596,939,823,983"/>
+<area shape="rect" id="node41" href="$d3/df1/classG4NucleiProperties.html#acfcf06bdfd3034735124c76e06dd3794" title="G4NucleiProperties\l::GetNuclearMass" alt="" coords="923,965,1074,1009"/>
+<area shape="rect" id="node42" href="$d3/df1/classG4NucleiProperties.html#a84f621a35ef0b3c6cfffba0c4b4bd79c" title="G4NucleiProperties\l::NuclearMass" alt="" coords="1205,965,1356,1009"/>
+<area shape="rect" id="node43" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="1443,999,1651,1043"/>
+<area shape="rect" id="node48" href="$d3/df1/classG4NucleiProperties.html#aee1660bc4a3c6d59e2a1af5406410422" title="G4NucleiProperties\l::AtomicMass" alt="" coords="1471,931,1622,975"/>
+<area shape="rect" id="node44" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1714,999,1915,1043"/>
+<area shape="rect" id="node45" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1982,931,2158,975"/>
+<area shape="rect" id="node46" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1982,999,2158,1043"/>
+<area shape="rect" id="node47" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1979,1067,2161,1095"/>
+<area shape="rect" id="node49" href="$da/d39/classG4NucleiPropertiesTableAME12.html#ad495a18931051e6c1ba10bfde6d31c97" title="G4NucleiPropertiesTableAME12\l::GetMassExcess" alt="" coords="1699,931,1931,975"/>
+<area shape="rect" id="node50" href="$d3/df1/classG4NucleiProperties.html#ac66a063606af1c1d4518dcd10221eb49" title="G4NucleiProperties\l::BindingEnergy" alt="" coords="1739,863,1890,907"/>
+</map>

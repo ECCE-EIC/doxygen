@@ -1,0 +1,28 @@
+<map id="G4PolarizedCompton::G4PolarizedCompton" name="G4PolarizedCompton::G4PolarizedCompton">
+<area shape="rect" id="node2" href="$d3/d96/classG4Electron.html#aa534787c0a086717df495696b5f30c05" title="G4Electron::Electron" alt="" coords="283,367,443,395"/>
+<area shape="rect" id="node17" href="$d0/dfb/classG4VEmProcess.html#a3b68af1df66da707cf85c85408a4c8ef" title="G4VEmProcess::SetBuildTableFlag" alt="" coords="238,552,489,580"/>
+<area shape="rect" id="node18" href="$d0/dfb/classG4VEmProcess.html#ad9ed51e0c2f3df9d382e06b0dca60fb8" title="G4VEmProcess::SetMinKinEnergyPrim" alt="" coords="225,500,501,528"/>
+<area shape="rect" id="node24" href="$d2/d84/classG4VProcess.html#a9602614111341ee644e4d1452e2b3792" title="G4VProcess::SetProcessSubType" alt="" coords="243,604,483,632"/>
+<area shape="rect" id="node25" href="$d0/dfb/classG4VEmProcess.html#a79436684680b15cd48c55d771350fce8" title="G4VEmProcess::SetSecondary\lParticle" alt="" coords="251,656,476,700"/>
+<area shape="rect" id="node26" href="$d0/dfb/classG4VEmProcess.html#a7d5fc94304cdb716a81a1c3daf4eeb55" title="G4VEmProcess::SetSplineFlag" alt="" coords="251,724,475,752"/>
+<area shape="rect" id="node27" href="$d0/dfb/classG4VEmProcess.html#ab76dfb21bbb14f9ada126a7581d6398f" title="G4VEmProcess::SetStartFrom\lNullFlag" alt="" coords="254,776,473,820"/>
+<area shape="rect" id="node3" href="$d3/d96/classG4Electron.html#a8049e25e1f0f62875af55aa80c4f069d" title="G4Electron::Definition" alt="" coords="573,329,743,357"/>
+<area shape="rect" id="node4" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="832,269,1044,297"/>
+<area shape="rect" id="node9" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="1149,404,1313,448"/>
+<area shape="rect" id="node10" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="834,167,1042,211"/>
+<area shape="rect" id="node16" href="$d5/d38/classG4ParticleDefinition.html#a45d19537b85dd40b3527949cf75155f5" title="G4ParticleDefinition\l::SetPDGMagneticMoment" alt="" coords="839,321,1037,365"/>
+<area shape="rect" id="node5" href="$d8/dd3/classG4ParticleTable.html#a5dcd173398768b18c5ba132bbd8f427b" title="G4ParticleTable::CheckReadiness" alt="" coords="1109,352,1353,380"/>
+<area shape="rect" id="node7" href="$d8/dd3/classG4ParticleTable.html#ad3150940809a36b87123558264d30108" title="G4ParticleTable::GetKey" alt="" coords="1424,261,1607,289"/>
+<area shape="rect" id="node8" href="$d7/d23/namespaceG4Threading.html#a4bce96528c21592b91483fb2ab5b6215" title="G4Threading::IsWorkerThread" alt="" coords="1119,300,1343,328"/>
+<area shape="rect" id="node6" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1462,412,1569,440"/>
+<area shape="rect" id="node11" href="$d8/dd3/classG4ParticleTable.html#aba540bf07478ff0c30af3ee28d843041" title="G4ParticleTable::WorkerG4\lParticleTable" alt="" coords="1131,155,1332,199"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#af84019c7513ca66581ed8b3651934467" title="G4ParticleDefinition\l::GetPDGEncoding" alt="" coords="1438,5,1593,49"/>
+<area shape="rect" id="node13" href="$d4/d96/classG4ParticleTableIterator.html#ae35fb8d216907e4b1614fd52f2d50f84" title="G4ParticleTableIterator\l::reset" alt="" coords="1427,73,1603,117"/>
+<area shape="rect" id="node14" href="$d4/d96/classG4ParticleTableIterator.html#a7220383ce5a9ddecb53331a2ecdd90d5" title="G4ParticleTableIterator\l::value" alt="" coords="1427,141,1603,185"/>
+<area shape="rect" id="node15" href="$da/d2b/classG4IonTable.html#a66f8ee295224ed611872572a0e47ab6e" title="G4IonTable::WorkerG4IonTable" alt="" coords="1401,209,1629,237"/>
+<area shape="rect" id="node19" href="$dc/d54/classG4EmParameters.html#a1caef9134899c9b2936c4c095ed029d9" title="G4EmParameters::MinKinEnergy" alt="" coords="817,649,1059,677"/>
+<area shape="rect" id="node20" href="$dc/d54/classG4EmParameters.html#a67fb789cf4d122524cc8122b648c9fea" title="G4EmParameters::MaxKinEnergy" alt="" coords="815,441,1061,469"/>
+<area shape="rect" id="node21" href="$d0/dfb/classG4VEmProcess.html#a76f081bd1e2c3032ba8f0cacb636767a" title="G4VEmProcess::PrintWarning" alt="" coords="549,532,767,560"/>
+<area shape="rect" id="node22" href="$d2/d84/classG4VProcess.html#a9f7dc4cdc99786b5697c69952e9e2add" title="G4VProcess::GetProcessName" alt="" coords="826,597,1050,625"/>
+<area shape="rect" id="node23" href="$dc/d54/classG4EmParameters.html#a519f50aac09833a2f8c34001d4230354" title="G4EmParameters::NumberOfBins" alt="" coords="815,545,1061,573"/>
+</map>

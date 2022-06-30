@@ -1,0 +1,40 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/B02/exampleB02.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/biasing/B02/exampleB02.cc">
+<area shape="rect" id="node4" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="2876,433,2976,461"/>
+<area shape="rect" id="node8" href="$da/de4/G4RunManager_8hh.html" title="G4RunManager.hh" alt="" coords="753,129,899,157"/>
+<area shape="rect" id="node15" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="1293,129,1469,157"/>
+<area shape="rect" id="node22" href="$d6/de9/G4UImanager_8hh.html" title="G4UImanager.hh" alt="" coords="2505,281,2640,309"/>
+<area shape="rect" id="node28" href="$d2/d80/G4GeometryManager_8hh.html" title="G4GeometryManager.hh" alt="" coords="2790,281,2977,309"/>
+<area shape="rect" id="node30" href="$de/d2e/B02DetectorConstruction_8hh.html" title="Definition of the B02DetectorConstruction class." alt="" coords="2502,205,2715,233"/>
+<area shape="rect" id="node32" href="$de/de6/B02ImportanceDetectorConstruction_8hh.html" title="Definition of the B02ImportanceDetectorConstruction class." alt="" coords="207,129,498,157"/>
+<area shape="rect" id="node37" href="$d4/d72/FTFP__BERT_8hh.html" title="FTFP_BERT.hh" alt="" coords="2067,129,2180,157"/>
+<area shape="rect" id="node41" href="$d1/dd9/G4ImportanceBiasing_8hh.html" title="G4ImportanceBiasing.hh" alt="" coords="2371,129,2559,157"/>
+<area shape="rect" id="node42" href="$d5/db9/G4GeometrySampler_8hh.html" title="G4GeometrySampler.hh" alt="" coords="2959,205,3143,233"/>
+<area shape="rect" id="node45" href="$d1/d36/G4ParallelWorldPhysics_8hh.html" title="G4ParallelWorldPhysics.hh" alt="" coords="1609,205,1809,233"/>
+<area shape="rect" id="node46" href="$db/d1a/B02ActionInitialization_8hh.html" title="Definition of the B02ActionInitialization class." alt="" coords="3257,129,3451,157"/>
+<area shape="rect" id="node48" href="$df/dbe/G4IStore_8hh.html" title="G4IStore.hh" alt="" coords="3131,129,3233,157"/>
+<area shape="rect" id="node49" href="$da/d6a/G4VWeightWindowStore_8hh.html" title="G4VWeightWindowStore.hh" alt="" coords="523,129,729,157"/>
+<area shape="rect" id="node50" href="$dc/da3/G4WeightWindowAlgorithm_8hh.html" title="G4WeightWindowAlgorithm.hh" alt="" coords="3475,129,3703,157"/>
+<area shape="rect" id="node7" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="2803,509,2862,537"/>
+<area shape="rect" id="node9" href="$dc/d47/G4RunManagerKernel_8hh.html" title="G4RunManagerKernel.hh" alt="" coords="755,205,945,233"/>
+<area shape="rect" id="node10" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1169,357,1259,385"/>
+<area shape="rect" id="node12" href="$db/d5e/G4EventManager_8hh.html" title="G4EventManager.hh" alt="" coords="677,281,836,309"/>
+<area shape="rect" id="node13" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="912,281,1012,309"/>
+<area shape="rect" id="node17" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="1251,281,1361,309"/>
+<area shape="rect" id="node18" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="1070,205,1230,233"/>
+<area shape="rect" id="node19" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="1035,281,1177,309"/>
+<area shape="rect" id="node20" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="1385,281,1534,309"/>
+<area shape="rect" id="node25" href="$d5/d97/icomsdefs_8hh.html" title="icomsdefs.hh" alt="" coords="2205,357,2316,385"/>
+<area shape="rect" id="node26" href="$d5/db9/G4VStateDependent_8hh.html" title="G4VStateDependent.hh" alt="" coords="2647,357,2829,385"/>
+<area shape="rect" id="node27" href="$da/da0/G4UIcommandStatus_8hh.html" title="G4UIcommandStatus.hh" alt="" coords="2340,357,2525,385"/>
+<area shape="rect" id="node29" href="$d4/d3b/G4SmartVoxelStat_8hh.html" title="G4SmartVoxelStat.hh" alt="" coords="2903,357,3069,385"/>
+<area shape="rect" id="node31" href="$d3/dc7/G4VUserDetectorConstruction_8hh.html" title="G4VUserDetectorConstruction.hh" alt="" coords="2083,281,2329,309"/>
+<area shape="rect" id="node34" href="$d6/d01/G4GeometryCell_8hh.html" title="G4GeometryCell.hh" alt="" coords="133,281,287,309"/>
+<area shape="rect" id="node35" href="$da/d29/B02PVolumeStore_8hh.html" title="Definition of the B02PVolumeStore class." alt="" coords="247,205,410,233"/>
+<area shape="rect" id="node36" href="$db/d0b/G4VUserParallelWorld_8hh.html" title="G4VUserParallelWorld.hh" alt="" coords="362,281,551,309"/>
+<area shape="rect" id="node38" href="$da/db6/SystemOfUnits_8h.html" title="CLHEP/Units/SystemOfUnits.h" alt="" coords="2155,205,2377,233"/>
+<area shape="rect" id="node39" href="$de/d23/G4VModularPhysicsList_8hh.html" title="G4VModularPhysicsList.hh" alt="" coords="1883,205,2081,233"/>
+<area shape="rect" id="node40" href="$d5/dbe/G4VPhysicsConstructor_8hh.html" title="G4VPhysicsConstructor.hh" alt="" coords="1760,281,1959,309"/>
+<area shape="rect" id="node43" href="$df/db9/G4VSampler_8hh.html" title="G4VSampler.hh" alt="" coords="3143,357,3269,385"/>
+<area shape="rect" id="node44" href="$dd/d2a/G4VSamplerConfigurator_8hh.html" title="G4VSamplerConfigurator.hh" alt="" coords="3001,281,3211,309"/>
+<area shape="rect" id="node47" href="$d8/d59/G4VUserActionInitialization_8hh.html" title="G4VUserActionInitialization.hh" alt="" coords="3241,205,3467,233"/>
+</map>

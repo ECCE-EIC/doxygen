@@ -1,0 +1,35 @@
+<map id="G4PhysicsModelCatalog::Entries" name="G4PhysicsModelCatalog::Entries">
+<area shape="rect" id="node2" href="$dd/dfc/classG4PhysicsModelCatalog.html#a1a592457fa962af4cf1026d6d59eff35" title="G4PhysicsModelCatalog\l::GetIndex" alt="" coords="246,724,429,768"/>
+<area shape="rect" id="node25" href="$dd/dfc/classG4PhysicsModelCatalog.html#af14101d54a564d2ccaac9771f3d95db7" title="G4PhysicsModelCatalog\l::GetModelName" alt="" coords="246,906,429,950"/>
+<area shape="rect" id="node27" href="$d1/d33/classG4Track.html#a9a10a84df43ed007c79888ba5db9790f" title="G4Track::RemoveAuxiliary\lTrackInformation" alt="" coords="238,838,437,882"/>
+<area shape="rect" id="node28" href="$d1/d33/classG4Track.html#a6ea7ca7ca7f375b93c0e844bccb235dc" title="G4Track::SetAuxiliaryTrack\lInformation" alt="" coords="236,1007,439,1051"/>
+<area shape="rect" id="node3" href="$dd/dfc/classG4PhysicsModelCatalog.html#af029aa2f3a23840bd448896b146f91dc" title="G4PhysicsModelCatalog\l::Register" alt="" coords="534,328,717,372"/>
+<area shape="rect" id="node15" href="$d1/d4c/classG4Channeling.html#ac6fc5caa4f9e4f03348cb2bad16268ce" title="G4Channeling::G4Channeling" alt="" coords="827,600,1049,628"/>
+<area shape="rect" id="node16" href="$de/dc6/classG4HadronicProcess.html#a005560b498aa5cb8bbc030cb717157eb" title="G4HadronicProcess::\lFillResult" alt="" coords="545,686,705,730"/>
+<area shape="rect" id="node23" href="$db/dd0/classG4ChannelingOptrChangeCrossSection.html#a67dd1e1aa064615d6f42d2a0372d1c8b" title="G4ChannelingOptrChangeCross\lSection::ProposeOccurenceBiasing\lOperation" alt="" coords="498,754,753,814"/>
+<area shape="rect" id="node24" href="$d1/d33/classG4Track.html#a7db6c2b0a8adcf6fadb0dcaefc38328b" title="G4Track::RemoveAuxiliary\lTrackInformation" alt="" coords="526,838,725,882"/>
+<area shape="rect" id="node4" href="$d1/da6/classG4BOptrForceCollision.html#af074cdb675205d5ba26077988f084c75" title="G4BOptrForceCollision\l::Configure" alt="" coords="1134,27,1306,71"/>
+<area shape="rect" id="node5" href="$d1/da6/classG4BOptrForceCollision.html#a59b9a2691b2d5eae6169dd0ad9bc6a0c" title="G4BOptrForceCollision\l::ConfigureForWorker" alt="" coords="852,56,1024,100"/>
+<area shape="rect" id="node6" href="$d2/d2c/classG4VAtomDeexcitation.html#a1c1387ba49e1b890e45d45139ca440dd" title="G4VAtomDeexcitation\l::G4VAtomDeexcitation" alt="" coords="849,124,1027,168"/>
+<area shape="rect" id="node7" href="$d0/dfb/classG4VEmProcess.html#adb2fdd2a9790a3564945d2913963046e" title="G4VEmProcess::PreparePhysics\lTable" alt="" coords="821,192,1055,236"/>
+<area shape="rect" id="node9" href="$da/d80/classG4VEnergyLossProcess.html#a1776ce9b1b19e211bbacb83f7e8a3db8" title="G4VEnergyLossProcess\l::PreparePhysicsTable" alt="" coords="849,260,1027,304"/>
+<area shape="rect" id="node10" href="$d0/d72/classG4BinaryCascade.html#ae340791c2e329f14c55f74f7a8af7f1c" title="G4BinaryCascade::G4Binary\lCascade" alt="" coords="831,328,1045,372"/>
+<area shape="rect" id="node11" href="$dd/d18/classG4BinaryLightIonReaction.html#a574f763e596306836f2d847701df62b2" title="G4BinaryLightIonReaction\l::G4BinaryLightIonReaction" alt="" coords="835,396,1041,440"/>
+<area shape="rect" id="node12" href="$d1/d89/classG4DeexPrecoParameters.html#a57a561d936b46363e2121776d26e4022" title="G4DeexPrecoParameters\l::SetDefaults" alt="" coords="843,464,1033,508"/>
+<area shape="rect" id="node14" href="$d1/dfb/classG4HadronStoppingProcess.html#acdcfe5a584254ca576b576c1a5102593" title="G4HadronStoppingProcess\l::PreparePhysicsTable" alt="" coords="837,532,1039,576"/>
+<area shape="rect" id="node8" href="$dd/d59/classG4GammaGeneralProcess.html#aa6901fec160111cf8a00fbdc2f969cc5" title="G4GammaGeneralProcess\l::PreparePhysicsTable" alt="" coords="1121,192,1319,236"/>
+<area shape="rect" id="node13" href="$d1/d89/classG4DeexPrecoParameters.html#a7311fa1899bf6216bfbd3b1f90c266ad" title="G4DeexPrecoParameters\l::G4DeexPrecoParameters" alt="" coords="1121,464,1319,508"/>
+<area shape="rect" id="node17" href="$d4/df9/classG4HadronElasticProcess.html#a9c582161b72c6b21b0288eb1eb07bd18" title="G4HadronElasticProcess\l::PostStepDoIt" alt="" coords="845,652,1031,696"/>
+<area shape="rect" id="node18" href="$d2/dd8/classG4NeutrinoElectronProcess.html#a17871ae57859a29e6508e9c3ef9960d5" title="G4NeutrinoElectronProcess\l::PostStepDoIt" alt="" coords="835,720,1041,764"/>
+<area shape="rect" id="node19" href="$d1/d29/classG4MuNeutrinoNucleusProcess.html#aa9b59409a76e85a604a3a574de89fd48" title="G4MuNeutrinoNucleusProcess\l::PostStepDoIt" alt="" coords="826,788,1050,832"/>
+<area shape="rect" id="node20" href="$de/dc6/classG4HadronicProcess.html#a078f53fdc259fb5d5821b46c1b5683b3" title="G4HadronicProcess::\lPostStepDoIt" alt="" coords="858,856,1018,900"/>
+<area shape="rect" id="node21" href="$d2/d90/classBiasingOperation.html#a938ee9aa8198466e50a891f7e1ac6ae3" title="BiasingOperation::ApplyFinal\lStateBiasing" alt="" coords="1112,823,1328,867"/>
+<area shape="rect" id="node22" href="$dd/d59/classG4GammaGeneralProcess.html#a109631ecff68b05eb743ced15d3029a4" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="1121,891,1319,935"/>
+<area shape="rect" id="node26" href="$dd/d1b/classG4RichTrajectory.html#a2b5eba841aa01d68ff3361ff08f45063" title="G4RichTrajectory::Create\lAttValues" alt="" coords="531,906,719,950"/>
+<area shape="rect" id="node29" href="$d1/da6/classG4BOptrForceCollision.html#aec28aa529fad0761778b60bc5ac7a943" title="G4BOptrForceCollision\l::ProposeNonPhysicsBiasingOperation" alt="" coords="487,974,764,1018"/>
+<area shape="rect" id="node30" href="$d1/da6/classG4BOptrForceCollision.html#a7cb70f4e3e8bb38d66bf702af9eb1159" title="G4BOptrForceCollision\l::OperationApplied" alt="" coords="539,1042,711,1086"/>
+<area shape="rect" id="node31" href="$d1/d4c/classG4Channeling.html#a37d28e6fcdecf675e6a35f27dfec47f4" title="G4Channeling::GetTrackData" alt="" coords="517,1110,734,1138"/>
+<area shape="rect" id="node32" href="$d1/d4c/classG4Channeling.html#a9fe0010a3aeb3b5150e1f9c07be3e425" title="G4Channeling::GetMeanFreePath" alt="" coords="816,1058,1060,1086"/>
+<area shape="rect" id="node33" href="$d1/d4c/classG4Channeling.html#aa2a4e6a5c067d5c9df5ea12d6953fb7a" title="G4Channeling::PostStepDoIt" alt="" coords="1113,1135,1327,1163"/>
+<area shape="rect" id="node34" href="$d1/d4c/classG4Channeling.html#a725cd9cf581c9aec0b2d0e5064cd0605" title="G4Channeling::UpdateParameters" alt="" coords="812,1162,1064,1190"/>
+</map>

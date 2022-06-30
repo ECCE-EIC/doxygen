@@ -1,0 +1,26 @@
+var classG4ParameterisationPolyconeZ =
+[
+    [ "G4ParameterisationPolyconeZ", "d5/d61/classG4ParameterisationPolyconeZ.html#a8d8eb635f4400aa2e60933d9208387cd", null ],
+    [ "~G4ParameterisationPolyconeZ", "d5/d61/classG4ParameterisationPolyconeZ.html#a10c58b2f3f739d4debfa7e4c68d8a679", null ],
+    [ "CheckParametersValidity", "d5/d61/classG4ParameterisationPolyconeZ.html#a58da15eeef380fdf3125e74dfd0f5600", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a99f0dbb4fe15a88ddf03c6895f4f7253", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#aa33bd564a14b17d3a038b9b5be9ac8a9", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a0f48d99790dea591add382d196adf594", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a991c3c809a72af9be9ab468b6bc4a16e", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a4a9e9d6b715714b202d139da3a363454", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#aca530fb19fedab6b007642774058b6e3", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a9ed2bd1935503de02654e60e5514d029", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a220acbd399dddf873bfbb3d4163ae305", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#af71d9ba5a3fa86604f414320168c60bc", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a3c66371bdcdfe39bca096ad8b13e387d", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a577aee71893d19d7bfdf6680a9718229", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#abc13eab2839429878df04c57e0e1b981", null ],
+    [ "ComputeDimensions", "d5/d61/classG4ParameterisationPolyconeZ.html#a724baafbfb01ef356cfdd97e0d0645d9", null ],
+    [ "ComputeTransformation", "d5/d61/classG4ParameterisationPolyconeZ.html#a58e27506b2c82ad621cca6f3eed7a53f", null ],
+    [ "GetMaxParameter", "d5/d61/classG4ParameterisationPolyconeZ.html#a43e9af13073c75df4376573cfea321a5", null ],
+    [ "GetR", "d5/d61/classG4ParameterisationPolyconeZ.html#a6242f1ede32798e25d3a5ab9e49a5d67", null ],
+    [ "GetRmax", "d5/d61/classG4ParameterisationPolyconeZ.html#a2818a3a9032ea85741add7c65c1c9af2", null ],
+    [ "GetRmin", "d5/d61/classG4ParameterisationPolyconeZ.html#aa3709f583f36549f125f9204ed872a5a", null ],
+    [ "fNSegment", "d5/d61/classG4ParameterisationPolyconeZ.html#a4791feddb6639dc1ef5a6693c6ad6de0", null ],
+    [ "fOrigParamMother", "d5/d61/classG4ParameterisationPolyconeZ.html#a2ec729cdaf8e01544e6f84253280c583", null ]
+];

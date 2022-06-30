@@ -1,0 +1,42 @@
+<map id="acts/blob/master/Examples/Framework/include/ACTFW/Framework/IReader.hpp" name="acts/blob/master/Examples/Framework/include/ACTFW/Framework/IReader.hpp">
+<area shape="rect" id="node2" href="$d9/d95/EventGenerator_8hpp.html" title="acts/blob/master/Examples\l/Algorithms/Generators\l/ACTFW/Generators/EventGenerator.hpp" alt="" coords="590,113,886,173"/>
+<area shape="rect" id="node15" href="$d7/d32/Sequencer_8hpp.html" title="acts/blob/master/Examples\l/Framework/include/ACTFW\l/Framework/Sequencer.hpp" alt="" coords="3511,113,3719,173"/>
+<area shape="rect" id="node32" href="$dd/d14/CsvParticleReader_8hpp.html" title="acts/blob/master/Examples\l/Io/Csv/include/ACTFW/Io\l/Csv/CsvParticleReader.hpp" alt="" coords="6209,113,6416,173"/>
+<area shape="rect" id="node36" href="$de/d22/CsvPlanarClusterReader_8hpp.html" title="acts/blob/master/Examples\l/Io/Csv/include/ACTFW/Io\l/Csv/CsvPlanarClusterReader.hpp" alt="" coords="6543,113,6789,173"/>
+<area shape="rect" id="node38" href="$d4/d9d/RootMaterialTrackReader_8hpp.html" title="acts/blob/master/Examples\l/Io/Root/include/ACTFW\l/Io/Root/RootMaterialTrackReader.hpp" alt="" coords="5469,113,5745,173"/>
+<area shape="rect" id="node40" href="$d7/d97/RootVertexAndTracksReader_8hpp.html" title="acts/blob/master/Examples\l/Io/Root/include/ACTFW\l/Io/Root/RootVertexAndTracksReader.hpp" alt="" coords="5769,113,6067,173"/>
+<area shape="rect" id="node3" href="$d5/d77/EventGenerator_8cpp.html" title="acts/blob/master/Examples\l/Algorithms/Generators\l/ACTFW/Generators/EventGenerator.cpp" alt="" coords="220,221,515,281"/>
+<area shape="rect" id="node4" href="$db/d45/ParticleGunOptions_8hpp.html" title="acts/blob/master/Examples\l/Algorithms/Generators\l/ACTFW/Options/ParticleGunOptions.hpp" alt="" coords="590,221,886,281"/>
+<area shape="rect" id="node7" href="$d3/d77/FatrasEvgenBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Fatras/Common/FatrasEvgen\lBase.cpp" alt="" coords="325,329,575,389"/>
+<area shape="rect" id="node9" href="$dd/d1d/Pythia8Options_8hpp.html" title="acts/blob/master/Examples\l/Algorithms/GeneratorsPythia8\l/ACTFW/Options/Pythia8Options.hpp" alt="" coords="1286,221,1555,281"/>
+<area shape="rect" id="node5" href="$da/d2f/ParticleGunOptions_8cpp.html" title="acts/blob/master/Examples\l/Algorithms/Generators\l/ACTFW/Options/ParticleGunOptions.cpp" alt="" coords="5,329,300,389"/>
+<area shape="rect" id="node6" href="$de/d42/ParticleGun_8cpp.html" title="acts/blob/master/Examples\l/Run/EventGenerator/ParticleGun.cpp" alt="" coords="600,337,876,381"/>
+<area shape="rect" id="node8" href="$d1/d71/FatrasMain_8cpp.html" title="acts/blob/master/Examples\l/Run/Fatras/Common/FatrasMain.cpp" alt="" coords="901,337,1170,381"/>
+<area shape="rect" id="node10" href="$d4/d79/Pythia8Options_8cpp.html" title="acts/blob/master/Examples\l/Algorithms/GeneratorsPythia8\l/ACTFW/Options/Pythia8Options.cpp" alt="" coords="1195,329,1463,389"/>
+<area shape="rect" id="node11" href="$d9/d60/Pythia8_8cpp.html" title="acts/blob/master/Examples\l/Run/EventGenerator/Pythia8\l/Pythia8.cpp" alt="" coords="1487,329,1707,389"/>
+<area shape="rect" id="node12" href="$dc/d7e/VertexAndTracksWriterExample_8cpp.html" title="acts/blob/master/Examples\l/Run/Vertexing/VertexAndTracks\lWriterExample.cpp" alt="" coords="1731,329,1969,389"/>
+<area shape="rect" id="node13" href="$d2/d79/VertexFinderExample_8cpp.html" title="acts/blob/master/Examples\l/Run/Vertexing/VertexFinderExample.cpp" alt="" coords="1994,337,2293,381"/>
+<area shape="rect" id="node14" href="$d3/d0a/VertexFitterExample_8cpp.html" title="acts/blob/master/Examples\l/Run/Vertexing/VertexFitterExample.cpp" alt="" coords="2317,337,2609,381"/>
+<area shape="rect" id="node16" href="$d3/d2f/Sequencer_8cpp.html" title="acts/blob/master/Examples\l/Framework/src/Framework\l/Sequencer.cpp" alt="" coords="3247,221,3453,281"/>
+<area shape="rect" id="node17" href="$d7/d2b/CommonOptions_8hpp.html" title="acts/blob/master/Examples\l/Run/Common/include/ACTFW\l/Options/CommonOptions.hpp" alt="" coords="3578,221,3805,281"/>
+<area shape="rect" id="node20" href="$de/d20/MaterialMappingBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Common/src/MaterialMapping\lBase.cpp" alt="" coords="5631,329,5891,389"/>
+<area shape="rect" id="node21" href="$dc/da7/MaterialValidationBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Common/src/MaterialValidation\lBase.cpp" alt="" coords="2633,329,2901,389"/>
+<area shape="rect" id="node22" href="$d3/d32/PropagationExampleBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Common/src/PropagationExample\lBase.cpp" alt="" coords="2925,329,3212,389"/>
+<area shape="rect" id="node23" href="$d4/d5f/FatrasDigitizationBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Fatras/Common/FatrasDigitization\lBase.cpp" alt="" coords="3237,329,3522,389"/>
+<area shape="rect" id="node24" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Fatras/Common/FatrasSimulation\lBase.cpp" alt="" coords="4158,329,4438,389"/>
+<area shape="rect" id="node25" href="$d4/dc7/HelloWorld_8cpp.html" title="An example tools that shows the sequencer functionality." alt="" coords="4463,337,4701,381"/>
+<area shape="rect" id="node26" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="acts/blob/master/Examples\l/Run/MagneticField/BFieldAccess\lExample.cpp" alt="" coords="4726,329,4969,389"/>
+<area shape="rect" id="node27" href="$dc/d47/BFieldExample_8cpp.html" title="acts/blob/master/Examples\l/Run/MagneticField/BFieldExample.cpp" alt="" coords="4993,337,5277,381"/>
+<area shape="rect" id="node28" href="$d9/da3/GeantinoRecordingExample_8cpp.html" title="acts/blob/master/Examples\l/Run/MaterialMapping/GeantinoRecording\l/GeantinoRecordingExample.cpp" alt="" coords="5302,329,5606,389"/>
+<area shape="rect" id="node29" href="$da/dc9/GenericReadCsvExample_8cpp.html" title="acts/blob/master/Examples\l/Run/ReadCsv/GenericReadCsvExample.cpp" alt="" coords="6177,337,6496,381"/>
+<area shape="rect" id="node30" href="$de/dcb/RecTruthTracks_8cpp.html" title="acts/blob/master/Examples\l/Run/Reconstruction/RecTruthTracks.cpp" alt="" coords="6520,337,6812,381"/>
+<area shape="rect" id="node31" href="$da/de2/VertexAndTracksReaderAndFinderExample_8cpp.html" title="acts/blob/master/Examples\l/Run/Vertexing/VertexAndTracks\lReaderAndFinderExample.cpp" alt="" coords="5915,329,6153,389"/>
+<area shape="rect" id="node18" href="$d4/dc0/CommonOptions_8cpp.html" title="acts/blob/master/Examples\l/Run/Common/src/CommonOptions.cpp" alt="" coords="3547,337,3836,381"/>
+<area shape="rect" id="node19" href="$d0/d8e/GeometryExampleBase_8cpp.html" title="acts/blob/master/Examples\l/Run/Common/src/GeometryExample\lBase.cpp" alt="" coords="3860,329,4133,389"/>
+<area shape="rect" id="node33" href="$d6/d79/CsvOptionsReader_8hpp.html" title="acts/blob/master/Examples\l/Io/Csv/include/ACTFW/Io\l/Csv/CsvOptionsReader.hpp" alt="" coords="6561,221,6771,281"/>
+<area shape="rect" id="node35" href="$d6/d6d/CsvParticleReader_8cpp.html" title="acts/blob/master/Examples\l/Io/Csv/src/CsvParticleReader.cpp" alt="" coords="6190,229,6435,273"/>
+<area shape="rect" id="node34" href="$da/d2b/CsvOptionsReader_8cpp.html" title="acts/blob/master/Examples\l/Io/Csv/src/CsvOptionsReader.cpp" alt="" coords="6837,337,7085,381"/>
+<area shape="rect" id="node37" href="$d6/d42/CsvPlanarClusterReader_8cpp.html" title="acts/blob/master/Examples\l/Io/Csv/src/CsvPlanarClusterReader.cpp" alt="" coords="6795,229,7081,273"/>
+<area shape="rect" id="node39" href="$db/dd2/RootMaterialTrackReader_8cpp.html" title="acts/blob/master/Examples\l/Io/Root/src/RootMaterialTrack\lReader.cpp" alt="" coords="5571,221,5795,281"/>
+<area shape="rect" id="node41" href="$d0/df7/RootVertexAndTracksReader_8cpp.html" title="acts/blob/master/Examples\l/Io/Root/src/RootVertexAndTracks\lReader.cpp" alt="" coords="5870,221,6115,281"/>
+</map>

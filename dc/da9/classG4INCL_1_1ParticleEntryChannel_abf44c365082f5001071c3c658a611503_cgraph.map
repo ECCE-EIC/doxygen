@@ -1,0 +1,51 @@
+<map id="G4INCL::ParticleEntryChannel::fillFinalState" name="G4INCL::ParticleEntryChannel::fillFinalState">
+<area shape="rect" id="node2" href="$da/d83/classG4INCL_1_1FinalState.html#a2653ee2ea89b69a48d44b9c5a232aafa" title="G4INCL::FinalState\l::addEnteringParticle" alt="" coords="323,9,485,53"/>
+<area shape="rect" id="node3" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a79ec3ed3f491e98a7310096274dae580" title="Compute the excitation energy when a nucleon is removed." alt="" coords="279,77,529,121"/>
+<area shape="rect" id="node6" href="$dd/d83/classG4INCL_1_1Particle.html#abface4ddcfe3be393c8a1e8262c6d3a8" title="Returns the baryon number." alt="" coords="633,141,804,169"/>
+<area shape="rect" id="node7" href="$dd/d83/classG4INCL_1_1Particle.html#a883372f190a9fa266141db6a1b00891d" title="Computes correction on the emission Q&#45;value." alt="" coords="294,556,514,600"/>
+<area shape="rect" id="node10" href="$dd/d83/classG4INCL_1_1Particle.html#a2902e76b7e4fec816cbd8473424e0339" title="Get the tabulated particle mass." alt="" coords="604,624,833,652"/>
+<area shape="rect" id="node12" href="$dd/d83/classG4INCL_1_1Particle.html#aa127348f0d36f847e9670ac4088680b3" title="Get the INCL particle mass." alt="" coords="903,608,1128,636"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="615,297,823,325"/>
+<area shape="rect" id="node14" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a9226b224bc55cd14cba268d662574a36" title="Return the Fermi energy for a particle." alt="" coords="273,1132,535,1176"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#a38dd48a9997e1745918c11021b3d14e0" title="G4INCL::Particle::getID" alt="" coords="631,728,806,756"/>
+<area shape="rect" id="node17" href="$dd/d83/classG4INCL_1_1Particle.html#a8ec20398365f8dbdf6b9363cbfd15820" title="Get the particle kinetic energy." alt="" coords="615,780,822,824"/>
+<area shape="rect" id="node18" href="$dd/d83/classG4INCL_1_1Particle.html#a64e03f2bf2c151aa4798255a6bf0ad3d" title="G4INCL::Particle::getMomentum" alt="" coords="600,349,837,377"/>
+<area shape="rect" id="node19" href="$dd/d83/classG4INCL_1_1Particle.html#ad50e39ae1ce0c4301b4f882249ca032f" title="Number of Kaon inside de nucleus." alt="" coords="296,1200,512,1244"/>
+<area shape="rect" id="node20" href="$d7/db0/classG4INCL_1_1Nucleus.html#ad71bbf80385e53f0abb607e2a34a20b3" title="Getter for thePotential." alt="" coords="607,848,831,876"/>
+<area shape="rect" id="node21" href="$d7/db0/classG4INCL_1_1Nucleus.html#a83a07031f63cb1a616fd539ec89b565a" title="Get the projectile remnant." alt="" coords="291,1268,517,1312"/>
+<area shape="rect" id="node22" href="$dd/d83/classG4INCL_1_1Particle.html#adc2907fd9377237840effb8a93537d55" title="Returns the strangeness number." alt="" coords="319,1336,489,1364"/>
+<area shape="rect" id="node23" href="$dd/d83/classG4INCL_1_1Particle.html#a721bd8354f507e9a8f6bcdf743e4ef94" title="Returns the charge number." alt="" coords="633,193,804,221"/>
+<area shape="rect" id="node24" href="$dd/d83/classG4INCL_1_1Particle.html#a7733f7088e755ad007337b0f4eb0db74" title="Is this a Kaon?" alt="" coords="313,1388,495,1416"/>
+<area shape="rect" id="node25" href="$dd/d83/classG4INCL_1_1Particle.html#ae815d7e28ca4854909be71d6f88a9e65" title="Is this a Nucleon or a Lambda?" alt="" coords="295,1440,513,1484"/>
+<area shape="rect" id="node28" href="$d7/db0/classG4INCL_1_1Nucleus.html#a5e8bedb6215a26504b3adbb1a3ff5755" title="Is it a nucleus&#45;nucleus collision?" alt="" coords="300,1508,508,1552"/>
+<area shape="rect" id="node29" href="$da/d83/classG4INCL_1_1FinalState.html#a0360c7b4b93292d222bf820999976c43" title="G4INCL::FinalState\l::makeParticleBelowFermi" alt="" coords="307,1576,501,1620"/>
+<area shape="rect" id="node30" href="$da/d83/classG4INCL_1_1FinalState.html#a323830d034e537a40a9759a554483225" title="G4INCL::FinalState\l::makeParticleBelowZero" alt="" coords="310,1644,498,1688"/>
+<area shape="rect" id="node31" href="$dc/da9/classG4INCL_1_1ParticleEntryChannel.html#a8a1824ffd5272e7dcc81e443edc17af7" title="Modify particle that enters the nucleus." alt="" coords="294,1012,514,1056"/>
+<area shape="rect" id="node45" href="$dd/d83/classG4INCL_1_1Particle.html#a7b8ff5b6d05059e45730c1ce83d6a862" title="G4INCL::Particle::print" alt="" coords="930,1660,1101,1688"/>
+<area shape="rect" id="node48" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a196e7b7369ff5a96c9451337ee41eaed" title="Remove a nucleon from the projectile remnant." alt="" coords="303,287,505,331"/>
+<area shape="rect" id="node49" href="$dd/d83/classG4INCL_1_1Particle.html#a20fb40d47dabf436bfcd3ea56641805f" title="G4INCL::Particle::setNumber\lOfKaon" alt="" coords="297,1712,511,1756"/>
+<area shape="rect" id="node50" href="$da/d83/classG4INCL_1_1FinalState.html#a918340b26ae6e97567647cda596ca4c3" title="G4INCL::FinalState\l::setTotalEnergyBeforeInteraction" alt="" coords="281,1780,527,1824"/>
+<area shape="rect" id="node4" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#a2164fee112bc5e32519672053eac78ba" title="G4INCL::ProjectileRemnant\l::getPresentEnergyLevelsExcept" alt="" coords="599,5,838,49"/>
+<area shape="rect" id="node5" href="$db/dcb/classG4INCL_1_1ProjectileRemnant.html#abf535363ab149976af3fef22c79e11ff" title="Compute the excitation energy for a given configuration." alt="" coords="617,73,821,117"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#ad859830be433794be92a8f371e2a114c" title="G4INCL::Particle::isCluster" alt="" coords="620,504,817,532"/>
+<area shape="rect" id="node9" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a1c7eefa4793b197220b7650346129082" title="Get Q&#45;value (in MeV/c^2)" alt="" coords="637,556,801,600"/>
+<area shape="rect" id="node11" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a60b2e73d0b219e998aadc5fc59706f14" title="Get INCL nuclear mass (in MeV/c^2)" alt="" coords="1176,463,1340,507"/>
+<area shape="rect" id="node15" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="623,1880,815,1908"/>
+<area shape="rect" id="node26" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="617,1932,821,1960"/>
+<area shape="rect" id="node27" href="$dd/d83/classG4INCL_1_1Particle.html#ab764f7f80979539dc7ad95556f31671d" title="Is this a Lambda?" alt="" coords="617,1984,820,2012"/>
+<area shape="rect" id="node32" href="$dd/d83/classG4INCL_1_1Particle.html#a967bc3671f8d7082e5b1f0f07c71e720" title="Set the mass of the Particle to its table mass." alt="" coords="607,1156,831,1184"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#af0fbb5ce95e3145e1f7af4bd2a9621ff" title="Get the cached particle mass." alt="" coords="621,1328,816,1356"/>
+<area shape="rect" id="node34" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="619,1380,819,1408"/>
+<area shape="rect" id="node35" href="$d5/dd3/classG4INCL_1_1Store.html#ab96728e4416b8e1c0859f6757450a32b" title="G4INCL::Store::getConfig" alt="" coords="624,1432,813,1460"/>
+<area shape="rect" id="node36" href="$da/d4f/classG4INCL_1_1Config.html#aae7fd80c1f75e5e2198413aac7486521" title="True if we should use refraction." alt="" coords="607,1484,830,1512"/>
+<area shape="rect" id="node37" href="$dd/d83/classG4INCL_1_1Particle.html#a5575330878a28b978dc2b40df39cc6f9" title="G4INCL::Particle::getPosition" alt="" coords="612,1536,825,1564"/>
+<area shape="rect" id="node38" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="934,1260,1097,1304"/>
+<area shape="rect" id="node39" href="$db/da0/namespaceCLHEP.html#ad40426ce0bf5d8b66f9d21a3e4b7ca4b" title="CLHEP::normal" alt="" coords="658,1776,779,1804"/>
+<area shape="rect" id="node40" href="$dd/d83/classG4INCL_1_1Particle.html#afa7070eff738e3d4e645d20245ede536" title="Get the cosine of the angle between position and momentum." alt="" coords="626,1260,811,1304"/>
+<area shape="rect" id="node41" href="$dd/d83/classG4INCL_1_1Particle.html#ac6ece0a46852fc251f788f5dd88e47e4" title="G4INCL::Particle::setEnergy" alt="" coords="615,900,822,928"/>
+<area shape="rect" id="node42" href="$dd/d83/classG4INCL_1_1Particle.html#a09e5f39431991cf26d5106198c20d53b" title="Set the particle potential energy." alt="" coords="610,952,827,996"/>
+<area shape="rect" id="node43" href="$dd/d83/classG4INCL_1_1Particle.html#ab9bd9fe300eedf5c243b173f65141ffe" title="G4INCL::Particle::setMomentum" alt="" coords="601,1020,837,1048"/>
+<area shape="rect" id="node44" href="$dd/d83/classG4INCL_1_1Particle.html#a94b76fea60e6dff52844db88143f6c28" title="Rescale the momentum to match the total energy." alt="" coords="628,1588,809,1632"/>
+<area shape="rect" id="node46" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a4b4130079b7eef9297084c1eca5ba992" title="G4INCL::NuclearPotential\l::INuclearPotential::computePotential\lEnergy" alt="" coords="583,1072,855,1132"/>
+<area shape="rect" id="node47" href="$d8/dc9/namespaceG4INCL_1_1RootFinder.html#a0d8cedcad432b3fa9ae96ec071ed9475" title="Numerically solve a one&#45;dimensional equation." alt="" coords="642,1656,795,1700"/>
+</map>

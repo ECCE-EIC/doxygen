@@ -1,0 +1,26 @@
+var classG4LivermoreGammaConversionModel =
+[
+    [ "G4LivermoreGammaConversionModel", "d3/db3/classG4LivermoreGammaConversionModel.html#adb7aab59eac4a9a9523de8f5ae6c605b", null ],
+    [ "~G4LivermoreGammaConversionModel", "d3/db3/classG4LivermoreGammaConversionModel.html#aaa998a55172909675b334069aea6a0f8", null ],
+    [ "G4LivermoreGammaConversionModel", "d3/db3/classG4LivermoreGammaConversionModel.html#a3126bc7083652bd6c2f2f78490b47df0", null ],
+    [ "ComputeCrossSectionPerAtom", "d3/db3/classG4LivermoreGammaConversionModel.html#a51ee793c83a219f4839506aa3d95f516", null ],
+    [ "Initialise", "d3/db3/classG4LivermoreGammaConversionModel.html#a3a47b9549c4cbf55a87f2913895f33d6", null ],
+    [ "InitialiseForElement", "d3/db3/classG4LivermoreGammaConversionModel.html#aa824f02973983d198cab23f1f9bf103a", null ],
+    [ "InitialiseLocal", "d3/db3/classG4LivermoreGammaConversionModel.html#a6a78d2cb182510b5e80140bb6d0b6881", null ],
+    [ "InitialiseProbability", "d3/db3/classG4LivermoreGammaConversionModel.html#a19a3ba5886e5142986633447a764f1eb", null ],
+    [ "MinPrimaryEnergy", "d3/db3/classG4LivermoreGammaConversionModel.html#a885671da993f719633814b9da2f4e543", null ],
+    [ "operator=", "d3/db3/classG4LivermoreGammaConversionModel.html#ae6589d2241f4950fce2246a20ea95dfd", null ],
+    [ "ReadData", "d3/db3/classG4LivermoreGammaConversionModel.html#abd27b3e3b2eb995dc8092a04c8e0cf64", null ],
+    [ "SampleSecondaries", "d3/db3/classG4LivermoreGammaConversionModel.html#ad3c0425bcb14bdfb042ee6e3f5ca17ac", null ],
+    [ "ScreenFunction1", "d3/db3/classG4LivermoreGammaConversionModel.html#afb4070b080c11d9ae2c0cca883e7dae0", null ],
+    [ "ScreenFunction2", "d3/db3/classG4LivermoreGammaConversionModel.html#a15fdbb96a0fa875b18bb36d066fa1754", null ],
+    [ "data", "d3/db3/classG4LivermoreGammaConversionModel.html#ad6fc781eb60aab7a16fb3e2259efb555", null ],
+    [ "fParticleChange", "d3/db3/classG4LivermoreGammaConversionModel.html#a6787d5c8e10b92e515ef3c3afb92ff4d", null ],
+    [ "lowEnergyLimit", "d3/db3/classG4LivermoreGammaConversionModel.html#abbd5b14d8235b097b0865f0f6901bef5", null ],
+    [ "maxZ", "d3/db3/classG4LivermoreGammaConversionModel.html#ad712833a135be20274568617b3c8c058", null ],
+    [ "nbinsTriplet", "d3/db3/classG4LivermoreGammaConversionModel.html#a95811fe9b537bddb585f81fcce9823d0", null ],
+    [ "probTriplet", "d3/db3/classG4LivermoreGammaConversionModel.html#a7a7927c27a0849e8f938292d0107e6d8", null ],
+    [ "tripletHighEnergy", "d3/db3/classG4LivermoreGammaConversionModel.html#a341752010e1ecc3ac5abc32716274cee", null ],
+    [ "tripletLowEnergy", "d3/db3/classG4LivermoreGammaConversionModel.html#ab628607a57fcff5af9249b906a0ab62a", null ],
+    [ "verboseLevel", "d3/db3/classG4LivermoreGammaConversionModel.html#a82e8de4035680b94caf607195878173c", null ]
+];

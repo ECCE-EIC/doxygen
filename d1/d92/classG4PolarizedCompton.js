@@ -1,0 +1,25 @@
+var classG4PolarizedCompton =
+[
+    [ "G4PolarizedCompton", "d1/d92/classG4PolarizedCompton.html#aca1e719b0e86d0d49b8e2ff220a48148", null ],
+    [ "~G4PolarizedCompton", "d1/d92/classG4PolarizedCompton.html#a2091f73898c5f35879cacbf2345bdc2c", null ],
+    [ "G4PolarizedCompton", "d1/d92/classG4PolarizedCompton.html#ad4db138c7ed40794557a2b5d739d22e2", null ],
+    [ "BuildAsymmetryTable", "d1/d92/classG4PolarizedCompton.html#abcaddd536c2278615472089d0e775b1e", null ],
+    [ "BuildPhysicsTable", "d1/d92/classG4PolarizedCompton.html#a69ca427d4c341e99c538c4d2d334b74e", null ],
+    [ "CleanTable", "d1/d92/classG4PolarizedCompton.html#a46eeeb1cc4cc81d9501bd26309c4d3d8", null ],
+    [ "ComputeAsymmetry", "d1/d92/classG4PolarizedCompton.html#a211f03e91b8e9d7c54bff80e2f85b27e", null ],
+    [ "ComputeSaturationFactor", "d1/d92/classG4PolarizedCompton.html#a7c6f5355c7543cbce12392fc0da4d350", null ],
+    [ "GetMeanFreePath", "d1/d92/classG4PolarizedCompton.html#aacb0c89e2647b632cb6cf9c80531a8d2", null ],
+    [ "InitialiseProcess", "d1/d92/classG4PolarizedCompton.html#aea7f10a75d54f523204fd9339be11434", null ],
+    [ "IsApplicable", "d1/d92/classG4PolarizedCompton.html#ac3f7841b53dd481e44f0aea1876f2da2", null ],
+    [ "operator=", "d1/d92/classG4PolarizedCompton.html#a17d63c178ff8d1d524645a04a9ec3fcf", null ],
+    [ "PostStepGetPhysicalInteractionLength", "d1/d92/classG4PolarizedCompton.html#a9c0fcbfd9e9e4cdf6f597d25b25eae89", null ],
+    [ "PrintInfo", "d1/d92/classG4PolarizedCompton.html#ae3bf59e1d4233065811d23ff2c0452a4", null ],
+    [ "SetModel", "d1/d92/classG4PolarizedCompton.html#a7627559c0131b31f9c1883ab9b161935", null ],
+    [ "buildAsymmetryTable", "d1/d92/classG4PolarizedCompton.html#a530a256150ced451028a28b67e96ef64", null ],
+    [ "emModel", "d1/d92/classG4PolarizedCompton.html#a320f300ea1da5c61cf938da330332e13", null ],
+    [ "isInitialised", "d1/d92/classG4PolarizedCompton.html#ab698c38c7fc7b7c49254d3e6e66e053e", null ],
+    [ "mType", "d1/d92/classG4PolarizedCompton.html#a1d7f1e97bfc8f304773d02879e1115ad", null ],
+    [ "targetPolarization", "d1/d92/classG4PolarizedCompton.html#a00bf346f26c419afa1ab477c7abc3447", null ],
+    [ "theAsymmetryTable", "d1/d92/classG4PolarizedCompton.html#ac342f07f57162ec5281a7afc23fd7d7f", null ],
+    [ "useAsymmetryTable", "d1/d92/classG4PolarizedCompton.html#abcfd9d68afe0fabea500ffcf7557ea04", null ]
+];

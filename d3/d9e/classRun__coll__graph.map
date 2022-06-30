@@ -1,0 +1,41 @@
+<map id="Run" name="Run">
+<area shape="rect" id="node2" href="$d2/d10/classG4Run.html" title="G4Run" alt="" coords="718,1115,785,1143"/>
+<area shape="rect" id="node4" href="$d3/d78/classG4DCtable.html" title="G4DCtable" alt="" coords="19,381,113,409"/>
+<area shape="rect" id="node7" href="$de/dd7/classG4HCtable.html" title="G4HCtable" alt="" coords="120,683,215,711"/>
+<area shape="rect" id="node14" href="$da/dbc/classG4MaterialPropertiesTable.html" title="G4MaterialPropertiesTable" alt="" coords="1069,279,1268,307"/>
+<area shape="rect" id="node22" href="$d2/d2a/classG4ElectronIonPair.html" title="G4ElectronIonPair" alt="" coords="471,883,613,911"/>
+<area shape="rect" id="node6" href="$d5/d72/classG4String.html" title="G4String" alt="" coords="1573,5,1653,33"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html" title="G4Material" alt="" coords="985,499,1080,527"/>
+<area shape="rect" id="node17" href="$d5/d38/classG4ParticleDefinition.html" title="G4ParticleDefinition" alt="" coords="3166,279,3321,307"/>
+<area shape="rect" id="node20" href="$d8/dd3/classG4ParticleTable.html" title="G4ParticleTable" alt="" coords="3342,499,3467,527"/>
+<area shape="rect" id="node23" href="$d7/d27/classPrimaryGeneratorAction.html" title="The primary generator action class with particle gun." alt="" coords="5683,1115,5867,1143"/>
+<area shape="rect" id="node30" href="$d4/dcd/classHistoManager.html" title="HistoManager" alt="" coords="2167,883,2283,911"/>
+<area shape="rect" id="node38" href="$dc/d5b/classDetectorConstruction.html" title="Simple detector construction with a box volume placed in a world." alt="" coords="3046,883,3211,911"/>
+<area shape="rect" id="node39" href="$d1/d28/classG4VPhysicalVolume.html" title="G4VPhysicalVolume" alt="" coords="2034,499,2189,527"/>
+<area shape="rect" id="node48" href="$dc/d0d/classG4VPrimitiveScorer.html" title="G4VPrimitiveScorer" alt="" coords="1363,1035,1516,1063"/>
+<area shape="rect" id="node9" href="$d3/d06/structRun_1_1ActivityData.html" title="Run::ActivityData" alt="" coords="168,5,305,33"/>
+<area shape="rect" id="node11" href="$d2/d52/classG4SandiaTable.html" title="G4SandiaTable" alt="" coords="1141,883,1263,911"/>
+<area shape="rect" id="node15" href="$d6/d69/classG4IonisParamMat.html" title="G4IonisParamMat" alt="" coords="935,883,1075,911"/>
+<area shape="rect" id="node33" href="$de/d4e/classG4DataVector.html" title="G4DataVector" alt="" coords="1792,499,1908,527"/>
+<area shape="rect" id="node43" href="$de/d04/classPrimaryGeneratorAction2.html" title="PrimaryGeneratorAction2" alt="" coords="3865,883,4057,911"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="3711,279,3843,307"/>
+<area shape="rect" id="node18" href="$d5/d2e/classG4ProcessManager.html" title="G4ProcessManager" alt="" coords="3619,499,3771,527"/>
+<area shape="rect" id="node21" href="$db/d89/classG4DecayTable.html" title="G4DecayTable" alt="" coords="3795,499,3913,527"/>
+<area shape="rect" id="node28" href="$dc/ded/classG4ParticleGun.html" title="G4ParticleGun" alt="" coords="4659,499,4777,527"/>
+<area shape="rect" id="node35" href="$d9/db8/classTestParameters.html" title="TestParameters" alt="" coords="3477,883,3604,911"/>
+<area shape="rect" id="node19" href="$d9/d62/classG4PDefManager.html" title="G4PDefManager" alt="" coords="3177,107,3309,135"/>
+<area shape="rect" id="node36" href="$d2/df6/classPrimaryGeneratorMessenger.html" title="PrimaryGeneratorMessenger" alt="" coords="5666,1257,5882,1285"/>
+<area shape="rect" id="node24" href="$d4/dbc/classG4VUserPrimaryGeneratorAction.html" title="G4VUserPrimaryGeneratorAction" alt="" coords="5654,883,5897,911"/>
+<area shape="rect" id="node25" href="$d4/d54/classG4VStateDependent.html" title="G4VStateDependent" alt="" coords="6712,883,6873,911"/>
+<area shape="rect" id="node26" href="$df/d86/classAnalysisManager.html" title="AnalysisManager" alt="" coords="4253,499,4391,527"/>
+<area shape="rect" id="node41" href="$da/d07/classPrimaryGeneratorAction0.html" title="PrimaryGeneratorAction0" alt="" coords="4190,883,4382,911"/>
+<area shape="rect" id="node42" href="$d4/dad/classPrimaryGeneratorAction1.html" title="PrimaryGeneratorAction1" alt="" coords="4406,883,4598,911"/>
+<area shape="rect" id="node44" href="$dd/df5/classPrimaryGeneratorAction3.html" title="PrimaryGeneratorAction3" alt="" coords="5214,883,5406,911"/>
+<area shape="rect" id="node45" href="$d7/d7d/classPrimaryGeneratorAction4.html" title="PrimaryGeneratorAction4" alt="" coords="4622,883,4814,911"/>
+<area shape="rect" id="node29" href="$da/dcf/classCLHEP_1_1Hep3Vector.html" title="CLHEP::Hep3Vector" alt="" coords="4992,279,5145,307"/>
+<area shape="rect" id="node31" href="$dc/d2e/classG4VModularPhysicsList.html" title="G4VModularPhysicsList" alt="" coords="2875,499,3054,527"/>
+<area shape="rect" id="node34" href="$d9/dc0/classG4ToolsAnalysisManager.html" title="G4ToolsAnalysisManager" alt="" coords="2527,499,2717,527"/>
+<area shape="rect" id="node37" href="$d0/d8e/classG4GeneralParticleSource.html" title="G4GeneralParticleSource" alt="" coords="6898,883,7087,911"/>
+<area shape="rect" id="node40" href="$dc/d9b/classPrimaryGenerator.html" title="PrimaryGenerator" alt="" coords="7112,883,7255,911"/>
+<area shape="rect" id="node47" href="$d9/d18/classG4StatDouble.html" title="G4StatDouble" alt="" coords="3324,1115,3440,1143"/>
+</map>

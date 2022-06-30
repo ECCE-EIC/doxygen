@@ -1,0 +1,31 @@
+<map id="G4UIcommand::GetTitle" name="G4UIcommand::GetTitle">
+<area shape="rect" id="node2" href="$d2/dca/pymodG4intercoms_8cc.html#a4cccb3e8306be9a3c21653f669375c8b" title="export_G4UIcommand" alt="" coords="257,516,429,544"/>
+<area shape="rect" id="node4" href="$d3/d6e/classG4UIGainServer.html#ae05e36283896fb298ff4e5bafb9d5e1c" title="G4UIGainServer::GetNewTree\lStructure" alt="" coords="508,96,728,140"/>
+<area shape="rect" id="node9" href="$d9/d2a/classG4UIGAG.html#a7f5757882740a1dd02748fdda13c9a51" title="G4UIGAG::GetNewTreeStructure" alt="" coords="499,469,737,497"/>
+<area shape="rect" id="node14" href="$d3/d31/classG4UIcommandTree.html#a67b60bd9ee1bb43a19a524e833712be1" title="G4UIcommandTree::GetTitle" alt="" coords="237,340,449,368"/>
+<area shape="rect" id="node3" href="$d2/dca/pymodG4intercoms_8cc.html#a56b1bdafcff600a26de760dd48ea2995" title="BOOST_PYTHON_MODULE" alt="" coords="1432,536,1627,564"/>
+<area shape="rect" id="node5" href="$d3/d6e/classG4UIGainServer.html#a12c1fd1f9a1f05023d7710824742bcc2" title="G4UIGainServer::G4UIGain\lServer" alt="" coords="818,5,1021,49"/>
+<area shape="rect" id="node6" href="$d3/d6e/classG4UIGainServer.html#a883d4b3b19abea3f0612cfd297812a5d" title="G4UIGainServer::ExecuteCommand" alt="" coords="1399,133,1660,161"/>
+<area shape="rect" id="node7" href="$d3/d6e/classG4UIGainServer.html#a9761c47f54d7f1fec6c8fcb8040809e0" title="G4UIGainServer::SessionStart" alt="" coords="1711,133,1935,161"/>
+<area shape="rect" id="node8" href="$d3/d6e/classG4UIGainServer.html#acb9e568dd76f58b322cfa3a56000296c" title="G4UIGainServer::PauseSession\lStart" alt="" coords="1708,185,1937,229"/>
+<area shape="rect" id="node10" href="$d9/d2a/classG4UIGAG.html#a34c6851b2f24e5f8f669e7a2b7f9b711" title="G4UIGAG::G4UIGAG" alt="" coords="841,524,997,552"/>
+<area shape="rect" id="node11" href="$d9/d2a/classG4UIGAG.html#ae8aaa2080dd34f9739d518d369329c74" title="G4UIGAG::ExecuteCommand" alt="" coords="1421,313,1637,341"/>
+<area shape="rect" id="node12" href="$d9/d2a/classG4UIGAG.html#a5da33ab711c66ed0e84b5069e91ccd4f" title="G4UIGAG::SessionStart" alt="" coords="1733,261,1912,289"/>
+<area shape="rect" id="node13" href="$d9/d2a/classG4UIGAG.html#a4c4886c86fedb88a2b8ba275cd3a0a56" title="G4UIGAG::PauseSessionStart" alt="" coords="1713,313,1932,341"/>
+<area shape="rect" id="node15" href="$d2/dca/pymodG4intercoms_8cc.html#adc5c6df8e6006c1000b067b2ade52b4b" title="export_G4UIcommandTree" alt="" coords="819,365,1019,393"/>
+<area shape="rect" id="node16" href="$d3/d31/classG4UIcommandTree.html#a2648bab6db57be208d03e1df2fff3545" title="G4UIcommandTree::CreateHTML" alt="" coords="497,417,739,445"/>
+<area shape="rect" id="node20" href="$d9/d2a/classG4UIGAG.html#a593fd7a64e087a47262dfcba6098603c" title="G4UIGAG::CodeGenJavaParams" alt="" coords="501,261,735,289"/>
+<area shape="rect" id="node25" href="$d9/d2a/classG4UIGAG.html#ad41d4aaa236e1d2ebb62b711525fc3ee" title="G4UIGAG::CodeGenTclTree" alt="" coords="517,313,719,341"/>
+<area shape="rect" id="node26" href="$d3/d6e/classG4UIGainServer.html#aa48489411c147f421d78494892edb071" title="G4UIGainServer::CodeGenJava\lParams" alt="" coords="504,193,732,237"/>
+<area shape="rect" id="node17" href="$d8/def/classG4UImanager.html#a3556410499ee7f41d5c166fedc74313a" title="G4UImanager::CreateHTML" alt="" coords="816,472,1023,500"/>
+<area shape="rect" id="node18" href="$d2/dca/pymodG4intercoms_8cc.html#ad3945ebce6e57abaf1103b9f51a0e072" title="export_G4UImanager" alt="" coords="1142,536,1309,564"/>
+<area shape="rect" id="node19" href="$d0/dad/classG4UIcontrolMessenger.html#a2276248566b2a4671bb823ff109d187b" title="G4UIcontrolMessenger\l::SetNewValue" alt="" coords="1138,468,1313,512"/>
+<area shape="rect" id="node21" href="$d9/d2a/classG4UIGAG.html#ab271a3426c47f99816ff4dd3ff1f608c" title="G4UIGAG::SendCommandProperties" alt="" coords="787,313,1052,341"/>
+<area shape="rect" id="node24" href="$d9/d2a/classG4UIGAG.html#acb78e4b6373b852b54468937876dcfd4" title="G4UIGAG::SendParameterProperties" alt="" coords="787,261,1052,289"/>
+<area shape="rect" id="node22" href="$d9/d2a/classG4UIGAG.html#a3e2f3124649ea76b750301928b7d8dc9" title="G4UIGAG::GetCommand" alt="" coords="1436,261,1623,289"/>
+<area shape="rect" id="node23" href="$d9/d2a/classG4UIGAG.html#a1a01adac59f437fd3df745a7935ce402" title="G4UIGAG::NotifyCommandUpdate" alt="" coords="1100,313,1351,341"/>
+<area shape="rect" id="node27" href="$d3/d6e/classG4UIGainServer.html#aa14abcf20fc882f1368b79a299e98d10" title="G4UIGainServer::SendCommand\lProperties" alt="" coords="799,125,1040,169"/>
+<area shape="rect" id="node30" href="$d3/d6e/classG4UIGainServer.html#a97998f32d49b50831458a93fefa1caca" title="G4UIGainServer::SendParameter\lProperties" alt="" coords="798,193,1041,237"/>
+<area shape="rect" id="node28" href="$d3/d6e/classG4UIGainServer.html#abebfb8096705f5f30234270ad27da92f" title="G4UIGainServer::GetCommand" alt="" coords="1413,193,1645,221"/>
+<area shape="rect" id="node29" href="$d3/d6e/classG4UIGainServer.html#aed3a4e66301278c247d5c02f2b07161a" title="G4UIGainServer::NotifyCommand\lUpdate" alt="" coords="1102,125,1349,169"/>
+</map>

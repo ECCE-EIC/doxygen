@@ -1,0 +1,30 @@
+<map id="HEPREP::HepRepFactory::createHepRep" name="HEPREP::HepRepFactory::createHepRep">
+<area shape="rect" id="node2" href="$d3/d61/classG4HepRepSceneHandler.html#aacf25099646f214f2b2e98714ec6d672" title="G4HepRepSceneHandler\l::getHepRep" alt="" coords="239,251,428,295"/>
+<area shape="rect" id="node29" href="$d3/d61/classG4HepRepSceneHandler.html#a58445031e78667b4e7a6724a01e09cd0" title="G4HepRepSceneHandler\l::getHepRepGeometry" alt="" coords="239,183,428,227"/>
+<area shape="rect" id="node3" href="$d3/d61/classG4HepRepSceneHandler.html#ad0dc15ddcbef3b8dd006c48fe791f304" title="G4HepRepSceneHandler\l::getEventInstanceTree" alt="" coords="721,581,911,625"/>
+<area shape="rect" id="node13" href="$d3/d61/classG4HepRepSceneHandler.html#a288a565b4b251320bd9c85cd30435a36" title="G4HepRepSceneHandler\l::getEventTypeTree" alt="" coords="476,488,665,532"/>
+<area shape="rect" id="node21" href="$d3/d61/classG4HepRepSceneHandler.html#a7e6f99e520f8a47efdd5ecc82123003d" title="G4HepRepSceneHandler\l::getGeometryInstanceTree" alt="" coords="713,156,919,200"/>
+<area shape="rect" id="node24" href="$d3/d61/classG4HepRepSceneHandler.html#ab576ef536863b3a47167884e084661ee" title="G4HepRepSceneHandler\l::getGeometryTypeTree" alt="" coords="476,127,665,171"/>
+<area shape="rect" id="node4" href="$d3/d61/classG4HepRepSceneHandler.html#a6b252dfea109b76b12019ee08588e6dc" title="G4HepRepSceneHandler\l::closeHepRep" alt="" coords="1501,428,1691,472"/>
+<area shape="rect" id="node8" href="$d3/d61/classG4HepRepSceneHandler.html#a41246aa6571ac597b99a3c0a4555999c" title="G4HepRepSceneHandler\l::getEventInstance" alt="" coords="975,608,1165,652"/>
+<area shape="rect" id="node5" href="$d3/d61/classG4HepRepSceneHandler.html#a4d4e4002f325b592d8ffd757d834a9e7" title="G4HepRepSceneHandler\l::close" alt="" coords="1753,399,1942,443"/>
+<area shape="rect" id="node7" href="$d5/d29/classG4HepRepViewer.html#a2ed7c56c6b050f14e00c2bb0a07c3a36" title="G4HepRepViewer::ShowView" alt="" coords="1739,467,1956,495"/>
+<area shape="rect" id="node6" href="$d3/d61/classG4HepRepSceneHandler.html#ac55d29ab3bbd84377fe14f83c64a189c" title="G4HepRepSceneHandler\l::~G4HepRepSceneHandler" alt="" coords="2004,399,2213,443"/>
+<area shape="rect" id="node9" href="$d3/d61/classG4HepRepSceneHandler.html#a38b0e0982b14f09d8248fd7b7a969ac7" title="G4HepRepSceneHandler\l::AddPrimitive" alt="" coords="1501,795,1691,839"/>
+<area shape="rect" id="node10" href="$d3/d61/classG4HepRepSceneHandler.html#ac0f34cd7a6431b23568df6c01813071c" title="G4HepRepSceneHandler\l::getGeometryOrEventInstance" alt="" coords="1221,607,1453,651"/>
+<area shape="rect" id="node11" href="$d3/d61/classG4HepRepSceneHandler.html#a47b3cc49f8238713422a48dc343490d8" title="G4HepRepSceneHandler\l::AddPrimitive" alt="" coords="1501,267,1691,311"/>
+<area shape="rect" id="node12" href="$d3/d61/classG4HepRepSceneHandler.html#a52883663d02f2b8a68caa4f44b8c4bcc" title="G4HepRepSceneHandler\l::AddSolid" alt="" coords="1501,607,1691,651"/>
+<area shape="rect" id="node14" href="$d3/d61/classG4HepRepSceneHandler.html#ac1c05969895af274b09653617fa49cb4" title="G4HepRepSceneHandler\l::getEventType" alt="" coords="721,488,911,532"/>
+<area shape="rect" id="node15" href="$d3/d61/classG4HepRepSceneHandler.html#a7d2798f2aa08ecdffac8ec9b0c0fdff0" title="G4HepRepSceneHandler\l::getCalHitType" alt="" coords="975,327,1165,371"/>
+<area shape="rect" id="node17" href="$d3/d61/classG4HepRepSceneHandler.html#abeefa888ebc0b579b1e49bddce044692" title="G4HepRepSceneHandler\l::getHitType" alt="" coords="975,488,1165,532"/>
+<area shape="rect" id="node20" href="$d3/d61/classG4HepRepSceneHandler.html#a5a06885a2d704d2bba37991e8e11f81c" title="G4HepRepSceneHandler\l::getTrajectoryType" alt="" coords="1243,675,1432,719"/>
+<area shape="rect" id="node16" href="$d3/d61/classG4HepRepSceneHandler.html#ab99e9f34a308cdc39cf599871b0fa183" title="G4HepRepSceneHandler\l::getCalHitFaceType" alt="" coords="1243,267,1432,311"/>
+<area shape="rect" id="node18" href="$d3/d61/classG4HepRepSceneHandler.html#a9944801f021b69784c4c7fe41d1230e1" title="G4HepRepSceneHandler\l::addAttributes" alt="" coords="1243,795,1432,839"/>
+<area shape="rect" id="node19" href="$d3/d61/classG4HepRepSceneHandler.html#a8c654d6ad9f7276edc92af415c92ad1b" title="G4HepRepSceneHandler\l::AddPrimitive" alt="" coords="1243,539,1432,583"/>
+<area shape="rect" id="node22" href="$d3/d61/classG4HepRepSceneHandler.html#ae50ee4356d66b53002948f6329162de8" title="G4HepRepSceneHandler\l::getGeometryRootInstance" alt="" coords="967,96,1173,140"/>
+<area shape="rect" id="node23" href="$d3/d61/classG4HepRepSceneHandler.html#ab60a484245e38585e8dc5a78fe7acbe1" title="G4HepRepSceneHandler\l::getGeometryInstance" alt="" coords="1501,96,1691,140"/>
+<area shape="rect" id="node25" href="$d3/d61/classG4HepRepSceneHandler.html#a7be1c70afb0dfeb33221a307b8fb1641" title="G4HepRepSceneHandler\l::getGeometryRootType" alt="" coords="721,59,911,103"/>
+<area shape="rect" id="node26" href="$d3/d61/classG4HepRepSceneHandler.html#a83c5404db67befd374f68c855e0c5274" title="G4HepRepSceneHandler\l::getFullTypeName" alt="" coords="975,28,1165,72"/>
+<area shape="rect" id="node27" href="$d3/d61/classG4HepRepSceneHandler.html#abbdd557d18f645f0b2af8395671ce322" title="G4HepRepSceneHandler\l::getGeometryType" alt="" coords="1243,28,1432,72"/>
+<area shape="rect" id="node28" href="$d3/d61/classG4HepRepSceneHandler.html#ab133f0d8e94d3f87f9c2b23b91ba14b2" title="G4HepRepSceneHandler\l::AddSolid" alt="" coords="1501,28,1691,72"/>
+</map>

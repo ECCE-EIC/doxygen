@@ -1,0 +1,27 @@
+<map id="G4GMocrenIO::storeData3" name="G4GMocrenIO::storeData3">
+<area shape="rect" id="node2" href="$d4/de1/classG4GMocrenIO.html#ac70f13e198526564c125651853626820" title="G4GMocrenIO::calcDoseDist\lScale" alt="" coords="267,5,477,49"/>
+<area shape="rect" id="node3" href="$d9/d04/expat_8h.html#a14bb8924daea0b48c7803f281f66e390" title="int" alt="" coords="641,43,681,71"/>
+<area shape="rect" id="node4" href="$d4/de1/classG4GMocrenIO.html#a0aa190d7d3b84ae608bb7041da79139a" title="G4GMocrenIO::calcPointers3" alt="" coords="265,565,479,593"/>
+<area shape="rect" id="node7" href="$d4/de1/classG4GMocrenIO.html#ace2c4e8b62f4edb711904f60918e7553" title="G4GMocrenIO::isDoseEmpty" alt="" coords="828,972,1040,1000"/>
+<area shape="rect" id="node9" href="$d2/db6/classGMocrenDataPrimitive.html#a782157ea06548558d1943d38dabbf19c" title="GMocrenDataPrimitive\l::getMinMax" alt="" coords="848,157,1020,201"/>
+<area shape="rect" id="node11" href="$d2/db6/classGMocrenDataPrimitive.html#ad477dffbe574a41859c292c1e26c5b12" title="GMocrenDataPrimitive\l::getSize" alt="" coords="848,307,1020,351"/>
+<area shape="rect" id="node12" href="$d4/de1/classG4GMocrenIO.html#a1a4206718382fc3d0fa97f8389021d82" title="G4GMocrenIO::getNumDoseDist" alt="" coords="541,227,780,255"/>
+<area shape="rect" id="node15" href="$d4/de1/classG4GMocrenIO.html#a52d3ee7ffb33fcfd5852563cf3cfe1bc" title="G4GMocrenIO::isROIEmpty" alt="" coords="833,791,1035,819"/>
+<area shape="rect" id="node19" href="$d4/de1/classG4GMocrenIO.html#acf64dff6f8d7f9417fe5cd2489554bed" title="G4GMocrenIO::getDoseDist\lCenterPosition" alt="" coords="269,1063,475,1107"/>
+<area shape="rect" id="node20" href="$d4/de1/classG4GMocrenIO.html#a6b2320b018cba2e46c89e42dc6ff5b47" title="G4GMocrenIO::getDoseDist\lScale" alt="" coords="269,995,475,1039"/>
+<area shape="rect" id="node21" href="$d2/db6/classGMocrenDataPrimitive.html#a634492e9965b3b5c8e2ea18725f6d1d7" title="GMocrenDataPrimitive\l::getImage" alt="" coords="286,1131,458,1175"/>
+<area shape="rect" id="node22" href="$d2/db6/classGMocrenDataPrimitive.html#a9021b095c9d51b98b761c1b01b601c40" title="GMocrenDataPrimitive\l::getScale" alt="" coords="286,1199,458,1243"/>
+<area shape="rect" id="node23" href="$d4/de1/classG4GMocrenIO.html#a0c8da422e65400f426f1a4c278cef1b5" title="G4GMocrenIO::getShortDoseDist" alt="" coords="251,1267,493,1295"/>
+<area shape="rect" id="node25" href="$d0/d0d/classG4VisManager.html#aa0e16695f2aa218f67abdcecc014071d" title="G4VisManager::GetVerbosity" alt="" coords="553,1319,769,1347"/>
+<area shape="rect" id="node26" href="$d4/de1/classG4GMocrenIO.html#aed620673384f05cf17e26489476c8c39" title="G4GMocrenIO::getShortDose\lDistMinMax" alt="" coords="264,1371,480,1415"/>
+<area shape="rect" id="node5" href="$d4/de1/classG4GMocrenIO.html#a93d21219e347a981a9a3f1f35c5dcada" title="G4GMocrenIO::addPointerTo\lDoseDistData" alt="" coords="555,415,766,459"/>
+<area shape="rect" id="node6" href="$d4/de1/classG4GMocrenIO.html#a91975606b342eea20bf16f1d70ca1369" title="G4GMocrenIO::getDoseDistSize" alt="" coords="544,843,777,871"/>
+<area shape="rect" id="node8" href="$d4/de1/classG4GMocrenIO.html#a63a93b9665cfbfe991e2a1c6044664bc" title="G4GMocrenIO::getModality\lImageMinMax" alt="" coords="559,279,762,323"/>
+<area shape="rect" id="node10" href="$d4/de1/classG4GMocrenIO.html#ad20d0025e07ad8bec3c57fc0a1fe27ea" title="G4GMocrenIO::getModality\lImageSize" alt="" coords="559,347,762,391"/>
+<area shape="rect" id="node13" href="$d4/de1/classG4GMocrenIO.html#a74b072eb9784e8f03c8cf456a29ba3bb" title="G4GMocrenIO::getNumTracks" alt="" coords="551,483,771,511"/>
+<area shape="rect" id="node14" href="$d4/de1/classG4GMocrenIO.html#a2272aab14d3f5f97aa776f51e323c509" title="G4GMocrenIO::getROISize" alt="" coords="562,791,759,819"/>
+<area shape="rect" id="node16" href="$d4/de1/classG4GMocrenIO.html#a8a199af0b4ca4453c69af298d5947d7c" title="G4GMocrenIO::setPointerTo\lModalityData" alt="" coords="558,587,763,631"/>
+<area shape="rect" id="node17" href="$d4/de1/classG4GMocrenIO.html#a23657d9b83e937a0d9d519133cf4b7d9" title="G4GMocrenIO::setPointerTo\lROIData" alt="" coords="558,655,763,699"/>
+<area shape="rect" id="node18" href="$d4/de1/classG4GMocrenIO.html#a7249be3a2be02206e85a66217be33f2e" title="G4GMocrenIO::setPointerTo\lTrackData" alt="" coords="558,723,763,767"/>
+<area shape="rect" id="node24" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="607,1267,714,1295"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G4ElectronIonPair::SampleIonsAlongStep" name="G4ElectronIonPair::SampleIonsAlongStep">
+<area shape="rect" id="node2" href="$df/d47/classG4StepPoint.html#a332a22652f055fcb5695b13abf2ff067" title="G4StepPoint::GetPosition" alt="" coords="247,57,437,85"/>
+<area shape="rect" id="node3" href="$d9/d7a/classG4Step.html#a018a80714d45ddcee863ba3e10ff7a2e" title="G4Step::GetPostStepPoint" alt="" coords="243,109,441,137"/>
+<area shape="rect" id="node4" href="$d9/d7a/classG4Step.html#ad3fa3cf6e5190386cf34207a1201cbae" title="G4Step::GetPreStepPoint" alt="" coords="247,161,437,189"/>
+<area shape="rect" id="node5" href="$d2/d2a/classG4ElectronIonPair.html#a15c0d128bb1162d4badc95b8ba4639bd" title="G4ElectronIonPair::\lSampleNumberOfIonsAlongStep" alt="" coords="223,213,461,257"/>
+<area shape="rect" id="node6" href="$d2/d2a/classG4ElectronIonPair.html#a545aa54a34796442058eb7bf643b929a" title="G4ElectronIonPair::\lMeanNumberOfIonsAlongStep" alt="" coords="509,139,735,183"/>
+<area shape="rect" id="node14" href="$d2/d54/templates_8hh.html#a7fb2b8c71918ecf5c3556578f32e4e75" title="G4lrint" alt="" coords="588,221,656,249"/>
+<area shape="rect" id="node15" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="543,303,701,347"/>
+<area shape="rect" id="node7" href="$d2/d2a/classG4ElectronIonPair.html#a7f64087d13b3f6dc401ff5a476aa0ed1" title="G4ElectronIonPair::\lFindG4MeanEnergyPerIonPair" alt="" coords="787,55,1007,99"/>
+<area shape="rect" id="node8" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="1065,5,1259,33"/>
+<area shape="rect" id="node11" href="$d6/d69/classG4IonisParamMat.html#a2847d5eefd64f6b8a55799def08eb550" title="G4IonisParamMat::GetMean\lEnergyPerIonPair" alt="" coords="792,123,1001,167"/>
+<area shape="rect" id="node12" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="819,191,974,235"/>
+<area shape="rect" id="node13" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="858,259,935,287"/>
+<area shape="rect" id="node9" href="$d5/de4/classG4Material.html#ad8d8779fa3a56cfb69010ac6c6d7c71f" title="G4Material::GetName" alt="" coords="1078,61,1246,89"/>
+<area shape="rect" id="node10" href="$d6/d69/classG4IonisParamMat.html#adf65831540ec2b739cbf22f1306da392" title="G4IonisParamMat::SetMean\lEnergyPerIonPair" alt="" coords="1059,113,1265,157"/>
+<area shape="rect" id="node16" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="783,311,1011,339"/>
+<area shape="rect" id="node17" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="1069,336,1255,364"/>
+</map>

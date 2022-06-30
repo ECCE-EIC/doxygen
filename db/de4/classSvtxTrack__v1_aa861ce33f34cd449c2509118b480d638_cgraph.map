@@ -1,0 +1,38 @@
+<map id="SvtxTrack_v1::CopyFrom" name="SvtxTrack_v1::CopyFrom">
+<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="240,5,464,33"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a5cc2801a4cd079b2b66681f5314a42ee" title="deprecated &#45; please use cluster keys instead" alt="" coords="255,57,449,85"/>
+<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#ab50b9d5324bbf26e3ad995b83d969405" title="SvtxTrack::begin_states" alt="" coords="261,109,443,137"/>
+<area shape="rect" id="node5" href="$db/de4/classSvtxTrack__v1.html#a0a84379046434f165e24eaf04890126b" title="SvtxTrack_v1::clear\l_states" alt="" coords="275,161,429,205"/>
+<area shape="rect" id="node6" href="$d9/de4/namespacefield__utils.html#a729e76ec3e56f739a78ca68e20dde00f" title="field_utils::copy" alt="" coords="288,229,416,257"/>
+<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#a5d25f0ad2128172ce8d07e105c8038a3" title="copy content from base class" alt="" coords="271,281,433,309"/>
+<area shape="rect" id="node8" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="247,333,457,361"/>
+<area shape="rect" id="node9" href="$d2/db8/classSvtxTrack.html#ab245c7f404ca40a83dcbe47748c28020" title="deprecated &#45; please use cluster keys instead" alt="" coords="262,385,442,413"/>
+<area shape="rect" id="node10" href="$d2/db8/classSvtxTrack.html#a962127fbab8b68401a8d2d26df0bc13d" title="SvtxTrack::end_states" alt="" coords="267,437,437,465"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#a6766fa22ed7d26214571689f5b70cc1a" title="SvtxTrack::get_cal\l_cluster_e" alt="" coords="281,489,423,533"/>
+<area shape="rect" id="node12" href="$d2/db8/classSvtxTrack.html#adb7fc0cec73cb129af97415e72e5df83" title="SvtxTrack::get_cal\l_cluster_id" alt="" coords="281,557,423,601"/>
+<area shape="rect" id="node13" href="$d2/db8/classSvtxTrack.html#a18b4b6924a7cecc96d201ec7f3bc2d86" title="SvtxTrack::get_cal\l_cluster_key" alt="" coords="281,625,423,669"/>
+<area shape="rect" id="node14" href="$d2/db8/classSvtxTrack.html#acf15f4a2427d85da4d97ed08bdb45b0c" title="SvtxTrack::get_cal_deta" alt="" coords="262,693,442,721"/>
+<area shape="rect" id="node15" href="$d2/db8/classSvtxTrack.html#a781c753d0679019836707a468ea5f074" title="SvtxTrack::get_cal_dphi" alt="" coords="262,745,442,773"/>
+<area shape="rect" id="node16" href="$d2/db8/classSvtxTrack.html#a5a3170bdd0ca44ba95aeede1e1e99780" title="SvtxTrack::get_cal\l_energy_3x3" alt="" coords="281,797,423,841"/>
+<area shape="rect" id="node17" href="$d2/db8/classSvtxTrack.html#ad7445e0d6fb1544c171ed50a02079b8c" title="SvtxTrack::get_cal\l_energy_5x5" alt="" coords="281,865,423,909"/>
+<area shape="rect" id="node18" href="$d2/db8/classSvtxTrack.html#ab0dfef96ff528427922596ca5b2fb3c7" title="SvtxTrack::get_chisq" alt="" coords="273,933,431,961"/>
+<area shape="rect" id="node19" href="$d2/db8/classSvtxTrack.html#aaa8c7ee52139738e741d371fb4975ddd" title="SvtxTrack::get_dca" alt="" coords="278,985,426,1013"/>
+<area shape="rect" id="node20" href="$d2/db8/classSvtxTrack.html#a4e25b3bc504ddb7c3be35c7cb13bb931" title="SvtxTrack::get_dca2d" alt="" coords="269,1037,435,1065"/>
+<area shape="rect" id="node21" href="$d2/db8/classSvtxTrack.html#ae1e57c91c993c6d7ff285d712a986812" title="SvtxTrack::get_dca2d\l_error" alt="" coords="269,1089,435,1133"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#ada3467dfb56c3a0596d2cbf4f36502de" title="SvtxTrack::get_dca3d_xy" alt="" coords="258,1157,446,1185"/>
+<area shape="rect" id="node23" href="$d2/db8/classSvtxTrack.html#a2253ed1572104786787923519f95ba10" title="SvtxTrack::get_dca3d\l_xy_error" alt="" coords="269,1209,435,1253"/>
+<area shape="rect" id="node24" href="$d2/db8/classSvtxTrack.html#a9b6cb11fc21e0232ea2ec34a991c3a36" title="SvtxTrack::get_dca3d_z" alt="" coords="262,1277,442,1305"/>
+<area shape="rect" id="node25" href="$d2/db8/classSvtxTrack.html#ac17e9001446d2e2a6fcb2b4f329d6e4b" title="SvtxTrack::get_dca3d\l_z_error" alt="" coords="269,1329,435,1373"/>
+<area shape="rect" id="node26" href="$d2/db8/classSvtxTrack.html#ad14cc3b7863b8b68c295697854e57858" title="SvtxTrack::get_dca\l_error" alt="" coords="278,1397,426,1441"/>
+<area shape="rect" id="node27" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="284,1465,420,1493"/>
+<area shape="rect" id="node28" href="$d2/db8/classSvtxTrack.html#a65bd7f7464194995552b517c05183067" title="SvtxTrack::get_ndf" alt="" coords="279,1517,425,1545"/>
+<area shape="rect" id="node29" href="$d2/db8/classSvtxTrack.html#a986434e4e0dac4b30896806d408d8754" title="SvtxTrack::get_positive\l_charge" alt="" coords="263,1569,441,1613"/>
+<area shape="rect" id="node30" href="$d2/db8/classSvtxTrack.html#a0db4feda5e8283176430ebbdb2e36f9a" title="SvtxTrack::get_vertex_id" alt="" coords="259,1637,445,1665"/>
+<area shape="rect" id="node31" href="$db/de4/classSvtxTrack__v1.html#a9f122f64439c9e0de227be78911a3efd" title="SvtxTrack_v1::set_cal\l_cluster_e" alt="" coords="269,1689,435,1733"/>
+<area shape="rect" id="node32" href="$db/de4/classSvtxTrack__v1.html#a1e2bdfe6610ae2041ab263f540b824ce" title="SvtxTrack_v1::set_cal\l_cluster_id" alt="" coords="269,1757,435,1801"/>
+<area shape="rect" id="node33" href="$db/de4/classSvtxTrack__v1.html#a5f2c82f8ad7ec08637dae996a18d2d57" title="SvtxTrack_v1::set_cal\l_cluster_key" alt="" coords="269,1825,435,1869"/>
+<area shape="rect" id="node34" href="$db/de4/classSvtxTrack__v1.html#a4542c5e968600a85be0e8d11ea7eedde" title="SvtxTrack_v1::set_cal_deta" alt="" coords="251,1893,453,1921"/>
+<area shape="rect" id="node35" href="$db/de4/classSvtxTrack__v1.html#afb763bf2480e3c25e628532ff025fe11" title="SvtxTrack_v1::set_cal_dphi" alt="" coords="251,1945,453,1973"/>
+<area shape="rect" id="node36" href="$db/de4/classSvtxTrack__v1.html#acf7dece40d5c242757b7a64fc0418020" title="SvtxTrack_v1::set_cal\l_energy_3x3" alt="" coords="269,1997,435,2041"/>
+<area shape="rect" id="node37" href="$db/de4/classSvtxTrack__v1.html#ac19c8b3ac0de578652d61b253f2c8674" title="SvtxTrack_v1::set_cal\l_energy_5x5" alt="" coords="269,2065,435,2109"/>
+</map>

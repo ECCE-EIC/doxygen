@@ -1,0 +1,51 @@
+<map id="G4INCL::StandardPropagationModel::updateAvatars" name="G4INCL::StandardPropagationModel::updateAvatars">
+<area shape="rect" id="node2" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="275,893,528,937"/>
+<area shape="rect" id="node10" href="$d7/db0/classG4INCL_1_1Nucleus.html#a39ebe42fabb45f882892a031ad1c24fb" title="G4INCL::Nucleus::getStore" alt="" coords="933,1244,1133,1272"/>
+<area shape="rect" id="node26" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="1257,1244,1411,1288"/>
+<area shape="rect" id="node46" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a4944f2d692d6f826da9f50b00a2c7fc3" title="G4INCL::StandardPropagation\lModel::registerAvatar" alt="" coords="604,1245,825,1289"/>
+<area shape="rect" id="node48" href="$d5/dd3/classG4INCL_1_1Store.html#ae298a882442b2fbe114517fcdca767ef" title="G4INCL::Store::getParticles" alt="" coords="300,1296,503,1324"/>
+<area shape="rect" id="node49" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a08ff6561de3f296069d757bea40a81a0" title="Get the reflection time." alt="" coords="923,1176,1144,1220"/>
+<area shape="rect" id="node3" href="$d2/dc8/classG4INCL_1_1UnorderedVector.html#ae88642a613fd68ce698f14dc8fabc64a" title="G4INCL::UnorderedVector\l::contains" alt="" coords="617,675,812,719"/>
+<area shape="rect" id="node4" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="576,743,853,787"/>
+<area shape="rect" id="node5" href="$db/d29/classG4INCL_1_1Book.html#a3e603625d5cb1015542d8307b13447c4" title="G4INCL::Book::getAccepted\lCollisions" alt="" coords="930,1056,1137,1100"/>
+<area shape="rect" id="node6" href="$d5/dd3/classG4INCL_1_1Store.html#aad69fa0b425c84bf5a97962767ab7dfb" title="G4INCL::Store::getBook" alt="" coords="943,148,1124,176"/>
+<area shape="rect" id="node7" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#abd2407cd1a383ce4589d38802770b8dc" title="G4INCL::BinaryCollisionAvatar\l::getCutNNSquared" alt="" coords="921,200,1146,244"/>
+<area shape="rect" id="node8" href="$dd/d83/classG4INCL_1_1Particle.html#a64889933daf367553255de47669bb79b" title="G4INCL::Particle::getParticipantType" alt="" coords="901,268,1165,296"/>
+<area shape="rect" id="node9" href="$dd/d83/classG4INCL_1_1Particle.html#a5575330878a28b978dc2b40df39cc6f9" title="G4INCL::Particle::getPosition" alt="" coords="1541,651,1755,679"/>
+<area shape="rect" id="node11" href="$d7/db0/classG4INCL_1_1Nucleus.html#a43c35b08fb380b14df18ad209bb4a59c" title="Get the maximum allowed radius for a given particle." alt="" coords="1226,1003,1442,1047"/>
+<area shape="rect" id="node17" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a7b822bb48f8211e8190d171264450db6" title="G4INCL::ThreeVector::mag" alt="" coords="1841,703,2041,731"/>
+<area shape="rect" id="node20" href="$dd/d83/classG4INCL_1_1Particle.html#af5d31d61ac8b22a0812568a4a984e9d1" title="G4INCL::Particle::isNucleon" alt="" coords="1546,1183,1750,1211"/>
+<area shape="rect" id="node21" href="$dd/d83/classG4INCL_1_1Particle.html#a616be21abf18318f60dba4833f8caa20" title="Is it a resonance?" alt="" coords="1537,1235,1759,1263"/>
+<area shape="rect" id="node22" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ac182e8187a8e4d9245ccd3a4e0ed196e" title="G4INCL::StandardPropagation\lModel::getTime" alt="" coords="923,712,1144,756"/>
+<area shape="rect" id="node27" href="$dd/d83/classG4INCL_1_1Particle.html#a4131ed4143c5c9c3db1ef042063f2fab" title="Is this a Meson?" alt="" coords="937,388,1130,416"/>
+<area shape="rect" id="node28" href="$dd/d83/classG4INCL_1_1Particle.html#a750bf1c385c14c592f77dfc82929279a" title="Is this a pion?" alt="" coords="1245,453,1423,481"/>
+<area shape="rect" id="node34" href="$dd/d83/classG4INCL_1_1Particle.html#a020fb55b6bf0f31a7d12afeaa255d71b" title="G4INCL::Particle::isParticipant" alt="" coords="922,780,1145,808"/>
+<area shape="rect" id="node35" href="$dd/d83/classG4INCL_1_1Particle.html#a516651f2101e9a2fc08f79472cde1551" title="G4INCL::Particle::propagate" alt="" coords="929,884,1137,912"/>
+<area shape="rect" id="node36" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a1616ba5d546c2e556e98226f4c946238" title="G4INCL::KinematicsUtils\l::squareTotalEnergyInCM" alt="" coords="939,320,1127,364"/>
+<area shape="rect" id="node39" href="$d6/d3f/namespaceG4INCL_1_1CrossSections.html#a99ec8bdeeed620746dce4790b2bb51a4" title="G4INCL::CrossSections\l::total" alt="" coords="946,988,1121,1032"/>
+<area shape="rect" id="node40" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8fdc908e37944096ca697d1338d91746" title="G4INCL::KinematicsUtils\l::transformToLocalEnergyFrame" alt="" coords="916,592,1151,636"/>
+<area shape="rect" id="node12" href="$d3/d84/classG4INCL_1_1NuclearPotential_1_1INuclearPotential.html#a079107f4cfa22326214bbd3ad53d3762" title="Return the Fermi momentum for a particle." alt="" coords="1503,1063,1793,1107"/>
+<area shape="rect" id="node14" href="$dd/d83/classG4INCL_1_1Particle.html#a85d12415b702dafd295dad34b16ebbbc" title="G4INCL::Particle::getType" alt="" coords="1845,1011,2037,1039"/>
+<area shape="rect" id="node15" href="$d9/d25/classG4INCL_1_1NuclearDensity.html#a1c8997fd8baa73bb95a039c774bafe96" title="Get the maximum allowed radius for a given momentum." alt="" coords="1557,943,1739,987"/>
+<area shape="rect" id="node16" href="$dd/d83/classG4INCL_1_1Particle.html#a4f769eabec20136ed087435132b3abe2" title="Return the reflection momentum." alt="" coords="1535,755,1761,799"/>
+<area shape="rect" id="node18" href="$d7/db0/classG4INCL_1_1Nucleus.html#a80055cc5d8cb317edec8679c4cc86645" title="Getter for theUniverseRadius." alt="" coords="1536,875,1760,919"/>
+<area shape="rect" id="node19" href="$dd/d83/classG4INCL_1_1Particle.html#ab764f7f80979539dc7ad95556f31671d" title="Is this a Lambda?" alt="" coords="1547,1131,1749,1159"/>
+<area shape="rect" id="node13" href="$dd/d83/classG4INCL_1_1Particle.html#aa8130b3c975b204e3a234d476dfd646b" title="Is it a Delta?" alt="" coords="1849,1137,2033,1165"/>
+<area shape="rect" id="node23" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aa30743ac6a72bc2943cdce1f49665281" title="G4INCL::ThreeVector::dot" alt="" coords="1237,712,1431,740"/>
+<area shape="rect" id="node24" href="$dd/d83/classG4INCL_1_1Particle.html#aa648291e8687c934cb35d756b468ab11" title="Get the propagation velocity of the particle." alt="" coords="1213,935,1455,979"/>
+<area shape="rect" id="node25" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#aae5baaebbb9339c58587b4b37d1c428e" title="G4INCL::ThreeVector\l::mag2" alt="" coords="1253,177,1415,221"/>
+<area shape="rect" id="node29" href="$dd/d83/classG4INCL_1_1Particle.html#a7733f7088e755ad007337b0f4eb0db74" title="Is this a Kaon?" alt="" coords="1243,125,1425,153"/>
+<area shape="rect" id="node30" href="$dd/d83/classG4INCL_1_1Particle.html#a00ec5c5cfa142aef10955a632b46b0eb" title="Is this an antiKaon?" alt="" coords="1229,245,1439,273"/>
+<area shape="rect" id="node31" href="$dd/d83/classG4INCL_1_1Particle.html#af4d272d3fcb48faf9ee0dac5cc78ea8e" title="Is this an eta?" alt="" coords="1249,297,1419,325"/>
+<area shape="rect" id="node32" href="$dd/d83/classG4INCL_1_1Particle.html#af5bea2c5403ba70a62771b7515e976be" title="Is this an etaprime?" alt="" coords="1229,349,1439,377"/>
+<area shape="rect" id="node33" href="$dd/d83/classG4INCL_1_1Particle.html#af1faf21893e178d1b6a49c3a2f1dd0df" title="Is this an omega?" alt="" coords="1235,401,1433,429"/>
+<area shape="rect" id="node37" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#a8191fa338fd4fa10beb77754d93c213f" title="G4INCL::KinematicsUtils\l::makeBoostVector" alt="" coords="1242,5,1426,49"/>
+<area shape="rect" id="node38" href="$dd/d83/classG4INCL_1_1Particle.html#a1056ada71ff044004019023d29cfdb03" title="G4INCL::Particle::getEnergy" alt="" coords="1544,73,1752,101"/>
+<area shape="rect" id="node41" href="$d1/dbd/namespaceG4INCL_1_1KinematicsUtils.html#acdb8e56166ec9da8253c0192a0a854f4" title="G4INCL::KinematicsUtils\l::getLocalEnergy" alt="" coords="1242,867,1426,911"/>
+<area shape="rect" id="node45" href="$dd/d83/classG4INCL_1_1Particle.html#ac6ece0a46852fc251f788f5dd88e47e4" title="G4INCL::Particle::setEnergy" alt="" coords="1231,608,1437,636"/>
+<area shape="rect" id="node42" href="$dd/d83/classG4INCL_1_1Particle.html#a7b8ff5b6d05059e45730c1ce83d6a862" title="G4INCL::Particle::print" alt="" coords="1563,1299,1733,1327"/>
+<area shape="rect" id="node43" href="$d5/d8e/namespaceG4INCL_1_1ParticleTable.html#a8ca754711723a486ef5f4beac603500a" title="Get the native INCL name of the particle." alt="" coords="1859,1324,2023,1368"/>
+<area shape="rect" id="node44" href="$d1/dc2/classG4INCL_1_1ThreeVector.html#a30af3810cc634b9407049a08cd639e75" title="G4INCL::ThreeVector\l::print" alt="" coords="1860,1256,2023,1300"/>
+<area shape="rect" id="node47" href="$d5/dd3/classG4INCL_1_1Store.html#a669515f693b3b017a847b6c765e710f6" title="G4INCL::Store::add" alt="" coords="959,1296,1108,1324"/>
+<area shape="rect" id="node50" href="$d0/dd4/namespaceG4INCL_1_1IntersectionFactory.html#a41d8fdfa290090835cd251a3aa50bfa4" title="Compute the second intersection of a straight particle trajectory with a sphere." alt="" coords="1217,1176,1451,1220"/>
+</map>

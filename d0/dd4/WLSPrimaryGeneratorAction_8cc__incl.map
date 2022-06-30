@@ -1,0 +1,42 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/optical/wls/src/WLSPrimaryGeneratorAction.cc" name="geant4/tree/geant4&#45;10.6&#45;release/examples/extended/optical/wls/src/WLSPrimaryGeneratorAction.cc">
+<area shape="rect" id="node2" href="$df/de9/G4ios_8hh.html" title="G4ios.hh" alt="" coords="2394,737,2476,765"/>
+<area shape="rect" id="node5" href="$dc/dab/G4Event_8hh.html" title="G4Event.hh" alt="" coords="496,509,596,537"/>
+<area shape="rect" id="node15" href="$db/d5f/G4GeneralParticleSource_8hh.html" title="G4GeneralParticleSource.hh" alt="" coords="1330,129,1540,157"/>
+<area shape="rect" id="node17" href="$da/d12/G4ParticleDefinition_8hh.html" title="G4ParticleDefinition.hh" alt="" coords="1866,357,2044,385"/>
+<area shape="rect" id="node20" href="$d8/d7b/G4AutoLock_8hh.html" title="G4AutoLock.hh" alt="" coords="2136,509,2259,537"/>
+<area shape="rect" id="node25" href="$d4/dc8/G4Material_8hh.html" title="G4Material.hh" alt="" coords="2650,433,2766,461"/>
+<area shape="rect" id="node28" href="$df/d70/G4MaterialPropertiesTable_8hh.html" title="G4MaterialPropertiesTable.hh" alt="" coords="3267,509,3486,537"/>
+<area shape="rect" id="node37" href="$d3/d3c/G4ParticleTable_8hh.html" title="G4ParticleTable.hh" alt="" coords="2274,205,2420,233"/>
+<area shape="rect" id="node40" href="$d1/d4b/G4PhysicsTable_8hh.html" title="G4PhysicsTable.hh" alt="" coords="3966,509,4112,537"/>
+<area shape="rect" id="node43" href="$dc/de9/Randomize_8hh.html" title="Randomize.hh" alt="" coords="3368,129,3486,157"/>
+<area shape="rect" id="node47" href="$d5/dfa/WLSPrimaryGeneratorAction_8hh.html" title="Definition of the WLSPrimaryGeneratorAction class." alt="" coords="583,205,818,233"/>
+<area shape="rect" id="node48" href="$dc/d9d/WLSDetectorConstruction_8hh.html" title="Definition of the WLSDetectorConstruction class." alt="" coords="1456,585,1672,613"/>
+<area shape="rect" id="node49" href="$de/dca/WLSPrimaryGeneratorMessenger_8hh.html" title="Definition of the WLSPrimaryGeneratorMessenger class." alt="" coords="848,357,1112,385"/>
+<area shape="rect" id="node50" href="$da/d91/G4SystemOfUnits_8hh.html" title="G4SystemOfUnits.hh" alt="" coords="4524,129,4685,157"/>
+<area shape="rect" id="node3" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1566,813,1666,841"/>
+<area shape="rect" id="node6" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="1404,661,1495,689"/>
+<area shape="rect" id="node7" href="$da/d9b/evtdefs_8hh.html" title="evtdefs.hh" alt="" coords="138,661,230,689"/>
+<area shape="rect" id="node8" href="$dd/d3c/G4Allocator_8hh.html" title="G4Allocator.hh" alt="" coords="255,661,375,689"/>
+<area shape="rect" id="node9" href="$d6/dd6/G4PrimaryVertex_8hh.html" title="G4PrimaryVertex.hh" alt="" coords="38,585,194,613"/>
+<area shape="rect" id="node11" href="$d4/d9a/G4DCofThisEvent_8hh.html" title="G4DCofThisEvent.hh" alt="" coords="865,585,1026,613"/>
+<area shape="rect" id="node13" href="$d4/d37/G4TrajectoryContainer_8hh.html" title="G4TrajectoryContainer.hh" alt="" coords="218,585,412,613"/>
+<area shape="rect" id="node14" href="$de/d18/G4VUserEventInformation_8hh.html" title="G4VUserEventInformation.hh" alt="" coords="436,585,655,613"/>
+<area shape="rect" id="node16" href="$d1/d2e/G4SingleParticleSource_8hh.html" title="G4SingleParticleSource.hh" alt="" coords="1440,281,1640,309"/>
+<area shape="rect" id="node23" href="$d8/de0/G4GeneralParticleSourceMessenger_8hh.html" title="G4GeneralParticleSourceMessenger.hh" alt="" coords="1187,357,1470,385"/>
+<area shape="rect" id="node24" href="$d2/df7/G4GeneralParticleSourceData_8hh.html" title="G4GeneralParticleSourceData.hh" alt="" coords="1314,205,1556,233"/>
+<area shape="rect" id="node21" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1747,585,1878,613"/>
+<area shape="rect" id="node18" href="$dd/d09/PhysicalConstants_8h.html" title="CLHEP/Units/PhysicalConstants.h" alt="" coords="2104,585,2347,613"/>
+<area shape="rect" id="node19" href="$d2/d0a/G4PDefManager_8hh.html" title="G4PDefManager.hh" alt="" coords="2102,433,2253,461"/>
+<area shape="rect" id="node27" href="$dc/d43/G4Element_8hh.html" title="G4Element.hh" alt="" coords="2472,585,2590,613"/>
+<area shape="rect" id="node33" href="$d6/d29/G4IonisParamMat_8hh.html" title="G4IonisParamMat.hh" alt="" coords="1849,509,2010,537"/>
+<area shape="rect" id="node34" href="$d3/d36/G4SandiaTable_8hh.html" title="G4SandiaTable.hh" alt="" coords="2334,509,2477,537"/>
+<area shape="rect" id="node35" href="$d1/d10/G4ElementVector_8hh.html" title="G4ElementVector.hh" alt="" coords="2604,509,2762,537"/>
+<area shape="rect" id="node36" href="$d1/db0/G4MaterialTable_8hh.html" title="G4MaterialTable.hh" alt="" coords="2838,509,2990,537"/>
+<area shape="rect" id="node30" href="$da/d68/G4MaterialPropertiesIndex_8hh.html" title="G4MaterialPropertiesIndex.hh" alt="" coords="3672,585,3894,613"/>
+<area shape="rect" id="node31" href="$dd/dd6/G4MaterialPropertyVector_8hh.html" title="G4MaterialPropertyVector.hh" alt="" coords="3433,585,3648,613"/>
+<area shape="rect" id="node38" href="$dc/dcc/G4ParticleTableIterator_8hh.html" title="G4ParticleTableIterator.hh" alt="" coords="2502,281,2696,309"/>
+<area shape="rect" id="node41" href="$d1/d6f/G4PhysicsVector_8hh.html" title="G4PhysicsVector.hh" alt="" coords="4020,585,4173,613"/>
+<area shape="rect" id="node44" href="$d5/dea/Randomize_8h.html" title="CLHEP/Random/Randomize.h" alt="" coords="3369,205,3586,233"/>
+<area shape="rect" id="node45" href="$db/df5/RandFlat_8h.html" title="CLHEP/Random/RandFlat.h" alt="" coords="3461,357,3662,385"/>
+<area shape="rect" id="node46" href="$d4/d47/RandBit_8h.html" title="CLHEP/Random/RandBit.h" alt="" coords="3330,281,3524,309"/>
+</map>

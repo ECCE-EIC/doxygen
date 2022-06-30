@@ -1,0 +1,13 @@
+<map id="G4IntraNucleiCascader::particleCanInteract" name="G4IntraNucleiCascader::particleCanInteract">
+<area shape="rect" id="node2" href="$d0/d60/classG4IntraNucleiCascader.html#a2def5ba7879b20884cb93f062d50615c" title="G4IntraNucleiCascader\l::generateCascade" alt="" coords="231,73,408,117"/>
+<area shape="rect" id="node3" href="$d0/d60/classG4IntraNucleiCascader.html#a7c34f74d66dd88e6952625ea5b6e2b34" title="G4IntraNucleiCascader\l::collide" alt="" coords="456,39,633,83"/>
+<area shape="rect" id="node10" href="$d0/d60/classG4IntraNucleiCascader.html#a62942b76c53e512c5aaf2afa04e886be" title="G4IntraNucleiCascader\l::rescatter" alt="" coords="456,107,633,151"/>
+<area shape="rect" id="node4" href="$d4/d24/classG4InuclCollider.html#ab4109b3dbea48ffe64e45bab046ca4e5" title="G4InuclCollider::collide" alt="" coords="690,47,867,75"/>
+<area shape="rect" id="node5" href="$dc/d8b/classG4CascadeInterface.html#a3e0ff37200e59c01d332761f8840fde0" title="G4CascadeInterface\l::ApplyYourself" alt="" coords="924,39,1081,83"/>
+<area shape="rect" id="node6" href="$d8/d6b/classG4ElectroVDNuclearModel.html#a15792692047f53ba39b7f7ad0332ac24" title="G4ElectroVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1129,5,1328,49"/>
+<area shape="rect" id="node8" href="$d5/da9/classG4MuonVDNuclearModel.html#a9f20635edab81218a1833ad64c6a3729" title="G4MuonVDNuclearModel\l::CalculateHadronicVertex" alt="" coords="1130,73,1327,117"/>
+<area shape="rect" id="node7" href="$d8/d6b/classG4ElectroVDNuclearModel.html#aff2070bcaa641e29a7d5896bab279936" title="G4ElectroVDNuclearModel\l::ApplyYourself" alt="" coords="1376,5,1575,49"/>
+<area shape="rect" id="node9" href="$d5/da9/classG4MuonVDNuclearModel.html#a6e88b64afe9457368de2eb053dac08a6" title="G4MuonVDNuclearModel\l::ApplyYourself" alt="" coords="1381,73,1570,117"/>
+<area shape="rect" id="node11" href="$d4/d24/classG4InuclCollider.html#ab9f3bf1a38c40ca67811009ca7e8adaf" title="G4InuclCollider::rescatter" alt="" coords="681,115,876,143"/>
+<area shape="rect" id="node12" href="$dc/d8b/classG4CascadeInterface.html#ab8f6e4c678c2908475a4bca6dbc7bcb1" title="G4CascadeInterface\l::Propagate" alt="" coords="924,107,1081,151"/>
+</map>

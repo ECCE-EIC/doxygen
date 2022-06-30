@@ -1,0 +1,32 @@
+<map id="F02PrimaryGeneratorMessenger::F02PrimaryGeneratorMessenger" name="F02PrimaryGeneratorMessenger::F02PrimaryGeneratorMessenger">
+<area shape="rect" id="node2" href="$d2/dd2/classG4UIcommand.html#ae6928a74b5faefb6c6b2606ec7272e47" title="G4UIcommand::AvailableFor\lStates" alt="" coords="309,5,523,49"/>
+<area shape="rect" id="node3" href="$d0/d84/classG4UIcmdWithAString.html#a12979c4acecc73acbb62a32730222b14" title="G4UIcmdWithAString\l::SetCandidates" alt="" coords="923,244,1086,288"/>
+<area shape="rect" id="node6" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#a4dccb94979d84625c9107504ae185ada" title="G4UIcmdWithADoubleAndUnit\l::SetDefaultUnit" alt="" coords="303,295,529,339"/>
+<area shape="rect" id="node25" href="$d0/d84/classG4UIcmdWithAString.html#ab44aec76b1569f7bfac05547c78a97e4" title="G4UIcmdWithAString\l::SetDefaultValue" alt="" coords="335,73,497,117"/>
+<area shape="rect" id="node26" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#a0216443a05da1741022aae2be054dc46" title="G4UIcmdWithADoubleAndUnit\l::SetDefaultValue" alt="" coords="303,141,529,185"/>
+<area shape="rect" id="node27" href="$d2/dd2/classG4UIcommand.html#a791eb299b62778e033543435923778c0" title="G4UIcommand::SetGuidance" alt="" coords="307,535,525,563"/>
+<area shape="rect" id="node28" href="$d0/d84/classG4UIcmdWithAString.html#a6d580fd73a2260e4e74b67d9a778dadf" title="G4UIcmdWithAString\l::SetParameterName" alt="" coords="335,467,497,511"/>
+<area shape="rect" id="node31" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#ab5f1f5529edb21d1b2038b091c95c6b7" title="G4UIcmdWithADoubleAndUnit\l::SetParameterName" alt="" coords="303,399,529,443"/>
+<area shape="rect" id="node4" href="$d2/dd2/classG4UIcommand.html#a2b5ccdefabaa952282b757d913797186" title="G4UIcommand::GetParameter" alt="" coords="1167,192,1393,220"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4UIparameter.html#aa89971285388365dd2aca23d44e02c74" title="G4UIparameter::SetParameter\lCandidates" alt="" coords="1167,244,1393,288"/>
+<area shape="rect" id="node7" href="$d9/d78/classG4UIparameter.html#a48710feba421297f95f3d40edda04421" title="G4UIparameter::SetOmittable" alt="" coords="599,415,821,443"/>
+<area shape="rect" id="node8" href="$d9/d78/classG4UIparameter.html#a05b29f65c6bcbe11ac2b97db295e2bd5" title="G4UIparameter::SetDefault\lValue" alt="" coords="607,73,813,117"/>
+<area shape="rect" id="node9" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#a15c22216dcfda11028812524c1343134" title="G4UIcmdWithADoubleAndUnit\l::SetUnitCategory" alt="" coords="597,295,823,339"/>
+<area shape="rect" id="node18" href="$d2/dd2/classG4UIcommand.html#a33b3decc2add9821af54572c2d0621e1" title="G4UIcommand::CategoryOf" alt="" coords="605,363,815,391"/>
+<area shape="rect" id="node10" href="$d7/d89/classG4UIcmdWithADoubleAndUnit.html#a0935ff486d705c14599d99c4469fc5d8" title="G4UIcmdWithADoubleAndUnit\l::SetUnitCandidates" alt="" coords="891,312,1118,356"/>
+<area shape="rect" id="node11" href="$d2/dd2/classG4UIcommand.html#abdbe12c2eb5a51b3f8e34701504ec24f" title="G4UIcommand::UnitsList" alt="" coords="910,489,1099,517"/>
+<area shape="rect" id="node12" href="$dd/db6/classG4UnitDefinition.html#ad760642d8d8cc28d245e8101f86ed432" title="G4UnitDefinition::GetUnits\lTable" alt="" coords="1179,547,1381,591"/>
+<area shape="rect" id="node13" href="$dd/db6/classG4UnitDefinition.html#a935e1332ba986a91d04e0f55996d301e" title="G4UnitDefinition::BuildUnits\lTable" alt="" coords="1443,568,1655,612"/>
+<area shape="rect" id="node16" href="$d7/d23/namespaceG4Threading.html#abb1b4c9b1d7bd6bf5f9b9e552b93bd38" title="G4Threading::IsMasterThread" alt="" coords="1944,632,2165,660"/>
+<area shape="rect" id="node14" href="$dd/db6/classG4UnitDefinition.html#a7109cd0b74ba54198d1ba74d757e6c85" title="G4UnitDefinition::G4Unit\lDefinition" alt="" coords="1705,568,1896,612"/>
+<area shape="rect" id="node15" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="2001,419,2108,447"/>
+<area shape="rect" id="node17" href="$dd/db6/classG4UnitDefinition.html#a94a28970a26fc3e3ff90a28a86c7ff9d" title="G4UnitDefinition::GetName" alt="" coords="1951,576,2158,604"/>
+<area shape="rect" id="node19" href="$dd/db6/classG4UnitDefinition.html#ab312cecd9b92e02f18c9c473a7110c6d" title="G4UnitDefinition::GetCategory" alt="" coords="891,396,1119,424"/>
+<area shape="rect" id="node20" href="$d8/d3c/ts__scorers_8cc.html#ad81d1cdebbda7d39795160acd3aebd24" title="message" alt="" coords="1239,425,1321,453"/>
+<area shape="rect" id="node21" href="$d7/d23/namespaceG4Threading.html#a457962a93ab41c7f9575dde6cbe9b78c" title="G4Threading::G4GetNumber\lOfCores" alt="" coords="1441,500,1657,544"/>
+<area shape="rect" id="node22" href="$d4/daa/classG4RunManager.html#a3a19f2283ba22cbee8ba640d160d2e7e" title="G4RunManager::GetVerbose\lLevel" alt="" coords="1443,364,1655,408"/>
+<area shape="rect" id="node23" href="$d4/daa/classG4RunManager.html#a9e042965b0d460b1d492ab48de141b2a" title="G4RunManager::SetVerbose\lLevel" alt="" coords="1444,432,1655,476"/>
+<area shape="rect" id="node24" href="$de/d51/classG4RunManagerKernel.html#aea8a72d21f60b3e6436eed9b651dc247" title="G4RunManagerKernel\l::SetVerboseLevel" alt="" coords="1717,432,1885,476"/>
+<area shape="rect" id="node29" href="$d9/d78/classG4UIparameter.html#a57a456cfc18368f5ca588f3974b3acbc" title="G4UIparameter::SetParameterName" alt="" coords="577,535,843,563"/>
+<area shape="rect" id="node30" href="$d9/d78/classG4UIparameter.html#ab0d217931a392ea4127cc8257385985e" title="G4UIparameter::SetCurrent\lAsDefault" alt="" coords="607,467,813,511"/>
+</map>

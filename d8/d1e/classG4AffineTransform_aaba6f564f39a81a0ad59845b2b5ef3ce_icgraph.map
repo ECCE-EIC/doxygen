@@ -1,0 +1,27 @@
+<map id="G4AffineTransform::InverseTransformPoint" name="G4AffineTransform::InverseTransformPoint">
+<area shape="rect" id="node2" href="$de/ded/classG4PVParameterised.html#ab3b4aa2ffbbfa36557736ccd384f2935" title="G4PVParameterised::\lCheckOverlaps" alt="" coords="263,113,427,157"/>
+<area shape="rect" id="node4" href="$dd/d4f/classG4PVPlacement.html#ac694379b95f24c7d58f0feb480c32457" title="G4PVPlacement::CheckOverlaps" alt="" coords="225,207,465,235"/>
+<area shape="rect" id="node8" href="$d7/d97/classG4RegularNavigation.html#ae0fdc54d81dcc4a5a1c006b3d9c2f77e" title="G4RegularNavigation\l::ComputeStep" alt="" coords="263,259,428,303"/>
+<area shape="rect" id="node26" href="$d7/d97/classG4RegularNavigation.html#adb7d3b30b53cbc21c2766b06b4e36587" title="G4RegularNavigation\l::ComputeStepSkippingEqual\lMaterials" alt="" coords="236,327,455,387"/>
+<area shape="rect" id="node3" href="$de/ded/classG4PVParameterised.html#a35fc71379f3cc461a7124bf2a3055866" title="G4PVParameterised::\lG4PVParameterised" alt="" coords="555,88,719,132"/>
+<area shape="rect" id="node5" href="$df/d79/pymodG4geometry_8cc.html#a3d1d5d88571bc9d93da90d20f49a3a21" title="export_G4PVPlacement" alt="" coords="547,156,727,184"/>
+<area shape="rect" id="node7" href="$dd/d4f/classG4PVPlacement.html#a92c2be2ba466b89af8b79164f2c47696" title="G4PVPlacement::G4PVPlacement" alt="" coords="513,208,760,236"/>
+<area shape="rect" id="node6" href="$df/d79/pymodG4geometry_8cc.html#a015bf5fe322d79f1de02b734fde3252b" title="BOOST_PYTHON_MODULE" alt="" coords="843,5,1038,33"/>
+<area shape="rect" id="node9" href="$d9/d53/classG4Navigator.html#a9a78e5db374334d93ca5af69c029ee0b" title="G4Navigator::ComputeStep" alt="" coords="533,264,741,292"/>
+<area shape="rect" id="node22" href="$dd/dc9/classG4ITNavigator1.html#aafb29b16b6722d59482cf85d5a378c9c" title="G4ITNavigator1::ComputeStep" alt="" coords="523,333,751,361"/>
+<area shape="rect" id="node24" href="$d2/d29/classG4ITNavigator2.html#a77992c835d1523c57262a5611b765209" title="G4ITNavigator2::ComputeStep" alt="" coords="523,419,751,447"/>
+<area shape="rect" id="node10" href="$d2/d49/classG4MonopoleTransportation.html#a2c734afb9b2315b297f28a4ce621232e" title="G4MonopoleTransportation\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="815,57,1066,117"/>
+<area shape="rect" id="node11" href="$dc/d93/classG4AdjointPrimaryGenerator.html#ae9ff517a36accc8bc435505d20ac2bbd" title="G4AdjointPrimaryGenerator\l::ComputeAccumulatedDepthVector\lAlongBackRay" alt="" coords="808,141,1073,201"/>
+<area shape="rect" id="node12" href="$da/d15/classG4ErrorPropagationNavigator.html#a06adfc6868a1396876049e4945896ef4" title="G4ErrorPropagationNavigator\l::ComputeStep" alt="" coords="830,225,1051,269"/>
+<area shape="rect" id="node13" href="$d9/d53/classG4Navigator.html#ac1f1c9d57008fffc6c8b72405a1742d9" title="G4Navigator::CheckNextStep" alt="" coords="831,293,1050,321"/>
+<area shape="rect" id="node21" href="$d6/ddc/classG4Transportation.html#a1d2c2ecc617f1b573e01f00267a6248e" title="G4Transportation::AlongStep\lGetPhysicalInteractionLength" alt="" coords="831,345,1050,389"/>
+<area shape="rect" id="node14" href="$d3/db4/classG4SafetyHelper.html#a41d1df57344ba7b719257a643d9f9c7d" title="G4SafetyHelper::CheckNextStep" alt="" coords="1121,293,1361,321"/>
+<area shape="rect" id="node15" href="$d0/d99/classG4VMscModel.html#a2c0f2785a378171f0230bc1103e8ced8" title="G4VMscModel::ComputeGeom\lLimit" alt="" coords="1409,285,1636,329"/>
+<area shape="rect" id="node16" href="$db/dfc/classG4UrbanAdjointMscModel.html#ae7a844555aab4e856ec528f2f53c026c" title="G4UrbanAdjointMscModel\l::ComputeTruePathLengthLimit" alt="" coords="1695,149,1925,193"/>
+<area shape="rect" id="node17" href="$d4/d8e/classG4LowEWentzelVIModel.html#abb79f918337f06fc12ffdc5afbb28d7d" title="G4LowEWentzelVIModel\l::ComputeTruePathLengthLimit" alt="" coords="1695,217,1925,261"/>
+<area shape="rect" id="node18" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a0de90a47374946419b4f1d4d37521b3c" title="G4GoudsmitSaundersonMscModel\l::ComputeTruePathLengthLimit" alt="" coords="1684,285,1936,329"/>
+<area shape="rect" id="node19" href="$d4/da8/classG4UrbanMscModel.html#aea643fad3aceb315f928ed32b62446b8" title="G4UrbanMscModel::Compute\lTruePathLengthLimit" alt="" coords="1701,353,1919,397"/>
+<area shape="rect" id="node20" href="$d8/d2f/classG4WentzelVIModel.html#a2c800adcd96eb414b0827d208bfb46ee" title="G4WentzelVIModel::Compute\lTruePathLengthLimit" alt="" coords="1701,421,1919,465"/>
+<area shape="rect" id="node23" href="$dd/dc9/classG4ITNavigator1.html#a3a18ef567b4765a22c5855b2fd94de7f" title="G4ITNavigator1::CheckNextStep" alt="" coords="821,413,1061,441"/>
+<area shape="rect" id="node25" href="$d2/d29/classG4ITNavigator2.html#a454df2efe06295ae3569edf0fc6cf7d4" title="G4ITNavigator2::CheckNextStep" alt="" coords="821,465,1061,493"/>
+</map>

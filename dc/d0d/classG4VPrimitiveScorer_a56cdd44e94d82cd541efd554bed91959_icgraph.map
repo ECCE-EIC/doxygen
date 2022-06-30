@@ -1,0 +1,29 @@
+<map id="G4VPrimitiveScorer::SetMultiFunctionalDetector" name="G4VPrimitiveScorer::SetMultiFunctionalDetector">
+<area shape="rect" id="node2" href="$da/d7e/classG4MultiFunctionalDetector.html#a1b68b2a52f5b8ce8477c3937a3390061" title="G4MultiFunctionalDetector\l::RegisterPrimitive" alt="" coords="268,440,471,484"/>
+<area shape="rect" id="node28" href="$da/d7e/classG4MultiFunctionalDetector.html#adf8c0c3770e97fe1156b7fd9eed2e8f7" title="G4MultiFunctionalDetector\l::RemovePrimitive" alt="" coords="268,508,471,552"/>
+<area shape="rect" id="node3" href="$d7/d08/classCML2Ph__FullWater.html#a529218c6279dc9922c4673f244fa2ab6" title="CML2Ph_FullWater::Construct" alt="" coords="543,13,762,41"/>
+<area shape="rect" id="node7" href="$de/d94/classB03ImportanceDetectorConstruction.html#a34d2df6ebcc5685d11da7772d613d468" title="B03ImportanceDetectorConstruction\l::ConstructSD" alt="" coords="519,65,787,109"/>
+<area shape="rect" id="node8" href="$df/dc2/classB02ImportanceDetectorConstruction.html#ab8c13cb587f1a89583ee311b34de41ca" title="B02ImportanceDetectorConstruction\l::ConstructSD" alt="" coords="519,133,787,177"/>
+<area shape="rect" id="node9" href="$d5/d55/classB3DetectorConstruction.html#a1e6cf35b820f30dd78638cadfb65c675" title="B3DetectorConstruction\l::ConstructSDandField" alt="" coords="561,201,744,245"/>
+<area shape="rect" id="node10" href="$d6/d02/classElectronBenchmarkDetector.html#ab1b3a029195a452c14d8b6918ce40d98" title="ElectronBenchmarkDetector\l::ConstructSDandField" alt="" coords="547,269,759,313"/>
+<area shape="rect" id="node14" href="$d1/dd4/classB01DetectorConstruction.html#ac2444a6f3179f4f42ec8d28e1a52031f" title="B01DetectorConstruction\l::ConstructSDandField" alt="" coords="557,337,749,381"/>
+<area shape="rect" id="node15" href="$d7/dfa/classTSDetectorConstruction.html#a2ac1c822189c306831d77688fb208812" title="TSDetectorConstruction\l::ConstructSDandField" alt="" coords="561,405,744,449"/>
+<area shape="rect" id="node16" href="$d8/d5f/classDicomDetectorConstruction.html#aaabfeeb6d5af3e86ed2c6386af48b045" title="DicomDetectorConstruction\l::ConstructSDandField" alt="" coords="549,473,757,517"/>
+<area shape="rect" id="node17" href="$dc/d68/classRE02DetectorConstruction.html#acb408bb376d4b0e0970d0884c8c885c0" title="RE02DetectorConstruction\l::ConstructSDandField" alt="" coords="553,541,753,585"/>
+<area shape="rect" id="node18" href="$d0/d53/classG4VScoringMesh.html#aba224ed8f7f990fbcd06c10dcb06c7d1" title="G4VScoringMesh::SetPrimitive\lScorer" alt="" coords="539,609,766,653"/>
+<area shape="rect" id="node20" href="$d1/d0b/classRE06ParallelWorld.html#a9c3a0ed554150aa60db47ba23929c215" title="RE06ParallelWorld::\lSetupDetectors" alt="" coords="576,677,729,721"/>
+<area shape="rect" id="node22" href="$d6/dd9/classGB03DetectorConstruction.html#a57cb545ea3b62389ff96583a4bac65b6" title="GB03DetectorConstruction\l::SetupDetectors" alt="" coords="551,745,754,789"/>
+<area shape="rect" id="node24" href="$d8/dbd/classRE06DetectorConstruction.html#abff2e33ae60a1f48c09682e032656b21" title="RE06DetectorConstruction\l::SetupDetectors" alt="" coords="553,813,753,857"/>
+<area shape="rect" id="node26" href="$d4/d98/classCexmcSetup.html#a044cde7f656271b3d1447a8774e5e45b" title="CexmcSetup::SetupSpecial\lVolumes" alt="" coords="551,881,754,925"/>
+<area shape="rect" id="node4" href="$dc/d2a/classCML2PhantomConstruction.html#aa1660cd6c48b01372604e8f47cf30b36" title="CML2PhantomConstruction\l::Construct" alt="" coords="839,5,1043,49"/>
+<area shape="rect" id="node5" href="$dc/dd2/classCML2WorldConstruction.html#ae318d1472185adeff8250554f92ac18b" title="CML2WorldConstruction\l::create" alt="" coords="1109,5,1292,49"/>
+<area shape="rect" id="node6" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1433,13,1488,41"/>
+<area shape="rect" id="node11" href="$d6/d02/classElectronBenchmarkDetector.html#ad2c188993617c8c23476da572bfb962d" title="ElectronBenchmarkDetector\l::CreateScorer" alt="" coords="835,269,1047,313"/>
+<area shape="rect" id="node12" href="$d6/d02/classElectronBenchmarkDetector.html#a30959daff8e3cb5af94299afcf60b2a4" title="ElectronBenchmarkDetector\l::CreateGeometry" alt="" coords="1095,269,1307,313"/>
+<area shape="rect" id="node13" href="$d6/d02/classElectronBenchmarkDetector.html#abe3f11d5871fadb2545bd61f04faa58b" title="ElectronBenchmarkDetector\l::Construct" alt="" coords="1355,269,1567,313"/>
+<area shape="rect" id="node19" href="$d1/d8b/classG4ScoreQuantityMessenger.html#a6aed13191fe8dbfa46ca9f73e23f0bdd" title="G4ScoreQuantityMessenger\l::SetNewValue" alt="" coords="835,609,1046,653"/>
+<area shape="rect" id="node21" href="$d1/d0b/classRE06ParallelWorld.html#a4dc0d822efbd53e543052e649b6ec9ad" title="RE06ParallelWorld::\lConstructSD" alt="" coords="864,677,1017,721"/>
+<area shape="rect" id="node23" href="$d6/dd9/classGB03DetectorConstruction.html#aed4a6a37e0178fc59d6ff25629179f74" title="GB03DetectorConstruction\l::ConstructSDandField" alt="" coords="839,745,1042,789"/>
+<area shape="rect" id="node25" href="$d8/dbd/classRE06DetectorConstruction.html#a9c35abfafa54401e35b866d4af057425" title="RE06DetectorConstruction\l::ConstructSDandField" alt="" coords="841,813,1041,857"/>
+<area shape="rect" id="node27" href="$d4/d98/classCexmcSetup.html#a3d8026438184efdc11a7c43221f54fd4" title="CexmcSetup::Construct" alt="" coords="850,889,1031,917"/>
+</map>

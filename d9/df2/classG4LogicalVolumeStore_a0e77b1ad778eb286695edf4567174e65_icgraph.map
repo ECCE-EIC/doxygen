@@ -1,0 +1,35 @@
+<map id="G4LogicalVolumeStore::GetVolume" name="G4LogicalVolumeStore::GetVolume">
+<area shape="rect" id="node2" href="$dd/d4f/classGB06ParallelWorldForSlices.html#a922be022faadd8ae148b8cbe2a9886bc" title="GB06ParallelWorldForSlices\l::Construct" alt="" coords="249,5,455,49"/>
+<area shape="rect" id="node3" href="$dd/d4f/classGB06ParallelWorldForSlices.html#a2ef009221f3dd12e6f23b799c7db2a7b" title="GB06ParallelWorldForSlices\l::ConstructSD" alt="" coords="249,73,455,117"/>
+<area shape="rect" id="node4" href="$d3/d2a/classGB05DetectorConstruction.html#a5b1025c57545c61b725e76143cb698d8" title="GB05DetectorConstruction\l::ConstructSDandField" alt="" coords="251,141,453,185"/>
+<area shape="rect" id="node5" href="$d9/d28/classGB07DetectorConstruction.html#ad34ff8255aa751f7edaf9460d7ebd2b4" title="GB07DetectorConstruction\l::ConstructSDandField" alt="" coords="251,209,453,253"/>
+<area shape="rect" id="node6" href="$dd/da5/classGB06DetectorConstruction.html#aa7398eeb27fa93230c451d673a852470" title="GB06DetectorConstruction\l::ConstructSDandField" alt="" coords="251,277,453,321"/>
+<area shape="rect" id="node7" href="$d0/dd2/classGB01DetectorConstruction.html#a8a1d1d81246995d3b163459ad39aba9f" title="GB01DetectorConstruction\l::ConstructSDandField" alt="" coords="251,345,453,389"/>
+<area shape="rect" id="node8" href="$d7/df8/classGB02DetectorConstruction.html#aac55cfc138a543f3cdbfe377f31b5a46" title="GB02DetectorConstruction\l::ConstructSDandField" alt="" coords="251,413,453,457"/>
+<area shape="rect" id="node9" href="$df/d28/classGB04DetectorConstruction.html#a6af90e31da248ac16e28c012bbba4e5c" title="GB04DetectorConstruction\l::ConstructSDandField" alt="" coords="251,481,453,525"/>
+<area shape="rect" id="node10" href="$d0/db4/classB2PrimaryGeneratorAction.html#ab0fdc0ae9859a07656b5c88864409092" title="B2PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="251,549,453,593"/>
+<area shape="rect" id="node11" href="$d1/ded/classB4PrimaryGeneratorAction.html#a7f88c67c7d6498975a90d2a2b0b8cda2" title="B4PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="251,617,453,661"/>
+<area shape="rect" id="node12" href="$d0/d43/classB1PrimaryGeneratorAction.html#a6a7b48eb4bdbbbbb08330d4f590ae83b" title="B1PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="251,685,453,729"/>
+<area shape="rect" id="node13" href="$d9/db3/classDicom2PrimaryGeneratorAction.html#a3459229bc9c93763d641cbb631882354" title="Dicom2PrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="235,753,469,797"/>
+<area shape="rect" id="node14" href="$dc/d5b/classDetectorConstruction.html#a356db354f26f7cb2396165edf66c745a" title="DetectorConstruction\l::GetAbsorberMaterial" alt="" coords="267,821,437,865"/>
+<area shape="rect" id="node15" href="$d6/d77/classFFPrimaryGeneratorAction.html#a969c4476ba26a2c8cba54c46e440e0ea" title="FFPrimaryGeneratorAction\l::GetNeutronSourceCenter" alt="" coords="251,889,453,933"/>
+<area shape="rect" id="node17" href="$d6/db8/classG4GDMLReadStructure.html#ac6811a588a96ae668af65c01919f3988" title="G4GDMLReadStructure\l::GetVolume" alt="" coords="264,957,440,1001"/>
+<area shape="rect" id="node32" href="$d5/dc4/classG4GDMLParser.html#a1719e3ca28c7d36a962141090278513a" title="G4GDMLParser::ImportRegions" alt="" coords="237,1025,467,1053"/>
+<area shape="rect" id="node33" href="$de/d45/classG4GDMLMessenger.html#ad05d2da0985dd73a46985b13fff3eb27" title="G4GDMLMessenger::SetNewValue" alt="" coords="227,1077,477,1105"/>
+<area shape="rect" id="node34" href="$de/d98/classF04SteppingAction.html#a22f0969c3ca98f217a0fccb04ee0eaeb" title="F04SteppingAction::\lUserSteppingAction" alt="" coords="273,1129,431,1173"/>
+<area shape="rect" id="node16" href="$d6/d77/classFFPrimaryGeneratorAction.html#ad48ac9a19406d27cfd3f68f36e637335" title="FFPrimaryGeneratorAction\l::GeneratePrimaries" alt="" coords="551,695,750,739"/>
+<area shape="rect" id="node18" href="$d6/dca/classAllSiliconTrackerDetector.html#a6b4413604648bd0349e9250dd14e2dd6" title="construct" alt="" coords="555,815,747,859"/>
+<area shape="rect" id="node19" href="$d4/d16/classG4LBLVtxDetector.html#a277a0f000854a5ae480f15fd1e688306" title="construct" alt="" coords="532,883,769,911"/>
+<area shape="rect" id="node20" href="$df/d0d/classPHG4GDMLDetector.html#a3f1ec1899e4f50d54a7d836d1116d87c" title="construct" alt="" coords="525,935,776,963"/>
+<area shape="rect" id="node21" href="$d6/db8/classG4GDMLReadStructure.html#a9231fbdfd90ae64f5608686d7a1bfcc5" title="G4GDMLReadStructure\l::DivisionvolRead" alt="" coords="824,1191,1000,1235"/>
+<area shape="rect" id="node26" href="$d6/db8/classG4GDMLReadStructure.html#afe18d6aa3305fd08195316107db4fc1d" title="G4GDMLReadStructure\l::FileRead" alt="" coords="563,987,739,1031"/>
+<area shape="rect" id="node27" href="$d6/db8/classG4GDMLReadStructure.html#a58817826c555fe93dac9d415e9ea8746" title="G4GDMLReadStructure\l::PhysvolRead" alt="" coords="824,1029,1000,1073"/>
+<area shape="rect" id="node29" href="$d6/db8/classG4GDMLReadStructure.html#a753fd35c98b92fc59f2b986f71e71781" title="G4GDMLReadStructure\l::GetWorldVolume" alt="" coords="563,1157,739,1201"/>
+<area shape="rect" id="node30" href="$d6/db8/classG4GDMLReadStructure.html#abd04f087c3dfd6546a1ada60cfb8dded" title="G4GDMLReadStructure\l::ReplicavolRead" alt="" coords="824,1097,1000,1141"/>
+<area shape="rect" id="node31" href="$d6/db8/classG4GDMLReadStructure.html#aa8886f44ed570b35b7049526690026a3" title="G4GDMLReadStructure\l::SkinSurfaceRead" alt="" coords="824,859,1000,903"/>
+<area shape="rect" id="node22" href="$d6/db8/classG4GDMLReadStructure.html#a27f2effadb9c1ba11233376174f72ab8" title="G4GDMLReadStructure\l::Volume_contentRead" alt="" coords="1048,1097,1224,1141"/>
+<area shape="rect" id="node23" href="$d5/dfe/classG03ColorReader.html#a13aa26bc789bb503ce2e277d4035a49f" title="G03ColorReader::VolumeRead" alt="" coords="1272,1056,1497,1084"/>
+<area shape="rect" id="node24" href="$d6/db8/classG4GDMLReadStructure.html#ad3d6d13740e8a033f6aa9743d96e9269" title="G4GDMLReadStructure\l::VolumeRead" alt="" coords="1297,1108,1473,1152"/>
+<area shape="rect" id="node25" href="$d6/db8/classG4GDMLReadStructure.html#a28df8d1a09fc67d0dcfef924a0dedbef" title="G4GDMLReadStructure\l::StructureRead" alt="" coords="1545,996,1721,1040"/>
+<area shape="rect" id="node28" href="$d6/db8/classG4GDMLReadStructure.html#a36d41595d6e4c1c44ba5f6064625b9e6" title="G4GDMLReadStructure\l::AssemblyRead" alt="" coords="1048,1012,1224,1056"/>
+</map>

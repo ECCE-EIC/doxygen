@@ -1,0 +1,29 @@
+<map id="G4LundStringFragmentation::Sample4Momentum" name="G4LundStringFragmentation::Sample4Momentum">
+<area shape="rect" id="node2" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a526e99a3795a8d353d5d0f9367feca15" title="CLHEP::HepLorentzVector\l::getT" alt="" coords="276,5,471,49"/>
+<area shape="rect" id="node3" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3613549b742e2eb4a24fe65491e25cca" title="CLHEP::Hep3Vector::getX" alt="" coords="277,73,470,101"/>
+<area shape="rect" id="node4" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#ab908524f5dcbe95908e09d42f2da0917" title="CLHEP::HepLorentzVector\l::getX" alt="" coords="276,125,471,169"/>
+<area shape="rect" id="node5" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a8ffa37518294768554dfc7c44b57ee57" title="CLHEP::Hep3Vector::getY" alt="" coords="277,193,469,221"/>
+<area shape="rect" id="node6" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#a4464651ac051cfd6df017523425f51b8" title="CLHEP::HepLorentzVector\l::getY" alt="" coords="276,245,471,289"/>
+<area shape="rect" id="node7" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#aa45219c4ce7ee756c6a5a3305f97a44c" title="CLHEP::HepLorentzVector\l::getZ" alt="" coords="276,313,471,357"/>
+<area shape="rect" id="node8" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a7aa4cc075d04401cf3aadb8bd30f4aa2" title="CLHEP::Hep3Vector::mag2" alt="" coords="273,381,473,409"/>
+<area shape="rect" id="node9" href="$d5/d97/classG4VLongitudinalStringDecay.html#a076858c2857b736b7fd01de369718909" title="G4VLongitudinalStringDecay\l::SampleQuarkPt" alt="" coords="265,433,481,477"/>
+<area shape="rect" id="node23" href="$d2/d54/templates_8hh.html#a8108dbac66a414c0760f65eb9523ad41" title="sqr" alt="" coords="587,501,629,529"/>
+<area shape="rect" id="node24" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#aa2aed47867506981fc03c8b35a4c2488" title="CLHEP::HepLorentzVector\l::setE" alt="" coords="276,553,471,597"/>
+<area shape="rect" id="node25" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#ad72591ce73f06503672bd795ce4b9e29" title="CLHEP::HepLorentzVector\l::setPx" alt="" coords="276,621,471,665"/>
+<area shape="rect" id="node26" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#ac698c1fe276017763ae7312ac5b82194" title="CLHEP::HepLorentzVector\l::setPy" alt="" coords="276,689,471,733"/>
+<area shape="rect" id="node27" href="$dc/df4/classCLHEP_1_1HepLorentzVector.html#aa7793128474258cd24dad6ddceb99059" title="CLHEP::HepLorentzVector\l::setPz" alt="" coords="276,757,471,801"/>
+<area shape="rect" id="node28" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="278,825,469,853"/>
+<area shape="rect" id="node10" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="576,268,640,296"/>
+<area shape="rect" id="node16" href="$de/dc0/namespaceG4INCL_1_1DeJongSpin.html#a46bc3f75da2cac9ad71e6571ab9d7dca" title="G4INCL::DeJongSpin\l::shoot" alt="" coords="529,381,687,425"/>
+<area shape="rect" id="node19" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="575,449,641,477"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="759,189,951,217"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="759,241,951,269"/>
+<area shape="rect" id="node13" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="735,293,975,321"/>
+<area shape="rect" id="node14" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1023,268,1211,296"/>
+<area shape="rect" id="node15" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1023,320,1211,348"/>
+<area shape="rect" id="node17" href="$d5/d11/namespaceG4INCL_1_1Random.html#a5dd22d1a51bc2a0be8b8bbd7388df2bc" title="Generate Gaussianly&#45;distributed ThreeVectors." alt="" coords="741,345,969,373"/>
+<area shape="rect" id="node18" href="$d5/d11/namespaceG4INCL_1_1Random.html#a53aa4116e3fbcdf14a00544a8f2b4561" title="G4INCL::Random::gauss" alt="" coords="1024,372,1209,400"/>
+<area shape="rect" id="node20" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="772,449,937,477"/>
+<area shape="rect" id="node22" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="760,501,949,529"/>
+<area shape="rect" id="node21" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1023,449,1211,477"/>
+</map>

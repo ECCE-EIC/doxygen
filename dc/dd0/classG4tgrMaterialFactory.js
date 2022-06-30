@@ -1,0 +1,25 @@
+var classG4tgrMaterialFactory =
+[
+    [ "~G4tgrMaterialFactory", "dc/dd0/classG4tgrMaterialFactory.html#a3db26929fb8eeabe27c382fc60a03d78", null ],
+    [ "G4tgrMaterialFactory", "dc/dd0/classG4tgrMaterialFactory.html#ad879a3dd0fb66149e02191d78931055d", null ],
+    [ "AddElementFromIsotopes", "dc/dd0/classG4tgrMaterialFactory.html#a439ebaf2f7b278f55e84d5471c8b71c2", null ],
+    [ "AddElementSimple", "dc/dd0/classG4tgrMaterialFactory.html#a4fd903c79aee28fae3d1c61a6470a7df", null ],
+    [ "AddIsotope", "dc/dd0/classG4tgrMaterialFactory.html#abc75890240fd09a8f2153c27b4627aaa", null ],
+    [ "AddMaterialMixture", "dc/dd0/classG4tgrMaterialFactory.html#a856f751be8db0917f3f08c2826429049", null ],
+    [ "AddMaterialSimple", "dc/dd0/classG4tgrMaterialFactory.html#aea5c8cacd818fecf3fabc07c159025fd", null ],
+    [ "DumpElementList", "dc/dd0/classG4tgrMaterialFactory.html#a66c0257ed72632688410be3a21fbf250", null ],
+    [ "DumpIsotopeList", "dc/dd0/classG4tgrMaterialFactory.html#af0959768c6d3cf897379756b68909841", null ],
+    [ "DumpMaterialList", "dc/dd0/classG4tgrMaterialFactory.html#a955692f67de984d908e839efbeabda31", null ],
+    [ "ErrorAlreadyExists", "dc/dd0/classG4tgrMaterialFactory.html#ac3c9c0576c301790571e9822ed32216a", null ],
+    [ "FindElement", "dc/dd0/classG4tgrMaterialFactory.html#aca716c8da6c4dec8864d0b442042b6f7", null ],
+    [ "FindIsotope", "dc/dd0/classG4tgrMaterialFactory.html#a751f6046bc41a82e0c2c8af3dd640526", null ],
+    [ "FindMaterial", "dc/dd0/classG4tgrMaterialFactory.html#a83a420cdba8b07641d24be43f7b6876a", null ],
+    [ "GetElementList", "dc/dd0/classG4tgrMaterialFactory.html#a32e9e2e619c5a7b84b800f5f0bc109bb", null ],
+    [ "GetInstance", "dc/dd0/classG4tgrMaterialFactory.html#a3e0d6f4277ef0036a28ba9147d8208b9", null ],
+    [ "GetIsotopeList", "dc/dd0/classG4tgrMaterialFactory.html#aece7c209e5e6e8213ccf9728a25398db", null ],
+    [ "GetMaterialList", "dc/dd0/classG4tgrMaterialFactory.html#a58a2bd973f82cdd5a38c739eecfb237b", null ],
+    [ "theG4tgrElements", "dc/dd0/classG4tgrMaterialFactory.html#aee1f3cc084642e64740471a5882657c9", null ],
+    [ "theG4tgrIsotopes", "dc/dd0/classG4tgrMaterialFactory.html#a0af995934a4b03fbef8fa4165d9b92d6", null ],
+    [ "theG4tgrMaterials", "dc/dd0/classG4tgrMaterialFactory.html#a34369e304b6a4ebb612cedc9389652f2", null ],
+    [ "theInstance", "dc/dd0/classG4tgrMaterialFactory.html#af65460f579679d8fd0dc29db8ee3531a", null ]
+];

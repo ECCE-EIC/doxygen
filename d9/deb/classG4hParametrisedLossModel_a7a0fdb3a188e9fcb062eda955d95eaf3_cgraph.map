@@ -1,0 +1,24 @@
+<map id="G4hParametrisedLossModel::TheValue" name="G4hParametrisedLossModel::TheValue">
+<area shape="rect" id="node2" href="$d5/d38/classG4ParticleDefinition.html#ad823b2f7c489766de74c562e2a3909bf" title="G4ParticleDefinition\l::GetPDGMass" alt="" coords="288,281,443,325"/>
+<area shape="rect" id="node3" href="$d9/deb/classG4hParametrisedLossModel.html#adc422fde8aa86c7d2b2666ace8710140" title="G4hParametrisedLossModel\l::StoppingPower" alt="" coords="261,349,469,393"/>
+<area shape="rect" id="node4" href="$d9/deb/classG4hParametrisedLossModel.html#a0fff2b9f220d37aa1df7e2bcc4ac52ed" title="G4hParametrisedLossModel\l::ChemicalFactor" alt="" coords="544,23,752,67"/>
+<area shape="rect" id="node9" href="$d9/dae/classG4VhElectronicStoppingPower.html#af3e447b33426898750047c8dee493456" title="G4VhElectronicStoppingPower\l::ElectronicStoppingPower" alt="" coords="535,91,761,135"/>
+<area shape="rect" id="node10" href="$d5/de4/classG4Material.html#ab1ecfcd326feaee2ea7ada917943efcf" title="G4Material::GetAtomicNum\lDensityVector" alt="" coords="545,159,751,203"/>
+<area shape="rect" id="node11" href="$d5/de4/classG4Material.html#a3ed91631cc74a059a98f8014a7867766" title="G4Material::GetAtomsVector" alt="" coords="541,227,755,255"/>
+<area shape="rect" id="node12" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="534,279,762,307"/>
+<area shape="rect" id="node13" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="517,331,779,359"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#a040844667f1a20d3a7f2f4eda1cb5694" title="G4Material::GetTotNbOfAtoms\lPerVolume" alt="" coords="837,487,1061,531"/>
+<area shape="rect" id="node15" href="$de/d80/classG4Element.html#ad1340161ff1cd3ab74ae508ae3c19fe4" title="G4Element::GetZ" alt="" coords="579,435,717,463"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#a419c5aced8395f8ae4a4f3544dfd1c6f" title="G4Material::GetZ" alt="" coords="579,383,717,411"/>
+<area shape="rect" id="node18" href="$d9/dae/classG4VhElectronicStoppingPower.html#ade921ee102082783e2041e672535104c" title="G4VhElectronicStoppingPower\l::HasMaterial" alt="" coords="535,539,761,583"/>
+<area shape="rect" id="node19" href="$d9/deb/classG4hParametrisedLossModel.html#a33dae6256e8cd91e4b2f7d5138469152" title="G4hParametrisedLossModel\l::MolecIsInZiegler1988" alt="" coords="544,607,752,651"/>
+<area shape="rect" id="node23" href="$d9/dae/classG4VhElectronicStoppingPower.html#a0f1caa90f7a8f7c2e876e4ff4b75cf2d" title="G4VhElectronicStoppingPower\l::StoppingPower" alt="" coords="535,675,761,719"/>
+<area shape="rect" id="node5" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="916,31,983,59"/>
+<area shape="rect" id="node6" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="1132,5,1297,33"/>
+<area shape="rect" id="node8" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="1120,57,1309,85"/>
+<area shape="rect" id="node7" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="1357,5,1545,33"/>
+<area shape="rect" id="node17" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="896,383,1003,411"/>
+<area shape="rect" id="node20" href="$d5/de4/classG4Material.html#a21962dad23408515d32eaccd28b36058" title="G4Material::GetChemicalFormula" alt="" coords="827,563,1072,591"/>
+<area shape="rect" id="node21" href="$d5/de4/classG4Material.html#a799afb574dc04d80f5a27c081a0dfaa3" title="G4Material::GetState" alt="" coords="867,615,1031,643"/>
+<area shape="rect" id="node22" href="$d9/deb/classG4hParametrisedLossModel.html#adb2ede580271c1b01474b8d2e343c6b9" title="G4hParametrisedLossModel\l::SetExpStopPower125" alt="" coords="845,667,1053,711"/>
+</map>

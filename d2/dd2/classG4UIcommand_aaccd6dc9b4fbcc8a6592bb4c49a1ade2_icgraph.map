@@ -1,0 +1,51 @@
+<map id="G4UIcommand::IsAvailable" name="G4UIcommand::IsAvailable">
+<area shape="rect" id="node2" href="$d8/def/classG4UImanager.html#a2db8f1909b2b35a3000f97b95c8a9b17" title="G4UImanager::ApplyCommand" alt="" coords="264,1373,495,1401"/>
+<area shape="rect" id="node48" href="$d2/dca/pymodG4intercoms_8cc.html#a4cccb3e8306be9a3c21653f669375c8b" title="export_G4UIcommand" alt="" coords="293,1425,465,1453"/>
+<area shape="rect" id="node49" href="$d9/d2a/classG4UIGAG.html#ae30ef41b145e276330e70ed237baafff" title="G4UIGAG::SendDisableList" alt="" coords="278,1477,481,1505"/>
+<area shape="rect" id="node50" href="$d3/d6e/classG4UIGainServer.html#a92b82eaeeff17968d08f390b80b51570" title="G4UIGainServer::SendDisableList" alt="" coords="256,1529,503,1557"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#a83fd9e9472f94d9a29be65df65e400ef" title="interface to G4 cmd interpreter" alt="" coords="577,5,785,33"/>
+<area shape="rect" id="node4" href="$d0/d78/classPHG4Reco.html#a33f54be418a2c156914455cfc5bea595" title="start the gui" alt="" coords="603,57,759,85"/>
+<area shape="rect" id="node5" href="$dc/dd7/classPHG4ScoringManager.html#a6e9899da695ab233fceca7cce54bee78" title="full initialization" alt="" coords="597,109,766,153"/>
+<area shape="rect" id="node6" href="$da/d1b/Ultra_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="654,177,709,205"/>
+<area shape="rect" id="node7" href="$dc/d34/classCexmcRunManager.html#a1a89fa04f3525ac1f92ab1a280a9a788" title="CexmcRunManager::DoCommon\lEventLoop" alt="" coords="561,229,801,273"/>
+<area shape="rect" id="node8" href="$d3/d69/classGammaRayTelDetectorConstruction.html#aa2503878bc2e61da702304d3804bb2d1" title="GammaRayTelDetectorConstruction\l::SetMagField" alt="" coords="551,297,812,341"/>
+<area shape="rect" id="node9" href="$dc/dde/classGammaRayTelRunAction.html#a84e2ca92f9818fdc8694a35dce6b1c94" title="GammaRayTelRunAction\l::BeginOfRunAction" alt="" coords="588,365,775,409"/>
+<area shape="rect" id="node10" href="$d1/d14/classCML2AcceleratorConstruction.html#ab59b6d510232fdd90d3858796bb9e260" title="CML2AcceleratorConstruction\l::design" alt="" coords="571,433,791,477"/>
+<area shape="rect" id="node11" href="$d9/ddc/classDMXEventAction.html#a3da9b297f1eb8a5c987193ee74dd36e1" title="DMXEventAction::drawTracks" alt="" coords="573,501,790,529"/>
+<area shape="rect" id="node12" href="$d9/d1f/classXrayFluoRunAction.html#ab7e3d17c925333a1c522c8a79febd7d9" title="XrayFluoRunAction::\lBeginOfRunAction" alt="" coords="603,553,760,597"/>
+<area shape="rect" id="node13" href="$d9/d1f/classXrayFluoRunAction.html#a4ae9b6499aba4cfd5236bea90fd6075a" title="XrayFluoRunAction::\lEndOfRunAction" alt="" coords="603,621,760,665"/>
+<area shape="rect" id="node14" href="$d4/d1d/classXrayFluoSimulation.html#accd4c375c6adf36bc22587e9aa477c85" title="XrayFluoSimulation\l::RunSimulation" alt="" coords="605,689,757,733"/>
+<area shape="rect" id="node15" href="$de/dc3/classXrayTelRunAction.html#a340b2b055f21ca3585ffe6d3983a6aab" title="XrayTelRunAction::BeginOf\lRunAction" alt="" coords="580,757,783,801"/>
+<area shape="rect" id="node16" href="$de/dc3/classXrayTelRunAction.html#aa3c85f246fd8486c04eddc5d121eee98" title="XrayTelRunAction::EndOfRun\lAction" alt="" coords="574,825,789,869"/>
+<area shape="rect" id="node17" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="643,893,720,921"/>
+<area shape="rect" id="node18" href="$da/d38/classLXeDetectorConstruction.html#a83360c09148d278342530ac52d5a6c2c" title="LXeDetectorConstruction\l::SetDefaults" alt="" coords="587,945,776,989"/>
+<area shape="rect" id="node19" href="$dc/d72/classWLSSteppingAction.html#ad546e4d04c1aa9a5bfdd0714986d6bf7" title="WLSSteppingAction::\lSaveRandomStatus" alt="" coords="601,1013,762,1057"/>
+<area shape="rect" id="node20" href="$da/df9/classtbbTask.html#ac48835b07dd4ff768b9b78c449f4c6e8" title="tbbTask::execute" alt="" coords="614,1081,749,1109"/>
+<area shape="rect" id="node21" href="$dc/d05/classPerspectiveVisActionMessenger.html#a40354c5df9bb5acca21b12ad20724b59" title="PerspectiveVisActionMessenger\l::SetNewValue" alt="" coords="563,1133,799,1177"/>
+<area shape="rect" id="node22" href="$d4/ddd/classG4UIbridge.html#a37d02c2715c70411087fe11d54fd870a" title="G4UIbridge::ApplyCommand" alt="" coords="574,1201,789,1229"/>
+<area shape="rect" id="node23" href="$d0/dad/classG4UIcontrolMessenger.html#a2276248566b2a4671bb823ff109d187b" title="G4UIcontrolMessenger\l::SetNewValue" alt="" coords="594,1253,769,1297"/>
+<area shape="rect" id="node24" href="$d8/def/classG4UImanager.html#a213b44a057d78f91def85a2a41e27a9a" title="G4UImanager::ApplyCommand" alt="" coords="566,1321,797,1349"/>
+<area shape="rect" id="node25" href="$df/d95/G4UIterminal_8cc.html#a8e395226b1c2f8c1a07837da71b94ef8" title="SignalHandler" alt="" coords="623,1373,740,1401"/>
+<area shape="rect" id="node26" href="$df/dda/classG4VBasicShell.html#a96c74501b424031b660d0b809b6dc17a" title="G4VBasicShell::ExecuteCommand" alt="" coords="556,1425,807,1453"/>
+<area shape="rect" id="node27" href="$d9/d2a/classG4UIGAG.html#ae8aaa2080dd34f9739d518d369329c74" title="G4UIGAG::ExecuteCommand" alt="" coords="573,1477,789,1505"/>
+<area shape="rect" id="node28" href="$d3/d6e/classG4UIGainServer.html#a883d4b3b19abea3f0612cfd297812a5d" title="G4UIGainServer::ExecuteCommand" alt="" coords="551,1529,812,1557"/>
+<area shape="rect" id="node29" href="$d1/d53/classG4EmExtraParametersMessenger.html#a86fc9e1ce0c545d47dfad87b5853cb34" title="G4EmExtraParametersMessenger\l::SetNewValue" alt="" coords="557,1581,806,1625"/>
+<area shape="rect" id="node30" href="$de/d92/classG4EmLowEParametersMessenger.html#a75c664873b7d26c4e5cad799b9bb3172" title="G4EmLowEParametersMessenger\l::SetNewValue" alt="" coords="557,1649,805,1693"/>
+<area shape="rect" id="node31" href="$dd/dd1/classG4EmParametersMessenger.html#aadcff58ef9dae69f57c902da84e1009c" title="G4EmParametersMessenger\l::SetNewValue" alt="" coords="575,1717,788,1761"/>
+<area shape="rect" id="node32" href="$d9/d8c/classG4ProcessManagerMessenger.html#a0853c7c0863bdb1b3d5f7a177ddf900b" title="G4ProcessManagerMessenger\l::SetNewValue" alt="" coords="569,1785,794,1829"/>
+<area shape="rect" id="node33" href="$db/de4/classG4ProcessTableMessenger.html#a8b8090b058d089b495d5e665a5a282af" title="G4ProcessTableMessenger\l::SetNewValue" alt="" coords="581,1853,782,1897"/>
+<area shape="rect" id="node34" href="$de/d16/classG4MTRunManager.html#acc8d3e0e0839c66dea15154eb9b6a762" title="G4MTRunManager::rndmSave\lThisRun" alt="" coords="570,1921,793,1965"/>
+<area shape="rect" id="node35" href="$d4/daa/classG4RunManager.html#ace35e262f92b72ab975ea8ea01ff6c20" title="G4RunManager::ProcessOne\lEvent" alt="" coords="575,1989,787,2033"/>
+<area shape="rect" id="node36" href="$d4/daa/classG4RunManager.html#a5a64d3c1baa3dad4f86f8d60506e9fa5" title="G4RunManager::rndmSaveThisRun" alt="" coords="553,2057,809,2085"/>
+<area shape="rect" id="node37" href="$d4/daa/classG4RunManager.html#a3ea355be78067eab3182c2567ece7fad" title="G4RunManager::rndmSaveThis\lEvent" alt="" coords="566,2109,797,2153"/>
+<area shape="rect" id="node38" href="$d4/daa/classG4RunManager.html#ac110b7a794c8e0729512505ce7de8406" title="G4RunManager::GeometryHas\lBeenModified" alt="" coords="568,2177,795,2221"/>
+<area shape="rect" id="node39" href="$d4/daa/classG4RunManager.html#a32abc2efd2b5bfb3644c3bf21d482749" title="G4RunManager::Reinitialize\lGeometry" alt="" coords="577,2245,785,2289"/>
+<area shape="rect" id="node40" href="$de/d51/classG4RunManagerKernel.html#abe721e78c52a7c1d36dc89e194fd8c01" title="G4RunManagerKernel\l::BuildPhysicsTables" alt="" coords="597,2313,765,2357"/>
+<area shape="rect" id="node41" href="$d3/db3/classG4WorkerRunManager.html#abf86940ad939269f58bb800ab85e6c14" title="G4WorkerRunManager\l::ProcessOneEvent" alt="" coords="594,2381,769,2425"/>
+<area shape="rect" id="node42" href="$d3/db3/classG4WorkerRunManager.html#ab049cafae3abd4483636e911fffeedf5" title="G4WorkerRunManager\l::rndmSaveThisRun" alt="" coords="594,2449,769,2493"/>
+<area shape="rect" id="node43" href="$d3/db3/classG4WorkerRunManager.html#a75f5ac19b325dcbbe9c01ad30f1ea3f9" title="G4WorkerRunManager\l::rndmSaveThisEvent" alt="" coords="594,2517,769,2561"/>
+<area shape="rect" id="node44" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="594,2585,769,2629"/>
+<area shape="rect" id="node45" href="$de/d57/classG4TrackingMessenger.html#af3f1ad5650e5ab3c9bd1a24937f57196" title="G4TrackingMessenger\l::SetNewValue" alt="" coords="596,2653,767,2697"/>
+<area shape="rect" id="node46" href="$d1/dfe/classG4VisCommandList.html#a827cf1e898cda54f487b43070952529a" title="G4VisCommandList::SetNew\lValue" alt="" coords="575,2721,788,2765"/>
+<area shape="rect" id="node47" href="$da/d3f/classG4VisCommandReviewKeptEvents.html#a71ac6d1016d269b4d59f868da4f95238" title="G4VisCommandReviewKeptEvents\l::SetNewValue" alt="" coords="554,2789,809,2833"/>
+</map>

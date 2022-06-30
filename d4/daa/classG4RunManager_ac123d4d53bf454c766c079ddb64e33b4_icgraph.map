@@ -1,0 +1,20 @@
+<map id="G4RunManager::GetUserTrackingAction" name="G4RunManager::GetUserTrackingAction">
+<area shape="rect" id="node2" href="$da/d21/classCexmcEventAction.html#afd892ea6392bcda201cfb0c20b6216cb" title="CexmcEventAction::BeginOf\lEventAction" alt="" coords="306,105,518,149"/>
+<area shape="rect" id="node3" href="$d6/dfa/classG4BlineTracer.html#a101e07bb8610d82a5fb2b3b0fea44cf7" title="G4BlineTracer::ComputeBlines" alt="" coords="299,173,525,201"/>
+<area shape="rect" id="node5" href="$db/d16/classG4AdjointSimManager.html#ace47942b1af5e72b7b792217ca3f04cc" title="G4AdjointSimManager\l::DefineUserActions" alt="" coords="325,225,499,269"/>
+<area shape="rect" id="node14" href="$dd/d36/pymodG4run_8cc.html#a40df4755f58bb0bd961be91b7372bd01" title="export_G4RunManager" alt="" coords="323,293,501,321"/>
+<area shape="rect" id="node16" href="$d7/df6/classRunAction.html#a0d4ac3e0a902a751e6c155f7182b7366" title="RunAction::InitializeWorker" alt="" coords="310,345,514,373"/>
+<area shape="rect" id="node19" href="$dd/dec/classG4RTWorkerInitialization.html#aebd9a8210f7aa32b1fe68ceb591ef236" title="G4RTWorkerInitialization\l::WorkerRunStart" alt="" coords="319,397,505,441"/>
+<area shape="rect" id="node4" href="$d3/da7/classG4BlineTracerMessenger.html#acf8db65272c7e08eadae136c2cb710c9" title="G4BlineTracerMessenger\l::SetNewValue" alt="" coords="609,5,799,49"/>
+<area shape="rect" id="node6" href="$db/d16/classG4AdjointSimManager.html#a54290219e1bf761d74b5038bde24d312" title="G4AdjointSimManager\l::SetAdjointActions" alt="" coords="617,73,791,117"/>
+<area shape="rect" id="node10" href="$db/d16/classG4AdjointSimManager.html#a8a0165c4dbc8df0f29a203ef5fe85b77" title="G4AdjointSimManager\l::SetAdjointPrimaryRunAndStacking\lActions" alt="" coords="573,141,835,201"/>
+<area shape="rect" id="node11" href="$db/d16/classG4AdjointSimManager.html#a302043290b82c0ca74d9999c22c8bc44" title="G4AdjointSimManager\l::SetRestOfAdjointActions" alt="" coords="607,225,801,269"/>
+<area shape="rect" id="node7" href="$db/d16/classG4AdjointSimManager.html#a630c305890d7ef3dfffdecca1f932316" title="G4AdjointSimManager\l::SwitchToAdjointSimulationMode" alt="" coords="883,73,1128,117"/>
+<area shape="rect" id="node8" href="$db/d16/classG4AdjointSimManager.html#a36783373c75cd61d440156d98abe6473" title="G4AdjointSimManager\l::RunAdjointSimulation" alt="" coords="1193,73,1369,117"/>
+<area shape="rect" id="node9" href="$d6/d97/classG4AdjointSimMessenger.html#a5bfcad72a393216a5db8742d7d8556af" title="G4AdjointSimMessenger\l::SetNewValue" alt="" coords="1433,73,1621,117"/>
+<area shape="rect" id="node12" href="$db/d16/classG4AdjointSimManager.html#a4eee1df8abd073095e574c8512ec30e9" title="G4AdjointSimManager\l::SetAdjointTrackingMode" alt="" coords="909,225,1102,269"/>
+<area shape="rect" id="node13" href="$d4/d34/classG4AdjointPrimaryGeneratorAction.html#a159749d1cb5a47a017be08d70c26ff0f" title="G4AdjointPrimaryGenerator\lAction::GeneratePrimaries" alt="" coords="1176,225,1385,269"/>
+<area shape="rect" id="node15" href="$dd/d36/pymodG4run_8cc.html#a6d23b1bd4c250a6083c97cde722122ab" title="BOOST_PYTHON_MODULE" alt="" coords="607,293,801,321"/>
+<area shape="rect" id="node17" href="$d7/df6/classRunAction.html#aca71b36db3aac405b8f8ab552da7981e" title="RunAction::BeginMaster" alt="" coords="612,345,796,373"/>
+<area shape="rect" id="node18" href="$d7/df6/classRunAction.html#abfa8d33061c661644f05a8259d17b1b4" title="RunAction::BeginWorker" alt="" coords="611,397,797,425"/>
+</map>

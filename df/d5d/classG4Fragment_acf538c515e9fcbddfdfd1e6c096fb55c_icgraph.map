@@ -1,0 +1,25 @@
+<map id="G4Fragment::SetNumberOfParticles" name="G4Fragment::SetNumberOfParticles">
+<area shape="rect" id="node2" href="$dd/d18/classG4BinaryLightIonReaction.html#a8e7e45c9407e6d46894cda7e61aed01f" title="G4BinaryLightIonReaction\l::DeExciteSpectatorNucleus" alt="" coords="625,5,835,49"/>
+<area shape="rect" id="node4" href="$d0/d72/classG4BinaryCascade.html#a07cf91de4b6a343affcbbecb7a57e837" title="G4BinaryCascade::FindFragments" alt="" coords="322,101,571,129"/>
+<area shape="rect" id="node9" href="$dd/d18/classG4BinaryLightIonReaction.html#a2ffec165466c0957b990c1cb5f052ca8" title="G4BinaryLightIonReaction\l::FuseNucleiAndPrompound" alt="" coords="627,151,833,195"/>
+<area shape="rect" id="node10" href="$d7/dc3/classG4PreCompoundEmission.html#a9053f5672b18be91110043bb17ea79cc" title="G4PreCompoundEmission\l::PerformEmission" alt="" coords="349,209,544,253"/>
+<area shape="rect" id="node21" href="$de/ddf/classG4GNASHTransitions.html#ae79f56cac971d911868fb4ff57930555" title="G4GNASHTransitions\l::PerformTransition" alt="" coords="365,277,528,321"/>
+<area shape="rect" id="node22" href="$dd/d30/classG4PreCompoundTransitions.html#a2650d18c75e037d57054cbdbdbd30ed3" title="G4PreCompoundTransitions\l::PerformTransition" alt="" coords="343,345,551,389"/>
+<area shape="rect" id="node23" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a1c8c78222bbf7168a6b7345f1723696c" title="G4GeneratorPrecompoundInterface\l::Propagate" alt="" coords="316,413,577,457"/>
+<area shape="rect" id="node24" href="$d9/d06/classG4GeneratorPrecompoundInterface.html#a5863f08fdf69872a6a903894a6f7f426" title="G4GeneratorPrecompoundInterface\l::PropagateNuclNucl" alt="" coords="316,481,577,525"/>
+<area shape="rect" id="node3" href="$dd/d18/classG4BinaryLightIonReaction.html#a7ebd9d632f36d7cdcab5a07202cb765f" title="G4BinaryLightIonReaction\l::ApplyYourself" alt="" coords="1443,39,1639,83"/>
+<area shape="rect" id="node5" href="$d0/d72/classG4BinaryCascade.html#a9266e9ed68152f8de16c4f6013878836" title="G4BinaryCascade::DeExcite" alt="" coords="625,99,835,127"/>
+<area shape="rect" id="node6" href="$d0/d72/classG4BinaryCascade.html#a8cb949ade0dc2dbac02d409d159f798f" title="G4BinaryCascade::Propagate" alt="" coords="884,99,1103,127"/>
+<area shape="rect" id="node7" href="$d0/d72/classG4BinaryCascade.html#a819ef318496ad0fc9ada18470447a6fa" title="G4BinaryCascade::ApplyYourself" alt="" coords="1152,107,1395,135"/>
+<area shape="rect" id="node8" href="$dd/d18/classG4BinaryLightIonReaction.html#a38327ae889e8e418224d4a9d3b4ac2d1" title="G4BinaryLightIonReaction\l::Interact" alt="" coords="1175,39,1371,83"/>
+<area shape="rect" id="node11" href="$d7/dea/classG4PreCompoundModel.html#a8905125d57a9c77d4911168b34cbe194" title="G4PreCompoundModel\l::DeExcite" alt="" coords="642,279,818,323"/>
+<area shape="rect" id="node12" href="$d6/de8/classG4NeutrinoNucleusModel.html#ae8e9d8aa4c83f4f70ea4c898c96293cc" title="G4NeutrinoNucleusModel\l::RecoilDeexcitation" alt="" coords="897,279,1090,323"/>
+<area shape="rect" id="node18" href="$d2/dda/classG4LowEGammaNuclearModel.html#a7b18a3b1529e358b4bcc6f3d0273cd0b" title="G4LowEGammaNuclearModel\l::ApplyYourself" alt="" coords="883,347,1104,391"/>
+<area shape="rect" id="node19" href="$d4/d56/classG4LowEIonFragmentation.html#a19cfa23cd57764012e6103b9285744f8" title="G4LowEIonFragmentation\l::ApplyYourself" alt="" coords="896,415,1091,459"/>
+<area shape="rect" id="node20" href="$d7/dea/classG4PreCompoundModel.html#a86ca6a7d7dc43c0092484f5c57e8afb0" title="G4PreCompoundModel\l::ApplyYourself" alt="" coords="905,211,1081,255"/>
+<area shape="rect" id="node13" href="$d6/de8/classG4NeutrinoNucleusModel.html#ad79e03b5fab0a8ea33aab4525d732b1e" title="G4NeutrinoNucleusModel\l::FinalBarion" alt="" coords="1177,247,1370,291"/>
+<area shape="rect" id="node17" href="$d6/de8/classG4NeutrinoNucleusModel.html#a0953f12fb6aa0b30b1505d6bd13cff5a" title="G4NeutrinoNucleusModel\l::CoherentPion" alt="" coords="1444,315,1637,359"/>
+<area shape="rect" id="node14" href="$d6/de8/classG4NeutrinoNucleusModel.html#ad10a303609b9ca746037f961ef3eb9f9" title="G4NeutrinoNucleusModel\l::ClusterDecay" alt="" coords="1444,247,1637,291"/>
+<area shape="rect" id="node15" href="$d7/d09/classG4NuMuNucleusCcModel.html#a2ed4cf9e2d2fbcdfdc1ca34ae670fca3" title="G4NuMuNucleusCcModel\l::ApplyYourself" alt="" coords="1687,247,1877,291"/>
+<area shape="rect" id="node16" href="$da/da7/classG4NuMuNucleusNcModel.html#a790e8687db2d4dc62c21d21b3e4988d4" title="G4NuMuNucleusNcModel\l::ApplyYourself" alt="" coords="1687,315,1877,359"/>
+</map>

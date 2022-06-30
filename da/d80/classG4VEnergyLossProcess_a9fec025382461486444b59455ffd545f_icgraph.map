@@ -1,0 +1,21 @@
+<map id="G4VEnergyLossProcess::GetDEDXForScaledEnergy" name="G4VEnergyLossProcess::GetDEDXForScaledEnergy">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#ad8646bed180e0a0115ef2d2d89f72524" title="G4VEnergyLossProcess\l::AlongStepDoIt" alt="" coords="260,225,437,269"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#ac2cecb3f65cdc118fcc1ee1cd7137a24" title="G4VEnergyLossProcess\l::GetDEDX" alt="" coords="260,293,437,337"/>
+<area shape="rect" id="node4" href="$df/d03/classG4ContinuousGainOfEnergy.html#a8274612225f225916d412c7b2b903f98" title="G4ContinuousGainOfEnergy\l::AlongStepDoIt" alt="" coords="485,225,696,269"/>
+<area shape="rect" id="node5" href="$d9/d78/classG4LossTableManager.html#afd8b2b9a92d5cbc14eeddd289a701238" title="G4LossTableManager\l::GetDEDX" alt="" coords="508,293,673,337"/>
+<area shape="rect" id="node18" href="$d0/d99/classG4VMscModel.html#a15619db857678778a02d95f845e8f3f9" title="G4VMscModel::GetDEDX" alt="" coords="497,471,685,499"/>
+<area shape="rect" id="node6" href="$de/dc4/classG4EmCalculator.html#a0ff764e7abb2a3513dc705e133979bdf" title="G4EmCalculator::GetDEDX" alt="" coords="781,139,984,167"/>
+<area shape="rect" id="node14" href="$d1/d32/classG4EnergyLossTables.html#a6c26b6840f723a5c54a18ca8eb7d15fc" title="G4EnergyLossTables\l::GetDEDX" alt="" coords="803,191,963,235"/>
+<area shape="rect" id="node15" href="$d1/d32/classG4EnergyLossTables.html#a332a582abe92a791f458edf1aa9716bc" title="G4EnergyLossTables\l::GetPreciseDEDX" alt="" coords="803,259,963,303"/>
+<area shape="rect" id="node16" href="$d1/d32/classG4EnergyLossTables.html#a54a8d4ad6277dd41385887ba039ecf20" title="G4EnergyLossTables\l::GetPreciseRangeFromEnergy" alt="" coords="770,327,995,371"/>
+<area shape="rect" id="node17" href="$db/d01/classG4Cerenkov.html#a3905e64e2aeed225e0e8535efc7888aa" title="G4Cerenkov::PostStepGetPhysical\lInteractionLength" alt="" coords="758,395,1007,439"/>
+<area shape="rect" id="node7" href="$d7/df6/classRunAction.html#a14b3433a6875194c4adfe1c222884f0d" title="RunAction::BeginOfRunAction" alt="" coords="1071,5,1291,33"/>
+<area shape="rect" id="node8" href="$de/db2/classRun.html#a798b741fa444a02c3bd4517b5dc01f0b" title="Run::EndOfRun" alt="" coords="1119,57,1242,85"/>
+<area shape="rect" id="node9" href="$de/dc4/classG4EmCalculator.html#ab3b527e8bc54f3e718d4b7babe641a61" title="G4EmCalculator::GetDEDX" alt="" coords="1079,109,1282,137"/>
+<area shape="rect" id="node10" href="$d7/df6/classRunAction.html#a9a586271b693900f39d561e84cc3b4fe" title="RunAction::GetEnergyFrom\lRestrictedRange" alt="" coords="1079,161,1282,205"/>
+<area shape="rect" id="node11" href="$de/db2/classRun.html#a6622052348735f6a679a11608060186a" title="Run::Run" alt="" coords="1140,229,1221,257"/>
+<area shape="rect" id="node12" href="$da/d76/classG4EnergySplitter.html#ab21723d5a691168fffee8d7dc66539b9" title="G4EnergySplitter::SplitEnergy\lInVolumes" alt="" coords="1069,281,1292,325"/>
+<area shape="rect" id="node13" href="$dd/d79/classG4ScoreSplittingProcess.html#a360c639b35f911e9708a32b88a8e4aee" title="G4ScoreSplittingProcess\l::PostStepDoIt" alt="" coords="1340,281,1525,325"/>
+<area shape="rect" id="node19" href="$db/dfc/classG4UrbanAdjointMscModel.html#adbabe24b8ebcc5ab67355b770cc30d8a" title="G4UrbanAdjointMscModel\l::SampleScattering" alt="" coords="785,463,980,507"/>
+<area shape="rect" id="node20" href="$d4/da8/classG4UrbanMscModel.html#a15d6aa2463f753c875bd5fed21917853" title="G4UrbanMscModel::SampleScattering" alt="" coords="744,531,1021,559"/>
+</map>

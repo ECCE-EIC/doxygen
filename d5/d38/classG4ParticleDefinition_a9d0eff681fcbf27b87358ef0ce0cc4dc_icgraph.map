@@ -1,0 +1,32 @@
+<map id="G4ParticleDefinition::GetPDGiIsospin" name="G4ParticleDefinition::GetPDGiIsospin">
+<area shape="rect" id="node2" href="$d6/d86/classG4MuonicAtomHelper.html#a4d5054c1c2dc7202884821ed20caeb15" title="G4MuonicAtomHelper\l::ConstructMuonicAtom" alt="" coords="268,155,447,199"/>
+<area shape="rect" id="node6" href="$d4/dde/classG4VXResonance.html#af58e229d431c123af107154758f5fb9b" title="G4VXResonance::DetailedBalance" alt="" coords="231,639,483,667"/>
+<area shape="rect" id="node8" href="$d8/da9/classG4ConcreteNNTwoBodyResonance.html#af8879ba10eb07adb3613be0cd1e9f634" title="G4ConcreteNNTwoBodyResonance\l::establish_G4MT_TLS_G4ConcreteNNTwo\lBodyResonance" alt="" coords="208,316,507,376"/>
+<area shape="rect" id="node16" href="$d9/d3a/classG4DiffractiveExcitation.html#a9f7286ef3f7ce183bcf3931e474aa223" title="G4DiffractiveExcitation\l::ExciteParticipants_doCharge\lExchange" alt="" coords="246,503,469,563"/>
+<area shape="rect" id="node20" href="$d8/d95/pymodG4particles_8cc.html#ab11ed23257ccf7ee0d9f2987e88d61c9" title="export_G4ParticleDefinition" alt="" coords="255,587,460,615"/>
+<area shape="rect" id="node22" href="$d8/da9/classG4ConcreteNNTwoBodyResonance.html#aac3dc04e76e7e97eecbab44a2565d6e4" title="G4ConcreteNNTwoBodyResonance\l::G4ConcreteNNTwoBodyResonance" alt="" coords="226,691,489,735"/>
+<area shape="rect" id="node23" href="$db/dde/classG4Parton.html#a12a5bb6cc6fa55508ca863c858622507" title="G4Parton::G4Parton" alt="" coords="280,759,435,787"/>
+<area shape="rect" id="node24" href="$dd/d95/classG4TextPPReporter.html#af9bf23058b7c6b23441ed8aa3597e552" title="G4TextPPReporter::Generate\lPropertyTable" alt="" coords="251,863,464,907"/>
+<area shape="rect" id="node26" href="$d7/dd4/classG4HtmlPPReporter.html#a18a670e36d988aaa53d9d811026da9c4" title="G4HtmlPPReporter::Generate\lPropertyTable" alt="" coords="248,999,467,1043"/>
+<area shape="rect" id="node28" href="$d2/d5f/classG4ParticlePropertyTable.html#a0c318b010cac4df125bd391ed9409c04" title="G4ParticlePropertyTable\l::GetParticleProperty" alt="" coords="267,931,448,975"/>
+<area shape="rect" id="node29" href="$d4/dde/classG4VXResonance.html#a7b3af6c0a26dd167db53fe2fcbf38465" title="G4VXResonance::IsospinCorrection" alt="" coords="229,811,486,839"/>
+<area shape="rect" id="node30" href="$d8/d9e/classG4XAnnihilationChannel.html#a1ce7abfa8d94fef5cb2b293b9c5aa564" title="G4XAnnihilationChannel\l::NormalizedClebsch" alt="" coords="265,1067,450,1111"/>
+<area shape="rect" id="node3" href="$da/d2b/classG4IonTable.html#a3d3b1dba9da6722b65a213f544655419" title="G4IonTable::GetMuonicAtom" alt="" coords="569,35,783,63"/>
+<area shape="rect" id="node4" href="$de/d74/classG4MuonMinusAtomicCapture.html#a5ec651bc867be94de90396cbde3d1a4d" title="G4MuonMinusAtomicCapture\l::AtRestDoIt" alt="" coords="853,57,1071,101"/>
+<area shape="rect" id="node5" href="$da/d2b/classG4IonTable.html#a9c0774afb187a595ac67651b2043b044" title="G4IonTable::GetMuonicAtom" alt="" coords="855,5,1069,33"/>
+<area shape="rect" id="node7" href="$df/d1e/classG4XResonance.html#a0ac9fffd62ba418be0f5a1ca83bd6ded" title="G4XResonance::CrossSection" alt="" coords="567,725,785,753"/>
+<area shape="rect" id="node9" href="$d6/d7b/classG4ConcreteNNToDeltaDelta.html#ac3b08811de27586469bc3b1a8ed59801" title="G4ConcreteNNToDeltaDelta\l::G4ConcreteNNToDeltaDelta" alt="" coords="569,87,783,131"/>
+<area shape="rect" id="node10" href="$d6/dc2/classG4ConcreteNNToDeltaDeltastar.html#af8a9be0a944942d9dc1d704290d9ff30" title="G4ConcreteNNToDeltaDeltastar\l::G4ConcreteNNToDeltaDeltastar" alt="" coords="555,155,797,199"/>
+<area shape="rect" id="node11" href="$d8/ddf/classG4ConcreteNNToDeltaNstar.html#ad527ee19d7575e543d46321b371c0629" title="G4ConcreteNNToDeltaNstar\l::G4ConcreteNNToDeltaNstar" alt="" coords="567,223,785,267"/>
+<area shape="rect" id="node12" href="$d9/d58/classG4ConcreteNNToNDelta.html#a295d7c9a8d488dc845a4cff2bbab3c65" title="G4ConcreteNNToNDelta\l::G4ConcreteNNToNDelta" alt="" coords="581,291,771,335"/>
+<area shape="rect" id="node13" href="$d8/d45/classG4ConcreteNNToNDeltaStar.html#a10c2b5c7cc45ef8ace96ec3cfb0c98fb" title="G4ConcreteNNToNDeltaStar\l::G4ConcreteNNToNDeltaStar" alt="" coords="567,359,785,403"/>
+<area shape="rect" id="node14" href="$d3/db7/classG4ConcreteNNToNNStar.html#acfddfd6ec425356e2667091b649f9d3b" title="G4ConcreteNNToNNStar\l::G4ConcreteNNToNNStar" alt="" coords="580,427,772,471"/>
+<area shape="rect" id="node15" href="$d9/d33/classG4ConcreteNStarNToNN.html#a302132899b246b497dc8d440e3a96047" title="G4ConcreteNStarNToNN\l::G4ConcreteNStarNToNN" alt="" coords="581,495,771,539"/>
+<area shape="rect" id="node17" href="$d9/d3a/classG4DiffractiveExcitation.html#ae959f7e204e5a422bb748c06abce366f" title="G4DiffractiveExcitation\l::ExciteParticipants" alt="" coords="587,563,765,607"/>
+<area shape="rect" id="node18" href="$dd/dbb/classG4FTFModel.html#a8b7187dbefc0137e849b83ec23690966" title="G4FTFModel::ExciteParticipants" alt="" coords="845,571,1079,599"/>
+<area shape="rect" id="node19" href="$dd/dbb/classG4FTFModel.html#ae51a4d0d59f37d979b53116356e63f49" title="G4FTFModel::GetStrings" alt="" coords="1127,571,1312,599"/>
+<area shape="rect" id="node21" href="$d8/d95/pymodG4particles_8cc.html#a23b3fd6e154990b727bc2542e815c0fa" title="BOOST_PYTHON_MODULE" alt="" coords="579,631,773,659"/>
+<area shape="rect" id="node25" href="$dd/d95/classG4TextPPReporter.html#a20ff0cdd5b0c5b63283f7ca00507af37" title="G4TextPPReporter::Print" alt="" coords="585,871,767,899"/>
+<area shape="rect" id="node27" href="$d7/dd4/classG4HtmlPPReporter.html#a292964ca263028af4f82d9f320831c41" title="G4HtmlPPReporter::Print" alt="" coords="583,1007,769,1035"/>
+<area shape="rect" id="node31" href="$d8/d9e/classG4XAnnihilationChannel.html#a6c4595ad5017e603358035ae9eafff04" title="G4XAnnihilationChannel\l::CrossSection" alt="" coords="583,1067,769,1111"/>
+</map>

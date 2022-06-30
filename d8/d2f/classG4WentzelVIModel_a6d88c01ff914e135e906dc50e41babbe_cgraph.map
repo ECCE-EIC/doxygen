@@ -1,0 +1,46 @@
+<map id="G4WentzelVIModel::ComputeTrueStepLength" name="G4WentzelVIModel::ComputeTrueStepLength">
+<area shape="rect" id="node2" href="$d8/d2f/classG4WentzelVIModel.html#a23604a427f56951d44f26963a934de41" title="G4WentzelVIModel::Compute\lTransportXSectionPerVolume" alt="" coords="272,456,491,500"/>
+<area shape="rect" id="node7" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="927,57,991,85"/>
+<area shape="rect" id="node24" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="881,605,1036,649"/>
+<area shape="rect" id="node25" href="$d0/d99/classG4VMscModel.html#a6540d9e4f3ce8e6f0f1cecdc0be227fa" title="G4VMscModel::GetEnergy" alt="" coords="283,969,480,997"/>
+<area shape="rect" id="node37" href="$d0/d99/classG4VMscModel.html#a4298553cd22ecee18e8759613725187b" title="G4VMscModel::GetTransport\lMeanFreePath" alt="" coords="275,760,488,804"/>
+<area shape="rect" id="node43" href="$d9/d5f/classG4WentzelOKandVIxSection.html#ab03f20d52d033b6c4ae0a04c9da3afc6" title="G4WentzelOKandVIxSection\l::SetupKinematic" alt="" coords="276,1133,487,1177"/>
+<area shape="rect" id="node3" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a11958fe677bc697f48384d3adf7d0b99" title="G4WentzelOKandVIxSection\l::ComputeElectronCrossSection" alt="" coords="543,541,776,585"/>
+<area shape="rect" id="node4" href="$d9/d5f/classG4WentzelOKandVIxSection.html#abb62954416a85723fa52ac1808d77efb" title="G4WentzelOKandVIxSection\l::ComputeNuclearCrossSection" alt="" coords="544,609,775,653"/>
+<area shape="rect" id="node5" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a9565be2959d8c3549e6e6cfb1962c252" title="G4WentzelOKandVIxSection\l::ComputeTransportCrossSection\lPerAtom" alt="" coords="539,143,780,203"/>
+<area shape="rect" id="node14" href="$d5/de4/classG4Material.html#ad04e40f52334a1335ec07c3dba5affff" title="G4Material::GetElementVector" alt="" coords="545,387,773,415"/>
+<area shape="rect" id="node15" href="$d5/de4/classG4Material.html#a4f4c62a46fecf76d2cea99a0e3cd63f3" title="G4Material::GetNumberOfElements" alt="" coords="828,485,1089,513"/>
+<area shape="rect" id="node16" href="$d5/de4/classG4Material.html#a68362f19c346886e3bf1194a9339e1f3" title="G4Material::GetVecNbOfAtoms\lPerVolume" alt="" coords="844,537,1073,581"/>
+<area shape="rect" id="node17" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a00593ce3c58366b18ea5e42251f3e654" title="G4WentzelOKandVIxSection\l::SetupTarget" alt="" coords="554,319,765,363"/>
+<area shape="rect" id="node6" href="$d5/d91/hadronic_2Hadr06_2plot2_8C.html#a01cd4161c39d4c1c1b10b998920288e7" title="fb" alt="" coords="939,109,978,137"/>
+<area shape="rect" id="node13" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="881,161,1036,205"/>
+<area shape="rect" id="node8" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="1161,5,1353,33"/>
+<area shape="rect" id="node9" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="1161,57,1353,85"/>
+<area shape="rect" id="node10" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="1137,109,1377,137"/>
+<area shape="rect" id="node11" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="1445,84,1633,112"/>
+<area shape="rect" id="node12" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="1445,136,1633,164"/>
+<area shape="rect" id="node18" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a37c71a61c37f399bb4cc1f575162f957" title="G4WentzelOKandVIxSection\l::ComputeMaxElectronScattering" alt="" coords="837,417,1081,461"/>
+<area shape="rect" id="node19" href="$d2/d00/classG4NistManager.html#a4415b9446591addb6cd57c2f1b3bdf9a" title="G4NistManager::GetAtomic\lMassAmu" alt="" coords="856,229,1061,273"/>
+<area shape="rect" id="node21" href="$d9/d5f/classG4WentzelOKandVIxSection.html#a031c21558a93bdab8a9e5985fdad9a6a" title="G4WentzelOKandVIxSection\l::SetTargetMass" alt="" coords="853,297,1064,341"/>
+<area shape="rect" id="node22" href="$de/d0f/classG4Pow.html#a7f8ef3a231d8fb26fa3b31b4aa4d86f6" title="G4Pow::Z23" alt="" coords="908,365,1009,393"/>
+<area shape="rect" id="node20" href="$d9/df3/classG4NistElementBuilder.html#ab8b3de3bf6156ffe773def8126cdfbe9" title="G4NistElementBuilder\l::GetAtomicMassAmu" alt="" coords="1172,229,1343,273"/>
+<area shape="rect" id="node23" href="$de/d0f/classG4Pow.html#ab61696b492c40c146e135e72a3111cd3" title="G4Pow::Z13" alt="" coords="1207,365,1308,393"/>
+<area shape="rect" id="node26" href="$d5/de4/classG4Material.html#a32d5774ccabccc95879d98ec5919348b" title="G4Material::GetDensity" alt="" coords="569,1021,749,1049"/>
+<area shape="rect" id="node27" href="$da/d80/classG4VEnergyLossProcess.html#a22baffa62856b62728f723a2d453b120" title="G4VEnergyLossProcess\l::GetKineticEnergy" alt="" coords="571,901,748,945"/>
+<area shape="rect" id="node30" href="$d9/dc9/classG4MaterialCutsCouple.html#a7f2e49c198c81fa1fec9db563d3fbf56" title="G4MaterialCutsCouple\l::GetMaterial" alt="" coords="1171,920,1343,964"/>
+<area shape="rect" id="node36" href="$d5/d38/classG4ParticleDefinition.html#aa751e870d4b72ded8ba24677bb6a656c" title="G4ParticleDefinition\l::GetPDGCharge" alt="" coords="582,1073,737,1117"/>
+<area shape="rect" id="node28" href="$da/d80/classG4VEnergyLossProcess.html#abfc0f724a5e8ccd023a9fa690a7089a0" title="G4VEnergyLossProcess\l::DefineMaterial" alt="" coords="870,901,1047,945"/>
+<area shape="rect" id="node31" href="$da/d80/classG4VEnergyLossProcess.html#a02917771d37d5aac0111e136cdd85bcc" title="G4VEnergyLossProcess\l::ScaledKinEnergyForLoss" alt="" coords="861,1021,1056,1065"/>
+<area shape="rect" id="node29" href="$d9/dc9/classG4MaterialCutsCouple.html#aff2ba1454947e525e02a260a75948431" title="G4MaterialCutsCouple\l::GetIndex" alt="" coords="1171,852,1343,896"/>
+<area shape="rect" id="node32" href="$d7/d2c/classG4PhysicsVector.html#a8182fe887e51f9002d59f56678c18158" title="G4PhysicsVector::Energy" alt="" coords="1163,1055,1352,1083"/>
+<area shape="rect" id="node33" href="$d7/d2c/classG4PhysicsVector.html#a67d841bd151f3b43ee24a7234c35b9d3" title="G4PhysicsVector::Value" alt="" coords="1168,1003,1347,1031"/>
+<area shape="rect" id="node34" href="$d7/d2c/classG4PhysicsVector.html#a5fba322ade1335de162252dcbb7bb90a" title="G4PhysicsVector::FindBin" alt="" coords="1444,976,1635,1004"/>
+<area shape="rect" id="node35" href="$d7/d2c/classG4PhysicsVector.html#a5d5c84f331f6c7d7201f48c0d00a0e81" title="G4PhysicsVector::Interpolation" alt="" coords="1425,1028,1653,1056"/>
+<area shape="rect" id="node38" href="$d3/dc1/classG4VEmModel.html#a4d09f2d27c58f1bf394f4160aa3cc65c" title="G4VEmModel::CrossSection\lPerVolume" alt="" coords="555,729,763,773"/>
+<area shape="rect" id="node42" href="$d3/dc1/classG4VEmModel.html#ab685a0c198165ce12cb7da76ae466596" title="G4VEmModel::CurrentCouple" alt="" coords="550,849,769,877"/>
+<area shape="rect" id="node39" href="$d3/dc1/classG4VEmModel.html#a164dd825009abac2d7a109b290f12732" title="G4VEmModel::ComputeCross\lSectionPerAtom" alt="" coords="849,673,1069,717"/>
+<area shape="rect" id="node40" href="$d5/de4/classG4Material.html#a9694d90cd5e11afaa7f74b49a663ddfd" title="G4Material::GetElement" alt="" coords="866,741,1051,769"/>
+<area shape="rect" id="node41" href="$d3/dc1/classG4VEmModel.html#a9dd6013a505aae93460eecefbca33168" title="G4VEmModel::SetupForMaterial" alt="" coords="841,793,1077,821"/>
+<area shape="rect" id="node44" href="$d6/d69/classG4IonisParamMat.html#ad52a35cd2b3e498a63f9e842d2e2806a" title="G4IonisParamMat::GetInvA23" alt="" coords="550,1141,769,1169"/>
+<area shape="rect" id="node45" href="$d5/de4/classG4Material.html#a6ab8fd65f7f20ece6b570093b2229e11" title="G4Material::GetIonisation" alt="" coords="563,1193,756,1221"/>
+</map>

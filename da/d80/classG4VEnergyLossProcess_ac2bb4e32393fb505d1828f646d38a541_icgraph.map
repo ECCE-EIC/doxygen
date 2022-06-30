@@ -1,0 +1,51 @@
+<map id="G4VEnergyLossProcess::GetScaledRangeForScaledEnergy" name="G4VEnergyLossProcess::GetScaledRangeForScaledEnergy">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#ac31f5cd969046de8b3464021d149030f" title="G4VEnergyLossProcess\l::AlongStepGetPhysicalInteraction\lLength" alt="" coords="309,148,560,208"/>
+<area shape="rect" id="node4" href="$da/d80/classG4VEnergyLossProcess.html#ada3aba61c1e24ac7a72a2b61fb1ddc89" title="G4VEnergyLossProcess\l::GetRange" alt="" coords="346,261,523,305"/>
+<area shape="rect" id="node33" href="$da/d80/classG4VEnergyLossProcess.html#a09a9b567af12d7c9b40705c183abe578" title="G4VEnergyLossProcess\l::GetRangeForLoss" alt="" coords="346,769,523,813"/>
+<area shape="rect" id="node3" href="$da/d80/classG4VEnergyLossProcess.html#a6f7c0af783027933788184a2e992f3be" title="G4VEnergyLossProcess\l::ContinuousStepLimit" alt="" coords="633,125,811,169"/>
+<area shape="rect" id="node5" href="$df/d03/classG4ContinuousGainOfEnergy.html#a8274612225f225916d412c7b2b903f98" title="G4ContinuousGainOfEnergy\l::AlongStepDoIt" alt="" coords="617,193,827,237"/>
+<area shape="rect" id="node6" href="$df/d03/classG4ContinuousGainOfEnergy.html#a0696564b2a1e72f79a345a152acb5484" title="G4ContinuousGainOfEnergy\l::GetContinuousStepLimit" alt="" coords="617,261,827,305"/>
+<area shape="rect" id="node7" href="$d9/d78/classG4LossTableManager.html#ae5c306a76c82b70e6744f755fc50c2d0" title="G4LossTableManager\l::GetRange" alt="" coords="639,329,805,373"/>
+<area shape="rect" id="node8" href="$d0/dd0/classG4SteppingManager.html#a9f08ac0f52e7f495bc849a38acce25f2" title="G4SteppingManager::\lApplyProductionCut" alt="" coords="926,73,1094,117"/>
+<area shape="rect" id="node16" href="$d0/d59/classG4ITStepProcessor.html#ab66e46396f0461a786cffaa00bc9f58e" title="G4ITStepProcessor::\lApplyProductionCut" alt="" coords="932,141,1088,185"/>
+<area shape="rect" id="node17" href="$d2/daa/classPhysicsList.html#a449646b036f9bdb51c09a30e80dc22d9" title="PhysicsList::GetRange" alt="" coords="925,209,1095,237"/>
+<area shape="rect" id="node18" href="$d1/d32/classG4EnergyLossTables.html#a97668769bcf7b7f1148a179337b50b54" title="G4EnergyLossTables\l::GetRange" alt="" coords="930,261,1090,305"/>
+<area shape="rect" id="node19" href="$dd/de6/classDMXMinEkineCuts.html#aa592d065a1ca525bed87dae9383fd6b0" title="DMXMinEkineCuts::PostStep\lGetPhysicalInteractionLength" alt="" coords="901,329,1119,373"/>
+<area shape="rect" id="node20" href="$d3/dd8/classG4UserSpecialCuts.html#aee5834899cb8a35258d1df71373ca043" title="G4UserSpecialCuts::\lPostStepGetPhysicalInteraction\lLength" alt="" coords="894,397,1126,457"/>
+<area shape="rect" id="node21" href="$db/d01/classG4Cerenkov.html#a3905e64e2aeed225e0e8535efc7888aa" title="G4Cerenkov::PostStepGetPhysical\lInteractionLength" alt="" coords="885,481,1135,525"/>
+<area shape="rect" id="node22" href="$d5/d9b/classG4EmSaturation.html#a7b9a89e31151884340b7979b2cc2e784" title="G4EmSaturation::VisibleEnergy\lDeposition" alt="" coords="893,549,1127,593"/>
+<area shape="rect" id="node9" href="$d0/dd0/classG4SteppingManager.html#a5b10ca0aeb0d703e9fe5ee37bf64a5e5" title="G4SteppingManager::\lInvokeAlongStepDoItProcs" alt="" coords="1475,5,1674,49"/>
+<area shape="rect" id="node13" href="$d0/dd0/classG4SteppingManager.html#af6989a27878155ca55469248dafdfb35" title="G4SteppingManager::\lInvokeAtRestDoItProcs" alt="" coords="1489,73,1661,117"/>
+<area shape="rect" id="node14" href="$d0/dd0/classG4SteppingManager.html#abfcc7e42d1d39f0644f4c2a87251e777" title="G4SteppingManager::\lInvokePSDIP" alt="" coords="1217,137,1385,181"/>
+<area shape="rect" id="node10" href="$d0/dd0/classG4SteppingManager.html#a36cd94a9ce7a22568e78d0cd21c2d082" title="G4SteppingManager::\lStepping" alt="" coords="1763,73,1931,117"/>
+<area shape="rect" id="node11" href="$d7/de8/classG4ErrorPropagator.html#ab12283985ad650af4b65ab9500c79c08" title="G4ErrorPropagator::\lMakeOneStep" alt="" coords="2014,40,2169,84"/>
+<area shape="rect" id="node12" href="$dd/d71/classG4TrackingManager.html#a978b9d1ce2cc1279445b71891f35d6bc" title="G4TrackingManager::\lProcessOneTrack" alt="" coords="2009,108,2173,152"/>
+<area shape="rect" id="node15" href="$d0/dd0/classG4SteppingManager.html#a037d15d65dee1b38c807bfe7b797334f" title="G4SteppingManager::\lInvokePostStepDoItProcs" alt="" coords="1481,141,1669,185"/>
+<area shape="rect" id="node23" href="$d5/d9b/classG4EmSaturation.html#a023ce26719f1efdd30e888e3e969ebbd" title="G4EmSaturation::VisibleEnergy\lDepositionAtAStep" alt="" coords="1184,549,1417,593"/>
+<area shape="rect" id="node24" href="$df/d3f/classPHG4SteppingAction.html#a57aa751589ae9eb0c2e6563948e85513" title="get amount of energy that can make scintillation light, in Unit of GeV." alt="" coords="1465,520,1684,564"/>
+<area shape="rect" id="node32" href="$d5/d96/classG4Scintillation.html#a9c97b9abcea6f11fb7534de21b7bedf0" title="G4Scintillation::PostStepDoIt" alt="" coords="1467,588,1683,616"/>
+<area shape="rect" id="node25" href="$da/d58/classPHG4CylinderSteppingAction.html#a36deff66c7ba2e6ae97d234ec1efce2d" title="stepping action" alt="" coords="1738,316,1955,360"/>
+<area shape="rect" id="node26" href="$db/d97/classPHG4HcalSteppingAction.html#a8e7f7455c1bd0131036f960d54fdc973" title="stepping action" alt="" coords="1751,384,1942,428"/>
+<area shape="rect" id="node27" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a8e48a0e2268f23222bf8acddd9e7a34e" title="stepping action" alt="" coords="1734,452,1959,496"/>
+<area shape="rect" id="node28" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="1732,520,1961,564"/>
+<area shape="rect" id="node29" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="1743,588,1950,632"/>
+<area shape="rect" id="node30" href="$db/d56/classPHG4ZDCSteppingAction.html#a712eac392aabe90efe7f9633c268203c" title="stepping action" alt="" coords="1752,656,1941,700"/>
+<area shape="rect" id="node31" href="$d7/dc2/classPHG4EPDSteppingAction.html#ae1644f36e67123501e351509b3d12843" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="1753,724,1941,768"/>
+<area shape="rect" id="node34" href="$db/d69/classG4EmBiasingManager.html#a6f723a51fff606b88f4ff1ddf8cf9027" title="G4EmBiasingManager\l::ApplyRangeCut" alt="" coords="636,668,808,712"/>
+<area shape="rect" id="node36" href="$d0/d99/classG4VMscModel.html#a74d0f20f6c9d895fc08e8c37135176cd" title="G4VMscModel::GetRange" alt="" coords="626,829,818,857"/>
+<area shape="rect" id="node43" href="$d9/d78/classG4LossTableManager.html#aba50d5788405b367efd8079f2ccb4185" title="G4LossTableManager\l::GetRangeFromRestricteDEDX" alt="" coords="608,987,836,1031"/>
+<area shape="rect" id="node35" href="$db/d69/classG4EmBiasingManager.html#a6ec265328f35360d08719a7201cf06f6" title="G4EmBiasingManager\l::ApplySecondaryBiasing" alt="" coords="915,617,1105,661"/>
+<area shape="rect" id="node37" href="$db/dfc/classG4UrbanAdjointMscModel.html#ae7a844555aab4e856ec528f2f53c026c" title="G4UrbanAdjointMscModel\l::ComputeTruePathLengthLimit" alt="" coords="895,685,1125,729"/>
+<area shape="rect" id="node38" href="$d4/d8e/classG4LowEWentzelVIModel.html#abb79f918337f06fc12ffdc5afbb28d7d" title="G4LowEWentzelVIModel\l::ComputeTruePathLengthLimit" alt="" coords="895,753,1125,797"/>
+<area shape="rect" id="node39" href="$d9/d3b/classG4GoudsmitSaundersonMscModel.html#a0de90a47374946419b4f1d4d37521b3c" title="G4GoudsmitSaundersonMscModel\l::ComputeTruePathLengthLimit" alt="" coords="884,821,1136,865"/>
+<area shape="rect" id="node40" href="$d4/da8/classG4UrbanMscModel.html#aea643fad3aceb315f928ed32b62446b8" title="G4UrbanMscModel::Compute\lTruePathLengthLimit" alt="" coords="901,889,1119,933"/>
+<area shape="rect" id="node41" href="$d8/d2f/classG4WentzelVIModel.html#a2c800adcd96eb414b0827d208bfb46ee" title="G4WentzelVIModel::Compute\lTruePathLengthLimit" alt="" coords="901,957,1119,1001"/>
+<area shape="rect" id="node42" href="$d9/d2a/classG4VMultipleScattering.html#abd351071e38614aaf52f885a6684e140" title="G4VMultipleScattering\l::AlongStepDoIt" alt="" coords="924,1025,1096,1069"/>
+<area shape="rect" id="node44" href="$de/dc4/classG4EmCalculator.html#a72c789a2986b0219cffc4e7a28b5f522" title="G4EmCalculator::GetRange\lFromRestricteDEDX" alt="" coords="907,1093,1113,1137"/>
+<area shape="rect" id="node45" href="$d7/df6/classRunAction.html#a14b3433a6875194c4adfe1c222884f0d" title="RunAction::BeginOfRunAction" alt="" coords="1191,1011,1411,1039"/>
+<area shape="rect" id="node46" href="$d7/df6/classRunAction.html#a9a586271b693900f39d561e84cc3b4fe" title="RunAction::GetEnergyFrom\lRestrictedRange" alt="" coords="1199,1063,1402,1107"/>
+<area shape="rect" id="node47" href="$de/dc4/classG4EmCalculator.html#a3013c0a28afc07a40f2ebf4ed8cd0e5c" title="G4EmCalculator::GetRange" alt="" coords="1197,1131,1404,1159"/>
+<area shape="rect" id="node50" href="$de/dc4/classG4EmCalculator.html#a033ed4c8400544ca3e28d83ed5826b50" title="G4EmCalculator::GetRange\lFromRestricteDEDX" alt="" coords="1197,1183,1404,1227"/>
+<area shape="rect" id="node48" href="$de/db2/classRun.html#a798b741fa444a02c3bd4517b5dc01f0b" title="Run::EndOfRun" alt="" coords="1513,1105,1636,1133"/>
+<area shape="rect" id="node49" href="$de/dc4/classG4EmCalculator.html#aba3ef5d7b184dd09b5284f20e39e7150" title="G4EmCalculator::GetRange" alt="" coords="1471,1157,1678,1185"/>
+</map>

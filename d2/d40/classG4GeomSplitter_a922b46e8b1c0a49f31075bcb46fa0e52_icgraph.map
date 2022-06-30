@@ -1,0 +1,13 @@
+<map id="G4GeomSplitter::FreeSlave" name="G4GeomSplitter::FreeSlave">
+<area shape="rect" id="node2" href="$d1/d28/classG4VPhysicalVolume.html#aa1eab26c282b6b3d55e364d280d6df35" title="G4VPhysicalVolume::\lClean" alt="" coords="268,9,432,53"/>
+<area shape="rect" id="node4" href="$d1/d35/classG4Region.html#adaf5bfee712e92dd1d7ec671ab7e47d9" title="G4Region::Clean" alt="" coords="283,81,417,109"/>
+<area shape="rect" id="node6" href="$da/dc4/classG4LogicalVolume.html#a7d789e321f0295df2e7ad54762ca9b52" title="G4LogicalVolume::Clean" alt="" coords="257,133,443,161"/>
+<area shape="rect" id="node8" href="$d4/dfa/classG4SolidsWorkspace.html#a5b9c252e500485fe065f41676bd068d9" title="G4SolidsWorkspace::\lDestroyWorkspace" alt="" coords="269,185,431,229"/>
+<area shape="rect" id="node12" href="$d6/d0e/classG4GeometryWorkspace.html#aaf467004b1449b538aedd0b871b96b7d" title="G4GeometryWorkspace\l::DestroyWorkspace" alt="" coords="259,253,441,297"/>
+<area shape="rect" id="node3" href="$d9/dbb/classG4PhysicalVolumeStore.html#ac4ee9a2a91edd67d82202e1bb006f132" title="G4PhysicalVolumeStore\l::~G4PhysicalVolumeStore" alt="" coords="521,5,722,49"/>
+<area shape="rect" id="node5" href="$db/d69/classG4RegionStore.html#a74dfd57681ec741209261c603df85a82" title="G4RegionStore::~G4Region\lStore" alt="" coords="517,73,725,117"/>
+<area shape="rect" id="node7" href="$d9/df2/classG4LogicalVolumeStore.html#a39ccd6baecec29cc77784bead759d15f" title="G4LogicalVolumeStore\l::~G4LogicalVolumeStore" alt="" coords="524,141,719,185"/>
+<area shape="rect" id="node9" href="$dd/d14/classG4WorkerThread.html#a6d3c23031827d571c330dd1b3ddcadfc" title="G4WorkerThread::UpdateGeometry\lAndPhysicsVectorFromMaster" alt="" coords="491,231,752,275"/>
+<area shape="rect" id="node10" href="$d3/db3/classG4WorkerRunManager.html#a7842c4718bc1dac68e953d55f2b8ff41" title="G4WorkerRunManager\l::DoWork" alt="" coords="800,231,975,275"/>
+<area shape="rect" id="node11" href="$de/da2/classG4MTRunManagerKernel.html#ae882e6568e1ba24a8506ca216d565031" title="G4MTRunManagerKernel\l::StartThread" alt="" coords="1023,231,1211,275"/>
+</map>

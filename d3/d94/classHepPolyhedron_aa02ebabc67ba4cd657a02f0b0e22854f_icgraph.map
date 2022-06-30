@@ -1,0 +1,34 @@
+<map id="HepPolyhedron::AllocateMemory" name="HepPolyhedron::AllocateMemory">
+<area shape="rect" id="node2" href="$d3/d94/classHepPolyhedron.html#a8c7dc3e80900d78a1db8fe0440d88dcb" title="HepPolyhedron::createPolyhedron" alt="" coords="298,164,549,192"/>
+<area shape="rect" id="node19" href="$d3/d94/classHepPolyhedron.html#a248ff468303cbd903278bc6a359a85aa" title="HepPolyhedron::createTwistedTrap" alt="" coords="296,216,551,244"/>
+<area shape="rect" id="node20" href="$d8/da7/classG4PolyhedronArbitrary.html#a3cc9d6dea986e68b218fc7792bedc19c" title="G4PolyhedronArbitrary\l::G4PolyhedronArbitrary" alt="" coords="331,268,516,312"/>
+<area shape="rect" id="node21" href="$d3/d94/classHepPolyhedron.html#a1438b034243f83b3e275fadabcf7f056" title="HepPolyhedron::HepPolyhedron" alt="" coords="306,336,541,364"/>
+<area shape="rect" id="node22" href="$d0/dea/classHepPolyhedronTrap.html#a72f262a10220c2cd393b3f2a2015935c" title="HepPolyhedronTrap::\lHepPolyhedronTrap" alt="" coords="343,388,504,432"/>
+<area shape="rect" id="node23" href="$d1/d46/classHepPolyhedronTrd2.html#a8347c2f652d2290b4178b094ce503ad0" title="HepPolyhedronTrd2::\lHepPolyhedronTrd2" alt="" coords="343,456,504,500"/>
+<area shape="rect" id="node24" href="$d3/d94/classHepPolyhedron.html#a4b74a131f3805aa5a48169407e2e1b13" title="HepPolyhedron::operator=" alt="" coords="323,524,524,552"/>
+<area shape="rect" id="node25" href="$d3/d94/classHepPolyhedron.html#a1b58968c00ed4b7699e5195cc12712b0" title="HepPolyhedron::RotateAroundZ" alt="" coords="306,576,541,604"/>
+<area shape="rect" id="node3" href="$d7/d40/classG4CutTubs.html#a1bd0cb7bdb77a03e799a5fe16a410a13" title="G4CutTubs::CreatePolyhedron" alt="" coords="612,5,835,33"/>
+<area shape="rect" id="node4" href="$dc/d33/classG4GenericPolycone.html#a57b284d701f0d1b2e047f1fa2365bbe1" title="G4GenericPolycone::\lCreatePolyhedron" alt="" coords="643,57,804,101"/>
+<area shape="rect" id="node5" href="$d2/d5a/classG4Polyhedra.html#a991c32352fce559bf898bad37f1bf4a2" title="G4Polyhedra::CreatePolyhedron" alt="" coords="605,125,841,153"/>
+<area shape="rect" id="node6" href="$de/d99/classG4Tet.html#ad435437c2d51eea5695d08b8ab6b84f0" title="G4Tet::CreatePolyhedron" alt="" coords="629,177,817,205"/>
+<area shape="rect" id="node9" href="$db/db5/classG4TwistedTubs.html#a91fe9e8dae9c525056f52acd55273b40" title="G4TwistedTubs::CreatePolyhedron" alt="" coords="599,229,848,257"/>
+<area shape="rect" id="node11" href="$d4/d92/classG4VTwistedFaceted.html#abc2ecd8c2aa6084bd37c74fc44160ee4" title="G4VTwistedFaceted::\lCreatePolyhedron" alt="" coords="643,281,803,325"/>
+<area shape="rect" id="node7" href="$d7/d6b/classG4ArrowModel.html#abdb205c19cd6550fa6c607006b5c4232" title="G4ArrowModel::G4ArrowModel" alt="" coords="897,125,1124,153"/>
+<area shape="rect" id="node8" href="$de/d99/classG4Tet.html#a1d3c74a4a13eb0cf2e6c1ccc1fad4b8b" title="G4Tet::GetPolyhedron" alt="" coords="927,177,1095,205"/>
+<area shape="rect" id="node10" href="$db/db5/classG4TwistedTubs.html#a2f561848b10b08d7ac14dbfc549d16ec" title="G4TwistedTubs::GetPolyhedron" alt="" coords="896,229,1125,257"/>
+<area shape="rect" id="node12" href="$d4/d92/classG4VTwistedFaceted.html#acaea079c5af8e5daef3195002e28d95c" title="G4VTwistedFaceted::\lGetPolyhedron" alt="" coords="931,281,1091,325"/>
+<area shape="rect" id="node13" href="$d3/d7d/classG4TwistedBox.html#ad3ed27c6bfa1ef021e112938f8064c47" title="G4TwistedBox::G4TwistedBox" alt="" coords="1177,159,1396,187"/>
+<area shape="rect" id="node14" href="$d3/da8/classG4TwistedTrap.html#a1ccdeba699a67b91a17768f7926fd0b1" title="G4TwistedTrap::G4TwistedTrap" alt="" coords="1173,211,1400,239"/>
+<area shape="rect" id="node15" href="$d4/d58/classG4TwistedTrd.html#a8cb4961a05a55debb5869aeeea3360e5" title="G4TwistedTrd::G4TwistedTrd" alt="" coords="1183,263,1391,291"/>
+<area shape="rect" id="node16" href="$d3/d7d/classG4TwistedBox.html#a1bc282f93727b2243c3c24ef377b1d67" title="G4TwistedBox::operator=" alt="" coords="1190,315,1383,343"/>
+<area shape="rect" id="node17" href="$d4/d58/classG4TwistedTrd.html#a00772d6aa3e80442d1ac3587a9c3142b" title="G4TwistedTrd::operator=" alt="" coords="1193,367,1381,395"/>
+<area shape="rect" id="node18" href="$d3/da8/classG4TwistedTrap.html#acc419dcccb25d7674faec3685c74fba0" title="G4TwistedTrap::operator=" alt="" coords="1189,419,1385,447"/>
+<area shape="rect" id="node26" href="$de/d41/classHepPolyhedronParaboloid.html#adee7b0ce96ca50d955d1ca6c79f2926b" title="HepPolyhedronParaboloid\l::HepPolyhedronParaboloid" alt="" coords="621,356,825,400"/>
+<area shape="rect" id="node27" href="$d5/dfe/classHepPolyhedronHype.html#a4c892364a47e28ead1fed25786f269ce" title="HepPolyhedronHype::\lHepPolyhedronHype" alt="" coords="639,424,807,468"/>
+<area shape="rect" id="node28" href="$d6/d55/classHepPolyhedronCons.html#ad39272ae2f34d710d0e9d07c9d229298" title="HepPolyhedronCons::\lHepPolyhedronCons" alt="" coords="641,492,806,536"/>
+<area shape="rect" id="node29" href="$db/d05/classHepPolyhedronPgon.html#a553ee5f7effee6f331bfc02a7c1ed45d" title="HepPolyhedronPgon::\lHepPolyhedronPgon" alt="" coords="641,560,806,604"/>
+<area shape="rect" id="node30" href="$db/d0c/classHepPolyhedronSphere.html#afe13fbdf387567938900720a0e1a2e76" title="HepPolyhedronSphere\l::HepPolyhedronSphere" alt="" coords="633,628,813,672"/>
+<area shape="rect" id="node31" href="$d7/d17/classHepPolyhedronTorus.html#a5a5a5b923a301c91c410cf85919ada95" title="HepPolyhedronTorus\l::HepPolyhedronTorus" alt="" coords="639,696,808,740"/>
+<area shape="rect" id="node32" href="$da/d7d/classHepPolyhedronEllipsoid.html#af7b9090de769571ca162e63c4093ef24" title="HepPolyhedronEllipsoid\l::HepPolyhedronEllipsoid" alt="" coords="629,764,818,808"/>
+<area shape="rect" id="node33" href="$d7/ded/classHepPolyhedronEllipticalCone.html#a38ccd502035d557a869c1b9e85d17289" title="HepPolyhedronEllipticalCone\l::HepPolyhedronEllipticalCone" alt="" coords="611,832,836,876"/>
+</map>

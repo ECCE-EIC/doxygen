@@ -1,0 +1,34 @@
+<map id="G4SingleScatter::DoCollisionStep" name="G4SingleScatter::DoCollisionStep">
+<area shape="rect" id="node2" href="$d2/d06/classG4ParticleChange.html#a0d848f7a59b2e6a01edf94a7c9413270" title="G4ParticleChange::AddSecondary" alt="" coords="299,243,548,271"/>
+<area shape="rect" id="node21" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="315,295,532,323"/>
+<area shape="rect" id="node22" href="$d2/d06/classG4ParticleChange.html#a22cc5f6a05e70712d6639d0a4684b2cd" title="G4ParticleChange::GetEnergy" alt="" coords="312,347,535,375"/>
+<area shape="rect" id="node23" href="$d6/db3/classG4ScreenedNuclearRecoil.html#a3ce5de95a63428383e130859d00ac7fa" title="G4ScreenedNuclearRecoil\l::GetKinematics" alt="" coords="325,399,521,443"/>
+<area shape="rect" id="node24" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="345,467,502,511"/>
+<area shape="rect" id="node25" href="$d7/d5c/classG4DynamicParticle.html#a5b07069d63f3e2ac39ff455aba232bd1" title="G4DynamicParticle::\lGetMomentum" alt="" coords="345,535,502,579"/>
+<area shape="rect" id="node26" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="332,603,515,647"/>
+<area shape="rect" id="node27" href="$d6/db3/classG4ScreenedNuclearRecoil.html#a06bd05510257f5ee6ad18d887a28926c" title="get the pointer to our ParticleChange object. for internal use, primarily." alt="" coords="325,671,521,715"/>
+<area shape="rect" id="node28" href="$d6/db3/classG4ScreenedNuclearRecoil.html#a5f1566375dfc829984e3f98e316e28ae" title="G4ScreenedNuclearRecoil\l::GetValidCollision" alt="" coords="325,739,521,783"/>
+<area shape="rect" id="node29" href="$d2/d06/classG4ParticleChange.html#a992921ff016c9aa43036fff57dba5ee9" title="G4ParticleChange::Propose\lEnergy" alt="" coords="321,807,525,851"/>
+<area shape="rect" id="node30" href="$d2/d06/classG4ParticleChange.html#aa388946fcae03222d8787c306f6f7e33" title="G4ParticleChange::Propose\lMomentumDirection" alt="" coords="321,875,525,919"/>
+<area shape="rect" id="node31" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#adccaf09d36ec36d6a1ad10ad1776509d" title="CLHEP::Hep3Vector::\lrotateUz" alt="" coords="823,76,983,120"/>
+<area shape="rect" id="node32" href="$d6/d6c/classG4VParticleChange.html#aa9b4c936d28ceb89e31052f6dbd996c8" title="G4VParticleChange::\lSetNumberOfSecondaries" alt="" coords="325,943,521,987"/>
+<area shape="rect" id="node33" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ae4a83ec7ab138bcf10beda58dfa76baf" title="CLHEP::Hep3Vector::unit" alt="" coords="329,1011,517,1039"/>
+<area shape="rect" id="node3" href="$d6/d6c/classG4VParticleChange.html#aa4f80a5e5c0b6c82f854c2bced0527ea" title="G4VParticleChange::\lAddSecondary" alt="" coords="596,265,756,309"/>
+<area shape="rect" id="node4" href="$d6/d6c/classG4VParticleChange.html#ace6a662d79b91562deacab2a672d25e5" title="G4VParticleChange::\lCheckSecondary" alt="" coords="823,325,983,369"/>
+<area shape="rect" id="node14" href="$d5/d4f/G4Exception_8hh.html#ad36b5da5d062a20ca47b1c1f1ae353dd" title="G4Exception" alt="" coords="1119,661,1225,689"/>
+<area shape="rect" id="node19" href="$d1/d33/classG4Track.html#a434f95f72912a95dced8a81614ab9d7e" title="G4Track::SetWeight" alt="" coords="825,221,980,249"/>
+<area shape="rect" id="node20" href="$d4/d53/classG4FastVector.html#a59873a26ef71e2ef3c810495b8657c50" title="G4FastVector::SetElement" alt="" coords="804,273,1001,301"/>
+<area shape="rect" id="node5" href="$d1/d33/classG4Track.html#a15b86adef8509e75a9ed3ebd9f9b0cd5" title="G4Track::GetKineticEnergy" alt="" coords="1071,609,1273,637"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a1c3bf68bf3ecc8c63c93746279c47d88" title="G4Track::GetMomentumDirection" alt="" coords="1049,161,1295,189"/>
+<area shape="rect" id="node7" href="$d1/d33/classG4Track.html#aa5811897dbdf45b5b9c947dcdf0b4fb2" title="G4Track::GetDefinition" alt="" coords="1085,213,1259,241"/>
+<area shape="rect" id="node8" href="$d5/d38/classG4ParticleDefinition.html#a02a571907ec0c42bf356545826d9234f" title="G4ParticleDefinition\l::GetParticleName" alt="" coords="1095,265,1249,309"/>
+<area shape="rect" id="node9" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="1091,333,1253,361"/>
+<area shape="rect" id="node10" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="1087,5,1257,33"/>
+<area shape="rect" id="node11" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="1087,57,1257,85"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="1088,109,1256,137"/>
+<area shape="rect" id="node13" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="1079,385,1265,413"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#ac8d4b80f1ddf34797b4098ed015c7572" title="G4Track::SetMomentumDirection" alt="" coords="1050,437,1294,465"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#ac646ec25000da1d6b20d45f258e16038" title="G4Track::SetKineticEnergy" alt="" coords="1072,489,1272,517"/>
+<area shape="rect" id="node17" href="$d6/d6c/classG4VParticleChange.html#a83f55d0d7c8a60c4f63dc0a21a04ec61" title="G4VParticleChange::\lDumpInfo" alt="" coords="1092,541,1252,585"/>
+<area shape="rect" id="node18" href="$d6/d6c/classG4VParticleChange.html#ab240297df51151f08def02891e8a2ddc" title="G4VParticleChange::\lGetSecondary" alt="" coords="1343,541,1503,585"/>
+</map>

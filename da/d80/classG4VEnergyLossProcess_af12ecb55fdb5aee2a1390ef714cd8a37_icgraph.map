@@ -1,0 +1,51 @@
+<map id="G4VEnergyLossProcess::GetLimitScaledRangeForScaledEnergy" name="G4VEnergyLossProcess::GetLimitScaledRangeForScaledEnergy">
+<area shape="rect" id="node2" href="$da/d80/classG4VEnergyLossProcess.html#abb6307e780d4142df4be7515de3663a2" title="G4VEnergyLossProcess\l::GetCSDARange" alt="" coords="295,227,472,271"/>
+<area shape="rect" id="node12" href="$da/d80/classG4VEnergyLossProcess.html#ada3aba61c1e24ac7a72a2b61fb1ddc89" title="G4VEnergyLossProcess\l::GetRange" alt="" coords="295,312,472,356"/>
+<area shape="rect" id="node3" href="$d9/d78/classG4LossTableManager.html#a38d4a9483387ea07dd58ee4f36c697df" title="G4LossTableManager\l::GetCSDARange" alt="" coords="543,160,708,204"/>
+<area shape="rect" id="node4" href="$de/dc4/classG4EmCalculator.html#a22163ef3adf11a91e4cb4282ef271f04" title="G4EmCalculator::GetCSDARange" alt="" coords="782,143,1025,171"/>
+<area shape="rect" id="node5" href="$d7/df6/classRunAction.html#a14b3433a6875194c4adfe1c222884f0d" title="RunAction::BeginOfRunAction" alt="" coords="1087,5,1307,33"/>
+<area shape="rect" id="node6" href="$de/dc4/classG4EmCalculator.html#a58615510d35fa58549dda288101487d1" title="G4EmCalculator::GetCSDARange" alt="" coords="1076,57,1319,85"/>
+<area shape="rect" id="node7" href="$d7/df6/classRunAction.html#a7fd2cbdf03bbb26d4bbdad5784721430" title="RunAction::GetEnergyFrom\lCSDARange" alt="" coords="1096,109,1299,153"/>
+<area shape="rect" id="node8" href="$de/dc4/classG4EmCalculator.html#a3013c0a28afc07a40f2ebf4ed8cd0e5c" title="G4EmCalculator::GetRange" alt="" coords="1094,177,1301,205"/>
+<area shape="rect" id="node11" href="$de/db2/classRun.html#a6622052348735f6a679a11608060186a" title="Run::Run" alt="" coords="1157,229,1238,257"/>
+<area shape="rect" id="node9" href="$de/db2/classRun.html#a798b741fa444a02c3bd4517b5dc01f0b" title="Run::EndOfRun" alt="" coords="1415,136,1537,164"/>
+<area shape="rect" id="node10" href="$de/dc4/classG4EmCalculator.html#aba3ef5d7b184dd09b5284f20e39e7150" title="G4EmCalculator::GetRange" alt="" coords="1373,188,1579,216"/>
+<area shape="rect" id="node13" href="$df/d03/classG4ContinuousGainOfEnergy.html#a8274612225f225916d412c7b2b903f98" title="G4ContinuousGainOfEnergy\l::AlongStepDoIt" alt="" coords="520,277,731,321"/>
+<area shape="rect" id="node14" href="$df/d03/classG4ContinuousGainOfEnergy.html#a0696564b2a1e72f79a345a152acb5484" title="G4ContinuousGainOfEnergy\l::GetContinuousStepLimit" alt="" coords="520,345,731,389"/>
+<area shape="rect" id="node15" href="$d9/d78/classG4LossTableManager.html#ae5c306a76c82b70e6744f755fc50c2d0" title="G4LossTableManager\l::GetRange" alt="" coords="543,512,708,556"/>
+<area shape="rect" id="node16" href="$d0/dd0/classG4SteppingManager.html#a9f08ac0f52e7f495bc849a38acce25f2" title="G4SteppingManager::\lApplyProductionCut" alt="" coords="819,324,987,368"/>
+<area shape="rect" id="node24" href="$d0/d59/classG4ITStepProcessor.html#ab66e46396f0461a786cffaa00bc9f58e" title="G4ITStepProcessor::\lApplyProductionCut" alt="" coords="825,392,981,436"/>
+<area shape="rect" id="node25" href="$d2/daa/classPhysicsList.html#a449646b036f9bdb51c09a30e80dc22d9" title="PhysicsList::GetRange" alt="" coords="818,460,989,488"/>
+<area shape="rect" id="node26" href="$d1/d32/classG4EnergyLossTables.html#a97668769bcf7b7f1148a179337b50b54" title="G4EnergyLossTables\l::GetRange" alt="" coords="823,512,983,556"/>
+<area shape="rect" id="node27" href="$dd/de6/classDMXMinEkineCuts.html#aa592d065a1ca525bed87dae9383fd6b0" title="DMXMinEkineCuts::PostStep\lGetPhysicalInteractionLength" alt="" coords="794,580,1013,624"/>
+<area shape="rect" id="node28" href="$d3/dd8/classG4UserSpecialCuts.html#aee5834899cb8a35258d1df71373ca043" title="G4UserSpecialCuts::\lPostStepGetPhysicalInteraction\lLength" alt="" coords="787,648,1019,708"/>
+<area shape="rect" id="node29" href="$db/d01/classG4Cerenkov.html#a3905e64e2aeed225e0e8535efc7888aa" title="G4Cerenkov::PostStepGetPhysical\lInteractionLength" alt="" coords="779,732,1028,776"/>
+<area shape="rect" id="node30" href="$d5/d9b/classG4EmSaturation.html#a7b9a89e31151884340b7979b2cc2e784" title="G4EmSaturation::VisibleEnergy\lDeposition" alt="" coords="787,829,1020,873"/>
+<area shape="rect" id="node17" href="$d0/dd0/classG4SteppingManager.html#a5b10ca0aeb0d703e9fe5ee37bf64a5e5" title="G4SteppingManager::\lInvokeAlongStepDoItProcs" alt="" coords="1377,253,1575,297"/>
+<area shape="rect" id="node21" href="$d0/dd0/classG4SteppingManager.html#af6989a27878155ca55469248dafdfb35" title="G4SteppingManager::\lInvokeAtRestDoItProcs" alt="" coords="1390,321,1562,365"/>
+<area shape="rect" id="node22" href="$d0/dd0/classG4SteppingManager.html#abfcc7e42d1d39f0644f4c2a87251e777" title="G4SteppingManager::\lInvokePSDIP" alt="" coords="1113,388,1281,432"/>
+<area shape="rect" id="node18" href="$d0/dd0/classG4SteppingManager.html#a36cd94a9ce7a22568e78d0cd21c2d082" title="G4SteppingManager::\lStepping" alt="" coords="1690,287,1858,331"/>
+<area shape="rect" id="node19" href="$d7/de8/classG4ErrorPropagator.html#ab12283985ad650af4b65ab9500c79c08" title="G4ErrorPropagator::\lMakeOneStep" alt="" coords="1967,253,2122,297"/>
+<area shape="rect" id="node20" href="$dd/d71/classG4TrackingManager.html#a978b9d1ce2cc1279445b71891f35d6bc" title="G4TrackingManager::\lProcessOneTrack" alt="" coords="1963,321,2127,365"/>
+<area shape="rect" id="node23" href="$d0/dd0/classG4SteppingManager.html#a037d15d65dee1b38c807bfe7b797334f" title="G4SteppingManager::\lInvokePostStepDoItProcs" alt="" coords="1382,389,1570,433"/>
+<area shape="rect" id="node31" href="$d5/d9b/classG4EmSaturation.html#a023ce26719f1efdd30e888e3e969ebbd" title="G4EmSaturation::VisibleEnergy\lDepositionAtAStep" alt="" coords="1081,865,1314,909"/>
+<area shape="rect" id="node32" href="$df/d3f/classPHG4SteppingAction.html#a57aa751589ae9eb0c2e6563948e85513" title="get amount of energy that can make scintillation light, in Unit of GeV." alt="" coords="1367,865,1585,909"/>
+<area shape="rect" id="node50" href="$d5/d96/classG4Scintillation.html#a9c97b9abcea6f11fb7534de21b7bedf0" title="G4Scintillation::PostStepDoIt" alt="" coords="1368,933,1584,961"/>
+<area shape="rect" id="node33" href="$da/d58/classPHG4CylinderSteppingAction.html#a36deff66c7ba2e6ae97d234ec1efce2d" title="stepping action" alt="" coords="1665,355,1883,399"/>
+<area shape="rect" id="node34" href="$db/d97/classPHG4HcalSteppingAction.html#a8e7f7455c1bd0131036f960d54fdc973" title="stepping action" alt="" coords="1679,423,1869,467"/>
+<area shape="rect" id="node35" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a8e48a0e2268f23222bf8acddd9e7a34e" title="stepping action" alt="" coords="1661,491,1887,535"/>
+<area shape="rect" id="node36" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="1659,559,1889,603"/>
+<area shape="rect" id="node37" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="1671,627,1877,671"/>
+<area shape="rect" id="node38" href="$db/d56/classPHG4ZDCSteppingAction.html#a712eac392aabe90efe7f9633c268203c" title="stepping action" alt="" coords="1679,695,1869,739"/>
+<area shape="rect" id="node39" href="$d7/dc2/classPHG4EPDSteppingAction.html#ae1644f36e67123501e351509b3d12843" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="1680,763,1868,807"/>
+<area shape="rect" id="node40" href="$df/d3f/classPHG4SteppingAction.html#a57fef5578f2f19918f0460413162cec1" title="get scintillation photon count. It require a custom set SCINTILLATIONYIELD property to work..." alt="" coords="1693,831,1855,875"/>
+<area shape="rect" id="node41" href="$de/d60/classEICG4B0ECALSteppingAction.html#ab70713b57ea9b717679df56b7ddc6951" title="stepping action" alt="" coords="1665,899,1883,943"/>
+<area shape="rect" id="node42" href="$da/d25/classPHG4CylinderStripSteppingAction.html#ab8c62222ac022f66d9a838003f7b4899" title="stepping action" alt="" coords="1671,967,1877,1011"/>
+<area shape="rect" id="node43" href="$d8/d1d/classEICG4BwdSteppingAction.html#a5604987dd348a5e997043878191f49a5" title="stepping action" alt="" coords="1677,1035,1871,1079"/>
+<area shape="rect" id="node44" href="$da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a925607fe783017e6dc0d77317666eb52" title="stepping action" alt="" coords="1644,1103,1904,1147"/>
+<area shape="rect" id="node45" href="$d0/d1e/classPHG4BackwardHcalSteppingAction.html#ac74681efd629828ddc7b17e919fbf2a3" title="stepping action" alt="" coords="1667,1171,1881,1215"/>
+<area shape="rect" id="node46" href="$dd/d6a/classPHG4ForwardEcalSteppingAction.html#aea7e210162a346e271c57d5222cae015" title="stepping action" alt="" coords="1653,1239,1895,1283"/>
+<area shape="rect" id="node47" href="$d1/d5a/classPHG4ForwardHcalSteppingAction.html#a91851a048a85d6fb9130d489c59b0492" title="stepping action" alt="" coords="1651,1307,1897,1351"/>
+<area shape="rect" id="node48" href="$d8/d82/classPHG4HybridHomogeneousCalorimeterSteppingAction.html#a4a5d3f0dd54b5ed648e2991ff46f9201" title="stepping action" alt="" coords="1633,1375,1915,1419"/>
+<area shape="rect" id="node49" href="$d2/d2f/classPHG4LFHcalSteppingAction.html#a7355df2f0922e2f071ddf44b05e6ac3b" title="stepping action" alt="" coords="1671,1443,1877,1487"/>
+</map>

@@ -1,0 +1,27 @@
+var classG4AdjointCrossSurfChecker =
+[
+    [ "G4AdjointCrossSurfChecker", "d9/d81/classG4AdjointCrossSurfChecker.html#a6388e86f6759911a1e7d4623cc0fc2c6", null ],
+    [ "~G4AdjointCrossSurfChecker", "d9/d81/classG4AdjointCrossSurfChecker.html#a3f9bd17a647bcc10e6e2902d5085fbaf", null ],
+    [ "AddanExtSurfaceOfAvolume", "d9/d81/classG4AdjointCrossSurfChecker.html#aa084c75656bd5c01fec8fbccadef1452", null ],
+    [ "AddanInterfaceBetweenTwoVolumes", "d9/d81/classG4AdjointCrossSurfChecker.html#aab36ffc58507656db162784f50d118b9", null ],
+    [ "AddaSphericalSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#a441704c882d8d185b1a5653b73b63fb9", null ],
+    [ "AddaSphericalSurfaceWithCenterAtTheCenterOfAVolume", "d9/d81/classG4AdjointCrossSurfChecker.html#ab09f2f857ad0c421f667f0b10d9a43d5", null ],
+    [ "ClearListOfSelectedSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#a264489fd6c976acc3120d63a7b14e8fe", null ],
+    [ "CrossingAGivenRegisteredSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#a2a67ab770c2a939b54b73008ce911c48", null ],
+    [ "CrossingAGivenRegisteredSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#a0a9856f0cf825cb9adb6ad6c13e01f7d", null ],
+    [ "CrossingAnInterfaceBetweenTwoVolumes", "d9/d81/classG4AdjointCrossSurfChecker.html#a7988574f9c462049ccef568325e9ff92", null ],
+    [ "CrossingASphere", "d9/d81/classG4AdjointCrossSurfChecker.html#a218a51073137b59b590e45d5d825c7f2", null ],
+    [ "CrossingOneOfTheRegisteredSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#a712e0b249839a38a411c7e1c0ff84618", null ],
+    [ "FindRegisteredSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#ae99034d8623159bdc0b835b26c96aa04", null ],
+    [ "GetInstance", "d9/d81/classG4AdjointCrossSurfChecker.html#aaac26db9babe98d74c79ea52b848ccff", null ],
+    [ "GoingInOrOutOfaVolume", "d9/d81/classG4AdjointCrossSurfChecker.html#ad2faaa933de9b1c666d14dd4b756a475", null ],
+    [ "GoingInOrOutOfaVolumeByExtSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#ad733973af2019e2d82fd489859d13171", null ],
+    [ "AreaOfSurface", "d9/d81/classG4AdjointCrossSurfChecker.html#ad04e04d12ae201d0ba2d730e1195fb45", null ],
+    [ "instance", "d9/d81/classG4AdjointCrossSurfChecker.html#aea2e564b2b76cd7f0d2644c28a4d6681", null ],
+    [ "ListOfSphereCenter", "d9/d81/classG4AdjointCrossSurfChecker.html#acd3bca4e49c664dbb41144eb62698dc0", null ],
+    [ "ListOfSphereRadius", "d9/d81/classG4AdjointCrossSurfChecker.html#af8f66e50ae93656a0530c4ea54e56f01", null ],
+    [ "ListOfSurfaceName", "d9/d81/classG4AdjointCrossSurfChecker.html#a7aac4cac7193e5c5a5ab4da2e4a15c45", null ],
+    [ "ListOfSurfaceType", "d9/d81/classG4AdjointCrossSurfChecker.html#a5852f405fbbe2f610a57f205d84e3d3e", null ],
+    [ "ListOfVol1Name", "d9/d81/classG4AdjointCrossSurfChecker.html#ab5dee650700f9d8e1cf1c6b7dacef2db", null ],
+    [ "ListOfVol2Name", "d9/d81/classG4AdjointCrossSurfChecker.html#af834e333ff1c011e961f70f2ab96ef48", null ]
+];

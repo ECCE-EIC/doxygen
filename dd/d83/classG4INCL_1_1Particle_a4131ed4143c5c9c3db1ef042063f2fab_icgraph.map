@@ -1,0 +1,17 @@
+<map id="G4INCL::Particle::isMeson" name="G4INCL::Particle::isMeson">
+<area shape="rect" id="node2" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aa0f7e5d3ef8862af5e2a245b66444d1c" title="Generate a two&#45;particle avatar." alt="" coords="247,79,524,123"/>
+<area shape="rect" id="node7" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#aea31949be3e48cddf57548b6714ceeaf" title="G4INCL::StandardPropagation\lModel::shootParticle" alt="" coords="1147,141,1368,185"/>
+<area shape="rect" id="node11" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#af59776dad28c0c7f17415dd5b6e9e2c8" title="Apply local&#45;energy transformation, if appropriate." alt="" coords="281,200,489,244"/>
+<area shape="rect" id="node15" href="$da/db5/classG4INCL_1_1CDPP.html#a6954a661ea46be36b4c0c9fe4b5251ff" title="G4INCL::CDPP::processOne\lParticle" alt="" coords="283,268,487,312"/>
+<area shape="rect" id="node3" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a27c661841774cfa131759882fd3a5a4f" title="Generate and register collisions among particles in a list, except between those in another list..." alt="" coords="588,79,809,123"/>
+<area shape="rect" id="node8" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#ab8bbfff8c527741295b6961b9654e7d8" title="Generate and register collisions between a list of updated particles and all the other particles..." alt="" coords="572,9,825,53"/>
+<area shape="rect" id="node4" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a797718f0232dc35b3a5c325da15a81f6" title="(Re)Generate all possible avatars." alt="" coords="875,79,1097,123"/>
+<area shape="rect" id="node5" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#abd1c8a055a0c106754b21f0393e20a58" title="G4INCL::StandardPropagation\lModel::shootComposite" alt="" coords="1147,73,1368,117"/>
+<area shape="rect" id="node6" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a7b190dd2a4c2a53d04ec6b9b0841c0f7" title="G4INCL::StandardPropagation\lModel::shoot" alt="" coords="1416,108,1637,152"/>
+<area shape="rect" id="node9" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a612af7900a1f5c727af8ab1b3910eafa" title="G4INCL::StandardPropagation\lModel::updateAvatars" alt="" coords="875,5,1097,49"/>
+<area shape="rect" id="node10" href="$d4/d3f/classG4INCL_1_1StandardPropagationModel.html#a137dff7f40f49603b311b9b219eeda35" title="G4INCL::StandardPropagation\lModel::propagate" alt="" coords="1147,5,1368,49"/>
+<area shape="rect" id="node12" href="$d2/dc2/classG4INCL_1_1InteractionAvatar.html#abfd8cff07e2a8337a608a78e3b4dffeb" title="G4INCL::InteractionAvatar\l::preInteraction" alt="" coords="600,200,797,244"/>
+<area shape="rect" id="node13" href="$d6/dfb/classG4INCL_1_1DecayAvatar.html#adbdf2218ffff261051eaaa09026bb583" title="G4INCL::DecayAvatar\l::preInteraction" alt="" coords="903,268,1069,312"/>
+<area shape="rect" id="node14" href="$d2/d0d/classG4INCL_1_1BinaryCollisionAvatar.html#ae104b1b0238fbf0badfebb30f8113a67" title="G4INCL::BinaryCollisionAvatar\l::preInteraction" alt="" coords="873,200,1099,244"/>
+<area shape="rect" id="node16" href="$da/db5/classG4INCL_1_1CDPP.html#a77ce9fac0d2a3897619deac9ce3750b7" title="G4INCL::CDPP::isBlocked" alt="" coords="605,276,793,304"/>
+</map>

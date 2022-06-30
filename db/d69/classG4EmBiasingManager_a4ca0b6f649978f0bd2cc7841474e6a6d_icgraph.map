@@ -1,0 +1,11 @@
+<map id="G4EmBiasingManager::ForcedInteractionRegion" name="G4EmBiasingManager::ForcedInteractionRegion">
+<area shape="rect" id="node2" href="$d0/dfb/classG4VEmProcess.html#a514df13911406bad1fa525a8bf36ff42" title="G4VEmProcess::PostStepDoIt" alt="" coords="259,21,478,49"/>
+<area shape="rect" id="node5" href="$da/d80/classG4VEnergyLossProcess.html#afd83c7b4ebe650589101841e43fcdc6a" title="G4VEnergyLossProcess\l::PostStepDoIt" alt="" coords="280,89,457,133"/>
+<area shape="rect" id="node6" href="$d0/dfb/classG4VEmProcess.html#a8a2a453f6cff772fe8aeb87c28f10c53" title="G4VEmProcess::PostStepGet\lPhysicalInteractionLength" alt="" coords="261,157,476,201"/>
+<area shape="rect" id="node9" href="$da/d80/classG4VEnergyLossProcess.html#a5ea329d49709d10e72465337be3a0e55" title="G4VEnergyLossProcess\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="248,229,489,289"/>
+<area shape="rect" id="node3" href="$dd/d59/classG4GammaGeneralProcess.html#a31d8f0cbe888e0b647667d72d6da9adb" title="G4GammaGeneralProcess\l::SampleSecondaries" alt="" coords="559,5,757,49"/>
+<area shape="rect" id="node4" href="$dd/d59/classG4GammaGeneralProcess.html#ae4313110bd0ebdeac4f238c7a75cb45d" title="G4GammaGeneralProcess\l::PostStepDoIt" alt="" coords="827,5,1025,49"/>
+<area shape="rect" id="node7" href="$db/da7/classG4eplusPolarizedAnnihilation.html#a6180087ff93b415df9fa06f82366cf91" title="G4eplusPolarizedAnnihilation\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="537,73,779,133"/>
+<area shape="rect" id="node8" href="$d1/d92/classG4PolarizedCompton.html#a9c0fcbfd9e9e4cdf6f597d25b25eae89" title="G4PolarizedCompton\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="537,157,779,217"/>
+<area shape="rect" id="node10" href="$d7/d95/classG4ePolarizedIonisation.html#a6f34d0d5ff1f2514cbef53a9af0a5ee7" title="G4ePolarizedIonisation\l::PostStepGetPhysicalInteraction\lLength" alt="" coords="537,241,779,301"/>
+</map>

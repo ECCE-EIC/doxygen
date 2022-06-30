@@ -1,0 +1,22 @@
+<map id="G4DiffuseElastic::BesselJone" name="G4DiffuseElastic::BesselJone">
+<area shape="rect" id="node2" href="$dd/d0b/classG4DiffuseElastic.html#a08823d40a86c0969892ec3911d043fdc" title="G4DiffuseElastic::Bessel\lOneByArg" alt="" coords="268,65,453,109"/>
+<area shape="rect" id="node3" href="$dd/d0b/classG4DiffuseElastic.html#aa0f3677b06da44d3c58ba9020f79c898" title="G4DiffuseElastic::GetDiff\lElasticProb" alt="" coords="501,5,692,49"/>
+<area shape="rect" id="node6" href="$dd/d0b/classG4DiffuseElastic.html#aa0b75b0cb2ae6db4e8bd216106a2163d" title="G4DiffuseElastic::GetDiff\lElasticSumProb" alt="" coords="501,73,692,117"/>
+<area shape="rect" id="node9" href="$dd/d0b/classG4DiffuseElastic.html#a07a4af0885c12c5fdc6e633522f32e4f" title="G4DiffuseElastic::GetDiff\lElasticSumProbA" alt="" coords="501,176,692,220"/>
+<area shape="rect" id="node4" href="$dd/d0b/classG4DiffuseElastic.html#ac15c31b06456070320eff917dd48b669" title="G4DiffuseElastic::GetDiffuse\lElasticXsc" alt="" coords="749,5,962,49"/>
+<area shape="rect" id="node5" href="$dd/d0b/classG4DiffuseElastic.html#a346c33e4004188eb61741a2641794443" title="G4DiffuseElastic::GetInv\lElasticXsc" alt="" coords="1033,5,1219,49"/>
+<area shape="rect" id="node7" href="$dd/d0b/classG4DiffuseElastic.html#a9b0119f451932d989b2aec0defd3c5e9" title="G4DiffuseElastic::GetDiffuse\lElasticSumXsc" alt="" coords="749,73,962,117"/>
+<area shape="rect" id="node8" href="$dd/d0b/classG4DiffuseElastic.html#ae31f5131489e16677af4bce7d5e0bd2c" title="G4DiffuseElastic::GetInv\lElasticSumXsc" alt="" coords="1033,73,1219,117"/>
+<area shape="rect" id="node10" href="$dd/d0b/classG4DiffuseElastic.html#a5e88a525289c6ba0e10a8ed904f6a26e" title="G4DiffuseElastic::GetIntegrand\lFunction" alt="" coords="740,209,971,253"/>
+<area shape="rect" id="node11" href="$dd/d0b/classG4DiffuseElastic.html#aa2d1fe408e92da95cc44333ca67d7769" title="G4DiffuseElastic::Integral\lElasticProb" alt="" coords="1029,277,1223,321"/>
+<area shape="rect" id="node12" href="$dd/d0b/classG4DiffuseElastic.html#a49a746298ffd6893b72020624d4fd01f" title="G4DiffuseElastic::Sample\lThetaCMS" alt="" coords="1030,345,1222,389"/>
+<area shape="rect" id="node15" href="$dd/d0b/classG4DiffuseElastic.html#a23560d6aa5f2b5aaa947d1525d7937ff" title="G4DiffuseElastic::BuildAngle\lTable" alt="" coords="1019,141,1233,185"/>
+<area shape="rect" id="node21" href="$dd/d0b/classG4DiffuseElastic.html#a413274d655b6510dd31d5c6aca8e4bd7" title="G4DiffuseElastic::TestAngle\lTable" alt="" coords="1023,209,1229,253"/>
+<area shape="rect" id="node13" href="$dd/d0b/classG4DiffuseElastic.html#a9ee7a6fdcab0b8f46a8538c476e60921" title="G4DiffuseElastic::SampleT" alt="" coords="1281,353,1483,381"/>
+<area shape="rect" id="node14" href="$dd/d0b/classG4DiffuseElastic.html#a011f1c58db793b5ea122ca0f6c488801" title="G4DiffuseElastic::Sample\lThetaLab" alt="" coords="1531,345,1723,389"/>
+<area shape="rect" id="node16" href="$dd/d0b/classG4DiffuseElastic.html#a72762902ab6184953bc7cae75667f309" title="G4DiffuseElastic::Initialise" alt="" coords="1283,120,1481,148"/>
+<area shape="rect" id="node17" href="$dd/d0b/classG4DiffuseElastic.html#ab2ae658f1ccb9bf7f0836f0a9d107706" title="G4DiffuseElastic::Initialise\lOnFly" alt="" coords="1283,172,1481,216"/>
+<area shape="rect" id="node18" href="$dd/d0b/classG4DiffuseElastic.html#a8390f68b4195eb0952d2e79e6846e934" title="G4DiffuseElastic::Sample\lTableThetaCMS" alt="" coords="1531,172,1723,216"/>
+<area shape="rect" id="node19" href="$dd/d0b/classG4DiffuseElastic.html#ab90efa8bd868d757927e7449fb22008f" title="G4DiffuseElastic::Sample\lTableT" alt="" coords="1771,172,1963,216"/>
+<area shape="rect" id="node20" href="$dd/d0b/classG4DiffuseElastic.html#a85d09a9d04d4eea500d0fa9d8d5fdd8a" title="G4DiffuseElastic::Sample\lInvariantT" alt="" coords="2011,172,2203,216"/>
+</map>

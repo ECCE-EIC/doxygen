@@ -1,0 +1,25 @@
+var nf__Legendre_8h =
+[
+    [ "nf_Legendre_s", "dd/d76/structnf__Legendre__s.html", "dd/d76/structnf__Legendre__s" ],
+    [ "nf_Legendre_maxMaxOrder", "d4/dc8/nf__Legendre_8h.html#a1b3190aac56445431e318051999bdfc1", null ],
+    [ "nf_Legendre_minMaxOrder", "d4/dc8/nf__Legendre_8h.html#a927f4406d6e74a61e004c3eb223db0cb", null ],
+    [ "nf_Legendre_sizeIncrement", "d4/dc8/nf__Legendre_8h.html#a6fbe7e9dd5f78c9db00642ac1f077890", null ],
+    [ "nf_Legendre", "d4/dc8/nf__Legendre_8h.html#ad21172ed250b1cb2924ecacd8dda593a", null ],
+    [ "nf_Legendre_GaussianQuadrature_callback", "d4/dc8/nf__Legendre_8h.html#a25072f9adf9a9aa4083f05cadc5bcea8", null ],
+    [ "nf_Legendre_allocated", "d4/dc8/nf__Legendre_8h.html#a3fab45b84ab6529f7c2a23f545e4ba05", null ],
+    [ "nf_Legendre_clone", "d4/dc8/nf__Legendre_8h.html#a3d9a82ab1b23575aa46a42c5a05c2ca0", null ],
+    [ "nf_Legendre_evauluateAtMu", "d4/dc8/nf__Legendre_8h.html#a11b8b4ba463936e621742bd5474d72d2", null ],
+    [ "nf_Legendre_free", "d4/dc8/nf__Legendre_8h.html#af3b0d8ce7a43ff19fc3df9ea810cac3a", null ],
+    [ "nf_Legendre_from_ptwXY", "d4/dc8/nf__Legendre_8h.html#afd2911e2edec2c75282d9b88b1a8650d", null ],
+    [ "nf_Legendre_GaussianQuadrature", "d4/dc8/nf__Legendre_8h.html#ae4d89e82d7f4f3110fca4e9157351866", null ],
+    [ "nf_Legendre_getCl", "d4/dc8/nf__Legendre_8h.html#a341033a74c60af4954818da3c8605dea", null ],
+    [ "nf_Legendre_maxOrder", "d4/dc8/nf__Legendre_8h.html#aae0d40cf9a6b514977c501b2405d2192", null ],
+    [ "nf_Legendre_new", "d4/dc8/nf__Legendre_8h.html#ae4809b69321e091361e8f1cdd2086700", null ],
+    [ "nf_Legendre_normalize", "d4/dc8/nf__Legendre_8h.html#ab8b96b2bc2c79d0117a1c66c9ae9c837", null ],
+    [ "nf_Legendre_PofL_atMu", "d4/dc8/nf__Legendre_8h.html#a1a9bcae4605cba9d2c3708bd6bc44dbf", null ],
+    [ "nf_Legendre_reallocateCls", "d4/dc8/nf__Legendre_8h.html#a568d0bf5a0a2a62b8e4d1f7287ee7ae9", null ],
+    [ "nf_Legendre_release", "d4/dc8/nf__Legendre_8h.html#aed7c02f3bfccf00f2b4a6313b7cb7e3d", null ],
+    [ "nf_Legendre_setCl", "d4/dc8/nf__Legendre_8h.html#ac3539ccd2ca7bc1dfb8caac328afc4dd", null ],
+    [ "nf_Legendre_setup", "d4/dc8/nf__Legendre_8h.html#a13fa177b429a05f2b498cb111e07dd18", null ],
+    [ "nf_Legendre_to_ptwXY", "d4/dc8/nf__Legendre_8h.html#ae9a8071067628f191afc98902ce0bfc4", null ]
+];

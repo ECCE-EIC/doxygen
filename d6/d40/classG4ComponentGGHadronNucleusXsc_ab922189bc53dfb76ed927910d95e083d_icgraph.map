@@ -1,0 +1,25 @@
+<map id="G4ComponentGGHadronNucleusXsc::GetProductionGlauberGribovXsc" name="G4ComponentGGHadronNucleusXsc::GetProductionGlauberGribovXsc">
+<area shape="rect" id="node2" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#ada78cd1fae1a211ef2fb3b4cefbdb89e" title="G4ComponentGGNuclNuclXsc\l::ComputeCrossSections" alt="" coords="324,380,547,424"/>
+<area shape="rect" id="node3" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#ac91cc6386ad294eded0d66b3cde5f0b6" title="G4ComponentGGNuclNuclXsc\l::GetElasticGlauberGribov" alt="" coords="610,5,833,49"/>
+<area shape="rect" id="node4" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#ada780bce2865b2f2659ddec1489ccf9d" title="G4ComponentGGNuclNuclXsc\l::GetInelasticGlauberGribov" alt="" coords="610,73,833,117"/>
+<area shape="rect" id="node5" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#aab766b1017250767dd960ecf49286b53" title="G4ComponentGGNuclNuclXsc\l::GetZandACrossSection" alt="" coords="610,141,833,185"/>
+<area shape="rect" id="node6" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a05390fa43b651770c4e19246bc1899c1" title="G4ComponentGGNuclNuclXsc\l::GetTotalElementCrossSection" alt="" coords="607,209,835,253"/>
+<area shape="rect" id="node7" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a80d7030aca2437e6c732822eec72b9cd" title="G4ComponentGGNuclNuclXsc\l::GetTotalIsotopeCrossSection" alt="" coords="610,277,833,321"/>
+<area shape="rect" id="node8" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#aeeb07ba58fefedac2f90d5c97756f253" title="G4ComponentGGNuclNuclXsc\l::GetInelasticElementCrossSection" alt="" coords="595,345,848,389"/>
+<area shape="rect" id="node19" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a5d9b2a12e38053ab1d332e0055b1ffd7" title="G4ComponentGGNuclNuclXsc\l::GetInelasticIsotopeCrossSection" alt="" coords="598,413,845,457"/>
+<area shape="rect" id="node20" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a54b3babc71b0f655f2e3f63c347d4d74" title="G4ComponentGGNuclNuclXsc\l::GetElasticElementCrossSection" alt="" coords="601,481,842,525"/>
+<area shape="rect" id="node21" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#abd5c7221ff285310b97a516eff99b7b8" title="G4ComponentGGNuclNuclXsc\l::GetElasticIsotopeCrossSection" alt="" coords="604,549,839,593"/>
+<area shape="rect" id="node22" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a177e2e18d582789efa342bd81c58ee9e" title="G4ComponentGGNuclNuclXsc\l::ComputeQuasiElasticRatio" alt="" coords="610,617,833,661"/>
+<area shape="rect" id="node23" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a560b2a470e36675bc7cc710153a1e9a8" title="G4ComponentGGNuclNuclXsc\l::GetRatioSD" alt="" coords="610,685,833,729"/>
+<area shape="rect" id="node24" href="$d0/dbc/classG4ComponentGGNuclNuclXsc.html#a4f947ac63d046dfd2508b2fd8c18b0c7" title="G4ComponentGGNuclNuclXsc\l::GetRatioQE" alt="" coords="610,753,833,797"/>
+<area shape="rect" id="node9" href="$df/d3c/classG4ParticleInelasticXS.html#ad431f0c4ce22b862780078ca1adbc9b2" title="G4ParticleInelasticXS\l::GetElementCrossSection" alt="" coords="1559,281,1756,325"/>
+<area shape="rect" id="node10" href="$df/d3c/classG4ParticleInelasticXS.html#abf0bfbc096b3bdb0205987fa50cf8c02" title="G4ParticleInelasticXS\l::IsoCrossSection" alt="" coords="1575,379,1739,423"/>
+<area shape="rect" id="node14" href="$df/d3c/classG4ParticleInelasticXS.html#aa257f579f47e8a28df6616e7e0ae25f9" title="G4ParticleInelasticXS\l::Initialise" alt="" coords="896,345,1060,389"/>
+<area shape="rect" id="node11" href="$d5/d75/classG4IonProtonCrossSection.html#a59e4c76777c562ffdb704ed8cc55c796" title="G4IonProtonCrossSection\l::GetElementCrossSection" alt="" coords="1804,311,2001,355"/>
+<area shape="rect" id="node12" href="$df/d3c/classG4ParticleInelasticXS.html#a1f88f282a6112a925d10aa0189b89b2b" title="G4ParticleInelasticXS\l::GetIsoCrossSection" alt="" coords="1821,379,1985,423"/>
+<area shape="rect" id="node13" href="$df/d3c/classG4ParticleInelasticXS.html#ae211597555c717c762f91b2086c1998b" title="G4ParticleInelasticXS\l::SelectIsotope" alt="" coords="1821,447,1985,491"/>
+<area shape="rect" id="node15" href="$df/d3c/classG4ParticleInelasticXS.html#a31a0b77f7cbd9b32b36249ea65e372b8" title="G4ParticleInelasticXS\l::BuildPhysicsTable" alt="" coords="1108,379,1272,423"/>
+<area shape="rect" id="node17" href="$df/d3c/classG4ParticleInelasticXS.html#a21be7243e877695ec04d7b5f960031c4" title="G4ParticleInelasticXS\l::InitialiseOnFly" alt="" coords="1108,311,1272,355"/>
+<area shape="rect" id="node16" href="$d5/d75/classG4IonProtonCrossSection.html#a527736045c35bc326257b56fc57c797e" title="G4IonProtonCrossSection\l::BuildPhysicsTable" alt="" coords="1320,379,1511,423"/>
+<area shape="rect" id="node18" href="$df/d3c/classG4ParticleInelasticXS.html#a66be172b96a449a18b8eb67e027740fe" title="G4ParticleInelasticXS\l::GetPhysicsVector" alt="" coords="1333,311,1497,355"/>
+</map>

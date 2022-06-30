@@ -1,0 +1,51 @@
+<map id="G4EventManager::GetTrackingManager" name="G4EventManager::GetTrackingManager">
+<area shape="rect" id="node2" href="$d2/d2b/pymodG4event_8cc.html#aee12f0d78d9bdc2304857aeed9d76201" title="export_G4EventManager" alt="" coords="289,35,478,63"/>
+<area shape="rect" id="node4" href="$d7/de8/classG4ErrorPropagator.html#a78ec3ee1a6332f82051a508585476620" title="G4ErrorPropagator::\lG4ErrorPropagator" alt="" coords="306,101,461,145"/>
+<area shape="rect" id="node5" href="$de/d51/classG4RunManagerKernel.html#a7939e4a2891db971ae77dbb335cbac58" title="G4RunManagerKernel\l::GetTrackingManager" alt="" coords="298,169,469,213"/>
+<area shape="rect" id="node13" href="$d9/d4e/classITTrackingInteractivity.html#a86f394ce83624935047280076076e3b8" title="ITTrackingInteractivity\l::Initialize" alt="" coords="298,237,469,281"/>
+<area shape="rect" id="node14" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="1945,445,2092,473"/>
+<area shape="rect" id="node27" href="$dd/d88/classG4ErrorPropagatorManager.html#a3dc947b0f44631d224e33e5cb5d99ff5" title="G4ErrorPropagatorManager\l::SetSteppingManagerVerboseLevel" alt="" coords="535,357,796,401"/>
+<area shape="rect" id="node32" href="$dd/d88/classG4ErrorPropagatorManager.html#a37caf9a0063a7d08ddddf97373aca164" title="G4ErrorPropagatorManager\l::StartNavigator" alt="" coords="280,420,487,464"/>
+<area shape="rect" id="node3" href="$d2/d2b/pymodG4event_8cc.html#a858f18d248b7b8c54c872648113178cf" title="BOOST_PYTHON_MODULE" alt="" coords="568,5,763,33"/>
+<area shape="rect" id="node6" href="$d1/deb/classRE06SteppingVerbose.html#aeaf4de78143c23fa728c3faba74a7fa0" title="RE06SteppingVerbose\l::InitializeTimers" alt="" coords="580,57,751,101"/>
+<area shape="rect" id="node8" href="$da/dda/classG4ExceptionHandler.html#a3180168492e32d3096770ee93634e0e4" title="G4ExceptionHandler\l::DumpTrackInfo" alt="" coords="585,125,746,169"/>
+<area shape="rect" id="node10" href="$d0/d0d/classG4VisManager.html#a25012a9168c470575712dffb8d1c336b" title="G4VisManager::Disable" alt="" coords="576,193,755,221"/>
+<area shape="rect" id="node7" href="$d1/d72/classRE06RunAction.html#a0679027cc0ce167938f81e6cfe093d82" title="RE06RunAction::BeginOfRun\lAction" alt="" coords="865,33,1078,77"/>
+<area shape="rect" id="node9" href="$da/dda/classG4ExceptionHandler.html#abf407f52dde1e6bb6e467863084d3b09" title="G4ExceptionHandler\l::Notify" alt="" coords="891,101,1052,145"/>
+<area shape="rect" id="node11" href="$da/dc1/classG4VisCommandEnable.html#a83fe9560b75eab27e34a3d78251f5e96" title="G4VisCommandEnable\l::SetNewValue" alt="" coords="883,169,1059,213"/>
+<area shape="rect" id="node12" href="$da/d3f/classG4VisCommandReviewKeptEvents.html#a71ac6d1016d269b4d59f868da4f95238" title="G4VisCommandReviewKeptEvents\l::SetNewValue" alt="" coords="844,237,1099,281"/>
+<area shape="rect" id="node15" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="2210,273,2273,301"/>
+<area shape="rect" id="node17" href="$db/d14/analysis_2blob_2master_2dRICH_2TestImports_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="2196,419,2287,447"/>
+<area shape="rect" id="node25" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="2140,471,2343,499"/>
+<area shape="rect" id="node26" href="$d9/d1d/matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="2202,523,2281,551"/>
+<area shape="rect" id="node16" href="$d5/d21/Fun4All__G4__dRICHImport_8C.html#a3a58b6c3d01066a007bf8f28289d1946" title="Fun4All_G4_dRICHImport" alt="" coords="2393,204,2584,232"/>
+<area shape="rect" id="node18" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html#a5028836c74f0bebec560d3ab54daa022" title="Fun4All_AnaTutorial\l_sPHENIX" alt="" coords="2412,256,2565,300"/>
+<area shape="rect" id="node19" href="$d6/d14/Fun4All__AnaTutorial__sPHENIX__Jets_8C.html#a61b352bca84476d24b0ff40991b27900" title="Fun4All_AnaTutorial\l_sPHENIX_Jets" alt="" coords="2412,324,2565,368"/>
+<area shape="rect" id="node20" href="$d2/d7e/Fun4All__G4__ECCEModular_8C.html#abfc0f0fda62657d78ec09187a1c5d74a" title="Fun4All_G4_ECCEModular" alt="" coords="2391,392,2586,420"/>
+<area shape="rect" id="node21" href="$da/d02/Fun4All__G4__EICDetector_8C.html#add9dee08cdb08b59c0b3870bb04994d9" title="Fun4All_G4_EICDetector" alt="" coords="2396,444,2581,472"/>
+<area shape="rect" id="node22" href="$d6/dda/macro_2Fun4All__G4__EICDetector__AnaTutorial_8C.html#a598434aca3dac5cdb0ca67ccc548d865" title="Fun4All_G4_EICDetector\l_AnaTutorial" alt="" coords="2396,496,2581,540"/>
+<area shape="rect" id="node23" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a4102cd3e195333de974409428a2e6dae" title="Fun4All_G4_sPHENIX" alt="" coords="2408,564,2569,592"/>
+<area shape="rect" id="node24" href="$d5/d9d/Fun4All__photonDispersion_8C.html#ac302dd70db86b0d1047fc47ebab58aef" title="Fun4All_photonDispersion" alt="" coords="2391,616,2587,644"/>
+<area shape="rect" id="node28" href="$dd/d88/classG4ErrorPropagatorManager.html#a4b42e52a50fdce30d6569241ebeae237" title="G4ErrorPropagatorManager\l::Propagate" alt="" coords="868,357,1075,401"/>
+<area shape="rect" id="node31" href="$dd/d88/classG4ErrorPropagatorManager.html#a7548ed4f2f8f0539b485482e86eca2c9" title="G4ErrorPropagatorManager\l::PropagateOneStep" alt="" coords="868,425,1075,469"/>
+<area shape="rect" id="node29" href="$d3/dd6/errprop_8cc.html#a0aa8f3a7acd1c667334594ded9b06a90" title="ProcessEvent" alt="" coords="1147,383,1259,411"/>
+<area shape="rect" id="node30" href="$d3/dd6/errprop_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1413,369,1467,397"/>
+<area shape="rect" id="node33" href="$dd/d88/classG4ErrorPropagatorManager.html#a507ca29da5b0d2cc2b471a21c5d76a79" title="G4ErrorPropagatorManager\l::G4ErrorPropagatorManager" alt="" coords="557,459,773,503"/>
+<area shape="rect" id="node34" href="$dd/d88/classG4ErrorPropagatorManager.html#acbb583db91cf185ab6b381961c84940f" title="G4ErrorPropagatorManager\l::GetErrorPropagatorManager" alt="" coords="861,493,1082,537"/>
+<area shape="rect" id="node35" href="$d3/dd6/errprop_8cc.html#a8fee61d7a783cade1a3d07fe86284d27" title="Finalize" alt="" coords="1167,460,1239,488"/>
+<area shape="rect" id="node39" href="$d3/dd6/errprop_8cc.html#a98b1050f09da390896f964fb7a892391" title="Initialize" alt="" coords="1164,672,1241,700"/>
+<area shape="rect" id="node36" href="$d3/d24/classG4MPImanager.html#a64364df1e8444d64d6d50952d1497e1f" title="G4MPImanager::ParseArguments" alt="" coords="1318,421,1562,449"/>
+<area shape="rect" id="node38" href="$d3/d24/classG4MPImanager.html#a047d35c22ba265ca7bbf1d392f56f4e4" title="G4MPImanager::~G4MPImanager" alt="" coords="1315,473,1565,501"/>
+<area shape="rect" id="node37" href="$d3/d24/classG4MPImanager.html#aa7e7f0997676f1b425a5327b219cc9e8" title="G4MPImanager::G4MPImanager" alt="" coords="1641,421,1878,449"/>
+<area shape="rect" id="node40" href="$d9/df8/classPHG4GDMLUtility.html#afcf39153171628039001dd7d5f34ee48" title="same as above but use default Geant functions as much as possible" alt="" coords="1347,525,1533,569"/>
+<area shape="rect" id="node42" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="1323,593,1557,621"/>
+<area shape="rect" id="node44" href="$d5/dc4/classG4GDMLParser.html#acfbec4923024be46b2d44e60d22429d4" title="G4GDMLParser::G4GDMLParser" alt="" coords="1324,645,1556,673"/>
+<area shape="rect" id="node45" href="$df/dda/gammaknife_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1413,697,1467,725"/>
+<area shape="rect" id="node46" href="$d2/d3b/classHepMCG4AsciiReaderMessenger.html#ab7cbaf09ff5ed12bb49d8be46467b37c" title="HepMCG4AsciiReaderMessenger\l::SetNewValue" alt="" coords="1319,749,1561,793"/>
+<area shape="rect" id="node47" href="$db/df7/classHadrontherapyDetectorConstruction.html#a1a59dea0a6ce7b6f77a8bd16c6f08e77" title="HadrontherapyDetectorConstruction\l::UpdateGeometry" alt="" coords="1307,817,1573,861"/>
+<area shape="rect" id="node49" href="$dc/d4b/ml2_8cc.html#a31ac0168d355ebbc2d5292645680a728" title="visio" alt="" coords="1414,885,1466,913"/>
+<area shape="rect" id="node41" href="$d0/d78/classPHG4Reco.html#a3b9a955d6f0e8960df1a6e8ac8303c93" title="PHG4Reco::Dump_G4_GDML" alt="" coords="1652,533,1867,561"/>
+<area shape="rect" id="node43" href="$d0/d78/classPHG4Reco.html#a490f5037508d384c5b60855ef0f7e227" title="PHG4Reco::Dump_GDML" alt="" coords="1665,589,1853,617"/>
+<area shape="rect" id="node48" href="$db/df7/classHadrontherapyDetectorConstruction.html#aad7e8923e69986c17ebbf1376d480980" title="HadrontherapyDetectorConstruction\l::HadrontherapyDetectorConstruction" alt="" coords="1621,817,1897,861"/>
+<area shape="rect" id="node50" href="$dc/d4b/ml2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1732,885,1787,913"/>
+</map>

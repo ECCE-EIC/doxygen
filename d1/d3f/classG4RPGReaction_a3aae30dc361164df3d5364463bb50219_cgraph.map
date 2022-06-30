@@ -1,0 +1,51 @@
+<map id="G4RPGReaction::Rotate" name="G4RPGReaction::Rotate">
+<area shape="rect" id="node2" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ac839b0dd2e408ee8fbbc453dfeb906f2" title="CLHEP::Hep3Vector::\lcross" alt="" coords="257,5,417,49"/>
+<area shape="rect" id="node3" href="$d1/d3f/classG4RPGReaction.html#a90ddf1b0bad12d6765396f5202f850eb" title="G4RPGReaction::Defs1" alt="" coords="250,336,425,364"/>
+<area shape="rect" id="node6" href="$dd/d77/classG4ReactionProduct.html#a503c2e1e9a73f09d2bacb83ce099941c" title="G4ReactionProduct::\lGetMomentum" alt="" coords="530,192,689,236"/>
+<area shape="rect" id="node7" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#aeef00a2607300d7c8e7fb8fd6e520102" title="CLHEP::Hep3Vector::mag" alt="" coords="788,260,979,288"/>
+<area shape="rect" id="node8" href="$dd/d77/classG4ReactionProduct.html#a05fa70c5c758741a48096fb58442e508" title="G4ReactionProduct::\lSetMomentum" alt="" coords="530,533,689,577"/>
+<area shape="rect" id="node15" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a3b24b40b735f0f3fd9ff2bf60c3046d4" title="CLHEP::Hep3Vector::dot" alt="" coords="245,593,429,621"/>
+<area shape="rect" id="node16" href="$d0/dcc/G4Exp_8hh.html#a224eb86aa032b59b4fa6398ea1eb566a" title="Exponential Function double precision." alt="" coords="304,645,371,673"/>
+<area shape="rect" id="node20" href="$db/dfe/G4Log_8hh.html#ae72e5c92ee3e3857a2617f563c9e0589" title="G4Log" alt="" coords="305,697,369,725"/>
+<area shape="rect" id="node26" href="$d3/dc0/classG4Nucleus.html#a882dd154287e9308d22775e2b986076f" title="G4Nucleus::GetA_asInt" alt="" coords="249,749,426,777"/>
+<area shape="rect" id="node27" href="$dd/d77/classG4ReactionProduct.html#a3476b2f98185c2d8ba183ea832fa8c58" title="G4ReactionProduct::\lGetDefinition" alt="" coords="258,801,417,845"/>
+<area shape="rect" id="node28" href="$da/d11/classG4HadProjectile.html#a0142202507906a04a41f28d445c9e13b" title="G4HadProjectile::GetKinetic\lEnergy" alt="" coords="233,869,441,913"/>
+<area shape="rect" id="node29" href="$dd/d77/classG4ReactionProduct.html#aed72a5f036086adf48ba677f09ff62d8" title="G4ReactionProduct::\lGetKineticEnergy" alt="" coords="258,937,417,981"/>
+<area shape="rect" id="node30" href="$d5/d38/classG4ParticleDefinition.html#a4c463e08e928a594eb5996bfb43c2191" title="G4ParticleDefinition\l::GetParticleSubType" alt="" coords="257,1005,418,1049"/>
+<area shape="rect" id="node31" href="$dd/d77/classG4ReactionProduct.html#a55475aaecd57cee6ea09f14062c701cd" title="G4ReactionProduct::\lGetTotalMomentum" alt="" coords="258,73,417,117"/>
+<area shape="rect" id="node32" href="$d1/d3f/classG4RPGReaction.html#ad5a287b549b9ff46039d12d9c9c6a62e" title="G4RPGReaction::normal" alt="" coords="246,1073,429,1101"/>
+<area shape="rect" id="node36" href="$d8/d83/classG4PionMinus.html#a393ba02f45f33284c8f508ebc9b14b95" title="G4PionMinus::PionMinus" alt="" coords="244,1125,431,1153"/>
+<area shape="rect" id="node43" href="$d0/dc2/classG4PionPlus.html#a8b9d03d0c6b25435078da1674723892b" title="G4PionPlus::PionPlus" alt="" coords="257,1177,418,1205"/>
+<area shape="rect" id="node45" href="$dc/d7f/classG4PionZero.html#aabac3119ecd6d5414a51dcad552c938e" title="G4PionZero::PionZero" alt="" coords="253,1229,421,1257"/>
+<area shape="rect" id="node47" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#add3b8958e2bbdd2a83b530e68ce6d54d" title="CLHEP::Hep3Vector::\lrotate" alt="" coords="257,473,417,517"/>
+<area shape="rect" id="node50" href="$dd/d77/classG4ReactionProduct.html#abe190540a25904e321cb9b1c2888b4c6" title="G4ReactionProduct::\lSetKineticEnergy" alt="" coords="258,1281,417,1325"/>
+<area shape="rect" id="node4" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="554,84,665,112"/>
+<area shape="rect" id="node12" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86646a7299d9b55d1ee3a27b578d30ec" title="CLHEP::Hep3Vector::x" alt="" coords="799,313,968,341"/>
+<area shape="rect" id="node13" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86ef096e76d7db9e0ea8e10eb742a576" title="CLHEP::Hep3Vector::y" alt="" coords="799,368,968,396"/>
+<area shape="rect" id="node14" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a2dcfdfeae86f250117ea40f086bb231a" title="CLHEP::Hep3Vector::z" alt="" coords="799,429,967,457"/>
+<area shape="rect" id="node5" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="795,84,971,112"/>
+<area shape="rect" id="node9" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#ad8884887834eeae070b4495de82a73c1" title="CLHEP::Hep3Vector::setX" alt="" coords="788,593,979,621"/>
+<area shape="rect" id="node10" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a509fe8a8faa83d10fcd741aaba240893" title="CLHEP::Hep3Vector::setY" alt="" coords="788,489,979,517"/>
+<area shape="rect" id="node11" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a86f1045eb36c8f912c9931f9a4b8b321" title="CLHEP::Hep3Vector::setZ" alt="" coords="788,541,979,569"/>
+<area shape="rect" id="node17" href="$d6/d3d/namespaceG4ExpConsts.html#a43fce99281fccf6a12240390cb3d356d" title="G4ExpConsts::fpfloor" alt="" coords="527,721,692,749"/>
+<area shape="rect" id="node19" href="$d6/d3d/namespaceG4ExpConsts.html#a3329e0caa20fcb41a3b5ca0f9e0b4369" title="G4ExpConsts::uint642dp" alt="" coords="515,669,704,697"/>
+<area shape="rect" id="node18" href="$d6/d3d/namespaceG4ExpConsts.html#ae65bec55d9eb97e48fade672e413332f" title="G4ExpConsts::sp2uint32" alt="" coords="789,721,977,749"/>
+<area shape="rect" id="node21" href="$d3/d9f/namespaceG4LogConsts.html#a080084213a00e3dc29211e4e578127f4" title="G4LogConsts::get_log_px" alt="" coords="513,773,705,801"/>
+<area shape="rect" id="node22" href="$d3/d9f/namespaceG4LogConsts.html#abafea919b94d1e25edf69344bdb8269a" title="G4LogConsts::get_log_qx" alt="" coords="513,825,705,853"/>
+<area shape="rect" id="node23" href="$d3/d9f/namespaceG4LogConsts.html#aab62ca6c71dcc1505d4ce94f673f1b52" title="Like frexp but vectorising and the exponent is a double." alt="" coords="489,877,729,905"/>
+<area shape="rect" id="node24" href="$d3/d9f/namespaceG4LogConsts.html#a1f15a1e0545d715b1662d9489af3643b" title="G4LogConsts::dp2uint64" alt="" coords="789,829,977,857"/>
+<area shape="rect" id="node25" href="$d3/d9f/namespaceG4LogConsts.html#acaeec03b136462b4d5e9f1fb97d6ce13" title="G4LogConsts::uint642dp" alt="" coords="789,881,977,909"/>
+<area shape="rect" id="node33" href="$da/d19/example__1_8f.html#af1c2729d53ff48a074c57e20c2d85980" title="ran" alt="" coords="588,993,631,1021"/>
+<area shape="rect" id="node34" href="$d7/deb/classRanSeed.html#ada6802aa6b0d875090ac0b87d4926455" title="RanSeed::nseed" alt="" coords="818,941,949,969"/>
+<area shape="rect" id="node35" href="$d5/dae/rlu_8f.html#a722544a6fb4dd0f67ceda726148484f5" title="rlu" alt="" coords="864,993,903,1021"/>
+<area shape="rect" id="node37" href="$d8/d83/classG4PionMinus.html#aeb880456d39effd51a89a831d874c16c" title="G4PionMinus::Definition" alt="" coords="518,1125,701,1153"/>
+<area shape="rect" id="node38" href="$d8/dd3/classG4ParticleTable.html#a891da3f41417c3800e7596fab298c3c5" title="G4ParticleTable::FindParticle" alt="" coords="777,1301,989,1329"/>
+<area shape="rect" id="node39" href="$d5/d38/classG4ParticleDefinition.html#a62ed9b48da6b7fd47ba568dd9777007f" title="G4ParticleDefinition\l::G4ParticleDefinition" alt="" coords="801,1045,965,1089"/>
+<area shape="rect" id="node40" href="$d8/dd3/classG4ParticleTable.html#a8bb5b636696da4abae3ca7ea0ea5af95" title="G4ParticleTable::GetParticle\lTable" alt="" coords="779,1113,987,1157"/>
+<area shape="rect" id="node41" href="$db/d89/classG4DecayTable.html#a3edb3d6c42c02f3554e3121f5f079f6f" title="G4DecayTable::Insert" alt="" coords="800,1181,967,1209"/>
+<area shape="rect" id="node42" href="$d5/d38/classG4ParticleDefinition.html#ad3c610e90b4ba111581b30943d66cfea" title="G4ParticleDefinition\l::SetDecayTable" alt="" coords="806,1233,961,1277"/>
+<area shape="rect" id="node44" href="$d0/dc2/classG4PionPlus.html#a5cfffef14b8502c5a679b10ff926734f" title="G4PionPlus::Definition" alt="" coords="524,1177,695,1205"/>
+<area shape="rect" id="node46" href="$dc/d7f/classG4PionZero.html#a9fd14f408a44c632e838da90167ec11d" title="G4PionZero::Definition" alt="" coords="522,1229,697,1257"/>
+<area shape="rect" id="node48" href="$dd/d65/classCLHEP_1_1HepRotation.html#a503cda995dcbaa37a6fdf795364c35bb" title="CLHEP::HepRotation\l::rotate" alt="" coords="531,413,688,457"/>
+<area shape="rect" id="node49" href="$da/dcf/classCLHEP_1_1Hep3Vector.html#a54707b5add6dad4a8c44c860f4a6f1ba" title="CLHEP::Hep3Vector::\loperator*=" alt="" coords="529,601,689,645"/>
+</map>

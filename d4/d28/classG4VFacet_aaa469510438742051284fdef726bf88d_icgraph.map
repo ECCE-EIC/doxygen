@@ -1,0 +1,31 @@
+<map id="G4VFacet::GetVertex" name="G4VFacet::GetVertex">
+<area shape="rect" id="node2" href="$da/db4/classG4TessellatedSolid.html#a52506c4b22f03939c2520a88302c60d1" title="G4TessellatedSolid\l::CalculateExtent" alt="" coords="227,148,375,192"/>
+<area shape="rect" id="node3" href="$da/db4/classG4TessellatedSolid.html#a602a669e6fa47d82c0545a321276e51c" title="G4TessellatedSolid\l::CreateVertexList" alt="" coords="227,216,375,260"/>
+<area shape="rect" id="node18" href="$da/db4/classG4TessellatedSolid.html#ae8317f286a9cbb1cde9d27ba45317253" title="G4TessellatedSolid\l::GetCubicVolume" alt="" coords="227,284,375,328"/>
+<area shape="rect" id="node19" href="$d4/d28/classG4VFacet.html#ad9ec1de0f9e5ae9fc2921668726299f4" title="G4VFacet::operator==" alt="" coords="215,352,388,380"/>
+<area shape="rect" id="node20" href="$d0/d94/classPHG4GDMLWriteSolids.html#a0f2faa6ed82bbf74fdde4ded9c9eba48" title="PHG4GDMLWriteSolids\l::TessellatedWrite" alt="" coords="215,404,388,448"/>
+<area shape="rect" id="node24" href="$d3/d4a/classG4GDMLWriteSolids.html#a6b474a7c457b2f08bdeb01330903b647" title="G4GDMLWriteSolids::\lTessellatedWrite" alt="" coords="220,501,383,545"/>
+<area shape="rect" id="node4" href="$da/db4/classG4TessellatedSolid.html#a907a016a90286b62ce1692b5e28db182" title="G4TessellatedSolid\l::SetSolidClosed" alt="" coords="449,216,597,260"/>
+<area shape="rect" id="node5" href="$da/db4/classG4TessellatedSolid.html#a25c4056e77b96ba95ce312c73ec9e0ec" title="G4TessellatedSolid\l::CopyObjects" alt="" coords="719,73,867,117"/>
+<area shape="rect" id="node9" href="$d6/dd3/classG4GenericTrap.html#a7cc2d83dcbef8644c3321572d2a09844" title="G4GenericTrap::CreateTessellated\lSolid" alt="" coords="669,185,918,229"/>
+<area shape="rect" id="node13" href="$da/d21/classG4ExtrudedSolid.html#a7280757103445b37d7f93d2b193a094c" title="G4ExtrudedSolid::MakeFacets" alt="" coords="682,253,905,281"/>
+<area shape="rect" id="node16" href="$d4/db9/classG4GDMLReadSolids.html#aba018e0556f24f212485efaa1864d23d" title="G4GDMLReadSolids::TessellatedRead" alt="" coords="657,309,929,337"/>
+<area shape="rect" id="node6" href="$da/db4/classG4TessellatedSolid.html#a08a3a0d6f522b046a3fffe5f0e3d1d73" title="G4TessellatedSolid\l::G4TessellatedSolid" alt="" coords="1017,5,1175,49"/>
+<area shape="rect" id="node7" href="$da/db4/classG4TessellatedSolid.html#a417163d25faed45d428645c1665802c7" title="G4TessellatedSolid\l::operator=" alt="" coords="1022,73,1170,117"/>
+<area shape="rect" id="node8" href="$da/d21/classG4ExtrudedSolid.html#a29ff377f9cf5e4492b86457c995d35a7" title="G4ExtrudedSolid::operator=" alt="" coords="1263,81,1475,109"/>
+<area shape="rect" id="node10" href="$d6/dd3/classG4GenericTrap.html#ae3000a4617d4e18a9a50e633e68d3e85" title="G4GenericTrap::G4GenericTrap" alt="" coords="980,141,1212,169"/>
+<area shape="rect" id="node12" href="$d6/dd3/classG4GenericTrap.html#a1d1121456fa65c4d0011ecffb981d0e0" title="G4GenericTrap::operator=" alt="" coords="997,193,1195,221"/>
+<area shape="rect" id="node11" href="$d6/dd3/classG4GenericTrap.html#a6f2362fc442ed8076aa64d7b210a5402" title="G4GenericTrap::Clone" alt="" coords="1284,141,1453,169"/>
+<area shape="rect" id="node14" href="$da/d21/classG4ExtrudedSolid.html#ad1a1805311f8ae1b91e9085e92906b9e" title="G4ExtrudedSolid::G4Extruded\lSolid" alt="" coords="984,245,1208,289"/>
+<area shape="rect" id="node15" href="$da/d21/classG4ExtrudedSolid.html#a2693c22a4c1a0d2a6ee9d2576279f23b" title="G4ExtrudedSolid::Clone" alt="" coords="1277,253,1460,281"/>
+<area shape="rect" id="node17" href="$d4/db9/classG4GDMLReadSolids.html#aaa40a604da13ce30b7e99c45277e30e7" title="G4GDMLReadSolids::SolidsRead" alt="" coords="977,313,1215,341"/>
+<area shape="rect" id="node21" href="$d0/d94/classPHG4GDMLWriteSolids.html#ae96019d064cee9517bad4aea85bd94e9" title="PHG4GDMLWriteSolids\l::AddSolid" alt="" coords="436,396,609,440"/>
+<area shape="rect" id="node22" href="$d0/d94/classPHG4GDMLWriteSolids.html#acaa5a680bf366ae99a07faf07f4cbf7c" title="PHG4GDMLWriteSolids\l::BooleanWrite" alt="" coords="707,373,880,417"/>
+<area shape="rect" id="node23" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="696,441,891,485"/>
+<area shape="rect" id="node25" href="$d3/d4a/classG4GDMLWriteSolids.html#a56cd57edf94eaef073ea210babfdf642" title="G4GDMLWriteSolids::\lAddSolid" alt="" coords="441,577,604,621"/>
+<area shape="rect" id="node26" href="$d3/d4a/classG4GDMLWriteSolids.html#aa593ed85770e41d36a58f4a2b127bb45" title="G4GDMLWriteSolids::\lBooleanWrite" alt="" coords="712,509,875,553"/>
+<area shape="rect" id="node27" href="$d3/d4a/classG4GDMLWriteSolids.html#a4c8fb61e04b60c7f22c0ca6ebd4850df" title="G4GDMLWriteSolids::\lMultiUnionWrite" alt="" coords="712,577,875,621"/>
+<area shape="rect" id="node28" href="$d3/d4a/classG4GDMLWriteSolids.html#a469d5b6f0808a7b5305ed4127f60de05" title="G4GDMLWriteSolids::\lScaledWrite" alt="" coords="712,645,875,689"/>
+<area shape="rect" id="node29" href="$d4/ded/classG4GDMLWriteStructure.html#ad618893f498c97f395b97738cb75a0a6" title="G4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="705,713,882,757"/>
+<area shape="rect" id="node30" href="$d4/ded/classG4GDMLWriteStructure.html#a7b590030f21824be91b222b540b9ad19" title="G4GDMLWriteStructure\l::AssemblyWrite" alt="" coords="1007,713,1185,757"/>
+</map>

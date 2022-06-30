@@ -1,0 +1,29 @@
+<map id="G4DNAElectronHoleRecombination::AtRestDoIt" name="G4DNAElectronHoleRecombination::AtRestDoIt">
+<area shape="rect" id="node2" href="$d9/d54/classG4VITProcess.html#a8b8c7a309240185582470584b7798753" title="G4VITProcess::ClearInteraction\lTimeLeft" alt="" coords="325,428,554,472"/>
+<area shape="rect" id="node3" href="$d9/d54/classG4VITProcess.html#ade77e84d7c8813e7a26d1b43f55c12fc" title="G4VITProcess::ClearNumber\lOfInteractionLengthLeft" alt="" coords="333,496,545,540"/>
+<area shape="rect" id="node4" href="$d2/d06/classG4ParticleChange.html#ac0e464b1e58e7180b645b4ff9516281a" title="G4ParticleChange::Initialize" alt="" coords="639,457,847,485"/>
+<area shape="rect" id="node18" href="$db/dfe/classG4DNAElectronHoleRecombination.html#a76c636d691e40716ec37549615aac305" title="G4DNAElectronHoleRecombination\l::MakeReaction" alt="" coords="311,684,568,728"/>
+<area shape="rect" id="node5" href="$d6/d6c/classG4VParticleChange.html#a87dc2247a22d7c2ac0422efa03bbae75" title="G4VParticleChange::\lInitialize" alt="" coords="946,637,1106,681"/>
+<area shape="rect" id="node6" href="$d1/d33/classG4Track.html#a1dd96352858e4c1c6024af3b0b06da53" title="G4Track::GetDynamicParticle" alt="" coords="917,5,1135,33"/>
+<area shape="rect" id="node7" href="$d7/d5c/classG4DynamicParticle.html#aba63ef4aeef93871bec7279ada8391da" title="G4DynamicParticle::\lGetKineticEnergy" alt="" coords="947,57,1105,101"/>
+<area shape="rect" id="node8" href="$d1/d33/classG4Track.html#ad512beb09f792b9063df9de0a56c6d21" title="G4Track::GetVelocity" alt="" coords="945,125,1107,153"/>
+<area shape="rect" id="node9" href="$d7/d5c/classG4DynamicParticle.html#aaba41bb642473c73ec49f73a234a47cb" title="G4DynamicParticle::\lGetMomentumDirection" alt="" coords="935,177,1117,221"/>
+<area shape="rect" id="node10" href="$d7/d5c/classG4DynamicParticle.html#a83f6cf4a048f356f45439b9fe60da986" title="G4DynamicParticle::\lGetPolarization" alt="" coords="947,245,1105,289"/>
+<area shape="rect" id="node11" href="$d7/d5c/classG4DynamicParticle.html#a40ba834a495be7dac050257449e20211" title="G4DynamicParticle::\lGetProperTime" alt="" coords="947,313,1105,357"/>
+<area shape="rect" id="node12" href="$d7/d5c/classG4DynamicParticle.html#a70dad8924abf2a8dec96b142eb161b8a" title="G4DynamicParticle::\lGetMass" alt="" coords="947,381,1105,425"/>
+<area shape="rect" id="node13" href="$d7/d5c/classG4DynamicParticle.html#a25422607b7822f675f845a9d2f7abd39" title="G4DynamicParticle::\lGetCharge" alt="" coords="947,449,1105,493"/>
+<area shape="rect" id="node14" href="$d7/d5c/classG4DynamicParticle.html#a3b96233fcb3d586d7bf8b60718faeb00" title="G4DynamicParticle::\lGetMagneticMoment" alt="" coords="945,517,1107,561"/>
+<area shape="rect" id="node15" href="$d1/d33/classG4Track.html#a08fd8a9255aa80838f420fdb9bac5db4" title="G4Track::GetPosition" alt="" coords="945,705,1107,733"/>
+<area shape="rect" id="node16" href="$d1/d33/classG4Track.html#a70077e82fa447fe7695784ddf733a647" title="G4Track::GetLocalTime" alt="" coords="937,585,1115,613"/>
+<area shape="rect" id="node17" href="$d1/d33/classG4Track.html#a622d0ee6fea7ac48d573eda15d113f71" title="G4Track::GetGlobalTime" alt="" coords="933,757,1119,785"/>
+<area shape="rect" id="node19" href="$db/d48/classG4VMoleculeCounter.html#aabc5c0ebe2cbfe21db1f591625c9223b" title="G4VMoleculeCounter\l::InUse" alt="" coords="661,769,825,813"/>
+<area shape="rect" id="node20" href="$db/d48/classG4VMoleculeCounter.html#a7c5075470b7525237c06e3a1f9f84a68" title="G4VMoleculeCounter\l::Instance" alt="" coords="661,837,825,881"/>
+<area shape="rect" id="node21" href="$d8/d41/G4Molecule_8hh.html#a75a27630387017f1e6bce5a322b6be12" title="GetMolecule" alt="" coords="690,905,795,933"/>
+<area shape="rect" id="node24" href="$d9/d66/classG4Molecule.html#a519847ef382c4c9eea60a9446c898fc5" title="G4Molecule::ChangeConfiguration\lToLabel" alt="" coords="616,969,869,1013"/>
+<area shape="rect" id="node27" href="$d6/d6c/classG4VParticleChange.html#a429896254e73a3af95f7292dd44dff75" title="G4VParticleChange::\lProposeTrackStatus" alt="" coords="663,547,823,591"/>
+<area shape="rect" id="node28" href="$d1/d33/classG4Track.html#a0a9a76ea090ffed99910bb848b113380" title="G4Track::SetTrackStatus" alt="" coords="650,615,835,643"/>
+<area shape="rect" id="node22" href="$dd/d74/G4IT_8hh.html#aff394e4396b62288d86b9a2ff71c8091" title="GetIT" alt="" coords="997,893,1055,921"/>
+<area shape="rect" id="node23" href="$d1/d33/classG4Track.html#a9fa73f1e91def2ba71f1478c7e96a441" title="G4Track::GetUserInformation" alt="" coords="1183,893,1400,921"/>
+<area shape="rect" id="node25" href="$dc/da7/classG4MolecularConfiguration.html#ad875e136b91e7efc5842efadc4f86895" title="G4MolecularConfiguration\l::GetMolecularConfiguration" alt="" coords="921,969,1131,1013"/>
+<area shape="rect" id="node26" href="$dc/da7/classG4MolecularConfiguration.html#a83be9f08bf67bb825abc8a8644c2bfde" title="G4MolecularConfiguration\l::GetDefinition" alt="" coords="927,1037,1125,1081"/>
+</map>

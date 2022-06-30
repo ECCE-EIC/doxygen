@@ -1,0 +1,27 @@
+var dir_dd92863f297cf60b993f5180ad16cc86 =
+[
+    [ "G4eplusPolarizedAnnihilation.cc", "db/da6/G4eplusPolarizedAnnihilation_8cc.html", null ],
+    [ "G4ePolarizedBremsstrahlung.cc", "de/d4e/G4ePolarizedBremsstrahlung_8cc.html", null ],
+    [ "G4ePolarizedBremsstrahlungModel.cc", "d4/dd6/G4ePolarizedBremsstrahlungModel_8cc.html", null ],
+    [ "G4ePolarizedIonisation.cc", "dd/da1/G4ePolarizedIonisation_8cc.html", null ],
+    [ "G4PolarizationHelper.cc", "d7/db1/G4PolarizationHelper_8cc.html", null ],
+    [ "G4PolarizationManager.cc", "dd/dce/G4PolarizationManager_8cc.html", null ],
+    [ "G4PolarizationMessenger.cc", "d8/dbd/G4PolarizationMessenger_8cc.html", null ],
+    [ "G4PolarizedAnnihilationCrossSection.cc", "df/d1a/G4PolarizedAnnihilationCrossSection_8cc.html", null ],
+    [ "G4PolarizedAnnihilationModel.cc", "de/d32/G4PolarizedAnnihilationModel_8cc.html", null ],
+    [ "G4PolarizedBhabhaCrossSection.cc", "dd/d7d/G4PolarizedBhabhaCrossSection_8cc.html", null ],
+    [ "G4PolarizedBremsstrahlungCrossSection.cc", "d8/d0c/G4PolarizedBremsstrahlungCrossSection_8cc.html", null ],
+    [ "G4PolarizedCompton.cc", "d2/db4/G4PolarizedCompton_8cc.html", null ],
+    [ "G4PolarizedComptonCrossSection.cc", "d2/d06/G4PolarizedComptonCrossSection_8cc.html", null ],
+    [ "G4PolarizedComptonModel.cc", "dc/d2b/G4PolarizedComptonModel_8cc.html", "dc/d2b/G4PolarizedComptonModel_8cc" ],
+    [ "G4PolarizedGammaConversion.cc", "d4/db5/G4PolarizedGammaConversion_8cc.html", null ],
+    [ "G4PolarizedGammaConversionModel.cc", "df/dc8/G4PolarizedGammaConversionModel_8cc.html", null ],
+    [ "G4PolarizedMollerBhabhaModel.cc", "dc/d45/G4PolarizedMollerBhabhaModel_8cc.html", null ],
+    [ "G4PolarizedMollerCrossSection.cc", "d7/db6/G4PolarizedMollerCrossSection_8cc.html", null ],
+    [ "G4PolarizedPairProductionCrossSection.cc", "d9/d50/G4PolarizedPairProductionCrossSection_8cc.html", null ],
+    [ "G4PolarizedPEEffectCrossSection.cc", "d3/df8/G4PolarizedPEEffectCrossSection_8cc.html", null ],
+    [ "G4PolarizedPEEffectModel.cc", "d9/da1/G4PolarizedPEEffectModel_8cc.html", null ],
+    [ "G4PolarizedPhotoElectricEffect.cc", "d5/d23/G4PolarizedPhotoElectricEffect_8cc.html", null ],
+    [ "G4StokesVector.cc", "da/d40/G4StokesVector_8cc.html", null ],
+    [ "G4VPolarizedCrossSection.cc", "de/dfa/G4VPolarizedCrossSection_8cc.html", null ]
+];

@@ -1,0 +1,28 @@
+var classG4MagHelicalStepper =
+[
+    [ "G4MagHelicalStepper", "d5/d53/classG4MagHelicalStepper.html#a95b624c5ab9e902ea72777c79776221e", null ],
+    [ "~G4MagHelicalStepper", "d5/d53/classG4MagHelicalStepper.html#a95945512b09a669e7db80e3a1d4e998d", null ],
+    [ "G4MagHelicalStepper", "d5/d53/classG4MagHelicalStepper.html#ac56d929b29e2543e930d925013ce82cd", null ],
+    [ "AdvanceHelix", "d5/d53/classG4MagHelicalStepper.html#a33b29ffe111f4ca57aed5d530a8ad745", null ],
+    [ "DistChord", "d5/d53/classG4MagHelicalStepper.html#a5f222b79e9abb8a300efb1a3b19199d9", null ],
+    [ "DumbStepper", "d5/d53/classG4MagHelicalStepper.html#a6a20630cb81c4e3b84e035417aa909d3", null ],
+    [ "GetAngCurve", "d5/d53/classG4MagHelicalStepper.html#aed18bd87b8c951cb6baac5c272e0b7c9", null ],
+    [ "GetCurve", "d5/d53/classG4MagHelicalStepper.html#a286839677bdf8cfeca596c521148f890", null ],
+    [ "GetInverseCurve", "d5/d53/classG4MagHelicalStepper.html#aa379507d718426e0ff1798a7023b584c", null ],
+    [ "GetRadHelix", "d5/d53/classG4MagHelicalStepper.html#a987792e48990a1a97cf99eb324db358c", null ],
+    [ "LinearStep", "d5/d53/classG4MagHelicalStepper.html#a3a8ae916f411c84a4ab6d7b453f46903", null ],
+    [ "MagFieldEvaluate", "d5/d53/classG4MagHelicalStepper.html#a7c964ffa144a63f281a71487330a34d1", null ],
+    [ "operator=", "d5/d53/classG4MagHelicalStepper.html#ae29f2bda8916af5733b4161b81791fc3", null ],
+    [ "SetAngCurve", "d5/d53/classG4MagHelicalStepper.html#af5a8ba421708534dc5a02a8221ed7ba2", null ],
+    [ "SetCurve", "d5/d53/classG4MagHelicalStepper.html#a152ddb55968c4f90013ec931e52f4992", null ],
+    [ "SetRadHelix", "d5/d53/classG4MagHelicalStepper.html#a698a92d5f408dc5d0d7ccb4d83acd673", null ],
+    [ "Stepper", "d5/d53/classG4MagHelicalStepper.html#ad72b77d3dd7ac6c2899877a37aca6ed4", null ],
+    [ "fAngCurve", "d5/d53/classG4MagHelicalStepper.html#ad4d3fbd72cbc8355979196113c06da4d", null ],
+    [ "fPtrMagEqOfMot", "d5/d53/classG4MagHelicalStepper.html#a21cea6e1485d89f22dc5b4901d4a75cf", null ],
+    [ "frCurve", "d5/d53/classG4MagHelicalStepper.html#a24c9061c8c5900caf00a180763670dd5", null ],
+    [ "frHelix", "d5/d53/classG4MagHelicalStepper.html#a2d834da219a00d97b814f9d8f91223af", null ],
+    [ "fUnitConstant", "d5/d53/classG4MagHelicalStepper.html#a13232dc7ee5c57644b3a3bd388ece65f", null ],
+    [ "yFinal", "d5/d53/classG4MagHelicalStepper.html#a47ca681f5bda7fbb7069935bff9dc8c3", null ],
+    [ "yInitial", "d5/d53/classG4MagHelicalStepper.html#a7973b91b6f8a7fc7f44df613f350102d", null ],
+    [ "yMidPoint", "d5/d53/classG4MagHelicalStepper.html#a8a3e72fe662d06cb42dddfdfd551bbf8", null ]
+];

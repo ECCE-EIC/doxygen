@@ -1,0 +1,35 @@
+<map id="geant4/tree/geant4&#45;10.6&#45;release/source/geometry/biasing/src/G4WeightWindowStore.cc" name="geant4/tree/geant4&#45;10.6&#45;release/source/geometry/biasing/src/G4WeightWindowStore.cc">
+<area shape="rect" id="node2" href="$de/dd5/G4WeightWindowStore_8hh.html" title="G4WeightWindowStore.hh" alt="" coords="112,585,309,613"/>
+<area shape="rect" id="node16" href="$d2/d16/G4VPhysicalVolume_8hh.html" title="G4VPhysicalVolume.hh" alt="" coords="1453,509,1629,537"/>
+<area shape="rect" id="node33" href="$dd/da7/G4LogicalVolume_8hh.html" title="G4LogicalVolume.hh" alt="" coords="2245,433,2405,461"/>
+<area shape="rect" id="node37" href="$d3/df8/G4GeometryCellStepStream_8hh.html" title="G4GeometryCellStepStream.hh" alt="" coords="334,585,567,613"/>
+<area shape="rect" id="node39" href="$d1/d2e/G4TransportationManager_8hh.html" title="G4TransportationManager.hh" alt="" coords="1799,129,2017,157"/>
+<area shape="rect" id="node3" href="$da/d6a/G4VWeightWindowStore_8hh.html" title="G4VWeightWindowStore.hh" alt="" coords="43,737,250,765"/>
+<area shape="rect" id="node10" href="$d2/d6b/G4GeometryCellWeight_8hh.html" title="G4GeometryCellWeight.hh" alt="" coords="211,661,413,689"/>
+<area shape="rect" id="node4" href="$da/d46/globals_8hh.html" title="globals.hh" alt="" coords="691,813,781,841"/>
+<area shape="rect" id="node6" href="$de/d29/G4Types_8hh.html" title="G4Types.hh" alt="" coords="1745,889,1845,917"/>
+<area shape="rect" id="node9" href="$d0/d00/tls_8hh.html" title="tls.hh" alt="" coords="1765,965,1824,993"/>
+<area shape="rect" id="node12" href="$d6/d01/G4GeometryCell_8hh.html" title="G4GeometryCell.hh" alt="" coords="544,737,699,765"/>
+<area shape="rect" id="node13" href="$dc/dd6/G4GeometryCellComp_8hh.html" title="G4GeometryCellComp.hh" alt="" coords="326,737,519,765"/>
+<area shape="rect" id="node18" href="$d0/d7b/geomdefs_8hh.html" title="geomdefs.hh" alt="" coords="1181,585,1291,613"/>
+<area shape="rect" id="node19" href="$d4/de4/G4RotationMatrix_8hh.html" title="G4RotationMatrix.hh" alt="" coords="643,585,803,613"/>
+<area shape="rect" id="node20" href="$d8/dbe/G4ThreeVector_8hh.html" title="G4ThreeVector.hh" alt="" coords="960,661,1101,689"/>
+<area shape="rect" id="node23" href="$db/d63/G4GeomSplitter_8hh.html" title="G4GeomSplitter.hh" alt="" coords="1845,585,1995,613"/>
+<area shape="rect" id="node22" href="$d0/d8f/Rotation_8h.html" title="CLHEP/Vector/Rotation.h" alt="" coords="750,661,935,689"/>
+<area shape="rect" id="node21" href="$dd/dbb/ThreeVector_8h.html" title="CLHEP/Vector/ThreeVector.h" alt="" coords="891,737,1101,765"/>
+<area shape="rect" id="node24" href="$d9/ddb/geomwdefs_8hh.html" title="geomwdefs.hh" alt="" coords="1755,661,1875,689"/>
+<area shape="rect" id="node25" href="$d8/d7b/G4AutoLock_8hh.html" title="G4AutoLock.hh" alt="" coords="1949,661,2072,689"/>
+<area shape="rect" id="node26" href="$d9/d7a/G4Threading_8hh.html" title="G4Threading.hh" alt="" coords="1997,737,2128,765"/>
+<area shape="rect" id="node34" href="$d1/d02/G4Region_8hh.html" title="G4Region.hh" alt="" coords="1934,509,2042,537"/>
+<area shape="rect" id="node38" href="$dd/d4f/G4GeometryCellStep_8hh.html" title="G4GeometryCellStep.hh" alt="" coords="489,661,674,689"/>
+<area shape="rect" id="node40" href="$dc/d33/G4Navigator_8hh.html" title="G4Navigator.hh" alt="" coords="1154,281,1281,309"/>
+<area shape="rect" id="node49" href="$d3/d97/G4SafetyHelper_8hh.html" title="G4SafetyHelper.hh" alt="" coords="1730,205,1878,233"/>
+<area shape="rect" id="node41" href="$d4/d98/G4AffineTransform_8hh.html" title="G4AffineTransform.hh" alt="" coords="979,509,1147,537"/>
+<area shape="rect" id="node42" href="$d4/d7f/G4GRSVolume_8hh.html" title="G4GRSVolume.hh" alt="" coords="691,357,831,385"/>
+<area shape="rect" id="node43" href="$df/d0f/G4GRSSolid_8hh.html" title="G4GRSSolid.hh" alt="" coords="489,509,612,537"/>
+<area shape="rect" id="node44" href="$dd/d1b/G4TouchableHandle_8hh.html" title="G4TouchableHandle.hh" alt="" coords="855,357,1033,385"/>
+<area shape="rect" id="node45" href="$dd/d04/G4TouchableHistoryHandle_8hh.html" title="G4TouchableHistoryHandle.hh" alt="" coords="1057,357,1282,385"/>
+<area shape="rect" id="node46" href="$d2/d57/G4NavigationHistory_8hh.html" title="G4NavigationHistory.hh" alt="" coords="1577,433,1757,461"/>
+<area shape="rect" id="node47" href="$d6/d30/G4NormalNavigation_8hh.html" title="G4NormalNavigation.hh" alt="" coords="1703,357,1886,385"/>
+<area shape="rect" id="node48" href="$d0/ddf/G4VoxelNavigation_8hh.html" title="G4VoxelNavigation.hh" alt="" coords="1457,357,1628,385"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="FGEMSetup" name="FGEMSetup">
+<area shape="rect" id="node2" href="$de/d55/G4__GEM__EIC_8C.html#a3fc37785e8ede6c40058f637059e6cb5" title="make_GEM_station" alt="" coords="152,676,300,704"/>
+<area shape="rect" id="node3" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a620e565f65b2db15edd2a7280d358afa" title="Pseudorapidity." alt="" coords="355,5,587,49"/>
+<area shape="rect" id="node4" href="$da/dca/classPHG4SectorSubsystem.html#a0efd3300cd173695d7a86b79cb32e96e" title="PHG4SectorSubsystem\l::SuperDetector" alt="" coords="383,73,559,117"/>
+<area shape="rect" id="node5" href="$da/dca/classPHG4SectorSubsystem.html#a18e65911a43c5a9015131793352809b5" title="geometry manager PHG4Sector::Sector_Geometry" alt="" coords="643,143,819,187"/>
+<area shape="rect" id="node6" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ac042fcc88d51f5acb127fb21855dc924" title="PHG4Sector::Sector\l_Geometry::set_normal\l_polar_angle" alt="" coords="382,380,561,440"/>
+<area shape="rect" id="node7" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a1f06572e747703b474e2b159e0e55c20" title="PHG4Sector::Sector\l_Geometry::set_normal_start" alt="" coords="363,464,580,508"/>
+<area shape="rect" id="node8" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a25e5972d8c166894349fce19418777cb" title="Unit." alt="" coords="651,228,810,272"/>
+<area shape="rect" id="node9" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a770affc63d6d1bf81df223e2d5237309" title="PHG4Sector::Sector\l_Geometry::set_min_polar_angle" alt="" coords="350,532,593,576"/>
+<area shape="rect" id="node10" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ac52b2fa6cdc3f699bc5ea62072ac69a6" title="PHG4Sector::Sector\l_Geometry::set_max_polar_angle" alt="" coords="348,600,595,644"/>
+<area shape="rect" id="node11" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#adf4ff55a25e6cb0e3d0e1def21250235" title="PHG4Sector::Sector\l_Geometry::set_max_polar_edge" alt="" coords="350,668,593,712"/>
+<area shape="rect" id="node12" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a97b24275f8f8258b2a7a942f0f10a450" title="PHG4Sector::Sector\l_Geometry::FlatEdge" alt="" coords="389,736,553,780"/>
+<area shape="rect" id="node13" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a5384335a1976554c92e23854e64e0c92" title="PHG4Sector::Sector\l_Geometry::set_min_polar_edge" alt="" coords="352,804,591,848"/>
+<area shape="rect" id="node14" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a46f87fc9d05f391bca5ea6238db6848b" title="PHG4Sector::Sector\l_Geometry::set_N_Sector" alt="" coords="375,872,567,916"/>
+<area shape="rect" id="node15" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a83a31bf9617f2af840150315ec00d94a" title="PHG4Sector::Sector\l_Geometry::set_material" alt="" coords="377,940,565,984"/>
+<area shape="rect" id="node16" href="$db/df7/classPHG4Subsystem.html#a23501010ac65db7c2bc31c02c5945ecb" title="PHG4Subsystem::OverlapCheck" alt="" coords="353,1008,590,1036"/>
+<area shape="rect" id="node17" href="$de/d55/G4__GEM__EIC_8C.html#ae537275843a8e7603cc6f0a7383e5646" title="Add drift layers to mini TPC." alt="" coords="391,244,552,272"/>
+<area shape="rect" id="node19" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ab051a45fb6288d8421b723c1a37f0ec5" title="PHG4Sector::Sector\l_Geometry::AddLayers\l_HBD_GEM" alt="" coords="383,296,559,356"/>
+<area shape="rect" id="node20" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="358,1060,585,1088"/>
+<area shape="rect" id="node21" href="$da/d7b/namespaceTRACKING.html#abea0354e9189613ed3a8c24c37cfa44a" title="TRACKING::FastKalmanFilter" alt="" coords="365,1112,577,1140"/>
+<area shape="rect" id="node22" href="$d9/d91/classPHG4TrackFastSim.html#a7a3b6439d458018d2e46dc588c6964c5" title="PHG4TrackFastSim::add\l_phg4hits" alt="" coords="381,1164,561,1208"/>
+<area shape="rect" id="node23" href="$d9/d91/classPHG4TrackFastSim.html#a11efcc8368df3b79e5adedbdb25d6328" title="PHG4TrackFastSim::add\l_zplane_state" alt="" coords="381,1232,561,1276"/>
+<area shape="rect" id="node24" href="$da/d7b/namespaceTRACKING.html#a788a844774c2dba8df14e41ca3b235c5" title="TRACKING::FastKalmanFilter\lInnerTrack" alt="" coords="365,1300,577,1344"/>
+<area shape="rect" id="node18" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#af8d0b17890420cd9656d7d8eaf55cc41" title="PHG4Sector::Sector\l_Geometry::AddLayer" alt="" coords="646,296,815,340"/>
+</map>
